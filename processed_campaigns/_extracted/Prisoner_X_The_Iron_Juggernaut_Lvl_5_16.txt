@@ -1,0 +1,553 @@
+             PRISONER X
+               THE IRON JUGGERNAUT
+                    LEVEL SCALING
+                        5 – 16
+
+SURVIVE A GAUNTLET OF DEADLY TRAPS AND DEFEAT THE IRON
+ JUGGERNAUT IN THIS EASY-TO-RUN ADVENTURE + BOSS FIGHT
+
+
+                                           Liber Obscura 004
+  “The path to redemption is a treacherous journey walked alone,
+     each step resonating with the sorrow of a thousand sins."
+
+
+
+
+                                    CREDITS
+Writer/Designer: Alexander H. Dovermann   Produced by: Bestiarum Games
+          his module can be run as a one-shot         Juggernaut’s impending escape, sends an
+          or as part of a persistent dark fantasy     urgent call for assistance. The party must
+
+
+T         campaign using Bestiarum’s Path of
+          Penitence (PoP) system. Creatures
+          and items marked with an asterisk (*)
+          are new. Their information can be
+                                                      infiltrate the floor, bypassing its deadly
+                                                      labyrinth of traps to confront the Juggernaut
+                                                      and stop it from escaping.
+
+found at the end of the adventure.                    Adventure Hooks
+                                                      The adventure kicks off as the party arrives at
+Tier II. This adventure scales in difficulty
+                                                      the Panopticon in response to the warden's
+based on your party’s Average Party Level
+                                                      distress call. To build the narrative further,
+(APL). Use the following table to determine
+                                                      start when the party receives the call for aid or
+the appropriate difficulty for your party. If your
+                                                      discovers the impending escape themselves!
+party finds the scenario too easy or hard, you
+can shift difficulties, even mid adventure!
+                                                      Opening Script
+ADVENTURE DIFFICULTY                                  To start the adventure read this script.
+
+    Difficulty              APL
+                                                        You’ve come to the imposing Panopticon, a
+                                                        fortress prison, in response to a dire request
+    Medium                  5–7
+                                                        for aid. As you approach the keep’s outer
+                                                        drawbridge, you are greeted by a nervous
+    Hard                    8 – 10                      guard who escorts you past a solid iron gate
+                                                        as thick as an old oak tree. On the other side,
+    Nightmare               11 – 13                     you are greeted by Warden Ingfar, a grizzled
+                                                        veteran who speaks in a terse voice.
+    Torment                 14 – 16                        "Thank you for coming. I'll be frank, we're
+                                                        dealing with a potential catastrophe here.
+                                                        One of our deadliest prisoners, the Iron
+Adventure Introduction                                  Juggernaut, is restless. If it breaks free, the
+The Panopticon is a high-security prison                consequences will be unimaginable."
+designed to hold the realm's deadliest                     Taking a deep breath, Warden Ingfar locks
+                                                        eyes with each one of you, "The 10th floor is
+prisoners, each floor filled with wards and
+                                                        where the Iron Juggernaut is held. That's
+traps designed to contain a single prisoner.
+                                                        where you need to go. You’ll have to deal with
+The Panopticon’s 10th floor holds the Iron
+                                                        the traps along the way, so be careful. When
+Juggernaut, a giant known for its sheer power
+                                                        you get to the prisoner, do whatever it takes
+and near-invulnerability.
+                                                        to stop it from escaping. We can't let that
+   But something is amiss. Tremors and
+                                                        monster be unleashed upon the realm."
+bellowing screams have been emanating from
+the 10th floor. Warden Ingfar, fearing the Iron
+
+2                          Liber Obscura 004 – Prisoner X: The Iron Juggernaut
+               FLOOR 10                                    With that, the guard leaves you staring at
+                                                        the entrance to floor ten. Blocking your way
+The Panopticon’s 10th floor is a labyrinth              forward is a towering iron door embedded
+designed to contain the Iron Juggernaut. Stark          into the stone wall. Intricate carvings of
+and oppressive, the floor is filled with traps,         chains and locks decorate its surface. A large,
+wards, and wandering machines to deter any              copper keyhole is cut into at the door's
+who approach or attempt to leave. Read this             center. Next to the door, etched into the
+script once the party agrees to help.                   stone, are a two glyphs that softly glow in a
+                                                        muted, pulsating azure and orange.
+
+ Warden Ingfar calls a guard to escort you
+ through the prison keep to the tenth floor
+ where the Iron Juggernaut is housed. You
+                                                      Prison Labyrinth
+                                                      The guard leaves the party at the entrance of
+ begin your descent of the Panopticon’s
+ central winding staircase, glimpsing the             the labyrinth section with a key to the floor
+ keep’s vast interior, an enormous circular           and a torch. They must proceed through the
+ facility constructed from giant solid stone          door to reach the prisoner’s cell. The map is
+ blocks and iron buttresses.                          represented by the following areas.
+     As you descend level by level, the guard
+ explains that the keep consists of twenty five       Magical Warding. This location is warded
+ descending floors, each housing a single             against magic. The following rules persists
+ prisoner. Each floor is a deadly labyrinth           throughout the entire area.
+ bristling with a traps and powerful wards,
+ protecting a solitary cell where the prisoner is
+                                                        Transmutation Ward. Within the warded
+ housed. The cells are each unique, designed
+                                                        area, spells cast from this school of magic
+ specifically to contain each inmate.
+                                                        cost twice as many spell slots, and all effects
+     As you descend, the fortress suddenly
+                                                        of spells from this school last up to a
+ trembles and shudders, sending a crack
+                                                        maximum of 6 seconds in duration.
+ splintering through a stone block under your
+ feet. The small earthquake is a grim reminder
+ of the urgency of your mission; if the Iron
+ Juggernaut continues to stir unrest, the               Conjuration Ward. Within the warded area,
+ structural integrity of the entire Panopticon          spells cast from this school of magic cost
+ might be compromised.                                  twice as many spell slots, and all effects of
+     Upon reaching the threshold of the tenth           spells from this school last up to a maximum
+ floor, the guard halts, a note of fear in his          of 6 seconds in duration.
+ voice as he hands you a heavy copper key and
+ a fresh torch, "This is where I leave you. We
+ pray for your safe return."
+
+
+
+                           Liber Obscura 004 – Prisoner X: The Iron Juggernaut                            3
+4   Liber Obscura 004 – Prisoner X: The Iron Juggernaut
+1) Floor 10 Landing                                  corridor lined with rows of iron sconces. As
+                                                     the party enters this area, read this script.
+A massive iron door bars the path into the
+labyrinth. Two arcane glyphs can be seen next
+to the door, indicating that the entire floor has      The passageway narrows to a long, straight
+been warded against two separate schools of            corridor. The hewn stone walls are lined with
+magic.                                                 empty iron sconces. The path ahead is clear.
+
+Ward Knowledge. To interpret the glyphs, a
+PC may make a DC 15 Intelligence (Arcana)            Trap Activation
+                                                     The trap is activated by a magical motion
+check. Success reveals the glyphs signify the
+                                                     sensor that detects creatures moving through
+area is warded against transmutation and
+                                                     the location marked on the map, halfway
+conjuration spells. The ward is persistent
+                                                     through the long corridor. As soon as any
+throughout the area and cannot be dispelled.
+                                                     creature passes through the trigger spot, the
+   Alternatively, if the party think to ask the
+                                                     trap activates, and flames spew throughout the
+guard about the glyphs before he leaves, he
+                                                     corridor. Read this script when this happens
+can provide them with this information.
+                                                     the first time.
+Opening the Door. The entrance door is
+locked but can be opened with the key                  A low rumble echoes through the passage,
+provided by the guard. It is extremely heavy,          followed by a sudden rush of air that stirs the
+requiring a DC 15 Strength check to push               dust off the floor. Moments later, the sconces
+open a single inch. However, the party can try         lining the walls ignite into a roaring inferno,
+as many times as needed to open it wide                engulfing the hallway in flames. The heat hits
+enough to enter. When the party opens the              you like a physical blow, the air growing thick
+door and enters, read this script.                     with the smell of burning oil.
+
+
+ You push the heavy iron door open wide              Trap Effects
+ enough to slip through and find a dark              Once activated, the entire hallway is engulfed
+ passageway behind. The air within is heavy          in spouts of flame for the next 12 seconds. All
+ with dust and the smell of rusting iron             creatures in the hallway immediately take fire
+ chains, a reminder of the Panopticon's grim         damage upon the trap’s activation, and each
+ purpose.                                            time they end their turn in the hallway while it
+                                                     is active. but with a successful DC 15
+                                                     Dexterity saving throw, a creature takes half
+2) Flame Corridor                                    as much damage.
+The first challenge the party encounters after
+stepping through the iron door is a long, stone
+
+
+
+                          Liber Obscura 004 – Prisoner X: The Iron Juggernaut                            5
+FLAME CORRIDOR TRAP                                  3) Watch Post
+                                                     Beyond the fiery corridor is a more hospitable
+    Difficulty            Fire Damage
+                                                     room. Once used as a maintenance post for
+    Medium                11 (2d10)                  the guards tasked with upkeeping the
+                                                     labyrinth's traps and mechanisms, it now
+                                                     serves as a temporary post for bandits allied
+    Hard                  16 (3d10)
+                                                     with the Iron Juggernaut. The bandits
+                                                     remaining here have been tasked to deter any
+    Nightmare             22 (4d10)
+                                                     intruders while their companions delve further
+                                                     into the prison to free the Iron Juggernaut.
+    Torment               27 (5d10)
+                                                        Various tools and supplies are scattered
+                                                     about, hinting at the room's original purpose,
+Spotting the Trap                                    but signs of recent habitation - makeshift beds,
+A PC can spot holes in the sconces that may          a smoldering fire pit, and the smell of stale
+indicate they are dangerous by passing a DC          food - reveal its current occupants. Read this
+10 Intelligence (Investigation) check. They          script as the party enters.
+may also detect the magical motion detection
+sensor in the middle of the hallway by                 You step into the next room, finding a small
+detecting magic or passing a DC 15                     chamber scattered with various tools and
+Intelligence (Investigation) check.                    supply crates. Makeshift beds are laid out in
+                                                       one corner and a fire pit smolders in the
+Disabling the Trap                                     center. The smell of stale food hangs heavy in
+To disable the trap, the party can spot a lever        the air, mixing with the musty scent of stone
+located at the end of the hallway with a DC 15         and iron. It looks like someone has been
+Wisdom (Perception) check, or automatically            living here recently.
+if they are looking for it after finding and
+reading the blueprint notes in area 3.
+    Lever. If a creature manages to reach the        Bandit Patrol Encounter
+                                                     Give the party a moment to check for any
+lever and pull it, the flames extinguish and the
+                                                     ambushes if they are suspicious. Then,
+trap deactivates, making the hallway safe to
+                                                     instigate an attack by the bandits. The bandits
+pass through for the next 24 hours.
+                                                     are hiding behind supply crates ready to
+    Sensor. The trap is also disabled if its
+                                                     ambush any intruders.
+magic sensor is dispelled. The sensor is an
+invisible magic ward that counts as a 4th level
+spell.
+
+
+
+
+6                         Liber Obscura 004 – Prisoner X: The Iron Juggernaut
+AREA 3 ENCOUNTER
+ Difficulty              Enemies
+
+ Medium                  2 bandit captains
+                         5 bandits
+
+ Hard                    2 veterans
+                         4 bandits
+
+ Nightmare               2 veterans                  4) Pendulum Bridge
+                         3 bandit captains           In the next room is another challenge. A long
+                                                     bridge across of which three large, bladed
+ Torment                 6 veterans                  pendulums swing. Read this script as the party
+                                                     enters the room.
+
+Room Features
+After defeating the bandits, the party can             The next room is enormous, a massive,
+always use this room to take a safe short rest.        vaulted chamber dropping to a lowered floor
+They can also search the room for anything             below. Stretching across the room is a narrow
+useful left behind by the original guards.             stone bridge. As your eyes adjust to the
+   Stash of Potions. A successful DC 10                gloom, you see a series of three massive,
+                                                       scythed pendulums swinging in rhythm,
+Wisdom (Perception) check reveals a hidden
+                                                       cutting through gaps in the bridge.
+stash of healing potions left by the guards. The
+stash contains 1d4 potions of greater healing.
+   Blueprint. A successful DC 15                     Bridge & Trap Mechanics
+Intelligence (Investigation) check reveals a set     The bridge is constructed in four sections,
+of worn blueprints on a table written in             split by three five-foot gaps across which a
+Thieves’ Cant, detailing some parts of the           crossing creature must jump. Their jump must
+labyrinth, most notably the mechanisms of the        be properly timed as a scythed pendulum
+next trapped areas. Reading the map and the          slices across the gaps perpendicular to the
+scrawled notes gives the party advantage on          bridge at regular intervals.
+Perception checks in areas 4 and 6 and                   Pendulum. As a creature jumps across the
+Investigation checks in area 5. Provide them         gaps in the bridge, they must make a DC 10
+with his handout information, alerting them to       Dexterity saving throw. On a failure, the
+what to expect.                                      creature is hit by the pendulum and takes
+                                                     slashing damage from its blade.
+                                                         Falling. Creatures hit by a pendulum must
+                                                     also make a DC 10 Strength saving throw. On
+
+
+                          Liber Obscura 004 – Prisoner X: The Iron Juggernaut                          7
+a failure, they are knocked down to the lower          5) Blazing Pillar Hall
+floor below the bridge, taking bludgeoning
+                                                       The next room is a hallway rigged with four
+damage from the fall, and then forced to make
+                                                       cylindrical pillars. Every few seconds, these
+their way back up to the start of the bridge.
+                                                       pillars spin and gush forth a torrent of fire.
+   End Chasm. Across the last section of the
+                                                       Read this script as the party enters the room.
+bridge is a deep chasm falling 200 feet down,
+making it difficult to bypass the trap from
+underneath.                                              The entire passage around you suddenly
+                                                         shakes as the earth tremors again. From
+PENDULUM BRIDGE TRAP                                     deeper in the prison, you hear a guttural roar
+                                                         followed by heavy pounding that causes dust
+                 Slashing          Falling               and pebbles to fall from the ceiling. You’d
+    Difficulty   Damage            Distance              best hurry to reach the Iron Juggernaut before
+                                                         it breaks free from its restraints.
+    Medium       4 (1d8)           20 ft.                    As you step into the next room, you are
+                                                         hit by a wave of heat. You find a long hall.
+    Hard         9 (2d8)           20 ft.                The floor beneath you is tiled with large
+                                                         stone slabs and cylindrical pillars rise from
+    Nightmare    13 (3d8)          40 ft.                the ground. With a hiss and a whir, the
+                                                         cylinders rotate seemingly at random,
+    Torment      18 (4d8)          40 ft.                spewing plumes of fire that turn the
+                                                         hallway into a deadly inferno.
+
+Disabling the Pendulums
+On the side walls of the chamber, just before          Crossing the Hall
+each pendulum, are three small, hidden                 To cross the hall, a PC must run
+targets. Hitting these targets will deactivate         through the flames, making a
+the corresponding pendulum for 24 hours.               series of four DC 10
+   Perception Check. Spotting each targets             Dexterity saving throws to
+requires a DC 20 Wisdom (Perception) check.            dodge the spinning streams of
+The party will have advantage on this                  fire shot by the pillars. For each
+perception check if they found and read the            success, the character takes no damage. For
+blueprints in area 3.                                  each failure, the character takes fire damage.
+   Target Stats. Each target has an AC of 10
+and 1 Hit Point. A successful hit with a ranged
+spell or attack will disable the corresponding
+pendulum for the next 24 hours. Disabled
+pendulums can be safely passed under.
+
+
+
+8                           Liber Obscura 004 – Prisoner X: The Iron Juggernaut
+BLAZING PILLARS TRAP                                 and a wall lever that disables all of the traps
+                                                     on this entire 10th floor for the next 24 hours.
+ Difficulty               Fire Damage                However, this room has its own dangers.
+                                                     Patrolling the area are metallic constructs that
+ Medium                   3 (1d6)                    immobilize and incapacitate intruders. Read
+                                                     this script as the party reaches the room.
+ Hard                     7 (2d6)
+
+                                                       The flame-spewing columns behind you
+ Nightmare                10 (3d6)
+                                                       illuminate the next room, sending flickering
+                                                       shadows across an unlit chamber. A few
+ Torment                  14 (4d6)
+                                                       stone pillars stand, quiet and uninteresting,
+                                                       around the hall. Beyond them at the far end
+                                                       of the room, you see a formidable vault door,
+    Avoiding the Flames
+  Although the pillars appear to rotate and            its surface etched with the numeral X. On the
+ spew flames randomly, there is a complex              far wall near the vault door is a single lever
+                                                       labeled with the words ‘All Traps On/Off’.
+ pattern to their movement. A smart PC may
+ attempt to analyze this pattern before
+ attempting to cross the hall, making four DC
+ 15 Intelligence (Investigation) checks. Each        Weeping Maidens Encounter
+ successful check removes one Dexterity              A number of weeping maidens* lie in wait in
+ saving throw needed to dodge a stream of            alcoves on the side of the room, ready to
+ flame as they properly anticipate a pillar’s        attack anyone that enters. When a PC enters
+  movement. If the party was able to read the        the room, allow them a brief moment to make
+   blueprints in area 3, they have advantage         a Perception check if they think of it, as the
+     on these Intelligence checks.                   maidens will attempt to ambush them. When
+                                                     the maidens attack, read this script.
+     Disabling the Flames
+      There is no way to disable the flame
+     pillars in this room. However, the next           You hear a mechanical clinking and catch
+    room, area 6, is a control room with a             the glint of a metallic reflection in the
+  lever to disable all the traps in this prison        corner of your eye. Suddenly, a spiked iron
+ level for the next 24 hours. However,                 construct in the shape of a coffin, carved
+ dangers lie in the next room.                         with a faces frozen in a perpetual grimace,
+                                                       wheels toward you.
+6) Control Room
+After the blazing corridor, the party comes
+across a control chamber. On the far wall is
+ the vault door to the Iron Juggernaut’s cell
+
+                          Liber Obscura 004 – Prisoner X: The Iron Juggernaut                           9
+                                              Room Features
+                                              After defeating the Weeping Maidens, the
+AREA 6 ENCOUNTER                              party can use this room safely to take a short
+ Difficulty        Enemies                    rest. A large lever on the far wall can be pulled
+                                              to disable all the traps in this level of the entire
+ Medium            1 weeping maiden*          floor for the next 24 hours. This does not
+                                              include the weeping maidens.
+ Hard              2 weeping maidens*
+                                              Accessing the Vault
+ Nightmare         3 weeping maidens*         The imposing vault door at the end of the
+                                              room guards the entrance to the Iron
+                                              Juggernaut's cell. A valve can be spun to open
+ Torment           4 weeping maidens*
+                                              it, and it will swing open. The party must
+                                              prepare themselves, for the final confrontation
+                                              awaits beyond this door.
+
+
+                                              7) Juggernaut Cell
+                                              Past the solid vault door lies the Iron
+                                              Juggernaut’s cell, an immense room strewn
+                                              with broken binding chains that were once
+                                              attached to eight pillars circling the cell. A
+                                              titanic figure dominates the space. This is the
+                                              Iron Juggernaut, a massive ogrish humanoid, a
+                                              towering muscular figure built like a bull. His
+                                              face is obscured by a large domed helmet, akin
+                                              to a battering ram or a siege engine.
+                                                  Now unchained, the Iron Juggernaut
+                                              ceaselessly hammers against the cell walls,
+                                              each thunderous impact vibrating through the
+                                               floor of the entire prison complex. The party
+                                                  must act swiftly to subdue this goliath and
+                                                     restore order to the prison. How they
+                                                       manage to accomplish this, whether
+                                                        they beat him into submission or put
+                                                        him down for good, is up to them. As
+                                                          the party enters the room, read this
+                                                                script:
+
+
+
+10                 Liber Obscura 004 – Prisoner X: The Iron Juggernaut
+ The vault door groans open, revealing an
+                                                      AREA 7 BOSS ENCOUNTER
+ enormous chamber. The floor trembles                   Difficulty               Enemies
+ beneath your feet, each vibration resonating
+ with the rhythm of pounding metal. In the              Medium                   1 Iron Juggernaut*
+ center of the room, a colossal figure
+ dominates the scene. The Iron Juggernaut,
+                                                        Hard                     1 Iron Juggernaut*
+ unchained, strikes an imposing figure
+                                                                                 2 thugs
+ towering over you, his immense frame
+ rippling with pure muscle as he prepares
+ himself to ram into the wall again. An                 Nightmare                1 Iron Juggernaut*
+ immense, domed helmet covers his head,                                          4 veterans
+ shaped in the formed of a spiked battering
+ ram.                                                   Torment                  1 Iron Juggernaut*
+    As you step into view, the Iron Juggernaut                                   2 assassins
+ halts his assault on the walls. He turns to
+ face you, his helmeted head tilting slightly. A
+ deep voice resonates from within the helmet,         Boss Loot
+                                                      If the party wins the boss encounter, they may
+ "Juggernaut Crush!"
+                                                      roll 4d10s. Based on the cumulative roll score,
+                                                      they find the item corresponding to the highest
+Stone Pillars. There are 8 stone pillars              score they reach. Add a bonus to the
+around the room that can block the Iron               cumulative roll score depending on the
+Juggernaut’s charges. If the Iron Juggernaut          adventure difficulty level.
+collides with a pillar, it ends its current charge
+and the pillar is completely destroyed, leaving
+                                                        Difficulty                 Loot Roll Bonus
+behind only a small area of rubble.
+
+                                                        Medium                     +0
+Boss and Minions. The Iron Juggernaut
+should always start at the center of the room.
+                                                        Hard                       +1
+He may be supported by additional allies on
+higher difficulty levels, that can be scattered
+                                                        Nightmare                  +2
+about. These are the bandits that have been
+attempting to free him.
+                                                        Torment                    +3
+
+
+
+
+                           Liber Obscura 004 – Prisoner X: The Iron Juggernaut                        11
+                                                 Ending the Adventure
+BOSS LOOT TABLE                                  Upon the defeat of the Iron Juggernaut, order
+ 4d10      Item Discovered                       will be restored to the Panopticon. The plan to
+                                                 free the it has been foiled! What to do now is
+ 32 – 40   Iron Juggernaut Helm (rare)           up to the party. They can execute him or
+                                                 shackle him once more. Warden Ingfar shall
+ 27 – 31   Iron Juggernaut Chains                harbor a newfound respect for the adventurers
+           (uncommon)                            who bravely stood in the Panopticon’s
+                                                 defense, their actions permanently etched in
+ 1 – 26    Nothing                               the history of the prison. As the party leaves,
+                                                 they can rest assured they have played a vital
+                                                 role in maintaining order and justice.
+
+
+
+
+12                    Liber Obscura 004 – Prisoner X: The Iron Juggernaut
+                                   MONSTERS & NPCS
+Weeping Maiden
+Huge construct, unaligned
+Armor Class 18 (natural armor)
+Hit Points 126 (12d12 + 48)
+Speed 30 ft.
+
+ STR     DEX      CON      INT     WIS      CHA
+ 18      10       18       2       10       2
+ (+4)    (+0)     (+4)     (-4)    (+0)     (-4)
+
+Saving Throws Str +7, Dex +3
+Damage Resistance poison, psychic;
+bludgeoning, piercing, and slashing damage
+from nonmagical attacks that aren’t adamantine
+Condition Immunities charmed, exhaustion,
+frightened, paralyzed, petrified, poisoned
+Senses blindsight 60 ft. (blind beyond this
+radius), passive Perception 10
+Languages –
+Challenge 6 (2,300 XP)
+
+Immutable Form. This creature is immune to
+any spell or effect that would alter its form.
+
+
+Actions:
+Capture. The weeping maiden attempts to
+grapple one creature of the same size or
+smaller. If it succeeds, that creature is pulled
+into the weeping maiden’s coffin. While
+grappled this way, the creature is blinded and
+restrained, has total cover against attacks and
+other effects outside the coffin, and it takes 3
+(1d6) piercing damage at the start of every
+combat turn. If the weeping maiden dies, a
+swallowed creature is no longer restrained by it
+and can escape from the coffin using 15 feet of
+movement, exiting prone.
+
+
+
+
+                            Liber Obscura 004 – Prisoner X: The Iron Juggernaut   13
+ Iron Juggernaut                                           Legendary Actions:
+ Huge giant, chaotic evil
+                                                           This creature can take 3 legendary actions,
+ Armor Class 16 (patchwork armor)                          choosing from the options below. Only one
+ Hit Points 175 (16d12 + 84)                               legendary action option can be used at a time
+ Speed 40 ft.                                              and only at the end of another creature's turn.
+                                                           This creature regains spent legendary actions
+     STR    DEX    CON    INT     WIS     CHA              at the start of its turn.
+     24     12     22     10      14      12                 Reinvigorate. This creature draws on its
+     (+7)   (+1)   (+6)   (+0)    (+2)    (+1)             inner strength, gaining 5 hit points.
+ Saving Throws Dex +5, Con +10, Cha +5                       Ram (1/Round). This creature runs in a
+ Skills Athletics +11, Intimidation +5                     straight line up to 30 ft., stopping when it hits
+ Damage Vulnerability psychic                              the first object or creature in its path.
+ Senses passive Perception 12                              Anything hit by the charge takes 28 (8d6)
+ Languages Common                                          bludgeoning damage and must make a DC 21
+ Challenge 10 (5,900 XP)                                   Strength saving throw or be knocked prone.
+                                                             Throw Boulder (Costs 2 Actions). The Iron
+ Iron Helm. The Iron Juggernaut wears a solid iron         Juggernaut rips a boulder from the earth and
+ helmet. While wearing the helm, it is immune to           hurls it at a point up to 60 feet away. All
+ all psychic damage and mind-altering spell effects.       creatures within 5 feet of the target point must
+ A creature can remove the helmet by succeeding            make a DC 15 Dexterity saving throw, taking a
+ on a contested strength roll against the Iron             16 (3d10) bludgeoning damage on a failure.
+ Juggernaut.
+
+
+ Actions:
+ Slam. Melee Weapon Attack: +11 to hit, reach 5 ft.,
+ one target. Hit: 25 (4d8 + 7) bludgeoning damage.
+
+
+
+
+14                          Liber Obscura 004 – Prisoner X: The Iron Juggernaut
+                    ITEMS
+
+
+
+
+Liber Obscura 004 – Prisoner X: The Iron Juggernaut   15
+

@@ -1,0 +1,571 @@
+1
+Eternal Legions
+      part 2
+
+
+
+   Faction Lore
+                     The World of Doaden
+
+
+
+
+W
+    elcome to Doaden, the dark fantasy setting of tainted lands and twisted
+    monsters, where an ever-creeping affliction corrodes the very essence of
+                                   existence.
+
+It is a world of decay and depravity where once-righteous men and heroes of
+the glorious purpose now struggle to survive as cults and dark gods vie with
+                                     one
+              another to consume the last vestiges of humanity.
+
+     It is a world of death, trapped in the fading dusk of a fallen empire.
+The heroes that wander these lands are no grand adventurers to be honored in
+                               songs of minstrels.
+
+ For the heavy deeds and decisions these wanderers undertake invariably leave
+ them disheartened, broken, nothing more than soulless husks and shadows of
+                         their once-glorious selves.
+
+Yet as dark as Doaden may be, humanity clings to life with a stubborn tenacity,
+                   a last flickering flame within the dark.
+
+ A last hurrah, a final war cry that shall echo in the black abyss of eternity,
+                a momentary victory before the endless night.
+                            Credits
+
+
+
+    Developed by:
+      Bestiarum Games
+
+    Lead Game Designer:
+      Alexander Dovermann
+
+    Game Designer:
+      Giovani C. Fiorini
+
+    Art & Graphic Design:
+      Marina Jukova
+      Alexander Dovermann
+      Katarina Popovici
+
+
+
+
+                                ON THE COVER:
+                                KOURRAKAS
+
+
+                                “
+                                General Kourrakas was the God Emperor’s right hand, the
+                                brutal fist of his militant regime. He was the Lord of War, the
+                                unyielding conqueror, the slayer of lords and a vanquisher of
+                                kings. With the Eternal Legions under his command, Kourrakas
+                                traversed the great lands of Doaden, defeating all those who
+                                opposed the reign of his liege, toppling cities, fortresses, and
+                                kingdoms one after the next until all bowed down in service to
+                                the Holy Empire.
+
+
+
+
+                                                                                        ”
+
+4
+                                                                    Contents
+
+
+
+
+CREDITS.....................................................................................................................................................4
+CONTENTS................................................................................................................................................5
+ETERNAL LEGIONS PART 2..................................................................................................................6
+MALFORMED CONSTRUCT..................................................................................................................8
+VENATOR.................................................................................................................................................10
+AMALGAMATION..................................................................................................................................12
+CATAPHRACT.........................................................................................................................................14
+HELLION..................................................................................................................................................16
+PRAETOR.................................................................................................................................................18
+SILENT EMISSARY................................................................................................................................20
+LORD MAGISTRAE...............................................................................................................................22
+KOURRAKAS THE UNYIELDING......................................................................................................24
+THE GRAVE KING..................................................................................................................................26
+DREGGER.................................................................................................................................................28
+ENVIRONMENT......................................................................................................................................30
+
+
+
+
+                                                                                                                                                                5
+    T
+            he Eternal Legions are a skeletal army that wanders the Ashen Wastes. Always
+            marching, always searching. They are risen and warped by the energies of the
+            Wastes and driven by the will of the mysterious being known as the Eternal
+            Mother. The armies traverse the vast expanse in endless retinues, accompanied
+    by giant harvesting columbines that gouge the earth with enormous teeth, dredging up
+    the buried bones of those that perished here long, as they churn up enormous columns
+    of dust behind them. These vast troves of bones are recycled and reformed into new
+            warriors and bizarre constructs, ever swelling the ranks of the Legion.
+                      The Legions were once the God Emperor’s chosen.
+
+
+
+
+6
+   Hailing from the Valley of the Sun, the Emperor’s own birthplace, each was a warrior was of unrivaled
+strength and mental will. They were forged in combat from their youth, taught never to retreat nor surrender,
+to kill or be killed. They fight through pain that would debilitate any other man. They are taught that fear
+is weakness, that fear is death. With an iron fist, the Emperor deployed the Legions to conquer the world
+in an age of unrivaled bloodshed and brutality. But from that devastation arose the Holy Empire, the jewel
+                 of mankind, and a prosperous age of glory and technological advancement.
+   Yet war never changes, and a nation birthed in blood is doomed to die in the way of its creation. The
+Eternal Legions are an echo of the past. Risen once again, they come now to consume the Empire. They
+are stronger than ever, their bones mutated to form carapace-like armor and their ranks grow in an endless
+tide. They slaughter all in their wake, harvesting their bones just as they do the troves buried in the dust,
+       swelling their ranks day by day. On day, all of Doaden shall fall to their conquest once again.
+
+
+
+
+                                                                                                                7
+    MALFORMED
+    CONSTRUCT
+
+      The Ossificators are architects of creation, channeling the magics of the
+      Ashen Wastes into their work to meld and shape the many weapons,
+      armors, and constructs of the Eternal Legions. However, occasionally,
+      these energies are too chaotic for even the Ossificators to control. From
+      arcane mishaps arise bizarre and imperfect constructs, malformed,
+      contorted, grotesque things with too many or too few limbs. Shambling
+      about like deformed infants, these misshapen constructs can barely be
+      considered to have form at all.
+          Yet as awkward as these constructs are, they are blessed, or perhaps
+      cursed, by that same mutagenic magic that led to their miscreation.
+      Chitinous growths of ossified bone grow continually and uncontrollably,
+      forging and reforging their bodies, quickly covering any cracks or
+      damage they receive. The growth is a pernicious cancer but allows them
+      to regenerate quickly from any minor damage, resulting in an incredibly
+      durable and frustrating foe.
+          A Durable Foe. The regenerative bone growth makes the Malformed
+        Construct a frustrating foe to deal with, especially when present in
+          large numbers or when attackers are forced to diversify their fire.
+            For those few attacks that land on the Malformed Construct are
+            quickly repaired and forgotten unless a concerted effort is made.
+           But Malformed Constructs are slow, pulling themselves along
+          haphazardly on their few misshapen limbs. Therefore, if possible,
+                      adventurers may decide to run instead of fight.
+                              Wandering the Wastes. If Legion commanders
+                          anticipate an imminent military engagement, they retain
+                         these constructs to swell their ranks. Otherwise, they are
+                     discarded upon creation because of their imperfect nature,
+                  left to aimlessly wander the many catacombs, tomb-cities,
+                 and deserts of the Ashen Wastes. Malformed Constructs are
+                 not intelligent. Crusade scouts have observed that they seem
+               to follow a series of rudimentary and randomized movements.
+           In the wilds, adventurers will most often stumble upon a single
+             one. However, the unlucky may run into a patch of five or more
+              that have randomly stumbled together, due to their randomized
+                movement patterns protracted over the passage of centuries. The
+                  largest group of such constructs is known among the defenders
+                    of the Black Fortress as the “Great Bone Patch”, a pool of
+                        several thousand constructs that jostles with itself, drifting
+                           slowly about the Swirling Sea, a sandy desert deep in the
+                               Ashen Wastes.
+
+
+
+
+8
+MALFORMED
+CONSTRUCTS
+
+
+
+
+             9
+     VENATORS
+
+
+
+
+10
+                                                      VENATOR
+
+Songs and tales often embellish the glory of combat, recounting
+the deaths of many thousands of men under the crushing advance
+of an enemy. Yet these dramatizations are far from the truth. In
+reality, battle is tedious attrition. Front line troops may spend the
+day battering their weapons upon the shields and armor of their foes,
+giving, and taking a few meters of ground from sunrise to sunset. In
+these protracted exchanges, few deaths result.
+    Nay, the vast majority of casualties are accounted for in the route,
+in the moment when fear takes hold and the first soldier turns to flee.
+Fear is contagious that spreads quickly through the ranks, causing a
+mass retreat. As the broken willed turn to run, they open themselves
+to the blades of their foe, writing their own doom. They are chased
+down and slaughtered as easily as sheep. The Eternal Legions
+understands this truth. There is nothing heroic about war. War is a
+methodical process, of refusing to yield and wearing your opponent
+down through grinding attrition until no hope remains.
+    Breakers of Will. Wielding devastating crossbows that require
+great strength and several hands to operate (of which they are blessed
+to have many), Venators are brought to bear when the Legions face
+a particularly stubborn foe that refuses to route. They are deadeye
+hunters that scan distant battle lines to identify high value targets
+from behind shielded lines of Immortals. When a target is identified,
+the Venators strike with exacting precision, firing massive javelin
+bolts over impossible distances. Their bolts pierce metal and stone,
+impaling enemy lieutenants, generals, and kings, wherever
+they may be and forcefully breaking the will of the enemy
+that see their commanders fall before their eyes.
+  Truly, no place is safe from these deadly
+hunters, a fact well-known to defenders of the
+Black Fortress. Commander Wixley of the
+13th Blackwatch was infamously eliminated
+inside of a tower privy, whilst passing a nightly
+excretion on the thirteenth night of the third
+month of the year 913. He was found
+impaled to the latrine behind him,
+with a javelin bolt in his heart, fired
+through fifteen feet of solid stone wall.
+Needless to say, it was an unsavory
+mess for his soldiers to clean the
+morning after.
+
+
+
+
+                                                                           11
+                                                 AMALGAMATION
+
+
+     Amalgamations are, like their lesser cousins the Malformed Constructs, the results of
+     mishaps during Legion creation rituals. But, unlike their counterparts, the design of the
+     Amalgamation seems intentional, a purposeful molding of various skeletal structures to create
+     a complex weapon. These hulking constructs carry great armaments that would otherwise take
+     four men to lift, making them difficult to approach and attack. Yet they are as awkward as they
+     are clumsy, shambling mounds of bone and metal with little coherence in their movements.
+       Walking Towers. Amalgamations see more use in Legion warfare than Malformed
+     Constructs because the great shields they carry offer cover to vulnerable troops such as archers
+     and spellcasters. They are ambulatory towers, able to move about and reposition in the
+     midst of combat. The true threat of facing these foes lies not from being attacked
+     by them, as their disjointed limbs and clumsy strikes are surprisingly weak, but
+     in the attempt to destroy them, as the dizzying array of sharp bone splints,
+     spears, and blades jutting out of their bodies are prone to
+     cutting their attackers.
+       Soulless Automatons. The Legion’s various
+     construct creations should not be confused with
+     the undead ranks that comprise their armies.
+     While the Immortals and other soldiers
+     seem to retain something of their souls,
+     demonstrating intelligence and will, and are thus
+     true undead creations, the various constructs of
+     the Legion are entirely mechanical, animated
+     automatons that are driven by some rudimentary
+     instinct, more akin to clockwork devices than
+     undead servitors. They just so happen
+     to be made from bone, and are not
+     truly undead.
+
+
+
+
+12
+AMALGAMATION
+
+
+
+
+               13
+     CATAPHRACTS
+
+
+
+
+14
+                                                CATAPHRACT
+
+The Cataphract riders are an elite cavalry unit. Each soldier is personally selected by
+their general for their unrivaled strength, ruthlessness, indomitable will, and tactical
+prowess. They are few but deadly, paired with great destriers that know no fear and
+are trained to smash through the front or back lines of enemy formations. Armed with
+powerful, pole-axe lances that are effective in both mounted combat and melee, the
+Cataphract warriors are equipped with the finest arms and armor to suit their station.
+  Elite Riders. In ages past, when the Eternal Legions was still comprised of mortal
+men, the Cataphracts held a dreaded presence on the battlefield. They were the swift
+death that descended upon the flanks, or the pincer charge that separated a battlefield
+commander from his troops. They were used to overwhelm a foe and swiftly end
+combat engagements. However, in practice, the stories of the dread riders were much
+more prevalent than their actual use. They are most often kept in reserve due to their
+limited numbers, acting as an honor guard, organizing around their liege to defend him
+and only striking out only at key moments of battle. Yet the fearful reputation
+of these riders was just as effective as their combat prowess. Often,
+surrender came quickly upon an enemy learning of the riders’ presence on
+the battlefield, knowing that should the Cataphracts be deployed, few of
+their men would survive the day.
+
+
+
+
+                                                                                           15
+     HELLION
+
+
+
+        Hellions are the one of the most viscous and cruel of the
+        Legion constructs, a melding of bones in the shape of a
+        predatory avian beast. They have been given prehensile claws
+        to grip powerful weapons, wings to fly, and animus with the
+        intention only to main, kill, and shred apart anything that lives
+        and breathes. These terrifying constructs stalk the ridged cliffs
+        and mountainous passes of the Ashen Wastes, ambushing prey,
+        and wreaking havoc on Penitent Crusade caravans.
+            Vanguard Ambushers. The Eternal Legions make use
+        of these creatures regularly. Small bands of Hellions are
+        sent to fly ahead of their marching armies and ambush the
+        enemy, disrupting supply lines and wreaking havoc in enemy
+        formations. The aftermath of a Hellion attack is a gruesome
+        scene, a bloody mess of mutilated flesh and limbs, torn apart
+        organs and strands of viscera
+
+
+
+
+16
+HELLIONS
+
+
+
+
+           17
+     PRAETOR
+
+
+
+
+18
+                                                     PRAETOR
+
+
+Praetors are commanding officers of the Immortal legions. These heavily armed
+lieutenants stand at the head of the undead army, leading their troops into battle and
+determining priority targets and combat strategies. When engaged in combat, these leaders
+show incredible battle prowess. They are experienced duelists, swinging their glaives with
+surprising dexterity, easily parrying blows, and lacerating their opponent’s flesh.
+  Eternal Will. The will of the Eternal Legions is indomitable. Praetors exemplify this iron
+and unyielding will, but all the undead troops that comprise the vast army of the Legions
+have a natural resilience to harmful wisdom and charisma-based effects.
+
+
+
+
+                                                                                               19
+     SILENT EMISSARY
+
+
+
+
+             The Silent Emissary is a strange being, an infamous
+             ambassador during the time of the Eternal Legion’s conquest
+             before the rise of the Empire. The Emissary would approach
+             the walls of a besieged enemy fortress of city, signaling a final
+             chance for its rulers to capitulate to the Emperor. For one full
+             day, the Emissary would stand silently outside of the walls,
+             waiting for the gates to be opened unto the Legions so the town
+             could be taken without bloodshed. If the gates remained shut,
+             the Legions would storm the city the next day, slaughtering all
+             behind the walls in an indiscriminate display of brutality. This
+             gruesome violence was a cold and calculated tactic designed to
+             encourage the peaceably surrender as neighboring populations
+             learned of the invariably violent fate that awaited them if
+             they chose to oppose the will of the Emperor. Now, the Silent
+             Emissary does just the same, but brings tidings only of war and
+             death.
+
+
+
+
+20
+SILENT EMISSARY
+
+
+
+
+                  21
+     LORD MAGISTRAE
+
+
+
+
+            Lord Magistrae were once the high judges of the Old
+            Emperor, their task to mete out the judgment and reform local
+            jurisdictions in the form of the new regime. They were the
+            proverbial iron fists of the Emperor’s will, implementing his
+            rule and ensuring the compliance and subservience of the
+            burgeoning Empire. Now under the banners of the Eternal
+            Legion, these risen judges have become something sinister and
+            twisted, using their arcane gifts to establish a new order and
+            reshaping the world to the will of the Eternal Mother.
+
+
+
+
+22
+LORD MAGISTRAE
+
+
+
+
+                 23
+     KOURRAKAS THE
+      UNYIELDING
+
+                In age past, General Kourrakas was the God Emperor’s
+                         right hand, the brutal fist of his militant regime. He
+                          was the Lord of War, the unyielding conqueror, the
+                          slayer of lords and a vanquisher of kings. With the
+                          Eternal Legions under his command, Kourrakas
+                        traversed the great lands of Doaden, defeating all
+                       those who opposed the reign of his liege, toppling
+                      cities, fortresses, and kingdoms one after the next
+                     until all bowed down in service to the Holy Empire.
+                    He was reviled by many and feared by all. It is said
+                   that a hundred thousand fell to his sword alone, and a
+                   million more to the spears of his troops.
+                      It is truly distressing that Kourrakas has risen again to
+                 join the undead legions of the Eternal Legions once more,
+                   risen to serve the will of the Eternal Mother and lay
+                    conquest to the worlds they once conquered long ago.
+                   Now, Kourrakas haunts the Ashen Wastes, a macabre
+                giant reforged in a body of chitinous bone and wielding
+              an arsenal of blades in his flailing multitudes of ivory white
+            limbs. There is little hope for those that stand against him and
+            his ever-growing army.
+                The Pale Death. Kourrakas is a horror that every soldier
+            in the Black Fortress dreads. They tell stories of entire
+             detachments of crusaders slaughtered in moments as the
+                       skeletal behemoth steps from the swirling dusts,
+                           cutting into their ranks with his flailing limbs and
+                           sharpened blades. No matter how many times
+                            they fight the dreaded general, nor how many
+                             times they destroy his body, he rises again to
+                               hunt them once again. With the legions under
+                               his control once more, the might of the Empire
+                                is challenged. If he and his armies are left
+                                to grow, the Black Fortress shall inevitably
+                                fall and the flames of war shall once again
+                             consume these lands. On that day, the Holy
+                            Empire will be no more.
+                               Will of the Mother. Kourrakas, and the Eternal
+                     Legions all, are driven by the will of the Eternal
+            Mother, a powerful spellcaster that traversed the great Ashen
+            Wastes. Little is known about her, but it is believed that she
+            was the appointed Mother of the Azerai church at the time the
+                     Demoncore detonated. In the cataclysm, she survived,
+                       or perhaps died and rose again, shaped by the
+                       powerful arcane energies that erupted throughout the
+                        area. Kourrakas, as fearsome as he may be, is but a
+                         pawn in her master plan, a tool used to accomplish
+                         her nefarious goals. It is unknown what end goal
+                         the          Legions seek to achieve, but it can be
+                                      certain that where Kourrakas appears,
+                                      it is because the Eternal Mother has
+                                     deemed it so and wishes for an important
+                                  objective to be achieved.
+
+
+
+24
+KOURRAKAS THE
+ UNYIELDING
+
+
+
+
+                25
+     THE GRAVE KING
+
+
+
+
+26
+                                            THE GRAVE KING
+
+
+
+The Grave King is a strange being, a mass of skeletons
+merged together over countless ages, a being that predates the
+known history of man. It is unknown what this entity truly is,
+but some learned scholars of ancient texts posit that this thing
+is the scion of Death itself, from which all magical energies
+of death and undeath spring. No one knows what is truly is,
+or what it seeks in the Ashen Wastes. But it seems
+to have been drawn by the lingering horrors of the
+past, the echoes of suffering and the mass graves of
+the forgotten. It makes its hall in the Necropolis, a
+buried tomb city, long forgotten, hidden so deep in
+the twisted nether realms of the Ashen Wastes, so
+far into those dreaded lands of the dead, that no
+man it has set foot there since the Empire’s fall.
+
+
+
+
+       Rumors & Legends. No one knows if the
+ stories of the so-called Necropolis are real or not.
+The Penitent Crusade has been attempting for centuries
+to delve deeper and deeper into Ashen Wastes, growing
+steadily bolder over the centuries. But the Wastes are
+vast, and the farther one travels, the more bizarre, deadly,
+and strange the hazardous arcane phenomenon become. Safer
+excavations into cities closer to the border of the West have
+yielded parchments and documents, as well as paintings
+and carved pottery depicting vast imperial cities that match
+the Church of Azerai’s official historical records. Among
+them, one stood out. A mighty temple city of the dead
+that expands deep underground, a holy place said to be the
+nexus between this world and the next. It is indeed possible
+that such a place could once have existed, yet it shall take an
+expedition of tremendous cost, preparation, and undertaken
+by a worthy band of the most heroic adventurers to find
+out.
+
+
+
+
+                                                                   27
+                                      Dregger
+
+
+
+     Most people that live in Doaden would be considered unfortunate by any standard.
+     However, there are some far worse than other, and especially those strange
+     populations that make their home within the Ashen Wastes beyond the walls of the
+     Black Fortress. These communities have for one reason or another, decided to inhabit
+     the strange lands, their bodies becoming saturated with arcane fallout, and over many
+     generations, slowly changing into malformed and strange things. The dreggers are
+     such folk, having made claim to the Ashen Wastes for whatever reason, be it their
+     ancestral home or having sought solitude from the Empire long ago, they are the only
+     ones that dare reside in these parts. For many centuries they have learned learning to
+     survive and cope with the wastes, trading knowledge and their services as guides to
+     the Penitent Crusade at the Black Fortress in exchange for meager scraps of food and
+     water. Over time, these strange folks have become something far less than human, but
+     they are crucial scouts and guides for any long-ranging expedition into the wasteland.
+
+
+
+
+28
+Dregger
+
+
+
+
+          29
+33
+34
+35
+36
+

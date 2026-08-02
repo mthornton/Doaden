@@ -1,0 +1,894 @@
+RISE OF THE JAILER
+                       Level Scaling
+                           1 – 10
+
+
+Investigate a sinister ritual scene and race against time to
+  stop a cult’s dark plans in this easy-to-run adventure
+
+
+                                                Liber Obscura 002
+  “The path to redemption is a treacherous journey walked alone,
+     each step resonating with the sorrow of a thousand sins."
+
+
+
+
+                                    CREDITS
+Writer/Designer: Alexander H. Dovermann   Produced by: Bestiarum Games
+
+Miniature Photos: Marcus Harland
+
+Image Technician: Marina Jukova
+          his module can be run as a one-shot         Adventure Background
+          or as part of a persistent dark fantasy
+                                                      The following information is for you as the GM
+
+T         campaign using Bestiarum’s Path of
+          Penitence (PoP) system. Creatures
+          and items marked with an asterisk (*)
+          are new. Their information can be
+                                                      to understand the adventure plot. The party
+                                                      will naturally discover some or all of this
+                                                      information as the adventure unfolds.
+
+found at the end of the adventure.
+                                                      The Chapel. Many years ago, the abandoned
+                                                      chapel in this adventure was run by a priest,
+Tier I. This adventure scales in difficulty
+                                                      Father Rayhem, as an institution to treat
+based on your party’s Average Party Level
+                                                      children suffering from a variety of physical
+(APL). Use the following table to determine
+                                                      and mental infirmities. Rayhem and his
+the appropriate difficulty for your party. If your
+                                                      followers wished to rehabilitate the youths so
+party finds the scenario too easy or hard, you
+                                                      they could become productive members of
+can shift difficulties, even mid adventure!
+                                                      society. But their experimental treatment
+                                                      methods were grueling, painful, and unsound.
+ADVENTURE DIFFICULTY                                  Over the years, the tortures experienced by the
+                                                      children drew the attention of the Jailer, a
+    Difficulty              APL
+                                                      powerful demon that feeds on suffering.
+    Beginner                1–2
+                                                      The Cultists. Three decades ago, the Jailer
+                                                      began to whisper to the children from its own
+    Easy                    2–3
+                                                      dimension, manipulating them and turning
+                                                      them to its own ends. It identified Tommit, a
+    Medium                  5–7
+                                                      rebellious boy with signs of psychopathy,
+                                                      promising him great powers in exchange for
+    Hard                    8 – 10
+                                                      his service. The Jailer instructed Tommit to
+                                                      orchestrate a sacrificial ritual, the Libation of
+                                                      Agony, to thin the veil between the Jailer’s
+Adventure Introduction                                realm and the physical world.
+In an abandoned chapel hidden deep in the                Tommit agreed to the demon’s terms,
+woods, a group of cultists conduct a sinister         leading the children to revolt against their
+ritual. They hope to summon their powerful            caretakers and complete the ritual. The
+extra-planar patron, the Jailer, into the             evidence of the sacrifices still remains in the
+physical world to enslave the mortal sphere in        chapel to this day. Withered and desiccated
+chains of eternal suffering. The party must           bodies of the clergy hang about the structure.
+investigate the cult and perform the vile             Surrounded by blood circles, their dried skins
+Libation of Agony so they can travel to the           are carved with the demonic runes and
+hellish Prison Realm and fight the Jailer             ordered around the building in a specific
+before it can escape into the material world.         formation necessary for the ritual.
+2                                 Liber Obscura 002 – Rise of the Jailer
+The Ritual. When Tommit and his cultists             The Party’s Objective. As the party arrives at
+completed the Libation of Agony, it thinned          the forsaken chapel, the cult’s ritual will be
+the veil between reality and the Prison Realm        finishing and the Jailer gaining its physical
+in the area. The young cultists who                  form. To confront the Jailer, the party must
+participated in the ritual gained the ability to     access the demon’s realm and attack before it
+walk between realms within the walls of the          is too late. To do so, they must learn how to
+church, allowing them to traverse dimensions         conduct the Libation of Agony, making the
+and come to the Jailer’s Prison Realm to             four necessary human sacrifices and ordering
+consort directly with the demon.                     them in a specific triangular formation,
+    Here, the Jailer unveiled the next stage of      mirroring the cultist’s ritual from thirty years
+its plan, wishing to gain a physical form, a         ago. Then, the party will be able to walk
+difficult task requiring great magical energy.       between worlds, enter the Prison Realm, and
+Tommit’s cult lacked such power, but the             fight the Jailer.
+demon directed them on a long and arduous
+quest to find a source strong enough to birth        Adventure Hooks
+its physical body. Now, three decades later,
+                                                     The abandoned church lies in a forlorn woods.
+the cult has managed to find a powerful
+                                                     The party should be searching for the cultists
+enough source of arcane energy. They
+                                                     when the adventure starts. They might have
+collected the blood of an ancient god, a
+                                                     overheard whispers of cult activity from a
+substance saturated with latent magical
+                                                     horrified tracker returning from a hunt, found
+energies, enough to grant the Jailer its
+                                                     evidence of the cult in town, or perhaps have
+physical form. With this newfound power, they
+                                                     their personal reasons for hunting their leader,
+now work to complete the ritual to grant the
+                                                     Tommit. The adventure starts as the party
+Jailer a corporeal body.
+                                                     arrives at the Forsaken Chapel, but you can
+                                                     start earlier to build the narrative!
+The Prison Realm. The Prison Realm is a
+surreal space of anguish and torment in which
+                                                     Path of Penitence. If you are running
+the Jailer’s incorporeal spirit resides. This
+                                                     a PoP campaign, look to the end of
+bizarre dimension stretches on infinitely in all
+                                                     the module for tips on integrating
+directions, a labyrinth of jails and torture
+                                                     this scenario with the Burial Isle
+chambers. The halls of this place echo with
+                                                     starter adventure and taking the next
+the cries of countless victims, the blood of
+                                                     steps in the world of Doaden!
+their broken bodies running along the floor
+and flowing like arteries somewhere deeper.
+These unfortunate souls exist in this state for
+all eternity, their psychic suffering nurturing
+the Jailer and growing its power for eternity.
+
+
+
+
+                                 Liber Obscura 002 – Rise of the Jailer                             3
+                                                                 FORSAKEN CHAPEL
+Opening Script
+To start the adventure read this script.
+                                                         The party begins on the front steps of the
+                                                         Forsaken Chapel. They must investigate the
+    Trailing a band of cultists through a forlorn
+                                                         area and find a way to foil the cult’s schemes.
+    woods, you make your way stealthily through
+                                                         Make sure the party can track their movement
+    the thick undergrowth, careful not to give
+                                                         by using a map or diagram, so they can mark
+    away your position. Though you estimate the
+                                                         where they find bodies and use those clues to
+    cultists are still some miles ahead, you
+                                                         perform Libation of Agony ritual later.
+    cannot take the risk that they’ve left scouts
+                                                            General Layout. The chapel’s interior is
+    behind who might alert their band to your
+    approach. Whatever sinister plot these               dusty from years of neglect. The structure is
+    devious cultists are up to, you know only that       split into three levels, denoted by letters on the
+    it must be stopped.                                  chapel map. Level A is the ground floor. Level
+         You press on as the sun begins to set and       B is the upper belfries and rooftop. Level C is
+    the world around darkens from amber to a             the dungeons and cellarium.
+    deep purple, elongated shadows stretching to
+    fill the void between trees. As night falls, you     Level A (Ground Floor)
+    continue to forge onward, navigating by the
+                                                         The following areas correspond to level A, the
+    slim shards of silver moonlight that manage
+                                                         ground floor. The party starts in area A1.
+    to pierce the patchwork canopy of leaves
+                                                         outside of the chapel’s main entrance
+    above. Panting and tired, you finally arrive at
+    a clearing. Stepping cautiously forward, you
+    find an ancient church, its dark silhouette          A1) Main Entrance
+    casting a foreboding shadow across the               A circular perron stairway ascends to the
+    moon above. The abandoned structure looms            chapel’s main entrance. A closed grand
+    over the surrounding trees, a testament to its       wooden double-door leads inside. The door is
+    years of neglect. Wild grasses and entwining         unlocked and may be swung upon freely.
+    vines have claimed parts of the edifice, slowly
+    consuming what was once manmade.
+         As a gentle breeze passes, rustling the
+                                                         A2) Vestibule
+    fallen leaves upon the forest floor, you hear a      The first room is the vestibule, a small
+    subtle chorus of voices whispering in an             chamber at the center of which is a large
+    unknowable tongue. A chill traverses your            bronze statue depicting a man dressed in
+    spine, uncertain whether the words emanate           elaborate robes and carrying a staff shaped
+    from the church or from within the recesses          like a snake winding itself around a walking
+    of your own mind.                                    stick. A placard at the base reads, “Bishop
+                                                         Hegerod; mender of the infirm.” The staff is a
+                                                         staff of the python and can be pried from the
+                                                         statue’s hands with a DC 20 Strength check.
+
+
+4                                    Liber Obscura 002 – Rise of the Jailer
+Liber Obscura 002 – Rise of the Jailer   5
+A3) Nave                                               Past the door, you find the nave, a long
+A pair of unlocked doors leads from the                corridor framed by two rows of pillars, where
+vestibule into the nave, a long, empty corridor        commoners come to worship. At the far end
+where commoners once congregated to                    is a pulpit and before it is a gruesome scene.
+worship. There are no pews or seats, forcing           A withered body is suspended by twisted
+them to stand uncomfortably or prostrate               ropes. On the floor below is a circle drawn in
+themselves on the ground. A grotesque scene            old, flaking blood.
+awaits in this room; the body of Father                    The corpse must have been a priest, likely
+Rayhem. As the party enters, read the                  murdered decades ago. His skin is leathery,
+following script.                                      desiccated, and dry, his face frozen in an
+                                                       agonized scream. His body is mutilated, his
+                                                       limbs contorted grotesquely, and his robes
+                                                       torn, revealing a symbol carved into his chest.
+                                                       Smeared in faded blood all over the stone
+                                                       floor and walls are the words, “Kill the
+                                                       Mother, Kill the Father, Kill the Brother, Kill
+                                                       the Son.”
+
+
+                                                     Body of Father Rayhem. The body belongs to
+                                                     Father Rayhem and has been hanging here for
+                                                     three decades since the young Tommit and his
+                                                     followers rose up and killed the clergy to
+                                                     complete their Libation of Agony ritual.
+                                                     Inspecting the body of Father Rayhem reveals
+                                                     the following symbol carved into his flesh.
+
+
+
+
+                                                                           Symbol 1
+6                                Liber Obscura 002 – Rise of the Jailer
+Rayhem’s Suffering. If a PC touches the body          A5) Sacristy (Unlocked)
+they experience a momentary vision of Father
+                                                      An unlocked door along the south side of the
+Rayhem in the Prison Realm, where all those
+                                                      nave leads to the sacristy, a small room used
+sacrificed to the Jailer suffer eternally, trapped
+                                                      to store garments and records. Closets along
+in the torturous moments before their death.
+                                                      the walls are filled with dusty old clothing. In
+In this case, read the following script.
+                                                      the middle of the room is a wooden desk with
+                                                      Rayhem’s Journal atop it. The journal
+ As you disturb the priest’s body, your mind is       describes some of the cruel and experimental
+ ripped apart by a horrible vision. The walls of      treatment methods conducted by the clergy
+ the chapel fall away, revealing a nightmare          here upon the institutionalized children.
+ landscape of prison cells and torture devices.
+ Screams echo from all around. The priest
+ writhes before you, screaming in agony. His
+ skin has become pink and fleshy again, his
+ tortures made fresh. His blood spills to the
+ floor, joining a crimson river which flows like
+ an artery, rushing somewhere deeper. As
+ soon as the vision comes, it vanishes, leaving
+ you back in the silent church.
+
+
+
+ Visions of Torment. All sacrifices to the Jailer
+ are trapped in the Prison Realm, suffering the
+ tortures of their death for all eternity. There
+ are several sacrifices throughout the chapel. If
+ a PC touches any of them, describe a scene of
+ the victim suffering in the Prison Realm.
+
+
+A4) Room of Sentencing
+An unlocked door along the north side of the
+nave leads to a small room with a single regal
+chair at the center. When the church was
+operational, a priest would sit in the chair to
+judge sinners. But now the cultists have been
+using the room as storage. Along the walls are
+several wooden crates containing 8 days of
+rations, 2 potions of lesser healing, a hammer,
+16 pitons, a dagger, and 10d20 gp.
+
+                                  Liber Obscura 002 – Rise of the Jailer                             7
+A6) The Cloister Garden                                Stepping into the southern tower, you find
+An outdoor garden is surrounded by 15-foot-            the area lit by sliver of moonlight pouring in
+high brick walls. It was once well-maintained          from the open belfry above. Your gaze is
+and decorated with marble statues. Now, the            instantly drawn upwards where the silhouette
+area is overgrown after many years of neglect.         of a withered body hangs from a large bronze
+    Door to Nave. An unlocked door connects            bell. The body is perhaps seventy feet up or
+the garden to the nave (A3) along the nave’s           higher. It sways gently as a strong gust of air
+southern wall and garden’s northern wall.              whistles through the belfry’s open steeple.
+    Door to South Tower. A second unlocked                 The body is too high to make out much
+door connects the garden to the ground level           detail, but it appears to be wearing a simple
+of the southern tower (A7). The tower’s                smock. Looking for a way up, you see this
+stairway has collapsed, making it difficult to         tower’s wooden scaffolding and stairway has
+                                                       collapsed, offering few if any handholds and
+climb up.
+                                                       making any attempted ascend a difficult, and
+    Cellarium Trapdoor. Clearly visible in the
+                                                       perhaps deadly, risk.
+ground of the garden is an unlocked trapdoor.
+                                                           On the dusty stone floor, among the
+The trapdoor has been cleared of all leaves
+                                                       timbers of the tower’s collapsed staircase,
+and other debris and stands out against the
+                                                       you notice a circle of dried blood like the one
+otherwise overgrown ground. Opening it
+                                                       in the nave. Across from the shattered piles
+reveals a dark, descending stairway which              of the staircase, at the other end of the
+circles downwards 60 feet, coming to the               tower’s ground floor, you see a wooden door.
+firelit chamber of the cellarium (C1).
+
+
+A7) Southern Tower                                     Climbing the Tower. The tower is difficult as
+The southern tower is one of two mirrored              the only unstable handholds are broken
+towers, each containing a belfry. The belfry is        sections of scaffolding that still protrude from
+70 feet tall. At the top is a wooden platform          the wall. A PC may attempt to climb the tower
+used to walk around the bell and ring it, where        by making a DC 15 Dexterity (Acrobatics)
+the second sacrificed body hangs. But the              check for every 10 feet they climb. On a
+wooden stairs that ascend the tower have               failure, they fall, but may attempt to grab onto
+collapsed, making it difficult to climb. A safer       a broken piece of scaffolding and stop their
+route may be taken by finding the northern
+                                                       fall at every 30 feet they fall by making a DC 15
+                                                       Dexterity saving throw.
+tower area A8, ascending an intact staircase,
+and crossing over the roof of the chapel. As
+the party enters the tower, read this script.        Brother Remus’ Body. Hanging by a noose
+                                                     from the bell in the belfry is Father Rayhem’s
+                                                     body. Look to area B3 for more details.
+
+
+
+
+8                                Liber Obscura 002 – Rise of the Jailer
+A8) Northern Tower                                   A10) Saint Statues
+The north belltower is accessible by an              At the end of the chancel is a series of altars
+unlocked door from the north side of the             depicting various saints. In front of them is
+chancel area A9. An intact wooden stairway           another withered corpse with an old blood
+ascends the tower, rotating several times            circle drawn under it, this time impaled upon a
+around the chamber as it ascends 70 feet into        candelabra. The corpse belongs to a middle-
+the air to the belfry platform in area B1.           aged woman, Mother Eunice. Her once-black
+                                                     hair is now scraggly and faded and her
+A9) Chancel                                          clothing is torn. On her forehead is carved the
+                                                     following symbol.
+The chancel is a large room of worship for the
+clergy lined with finely cushioned pews for the
+priests and priestesses to sit comfortably.
+
+Golden Reliquary. In the center of the
+chancel is a large stone slab, embedded with a
+golden sun. In the center of the sun is a
+keyhole. The lock can be opened using a set of
+keys found on the body of Brother Remus in
+the chapel’s southern belfry (B3) or picked
+using thieves’ tools and a successful DC 20
+Dexterity check. Once opened, the stone slab
+will split open to reveal a staircase descending
+down to area C2, a hidden treatment room.
+                                                                          Symbol 2
+
+Connecting Doors. The chancel connects to            Ambush! As the party approaches the body of
+several other areas of the church.                   Mother Eunice, 3 cultists materialize from
+   Door to Nave. At the west side of the             thin air. One of them should drop Tommit’s
+chancel is a locked door leading to the nave.        Journal upon their death. Tommit gave the
+The lock can be picked using thieves’ tools          cultists his diary for safekeeping while he
+and a successful DC 15 Dexterity check,              stays in the Prison Realm to undergo a
+broken down by a DC 20 Strength check, or            demonic transformation and receive the
+unlocked with the keys found on the body of          Jailer’s blessings for his loyalty. These three
+Brother Remus in the southern belfry (B3).           cultists were Tommit’s childhood followers
+   Door to Towers. Unlocked doors flanking           and participated in the ritual sacrifice of the
+the chancel’s north and south lead to both the       church clergy. Since they completed the
+southern tower’s ground level (A7) and the           Libation of Agony ritual thirty years ago, they
+northern tower’s ground level (A8).                  are able to walk between the Prison Realm
+                                                     and the real world here. The cultists were just
+
+                                 Liber Obscura 002 – Rise of the Jailer                            9
+now completing the ritual to birth the Jailer in
+                                                     LEVEL B (UPPER LEVEL)
+the Prison Realm, but detected the party in the
+                                                     The following areas correspond to Level B
+real world and came to stall them while the
+                                                     (Upper Level).
+ritual completes.
+    Surprise! The cultists have the ability to
+materialize out of the Prison Realm and attack       B1) North Belfry
+immediately. They will try to surprise the           The north tower’s belfry rises 70 feet tall,
+party. When starting the combat encounter,           accessible by the staircase in the northern
+have each party member roll for surprise             tower (A8). A large brass bell hangs at the top
+against the cultists to see if they are taken off    of the tower encircled by a wooden walkway.
+guard, and run a surprise round if they are.         The belfry tower is open to the outside in all
+                                                     directions, dropping 20 feet to the chapel roof
+                                                     below.
+
+
+                                                       Climbing Exterior Belfries. The exterior of
+                                                       both belfries are covered in ivy. To climb up
+                                                       or down safely, a creature must pass a DC 10
+                                                       Dexterity (Acrobatics) check for every 10 feet
+                                                       climbed. On a failure, they fall, but may
+                                                       attempt to grab onto a clutch of vines and
+                                                       stop their fall at every 30-foot increment of
+                                                       their fall by making a DC 10 Dexterity saving
+                                                       throw.
+
+
+                                                     B2) Chapel Roof
+                                                     The chapel roof is 50 feet tall, thus 20 feet
+                                                     below the belfries. The party can walk across
+                                                     the roof from area B1 to access area B3.
+
+
+                                                     B3) South Belfry
+                                                     The south tower’s belfry is likewise 70 feet tall
+                                                     and rises 20 feet above the roof. However, the
+                                                     ascending staircase within tower has
+                                                     collapsed so climbing up or down inside the
+                                                     tower is difficult (see A7). Hanging from the
+                                                     southern belfry bell is the body of Brother
+                                                     Remus, a hewn rope tied around his neck. The
+                                                     brother is bald and wears a brown smock
+10                               Liber Obscura 002 – Rise of the Jailer
+soaked in dry blood. Under the smock, the
+                                                         You descend a spiral staircase, circling
+next demonic symbol is carved into his skin.
+                                                         downwards several rotations before the stone
+                                                         passageway opens to a dungeon lit by a small
+                                                         campfire. The stone walls are lined with
+                                                         empty, iron-barred holding cells filled with
+                                                         small beds, clothes, and children’s toys. At
+                                                         the center of the room, by the small fire, you
+                                                         spy a hooded figure holding a bloody knife in
+                                                         his hands while two dead cultists covered in
+                                                         stab wounds lie at his feet. A crude circle with
+                                                         a triangle inside of it carved in the stone floor.
+                                                         The man paces back and forth muttering to
+                                                         himself.
+                                                             “Leave Mort here? Why! Oh, let me suffer
+                                                         for you!”
+                 Ritual Symbol 3                            Moving to peering closer, your foot skids
+Groundkeeper’s Keys. Hanging from Remus’                 across the dirt ground. Startled, the figure
+belt is a keyring with an iron key and a golden          turns to you, speaking hastily.
+                                                            “Come out little friends! Mort can help
+key. The keys can open the Reliquary in area
+                                                         you, yes? Please help Mort!”
+A9, and any other doors in the chapel.
+
+
+LEVEL C (LOWER LEVEL)                                  Mad Mort
+The following areas correspond to Level C              The crazed figure is Mad Mort, by far the most
+(Lower Level).                                         insane of Tommit’s followers. He joined the
+                                                       cult recently and was not one of the original
+                                                       children who conducted the Libation of Agony
+C1) Cellarium
+                                                       thirty years ago. So, he cannot walk between
+The trapdoor in the cloister garden (A6)               realms, and thus cannot travel to the Prison
+descends to a cellarium that has been                  Realm. Mort is incredibly upset about this
+repurposed into something akin to a prison             because he dearly wishes to watch the Jailer’s
+ward. The space is lined with iron-barred              birth. Mort has the same stats as a cultist.
+holding cells filled with children’s belongings.
+Father Rayhem housed the youths here while             Mort’s Plan. Mort wants to conduct a Libation
+treating them. As the party descends the               of Agony so he can enter the Prison Realm to
+staircase, read this script.                           watch the Jailer’s birth. He has drawn the
+                                                       necessary ritual triangle surrounded by a
+                                                       circle on the ground, but only has two of the
+                                                       four necessary sacrifices (two cultists he has
+                                                       just killed) and doesn’t know what runes to
+
+                                   Liber Obscura 002 – Rise of the Jailer                                 11
+carve into their skin or what order they should       forever in the Prison Realm, and Mort will
+be placed around the triangle. If the party does      happily suffer for eternity for his dark god.
+not kill Mort, Mort will also suggest they all
+work together as they are all trying to go to the     Ritual Circle Puzzle. Mort has already drawn
+same place.                                           the necessary ritual circle on the ground in the
+    Mort’s Knowledge. Mort knows about the            cellarium, making a circle with a triangle
+Jailer, Tommit’s cult, and the history of the         inside. The party must carve the bodies with
+chapel. As you roleplay him, you may use him          the necessary runes and organize them
+to answer any questions the party has about           around the points of the triangle and at the
+the area, the cult, or other related topics. Mort     triangle’s center in the correct order to
+knows they must complete the Libation of              complete the Libation of Agony.
+Agony to enter the Prison Realm. However, he
+does not know the ritual details. He knows
+Tommit wrote the instructions somewhere, so
+he should suggest the party keep an eye out
+for Tommit’s Journal (the journal is acquired
+during the ambush event in area A10).
+
+
+The Libation of Agony
+To defeat the Jailer, the party must conduct
+the Libation of Agony. Doing so will allow
+them to travel to the Prison Realm, where they
+can fight the Jailer before it enters the world
+and brings calamity. The ritual instructions
+are recorded in Tommit’s Journal. To
+complete the ritual, the party must acquire
+four human bodies, carve them with four
+demon symbols, and organize them along the
+three points of a triangle within a ritual circle,
+                                                      Ritual Answer. The human sacrifices carved
+with a fourth at the center as shown in the
+                                                      with the necessary rune must be placed at
+following diagram. As the party conducts the
+                                                      each location around the triangle. As long as
+Libation of Agony, have fun describing the
+                                                      the symbols are placed in the correct
+process of carving the bodies and completing
+                                                      sequence, the ritual will be satisfied. Make
+the ritual in gruesome detail.
+                                                      sure the correct symbol is placed in the center,
+    The Bodies. For the four bodies, the party
+                                                      and to the right and left of each symbol on the
+may use the three cultists that ambush them
+                                                      triangle is the correct neighboring symbol.
+in area A10, the two cultists Mort has killed,
+                                                      However, which point of the triangle the
+or even Mort himself. The souls of those
+                                                      symbols are placed at does not matter.
+sacrificed to the Jailer will be tormented
+
+12                                Liber Obscura 002 – Rise of the Jailer
+Continuing the Adventure
+When the party completes the ritual, read the
+following script and proceed to the next
+chapter, The Prison Realm.
+
+
+C2) Treatment Room
+Opening the Reliquary in area A9 reveals a
+hidden staircase that descends to a hidden
+facility where Father Rayhem conducted
+experimental treatments on the children.
+
+Supply Table. In the room is a desk cluttered        Silas’ Body. The body of a juvenile boy is
+with medical equipment. Several sets of              restrained on the bed with metal clamps. As
+scalpels, knives, needles, tongues, wires, and       with the other sacrifices, the body has
+other devices lie strewn about. At the center of     withered after many years, and a faded ritual
+the table is a small pile of faded parchment         circle lies beneath him. His body is deformed,
+papers containing neatly written notes and           with emaciated legs and arms and a hunched
+medical diagrams of the human body and               back. He appears to have suffered from
+organs. At the top of the pile is a piece of         physical deformities in life. The body is not
+paper containing Silas’ Medical Notes.               tortured like those of the other sacrifices, the
+                                                     boy appears to have been killed mercifully.
+                                                     There is a single knife-wound to his heart and
+                                                     a last demonic symbol is carved into his
+                                                     forearm.
+                                 Liber Obscura 002 – Rise of the Jailer                            13
+                                                         through the air, cries of the damned —
+                                                         suffering for all eternity. The very stones
+                                                         underfoot weep crimson with the vital blood
+                                                         of innumerable forgotten souls, their life force
+                                                         feeding the very fabric of this place. The air
+                                                         around you is thick, vibrating with an
+                                                         unspeakable energy that sends shivers of
+                                                         dread down your spine.
+                                                             From the corner of your vision, you see a
+                                                         robed man standing by a swirling pit of blood
+                                                         and viscera. His body convulses, visibly
+                                                         warped by some unholy force. Feathered
+                                                         wings erupt form his back, tearing through
+                 Ritual Symbol 4                         his skin and the fabric of his clothes. Long
+                                                         boney horns grow from his skull. His hands
+                                                         and fingers stretch into sharp hooked claws.
+
+      THE PRISON REALM
+                                                         With a twisted smirk, the man takes flight.
+                                                             “You are too late!” He laughs as he
+When the party completes the Libation of                 disappears into the maddening realm.
+Agony, they are transported to the Jailer’s                  Your gaze is drawn to the pit where he
+                                                         stood, a swirling sinkhole of flesh and gore.
+hellish dimension, the Prison Realm. Tommit
+                                                         From its grotesque depths, something stirs.
+is currently receiving the Jailer’s boon and is in
+                                                         The ground begins to tremble as the viscous
+the process of a demonic transformation. He
+                                                         liquid seethes and roils. An enormous,
+will leave the arena, but for now the will have
+                                                         bloated arm explodes out of the crimson
+their hands full as the Jailer’s newly birthed
+                                                         ooze, then another, pulling forth a gigantic
+form rises from a charnel pit of fleshy sacrifice
+                                                         malformed abomination. Dripping in blood,
+prepared by the cultists. Read this script and           the hideous thing heaves itself up onto
+start combat with the Jailer*.                           elephantine legs, drawing forth a serrated
+                                                         whip made of sinew and bone. As its chilling
+ As you complete the Libation of Agony, you              gaze falls upon you, the thing bellows, its
+ feel reality shudder, disintegrating and                voice echoing through the twisted halls of
+ coalescing anew. The walls of the chapel fade           this hellish place.
+ into the abyss, replaced by a realm of dread               “I will feast on your flesh. Your suffering
+ and torment. You find yourself amidst an                shall sate my hunger.”
+ endless maze of prison cells, stretching out in
+ a disorienting array. Pained wails echo
+
+
+
+
+14                                 Liber Obscura 002 – Rise of the Jailer
+                                                   1) The Hekatomb Pit
+Map Locations                                      This swirling pool of flesh and blood rises to
+The following areas are depicted on the
+                                                   knee-height. It is imbued with dark energy
+battlemap for the area. The PCs can start
+                                                   which the Jailer can draw from.
+anywhere they wish around the pool of blood.
+                               Liber Obscura 002 – Rise of the Jailer                           15
+2) Twisting Corridors                                   The Jailer’s bellows a deep and throaty laugh,
+Several twisting corridors lead into the deeper         delighting in its victory. You feel the life force
+passages of this hellish dimension. When the            slipping from your battered body as the world
+Jailer summons cultists during this fight, they         fades to black. As you lose consciousness,
+emerge from any of these corridors.                     the Jailer's terrifying form seems to recede,
+                                                        and the twisted screams of the prison realm
+3) Sacrificial Pits                                     grow faint. With a harsh jolt, you awaken back
+                                                        in the chapel, lying on the cold stone floor.
+Two smaller bloody pits feed into the
+                                                        Your bodies are battered, your spirits
+Hekatomb. When any cultist attempts to                  crushed, and realization hits you like a cold
+sacrifice themselves, they will run into one of         wave — the Jailer is not gone, it waits in the
+these pits to await their demise.                       shadows, now with the physical means to
+                                                        enter your realm. As you slowly rise, you
+Encounter Rules & Phases                                know your journey is far from over. The Jailer
+                                                        will return. And next time, the world itself
+To begin this encounter, place the Jailer* at
+                                                        may be at stake.
+the center of the Hekatomb. Begin the
+encounter right away. The Jailer is considered
+to be in its lair. The portal to this realm has       Upon Victory. If the party manages to defeat
+closed behind the party. They will be trapped         the Jailer, they return to their world as heroes.
+here until they slay the Jailer, or it slays them.    Their victory, however, does not eradicate the
+                                                      memory of the horrifying foe. The Jailer may
+Ending the Adventure                                  always return anew, now with a hunger for
+                                                      vengeance. Read this script upon victory.
+The Jailer is an incredibly difficult boss, a
+worthy challenge designed for high level
+parties. For parties lower than level 8, the            As your last blow lands, the Jailer lets out a
+likely outcome will be a total party wipe.              deafening roar before collapsing, its body
+                                                        exploding in a rain of flesh and blood. The
+Upon Defeat. If the party is defeated, it is best       hellish realm around you shudders, then
+if they do not die here, but rather come to their       starts to blur and warp. With a jolt, you find
+senses back in the real world, battered and             yourselves back in the chapel. But a horrific
+weak, with the horrible knowledge that the              realization sinks in. The memory of the
+Jailer will follow sometime in the future, ready        countless tortured souls trapped in the Prison
+to bring calamity to the world at large. This           Realm weighs heavy on your hearts, knowing
+dreadful knowledge will be just one more                their suffering will continue to feed the
+thing to keep them up at night until they can           demon’s essence, nurturing it to health once
+level up and become powerful enough to face             more. For the time being, you have earned
+                                                        your rest. But be prepared, the world will
+it once more! Read this script upon defeat.
+                                                        need your bravery again.
+
+
+16                                Liber Obscura 002 – Rise of the Jailer
+                                MONSTERS & NPCS
+The Jailer
+The Jailer is an insidious entity that feeds on      liberation from a dying world. This misguided
+the powerful emotions of torment and                 lot form the Tormentor Cults, a devious sect
+suffering. It rules the twisted dimension            engaged in heinous acts of torture and human
+known as the Prison Realm; a bizarre                       sacrifice. They plot constantly to thin the
+labyrinth of iron-barred prison cells filled                veil between realms and grant their
+to the brim with screaming victims. The                     demon master a physical form so that it
+souls of all those who have ever been                         may rule the material world.
+sacrificed to the Jailer are trapped here
+eternally, screaming as
+they forever relive
+the agonizing
+moments before
+their death. Their
+tortured wails echo
+through the infinitely
+spiraling dimension, nurturing
+the Jailer’s essence for all
+eternity.
+    Tormentor Cults. From
+its throne in the Prison
+Realm, The Jailer
+emanates sinister
+whispers into the
+real world,
+enticing broken
+souls who are
+desperate
+enough to
+seek
+
+
+
+
+                                 Liber Obscura 002 – Rise of the Jailer                            17
+The Jailer’s Lair:                                          Jailer heals 10 hit points for each cultist
+                                                            killed this way.
+Tormentor Cultists occasionally build a
+Hekatomb — a swirling pool filled with the
+gore and viscera of their victims, infused with        Boss Phases:
+powerful magic. These pits are used to birth           The Jailer is a very challenging fight. It is
+the Jailer’s physical form and hold latent             designed with multiple phases, which can
+powers that the Jailer can draw on. While the          create an extended and intense encounter. If
+Jailer is within 150 feet of a Hekatomb, it is         the Jailer is encountered by a fully rested
+considered to be in its lair.                          party, you should run all three phases. If the
+    Cultists. Cultists are never far from a            party encounters the Jailer while they have
+Hekatomb. As the Jailer fights, they crawl out         roughly 50% of their daily resources
+of every nook and cranny, throwing                     remaining, run up to Phase II. If the party
+themselves into sacrificial blood pits, hoping         encounters the Jailer while they have 30% of
+to receive their master’s dark blessing.               their daily resources remaining or less, run
+Sometimes the Jailer grants a dark boon,               only Phase I.
+reshaping them into powerful demonic                      Blood Orbs. Blood Orbs are floating globes
+servants. But, more often than not, it feasts on       that emanates a faint magic. They provide
+their souls, subsuming them to satiate its             sustenance for parties to engage the Jailer’s
+hunger for suffering.                                  phases in an extended encounter. A PC that
+    Eternal Soul. Whenever the Jailer is slain,        passes a DC 15 Arcana check will know that
+its essence is banished back to the Prison             the orb holds restorative energy but is tainted
+Realm until its cultists are able to summon it         by a weak curse. A PC that touches a Blood
+anew. The Jailer does not fear death, for defeat       Orb gains the benefit of a short rest
+is a mere setback. It knows with time the cults        immediately, even if they are in combat, but
+will summon it back once more.                         they are cursed for 24 hours, reducing their hit
+                                                       point maximum by 10. The Blood Orb is
+Lair Actions. On initiative count 20 (losing           consumed in the process.
+initiative ties), the Jailer can take a lair action
+to cause one of the following effects.                 Phase I. The Jailer’s standard statblock
+• Call Cultist. Three cultists joins the fight,        including lair abilities and legendary actions
+     anywhere within 15 to 60 feet of the              counts as the first phase.
+     Hekatomb and under the Jailer’s control.
+     These Cultists will never attack, using           Phase II. When the Jailer is reduced to 0 hit
+     their actions only to run into a blood pit        points for the first time in a combat encounter,
+     and await their sacrifice, hands raised in        the following happens.
+     worship, ready to be subsumed.                    • Revitalized. The Jailer is restored to its hit
+• Subsume Flesh. Any Cultist standing                      point maximum.
+     within a blood pit automatically dies. The        • Blood Orbs. One Blood Orb is created in
+                                                           each sacrificial blood pit nearby.
+18                                 Liber Obscura 002 – Rise of the Jailer
+•   Call the Cult. Whenever the Jailer uses the
+                                                        4d10          Item Discovered
+    Call Cultist lair action, the number of
+    summoned cultists is increased to 6.
+                                                        32+           Jailer’s Spined Whip* (very rare)
+•   Quickened Metabolism. Damage from
+    Agonized Digestion is increased to 21
+                                                        1 – 31        Nothing
+    (6d6) acid damage.
+
+Phase II. When the Jailer is reduced to 0 hit
+points for the second time in a combat
+encounter, the following happens.
+• Revitalized. The Jailer is restored to its hit
+   point maximum.
+• Blood Orbs. One Blood Orb is created in
+   each sacrificial pit nearby.
+• Call the Cult II. Whenever the Jailer uses
+   the Call Cultist lair action, the number of
+   summoned cultists is increased to 9.
+• Quickened Metabolism. Damage from
+   Agonized Digestion is increased to 21
+   (6d6) acid damage.
+• Frenzied Whiplash. The cost of the
+    Jailer’s whiplash ability is reduced to 1
+    legendary action point, but attacks with
+    this weapon are made with disadvantage.
+
+
+Boss Loot
+If the party defeats the boss, they may
+collectively roll 4d10s. Based on the
+cumulative roll score, they find the item
+corresponding to the highest score they reach.
+Add a bonus to the cumulative roll score
+depending on the adventure difficulty level.
+
+Loot. If the party is victorious, they may roll
+4d10s. Based on the cumulative roll score,
+they find the following item.
+
+
+
+
+                                  Liber Obscura 002 – Rise of the Jailer                                  19
+                                                           Legendary Resistance (3/Day). If this creature
+ The Jailer                                                fails a saving throw, it can choose to succeed
+ Gargantuan fiend (devil), chaotic evil                    instead.
+ Armor Class 16 (natural)
+ Hit Points 248 (16d20 + 80)                               Actions
+ Speed 40 ft.
+                                                           Multiattack. The Jailer makes two attacks with its
+     STR    DEX    CON      INT     WIS     CHA            claws.
+      26     16     20       18      16      22
+     (+8)   (+3)   (+5)     (+4)    (+3)    (+6)           Claw. Melee Weapon Attack: +13 to hit, reach 10
+                                                           ft., one target. Hit: 21 (3d8 + 8) slashing damage.
+ Saving Throws Str +13, Con +10, Wis + 8, Cha +11
+ Skills Intimidation +11, Perception +8
+                                                           Bone Whip. Melee Weapon Attack: +13 to hit,
+ Damage Resistance: cold, fire; bludgeoning,
+                                                           reach 30 ft., one target. Hit: 18 (4d4 + 8) slashing
+ piercing and slashing from nonmagical attacks
+                                                           damage. On a hit, the target must make a DC 18
+ Damage Immunities poison
+                                                           Strength saving throw or be pulled up to 30 feet
+ Condition Immunities poisoned, exhausted,
+                                                           toward the Jailer.
+ frightened
+ Senses truesight 120 ft., passive Perception 12
+ Languages all, telepathy 120 ft.                          Legendary Actions
+ Challenge 16 (15,000 XP)                                  The Jailer can take 3 legendary actions, choosing
+                                                           from the options below. Only one legendary action
+ Agonizing Digestion. The Jailer’s belly is a
+                                                           option can be used at a time and only at the end of
+ distended prison cell formed by iron bars and filled
+                                                           another creature's turn. The Jailer regains spent
+ with caustic acids. While a creature is within the
+                                                           legendary actions at the start of its turn.
+ Jailer’s belly, it is restrained and has total cover
+ against attacks and effects outside of the belly. At
+                                                           Regurgitate. The Jailer vomits out one creature it
+ the start of each of the Jailer’s turns, all creatures
+                                                              has swallowed, forcing that creature to
+ within its belly take 14 (4d6) acid damage and the
+                                                              immediately escape its belly.
+ Jailer heals 10 hit points for each of those creatures.
+                                                           Whiplash (Costs 2). The Jailer makes one attack
+                                                              with its bone whip.
+ To escape from the Jailer’s belly, a creature must
+                                                           Devouring Sweep (Costs 2). The Jailer makes one
+ spend one action as it attempts to pull itself
+                                                              Claw attack against all creatures in a 10 foot
+ through the bars and must succeed on a DC 21
+                                                              cone. If the attack hits a Medium or smaller
+ Strength saving check to do so. On a success, the
+                                                              creature, the creature must make a DC 21
+ creature escapes from the belly, falling prone to any
+                                                              Strength saving throw to hold its ground. On a
+ spot adjacent to the Jailer. If the Jailer dies, all
+                                                              failure, the Jailer may swallow that creature,
+ creatures in the Jailer’s belly escape automatically.
+                                                              moving it to the Jailer’s belly.
+
+
+
+
+20                                   Liber Obscura 002 – Rise of the Jailer
+             ITEMS
+
+
+
+
+Liber Obscura 002 – Rise of the Jailer   21
+                              PATH OF PENITENCE
+The Path of Penitence system incorporates           to return to him, Vozruk may take the initiative
+all your favorite dark fantasy adventures into      and drop in on them wherever they are; he has
+an immersive and persistent campaign. Check         plenty of scouts and informants who can track
+back with Bestiarum regularly to learn more         them down wherever they go.
+and find new rules and options!                         Though the party will have failed in their
+                                                    mission to stop the cult plot, the information
+                                                    they have gathered will prove tremendously
+Adventure Location
+                                                    valuable in the Penitent Crusade’s fight
+This scenario might occur close inland
+                                                    against evil. The knowledge they gained about
+somewhere close by the southern coast on the
+                                                    the ancient tomb on the lost isle, the activities
+Map of the Empire of Azerai.
+                                                    of Tommit’s Tormentor Cult sect, and the rise
+                                                    of the Jailer will be important so that the
+Starting Adventure                                  Crusade can bolster its forces and prepare for
+If you are using this module as the starting        the challenges ahead.
+adventure in a PoP campaign, it should follow
+immediately after the Burial Isle adventure.        Level Up. For completing this adventure, the
+The group of cultists the party finds on the        starting party should advance up from level 2
+island are the same ones that they have             to level 3.
+tracked to the forsaken chapel here!
+                                                    Mission Reward. For each of the two
+Long Rest. Before starting Rise of the Jailer,      completed adventures (Burial Isle and Rise of
+make sure to advance the party has advanced         the Jailer) the party should gain 2 years off of
+to level 2 and allow them a long rest.              their sentences each. Therefore, reduce their
+                                                    sentences by four years. If you wish Vozruk to
+Debriefing with Vozruk. After each                  be a hard-as-nails commander, he might
+successful mission, consider holding a check-       refuse to give the party any years of atonement
+in with Vozruk so the party can debrief him         as they failed to defeat the Jailer.
+about what they found. These meetings will
+develop the party’s relationship with Vozruk,       Future Adventures
+and you can use them to track the party’s
+                                                    The future awaits! We hope you are excited to
+progress towards redemption, thus building a
+                                                    continue on your journey in Doaden. Monthly
+feeling of continual character progression.
+                                                    adventures are published with wide level
+   In this case, when the party returns from
+                                                    scaling, making it easy to find a wide selection
+their mission, they should have a meeting with
+                                                    of adventures to run. Monthly adventures are
+Vozruk. They may return to Vozruk’s camp to
+                                                    designed to be easy-to-run and require very
+speak with him, or if they are taking too long
+22                              Liber Obscura 002 – Rise of the Jailer
+little preparation so you can get right to the      Until your next adventure, keep your wits
+action.                                             sharp and spirits high - we eagerly await your
+    Review the Path of Penitence QuickStart         return to the pages of your next dark fantasy
+Guide for details about continuing to level the     tale, till then, brave adventurers!
+party and structure future adventures! Also,
+make sure to check back each month for
+updates to the Path of Penitence campaign
+system as well! The system is a living
+document which will be added to each month.
+You can expect new campaign systems like
+companions, traveling, orders, merchants, and
+rewards, as well as new player-tailored options
+like backgrounds and class paths!
+
+
+
+
+                                Liber Obscura 002 – Rise of the Jailer                          23
+

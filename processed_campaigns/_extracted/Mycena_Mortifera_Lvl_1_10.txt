@@ -1,0 +1,526 @@
+ MYCENA MORTIFERA
+                       Level Scaling
+                           1 – 10
+
+
+Navigate the fungal caves and halt the spreading of a mind-
+     controlling mycelium in this easy-to-run adventure
+
+
+                                               Liber Obscura 009
+  “The path to redemption is a treacherous journey walked alone,
+     each step resonating with the sorrow of a thousand sins."
+
+
+
+
+                                    CREDITS
+Writer/Designer: Alexander H. Dovermann   Produced by: Bestiarum Games
+          his module can be run as a one-shot        animated dead cannot continue to infect the
+          or as part of a persistent dark fantasy    area.
+
+
+T         campaign using Bestiarum’s Path of
+          Penitence (PoP) system. Creatures
+          and items marked with an asterisk (*)
+          are new. Their information can be
+                                                     Adventure Hooks
+                                                     The party may be drawn to this chilling tale in
+                                                     a myriad of ways. They may have been hired
+found at the end of the adventure.
+                                                     by a local lord to investigate a strange disease
+                                                     that plagues the villages in the area, turning
+Tier I. This adventure scales in difficulty
+                                                     the peasant folk strange and wild. Perhaps
+based on your party’s Average Party Level
+                                                     they stumble upon a lone, disturbing fungal
+(APL). Use the following table to determine
+                                                     thrall outside of the village that attacks,
+the appropriate difficulty for your party. If your
+                                                     spurring them to investigate the source of this
+party finds the scenario too easy or hard, you
+                                                     affliction. Or they may have been drawn by the
+can shift difficulties, even mid adventure!
+                                                     promise of a valuable reward from an
+                                                     alchemist in exchange for a sample of the
+ADVENTURE DIFFICULTY                                 fungus. In any case, they should be challenged
+                                                     to seek out the Mycena Mortifera, so they have
+    Difficulty              APL
+                                                     a purpose to delve into the infected cave.
+    Beginner                1–2
+                                                     Opening Script
+    Easy                    3–4                      To start the adventure read this script.
+
+    Medium                  5–7
+                                                       Night has fallen. A chill settles in the air as
+                                                       you come to the outskirts of a deserted
+    Hard                    8 – 10                     village. Homes lie dark and silent, their
+                                                       hearths cold and full of ashes. The eerie
+                                                       silence is broken only by the rustle of leaves
+Adventure Introduction                                 and the creaking of open doors in the wind.
+The party comes across an abandoned village.               Suddenly, out of the darkness, shambling
+As they search the area, they are attacked by          figures lurch into the faint moonlight. Their
+reanimated villagers who have turned into              peasant clothes are ragged and torn. Perhaps
+mindless, fungal thralls. Traces of blue spores        they were once the villagers that inhabited
+infecting the zombified humans lead to a               this place, but it is clear they are no longer
+nearby cave, where a strange mind-controlling          human. Their bodies are twisted, and fleshy
+fungus, the Mycena Mortifera, is growing. To           tumors pulse sickly about their bodies. Their
+put an end to this madness, the party must             eyes are vacant as they move towards you,
+delve into the caverns to find this sinister           arms outstretched and clawing at the air.
+mycelium and destroy it so that the plague of
+
+2                                 Liber Obscura 009 – Mycena Mortifera
+        INFECTED VILLAGE                          Searching the Village
+                                                  Once the threat is dealt with, the party can
+As the shambling enemies close in, the party      investigate the village for supplies and clues.
+has no choice but to defend themselves. This      The party may perform an Intelligence
+encounter should take place in an isolated        (Investigation) check to discover the results
+village. The area may be cluttered by cabins,     on the following table.
+abandoned carts, crates of rotten food, and
+other debris, making tight alleys and spaces      INVESTIGATION RESULTS
+where the party might be pinned down.
+                                                    DC       Information Learned
+INFECTED VILLAGE ENCOUNTER
+                                                    0+       The zombified villagers are infected
+ Difficulty   Enemies                                        by a faintly glowing blue fungal
+                                                             spore that covers their bodies like
+ Beginner     2 zombies                                      mold. Traces of fungal spores are
+                                                             scattered on the ground and float in
+ Easy         6 zombies                                      the air nearby. A trial of the spores
+                                                             leads into the nearby forest.
+ Medium       12 zombies
+                                                    10+      The deserted village’s structures are
+ Hard         15 zombies                                     all but abandoned, their insides filled
+                                                             only with scraps and destroyed
+                                                             furniture. However, a blacksmith
+                                                             shop contains a few supplies
+                                                             including 1d4 torches, 50 ft. of rope,
+                                                             a hammer, 1d8 pitons and 1d100 gp.
+
+                                                    15+      A ransacked herbalist’s hut is filled
+                                                             with scattered supplies and rotten
+                                                             plants, but useful items remain.
+                                                             Here, the party may find 1 restorative
+                                                             ointment, and 1d100 gp.
+
+
+                                                  Finding the Cavern. With the information
+                                                  gleaned from the investigation, the party can
+                                                  follow the trail of spores through a nearby
+                                                  woods, coming shortly to a cave entrance. The
+                                                  path is not hard to find, marked by the blue
+                                                  glow of the spores found in the village.
+                               Liber Obscura 009 – Mycena Mortifera                                    3
+4   Liber Obscura 009 – Mycena Mortifera
+         FUNGAL CAVERN
+                                                     1) Entrance
+                                                     The entrance to the cavern is a large, high-
+When the party is ready to set out from the          ceilinged chamber. Stalactites hang from
+village, read the following script. The fungal       above, glistening with condensation. Here, the
+cavern is a twisting subterranean dungeon            glow of the blue spores is strong, casting the
+filled with environmental hazards and twisted        chamber in a dreamlike light. A DC 15
+spore-controlled humans. In its depths, a large      Wisdom (Perception) check reveals that the
+Mycena Mortifera cluster grows, the source of        water dripping from the stalactites is viscous
+the mind-controlling spores which the party          and mixed with the glowing blue spores. If a
+must seek out. To reach the cluster, the party       player touches or tastes the fluid, they
+will have to delve deep, making their way            experience a temporary hallucination and take
+down to the third level of the cavern.               damage psychic.
+
+
+ A thin trail of softly glowing spores leads           Spore Fluid. Waters saturated with the
+ away from the village and deeper into the             Mycena Mortifera’s mind-spores throughout
+ woods. After some time, you come to the               the cave deals psychic damage to any
+ mouth of a cave, partially concealed by the           humanoid creature that touches it or ends its
+ forest undergrowth. From within, you see              turn touching it.
+ traces in the dark of the same faint blue glow
+ of the spores infesting the village and its
+ unfortunate inhabitants.                                Difficulty       Psychic Damage
+     Stepping inside, you find the earthen
+ passageways damp and overgrown with                     Beginner         2 (1d4)
+ moss. The musty air is dimly lit by soft traces
+ of the blue spores, their ethereal light pulsing        Easy             5 (1d4)
+ gently, as if in a slow and methodical rhythm.
+ A narrow path snakes deeper into the abyss,             Medium           7 (3d4)
+ where the faint sounds of distant dripping
+ water and a pulsing, almost heartbeat-like              Hard             10 (4d4)
+ throb can be heard. Perhaps whatever is
+ emitting these spores lies deeper inside, but
+ you are wary of what horrors may lie in wait
+                                                     Deep Hole. A deep hole in the corner of this
+ within the dark recesses of the earth.
+                                                     room drops directly through the cavern floor
+                                                     and into the waters of the spore lake in area 6.
+                                                     The hole is dark, but sixty feet below can be
+Cavern Level 1                                       seen a placid surface of water and the faint
+The initial descent into the cavern is a maze of
+                                                     glimmer from blue spores that saturate the
+tunnels and small chambers, the air damp and
+                                                     subterranean lake water.
+filled with the faint glow of blue spores.
+
+                                  Liber Obscura 009 – Mycena Mortifera                                 5
+2) Fungal Farm                                     FUNGAL FARM ENCOUNTER
+The next room is a large chamber filled with a
+                                                     Difficulty    Enemies
+variety of mushrooms and fungi. It was once
+used by the villagers to harvest edible              Beginner      1 spore burster*
+mushrooms for food and medicine. A
+successful DC 15 Intelligence (Nature) check
+                                                     Easy          6 zombies and 1 spore
+allows a PC to recognize some of the
+                                                                   burster*
+mushrooms as edible or have medicinal
+properties. They can collect enough of the
+                                                     Medium        6 zombies and 4 spore
+mushrooms to act as 1d4 rations and 1d4
+                                                                   bursters*
+potions of healing by harvesting the fungi.
+                                                     Hard          6 zombies and 6 spore
+Enemies. Though the room contains useful
+                                                                   bursters*
+supplies, a dangerous group of infected
+villagers guards the place, placed here by the
+Mycena Mortifera to keep out any intruders.        3) Jagged Tunnel
+                                                   A tunnel leading away past the fungal farm is
+                                                   lined on either side with rows of jagged
+                                                   stalagmites. Crossing through the tunnel
+                                                   requires a DC 10 Dexterity (Acrobatics) to
+                                                   avoid the sharp ends of the stalagmites. On a
+                                                   failure, the character takes piercing damage
+                                                   that scales by difficulty.
+
+                                                   JAGGED STALAGMITE DAMAGE TABLE
+                                                     Difficulty              Piercing Damage
+
+                                                     Beginner                1d4
+
+                                                     Easy                    2d4
+
+                                                     Medium                  4d4
+
+                                                     Hard                    6d4
+
+
+
+
+6                               Liber Obscura 009 – Mycena Mortifera
+4) Stairway Descent                                 5) Infected Dwellings
+The stairway descending to the second level is      The final room on this level once served as a
+narrow and slick with moisture, carved from         gathering place for the villagers but has been
+the earth by eons of slowly dripping water.         abandoned since the villagers became
+The natural sloping steps are roughly and           infected. The remnants of broken furniture
+irregular. The total height of the staircase        and scattered personal items hint at the
+changes depending on the adventure difficulty.      sudden devastation. A Wisdom (Perception)
+A DC 5 Dexterity (Acrobatics) check is              check reveals the results on the following
+required to descend every 10 feet safely. On a      table.
+failure, a character slips and tumbles down the
+remaining stairway, taking 1d6 bludgeoning          PERCEPTION RESULTS
+damage for every 10 feet they fall.
+                                                      DC       Items Discovered
+STAIRWAY HEIGHT TABLE
+                                                      5+       Several large barrels of oil are piled
+ Difficulty                Total Height                        up by the side of a shed. The oil
+                                                               smells rancid and old but can still be
+ Beginner                  20 feet                             used to light a fire.
+
+
+ Easy                      30 feet                    10+      Behind one hut is a hastily covered
+                                                               dirt patch. Digging it up reveals a
+ Medium                    40 feet                             leather bag containing 2d100 gp.
+
+
+ Hard                      50 feet                    15+      In one of the crumbling huts is a
+                                                               small wooden chest containing 1d4
+                                                               potions of resistance.
+Cavern Level 2
+As the party ventures further into the cavern,      6) Spore Lake
+they will draw closer to the Mycena Mortifera
+                                                    In this large, domed chamber is a glowing
+core, observing how the spores have saturated
+                                                    lake, its waters saturated with blue spores of
+this cave system. Read this script.
+                                                    the Mycena Mortifera, becoming a viscous
+                                                    glowing fluid as seen in the entrance chamber,
+ As you continue your descent, the air gets         area 1. A narrow walkway curves skirts the
+ denser and colder. The soft luminescence of        edge of the lake, leading to the other side of
+ the blue spores grows stronger and more            the room. As the party cross, a group of
+ pervasive. Your head throbs and it feels as if     infected villagers emerge from the lake,
+ the pulsing rhythm of the spores permeates         attacking the party. To make this encounter
+ not only the air but the very rock around you.     more difficult, fungal shepherds may be placed
+
+                                 Liber Obscura 009 – Mycena Mortifera                                   7
+along outcropping areas or small islands in         7) Stairway Descent 2
+the lake, forcing the party to attack from range
+                                                    The stairway descending to the third level is
+or swim through the dangerous waters to
+                                                    narrow and slick with moisture, like the one
+reach them.
+                                                    encountered in area 4. The total height of the
+                                                    staircase changes depending on the adventure
+LAKE ENCOUNTER                                      difficulty. A DC 5 Dexterity (Acrobatics)
+                                                    check is required to descend every 10 feet
+    Difficulty   Enemies
+                                                    safely. On a failure, a character slips and
+    Beginner     3 zombies                          tumbles down the remaining stairway, taking
+                                                    1d6 bludgeoning damage for every 10 feet
+                                                    they fall.
+    Easy         1 zombie and 1 fungal
+                 shepherd*
+                                                    STAIRWAY HEIGHT TABLE
+    Medium       5 zombies and 2 fungal
+                                                      Difficulty               Total Height
+                 shepherds*
+                                                      Beginner                 20 feet
+    Hard         6 zombies and 3 fungal
+                 shepherds*
+                                                      Easy                     30 feet
+
+                                                      Medium                   40 feet
+
+                                                      Hard                     50 feet
+
+
+
+                                                    Cavern Level 3
+                                                    When the party descends to the third level of
+                                                    the cavern, they will draw near the heart of the
+                                                    Mycena Mortifera. Read this script.
+
+
+                                                      The air becomes palpably thicker, pressing
+                                                      upon you like an unseen force. The glowing
+                                                      blue spores are now blindingly bright, their
+                                                      pulsing rhythm, once faint and distant, now
+                                                      throbbing loudly in your ears. The very walls
+                                                      of the cavern seem to breathe, expanding and
+                                                      contracting with each rhythmic pulse. You are
+                                                      in the heart of the mycelium’s domain.
+
+8                                Liber Obscura 009 – Mycena Mortifera
+Mortifera’s Effect. On the last level of the        STALACTITE DAMAGE TABLE
+cavern, the Mortifera’s psychoactive effects
+will be strongest. It will use its spores as a        Difficulty             Piercing Damage
+natural defense, making it difficult for the
+party to proceed. The spores have been                Beginner               1d4
+seeping into the party’s bodies ever since they
+arrived at the village, and it is now that they       Easy                   2d4
+will begin to feel the significant effects of the
+mycelium. The mesmeric effect of the spores           Medium                 4d4
+makes the Mortifera’s victims weak and
+susceptible to the attacks of its mind-               Hard                   6d4
+controlled and reanimated servants.
+
+                                                    At the far end of the chamber is a narrow
+ Mortifying Spores. As creatures approach           tunnel leading to the Mycelia Mortifera’s
+ the Mycena Mortifera, its spores begin to          chamber.
+ have a greater effect, enhancing its natural
+ defenses and preparing its victims for their       9) Mycelium Cavern
+ death and reanimation. The spores begin to
+                                                    The final room of the dungeon is where the
+ produce a hypnotic effect. Each living
+ humanoid creature that approaches within           Mycena Mortifera grows, spreading its sinister
+ 500 feet must roll a DC 10 Wisdom saving           spores into the environment, infecting the
+ throw. On a failure, the spores begin to           nearby waters, soil, and air. However,
+ suppress their brain functions, granting           harvesting or destroying the fungus will not be
+ disadvantage on all saving throws for the next     easy. Transformed guardians defend the
+ 24 hours. If a creature dies while under this      fungal core, a final bulwark against any
+ effect, they rise in 1 hour as an undead           intruders. This encounter is designed with its
+ servant of the Mycena Mortifera.                   own map and enemies.
+
+
+8) Stalactite Chamber
+The first room on this level is a high-ceilinged
+chamber, the roof filled with sharp stalactites.
+As the party moves through the room, a
+sudden shift causes some of the stalactites to
+fall, prompting a DC 15 Dexterity (Saving
+Throw) to avoid being hit. On a failure, the
+character is struck by a falling stalactite,
+taking piercing damage scaled by difficulty.
+
+
+                                 Liber Obscura 009 – Mycena Mortifera                            9
+      MYCELIUM CAVERN                              3) The Mycena Mortifera
+The map of the final cavern is represented by      The Mortifera sits at the far end of the
+the following areas.                               chamber. It has 10 AC and 150 hit points. If it
+                                                   is destroyed, its telepathic connection to the
+1) Cavern Entrance                                 spores will be lost, and the spores will slowly
+The party enters the cavern from a small           wither and fade over the next 24 hours. Any
+alcove. They should start around this area, but    risen dead or still-living humanoids affected by
+they may have a chance to spread out before        the spores will be cleansed of the effect,
+they are noticed by any enemies if they            becoming still or healthy once again.
+attempt to infiltrate the room stealthily.
+
+
+2) Spore-Filled Ravine
+A 15-foot deep ravine cuts through
+the chamber, making the remaining
+platforms precarious to navigate
+and fight on. The ravine is filled
+with spores, and the air
+within has the
+same effect
+as spore-
+filled
+water.
+
+
+
+
+10                              Liber Obscura 009 – Mycena Mortifera
+                                                 During this engagement, the fungal shepherds
+Mycelium Cavern Encounter
+                                                 will attempt to use their spores to poison and
+The following enemies are present in this
+                                                 debilitate the party while escaping to safe
+area, ready to defend the Mortifera from
+                                                 areas and allowing their poisons to finish off
+invaders. The enemies that are present here
+                                                 their foes. Fungal knights will attempt to
+change depending on adventure difficulty.
+
+                              Liber Obscura 009 – Mycena Mortifera                          11
+knock characters into the ravine with their          LOOT TABLE
+parrying strike ability and will use their fungal
+growth ability to force enemies to move by             4d10         Item Discovered
+creating hazardous zones. All enemies will
+disregard their own safety and attack any              28+          Parrying Buckler* (uncommon)
+creature that attacks the Mycena Mortifera.
+                                                       1 – 27       Nothing
+MORTIFERA ENCOUNTER
+ Difficulty    Enemies                               Ending the Adventure
+                                                     After any enemies are defeated, the party may
+ Beginner      1 fungal shepherd*                    harvest a sample of the Mycena Mortifera or
+                                                     burn it down as their quest requires, before
+ Easy          1 fungal knight*                      making their journey back to the surface.
+
+ Medium        2 fungal shepherds* and 1
+               fungal knight*
+
+ Hard          3 fungal shepherds* and 2
+               fungal knights*
+
+
+Loot. If the party defeats the enemies, they
+may roll 4d10. Based on the cumulative roll
+score, they find the item corresponding to the
+highest score they reach. Add a bonus to the
+cumulative roll score depending on the
+adventure difficulty level.
+
+
+ Difficulty                 Loot Roll Bonus
+
+ Beginner                   +0
+
+ Easy                       +1
+
+ Medium                     +2
+
+ Hard                       +3
+
+
+12                                Liber Obscura 009 – Mycena Mortifera
+                                   MONSTERS & NPCS
+Spore Burster                                             Fungal shepherd
+Medium undead, unaligned                                  Medium undead, unaligned
+Armor Class 16 (natural armor)                            Armor Class 14 (natural armor)
+Hit Points 40 (9d8)                                       Hit Points 45 (10d8)
+Speed 30 ft.                                              Speed 30 ft.
+
+  STR     DEX     CON      INT     WIS     CHA              STR    DEX     CON      INT     WIS     CHA
+   14      12      10        2      8       6                12     10      10       14      14      16
+  (+2)    (+1)    (+0)     (-4)    (-1)    (-2)             (+1)   (+0)    (+0)     (+2)    (+2)    (+3)
+
+Damage Immunities poison                                  Damage Immunities poison
+Condition Immunities poisoned                             Condition Immunities poisoned
+Senses darkvision 60 ft., passive Perception 9            Senses darkvision 60 ft., passive Perception 12
+Languages –                                               Languages –
+Challenge 2 (450 XP)                                      Challenge 3 (700 XP)
+
+Spore Burst. When the spore burster dies, it              Actions:
+explodes in a cloud of poisonous spores. Each
+living creature within 10 feet of it must make a         Quarterstaff. Melee Weapon Attack: +3 to hit,
+DC 12 Constitution saving throw, taking 7 (2d6)          reach 5 ft., one target. Hit: 4 (1d6 +1) bludgeoning
+poison damage on a failed save, or half as much          damage or 5 (1d8 +1) bludgeoning damage if used
+damage on a successful one.                              with two hands.
+
+
+Actions:                                                 Neural Spore (Recharge 4-6). The madcap ejects
+                                                         spores at one living creature it can see within 30
+Multiattack. This creatures makes two attacks.           feet. The target must succeed on a DC 13 Wisdom
+                                                         saving throw or become stunned for one minute.
+Fist. Melee Weapon Attack: +4 to hit, reach 5 ft.,       The target can repeat the saving throw at the end
+one target. Hit: 5 (1d6 + 2) bludgeoning damage          of each of its turns, ending the condition and
+plus 3 (1d6) poison damage.                              gaining advantage on future saving throws against
+                                                         this spore on a success.
+
+                                                         Poison Spore (Recharge 4-6). The fungal
+                                                         shepherd releases a cloud of toxic spores at a
+                                                         point within 60 feet. Each living creature within 15
+                                                         feet of the point must make a DC 13 Constitution
+                                                         saving throw, becoming afflicted by the spore on a
+                                                         failure. The target takes 7 (2d6) poison damage at
+                                                         the start of each of its turns and can repeat the
+                                                         saving throw at the end of each of its turns,
+                                                         ending the condition on a success.
+
+                                    Liber Obscura 009 – Mycena Mortifera                                    13
+ Fungal Knight                                             Actions
+ Large undead, unaligned                                   Multiattack. The fungal knight makes two attacks
+ Armor Class 15 (natural armor)                            with its battleaxe.
+ Hit Points 126 (12d10 + 60)
+ Speed 30 ft.                                              Battleaxe. Melee Weapon Attack: +7 to hit, reach 5
+                                                           ft., one target. Hit: 13 (2d8 +4) slashing damage or
+     STR    DEX    CON       INT     WIS      CHA          15 (2d10 +4) slashing damage if used with two
+      18     10     20        8       14       12          hands.
+     (+4)   (+0)   (+5)      (-1)    (+2)     (+1)
+                                                           Funal Growth (1/Day). The fungal knight targets a
+ Saving Throws Str +8, Con +8
+                                                           5-foot square within 30 feet of it. A large
+ Skills Athletics +8, Perception +5
+                                                           mushroom immediately sprouts from the ground,
+ Damage Immunities poison
+                                                           acting as full cover. It has an AC of 10 and 50 hit
+ Condition Immunities poisoned
+                                                           points. The mushroom begins spewing a cloud of
+ Senses darkvision 60 ft., passive Perception 15
+                                                           spores in a 10-foot radius. Any creature ending its
+ Languages –
+                                                           turn within this radius must make a DC 13
+ Challenge 5 (1,800 XP)
+                                                           Constitution saving throw or take 10 (3d6) poison
+ Mycelium Regeneration. The fungal knight                  damage. The poisonous cloud spreads an
+ regenerates 5 hit points at the start of its turn if it   additional 5 feet at the start of each of the fungal
+ has at least 1 hit point and is not in sunlight. If the   knight’s turns until the fungal knight is slain or the
+ fungal knight takes radiant damage, this trait            mushroom is destroyed.
+ doesn't function at the start of the fungal knight's
+ next turn.                                                Reactions
+                                                           Parrying Strike. Using its buckler shield, the
+ Poison Burst (Recharge 6). When the fungal
+                                                           fungal knight attempts to block an attack, adding 2
+ knight is hit with a melee attack, it can release a
+                                                           to its AC against one melee attack. To do so, the
+ cloud of spores in a 10-foot radius around it. Each
+                                                           fungal knight must see the attacker. Then, the
+ creature in that area must make a DC 16
+                                                           fungal knight may immediately bash its attacker
+ Constitution saving throw, becoming poisoned for 1
+                                                           with its arm. The attacker must make a DC 12
+ minute on a failed save. A creature can repeat the
+                                                           Dexterity saving throw, taking 3 (1d6) bludgeoning
+ saving throw at the end of each of its turns, ending
+                                                           damage and being knocked back 5 feet on a failure.
+ the effect on itself on a success.
+
+
+
+
+14                                    Liber Obscura 009 – Mycena Mortifera
+            ITEMS
+
+
+
+
+Liber Obscura 009 – Mycena Mortifera   15
+

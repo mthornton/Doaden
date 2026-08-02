@@ -1,0 +1,515 @@
+1
+             BURIAL ISLE
+
+
+    A Forbidden Psalm ComPatible Adventure
+
+
+
+
+2
+     THE WORLD OF DOADEN
+
+W
+         elcome to Doaden, the dark fantasy setting of tainted
+         lands and twisted   monsters, where an ever-creeping
+           affliction corrodes the very essence of existence.
+
+
+It is a world of decay and depravity where once-righteous men
+and heroes of glorious purpose now struggle to survive as cults
+and dark gods vie with one another to consume the last vestiges
+                         of humanity.
+
+
+
+
+                                                                  3
+                           CREDITS
+
+    Developed by:
+       Bestiarum Games
+
+    Game Designer:
+      Kevin Rahman
+
+    Graphic Design:
+     Marina Jukova
+     Katarina Popovici
+     Alexander Dovermann
+
+    Cartography:
+      Dorian Pushka
+      Katarina Popovici
+
+
+
+
+                              ON THE COVER:
+
+                              TOMB OF GOD
+
+                              “
+                              The Chamber in a Scythrian Tomb
+                              contains an inhumanly large and
+                              unnerving sarcophagus, the resting place
+                              of an Ancient God.
+
+
+
+                                                                   ʼʼ
+
+4
+                                             CONTENTS
+
+CREDITS...................................................4        Solo Play............................................17
+CONTENTS...............................................5           RPG Text Box ...................................17
+FOREWORD.............................................6
+                                                                   Map 2.....................................................17
+  The Order............................................6         SCENARIO 3:
+  The Greater Good...........................6                   BURIED SECRETS................................18
+  A United Society...............................6                 Goal......................................................19
+ADVENTURE SUMMARY:                                                 Reward.................................................19
+Burial Isle............................................7           Setup and Treasure ........................19
+   Story Hook.........................................7            Deployment.........................................19
+  Chapters...............................................7         Threats.................................................19
+Introduction......................................8                Solo Play............................................19
+   Burial Isle..........................................8          RPG Text Box ...................................19
+   Tormentor Cult...............................8                  Map 3.....................................................20
+   Vozruk the Storm Crow............9                            EPILOGUE..............................................21
+                                                                 MONSTERS.............................................22
+SCENARIO 1: AWAKE..........................10                      Scythrian Warrior........................23
+  Goal......................................................11     Infected Scythrian..........................24
+  Reward.................................................11        Corrupted Idol ................................25
+  Setup and Treasure ........................11
+  Deployment.........................................11
+  Threats.................................................11
+  Solo Play............................................11
+  RPG Text Box ...................................11
+  Map 1.....................................................12
+   SCENARIO 2:
+TRAILING THE CULT.........................13
+  Goal......................................................16
+  Reward.................................................16
+  Setup and Treasure ........................16
+  Deployment.........................................16
+  Threats.................................................17
+                                                                                                                                  5
+                                             FOREWORD
+
+                                                            The Greater Good
+                                                              The Order is an apolitical and irreligious
+        In Forbidden Psalm Adventure you                    organization, drawing its members from a
+        will find:                                          wide variety of factions, institutions, and
+                                                            backgrounds.
+        • Three scenarios created for the                    The creed of all Order members is to protect the
+        monsters from Bestiarum Miniatures;                 “Greater Good.”
+        • Rules for monsters.
+                                                               However, the interpretation of this phrase
+        These scenarios should be played in order.          is left to the agents. While on a mission, if an
+        You will need a copy of the Forbidden               agent determines the Greater Good calls for the
+        Psalm Core Book to play:                            resolute protection of a small town, or conversely,
+        https://www.forbiddenpsalm.com/forbidden-psalm      its sacrifice to protect a larger interest, these
+                                                            decisions are equally valid.
+        These scenarios should be played in                   It is through the diversity of opinion, ideology,
+        solo or coop only.                                  and methodology, that the Order seeks to achieve
+                                                            a democratized truth.
+                                                              To the Order, disagreement and discussion
+                                                            is necessary for justice, and it is only through
+                                                            conflict and compromise that humanity may
+                                                            survive.
+
+
+                                                            A United Society
+                                                              Many different cells of the Order’s agents
+    THE ORDER                                               operate throughout the world. The dominant cell
+                                                            in the west is the Templar Rangers.
+      The Order is a secretive organization dedicated         In the south, the dominant cell is the Sand
+    to preserving humanity.                                 Whispers. Each region has its own dominant cell
+                                                            and many smaller, lesser-known cells.
+      The organization recruits a diverse range of
+    agents from across the world.                            Cells operate out of temporary or mobile
+                                                            headquarters, changing locations frequently,
+      These agents are assigned on important missions       making it impossible to track down any specific
+    such as slaying monsters, collecting powerful           member unless they wish to be found.
+    artifacts, gathering intelligence, or accomplishing
+    a wide range of other tasks.                              This secrecy makes it difficult for agents to
+                                                            get a clear idea of the global structure of the
+     Nobody knows who leads the Order.                      organization and or keep tabs on each other.
+      Missions are disseminated down through many             However, it is necessary to prevent attacks or
+    layers of command and might even pass between           retaliation from government or church powers
+    several different agent cells before they are finally   should any agent’s actions conflict with those
+    assigned.                                               powers.
+
+6
+                   FP ADVENTURE SUMMARY:
+                         BURIAL ISLE
+
+
+B
+              urial Isle is a starter scenario,        CHAPTERS
+              designed to introduce parties to the
+              world of Doaden.                           Chapter 1:
+              Players should make their own              After being caught in a sea storm, the warbands
+              warbands for Forbidden Psalm             awakens on a mysterious island amidst a mass of
+              following the rules from the core        shipwrecks.
+Forbidden Psalm rule book. Each warband                  Exploring the beach, they find signs of cult
+will act as agents for the Order, a secretive          activity.
+organization that fights for the survival of
+mankind.                                                 Chapter 2:
+Your warbands will crash on a mysterious island          Following the footprints of the cult, the
+and explore an ominous burial tomb as they chase       warbands find an underground passageway
+down a group of nefarious cultists.                    leading to the entrance of an ancient Scythrian
+After completing this adventure, you can take          tomb.
+your warband on one of the monthly adventures.           The Scythrians are a civilization that has been
+                                                       extinct for thousands of years, and little is known
+                                                       about them anymore.
+STORY HOOK
+                                                         Chapter 3:
+Each warband has joined the Order, a secret              Opening the door to the tomb is challenging and
+organization dedicated to achieving the “Greater       requires the warbands to solve a puzzle.
+Good” in the fight for mankind’s survival. Vozruk        Once the door is opened, the party enters a
+the Storm Crow, a commander of the Order, has          strange tomb littered with deadly traps, dead
+grouped the warbands together and assigned them        cultists, and risen undead.
+on their first mission, to investigate cult activity     To their horror, they find the cultists siphoning
+off the southern coast of the Western Reaches.         blood from a dead god. Such blood holds
+Unfortunately, while traveling to the island, the      incredible power, and the cultists must be stopped
+party’s ship is torn apart by a savage storm.          from using it.
+
+
+
+
+                                                                                                             7
+                                     INTRODUCTION
+    BURIAL ISLE
+      This adventure takes place on a strange,
+    unnamed island off the coast of the Western
+    Reaches.
+       The island is a burial tomb for the Scythrians,
+    an extinct civilization from long before the Old
+    Empire.
+       Little is known about the Scythrians. The
+    cultists have been hard at work excavating an
+    ancient Scythrian tomb.
+
+
+
+    TORMENTOR CULT
+      A group of cultists have been visiting the
+    Burial Isle. They excavated the Scythrian tomb
+    and unearthed the sarcophagus of a dead god.
+       They have been syphoning its blood to use
+    in nefarious rituals dedicated to the Jailer, the
+    chaotic demon that rules over a bizarre dimension
+    known as the Prison Realm.
+
+
+
+
+8
+VOZRUK THE STORM CROW
+  Vozruk is a Templar Ranger commander who recruited each PC into the Order and will assign them
+to all their missions.
+  The party will likely build a strong bond with him over time, so you should spend some time to build
+his personality, history, and character.
+   Although Vozruk is referred to as a man in text, there is no reason why this must be so, and you can
+make Vozruk any way you wish.
+
+
+
+
+                                                                                                          9
+     Scenario 1: AWAKE
+
+
+
+
+10
+Y
+           our warbands jolt awake, their minds      randomly throw 1 dice for each model in your
+           reeling from the storm that tore apart    warband onto the table. Place the warband
+           their ship.                               member where the dice lands. This is to replicate
+                                                     where they were washed ashore.
+            Bodies heaving as they wretch what
+            feels like buckets of water from           Threats
+their lungs. Their bodies ache, but slowly each
+warband member forces themselves up, wiping             At the end of the players first phase roll a D6
+coarse sand from their bodies. Their clothes are     for each model, on a result of a 6 a Scythrian
+heavy with water.                                    Warrior rises up from the sand and attacks them.
+                                                     Do this every round for every model until that
+   Looking about, finding a rocky island no more     model triggers a Scythrian Warrior or leaves the
+than a few miles long. Piles of shipwrecks litter    table.
+the beach, and the bodies of the other Templar
+Rangers have washed ashore.                            Solo Play
+   The warbands ears are filled with the crash of      As Above
+waves on the jagged rock reefs and the chatter of
+gulls circling above.
+                                                        The Scenario ends when all models leave the
+   Goal                                              table or are downed.
+   Follow the cultists tracks and fight the
+skeletons!
+                                                       RPG Text Box
+   Reward
+                                                       When the party awake read:
+   A clue to follow
+
+   Setup and Treasure
+                                                          Sand clogs your nose and water burns your
+   On a Board that measures 12 inches by 36           lungs. You look up into the sky as you come
+inches you should setup terrain as shown in the       to terms with what happened. Shipwrecked of
+diagram. You need to mark some rocks to the           all things. Standing you begin to collect what
+south and 2 crashes boats as shown.                   you can from the ship debris, at least until
+   A1 is the exit from the board.                     something under the sand is disturbed by your
+
+   A2, place 3 pools of blood. This is God blood
+and any model that touches it must make a
+toughness test. On a failure they take 1D4 damage
+on a pass they can improve their Toughness by 1.
+   A3 is a pill of loot that can be searched for a
+random item. The first model that loots this pile
+gains the Ornate Shield. Boxes can be looted 5
+times before all that is there is taken.
+  Ornate Shield – Acts as a shield but also
+grants +1 Armor.
+
+   Deployment
+   From the top of the board down (the coast)
+                                                                                                          11
+     Map 1
+
+
+
+
+12
+   Scenario 2:
+TRAILING The CULT
+
+
+
+
+                    13
+14
+15
+     T
+               he tunnel descends through the heart              This rocky formation is suspended above an
+               of the island, coming to a floating rock       endless chasm, models that fall off the chasm are
+               formation over a deep chasm.                   killed.
+               Sunlight filters in through cracks in the          A solid stone bridge connects the floating
+               ceiling. At the far end of the cavern is       island, area A2, to a stone archway built into the
+     the entrance to a Scythrian burial tomb. To enter        far cavern wall. The archway is sealed by a large
+     the tomb, the warband must solve a riddle.               stone door. Three fist-sized stone squares are
+                                                              built into the door. Each square is carved with a
+        The warbands follow the dark passageway as it         Scythrian rune, a long-dead language that no one
+     descends into the earth, curving towards the heart       can read anymore. To open this door, the squares
+     of the island. Dozens of footprints run back and         must be pressed in a specific order.
+     forth.
+                                                                 Opening the door.
+        Clearly, the cult had been busy for quite some
+     time. Long, straight scuffs along the walls suggest         A model may attempt a presence test as an
+     they carried heavy tools and equipment with them         action when within 1 inch of the door in A2. On a
+     down into the earth.                                     pass they open the door. On a failure they take 1
+                                                              damage as the door is trapped!
+        After several minutes, the dim tunnel opens to
+     a wondrous sight. Stepping onto a small ledge in a          Deployment
+     large cavern.
+                                                                All warband members should be placed around
+         Sunlight filters in through ceiling cracks high      A3
+     above, illuminating a rock formation suspended
+     above a bottomless chasm. A small ecosystem of                                   Map 2
+     mosses, grass, and even a sturdy tree has grown
+     over the top of the formation and the echoes of a
+     gentle waterfall resound throughout the chamber
+     as it cascades into the depths below.
+
+
+
+        Goal
+        Work out how to get into the cultists lair
+
+        Reward
+        Progression towards the cultists!
+
+        Setup and Treasure
+         Set up a table as shown in map 2. Each square
+     is 1 inch by 1 inch.
+        A3 is connected to A1 by a rope bridge,
+     models that cross this must pass an agility test, On
+     a failure they slip and fall! If they fall roll a D20,
+     on a result of a 5 or lower they fall to their deaths
+     on a 6+ they manage to make it across.
+        In Area A1 place 3 dead Cultists that can be
+     looted.
+16
+  Threats                                     RPG Text Box
+ At the end of each round 2 Scythrian         When the party open the door read:
+Warriors climb up the walls of A1.
+                                               The walls of the cavern shudder as the solid
+  Solo Play                                 stone door begins to move. It slides sideways
+  As above                                  into the earth, revealing a narrow, dark tunnel
+                                            constructed from large blocks of rough-hewn
+   The Scenario ends when all models move   stone. Echoing through the darkness, you hear a
+through the door in A2                      soft mechanical grinding.
+
+
+
+
+                                                                                              17
+       Scenario 3:
+     BURIED SECRETS
+
+
+
+
+18
+A
+              After moving through trap laden             Solo Play
+           passageways, the warbands come
+           across the final chamber.                      Infected Scythrian only spawn on odd rounds.
+
+              This chamber is lined with rows
+of human-sized sarcophags, each carved in the              The Scenario ends when all models have left
+likeness of a man.                                      the board.
+   Watching over the dead is a strange statue of
+a woman with six arms and four faces. Her lower
+body is that of a lion, but its skin is scaled like a     RPG Text Box
+snake or a fish.
+                                                          When the party escapes read:
+  To the rear is the way out, the way the cultists
+must have gone.
+                                                             You climb over the remnants of the
+   Goal                                                   barricade and through a destroyed
+                                                          section of the temple wall, stepping
+   Escape and follow the cultists tracks                  back onto a sunlit beach. Seeing no
+                                                          shipwrecks, you realize you must be on
+   Reward                                                 the other side of the island from when
+  Warbands that successfully escape earn 10xp             you started. Hurried tracks run through
+and 10 gold                                               the sand to the water, where you see a
+                                                          small, abandoned boat.
+   Setup and Treasure
+                                                              Near the horizon, you see another
+   Setup a board as shown in Map 3. A                     boat headed away from the island. On
+Sarcophagi should be placed in the centre of              it are several hooded cultists, busily
+the Map A3 around which is placed 2 treasure              rowing and attending to a large,
+tokens that can be looted.                                sealed wooden crate.
+    A2 represents the way out but it is boarded
+up and warbands will need to break it down by
+dealing 30 damage to it. It can be targeted as if
+it was a model and has 0 Armor. Models can
+only leave the board via A2 once the barrier is
+destroyed.
+
+   Deployment
+   All warband members should be
+placed around A1.
+
+   Threats
+   When the warbands first deal damage to the
+blocked path in A2 or loot one of the treasure
+tokens the Corrupted Idol awakens and should
+be placed next to A3.
+  Every round 1 Infected Scythrian spawns in
+A1 at the end of the round.
+
+                                                                                                         19
+     Map 3
+
+
+
+
+20
+                                      EPILOGUE
+
+
+T
+           he Cultists were storing two small         The party may use the second boat to escape
+           boats on the beach.                     from the island and pursue them.
+          They planned to use both to escape          The cultists are headed back to the main
+          with the blood and return to the         continent of the Western Reaches, where they
+Western Reaches.                                   are performing a nefarious ritual. The second
+                                                   starter adventure, Rise of the Jailer, finishes this
+   However, so many died that they could carry
+                                                   narrative
+half as much blood as they wanted and could only
+operate one of the boats.
+
+
+
+
+                                                                                                          21
+                                         Monsters
+
+     All monsters in Forbidden Psalm: The Tainted Lands of Doaden treat other monsters as friendly.
+
+
+
+
+22
+                        SCYTHRIAN WARRIOR
+
+HP: 8
+
+Morale: -
+
+Sword: 1D6
+
+Armor: 1
+
+
+Special:
+When the warrior is dropped to 0HP roll a D20
+and on a result of 12 or more it stands back up
+with 1HP /
+
+
+
+
+                                                  23
+     INFECTED SCYTHRIAN
+
+              HP: 7
+
+              Morale: -
+
+              Sword: 1D6
+
+              Armor: 1
+
+
+
+
+              Special:
+              Whenever a model hits the Infected in close
+              combat, they take 1 Damage
+
+
+
+
+24
+                            CORRUPTED IDOL
+
+
+HP: 20
+
+Morale: -
+
+Slam: 1D8
+
+Armor: 2
+
+
+
+
+Special:
+All Damage dealt to Idol is halfed.
+
+
+
+
+                                             25
+26
+27
+28
+29
+30
+31
+

@@ -1,0 +1,673 @@
+       BLACKTHORN MANOR
+                      Level Scaling
+                          1 – 10
+
+
+Infiltrate an accursed manor and unearth the secret of the
+        bestial knights in this easy-to-run adventure
+
+
+
+                                              Liber Obscura 011
+  “The path to redemption is a treacherous journey walked alone,
+     each step resonating with the sorrow of a thousand sins."
+
+
+
+
+                                    CREDITS
+Writer/Designer: Alexander H. Dovermann   Produced by: Bestiarum Games
+          his module can be run as a one-shot        Blackthorn Manor
+          or as part of a persistent dark fantasy
+                                                     Blackthorn Manor, lord Geddyn’s once
+
+T         campaign using Bestiarum’s Path of
+          Penitence (PoP) system. Creatures
+          and items marked with an asterisk (*)
+          are new. Their information can be
+                                                     opulent residence, has fallen into disrepair
+                                                     over the decades. The manor is walled and
+                                                     fortified; a stronghold that will prove difficult
+                                                     to infiltrate. As the party explores the manor
+found at the end of the adventure.
+                                                     grounds, they will find evidence of the bestial
+                                                     knights’ dark deeds and clues about their
+Tier I. This adventure scales in difficulty
+                                                     history, though much remains shrouded in
+based on your party’s Average Party Level
+                                                     mystery.
+(APL). Use the following table to determine
+the appropriate difficulty for your party. If your
+                                                     GM Info. Decades ago, Blackthorn Manor was
+party finds the scenario too easy or hard, you
+                                                     the seat of power for the last descendant of the
+can shift difficulties, even mid adventure!
+                                                     Geddyn family. Now, it lies in ruins, unkempt
+                                                     and overgrown, a shell of its old grandeur. A
+ADVENTURE DIFFICULTY                                 contingent of the lord’s knights maintain a
+ Difficulty                 APL                      presence, tending to their master’s old
+ Beginner                   1–2                      belongings. However, their main forces have
+                                                     left to accompany him on expeditions into the
+ Easy                       3–4
+                                                     wilds, to seek favor with the mother of beasts,
+ Medium                     5–7                      a twisted spirit that beckons them to ever
+ Hard                       8 – 10                   darker deeds. The knights of the manor retain
+                                                     a handful of slaves to cook, and attend to
+                                                     them, but they are far too few to maintain the
+Adventure Introduction                               structures of the derelict manor.
+Lord Geddyn’s once-noble knights have                    Lord Geddyn’s fall from grace was a baleful
+become twisted paragons of darkness, falling         tale. Darkness crept into his mind, calling him
+to corruption after his binding to a malevolent      to the wild realms. In the following years, he
+evil that now lays claim to their souls. This evil   became ever more reclusive, trusting only his
+thing, the mother of beasts, twists their bodies     closes knights and advisors, and leading
+and minds into its own sinister image, driving       expeditions into primeval forests, always in
+them to horrendous deeds. The party must             search of a voice that spoke to him in his
+seek to infiltrate the manor and rid the lands       sleep. These years were dark, and the nobles
+of their ilk. In the manor residence, the dark       that once came to court at Blackthorn began
+knights are attempting to summon the spirit          to shun their lord, muttering about madness
+Ydir, a malformed offspring of the mother of         and a rabid hunger that grew in his once-
+beasts, a malignant evil that plagues the wilds      righteous eyes. It was not long before the
+and drives lesser men insane.                        disloyal whispers of the courtesans came to
+                                                     the lord’s ears, and in a fit of rage he rallied
+2                                 Liber Obscura 011 – Blackthorn Manor
+his soldiers to slaughter all of those he once           Location. The adventure can take place in
+knew in a night of unrestrained bloodshed. As         any region of the Empire of Azerai. It may take
+the crimson blood flowed, the dark spirit that        place in the west where knights and feudal
+spoke to the lord was appeased and a pact             lords are most common, or in the north or east
+made, granting him dark powers beyond ken.            where ancient evils and malevolent earthen
+                                                      spirits are still prevalent.
+Adventure Hooks:
+Use one of these hooks to begin the adventure         Starting the Adventure
+or write your own. A strong adventure hook            This easy-to-run adventure module starts as
+gives the party a reason to explore the manor         the party arrives at Blackthorn Manor.
+and confront the dark knights within.                 However, you can start earlier to incorporate
+• Royal Edict. A seer has had visions of              the adventure hook or set up the narrative
+    impending darkness originating from               further. To start the adventure read this script.
+    Blackthorn Manor. She believes the
+    knights of the manor are conducting a
+                                                       As you traverse the winding road through the
+    ritual to summon an evil spirit. The local
+                                                       cursed woods, the air grows thick with fog.
+    lord has issued an edict recruiting
+                                                       Birds are eerily silent, as if unwilling to sing in
+    adventurers to investigate and put a stop
+                                                       the presence of some unseen beast. Even the
+    to this malignancy.                                wind seems to hold its breath, offering only
+• Wanted Poster. In a busy market square,              an occasional mournful sigh through the
+    the party stumbles upon a "Wanted"                 twisted trees. After what feels like an eternity,
+    poster depicting the corrupted knights.            you find a fortified stone wall looming out of
+    The poster details their heinous crimes            the fog — Blackthorn Manor. The tops of a
+    and offers a hefty reward for their heads,         sprawling mansion and great halls beyond
+    especially that of their lieutenant, one of        appear like ghosts, their broken windows
+    the dark knights that have been seen               staring at you like soulless eyes.
+    within the manor.                                     As you come to the front gate, you find the
+• Personal Vengeance. One of the party                 heavy portcullis closed shut. The air thickens
+    members learns that the knights of                 with an almost palpable malevolence as you
+    Blackthorn Manor were responsible for              prepare yourself to enter. You clutch your
+    some personal tragedy in their past (family        weapons and gather your courage. It's time to
+    killed, village razed, etc.), and suggests it's    put an end to the evils that dwell in this place.
+    time for revenge.
+
+Path of Penitence. If you are running a PoP
+campaign, any of the suggested hooks may be
+used to kick off the adventure. The Penitent
+Crusade may assign this mission, or the party
+may be following leads of their own volition.
+                                  Liber Obscura 011 – Blackthorn Manor                                       3
+4   Liber Obscura 011 – Blackthorn Manor
+     BLACKTHORN MANOR                               Rusted Portcullis. The portcullis is heavily
+                                                    rusted but is still functional. It has 20 hit
+The map of Blackthorn Manor is represented
+                                                    points and 15 AC.
+by the following areas.
+                                                       The door can be raised by succeeding on a
+                                                    DC 15 Strength check. However, it must be
+1) Front Gate & Outer Wall                          raised or lowered carefully, or the squeaking
+The towering portcullis that once proudly           metal will alert any enemies patrolling in area
+defended Blackthorn Manor is shut, rusted           2. A DC 15 Intelligence (Investigation) check
+into place after years of neglect. Stone pillars    reveals that due to the years of rust, the
+on either side bear the scars of battle and         portcullis will make loud noise if it is thrust
+time, vines winding their way upwards as if         open or dropped too quickly or carelessly.
+seeking to choke what life remains.
+                                                    Vine Walls. Stone walls surround the manor
+Soiled Banner. Just above the portcullis hang       grounds, 30 feet tall and choked in dense
+the tattered remnants of a once-glorious            vines. The PC may perform an Intelligence
+banner. The original coat of arms—a shield          (Nature) check to determine the nature of the
+and crossed swords—are marred by deep claw          vegetation.
+marks and smeared with blood drawn in a
+symbol that looks ritualistic and arcane.            DC       Information Learned
+                                                     1-9      The vines look thick and dense, but
+                                                              otherwise nothing stands out as
+                                                              unusual.
+                                                     10+      The vines are strange. The twisting
+                                                              tendrils are as thick as iron chains,
+                                                              and its broad leaves are laced with
+                                                              spines as sharp as viper fangs.
+                                                     15+      These are beast vines, carnivorous
+                                                              plants that grow on cursed grounds.
+                                                              Their tendrils subtly shifting along the
+                                                              walls, as if alive and the spines on
+                                                              their broad leaves twitch slightly as if
+                                                              hungrily anticipating their next meal.
+
+
+
+
+           Handout A: Bloody Banner
+
+                                 Liber Obscura 011 – Blackthorn Manor                                    5
+    Beast Vines. Thick vines cover the external         2) Outer Courtyard
+    walls of Blackthorn Manor, making them              The once neat cobblestone front courtyard is
+    dangerous to climb. The vines grasp at any          overgrown with weeds and untamed grass. A
+    creature that comes into contact, seeking to        few withering trees provide scant places for
+    ensnare and consume it. Every time a                cover. At the center is a stone statue of a
+    creature touches the vines or moves 5 feet          knight in armor, chipped and cracked from
+    across the vines, roll 1d4. On a 1, the creature    time and neglect. Marching about the
+    must make a DC 10 Dexterity saving throw.           courtyard are a few soldiers of the beast
+    On a failure, the vines entangle their limbs,       knights. This manor has been unvisited by
+    reducing the creature’s movement to 0. The          outsiders for many years, so they are not
+    creature must take an Action and succeed on         expecting nor actively looking for intruders.
+    a DC 10 Strength saving throw to break free.
+    Each time they fail to break free, they take
+                                                        AREA 2 ENCOUNTER
+    piercing damage. If a section of vines is
+    destroyed, it grows back in place after 6            Difficulty    Enemies
+    seconds.                                             Beginner      2 thugs
+                                                         Easy          1 thug and 1 knight
+     Difficulty        Piercing Damage
+                                                         Medium        1 knight and 1 black knight*
+     Beginner          2 (1d4)
+                                                         Hard          2 black knights*
+     Easy              5 (2d4)
+     Medium            7 (3d4)
+     Hard              10 (4d4)
+
+
+Secret Entrance. Behind the master
+residence building, area 13, is a crumbling
+section of wall. If the party circles the manor’s
+exterior walls, they will find this broken
+section, leading directly into the rear sections
+of the manor grounds. This secret entrance
+can be used for convenient access into the
+deeper manor grounds or as a passageway for
+a quick escape.
+
+
+
+
+6                                    Liber Obscura 011 – Blackthorn Manor
+Knight Statue. Closer inspection of the statue      Hushed Conversation. A PC can eavesdrop
+reveals an eroded inscription, “In Valor, We        on the whispering beast knights by passing a
+Stand Eternal." A DC 15 Intelligence                DC 15 Wisdom (Perception) check, picking
+(History) check reveals that the phrase is          up phrases like "by lord Geddyn’s will," "the
+linked to the once-noble lineage, the Geddyn        blood sacrifice," and "spawn of the mother." A
+family, that ruled in these parts decades ago.      DC 20 Wisdom (Perception) check allows the
+                                                    PC to hear enough to understand fully that a
+Flowers. A DC 15 Wisdom (Perception)                group of cultists are work below the master’s
+check in the courtyard reveals a small patch of     residence and conducting a ritual to summon
+flowers at the roots of a tree. While the rest of   some dark bestial spirit.
+the area is unkempt and overgrown, these
+flowers are carefully manicured and cared for,      Unstable Chandelier. The chandelier’s chain
+a sign that perhaps not all the manor’s             has 5 hit points and 10 AC. If the chain is
+inhabitants have given into evil. They were         destroyed, the chandelier falls, dealing 4d6
+planted here and maintained by Iyk, a servant       bludgeoning damage to all creatures below.
+who can be found in the chapel, area 7.
+                                                    Enemies. Around a circular table beneath the
+3) Great Hall                                       chandelier sit several beast knights.
+The great hall once stood as a testament to the
+prosperity of Blackthorn Manor, where lord          AREA 3 ENCOUNTER
+Geddyn held public court and events. When            Difficulty    Enemies
+the party enters, read this script.                  Beginner      2 guards and 1 thug
+                                                     Easy          1 thug and 1 knight
+ You step into a grand hall filled with long
+                                                     Medium        3 thugs and 2 knights
+ tables that could have sat scores each, now
+ broken, the wood rotting and cracked. The           Hard          4 knights
+ walls are adorned with faded tapestries
+ depicting hunting scenes and the serenity of       4) Knight’s Quarters
+ nature, a stark contrast to the room's current
+                                                    This area contains the private quarters of the
+ state of decay. Your eyes drift upwards to an
+                                                    beast knights. It is in a state of semi-disrepair,
+ old chandelier hanging precariously from the
+ ceiling on a rusted chain. Seated beneath this     albeit far better maintained than the rest of the
+ chandelier at a round table, are a group of        manor, scattered with sparse furniture like
+ knights in dark armor, speaking in hushed yet      creaky beds, tables, and footlockers. Sleeping
+ urgent tones, engrossed in some manner of          in various beds around the room are some of
+ heated discussion.                                 the beast knights. If a commotion is made,
+                                                    they will all wake up and attack, though they
+                                                    will not be able to take any action on their first
+
+
+                                 Liber Obscura 011 – Blackthorn Manor                               7
+round of combat when waking from slumber,            Blackthorn Manor Map. The first time the
+as they take up their weapons.                       party rolls a 1 – 5 on the footlocker loot table,
+                                                     they find a blueprint of Blackthorn Manor. The
+AREA 4 ENCOUNTER                                     diagram does not reveal locked doors or the
+                                                     damaged section of the outer wall. But it does
+ Difficulty      Enemies
+                                                     display the names and locations of all the
+ Beginner        3 guards
+                                                     buildings located on the grounds.
+ Easy            2 scouts
+ Medium          2 scouts and 1 knight
+ Hard            1 scout and 2 knights
+
+
+Footlockers. There are 6 footlockers in the
+room, each containing personal belongings of
+the manor residents, mostly mundane items
+like clothing and grooming equipment. A DC
+15 Dexterity (Sleight of Hand) check can be
+made to unlock each one, or they may be
+bashed open with a DC 15 Strength check.
+They have 10 AC and 10 hit points. For each
+one that is opened, roll a d10 for the following
+table to determine what is inside.
+
+FOOTLOCKER LOOT TABLE
+ d10      Loot
+ 10       1 weapon +1, 1 shield +1, or 50 pieces
+          of ammo +1.
+ 9        1 set of plate armor of the beast
+                                                            Handout B: Blackthorn Manor Map
+          knights. Anyone donning this armor
+          could pass for one of them at a
+          distance, gaining advantage on
+                                                     5) Dining Hall
+          Charisma (Deception) checks when           The dining hall was once the epicenter of
+          interacting with them from afar.           jubilant feasts and celebrations. Now, the long
+                                                     oak tables are tarnished, covered in a thick
+ 6–8      A pouch with 1d100 gp.
+                                                     layer of dust, and littered with remnants of
+ 1–5      First a Blackthorn Manor Map*, then        cruel feasts — animal bones, spoiled fruit, and
+          a playing card set or other trifle.        dark stains that one hopes are wine. A
+                                                     massive fireplace on one end of the hall is
+                                                     dark and cold, and filled with only ashes. A
+8                                 Liber Obscura 011 – Blackthorn Manor
+group of soldiers sit around one table, digging     Oola. Oola is a timid slave who has been
+into a roasted boar. A closer look at the boar      subjugated to the knights’ cruelty for decades.
+reveals the meat is rotting, oozing with            Her spirit is broken, fearful of being punished
+maggots as flies circle above. Hungrily             for the slightest provocation. Her eyes widen
+devouring the rotting meat on the table are the     in fear upon seeing the party, knowing she will
+following enemies.                                  be punished cruelly if she is caught consorting
+                                                    with them. A DC 15 Wisdom (Insight) check
+AREA 5 ENCOUNTER                                    reveals she will be more responsive to
+                                                    intimidation than persuasion.
+ Difficulty   Enemies
+                                                        A DC 20 Charisma (Persuasion) or DC 10
+ Beginner     4 guards
+                                                    Charisma (Intimidation) check can convince
+ Easy         4 thugs                               Oola to share information about the manor.
+ Medium       4 thugs and 1 knight                  She knows the layout well but doesn’t know
+                                                    anything about the ritual. However, she knows
+ Hard         4 thugs and 2 knights
+                                                    the master residence has been under careful
+                                                    guard lately and she has been preparing much
+6) Kitchen                                          more food than normal to deliver there.
+The small kitchen is a mess, dirty and              Hidden among Oola’s bags of spices and
+unkempt. A ragged servant named Oola                herbs are 2 potions of healing. A DC 15
+prepares the meals of the knights here. When        Wisdom (Perception) check reveals them.
+the party enters the kitchen, read this script.     She gives them to the party if she helps them.
+
+
+                                                    7) Chapel
+ You enter a small kitchen. The floor is caked
+ in old blood and scraps of fur. Rusted pots        The chapel was once a serene sanctuary. Now,
+ hang from the walls and a cauldron bubbles         it is tainted by the beast knights’ corruption.
+ over a fire in the hearth. The scent of a meaty    Read this script as the party enters.
+ stew wafts through the air. At the center of
+ the room is a lone figure, hunched over a
+                                                      You enter a small, quiet chapel, finding its
+ long wooden table, a downtrodden slave
+                                                      stained-glass windows shattered and its altar
+ diligently hacking away at a deer carcass and
+                                                      defaced with strange arcane symbols
+ throwing bits of bone, meat, and viscera into
+                                                      smeared in blood. At the altar kneels a lone
+ the pot. As she brings her cleaver down with
+                                                      figure in tattered robes, his hands clasped in
+ a resounding ‘thwack’ she mutters to herself,
+                                                      silent prayer. Across his forehead is a pale,
+ “Oola cooks the meats afore she gets the lash
+                                                      faded scar, the word ‘lair’ carved into flesh.
+ again!”
+
+                                                    Iyk. The lone figure is Iyk, a priest who served
+                                                    the manor long ago. The beast knights have
+                                                    kept him around to witness their master’s
+
+                                 Liber Obscura 011 – Blackthorn Manor                                  9
+deranged fall from grace over the years and        draws the attention of any enemies patrolling
+torment him. Across Iyk’s forehead is the          in area 9, the inner courtyard.
+word ‘liar’, carved by the knights after they
+rejected their old religion and converted to       Spell Scrolls. 2 spell scrolls lie on an ornate
+follow the dark spirits of their master instead.   reading desk in the center of the room. One
+    Iyk prays for the salvation of the manor. He   contains the spell False Life and the other
+has never given up hope that one day justice       contains Ray of Enfeeblement.
+would come. It was he who planted the small
+cluster of flowers in the outer courtyard area     Family History. Various books and journals
+2. He is cautious but can be convinced to help     around the room detail the history of the
+the party by sharing information if they make a    Geddyn family. An hour of searching and a DC
+DC 10 Charisma (Persuasion) or Charisma            15 Intelligence (Investigation) check allows
+(Intimidation) check. He knows the manor           the party to unearth information on the
+grounds well and knows the knights are             Geddyn family’s fall from grace, reflecting the
+conducting a dark ritual to summon an evil         information in the GM Info subsection of the
+spirit in the master residence, area 13. He        Adventure Introduction.
+doesn’t know much but suggests they can
+check the records in the library for more          Scroll of Ydir. Among the scrolls on a reading
+information, and can give them a key to the        desk, one stands out, containing instructions
+library, area 8.                                   for the dark ritual the cultists are conducting
+                                                   in the master residence, area 13. It is written
+Hidden Relic. With a DC 15 Wisdom                  in an ancient, runic language and contains the
+(Perception) check, a PC may find a small          instructions for the summoning of Ydir, a
+compartment hidden within the altar. Inside is     grotesque spawn of the "mother of beasts."
+a sacred relic, a golden chalice embedded with     Read this script as the party picks it up. They
+small rubies that once held blessed wine. It is    can make an Intelligence (Arcana) check to
+worth 250 gp.                                      determine how much they understand from
+                                                   the scroll.
+8) Library
+The library in Blackthorn Manor is a small
+building filled with cobwebs and dusty old
+books and scrolls. The door to the library is
+reinforced and locked. It has an AC of 15 and
+can withstand 20 points of damage. The door
+can be opened with a key provided by Iyk from
+area 7, forced open with a DC 15 Strength
+(Athletics) check, or picked with a DC 15
+Dexterity (Sleight of Hand) check using
+thieves' tools. Opening the door forcefully
+10                              Liber Obscura 011 – Blackthorn Manor
+                                                  SCROLL OF YDIR ARCANA CHECK
+                                                   DC        Information Learned
+                                                   0 - 19    The party is unable to decipher the
+                                                             scroll but cannot shake a profound
+                                                             sense of dread when looking upon
+                                                             the strange runic language and
+                                                             bestial illustration scrawled across
+                                                             the parchment.
+                                                   20+       The party successfully deciphers the
+                                                             scroll, revealing instructions for
+                                                             performing a ritual to summon Ydir,
+                                                             described as the 'spawn of the bestial
+                                                             mother.' The runic language is
+                                                             ancient druidic form, used to invoke
+                                                             curses and commune with evil spirits
+                                                             of the earth.
+          Handout C: Scroll of Ydir
+As you search the library, you find a strange
+scroll laid open on an old reading desk. The
+script is written in unsettling runes. In the
+middle of the page is an illustration of a
+monstrous, mutated beast surrounded by a
+circular diagram marked with runic symbols.
+
+
+
+
+                               Liber Obscura 011 – Blackthorn Manor                                 11
+9) Inner Courtyard                               crumbling fountain. Paroling in the courtyard
+                                                 are elite warriors of the beast knights.
+The Inner Courtyard is a large, overgrown
+open space that connects some of the more
+private areas of the manor. Dominating the
+center of the courtyard is a grand but
+
+12                            Liber Obscura 011 – Blackthorn Manor
+AREA 9 ENCOUNTER                                  10) Smithy
+Difficulty   Enemies                              The smithy is badly dilapidated, its walls are
+Beginner     1 thug on 1 warhorse                 made of crumbling brick, and the roof is
+                                                  caving in. Inside, the room is filled with a thick
+Easy         1 knight on 1 black destrier*
+                                                  layer of soot and grime. An array of smithing
+Medium       1 knight on 1 warhorse and 1         tools and materials are scattered haphazardly
+             black champion* on 1 black           across wooden tables and stone anvils. The
+             destrier*                            forge is unkempt, though the furnace at the
+Hard         2 black knights* on 2 black          back still holds some glowing embers,
+             destriers*                           suggesting it was recently used.
+
+                                                  Brog. A haggard man works diligently at an
+                                                  anvil, hammering out dents in a piece of
+                                                  armor. This is Brog, a slave blacksmith who
+                                                  has been forced to maintain and repair the
+                                                  armor and weapons of the beast knights. He is
+                                                  overworked, underfed, and utterly exhausted.
+                                                  However, his eyes light up with a glimmer of
+                                                  hope at the sight of adventurers. If the party
+                                                  succeeds in defeating all the beast knights in
+                                                  the manor and liberating Brog, he offers his
+                                                  services as a token of gratitude. He will take
+                                                  any single piece of mundane armor or weapon
+                                                  from the party and work on it for 48 hours to
+                                                  transform it into a +1 item of the same type.
+
+
+
+
+                               Liber Obscura 011 – Blackthorn Manor                              13
+11) Stables                                          12) Black Hall
+The wooden stables are falling apart, with           The Black Hall was once a place of grandeur,
+missing planks and rotten beams making it a          where the lord held private hearings for
+precarious place to be. The stink of animal          esteemed guests and political figures. As the
+filth is overwhelming, the air filled with a         party enters, read this script.
+nauseating mixture of sweat and manure.
+
+                                                      You step into a once-grand hall. The intricate
+Malnourished Horses. A couple of donkeys in
+                                                      woodwork on the walls is marred by deep
+poor condition are confined in the foremost
+                                                      claw marks, and the luxurious carpeting is
+stalls. They are sickly and not suitable for
+                                                      stained with splotches of black. The air is
+riding. A DC 10 Intelligence (Nature) check           thick with a nauseating metallic tang of
+reveals that one donkey is a bit healthier and        blood. Heavy tapestries depicting the family
+is a serviceable mule. A DC 10 Wisdom                 crest hang crookedly on the walls, defaced
+(Animal Handling) check allows the party to           and tarnished.
+take control of the creature, rolling with               A low, bestial moan reverberates through
+advantage if they first feed or calm it.              the hall, coming from somewhere deeper. Its
+                                                      tone is laden with pain and malevolence, and
+Saddlebags. Amidst the disarray, there is a           cut by a faint, rhythmic chanting. In the
+rack with some leather saddles, bits, and             center of the room, a large, armor-clad figure
+bridles, all of which are in terrible condition. A    turns to you, its pitch-black armor seeming to
+DC 15 Wisdom (Perception) check uncovers              suck away the faint candlelight of the dim
+a riding bag with 1 potion of healing inside.         hall, like a dark void. Drawing its weapons,
+                                                      the dark knight prepares to confront you.
+War Steed. Confined in an isolated stall at the
+far end of the stable is a larger, more
+                                                     Knight Lieutenant. The moment the party
+menacing warhorse. It is well fed and cared
+                                                     steps into the hall, they find themselves
+for. The steed is highly aggressive and will
+                                                     confronted by a heavily armored figure, the
+begin to rear and act aggressively towards the
+                                                     beast knight lieutenant. The lieutenant will be
+party when it sees them, preparing to attack. A
+                                                     the enemy with the highest CR in the
+DC 15 Wisdom (Animal Handling) check
+                                                     encounter.
+calms it down. If the party manages to calm it,
+they may attempt a second DC 20 Wisdom
+(Animal Handling) check, and on a success
+may ride and tame it.
+
+
+
+
+14                               Liber Obscura 011 – Blackthorn Manor
+AREA 12 ENCOUNTER
+ Difficulty   Enemies                              Difficulty                 Loot Roll Bonus
+ Beginner     1 knight                             Beginner                   +0
+
+ Easy         1 guard and 1 black knight*          Easy                       +1
+
+ Medium       1 black knight* and 1 black          Medium                     +2
+              champion*                            Hard                       +3
+ Hard         2 black knights* and 1 black
+              champion*                           LOOT TABLE
+                                                   4d10         Item Discovered
+Loot. If the party defeats the lieutenant, they    28+          Ring of Eldritch Parry*
+can loot an iron key which unlocks the door                     (uncommon)
+leading to the master residence, area 13. Also,
+they may roll 4d10. Based on the cumulative        1 – 27       nothing
+roll score, they find the item corresponding to
+the highest score they reach. Add a bonus to      Door to Master Residence. A set of large
+the cumulative roll score depending on the        double doors at the end of the hall leads
+adventure difficulty level.                       directly into the master residence, area 13.
+                                                  The doors are locked and require a key, which
+                                                  can be found on the lieutenant's body, or it can
+                                                  be picked with a DC 15 Dexterity (Sleight of
+                                                  Hand) check using thieves' tools. When the
+                                                  party approaches the door, read this script.
+
+
+                                                    You come to a set of large double doors, their
+                                                    tarnished elegance marred by the passage of
+                                                    time and neglect. Ornate handles and
+                                                    intricate carvings adorn their surface. From
+                                                    behind emanates the horrific sounds you
+                                                    heard earlier, a haunting mixture of bestial
+                                                    moans and rhythmic chanting that sends a
+                                                    shiver down your spine.
+
+
+
+
+                               Liber Obscura 011 – Blackthorn Manor                              15
+13) Master Residence                                AREA 12 ENCOUNTER
+The master residence is the epicenter of the         Difficulty    Enemies
+malevolent energy that has consumed                  Beginner      4 cultists
+Blackthorn Manor. Taking place within is a
+                                                     Easy          4 cultists and 1 cult fanatic
+dark ritual. Several cultists attempt to
+summon Ydir, a cursed beast spirit. A set of         Medium        3 cultists and 3 cult fanatics
+locked doors lead to the master residence.           Hard          6 cult fanatics
+They can be opened with a key found on the
+lieutenant's body in area 12 or picked with a
+DC 15 Dexterity (Sleight of Hand) check             Ending the Adventure
+using thieves' tools. When the party enters,        When all the cultists in the master residence
+read this script.                                   are slain, the summoning of Ydir will fail.
+                                                    Ydir’s form vanishes as it wails piteously. The
+                                                    dark curse on Blackthorn Manor will be lifted
+ As you push open the door, the sight that
+                                                    and its denizens freed. You can use the
+ greets you is nothing short of nightmarish.
+                                                    adventure hook to bring an emphasis to a
+ You find the master residence, the once
+                                                    different section of the adventure. If you used
+ decadent space enshrouded in a dark ritual.
+                                                    the Royal Edict adventure prompt, stopping
+ Hooded figures stand chanting around a
+ large, intricate circle etched onto the floor in   the ritual will be the party’s priority. If you
+ blood, with strange runes written all about.       used the Wanted Poster or Personal
+ Candles flicker erratically, casting eerie         Vendetta prompt, the party might complete
+ shadows across the portraits of courtesans in      their main objective when they slay the
+ elegant finery hang askew from the walls,          lieutenant in area 12. For your own prompts,
+ shredded to pieces, and marred by deep claw        consider something similar for them to
+ marks.                                             accomplish within the manor.
+     At the center of the circle a grotesque
+ creature writhes and moans, its form
+ flickering in as if caught between two worlds,
+ its incorporeal body is a strange shade of pale
+ blue, as if it were a ghost or a specter, but it
+ grows darker and fuller by the moment. The
+ cultists turn towards you, their faces hidden,
+ as the creature lets out an ear-piercing shriek.
+ Whatever dark ritual is happening here,
+ you've just become a part of it.
+
+
+
+
+16                               Liber Obscura 011 – Blackthorn Manor
+                                  MONSTERS & NPCS
+Black Destrier                                           Black Knight
+Large beast, unaligned                                   Medium humanoid (any race), any non-good
+                                                         alignment
+Armor Class 16 (chain mail)
+Hit Points 42 (5d10 + 15)                                Armor Class 20 (plate, shield)
+Speed 60 ft.                                             Hit Points 127 (15d8 + 60)
+                                                         Speed 30 ft.
+  STR     DEX    CON      INT     WIS     CHA
+   18      12     14         2     12       6             STR     DEX      CON     INT      WIS      CHA
+  (+4)    (+1)   (+2)      (-4)   (+1)     (-2)            18      10       18       10      10       14
+                                                          (+4)    (+0)     (+4)     (+0)    (+0)     (+2)
+Senses passive Perception 11
+Languages –                                              Saving Throws Con +7, Wis +3
+Challenge 2 (450 XP)                                     Senses passive Perception 10
+                                                         Languages any one language (usually Common)
+Trampling Charge. If the horse moves at least            Challenge 5 (1,800 XP)
+20 ft. straight toward a creature and then hits it
+with a hooves attack on the same turn, that              Brute. A melee weapon deals one extra die of its
+target must succeed on a DC 14 Strength saving           damage when the knight hits with it (included in
+throw or be knocked prone. If the target is              the attack).
+prone, the horse can make another attack with
+its hooves against it as a bonus action.                 Dark Devotion. This creature has advantage on
+                                                         saving throws against being charmed or
+Actions                                                  frightened.
+
+Hooves. Melee Weapon Attack: +6 to hit, reach 5          Actions
+ft., one target. Hit: 11 (2d6 + 4) bludgeoning
+damage.                                                 Multiattack. The knight makes two melee attacks.
+
+                                                        Longsword. Melee Weapon Attack: +7 to hit,
+                                                        reach 5 ft., one target. Hit: 13 (2d8 + 4) slashing
+                                                        damage or 15 (2d10 +4) slashing damage if
+                                                        wielded in two hands.
+
+                                                        Heavy Crossbow. Ranged Weapon Attack: +3 to
+                                                        hit, range 100/400 ft., one target. Hit: 5 (1d10)
+                                                        piercing damage.
+
+                                                        Subdue. The knight marks one creature it can see
+                                                        within 60 feet. For the next 1 minute, the knight
+                                                        can use its reaction whenever the marked creature
+                                                        makes an attack to impose disadvantage on that
+                                                        attack.
+
+
+
+
+                                   Liber Obscura 011 – Blackthorn Manor                                       17
+                                                         At will: chill touch, eldritch blast, true strike
+ Black Champion                                          1/day each: bane, inflict wounds, silence
+ Medium humanoid (any race), any non-good
+ alignment                                               Magic Resistance. This creature has advantage on
+ Armor Class 18 (plate)                                  saving throws against spells and other magical
+ Hit Points 142 (15d8 + 75)                              effects.
+ Speed 30 ft.
+                                                         Quickcaster. This creature may cast one spell as a
+     STR    DEX    CON     INT     WIS     CHA           bonus action on each of its turns.
+     20     12     20      10      10      16
+     (+5)   (+1)   (+5)    (+0)    (+0)    (+3)
+                                                          Actions
+ Saving Throws Con +8, Wis +3, CHA +5
+ Senses passive Perception 10                            Multiattack. The champion makes two melee
+ Languages any one language (usually Common)             attacks.
+ Challenge 8 (3,900 XP)
+                                                         Greatsword. Melee Weapon Attack: +9 to hit,
+ Accursed Weapons. This creature’s weapon                reach 5 ft., one target. Hit: 15 (3d6 + 5) slashing
+ attacks are magical. When this creature hits with       damage plus 4 (1d8) necrotic damage.
+ any weapon, the weapon deals an extra 1d8 necrotic
+ damage (included in the attack).
+                                                          Reactions
+ Brute. A melee weapon deals one extra die of its        Eldritch Parry. This creature adds 3 to its AC
+ damage when this creature hits with it (included in     against one melee or spell attack that would hit it.
+ the attack).                                            To do so, this creature must see the attacker and
+                                                         be wielding a melee weapon.
+ Innate Spellcasting. This creature’s spellcasting
+ ability is Charisma (spell save DC 14, +6 to hit with
+ spell attacks). It can innately cast the following
+ spells, requiring no material components:
+
+
+
+
+18                                  Liber Obscura 011 – Blackthorn Manor
+            ITEMS
+
+
+
+
+Liber Obscura 011 – Blackthorn Manor   19
+

@@ -1,0 +1,1221 @@
+1
+Under Cover of Darkness
+
+    A 5e Compatible Adventure
+         For Levels 5 – 13
+                 World of Doaden
+
+
+W
+         elcome to Doaden, the dark fantasy setting of tainted lands and
+         twisted monsters, where an ever-creeping affliction corrodes the
+                            very essence of existence.
+
+It is a world of decay and depravity where once-righteous men and heroes
+of the glorious purpose now struggle to survive as cults and dark gods vie
+         with one another to consume the last vestiges of humanity.
+
+   It is a world of death, trapped in the fading dusk of a fallen empire.
+   The heroes that wander these lands are no grand adventurers to be
+                       honored in songs of minstrels.
+
+ For the heavy deeds and decisions these wanderers undertake invariably
+ leave them disheartened, broken, nothing more than soulless husks and
+                 shadows of their once-glorious selves.
+
+  Yet as dark as Doaden may be, humanity clings to life with a stubborn
+            tenacity, a last flickering flame within the dark.
+
+   A last hurrah, a final war cry that shall echo in the black abyss of
+         eternity, a momentary victory before the endless night.
+                            Credits
+
+    Developed by:
+      Bestiarum Games
+
+    Lead Game Designer:
+      Alexander Dovermann
+
+    Game Designer:
+      Giovani C. Fiorini
+
+    Art & Graphic Design:
+      Marina Jukova
+      Katarina Popovici
+      Alexander Dovermann
+
+    Cartography:
+      Giovani C. Fiorini
+      Alexander Dovermann
+      Marina Jukova
+
+
+
+                                ON THE COVER:
+
+                                HIGH LORD AZRIEL
+
+                                “
+                                   High Lord Azriel is the named protector of
+                                the Holy Empire, the ultimate commander of the
+                                Penitent Crusade, and the supreme leader of all
+                                standing armies in the realm.
+                                   He is a mighty warrior, pouncing from the skies
+                                on his armored sphinx and obliterating foes with his
+                                great warhammer.
+                                   Yet he is also a brilliant strategist, politician, and
+                                logistician, a master of war in all respects.
+
+
+
+                                                                                   ”
+
+4
+                                                       Contents
+
+
+Credits........................................................4   Appendix A................................................16
+Contents.....................................................5        Monsters and NPC’s5........................17
+Foreword...................................................6          Weak (CR 1)..........................................18
+   Running the Adventure.......................6                      Husk (Crossbow)...................................18
+                                                                      Normal (CR 3)......................................18
+Introduction..............................................3
+                                                                      Bastion...................................................19
+  Adventure Summary.............................7
+                                                                      Quickblade............................................20
+  Adventure Hooks..................................7
+                                                                      Hard (CR 5)..........................................18
+  Bestiarum Campaign...............................7
+                                                                      Repentor Cavalry.................................21
+  Homebrew Campaigns.............................7
+                                                                      Knight Redeemer..................................22
+The Mission................................................9
+                                                                      Flameblade Knight..............................23
+  Encounter 1: Infiltrating The Camp.9
+                                                                      Elite (CR 7)...........................................24
+  Running The Encounter.......................9
+                                                                      Scarlet Centurion...............................24
+  Map A: Crusade Encampment................9
+                                                                      Champion (CR 10)................................25
+  Encounter 2: Escape!.........................12
+                                                                      Repentor Primus (Solo).......................25
+  Map B: Rolling Road..........................12
+                                                                      Bosses (CR 13/18).................................26
+  Running This Encounter....................12
+                                                                      High Lord Azriel ................................26
+Taking it Further....................................14
+   Another Siege on StÜrmenburg.......14
+
+
+
+
+                                                                                                                                     5
+                                                         Foreword
+
+
+
+    W
+               elcome to Bestiarum’s grimdark world setting of         Leveling. PCs gain levels by completing scenarios. From levels
+               Doaden. This land is fallen, a shattered domain         5 to 8, they gain one level for every 2 adventures. From levels 9
+               where darkness threatens to consume the last            to 13, they gain one level for every 3 adventures. The maxi-
+               vestiges of humanity. The Holy Empire fights to         mum level is 13, but parties continue to acquire gear and can
+               survive in an age of darkness, bereft of their God      enjoy the most challenging and dynamic encounters, and ex-
+    Emperor, and beset on all sides by rabid beasts, dark cults, and   clusive content for Damnation Mode. If you include your own
+    powerful demonic entities.                                         adventures in between monthly scenarios, consider leveling
+                                                                       your party quicker.
+
+    Running the Adventure                                              Gold & Items. Civilization and Trade in Doaden have crum-
+                                                                       bled. Only gold, silver, and copper are circulated, and only at
+    Bestiarum scenarios are easy to run and quick to prepare. They
+                                                                       1/10th the amount suggested in D&D manuals.
+    generally last one long, or two short sessions. But if you’d
+    like to delve further into our dark world, look at the Taking It
+                                                                       Narrative Scripts. Some passages are meant to be read aloud
+    Further and Bestiary sections for inspiration on creating your
+                                                                       or paraphrased. They build atmosphere or reveal key informa-
+    own adventures. The horrors of Doaden are truly endless and
+                                                                       tion to the adventuring party.
+    we hope your experience becomes as much your own as it is
+    ours.
+                                                                              Narrative Scripts are written in this format!
+    Party Size. Monthly scenarios are designed for party sizes of 4
+    to 6 players.
+
+    Difficulty Modes. Monthly scenarios are made for player levels     Special Rules. Some passages cover mechanics that should be
+    5 through 13. Each module has a scaling difficulty so your         used for the specific scenario or encounter.
+    group can enjoy adventures in any order. Difficulty modes are
+    Normal, Torment, and Damnation, each corresponds to its                   Special Rules are written in this format the first time
+    own level bracket. As your party levels up, advance them to             they are used, but they may be referenced more than
+    higher difficulty modes. You can also adjust monster health             once.
+    and damage if the encounters are too hard or easy for your
+    particular party.
+                                                                       References. References to materials in the 5e core rules and
+    The standard scenario text is for Normal Mode. For Torment
+                                                                       Systems Reference Document are Italicized. References to
+    and Damnation Mode, see the following formats. Only use the
+                                                                       unique Bestiarum materials, such as items and monsters, are
+    monsters listed for one specific mode, do not include monsters
+                                                                       written in Bold.
+    listed from other modes.
+                                                                       Abbreviations. The following terms are abbreviated in Besti-
+    Normal = Party Levels 5 – 8.                                       arum publications:
+          •   Torment = Party Levels 9 – 12.                              PC - Player Character
+                                                                          NPC - Non-Playable Character
+          •   Damnation = Party Level 13.                                 GM - Game Master
+
+
+    DC & Damage Scaling. The DC to pass skill checks and the
+    damage taken from traps and environmental factors also in-             THERE IS LIGHT YET in Doaden, and though it
+    creases based on the difficulty mode. The scaled DC and scaled         may seldom come in the form of love or joy, it still
+    damage will be listed with different colored text and separated        shapes itself into a semblance of honor, purpose,
+    by slashes for Normal / Torment / Damnation. For example,              and redemption.
+    A creature may walk over a section of spiked ground without
+    taking damage by passing a Dexterity (Acrobatics) check with                 - Dreyen Solius, Journal of the World’s Ending.
+    DC 14 / 16 / 18 but takes 1d6 / 1d8 / 1d10 piercing damage on
+    a failure.
+
+6
+                                                     Introduction
+
+
+
+N
+             othing good lurks under the cover of darkness.             Bestiarum Campaign
+             Thieves, assassins, and hunters creep through the
+                                                                        The party works for the Penitent Crusade. They have been
+             shadows; a dagger in the back, a poisoned chalice,
+                                                                        assigned by Lord Azriel to infiltrate his encampment and steal
+             a silent death that infiltrates every house and
+                                                                        the Crusade Standard. The Standard is kept under heavy guard
+abode. One must be ever vigilant to protect themselves from
+                                                                        inside the camp. Then, with the item in tow, they must escape
+such threats that prey upon the lives of man.
+                                                                        with their lives.
+                                                                            Lord Azriel wishes to test the fortifications of his camp.
+In this scenario, the party plays the part of the assassin or the
+                                                                        The party’s attempts will reveal any flaws or weaknesses in
+thief, infiltrating a heavily protected military encampment.
+                                                                        its defenses. Azriel wishes to prepare his camp against any
+                                                                        infiltration attempts by the Stürmenburg defenders. This does
+Adventure Summary                                                       not mean the assignment will be without risk. To ensure as real
+                                                                        of a simulation as possible, none of the defending crusaders
+High Lord Azriel is the named protector of the Holy Empire,             have been made aware of the party’s infiltration attempt.
+the ultimate commander of the Penitent Crusade, and the                 The crusaders will treat the party as enemies, killing them or
+supreme leader of all standing armies in the realm. He is a             capturing them on sight. It is up to you whether they would
+mighty warrior, pouncing from the skies on his armored sphinx           believe or spare the party should they be caught.
+and obliterating foes with his great warhammer. Yet he is also a
+brilliant strategist, politician, and logistician, a master of war in
+all respects.                                                           Homebrew Campaigns
+     Azriel’s great force lays siege in the north to the heavily        If you are running this scenario as a one-shot or part of a
+fortified city of Stürmenburg. War has not begun, but for the           homebrew campaign, pick one of the following prompts
+next several months Azriel prepares to surround the great               or make your own. The underlying premise for the camp’s
+walled city, making a show of force while undertaking intense           existence can be changed to serve your needs.
+negotiations that will likely determine the future of the Holy
+Empire in the region; whether war can be prevented or whether           Freeing a Prisoner
+it is a certainty is yet to be seen.                                    Instead of the Standard, the party infiltrates the camp to free
+     Though the war has not yet begun, a general must not be            their friend, political ally, or other important NPC. They should
+complacent, for a second war is waged in the shadows long               have a good reason to rescue the character.
+before any armed conflict begins. This is a war of spies and
+assassins, subterfuge and stealth, political intrigue, hidden
+                                                                        Stealing an Artifact
+blades, poisoned goblets, and the coup d’état.
+                                                                        Instead of the Standard, the party infiltrates the camp to steal a
+                                                                        precious magical artifact. They could be working for the enemy,
+The Adventuring Party. The party must infiltrate Azriel’s
+                                                                        stealing the item so that this army cannot use it in war. Or, they
+military encampment. Using a combination of stealth, trickery,
+                                                                        could be out for themselves, stealing it to grow strong or to sell
+guile, and strength, they must make it to the heart of the camp
+                                                                        for a significant amount of gold. Pick out any magical artifact
+and back out again with a precious item. If they are not careful,
+                                                                        for this prompt to steal.
+the entire camp may be alerted, and they will have to retreat
+with haste, driving a machine of steel and wheels to outrun
+their pursuers.                                                         Assassinating a Target
+                                                                        Instead of the Standard, the party infiltrates the camp to
+                                                                        assassinate a high-value target. It could be a lieutenant or other
+Adventure Hooks                                                         commanding officer or even a normal soldier. You should
+                                                                        create a good reason for the assassination. Perhaps the target
+Consider the following prompts to place the party into the              is a critical strategist of the enemy, or guilty of atrocious war
+scenario. If you are running an official campaign, use the              crimes. In the simplest scenario, the party is hired and paid a
+Bestiarum Campaign hook. Otherwise, pick any of the                     hefty sum of gold, with no questions asked.
+Homebrew Campaigns hooks and adapt the scenario for your
+own campaign.
+
+
+
+                                                                                                                                             7
+8
+                                                 The Mission
+
+Encounter 1:                                                           braziers marked with a B. Braziers are objects, with
+                                                                       AC 10 and 20 Hit Points, with resistance to piercing
+
+Infiltrating The Camp                                                  and slashing damage. If destroyed, the brazier
+                                                                       becomes unusable. If a PC is spotted by a Husk, it will
+For the first encounter, the party must infiltrate the Crusade         immediately attempt to reach for the closest brazier.
+Encampment at night. Lay out Map A: Crusade Encampment                 The brazier takes 2 actions to be lit and can only be
+for the players and begin this encounter!                              lit once. If lit, the brazier draws the attention of any
+                                                                       camp defenders within 30 feet of it. Once a brazier is
+                                                                       lit, camp defenders within 30 feet of it will be drawn to
+Running The Encounter
+                                                                       the brazier, reaching the area in 2 combat rounds.
+The following sections provide rules, tips, and tricks for                  Husk Variations. When the scenario calls for a
+running this encounter.
+                                                                       Husk creature, you may use a Husk (Crossbow) or a
+                                                                       Husk (Spear).
+Preparing the Encounter
+Place any enemies the party would be able to see from outside
+the camp and allow them to choose their own approach.             Map A: Crusade Encampment
+The party should spend some time discussing a strategy and        The following areas correspond to Map A: Crusade
+planning their entry and exit routes before they begin the        Encampment. The walls of the encampment are 30 ft. tall
+infiltration attempt.                                             unless otherwise stated.
+    Guards Behavior. The guards defending the camp are
+watching for any suspicious activity. The party must take every
+precaution if they don’t want to alert them. Dead bodies left
+                                                                  A1) North Gate
+in plain sight if spotted will leave the whole camp on high       A dirt path leads to the outer wall. If a creature attempts to
+alert and loud noises will attract nearby guards. Guides on the   climb the walls, it must succeed on DC 12 / 13 / 14 Dexterity
+guards’ behaviors, duties, and activities are provided in each    (Acrobatics) check for every 15 ft. or take 1d6 / 1d8 / 1d12
+section, but you can run them as you see fit.                     piercing damage and fall to the ground. Metal gates close the
+    Escape Plan. Several things may go wrong during               north entrance to the encampment. Palisades guard the outer
+the party’s infiltration attempt. Guards may be alerted, or       sides of the entrance, and some are scattered inside the camp,
+reinforcements may be called. If things get too heated, the       beyond the gates. A shipment of crates is being inspected and
+party will need a quick escape. They have been provided an        carried into the camp, leaving the gates ajar while Crusaders
+Armored Transport Wagon, which they may place anywhere            watch over a few Husks doing the heavy lifting. The following
+around the map. The wagon will wait at that location, ready       enemies are present in this area:
+to run if things go wrong. The way this adventure is designed,        2x Husks.
+the party will most be forced to run to the wagon and escape,           •    1x Bastion and 2x Husks.
+sparking an exciting second encounter before they are clear of
+danger!                                                                 •     1x Bastion and 3x Husks.
+
+     Torches. Various sections of the camp are illuminated
+                                                                  Roaming Guard. 1x Scarlet Centurion roams the
+     by torches. These torches provide bright light in a 20-      encampment’s main road, going up and down between the areas
+     foot radius and dim light for an additional 20 feet.         A1 and A10 through the main path cutting through the camp.
+         Oil Barrels. Throughout the camp are various             He takes a long time going from one point to another (about 10
+     oil barrels marked with an O. These are objects with         minutes), walking slowly and meticulously.
+     AC 8 and 1 Hit Point. If hit by any source of fire
+     damage, the barrel explodes in a 20 ft. circular range.
+     All creatures caught in the explosion take 6d6 fire          A2) Stone Passage
+     damage.                                                      Near the Northeastern side of the woods surrounding the
+         Louse Noise. Exploding oil barrels make a lot            encampment is a formation of various large rocks rising 10 ft.
+     of noise. Any camp defenders within 30 ft. of an             tall. Various natural corridors have been formed in between
+     exploding oil barrel will be attracted to the noise          these rocks. One passageway leads to a rundown section of the
+     location, arriving within 2 combat rounds.                   encampment walls behind a tent in A3. The rundown section
+         Braziers. Throughout the map are various unlit           is very narrow, about 5 ft., allowing only one creature of either
+                                                                                                                                      9
+     medium or small size to pass through at a time. Also, the                •     2x Bastion and 2x Husk.
+     section has sharp bits of broken wood jolting out. A creature
+     that passes through the section must succeed a DC 14 / 16 / 18     A6) Southside Barracks
+     Dexterity (Acrobatics) check or take 1d4 / 1d6 / 1d8 piercing      Five tents form a corridor on the south side of the camp.
+     damage. The crusaders are unaware of the rundown section but       There’s also nothing usable inside these tents. A few crates are
+     constantly send Husks to patrol the rock formations in search of   scattered around the area, containing food, wood, and stone
+     spies. The following enemies are present in this area:             for further development of the encampment. These crates are
+         2x Husks.                                                      approximately 3 feet in length, 3 feet in width, by 3 feet in
+           •    3x Husks.                                               height. The Crusaders in this area are all up, patrolling the
+                                                                        grounds, checking the cargo crates, or shifting turns between
+           •     1x Bastion and 2x Husks.                               the A5, A6, and A7. The following enemies are present in this
+                                                                        area:
+     A3) Northside Barracks                                                 1x Bastion and 1x Quickblade.
+     Six tents form a corridor on the north side of the camp. There’s         •    1x Bastion, 1x Husk and 1x Quickblade.
+     nothing usable inside the tents, just some sleeping bags and
+     other mundane objects. Some Crusaders patrol the area while a            •     1x Bastion, 2x Husks, and 1x Quickblade.
+     few rest inside the tents. Some crates are scattered around the
+     area, each approximately 3 feet in length, 3 feet in width, by 3   A7) Fallen Tree
+     feet in height. The crates are empty. The following enemies are    An enormous fallen tree has crashed into the camp, destroying
+     present in this area:                                              a section of the wall. Two tents near A6 watch over A7 and A9.
+         1x Bastion, 1 Husk, and 1x Quickblade.                         The Crusaders here shift between A6, A7, and A9 periodically.
+           •    1x Bastion, 2x Husk, and 1x Quickblade                  The broken space on the wall leaves a 5 ft. gap. The area is
+                                                                        poorly illuminated, with two spiked palisades close to the fallen
+           •    2x Bastion, and 2x Quickblades.                         tree. The following enemies are present in this area:
+                                                                            2x Husks and 1x Quickblade.
+     A4) Commander’s Tent                                                     •    3x Husks and 1x Quickblade.
+     A large red tent stands on the northeastern side of the
+     encampment. A campfire and some torches illuminate the                   •     1x Bastion, 2x Husks and 1x Quickblade.
+     area around it. A Knight Redeemer comes and goes between
+     areas A1, A3, A4, and A5, spending some time with the other        A8) Standard Yard
+     camp defenders at A3, checking the cargo at A1 and A5, and         The Standard the party is looking for is set near the camp’s
+     cataloging the items at A4. Outside the tent are various boxes,    main path, besides an enormous red tent. There’s nothing useful
+     crates, empty chests, and equipment displayed, with more           inside the tent besides papers, maps of the surrounding region,
+     being transported by the Husks in A1 to the large red tent.        and orders and notes from the Church. The following enemies
+     There’s also a table beside the tent with the Camp Leader’s        are present in this area:
+     Key on top. Inside the tent, there are two locked chests. The          1x Repentor Primus (analyzing maps and documents
+     chests contain 3x Potions of Greater Healing, and inside the       inside the tent)
+     other, there’s 2d8 gold. The Chest Keys are with the Knight
+                                                                              •    2x Husks and 1x Repentor Primus.
+     Redeemer, but the chests can also be opened with a DC 16 / 18
+     / 20 Dexterity (Sleight of Hand) check using lockpicking tools.          •    1x Husk, 1x Flameblade Knight, and 1x Repentor
+     The following enemies are present in this area:
+                                                                                   Primus Solo.
+         1x Knight Redeemer.
+           •    2x Husk and 1x Knight Redeemer.                         It’s a Trap! A magical alarm system has been set on the
+                                                                        Standard. If the party interacts with it, moving it in any way, the
+           •     3x Husks and 1x Knight Redeemer.
+                                                                        alarm will set off, alerting the whole encampment to the party’s
+     A5) Camp Checkpoint                                                presence. The alarm can be detected with the spell Detect
+                                                                        Magic. The alarm can be disabled with the spell Dispel Magic
+     A second set of palisade walls divide the encampment between
+                                                                        with a DC 13 / 14 / 15 spellcasting ability check. On a failed
+     the north and south sides. A squared area stands between both
+                                                                        check, the alarm is set off. If the alarm is triggered, proceed to
+     sides, where Crusaders check any cargo or prisoners being
+                                                                        Encounter 2.
+     transported between encampment areas. Two 15ft. tall walls
+     surround the area, with elevated platforms behind them that
+     are 12 ft. tall, giving sight to the space between the areas and
+     providing cover to the Crusaders standing behind them. The
+                                                                        A9) Horse Pen
+     following enemies are present in this area:                        A round enclosure used to train the Crusaders’ war horses. The
+         1x Bastion and 1x Husk.                                        area is very large, allowing the horses to move freely while also
+                                                                        providing boundaries to the structure. Only a few horses are
+           •    2x Bastion.                                             present here.
+10
+A10) South Gate
+The walls surrounding the south-most encampment area are 30
+ft. tall with two elevated platforms inside, giving sight to the
+road outside, where Crusaders stand guard. Metal gates close
+off the camp. The gates are objects with AC 19 and 100 Hit
+Points and resistance to bludgeoning, piercing, and slashing
+damage. Any successful hits against the gate produce a loud
+echoing noise, alerting all creatures within a 30 ft. radius. Also,
+the gates are shut tight, requiring the Camp Leader’s Key to
+be opened or a DC 19 / 21 / 23 Dexterity (Sleight of Hand)
+check. The following enemies are present in this area:
+     1x Bastion.
+      •    1x Bastion and 2x Husks.
+
+      •     2x Bastions.
+
+
+
+
+                                                                      11
+     Encounter 2: Escape!
+
+
+
+
+     Map B: Rolling Road                                                  their weapons, spells, or abilities. Each successful attack by a
+                                                                          PC slows the High Lord or the targeted Repentor Calvary unit,
+     The following areas correspond to Map B: Rolling Road. The
+                                                                          pushing them back 5 ft. However, PCs have disadvantage in
+     next encounter takes place on this map. In most cases, the party
+                                                                          any such actions as the Armored Transport is moving rapidly
+     will set off the alarm either because they did not think to detect
+                                                                          and jerking about.
+     its magical defenses or because they were unable to disable the
+                                                                              Mounted Weapon. As an action, a PC may order the Husk
+     alarm. Thus, the entire camp will be alerted, and they will be
+                                                                          manning the Armored Transport’s weapon to fire against either
+     forced to escape on the Armored Transport Wagon. If this
+                                                                          the Lord or a Repentor Cavalry unit. The weapon requires
+     happens, have the party escape the encampment and reaches the
+                                                                          three actions to be fired. One to load the weapon, one to aim it
+     vehicle. Then, begin the second encounter.
+                                                                          properly, and one to shoot it. The weapon does not require any
+                                                                          rolls to hit the target. It deals 44 (8d10) force damage, pushing
+                                                                          the target 15 ft back.
+     Running This Encounter                                                   High Lord Azriel Actions. During the encounter, the High
+     This encounter is a chase sequence. At the start of the sequence,    Lord does not take damage, so the only important trait is his
+     place the Armored Transport Wagon at B1 with the party               AC. On each of its turns, the High Lord moves 15 ft. closer to
+     on it. As the party is escaping, 1x High Lord Azriel and 2x          the Armored Transport. If the High Lord ends within 5 ft. of
+     Repentor Cavalry will be hot on their heels. Place the units         the Armored Transport, it may make one of any of its attacks,
+     30 ft. behind the Armored Transport. Have the party roll for         dealing two automatic Hits to the Armored Transport.
+     initiative, then place the units in their respective order. The      Repentor Cavalry Actions. The Repentor Cavalry should be
+     chase will last for 8 rounds, at the end of which the party          treated as normal enemy units, taking damage as usual. On
+     will successfully lose the pursuing Crusaders. To start this         each turn of a Repentor Cavalry, it moves 10 ft. closer to the
+     encounter, read the following script.                                Armored Transport. If a Repentor Cavalry ends within 5 ft. of
+                                                                          the Armored Transport, it may make one of any of its attacks,
+          Even though the alarms were set off, you somehow                dealing one automatic Hit to the Armored Transport.
+          managed to escape from the encampment and reach                     Husks’ Actions. Besides the Husk piloting the Armored
+          the safety of the Armored Transport waiting for you.            Transport, 2x Husks are bearing crossbows and will be focused
+            Yet, as you board the vehicle, the ground begins              on defending the vehicle alongside the party. The Husks have
+          to tremble at the sight of crusaders mounted on                 the same stats as the ones in Appendix A Monsters and NPCs.
+          black armored steeds coming in your direction. The                  Hitting the Armored Transport. The Armored Transport
+          Husks ignite the vehicle engines as it burst through            can take 10 Hits, suffering greatly from each strike from either
+          the shaded woods. But the cavalry won’t give up so              the High Lord or the Repentor Cavalry. After each hit, describe
+          easily, staying hot on the transport’s heels alongside a        the increasing damage caused by the blows. On the eleventh
+          sudden, massive shadow of a flying lion-like creature           Hit, the Armored Transport is completely destroyed. The Husks
+                                                                          die, and the party is thrown to the ground amidst the burning
+          that surges above the trees and descends on you.
+                                                                          wreckage of the vehicle. Each PC takes 2d6 bludgeoning
+                                                                          damage from the fall. The party must now either fight High
+     Party Actions. Each round, the PCs may take actions to               Lord Azriel and his remaining Repentor Cavalry on foot or be
+     increase the gap between the moving Armored Transport and            captured. The final outcome is up to you.
+     the approaching enemy. At the start of each combat round,
+     beginning on combat round 2, the Armored Transport gets a                  •   1x High Lord Azriel (Torment) and 2x Repentor
+     speed boost, moving 5 ft. forward through the rolling map.                     Cavalry.
+         Attacks. The Armored Transport is spacious, allowing for
+     up to 6 creatures of medium size to stand on top. PCs may                  •    1x High Lord Azriel (Torment) and 3x Repentor
+     change positions between themselves and attack with one of                     Cavalry.
+
+12
+Ending the Encounter: Bestiarum Campaign
+If you’re running a Bestiarum Campaign, consider the
+following options for an outcome:
+    If the party manages to escape, Lord Azriel could meet them
+later to congratulate them on managing to invade the camp and
+successfully steal the standard, and following their escapade,
+would tell them to point out the flaws they spotted on the
+encampment’s defense. But, if the party fails to escape and is
+captured by the Crusade, Lord Azriel could intervene on their
+behalf, explaining their deal and letting them go.
+
+
+
+
+                                                                  13
+                                                   Taking it Futher
+
+
+
+
+     B
+                   estiarum scenarios are designed to be easy to               After this scenario, Azriel will have a clear purpose to lay
+                   run and quick to prepare. The structured narrative      siege to the city. In truth, he is annoyed with Nefryna’s attack
+                   generally lasts one long or two shorter sessions.       and believes that if it had not been for her, this entire military
+                   This Taking it Further section is designed to inspire   effort would have been unnecessary. However, Nefryna’s army
+     you to create your own adventures or to build upon the core           was defeated, and though her war efforts were unsanctioned
+     adventure so that your party’s journey becomes as much your           by the imperial lords, her defeat is a mar on their honor and
+     own as it is ours. The following suggestions can be used to craft     questions the strength of the Empire.
+     the world and build the narrative further.                                Azriel is forced to show strength in response. The only hope
+                                                                           for a peaceful resolution depends on Stürmenburg making great
+     Another Siege on StÜrmenburg                                          sacrifices and concessions to the Empire in reparation for their
+                                                                           actions. However, this is unlikely as the tensions between the
+     Stürmenburg is a vassal of the Holy Empire. However, the              two powers have escalated, and the sub-factions calling for
+     northern populace is often at odds with the Empire, resulting         northern independence grow louder by the day. It all depends
+     in frequent skirmishes and cries for independence. In general,        on the will of the northern lord, Harvunn, son of Sigvald, a
+     the north dislikes the Empire because of its culturally intolerant    lord of northern blood and talented general trained in the Holy
+     views and its brutal regime. In response, the Empire is quick to      Empire’s own army.
+     punish or re-subjugate the northerners to ensure that they do not
+     grow restless or grow strong enough to stand up to the imperial
+     armies.                                                               Siege of Stürmenburg I & II
+         Any political event you could imagine might have triggered        The Beastmen I & Beastmen II scenarios, Siege of
+     Azriel’s siege on the walled city. Therefore, you can run this        Stürmenburg I & II, delve into the history and politics of the
+     adventure at any time and come up with any justification of           north and the great walled city as the valiant defenders ward off
+     your own. However, playing certain adventures before this will        an army of rabid beastmen. These adventures also contain the
+     provide a justification of the current events.                        seeds for this current political dilemma, as the imperial agent,
+                                                                           Varus, is slain while attempting to flee the war-torn city. It was
+     Purgation                                                             revealed that Varus was a man of ill-intents and filled with
+                                                                           bigotry and prejudice. But he was an important imperial agent
+     The Penitent Crusade II scenario, Purgation, describes a              and diplomat all the same.
+     lesser Penitent Crusade general, Nefryna’s unsanctioned attack            Varus was slain by a hotheaded northern warrior,
+     on the north. Her actions have escalated the tensions between         Hamarhelm the Ox, one of Harvunn’s honor guards, after he
+     the Empire and Stürmenburg to the point of near breaking. Both        witnessed Varus killing one of his warrior brothers to save his
+     sides prepare for war as hope for a peaceful resolution grows         own skin. In a fit of rage, Hamarhelm killed Varus with his
+     dim.
+14
+own two hands, squashing the man’s skull until it exploded into       The party’s mission holds a critical purpose in this case.
+bone shards and brains.                                           Azriel is testing the camp for any weaknesses to prevent any
+                                                                  northerner from rescuing Hamarhelm. Knowing the party’s
+In the current adventure, if these scenarios are played,          involvement and possible sympathies with Stürmenburg by
+Azriel’s negotiations with Stürmenburg will be simple. To         this time, Azriel would be careful not to disclose his intentions
+stop the imperial siege and prevent war, he demands only one      to them, as it may influence their willingness to truly test the
+thing of Harvunn; that he turn over Hamarhelm to be tried and     defenses laid in place.
+punishment as deemed appropriate by the Church of Azerai              In any case, it remains to be determined whether Harvunn
+and the imperial lords. In this case, Hamarhelm would be kept     will give up his loyal warrior and hero of his people or would
+securely as a prisoner in the middle of the camp, tortured and    rather proceed to all-out war.
+beaten, starved and abused, for weeks or months as the trial
+is prepared and completed, after which he would certainly be
+executed.
+
+
+
+
+                                                                                                                                      15
+                                    Appendix A:
+
+
+     This appendix details the monsters and NPCs that appear in this adventure in addition to many more
+     from Bestiarum’s monthly release that you can use as inspiration for your own adventures! Monsters
+     are organized by Challenge Rating (CR), from weakest to strongest, and then alphabetically.
+
+
+
+
+16
+                     Monsters and NPCs
+
+ Challenge Ratings. Enemies and NPCs range from difficulty levels Weak (CR 1), Normal (CR 3), Hard
+(CR 5), Elite (CR 7), Champion (CR 10), Boss / Boss Torment (CR 13 / 18), and Archon (CR 24).
+
+
+
+
+                                                                                                     17
+                                                     Weak (CR 1)
+
+     Husks                                                                 Husk (Crossbow)
+     Husks are the lowest of the low in the Holy Empire. They were         Medium humanoid (human), lawful neutral
+     once human but committed grave crimes and sins and proven
+     themselves irredeemable. As punishment the Church of Azerai           Armor Class: 11
+     uses ancient methods to make them docile and compliant,               Hit Points: 38 (7d8 + 7)
+     drilling sharp needles into their brains and draining out the parts   Speed: 30 ft.
+     of the soul that make them human. Now, they are something
+     less, able to perform simple tasks such as wielding weapons,           STR      DEX       CON       INT      WIS       CHA
+     hard labor, or simple crafting, but incapable of free thought            12       12        12          6      10        10
+     or independence. They are the perfect slaves, and used for all          (+1)     (+1)      (+1)       (-2)    (+0)      (+0)
+     manner of work, from guarding camps to farming or mining.
+     Husks can still speak and act, but behind their deadened eyes         Senses: Passive Perception 10
+     one finds only emptiness.                                             Languages: Common
+                                                                           Challenge: 1 (200 XP)
+
+                                                                           Actions:					
+                                                                           Multiattack. This creature makes two attacks.
+
+                                                                           Light Crossbow. Ranged Weapon Attack: +3 to hit, range
+                                                                           80/320 ft., one target. Hit: 5 (1d8 + 1) piercing damage.
+
+
+
+
+                                                                           Husk (Spear)
+                                                                           Medium humanoid (human), lawful neutral
+
+                                                                           Armor Class: 11
+                                                                           Hit Points: 38 (7d8 + 7)
+                                                                           Speed: 30 ft.
+
+                                                                            STR      DEX       CON       INT      WIS       CHA
+                                                                              12       12        12          6      10        10
+                                                                             (+1)     (+1)      (+1)       (-2)    (+0)      (+0)
+
+                                                                           Senses: Passive Perception 10
+                                                                           Languages: Common
+                                                                           Challenge: 1 (200 XP)
+
+                                                                           Actions:					
+                                                                           Multiattack. This creature makes two attacks.
+
+                                                                           Spear. Melee Weapon Attack: +3 to hit, reach 10 ft., one target.
+                                                                           Hit: 6 (1d10 + 1) slashing damage.
+
+
+
+
+18
+                                                Normal (Cr 3)
+
+Bastion                                                             Bastion
+Large humanoid (human), lawful neutral                              Bastion teams work in pairs, the first carrying a heavy shield
+                                                                    and shortspear or rifle, while the rear carries a longspear to
+Armor Class: 20 (plate armor, shield)                               strike distant enemies. They are most effective operating
+Hit Points: 76 (9d10 + 27)                                          as a pair, forming an impenetrable defense and a powerful
+Speed: 20 ft.                                                       offense. In war, rows of Bastion teams form unbreakable front
+                                                                    lines, pressing ever forward into enemy ranks. They are near
+ STR       DEX       CON       INT        WIS       CHA             unbreakable so long as the formation holds.
+   16        16        16        10         14        10
+  (+3)      (+3)      (+3)      (+0)       (+2)      (+0)
+
+Senses: Passive Perception 12
+Languages: Common
+Challenge: 3 (700 XP)
+
+Shield Guard. This creature may spend an action or bonus
+action to raise its defenses, blocking the next 5 points of
+damage from attacks against it. This effect ends at the
+beginning of this creature’s next turn or if it is incapacitated.
+
+Variant. Bastions are either armed with two Spears or a Spear
+and a Musket. Before combat, determine which weapon the
+creature is bearing.
+
+Actions:					
+Multiattack. This creature makes three attacks, but may only
+make one attack with its Rifle.
+
+Spear. Melee Weapon Attack: +5 to hit, reach 5 ft., one target.
+Hit: 10 (2d6 + 3) piercing damage.
+
+Rifle. Ranged Weapon Attack: +5 to hit, range 40/120 ft., one
+target. Hit: 16 (2d12 + 3) piercing damage.
+
+
+
+
+                                                                                                                                     19
+                                                   Normal (Cr 3)
+
+     Quickblade                                                         Quickblade
+     Quickblades always get their mark. These killers never play        Medium humanoid (human), lawful neutral
+     fair and aim to kill before ever being seen. They have far
+     more resources and military training than the average contract     Armor Class: 15 (studded leather armor)
+     killer, allowing them to execute their victims swiftly. They       Hit Points: 65 (10d8 + 20)
+     are practiced assassins, slicing through the soft flesh of their   Speed: 40 ft.
+     enemies’ throats and parrying incoming attacks with ease -a
+     final way to mock their foes before launching deadly counter-       STR      DEX       CON       INT       WIS       CHA
+     attacks.
+                                                                           12       16        14        14        16        14
+                                                                          (+1)     (+3)      (+2)      (+2)      (+3)      (+2)
+
+                                                                        Senses: Passive Perception 13
+                                                                        Languages: Common
+                                                                        Challenge: 3 (700 XP)
+
+                                                                        Evasive. Attack rolls made against this creature have
+                                                                        disadvantage if it can see the attacker, and it makes Dexterity
+                                                                        saving throws with advantage. This benefit is lost if this
+                                                                        creature is incapacitated or its speed is reduced.
+
+                                                                        Cutthroat. Starting every combat round, this creature’s first
+                                                                        successful attack is always a critical hit.
+
+                                                                        Actions:					
+                                                                        Multiattack. This creature makes two attacks.
+
+                                                                        Dagger. Melee Weapon Attack: +5 to hit, reach 5 ft., one target.
+                                                                        Hit: 5 (1d4 + 3) piercing damage.
+
+                                                                        Reactions:					
+                                                                        Riposte. When this creature is targeted by a melee attack that
+                                                                        fails, it may immediately make one attack against the attacker
+                                                                        and regain its reaction.
+
+
+
+
+20
+                                                 Hard (Cr 5)
+
+Repentor Cavalry                                                  Repentor Cavalry
+Large humanoid (human), lawful neutral                            The Repentor Cavalry are deadly warriors armed with mighty
+                                                                  weapons and mounted on fearless combat stallions. Considered
+Armor Class: 18 (half-plate armor)                                the pinnacle of the Penitent Crusade’s fighting orders, each is
+Hit Points: 114 (12d10 + 48)                                      easily worth ten men, forming the core of the Crusade’s cavalry
+Speed: 60 ft.                                                     strike.
+
+ STR     DEX       CON      INT      WIS      CHA
+   18      14        18       12      14        12
+  (+4)    (+2)      (+4)     (+1)    (+2)      (+1)
+
+Senses: Passive Perception 11
+Languages: Common
+Challenge: 5 (1,800 XP)
+
+Cavalry Charge. If this creature moves at least 15 feet
+towards a target, its next attack against that target this turn
+has advantage. On a hit, the target must make a DC 17 saving
+throw or be knocked prone.
+
+Actions:					
+Multiattack. This creature makes two attacks with its
+Greatsword and may use Trample as a bonus action.
+
+Greatsword. Melee Weapon Attack: +7 to hit, reach 5
+ft., one target. Hit: 11 (2d6 + 4) slashing damage.
+
+Trample. The rider commands its war mount
+to trample the earth. All enemies within 5
+feet must succeed on a DC 15 Dexterity saving throw
+to attempt to jump out of the way, taking 18 (4d6 + 4)
+damage on a failure.
+
+
+
+
+                                                                                                                                    21
+                                                      Hard (Cr 5)
+
+     Knight Redeemer                                                     Knight Redeemer
+     Knight Redeemers stride into battle alongside the crusade           Medium humanoid (human), lawful neutral
+     soldiers. They are each powerful warriors and lieutenants,
+     having served for many years. But in addition to their              Armor Class: 18 (half-plate armor)
+     battlefield roles, these knights provide a special service to the   Hit Points: 102 (12d8 + 48)
+     Church of Azerai. They stand as the witnesses for the heroic        Speed: 30 ft.
+     deeds of their companions. For those on the path to atonement,
+     the redeemers mark acts of valor and heroism, vouching for the       STR      DEX       CON       INT       WIS      CHA
+     penitents who serve under them, and reducing their sentences
+                                                                            16       16        18        14        16       18
+     accordingly.
+                                                                           (+3)     (+3)      (+4)      (+2)      (+3)     (+4)
+
+                                                                         Senses: Passive Perception 13
+                                                                         Languages: Common, Latrian
+                                                                         Challenge: 5 (1,800 XP)
+
+                                                                         Command. As a bonus action on each of its turns, this creature
+                                                                         may select one allied creature within 30 feet. The target may
+                                                                         immediately make one free move or attack action.
+
+                                                                           Natural Leader. All friendly creatures within 30 ft. of the
+                                                                         Knight Redeemer gain advantage on attack rolls, including
+                                                                         himself.
+
+                                                                         Actions:					
+                                                                         Multiattack. This creature makes two attacks.
+
+                                                                         Greatsword. Melee Weapon Attack: +6 to hit, reach 5 ft., one
+                                                                         target. Hit: 10 (2d6 + 3) slashing damage.
+
+                                                                         Reactions:					
+                                                                         Riposte. When this creature is targeted by a melee attack that
+                                                                         fails, it may immediately make one attack against the attacker
+                                                                         and regain its reaction.
+
+
+
+
+22
+                                                 Hard (Cr 5)
+
+Flameblade Knight                                              Flameblade Knight
+Medium humanoid (human), lawful neutral                        The Flameblade Knight is a warrior of great renown, carrying
+                                                               an enormous blade which she ignites before combat. The sight
+Armor Class: 18 (half-plate armor)                             of her descending on enemy ranks is a wonder to behold, as
+Hit Points: 85 (10d8 + 30)                                     is the devastation she brings to the front lines. The scores of
+Speed: 30 ft.                                                  shredded and charred corpses she leaves in her wake are a
+                                                               testament to her battle prowess.
+ STR      DEX       CON       INT       WIS      CHA
+   18       16        16        14        14       14
+  (+4)     (+3)      (+3)      (+2)      (+2)     (+2)
+
+Senses: Passive Perception 12
+Languages: Common, Latrian
+Challenge: 5 (1,800 XP)
+
+Flameblade. This creature’s attacks and abilities deal fire
+damage in addition to normal damage. The damage is
+calculated and included in each action.
+
+Actions:					
+Multiattack. This creature makes two attacks.
+
+Greatsword. Melee Weapon Attack: +7 to hit, reach 5 ft., one
+target. Hit: 11 (2d6 + 4) slashing damage and 7 (2d6) fire
+damage.
+
+Whirlwind (Recharge 5-6). The Flameblade Knight spins her
+greatsword around. Each enemy creature within 10 ft. of her
+must make a DC 17 Dexterity saving throw, taking 14 (4d6)
+slashing damage and 10 (3d6) fire damage on a failed save or
+half as much on a successful one.
+
+
+
+
+                                                                                                                                 23
+                                                        Elite (Cr 7)
+
+     Scarlet Centurion                                                  Scarlet Centurion
+     The Scarlet Centurion is an enormous warrior, striding into        Large humanoid (human), lawful neutral
+     combat with his heavy steel weapons and spiked armor. He is
+     a dastardly foe to face, showing no mercy nor remorse for his      Armor Class: 18 (plate armor)
+     brutality. He revels in bloodshed, charging straight into the      Hit Points: 149 (13d10 + 78)
+     melee to slaughter whatever, or whoever the Crusade points         Speed: 30 ft.
+     him at. It is said that in the midst of combat, the blood of his
+     foes covers him, washing over his armor like a scarlet river.       STR      DEX       CON       INT       WIS       CHA
+                                                                           22       12        22        10        10        10
+                                                                          (+6)     (+1)      (+6)      (+0)      (+0)      (+0)
+
+                                                                        Senses: Passive Perception 10
+                                                                        Languages: Common
+                                                                        Challenge: 7 (2,900 XP)
+
+                                                                        Brutal Melee This creature’s attacks with melee weapons
+                                                                        deal one extra die of their damage (included in the attack).
+                                                                        Additionally, they score a Critical Hit on a natural 18 or higher.
+
+                                                                        Actions:					
+                                                                        Multiattack. This creature makes two attacks.
+
+                                                                        Greataxe. Melee Weapon Attack: +9 to hit, reach 5 ft., one
+                                                                        target. Hit: 19 (2d12 + 6) slashing damage.
+
+                                                                        Furious blows (Recharge 4-6). The Centurion makes a
+                                                                        Greataxe attack. If the attack hits, the creature takes an
+                                                                        additional 26 (4d12) bludgeoning damage and becomes stunned
+                                                                        until the end of the Centurion’s next turn.
+
+
+
+
+24
+                                          Champion (Cr 10)
+
+Repentor Primus (Solo)                                            Repentor Primus (Solo)
+Large humanoid (human), lawful neutral                            Commanding the Penitent Crusade is the Repentor Primus,
+                                                                  the martial leader of the host. Cold and ruthless, he is the
+Armor Class: 18 (plate armor)                                     backhanded slap that drives the soldiery ever forward, should
+Hit Points: 170 (20d8 + 80)                                       their conviction show signs of waning. Serving at the behest
+Speed: 30 ft.                                                     of the Church, the Repentor Primus is afforded some degree of
+                                                                  autonomy when enforcing the Church’s orders, a sure sign of
+ STR      DEX       CON       INT       WIS       CHA             the trust placed in these warrior’s holy conviction.
+   20       18        18        18        18        20
+  (+5)     (+4)      (+4)      (+4)      (+4)      (+5)
+
+Saving Throws: Str +9, Con +8, Cha +9
+Senses: Passive Perception 14
+Languages: Common, Latrian
+Challenge: 10 (5,900 XP)
+
+Command. As a bonus action on each of its turns, this creature
+may select one allied creature within 30 feet. The target may
+immediately make one free move or attack action.
+
+Actions:					
+Multiattack. This creature makes three attacks. Two with its
+Flail and one with its Warhammer.
+
+Flail. Melee Weapon Attack: +9 to hit, reach 5 ft., one target.
+Hit: 14 (2d8 + 5) bludgeoning damage.
+
+Warhammer. Melee Weapon Attack: +9 to hit, reach 5 ft., one
+target. Hit: 16 (2d10 + 5) slashing damage.
+
+Reactions:					
+Parry. This creature adds +4 to its AC against one melee Attack
+that would hit it. To do so, the creature must see the attacker
+and wield a melee weapon.
+
+
+
+
+                                                                                                                                  25
+     Bosses (Cr 13/18)
+
+             High Lord Azriel
+             High Lord Azriel is the named protector of the Holy Empire,
+             the ultimate commander of the Penitent Crusade, and the
+             supreme leader of all standing armies in the realm. He is a
+             mighty warrior, pouncing from the skies on his armored sphinx
+             and obliterating foes with his great warhammer. Yet he is also a
+             brilliant strategist, politician, and logistician, a master of war in
+             all respects.
+             Azriel’s Lair
+             Azriel roams the skies of Doaden on his Sphynx, striking down
+             upon the battlefield to accomplish critical military maneuvers.
+             All places are considered his lair.
+             Lair Actions
+             On initiative count 20 (losing initiative ties), Azriel takes a lair
+             action to cause one of the following effects.
+
+                 Command Troops. Select one allied creature within 30 feet.
+             The target may immediately make one free move and take one
+             attack action.
+
+
+
+
+26
+                                       Bosses (Cr 13/18)
+
+High Lord Azriel
+Huge humanoid (human), lawful neutral
+
+Armor Class: 18 (plate armor)
+Hit Points: 202 (15d12 + 105)
+Speed: 40 ft. fly 80 ft.
+
+ STR       DEX       CON       INT       WIS       CHA
+   22        20        24        18        18        22
+  (+6)      (+5)      (+7)      (+4)      (+4)      (+6)
+
+Saving Throws: Str +11, Wis +12, Cha + 11
+Senses: Passive Perception 14
+Languages: Common, Latrian
+Challenge: 13 (10,000 XP)
+
+Legendary Resistance (1/Day). If this creature fails a saving
+throw, it can choose to succeed instead.
+
+Actions:					
+Multiattack. This creature makes two attacks with the
+Warhammer, and one attack with its Claws.
+Claws. Melee Weapon Attack: +11 to hit, reach 10 ft., one
+target. Hit: 16 (3d6 + 6) slashing damage.
+Warhammer. Melee Weapon Attack: +11 to hit, reach 5 ft., one
+target. Hit: 15 (2d8 + 6) bludgeoning damage.
+Pounce (Recharge 3-6). As a bonus action, the Sphinx makes
+a Claw attack. If the attack succeeds and the target’s size is
+Large or smaller, the target must make a DC 19 Strength saving
+throw. On a failure, the creature drops any items it holds, and
+the Sphinx may lift the target up to 40 ft. and drop it, dealing an
+extra 1d6 bludgeoning damage per 10 feet fallen.
+
+Legendary Actions:			
+Azriel can take 3 legendary actions, choosing from the options
+below. Only one legendary action option can be used at a time
+and only at the end of another creature’s turn. Azriel regains
+spent legendary actions at the start of his turn.
+Attack. Makes a Claw attack or a Warhammer attack.
+Blinding Light (Recharge 5-6). High Lord Azriel channels
+the Emperor’s light around himself. All creatures within 20 ft.
+of him must succeed on a DC 20 Constitution saving throw or
+become blinded until the end of Azriel’s next turn.
+Wing Attack (Recharge 4-6): The Sphinx beats its wings.
+Each enemy creature within 10 ft. of it must succeed on a DC
+18 Dexterity saving throw or take 16 (3d6 + 6) bludgeoning
+damage and be knocked prone. The Sphinx can then fly up to
+half its flying speed.
+
+                                                                      27
+                                            Bosses (Cr 13/18)
+
+     High Lord Azriel (Torment)
+     Huge monstrosity, lawful neutral
+
+     Armor Class: 18 (plate armor)
+     Hit Points: 270 (20d12 + 140)
+     Speed: 40 ft. fly 80 ft.
+
+      STR       DEX       CON       INT       WIS       CHA
+        22        20        24        18        18        22
+       (+6)      (+5)      (+7)      (+4)      (+4)      (+6)
+
+     Saving Throws: Str +12, Con +13, Cha + 12
+     Senses: Passive Perception 14
+     Languages: Common, Latrian
+     Challenge: 18 (20,000 XP)
+
+     Legendary Resistance (3/Day). If this creature fails a saving
+     throw, it can choose to succeed instead.
+
+     Actions:						
+     Multiattack. This creature makes two attacks with the
+     Warhammer, and one attack with its Claws.
+     Claws. Melee Weapon Attack: +12 to hit, reach 10 ft., one
+     target. Hit: 16 (3d6 + 6) slashing damage.
+     Warhammer. Melee Weapon Attack: +12 to hit, reach 5 ft., one
+     target. Hit: 15 (2d8 + 6) bludgeoning damage.
+     Pounce (Recharge 3-6). As a bonus action, the Sphinx makes
+     a Claw attack. If the attack succeeds and the target’s size is
+     Large or smaller, the target must make a DC 19 Strength saving
+     throw. On a failure, the creature drops any items it holds, and
+     the Sphinx may lift the target up to 40 ft. and drop it, dealing an
+     extra 1d6 bludgeoning damage per 10 feet fallen.
+
+     Legendary Actions:			
+     Azriel can take 3 legendary actions, choosing from the options
+     below. Only one legendary action option can be used at a time
+     and only at the end of another creature’s turn. Azriel regains
+     spent legendary actions at the start of his turn.
+     Attack. Makes a Claw attack or a Warhammer attack.
+     Blinding Light (Recharge 5-6). High Lord Azriel channels
+     the Emperor’s light around himself. All creatures within 20 ft.
+     of him must succeed on a DC 20 Constitution saving throw or
+     become blinded until the end of Azriel’s next turn.
+     Wing Attack (Recharge 4-6): The Sphinx beats its wings.
+     Each enemy creature within 10 ft. of it must succeed on a DC
+     18 Dexterity saving throw or take 16 (3d6 + 6) bludgeoning
+     damage and be knocked prone. The Sphinx can then fly up to
+     half its flying speed.
+28
+29
+30
+Encounter 1: Infiltrating the                            damage.
+                                                             Louse Noise. Exploding oil barrels make a lot of
+Camp                                                     noise. Any camp defenders within 30 ft. of an explod-
+For the first encounter, the party must infiltrate the   ing oil barrel will be attracted to the noise location,
+Crusade Encampment at night. Lay out Map A:              arriving within 2 combat rounds.
+Crusade Encampment for the players and begin                      Braziers. Throughout the map are various
+this encounter!                                          unlit braziers marked with a B. Braziers are ob-
+                                                         jects, with AC 10 and 20 Hit Points, with resistance
+Running the Encounter                                    to piercing and slashing damage. If destroyed, the
+The following sections provide rules, tips, and tricks   brazier becomes unusable. If a PC is spotted by a
+for running this encounter.                              Husk, it will immediately attempt to reach for the
+                                                         closest brazier. The brazier takes 2 actions to be lit
+Preparing the Encounter                                  and can only be lit once. If lit, the brazier draws the
+Place any enemies the party would be able to see         attention of any camp defenders within 30 feet of it.
+from outside the camp and allow them to choose           Once a brazier is lit, camp defenders within 30 feet
+their own approach. The party should spend some          of it will be drawn to the brazier, reaching the area
+time discussing a strategy and planning their entry      in 2 combat rounds.
+and exit routes before they begin the infiltration                Husk Variations. When the scenario calls for
+attempt.                                                 a Husk creature, you may use a Husk (Crossbow) or
+        Guards Behavior. The guards defending
+                                                         a Husk (Spear).
+the camp are watching for any suspicious activity.
+The party must take every precaution if they don’t
+want to alert them. Dead bodies left in plain sight if   Map A: Crusade Encampment
+spotted will leave the whole camp on high alert and      The following areas correspond to Map A: Crusade
+loud noises will attract nearby guards. Guides on the    Encampment. The walls of the encampment are 30
+guards’ behaviors, duties, and activities are provided   ft. tall unless otherwise stated.
+in each section, but you can run them as you see fit.
+    Escape Plan. Several things may go wrong             A1) North Gate
+during the party’s infiltration attempt. Guards may      A dirt path leads to the outer wall. If a creature at-
+be alerted, or reinforcements may be called. If things   tempts to climb the walls, it must succeed on DC 12
+get too heated, the party will need a quick escape.      / 13 / 14 Dexterity (Acrobatics) check for every 15
+They have been provided an Armored Transport             ft. or take 1d6 / 1d8 / 1d12 piercing damage and fall
+Wagon, which they may place anywhere around              to the ground. Metal gates close the north entrance to
+the map. The wagon will wait at that location, ready     the encampment. Palisades guard the outer sides of
+to run if things go wrong. The way this adventure        the entrance, and some are scattered inside the camp,
+is designed, the party will most be forced to run to     beyond the gates. A shipment of crates is being in-
+the wagon and escape, sparking an exciting second        spected and carried into the camp, leaving the gates
+encounter before they are clear of danger!               ajar while Crusaders watch over a few Husks doing
+                                                         the heavy lifting. The following enemies are present
+Torches. Various sections of the camp are illuminat-     in this area:
+ed by torches. These torches provide bright light in         2x Husks.
+a 20-foot radius and dim light for an additional 20           • 1x Bastion and 2x Husks.
+feet.                                                         • 1x Bastion and 3x Husks.
+   Oil Barrels. Throughout the camp are various oil
+                                                         Roaming Guard. 1x Scarlet Centurion roams the
+barrels marked with an O. These are objects with AC
+                                                         encampment’s main road, going up and down be-
+8 and 1 Hit Point. If hit by any source of fire dam-
+                                                         tween the areas A1 and A10 through the main path
+age, the barrel explodes in a 20 ft. circular range.
+                                                         cutting through the camp. He takes a long time going
+All creatures caught in the explosion take 6d6 fire
+                                                         from one point to another (about 10 minutes), walk-
+                                                                                                                   31
+     ing slowly and meticulously.                               3x Potions of Greater Healing, and inside the oth-
+                                                                er, there’s 2d8 gold. The Chest Keys are with the
+     A2) Stone Passage                                          Knight Redeemer, but the chests can also be opened
+     Near the Northeastern side of the woods surround-          with a DC 16 / 18 / 20 Dexterity (Sleight of Hand)
+     ing the encampment is a formation of various large         check using lockpicking tools. The following ene-
+     rocks rising 10 ft. tall. Various natural corridors have   mies are present in this area:
+     been formed in between these rocks. One passage-               1x Knight Redeemer.
+     way leads to a rundown section of the encampment                • 2x Husk and 1x Knight Redeemer.
+     walls behind a tent in A3. The rundown section is               • 3x Husks and 1x Knight Redeemer.
+     very narrow, about 5 ft., allowing only one creature
+     of either medium or small size to pass through at a        A5) Camp Checkpoint
+     time. Also, the section has sharp bits of broken wood      A second set of palisade walls divide the encamp-
+     jolting out. A creature that passes through the section    ment between the north and south sides. A squared
+     must succeed a DC 14 / 16 / 18 Dexterity (Acrobat-         area stands between both sides, where Crusaders
+     ics) check or take 1d4 / 1d6 / 1d8 piercing damage.        check any cargo or prisoners being transported be-
+     The crusaders are unaware of the rundown section           tween encampment areas. Two 15ft. tall walls sur-
+     but constantly send Husks to patrol the rock forma-        round the area, with elevated platforms behind them
+     tions in search of spies. The following enemies are        that are 12 ft. tall, giving sight to the space between
+     present in this area:                                      the areas and providing cover to the Crusaders stand-
+         2x Husks.                                              ing behind them. The following enemies are present
+          • 3x Husks.                                           in this area:
+          • 1x Bastion and 2x Husks.                                1x Bastion and 1x Husk.
+                                                                     • 2x Bastion.
+     A3) Northside Barracks                                          • 2x Bastion and 2x Husk.
+     Six tents form a corridor on the north side of the
+     camp. There’s nothing usable inside the tents, just        A6) Southside Barracks
+     some sleeping bags and other mundane objects.              Five tents form a corridor on the south side of the
+     Some Crusaders patrol the area while a few rest            camp. There’s also nothing usable inside these tents.
+     inside the tents. Some crates are scattered around the     A few crates are scattered around the area, contain-
+     area, each approximately 3 feet in length, 3 feet in       ing food, wood, and stone for further development
+     width, by 3 feet in height. The crates are empty. The      of the encampment. These crates are approximately
+     following enemies are present in this area:                3 feet in length, 3 feet in width, by 3 feet in height.
+        1x Bastion, 1 Husk, and 1x Quickblade.                  The Crusaders in this area are all up, patrolling the
+         • 1x Bastion, 2x Husk, and 1x Quickblade               grounds, checking the cargo crates, or shifting turns
+         • 2x Bastion, and 2x Quickblades.                      between the A5, A6, and A7. The following enemies
+                                                                are present in this area:
+     A4) Commander’s Tent                                          1x Bastion and 1x Quickblade.
+     A large red tent stands on the northeastern side of the        • 1x Bastion, 1x Husk and 1x Quickblade.
+     encampment. A campfire and some torches illumi-                • 1x Bastion, 2x Husks, and 1x Quickblade.
+     nate the area around it. A Knight Redeemer comes
+     and goes between areas A1, A3, A4, and A5, spend-          A7) Fallen Tree
+     ing some time with the other camp defenders at A3,         An enormous fallen tree has crashed into the camp,
+     checking the cargo at A1 and A5, and cataloging            destroying a section of the wall. Two tents near A6
+     the items at A4. Outside the tent are various boxes,       watch over A7 and A9. The Crusaders here shift
+     crates, empty chests, and equipment displayed, with        between A6, A7, and A9 periodically. The broken
+     more being transported by the Husks in A1 to the           space on the wall leaves a 5 ft. gap. The area is poor-
+     large red tent. There’s also a table beside the tent       ly illuminated, with two spiked palisades close to the
+     with the Camp Leader’s Key on top. Inside the              fallen tree. The following enemies are present in this
+     tent, there are two locked chests. The chests contain      area:
+32
+   2x Husks and 1x Quickblade.
+    • 3x Husks and 1x Quickblade.
+    • 1x Bastion, 2x Husks and 1x Quickblade.
+
+A8) Standard Yard
+The Standard the party is looking for is set near the
+camp’s main path, besides an enormous red tent.
+There’s nothing useful inside the tent besides papers,
+maps of the surrounding region, and orders and notes
+from the Church. The following enemies are present
+in this area:
+    1x Repentor Primus (analyzing maps and docu-
+ments inside the tent)
+     • 2x Husks and 1x Repentor Primus.
+     • 1x Husk, 1x Flameblade Knight, and 1x
+         Repentor Primus Solo.
+
+It’s a Trap! A magical alarm system has been set on
+the Standard. If the party interacts with it, moving it
+in any way, the alarm will set off, alerting the whole
+encampment to the party’s presence. The alarm can
+be detected with the spell Detect Magic. The alarm
+can be disabled with the spell Dispel Magic with
+a DC 13 / 14 / 15 spellcasting ability check. On a
+failed check, the alarm is set off. If the alarm is trig-
+gered, proceed to Encounter 2.
+
+A9) Horse Pen
+A round enclosure used to train the Crusaders’ war
+horses. The area is very large, allowing the horses to
+move freely while also providing boundaries to the
+structure. Only a few horses are present here.
+
+A10) South Gate
+The walls surrounding the south-most encampment
+area are 30 ft. tall with two elevated platforms inside,
+giving sight to the road outside, where Crusaders
+stand guard. Metal gates close off the camp. The
+gates are objects with AC 19 and 100 Hit Points and
+resistance to bludgeoning, piercing, and slashing
+damage. Any successful hits against the gate produce
+a loud echoing noise, alerting all creatures within a
+30 ft. radius. Also, the gates are shut tight, requiring
+the Camp Leader’s Key to be opened or a DC 19 /
+21 / 23 Dexterity (Sleight of Hand) check. The fol-
+lowing enemies are present in this area:
+   1x Bastion.
+    • 1x Bastion and 2x Husks.
+    • 2x Bastions.
+                                                            33
+34
+Encounter 2: Escape!
+
+
+
+
+                       35
+     Map B: Rolling Road                                      the High Lord or the targeted Repentor Calvary unit,
+     The following areas correspond to Map B: Rolling         pushing them back 5 ft. However, PCs have disad-
+     Road. The next encounter takes place on this map.        vantage in any such actions as the Armored Trans-
+     In most cases, the party will set off the alarm ei-      port is moving rapidly and jerking about.
+     ther because they did not think to detect its magical        Mounted Weapon. As an action, a PC may order
+     defenses or because they were unable to disable the      the Husk manning the Armored Transport’s weapon
+     alarm. Thus, the entire camp will be alerted, and they   to fire against either the Lord or a Repentor Cavalry
+     will be forced to escape on the Armored Transport        unit. The weapon requires three actions to be fired.
+     Wagon. If this happens, have the party escape the        One to load the weapon, one to aim it properly, and
+     encampment and reaches the vehicle. Then, begin          one to shoot it. The weapon does not require any
+     the second encounter.                                    rolls to hit the target. It deals 44 (8d10) force dam-
+                                                              age, pushing the target 15 ft back.
+                                                                  High Lord Azriel Actions. During the encoun-
+     Running this Encounter
+                                                              ter, the High Lord does not take damage, so the
+     This encounter is a chase sequence. At the start of      only important trait is his AC. On each of its turns,
+     the sequence, place the Armored Transport Wagon at       the High Lord moves 15 ft. closer to the Armored
+     B1 with the party on it. As the party is escaping, 1x    Transport. If the High Lord ends within 5 ft. of the
+     High Lord Azriel and 2x Repentor Cavalry will be         Armored Transport, it may make one of any of its
+     hot on their heels. Place the units 30 ft. behind the    attacks, dealing two automatic Hits to the Armored
+     Armored Transport. Have the party roll for initiative,   Transport.
+     then place the units in their respective order. The          Repentor Cavalry Actions. The Repentor Cav-
+     chase will last for 8 rounds, at the end of which the    alry should be treated as normal enemy units, taking
+     party will successfully lose the pursuing Crusaders.     damage as usual. On each turn of a Repentor Caval-
+     To start this encounter, read the following script.      ry, it moves 10 ft. closer to the Armored Transport. If
+                                                              a Repentor Cavalry ends within 5 ft. of the Armored
+     Even though the alarms were set off, you somehow         Transport, it may make one of any of its attacks,
+     managed to escape from the encampment and reach          dealing one automatic Hit to the Armored Transport.
+     the safety of the Armored Transport waiting for you.         Husks’ Actions. Besides the Husk piloting the
+         Yet, as you board the vehicle, the ground begins     Armored Transport, 2x Husks are bearing crossbows
+     to tremble at the sight of crusaders mounted on black    and will be focused on defending the vehicle along-
+     armored steeds coming in your direction. The Husks       side the party. The Husks have the same stats as the
+     ignite the vehicle engines as it burst through the       ones in Appendix A Monsters and NPCs.
+     shaded woods. But the cavalry won’t give up so eas-          Hitting the Armored Transport. The Armored
+     ily, staying hot on the transport’s heels alongside a    Transport can take 10 Hits, suffering greatly from
+                                                              each strike from either the High Lord or the Repen-
+     sudden, massive shadow of a flying lion-like creature
+                                                              tor Cavalry. After each hit, describe the increasing
+     that surges above the trees and descends on you.
+                                                              damage caused by the blows. On the eleventh Hit,
+                                                              the Armored Transport is completely destroyed. The
+     Party Actions. Each round, the PCs may take ac-          Husks die, and the party is thrown to the ground
+     tions to increase the gap between the moving Ar-         amidst the burning wreckage of the vehicle. Each
+     mored Transport and the approaching enemy. At the        PC takes 2d6 bludgeoning damage from the fall. The
+     start of each combat round, beginning on combat          party must now either fight High Lord Azriel and his
+     round 2, the Armored Transport gets a speed boost,       remaining Repentor Cavalry on foot or be captured.
+     moving 5 ft. forward through the rolling map.            The final outcome is up to you.
+        Attacks. The Armored Transport is spacious, al-            • 1x High Lord Azriel (Torment) and 2x Re-
+     lowing for up to 6 creatures of medium size to stand              pentor Cavalry.
+     on top. PCs may change positions between them-                • 1x High Lord Azriel (Torment) and 3x
+     selves and attack with one of their weapons, spells,              Repentor Cavalry.
+     or abilities. Each successful attack by a PC slows
+36
+

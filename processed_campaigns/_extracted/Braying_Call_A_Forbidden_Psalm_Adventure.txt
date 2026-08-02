@@ -1,0 +1,518 @@
+1
+                         ADVENTURE SUMMARY:
+
+
+
+   In this scenario, the warband/s must investigate the strange happenings around Essenvald,
+an old village hidden away in the southern Black Forest. As the townsfolk slide into madness,
+the party must confront the culprit and put an end to its reign of terror before its influence
+spreads any further and it begins to corrupt any more surrounding villages.
+
+Chapter 1: The scenario begins as the warband/s investigates the isolated village of
+Essenvald, where the people have succumbed to a strange madness. In secret, the villagers
+are practicing dark magic, worshipping a sinister creature lurking in the surrounding forest.
+The closer the party gets to uncovering the truth, the more hostile the villagers become,
+making their investigations increasingly perilous.
+
+
+Chapter 2: Following the trail of clues, the warband/s finds a wicked hag at the center of the
+village’s corruption. After slaying her, loud braying echoes from the depths of the forest,
+driving the villagers to a frenzied state and forcing the warband/s to fight for their lives.
+
+
+Chapter 3: Having survived the attack, the warband/s plunges into the forest on the hunt for
+the creature, an evil Bies, dodging through the mist and avoiding several hazards as they
+follow the bleating call, coming face to face with the monstrous creature, a demonic goat-like
+entity, and engaging in desperate battle.
+
+
+
+
+                                               2
+                              FORBIDDEN PSALM:
+
+
+
+INTRO PAGE
+        Welcome to Doaden, the dark fantasy setting of tainted lands and twisted monsters,
+where an ever-creeping affliction corrodes the very essence of existence. It is a world of
+decay and depravity where once- righteous men and heroes of glorious purpose now struggle
+to survive as cults and dark gods vie with one another to consume the last vestiges of
+humanity.
+       In Forbidden Psalm: The Tainted lands of Doaden you will find
+• Three scenarios created for the fantastic monsters from Bestiarum miniatures.
+• Rules for monsters
+       These scenarios should be played in order.
+       You will need a copy of the Forbidden Psalm Core Book to play.
+       The North is a sparsely populated region historically inhabited by nomadic tribes. The
+people are animistic, believing in nature spirits that are contrary to the beliefs of the Church
+of Azerai. However, their warriors are fierce, and the region is too craggy and cold to grow
+much crop or livestock.
+       A military campaign of the magnitude needed to conquer the north would be costly,
+arduous, and offer little return. For these reasons, the North maintains independence from the
+Empire, the Church finding little benefit in extending its reach into such inhospitable lands.
+
+
+THE VILLAGE IS LOST, MY LORDS. THE FOLK HAVE BEEN TAKEN BY MADNESS. THEY GROW
+INCREASINGLY ERRATIC AND HOSTILE TO MY PRESENCE. I SUSPECT THEY PRACTICE THE
+OLDEN WAYS SECRETIVELY IN THEIR HIDDEN HOVELS, WORSHIPPING SOME EARTHEN EVIL
+IN THE WOODS. IT DRIVES THEM. IT CALLS THEM. I CAN ALMOST SEE IT SOMETIMES, A
+SHIFTING SHADOW BETWEEN THE TREES. ON THE DARKEST NIGHTS, I HEAR IT, CALLING,
+BRAYING, ALWAYS BLEATING, BLEATING, BLEATING. OH, PLEASE MAKE IT STOP! I BEG OF
+YOU, MY LORDS, YOU MUST MARSHAL THE CRUSADE. THIS PLACE, THESE PEOPLE, MUST BE
+PURGED BEFORE IT IS TOO LATE.
+
+
+
+
+These scenarios should be played in solo or coop only.
+
+
+
+
+                                               3
+4
+                                         SCENARIO 1:
+
+
+
+        As you approach the village, the thick forest opens up to a clearing. You hear distant
+chanting and guttural human voices. As you get closer, you see through a hazy mist that the
+villagers are gathered around a bonfire, their twisted bodies silhouetted against the
+flickering flames. The village is a desolate place. The cottages are old and worn, and their
+walls caked with grime and moss. The dirt roads are rutted and pitted. Beyond the gathered
+villagers, you see an old chapel. Its windows boarded, though its belltower still stands tall.
+
+
+Goal
+
+Investigate what happened and uncover the clues.
+
+
+
+Reward
+
+Each warband gain 10xp for discovering what happened.
+
+
+
+Setup and Treasure
+
+The board should be setup as shown in map A. It is 40inches by 40inches.
+
+        A1= Front Gate: warbands should be placed in area A1. The Gate is open.
+
+        A2 = Old Windmill, a model within 1 inch can make a presence test to find a clue on a
+success read:
+
+         As you read the letter, the woman suddenly turns to you, hatred filling her eyes. She reaches
+for a rusted scythe leaning against the wall, waving the crude tool in the air as she shouts out in a
+high-pitched voice, a single word.
+
+“Leave!” spawn a Crazed Scyther within 1 inch of the model that was successful in its presence test.
+
+This counts as 1 clue being investigated.
+
+         A3 = Rundown Cottage: model within 1 inch can make a treasure roll, if roll is failed it
+cannot be repeated by that model, once a roll has succeeded no more rolls should be made. If the roll
+is failed, the mad Woodcutters in A4 become hostile.
+
+        A4 = Village Square. Deploy two mad woodcutters per warband around the fire.
+
+The villagers are completely entranced by the flames. They pay no attention to the warband/s
+approach. However, if the warband/s attempts to interact with them or interacts with any of the clues
+in this area, they become erratic as they snap out of their trance. Their eyes roll back into their heads
+as they speak in a language that is unintelligible, screaming toward the party, they become hostile.
+
+Place a runestone in this area alongside the fire.
+
+
+
+                                                     5
+If a warband member gets within 1 inch of the rune stone read
+
+         As you touch the runestone, your mind is struck by a vision like a dream. You are in a
+forest glade, the air filled with laughter, screams, and a deafening braying. A blazing fire
+erupts at the center of the glade and shadows dance around it, morphing into a monstrous
+goat-headed figure. The thing stands amid a group of crazed peasants, dancing naked in the
+mud. Some bow and crawl to the creature, kissing its pulsating belly. Suddenly a baby’s cries
+split the air as a mishappen goat burst from between the creature’s legs. With a roar-like
+bleating, the vision retreats and you find yourself back in the village, looking at the stone.
+This counts as 1 clue being investigated.
+
+This triggers the Mad Woodcutters in this area who then become hostile.
+
+        A5 = Old Chapel, model within 1 inch can make a treasure roll, if roll is failed it cannot be
+repeated by that model, once a roll has succeeded no more rolls should be made. If the roll is failed,
+the mad Woodcutters in A4 become hostile.
+
+         On a success the warband/s see inside the chapel A tall Mendicant Friar is kneeling in front of
+the altar. He is muttering in a strange language, grasping firmly onto a torn-apart book in his hands. A
+large woman, the Village Hag, is behind the altar, and beside her, a little green creature, one
+Domovoy, is sitting on the floor. The Village Hag is stirring a viscous crimson liquid inside the bowl
+as the Domovoy hands her various ingredients from his sack.
+
+On a success read:
+
+        As you approach, the little green creature sitting beside the woman perks up and
+exclaims, "Oh, oh, we have company!" before snapping its fingers and vanishing into a cloud
+of smoke. The woman cackles wickedly, and suddenly the heavy wooden door behind you
+locks with a loud click. The air becomes thick, and the room fills with muttered whispers. The
+bulky, tall man rises from his kneeling position and reaches for the mace at his belt, letting
+out a blood-curdling roar as he charges toward you.
+
+This counts as 1 clue being investigated.
+
+Place the Mendicant Friar within 1 inch of the successful model and they are now hostile to
+the warband.
+
+When the Friar is killed the Hag leaves the chapel and attacks, place the village hag within 1
+inch of the Chapel entrance.
+
+         A6 = Ruined Barn model within 1 inch can make a treasure roll, if roll is failed it
+cannot be repeated by that model, once a roll has succeeded no more rolls should be made. If
+the roll is failed, the mad Woodcutters in A4 become hostile.
+
+         A7 = Village Hag’s Hut, models within 1 inch can make a treasure roll. If the roll is
+failed, that model cannot repeat it. Once a roll has succeeded no more rolls should be made. If
+the roll is failed, the Woodcutters in A4 become hostile.
+
+
+
+                                                   6
+O = Oil Barrels. Throughout the area are oil barrels marked with an O. They have AC 1 and 5
+Hit Points. If hit by any source of fire damage, the barrel explodes. All creatures within 5
+inches suffer 5 fire damage.
+Deployment
+
+All models should be deployed in A1 as above.
+
+Threats
+
+As above
+
+Solo Play
+
+As Above
+
+The Scenario ends all clues are found.
+
+RPG text box
+
+When the party kills the hag read
+
+As the hag drops to the ground, a loud roar-like bleating bellows from deep within the dark woods
+outside. As it fades away, you begin to hear the villagers outside screaming, howling, and poorly
+mimicking the braying call. A faint wailing starts to grow louder, as something heavy begins to pound
+against the still-locked door.
+
+
+
+
+                                         Map A. Essenvald
+
+                                                  7
+                                          SCENARIO 2
+
+
+
+        As you venture into the misty woods, the dense canopy of twisted and gnarled trees blocks out
+most of the light, casting eerie shadows upon the damp ground covered in a thick layer of
+decomposing vegetation. Suddenly, a deer jumps out of the brush a few feet away from you, snapping
+twigs and vines snaking across the floor, causing rustling sounds that echo unnaturally loud
+throughout the woods. It freezes, staring wide-eyed at you. Just then, a bleating roar echoes from the
+mist, and heavy, fast stomping can be heard coming toward the deer. Trees start to break and fall as
+the sound gets louder and closer. Suddenly, a giant behemoth of a creature dashes out of the woods,
+biting onto the deer and carrying its corpse in its mouth as it dashes back into the deep forest,
+vanishing through the brush and mist.
+
+Goal
+
+Hunt the Bies and kill it.
+
+
+
+Setup and Treasure
+
+Set up the board as shown in map b. The Board should be at least 30 inches by 36 inches.
+
+This scenario mist is in effect. All ranges for all attacks and spells are reduced to just 3 inches. All
+lines of sight are only 3 inches long.
+
+The warband/s are hunting the Bies that is hiding in the mist. When a warband member gets within 1
+inch of B2, B3, B4 and B5 roll a D6 on a result of a 1 the Bies is there, place the Bies within 3 inches
+of the model that found it. Areas can be revisited multiple times until a 1 is rolled. Once the creature
+is found do not roll for new areas.
+
+        B1 = Where warbands are deployed
+
+        B2 = Kikimora’s Den, when a warband member gets within 3 inches spawn 1 Kikimora per
+warband {the first time only}. Models within 1 inch can make a treasure roll, if roll is failed it cannot
+be repeated by that model, once a roll has succeeded no more rolls should be made.
+
+        B3 = Forest Overlook, the overlook is located on the edge of a gorge overlooking a valley in
+the woods. Three large rocks are arranged in a triangle shape on the overlook, with a runestone placed
+on top of the largest rock.
+
+When a warband member gets within 3 inches spawn 1 Chort on the largest rock {the first time only}.
+
+       B4 = Hanging Tree, a presence test can be taken here by a model within 1 inch. On a success
+a model gains +1 presence. On a failure they must make a morale check.
+
+        B5 = Bies’ Feeding Ground, model within 1 inch can make a treasure roll, if roll is failed it
+cannot be repeated by that model, once a roll has succeeded no more rolls should be made.
+
+V = Vines, models that pass over vines must make an agility test. On a failure a Kikimora spawns on
+a random board edge and begins to move randomly 1D6 a round {this mist means the Kikimora can
+only see models within 3 inches}
+
+
+                                                     8
+Deployment
+
+All warbands should be placed in B1.
+
+
+
+Threats
+
+As above
+
+
+
+Solo Play
+
+See above
+
+
+
+The Scenario ends when the Bies is slain.
+
+
+
+When the Bies is slain read
+
+        The deformed goat creature falls to the ground with a heavy thud. Its multiple eyes go
+glassy, with a mixture of thick blood and black ooze drizzling from its mouth. The forest goes
+dead silent as the mist suddenly begins to clear, revealing the full extent of the corrupted
+nature that has befallen the area. Trees twisted and gnarled; their branches caked in a thick
+layer of black slime. The ground is covered in rot and decay, with bones and viscera
+scattered everywhere. Yet the forest seems to whisper a sigh of relief, as the heart of
+corruption begins to leave the soil.
+
+
+
+
+                                              9
+Map B. Bleating Forest
+
+
+
+
+         10
+                                         SCENARIO 3:
+
+
+
+        As you touch the glowing runestone, the world around you turns pitch black. The world and
+sounds of nature are torn apart by a deafening, screeching braying as a red mist begins to swirl
+around you. Shadows dance in a crazed frenzy, intertwining with the mist and shaping around a
+clearing. The surrounding trees morph impossibly large into a solid wall of thick timber trunks. Three
+massive rock formations erupt from the ground as a grotesque altar takes shape. A monstrous goat-
+headed creature stands at the center of the phenomenon. It bellows and bleats as it holds its rounded
+belly with one of its many paws. The creature points at you with elongated, bony fingers. As it holds
+up an open hand, you see a glowing red iris at the center of the palm staring at you with a baleful
+crimson wrath.
+
+
+
+Goal
+
+Kill the Demon and destroy the alters.
+
+
+
+Reward
+
+The Warband that deals the final blow to Baphomet earns 10xp
+
+
+
+Setup and Treasure
+
+Set up the board as shown in map 3. The Board should be at least 16 inches by 11 inches. In
+
+C1 = Deploy the warbands within 1 inch
+
+C2-C4 = Demon Altars Three altars are perched atop huge rock formations that stretch up to 6 inches
+tall. The altars are adorned with various sigils and symbols etched deeply into the stone. Various
+candles and braziers are encrusted around the altars. No warband member can leave this scenario until
+all are destroyed. They have 8hp and 1armor.
+
+
+
+Deployment
+
+See above
+
+
+
+Threats
+
+Place Baphomet in the centre of the map
+
+
+
+Solo Play
+
+The Scenario ends when the Baphomet dies.
+
+                                                 11
+         The creature lets out a deafening screech as it collapses to the ground with a sickening thud.
+With its fall, the world around you slowly turns dark once more as the demon's death seems to
+reverberate through the mist. The chirping of birds and howling winds steadily reappear as the
+shadows start to retreat, revealing once more the forest of Essenvald around you. You stand back at
+the top of the wicker tree, with the runestone crumbled to pieces at your feet. The creature's corpse
+has vanished, leaving only a deformed, bony claw with a pulsating crimson eyeball jutting out of its
+palm before that too fates into nothingness.
+
+
+
+
+                                                   12
+All monsters in Forbidden Psalm: The Tainted Lands of Doaden treat other monsters as friendly.
+
+
+
+
+HP: 10
+
+Morale: -
+
+{Sacred Flame: ranged:1D6}{Club:1D4}
+
+Armor:0
+
+Special: ignores morale
+
+
+
+
+HP: 11
+
+Morale: -
+
+Axe 1D10
+
+Armor: 1
+
+Special: This creature makes two attacks, only one of which is opposed.
+
+
+
+
+HP: 11
+
+Morale:-
+
+Scythe 1D8
+
+Armor: 0
+
+Special: This creature makes two attacks, only one of which is opposed
+
+
+
+
+HP: 15
+
+Morale:10
+
+Claw 1D6
+
+Armor: 1
+
+Special: models hit by its attacks must make a toughness test. On a failure they miss their next
+activation.
+
+                                                  13
+HP: 25
+
+Morale:-
+
+ *
+
+Armor: 2
+
+Special: When it is the Hags turn roll a D3 to determine what it does
+
+     1. Attacks nearest model with poison spray [ranged 1d6 damage]
+     2. Curses a model, model makes a presence test and on a failure 1 stat is reduced by 1.
+     3. Claws the nearest model claw [1d4 damage]
+
+
+
+
+HP: 28
+
+Morale:10
+
+Cleaver 1D10
+
+Armor: 2
+
+Special: If the Chort critically hits it deals twice as much damage as normal
+
+
+
+
+HP: 40
+
+Morale:10
+
+Cleaver 1D10
+
+Armor: 2
+
+Special: If a Bies moves before it attacks it deals maximum damage.
+
+
+
+
+HP: 50
+
+Morale:-
+
+*
+
+Armor: 2
+
+Special: When it is the Hags turn roll a D4 to determine what it does
+
+1.       Attacks nearest model with fire ball [ranged 1d6 damage and all models within 3 inches also
+         take 1D4 damage]
+
+
+
+                                                  14
+2.   Finger of death, points at a single model that must make a Presence test. On a failure it is
+     downed on 0hp
+
+3.   Claws the nearest model claw [1d10 damage]
+
+4.   Leaps, roll a dice to determine which direction and demon leaps 6 inches in a straight line.
+     Once it lands reroll on this table.
+
+
+
+
+                                                15
+16
+17
+18
+19
+20
+21
+22
+23
+

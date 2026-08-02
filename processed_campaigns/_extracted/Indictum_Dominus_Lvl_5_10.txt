@@ -1,0 +1,2641 @@
+   CONTENTS
+                                                  Person of Interest: Pavel         12
+CONTENTS                                   1      Real Evidence                     12
+CREDITS                                    2      Witness Statements                12
+FOREWORD: THE WORLD OF DOADEN              3      Lies                              13
+ADVENTURE SUMMARY                          4      Other Notes                       13
+   Adventure Scenario                      4   Scene 2 - Town Hall & Town Square    13
+       Acts                                4      Scene Description                 13
+       Balance                             4      Person of Interest: Aquilon       14
+ACT 1 - BLOOD AND SHADOW                   5      Real Evidence                     14
+   Adventure Background                    5      Witness Statements                14
+       The Jailer Cult                     5      Daily Reports                     15
+       The Church of Azerai                5      Lies                              16
+       Menhir Stones                       5      Other Notes                       16
+       The Penitent Crusade                5      Aquilon’s Challenge               16
+       Indictum Dominius                   5   Scene 3 - Old Garden Ruins & Alain   16
+       Navigating New Heldon               5      Scene Description                 16
+       Future Use                          5      Person of Interest: Alain         17
+       Story Hook                          5      Alain’s Interrogations            17
+   Locations in New Heldon                 6   Scene 4 - Stonemasons Hall           17
+       Old Heldon Cathedral                6      Scene Description                 17
+       Old Garden Ruins                    6      Person of Interest: Niles         18
+       New Heldon Monastery & Monolith     6      Real Evidence                     18
+       Dragon’s Eye Mine                   6      Witness Statements                18
+       Herbalist’s Hut                     6      Lies                              18
+       Stonemason Guild Hall               6   Scene 5 - Weaponsmith’s Shop         19
+       Twin Woodworks                      6      Scene Description                 19
+       Town Square (Amphitheater ruins)    6      Person of Interest: Bjorq         19
+       Armorsmith Shop                     6      Real Evidence                     19
+       Town Hall                           7      Witness Statements                19
+       Hagmeat Tavern                      7      Lies                              19
+       Weaponsmith Shop                    7      Other Notes                       19
+       Headless Horse Inn                  7   Scene 6 - Guardsman Barracks         19
+       Leatherworker & Fletcher            7      Scene Description                 19
+       Guardsman Barracks                  7      Person of Interest: Lander        20
+       Training Grounds                    7      Real Evidence                     20
+       Market                              7      Witness Statements                20
+       Merchant’s Hall                     7      Lies                              20
+       Blacksmith Shop                     7   Scene 7 - Hagmeat Tavern             21
+       Farmtown Mead Hall                  7      Person of Interest: Gorab         21
+       Farm and Old Grinder                7      Real Evidence                     21
+   Map of New Heldon                       8      Witness Statements                21
+   Investigation Overview                  9      Lies                              21
+       Investigation Format                9      Other Notes                       21
+           Scene Description               9   Scene 8 - Dragon’s Eye Mine          21
+           Persons of Interest             9      Scene Description                 21
+           Real Evidence                   9      Person of Interest: Dolan         21
+           Witness Statements              9      Real Evidence                     22
+           Lies & Interrogations           9      Witness Statements                22
+           Time Journal                    9      Other Notes                       22
+       Who, What, Where, When, Why?       10   Scene 9 - Old Heldon Cathedral       22
+           Who are the Cultists?          10      Scene Description                 22
+           What is the Ritual?            10      Person of Interest: Mercereau     22
+           Where & When Does It Occur?    10      Real Evidence                     22
+           How & Why is He Doing This?    10      Witness Statements                22
+       Final Investigation Notes          11      Lies                              23
+   Investigation Scenes                   12      Other Notes                       23
+       Scene 1- Hagmeat Tavern            12   Scene 10 - New Heldon Monastery      23
+           Scene Description              12      Scene Description                 24
+
+
+
+                                                                                    1
+             Person of Interest: Mercereau   24
+             Person of Interest: Hyle        24
+             Real Evidence
+             Witness Statements
+                                             24
+                                             25
+                                                  CREDITS
+             Lies                            25
+        Moving to Act 2                      25   Developed by:
+ACT 2 - THE CIRCLE IS COMPLETE               26     Bestiarum Games
+   Final Investigations                      26
+        Scene 11 - Return to Town Hall       26
+                                                  Story and Game Design:
+             The Scene                       26
+        Scene 12 - Farmtown Mead Hall        27      Alexander Dovermann
+             Ritual Murder 4                 27
+             Real Evidence                   27   Faction Lore:
+        Scene 13 - The Market                27     Marcus Harland
+             Ritual Murder 5                 28
+   The Ritual is Complete                    28   Graphic Design:
+        Jailer Encounter - Stage 1           28
+                                                    Alexander Dovermann
+             The Battleground                28
+             Running this Encounter          29     Katarina Popovici
+   Old Heldon Cathedral Battle Map           30
+   The Descent                               31
+        Descending Path 1                    31
+        Caverns Level 1                      31
+             Cultist Encounter               31
+        Descending Path 2                    32
+        Jailer Encounter - Stage 2           32
+             Caverns Level 2                 32
+             The Battle                      32
+   Underground Caverns Map                   34
+ACT 3 - THE SECRETS WE KEEP                  35
+   Aquilon’s Farewell                        35
+        Crusade Encounter 1:                 36
+        Crusade Encounter 2:                 36
+   Ending 1 - The Cathedral                  36
+        Crusade Encounter 3:                 36
+   Ending 2 - The Mines                      36
+EPILOGUE                                     38
+   Exit from the Cathedral                   38
+   Exit from the Mine                        38
+APPENDIX A: FACTION OVERVIEW                 39
+APPENDIX B: GAMEPLAY RESOURCES               40
+   Player Letter                             40
+   Quick-View Table.                         41
+   New Heldon (Player Map)                   42
+   The Old Heldon Cathedral (Grid)           43
+   The Old Heldon Cathedral (No Grid)        44
+   Underground Caverns (Grid)                45
+   Underground Caverns (No Grid)             46
+APENDIX C: BESTIARY                          47
+   Atoner                                    47
+   Penitent Bulwark                          47
+   Deliverers                                49
+   Irredeemed                                50
+   Repentant                                 51
+   Repentor Primus                           52
+   Supplicators                              53
+   The Durand                                54
+   Cultist                                   55
+   Cultist Demagogue                         56
+   Aspect of the Jailer                      57
+
+
+
+
+                                                                           2
+FOREWORD:
+THE WORLD OF DOADEN
+  Welcome to Doaden, the dark fantasy setting of        Compatibility. This adventure is intended for use in
+tainted lands and twisted monsters, where an ever-      conjunction with the D&D 5e Player’s Handbook
+creeping affliction corrodes the very essence of        (PHB), Dungeon Master’s Guide (DMG), and Monster
+existence. It is a world of decay and depravity where   Manual (MM).
+once-righteous men and heroes of glorious purpose
+now struggle to survive as cults and dark gods vie      Civilization & Trade in Doaden have crumbled. Only
+with one another to consume the last vestiges of        gold, silver, and copper are circulated, and only at
+humanity.                                               1/10th the amount suggested in D&D manuals.
+   Doaden is filled with horrific scenarios and         Magical items are extraordinarily rare.
+impossible decisions. Players will have their morals
+challenged and often no outcome will feel “good” or     Statblocks for Bestiarum creatures are
+“just”. The heavy decisions these heroes make often     included in the appendix of this scenario. The names
+leaves them disheartened and it is important that       of these creatures will be listed in bold text. D&D
+players prepare themselves for this setting before      creatures are referenced by book and page number.
+starting any adventure through the realm.
+
+                                                         Narrative Scripts: are passages of text which
+   Hope. Yet as dark as Doaden may be, it is
+important that your players, as human beings, are        should be read aloud or paraphrased as they build
+able to find respite from the darkness. Light may be     the atmosphere or provide key pieces of
+found even in the darkest of places, and you should      information to the players. This is an example of
+alleviate the mood at the table if you notice your       the “Narrative Script” format indicating that this
+players have trouble adjusting.                          section should be read aloud.
+
+ THERE IS LIGHT YET in Doaden, and though
+ it may seldom come in the form of love or joy, it       Optional Rules: are recurring mechanics that
+ still shapes itself into a semblance of honor,          are used in the scenario to resolve specific
+ purpose, and redemption.                                situations. The rule will appear in this format in
+                                                         the first instance it occurs, but should be referred
+  - Dreyen Solius, Journal of the World’s Ending.
+                                                         back to if it ever occurs in other sections of the
+                                                         scenario. You may also use your own rules to
+                                                         resolve these situations.
+
+
+                                                         Torment Mode: adventurers in Doaden fall into
+                                                         two categories based on the average level of the
+                                                         party. Normal Mode parties range from levels 5 -
+                                                         7, while Torment Mode parties range from levels
+                                                         8 - 10. Encounters are written for Normal Mode,
+                                                         and Torment Mode rules are given in this format
+                                                         to convert encounters to higher levels.
+
+                                                         Between these two difficulty levels, the enemies
+                                                         encountered will generally have the same
+                                                         statblocks. However, Boss monsters will be
+                                                         provided with a separate statblock for both
+                                                         Normal and Torment Modes.
+
+
+
+
+                                                                                                                3
+ADVENTURE SUMMARY
+
+ T         he Penitent Crusade has established
+           martial law in New Heldon to investigate a
+           series of ritualistic murders within its walls.
+                                                             Acts
+
+                                                             In Act 1 - the party will conduct an investigation into
+The gruesome scenes evidence the hand of the                 the ongoing cultish murders on behalf of the Penitent
+Tormentor Cults, a fanatical cult which seeks to bring       Crusade. During the investigation, the party may
+about the convergence of their deity’s bizarre Prison        issue indictments against suspect civilians, leading to
+Realm with physical reality. Such an event would be          further interrogation and likely execution.
+calamitous and must be prevented at all costs.
+  The citizens of New Heldon watch the investigation           In Act 2 - the enemy shall reveal its hand, bringing
+anxiously, knowing all too well that the Crusade’s           into reality a terrifying being, the Aspect of the Jailor.
+ruthlessness and tactics may just as easily result in        The Penitent Crusade will support the players as they
+their salvation as their ruin.                               defend New Heldon against this monstrosity. The
+                                                             difficulty of this fight will depend on how many cultists
+Adventure Scenario                                           the party managed to correctly identify, the cult cell
+                                                             having been left to flourish or culled by their actions.
+
+  In this scenario, the players will be tasked with
+                                                                In Act 3 - the party will be faced with a final sinister
+aiding the Crusade’s investigation; analyzing the
+                                                             twist. As they uncover the face of the true leader of
+murder scenes and attempting to identify the
+                                                             the cult during their confrontation with the Jailor, they
+members of the cultist cabal. Whether the town of
+                                                             will find the scrutiny of the Crusade redirected
+New Heldon is saved, and whether its citizenry shall
+                                                             towards themselves. Certain secrets must be kept at
+be defended or put to death, depends solely on the
+                                                             all costs and regardless of the players’ utility to the
+actions of the players.
+                                                             Penitent Crusade, the truth must be buried.
+  Saddled with such grim responsibilities, the party
+must carefully consider their actions and deliberations
+while undertaking this adventure.
+                                                             Balance
+                                                             This scenario is balanced for Normal Mode levels 5-
+                                                             7, and Torment Mode levels 8-10.
+
+
+
+
+                                                                                                                       4
+ACT 1: BLOOD AND SHADOW
+                                                           Menhir Stones
+
+ N         ew Heldon is a growing town in the
+           northwestern region of the realm. The town
+           was constructed upon the ruins of Heldon, a
+                                                           These large standing stones are intensely dark, a
+                                                           deep shade of midnight which seems to swallow the
+                                                           very light from its surroundings. Little is known about
+city of the Lost Age. In many places the skeletal          them, their function, or even what they are made of.
+structures of the past still survive, mixing in with the   All that is known is that they hold incredible reserves
+newer buildings.                                           of magical power and were erected by the people of
+   New Heldon was established by the Church of             the Lost Age. Dozens of these monolithic stones have
+Azerai, in particular through the efforts of Abbot         been found throughout the realm.
+Mercereau who, through his years, has been
+instrumental in its development.
+                                                           The Penitent Crusade
+   Heldon’s original occupants, the people of the Lost
+Age, held incredibly advanced science and magical          The Crusade is a military organization within the
+knowledge. Mercereau has garnered support from the         Church of Azerai, used to combat the many
+Church to establish the town and the New Heldon            nightmarish terrors that threaten the realm. In this
+Monastery, where he and his monks work to uncover,         scenario, the regiment of soldiers stationed at New
+study, and preserve various structures and artifacts of    Heldon numbers approximately 500 and are
+the past.                                                  commanded by Repentor Primus Aquilon.
+                                                             Further information about the Crusade, how it
+                                                           operates, and how common folk regard it can be
+Adventure Background                                       found at the end of this scenario in the section titled
+                                                           Appendix A: Faction Overview.
+After a series of bloody ritual murders in New Heldon,
+the Penitent Crusade has declared Indictum                 Indictum Dominius
+Dominius, setting martial law and locking down the         Indictum Dominius the Lattrian term for orders of the
+town to conduct their investigation. The gruesome          highest magnitude, allowing the Crusade to supplant
+scenes suggest the involvement of the Tormentor            any local jurisdiction and granting total authority to
+Cults, a fanatical group that must be stopped at all       conduct their affairs.
+costs.
+                                                           Navigating New Heldon
+The Tormentor Cults                                        As players conduct their investigation, they will move
+The cult worships the Jailer, a chaotic entity which       freely around the town. You may provide a map or list
+reigns in a bizarre dimension known as the Prison          of the town’s various buildings and locations. A player
+Realm. The cult seeks to merge the Prison Realm            map can be found in Appendix B: Gameplay
+with physical reality, which would certainly result in     Resources.
+the end of the world as known.
+                                                           Future Use
+The Church of Azerai                                       New Heldon will serve as a player hub for other
+The Church holds two primary interests in New              adventures. The town has many merchants,
+Heldon.                                                    craftsmen, and shops, and is a good place to obtain
+  First, the Old Heldon Cathedral sits atop the            equipment and spend downtime. Players can use
+mountain cliffs that overshadow the town. The              New Heldon as their home base for any adventure in
+Cathedral is an architectural marvel of the Lost Age       the area, or custom adventures.
+and testament to the tremendous power and influence
+held by the Church in its prime.                           Story Hook
+  Second, a mysterious Menhir Stone was
+                                                           The party is recruited by the Penitent Crusade to
+discovered in the old ruins. The Azerai clerics study
+                                                           investigate the ritual murders and put a stop to the
+this monolith in hopes of uncovering the incredible
+                                                           cult activity. They receive a letter from Repentor
+secrets and lost knowledge they suspect it to hold.
+                                                           Primus Aquilon, requesting their aid.
+
+
+
+                                                                                                                     5
+Locations in New Heldon                                       Monolith and preservation of the Old Heldon
+                                                              Cathedral.
+New Heldon is situated at the foothills of a
+mountainous region and built upon the remains of Old          4. Dragon’s Eye Mine
+Heldon, a city from the Lost Age. In many areas, the
+                                                                 At the end of a dirt path leading through the heavily
+ruins of ancient infrastructure still clutters the streets,
+                                                              wooded area north of New Heldon is the Dragon’s
+jutting out amongst the newer houses like faded
+                                                              Eye mine. It cuts into the same mountain range upon
+graying bones.
+                                                              which the Old Heldon Cathedral is built and is
+   A small cliffside splits New Heldon’s upper levels
+                                                              abundant in metals and precious gemstones. It is run
+from its lower levels and is home to about 3,000
+                                                              by the local Stonemasons Guild but has been closed
+people. It is protected by rudimentary palisade walls.
+                                                              for some time due to a disastrous collapse.
+Here is a summary of the noteworthy places as
+                                                                 Records found in the Cathedral indicate the mine
+depicted on Map 1.1a: Town of New Heldon.
+                                                              got its name after a massive emerald was uncovered
+                                                              there. The gem was described as having exquisite
+1. Old Heldon Cathedral                                       lustor and exceptional clarity, leading to the rumor
+   The Cathedral sits atop a mountain cliff at the            that it belonged to a dragon that died under the
+town’s northern end. Erected during the Lost Age, it          mountain long ago. The gem itself was never located
+exemplifies the spectacular architecture of its time.         but records indicate it was sent to the Old Capital as
+Now in partial ruin, the local Azerai monks work to           tribute.
+study and preserve it.
+   The Cathedral’s wondrous Grand Bell is held within         5. Herbalist’s Hut
+its southern tower. The enormous bell is made of
+                                                                In a quiet nook in the woods sits the herbalist’s
+extravagantly engraved brass, and so heavy that it
+                                                              house. The resident apothecary sells potions, salves,
+can only be rung using a complex system of pulleys
+                                                              ointments, elixirs, and materials for witchcraft,
+and gears. The Church no longer rings the bell and
+                                                              alchemy, or other magical arts.
+has restricted access to it as the tower platforms are
+worn and unstable.
+   A great stairway once ran up the front of the              6. Stonemason Guild Hall
+mountain directly to the Cathedral. However, it                 The Stonemasons Hall includes a building for
+collapsed long ago and now the only way to access             meetings and a large courtyard for processing mined
+the Cathedral is by following a natural rock path that        materials. The guild runs the Dragon’s Eye Mine.
+winds up the side of the mountain. The path takes a           However, over half the miners were lost in a tragic
+half hour to scale at a medium pace. Though safe,             cave-in. The surviving members were unable to clear
+some deterioration has loosened stones and gravel             the rubble and closed the mine, blockading the
+so travelers should be cautious in their climb.               entrance due its instability. The closure has caused
+                                                              strife within the guild as the survivors bicker in the
+2. Old Garden Ruins                                           wake of the tragedy.
+
+  Midway up the path to the Cathedral is a large
+plateau that holds the ruins of the old monastery             7. Twin Woodworks
+gardens. The gardens were once used to cultivate                Two large lumber yards churn out wood as they
+food and medicinal plants, and housed several bronze          devour the nearby forest, fueling the town’s rapid
+sculptures depicting scenes from the Holy Text.               expansion.
+Today, the gardens are in near complete ruin; its
+grand stone archways toppled, soils overrun with              8. Town Square (Amphitheater ruins)
+weeds, and statues choked with vines.                           At the center of New Heldon lies an ancient
+                                                              amphitheater, now in ruins and mostly buried beneath
+3. New Heldon Monastery & Monolith                            layers of earth. The town uses the ruins as a
+  The Monastery was the first building constructed as         gathering place and town square.
+the Church established the town. It consists of a
+chapel and a living quarter for the monks.                    9. Armorsmith Shop
+  The Monastery was constructed near the Menhir                The local master armorsmith sells or commissions
+Stone so that it could be studied closely. The Church         non magical armor.
+has poured considerable resources into New Heldon’s
+development at the behest of Abbot Mercereau, who
+heads the Monastery and directs the study of the
+                                                                                                                     6
+10. Town Hall                                               17. Market
+  The Town Hall serves as the administrative building         Dozens of merchants peddle their wares, selling a
+for the local mayor and a small council of                  variety of goods and equipment.
+representatives from each of New Heldon’s core
+institutions, including the Stonemasons Guild,              18. Merchant’s Hall
+Merchant’s Guild, Farmer’s Guild, Church of Azerai,           The Merchant’s Guild operates from this building,
+and Town Guard.                                             controlling all local vendors.
+  The mayor is in charge of levying tax on the citizens
+of New Heldon and delivering the monthly tithe
+                                                            19. Blacksmith Shop
+demanded by the Church.
+  Additionally, fliers may be posted at this location         The local blacksmith sells general metal goods and
+offering quests or bounties to adventurers.                 tools, and maintains standard equipment such as
+                                                            hammers and horseshoes.
+11. Hagmeat Tavern
+                                                            20. Farmtown Mead Hall
+  The town’s tavern serves ale and simple foods. It
+was originally named the “Hogmeat” but due to the             The first citizens of New Heldon apart from the
+stringy and rancid meat they serve, locals refer to it as   monks were its farmers. Their older area is now
+“Hagmeat” instead.                                          referred to as “Farmtown” and their large mead hall is
+                                                            frequently used as a community space for seasonal
+                                                            events.
+12. Weaponsmith Shop
+ The local master weaponsmith sells or commissions
+                                                            21. Farm and Old Grinder
+non magical weapons.
+                                                              New Heldon’s farms have expanded over the years
+                                                            to keep up with the growing population’s demand for
+13. Headless Horse Inn
+                                                            food. The large windmill, referred to affectionately as
+   Visitors may find room and board at this modest inn,     “Old Grinder” has stood since the town’s early years,
+which gets its name from the local legend of a              processing wheat and cereals for New Heldon’s
+vengeful spirit that roams these parts. The legend          population.
+tells of a despicable lord who, in a fit of rage,
+beheaded the aging horse that had served him loyally
+for many years. It is said that the horse appeared to
+the lord three times in the subsequent years. First
+before the miscarraige of his only son, second before
+the death of his wife, and third before his own death.
+   The horse is said to be an ill omen, always
+appearing during the darkest nights of a new moon
+and always preceding misfortune. The details of this
+legend vary with each telling, so feel free to embellish
+it further.
+
+14. Leatherworker & Fletcher
+  The local leatherworker provides leather armor,
+ranged weapons, and ammunition.
+
+15. Guardsman Barracks
+ New Heldon’s Guard both polices the town and
+defends it against nearby roaming horrors.
+
+16. Training Grounds
+ A large fenced area is used by the Guard for drills
+and training.
+
+
+
+
+                                                                                                                  7
+Map of New Heldon
+Map 1.1a: New Heldon (Labeled)
+
+
+
+
+                                 8
+Investigation Overview                                       Running Interrogations: Interrogations consist of
+                                                             two parts:
+                                                               1. Determining lies.
+   In this scenario, players will investigate a series of      2. Extracting the truth.
+ritual murders while attempting to identify the leader
+of the cultist cabal. Three sacrifices have already          Determining Lies. If players are suspicious about a
+occurred, and two more will happen during the                character, they may make a Wisdom (Insight) check to
+scenario, at the end of which the Jailer will be             see if a character is being untruthful. The player should
+summoned into reality.                                       specify what they are suspicious about. For example, if
+                                                             they think a character might be lying about where they
+                                                             were last night, they should state:
+Investigation Format
+The investigation will be organized into scenes based          “I’d like to roll Insight to see if Gregory is lying
+on location. At each scene, players will find clues          about being at the bar last night.”
+allowing them to deduce the solution to the crimes.
+Each scene will follow this format:                            This limits the information players can access to only
+   1. A short scripted Scene Description.                    topics they are actively investigating. For these checks,
+   2. A list of Persons of Interest at the scene.            consider how well that character would be able to mask
+   3. A Real Evidence table listing evidence that can        their emotions under the stress they are in.
+be found by investigation.
+                                                             Extracting the Truth. If the party believes a character
+   4. A list of Witness Statements that a person of          is lying, they may attempt to get the truth by making a
+interest may make to the players.                            Charisma (Intimidation), Charisma (Persuasion), or
+   5. A list of Lies that the witness may make.              Charisma (Deception) check.You should consider
+                                                             which check seems most effective based on the character
+Scene Description                                            and circumstances.
+A script or brief description will be provided with             Some actions may make it more likely for a character
+information about the scene.                                 to tell the truth, such as showing compassion,
+                                                             pandering to their vanity, giving bribes, presenting
+                                                             countervailing evidence, or potentially even beating
+Persons of Interest                                          them.
+Descriptions and backgrounds of any significant                 Other actions may make it less likely for a character
+persons of interest will be provided.                        to tell the truth such as insulting them or annoying
+                                                             them.
+Real Evidence
+                                                             A suggested DC threshold is as follows:
+Many scenes contain pieces of physical evidence.
+Some are written into the Scene Description scripts.          Task Difficulty             DC
+Others are not immediately stated, but the party may
+conduct Intelligence (Investigation) checks to                Easy                        10
+uncover them. You should reveal all clues the players
+                                                              Medium                      15
+roll high enough to uncover, as listed in the tables.
+                                                              Hard                        20
+Witness Statements
+The party may wish to interview people they find.             Very Hard                   25
+Each person’s primary statements are described in a
+brief, first-person perspective. However, feel free to       Deception. If a character is actively trying to lie under
+create your own dialogue as you roleplay these               direct questioning, they must contest the player’s roll
+characters.                                                  with a Charisma (Deception) roll. In this scenario, the
+  Keep in mind that people often misstate the truth for      cultists are great liars. Give them Advantage on their
+                                                             rolls.
+various reasons. They may be guilty, but perhaps
+they were just hiding something innocuous, or
+perhaps they did not intentionally tell a lie, instead      Time Journal
+misinterpreting what they saw.                              It will be good to keep track of the passing hours
+                                                            using the following method:
+Lies & Interrogations
+                                                             Keeping Time: Start the adventure at 9:00 AM,
+If players suspect a character, they may interrogate
+                                                             and pass time for activities as follows:
+them to try to extract the truth:
+
+                                                                                                                         9
+                                                            Without such a reservoir of power, the Jailer may still
+   Traveling to a location: 0.5 hours.
+                                                            be summoned but unable to converge realities.
+   Speaking with a person: 0.5 hours.
+   Investigating a scene: 0.5 hours.
+                                                            Where & When Does It Occur?
+   Other activities: your discretion. Be sure to
+                                                            The Hekatomb is located deep underground in a
+ track non-quest related tasks such as eating,
+                                                            subterranean cave below the Old Heldon Cathedral.
+ relaxing, and sleeping as well.
+                                                            Mercereau discovered the caves long ago while
+                                                            exploring the Cathedral. He secretly constructed the
+                                                            Hekatomb there over the years.
+Who, What, Where, When, Why?                                  Several weeks ago, miners in the Dragon’s Eye
+It is important that you have a sense of the overall plot   Mine excavated a tunnel connecting to the caverns.
+to see how suspects and evidence fit together. You          Mercereau’s cult took advantage of this situation by
+may need to improvise scenes as players conduct             causing a cave-in and trapping the miners in the
+their investigation. The following paragraphs will          tunnels. Then they murdered the miners, piling their
+summarize all of the information so you can keep the        bodies into the Hekatomb.
+bigger picture in mind.                                       The ritual sacrifices take place in a rough circle
+   Additionally, you can find a convenient Quick-view       around New Heldon. Three murders have already
+Table summarizing the persons of interest and their         occured at the Stonemasons Hall, the Weaponsmith’s
+locations in the section titled Appendix B: Gameplay        Shop, and the Guardsman Barracks sequentially.
+Resources.                                                    Shortly after the investigation begins, the fourth
+                                                            murder will happen at the Farmtown Mead Hall, and
+Who are the Cultists?                                       the last murder will happen in the Market. The Aspect
+The mastermind is none other than Abbot Mercereau.          of the Jailer will arise from the caverns and climb into
+He pretends to be a benevolent old abbot, claiming to       the Old Heldon Cathedral where the players will
+have dedicated his life to fostering New Heldon and         confront it.
+uncovering lost knowledge for the benefit of humanity.
+   The Church of Azerai has full confidence in              How & Why is He Doing This?
+Mercereau. He has been an steadfast servant for             Mercereau has studied ancient texts for much of his
+decades, expanding the Church’s influence, orating          life. In his cloistered youth he worked as a scribe,
+its doctrines to the masses, and mentoring many             transcribing old texts which the Church had banned to
+young monks over the years. He has also uncovered           the public. These texts did not contain dangerous
+many valuable ancient texts within the Heldon               information, but some stray passages opened his
+Cathedral, and he and his acolytes say they are on          mind to a greater world than that depicted by the
+verge of unlocking the Menhir Stone, which may one          dogmas of the Church.
+day benefit the Church immeasurably.                           Over time these “blasphemous” texts and their alien
+   The rest of the cultists are a ring of monks who         philosophies opened Mercereau’s eyes to the often
+have been carefully selected by Mercereau. These            irrational, fallacious, or baseless nature of the
+cultists are unwaveringly loyal to him.                     Church’s teachings. They sparked his interest in old
+                                                            texts and his insatiable thirst for lost knowledge.
+What is the Ritual?                                            After discovering references to the great city of
+The Tormentor Cults seeks to merge their deity’s            Heldon in old Church archives, Mercereau led an
+bizarre Prison Realm with physical reality. This begins     expedition to locate it. He found the Heldon Cathedral
+with the construction of the Hekatomb; a gigantic           in partial ruin but still standing, and hoped to spend
+stone basin inscribed with ancient runes. Then, a           many years exploring its archives to uncover the
+series of five ritual sacrifices are conducted which tear   wisdoms of the past.
+a hole to the Prison Realm. Lastly, piles of bodies are        What Mercereau found in those archives would
+mutilated and thrown into the Hekatomb, filling it with     change him forever. Many texts he uncovered were
+blood and flesh. These materials are used by the            shared with the Church. But many others he kept
+Jailer to form its corporeal body. Once the Jailer is       secret; those disparate tomes containing wisdoms the
+formed, it will begin to wander about, consuming            church would surely deem perverse and philosophies
+humans and using their soul energies to rip wider the       they would label heretical.
+hole to the Prison Realm.                                      Mercereau knew that if his superiors were aware of
+  This ritual requires a tremendous amount of magical       such texts, they would shut down his operation and
+energy. Abbot Mercereau plans on using the ley              burn Heldon to the ground along with its trove of
+energies of the Menhir Stone as a battery to fuel it.       knowledge, a tragic waste of the highest magnitude.
+
+                                                                                                                 10
+So Mercereau, in secret, dug himself into those lost
+words from a time of unimaginable splendor and            Guiding Players. Your players might feel lost at
+prosperity.                                               times. Provide hints as needed so that they are
+   Whether Mercereau became enlightened by these          engaged and have fun. However, the scenario will
+texts, or whether they have warped his mind with          come to its natural end regardless no matter what, so
+seductive falsities, is a question for philosophers and   they will not miss out in any case.
+theologians. However, whether right or wrong, he
+became convinced that the world of Doaden is
+headed towards an inevitable degenerative extinction,
+spurned on by the teachings and actions of the
+Church that he once held in such adoration.
+   One book spoke of the Jailer, a fiendish entity from
+another plane of existence with the power to subsume
+this reality and create something more from its ashes.
+Though admittedly the Prison Realm was not the ideal
+version of reality, Mercereau reasoned that an
+existence of some form was better than the
+certain extinction he saw in the realm’s future.
+   For decades, Mercereau has convinced the
+Church to funnel resources into New Heldon,
+growing its infrastructure as he slowly
+unlocked the knowledge and means to
+conduct the ritual needed to converge
+realities.
+   Now finally, all of Mercereau’s
+preparations have come to fruition.
+He has unlocked the secrets of the
+Menhir Stone, constructed the
+Hekatomb, filled it with the requisite
+flesh materials, and need only
+complete the five blood sacrifices
+to thin the veil.
+
+
+Final Investigation Notes
+The last short notes you should keep in
+mind prior to running this adventure are
+related to creating a satisfying story.
+
+Investigations rely on a balance of giving and hiding
+evidence. What happens at each table of adventurers
+can vary, so improvisation is likely required.
+  Try to make sure your players always have a trail to
+follow, but never provide the full picture until they
+have deduced the truth themselves. Make up some
+of your own suspects, clues, and red-
+herrings to make the story your own.
+
+Do not hand your players the
+answer. The cultists may
+admit their own
+involvement, but never
+their leader’s identity. The
+players should be allowed
+to deduce the truth for
+themselves.
+
+                                                                                                             11
+Investigation Scenes                                          “Please, they asked me to, to ask you to - I mean
+                                                            for me to - that is - that I should come and find
+Now that you have a working knowledge of the cult
+                                                            you.”
+and ritual sacrifices, you are ready to read the details
+of the crime scenes.                                        The letter is stamped with the seal of the Crusade;
+  The following section lists scenes in an order the        three equidistant rings set inside of one larger
+players might experience them. However, since               ring, and joined at their focus by one smaller ring.
+players will have the freedom to visit multiple places         Opening the letter, you see it is embossed with
+at once, they may follow a different path.                  the symbol of the Crusade, four of the same
+  Keep in mind the overall narrative, and use the           circular structures connected by intersecting
+convenient Quick-View Chart handy (Appendix B:              prongs, forming a cross.You open the letter and
+Gameplay Resources). This should help you to                read its contents.
+handle these situations.
+
+                                                           The Letter requests the party’s audience in relation to
+Scene 1- Hagmeat Tavern                                    the murders and offers a generous reward for their
+The party begins this scenario in the Hagmeat              services. However, few details are provided therein,
+Tavern, where a young scribe approaches them               stating that more will be said only within the strict
+carrying a letter from Repentor Primus Aquilon,            confidences of the Crusade headquarters located at
+commander of the regiment of Penitent Crusade              the Town Hall.
+soldiers stationed at New Heldon.                            You can read aloud or provide players with a copy
+                                                           of this letter, which is provided at the end of this
+Scene Description                                          scenario in the section titled Appendix B. Player
+Read the following script to begin the adventure:          Resources.
+ You and your companions sit around a table at the
+ Hagmeat Tavern, so called for the rancid, stringy         Person of Interest: Pavel
+ meat they serve to customers. As you chew at a            The young scribe is a novitiate of the monastery and
+ piece of the sinewy jerky, its sourness stings your       part of Mercereau’s cult. Pavel is naive and
+ gums and dry tendons stick and pull between your          Mercereau has mentored him closely, using their
+ teeth.                                                    close relationship to convince him that the Jailer is the
+    The past week has been perturbing. Rumors have         only way to save the world.
+ been spreading throughout New Heldon about a                 Pavel has been assigned by Mercereau to assist
+ series of gruesome murders, and about midday
+                                                           Aquilon with any tasks and errands the Crusade
+ yesterday, the Penitent Crusade marched into
+                                                           requires. He serves Aquilon during the day and
+ town, declaring Indictum Dominius and
+ establishing martial law, blockaded all of the            returns to the abbey at night, where he provides
+ town’s exits.                                             Abbot Mercereau with updates on the investigation,
+    An order of Indictum Dominius is never a good          working as something of a spy.
+ sign, often leading to rampant collateral damage or          Pavel is also helping Mercereau to conduct the
+ the outright slaughter of civilians in the name of        ritual murders. An impressionable young monk, he
+ slaying whatever nightmarish monster the                  hangs on the Abbot’s every word, believing
+ Crusade was sent to exterminate.                          wholeheartedly that Mercereau’s plan is the only way
+    You look down at a dirty mug of pungent,               to save the world.
+ vinegary beer and mull over this problem. As you
+ consider taking your next revolting sip, the tavern
+ door creaks open and a thin young man in a                Real Evidence
+ monk’s smock steps in. He glances about timidly at        No real evidence can be found here.
+ the rough and tumble clientele but, seeing you,
+ hastens to your table.                                    Witness Statements
+    In his right hand, he carries a small satchel full     1. The Murders.
+ of sealed parchment letters. His left hand is
+                                                           I don’t know anything about them. I heard a rumor
+ wrapped in a thick linen bandage that extends up
+                                                           that a dark cult is causing them. I hope the culprits will
+ his arm and into his tunic sleeve.
+    When he reaches your table, the boy greets you         be caught quickly.
+ with a quick bow. He reaches into the bag and
+ pulls out a rolled parchment, handing it to you as        2. Injured Hand
+ he stutteringly speaks.                                   My hand? Oh you mean this? It is nothing, I am
+                                                           clumsy. I cut myself with a sharp metal quill as I was
+
+                                                                                                                   12
+taking dictations from Repentant Primus Aquilon. I am
+                                                            You make your way through New Heldon, passing
+acting as his scribe during his stay.
+                                                            rows of hastily-constructed wooden houses until
+                                                            you reach the eastern stairway, climbing the small
+Lies
+                                                            cliff that bisects the lower from the upper town as
+3. Guilty of Murder
+                                                            you head towards the Town Hall. But as you pass
+Pavel was directly involved in the killings. However,
+                                                            the half-buried ruins of a once-great amphitheater
+he is not good at handling stress. If confronted with
+                                                            of the Lost Age, now serving as the town’s central
+extreme force or authority, he might reveal this truth,
+                                                            square, you find a gathering of people.
+break down and cry, truly remorseful for his actions.
+  However, Pavel will never give up the name of his            The sounds of furious melee combat reach your
+leader as he genuinely believes Mercereau’s actions         ears; the clash of steel on steel and the grunts of
+are justified. Instead, he will attempt to deceive the      physical exertion and pain. A small crowd of
+party, giving them the name of an innocent party such       townsfolk shift about uneasily, quietly whispering
+as Gorab, the Stonemasons Guild Master.                     to each other as they watch.
+                                                               Before the townsfolk, a row of masked soldiers of
+4. Injured Hand                                             the Penitent Crusade stand silently in a ring,
+If the players are sharp, they should notice that the       keeping order. Behind them, several combatants
+bandages extending up into Pavel’s sleeve indicate a        fight brutally with one another. In the center of the
+much more severe injury than a quill slip. In reality,      battlefield stands a giant figure clad in blackened
+Pavel was about to stab the third sacrificial victim in     plate armor who, in a single hand, wields a thick
+the Guardsman’s Barracks when the man flailed out           iron shield the size of a wagon bed. In the other, he
+at him, sending the knife flying and slashing the skin      carries a solid black-steel mace, slick with fresh
+on Pavel’s hand and arm.                                    blood.
+                                                               Several men lie on the ground around the
+Other Notes                                                 imposing figure in various states of injury. One
+After this scene, as long as Pavel is alive, he can be      groans on the floor, clutching at his knee, his leg
+found at the Town Hall during the day and at the New        bent sickeningly at the wrong angle. Another
+Heldon Monastery at night, unless a murder would be         whimpers miserably, crawling slowly away
+occuring at that time, in which case he would be at
+                                                            through the dust, dragging his torso along with
+the ritual scene.
+                                                            one arm while his other hangs limply at his side. A
+                                                            third man has fallen to his hands and knees,
+Scene 2 - Town Hall & Town Square                           vomiting blood onto the ground. And yet a fourth
+                                                            lies completely still, his face almost peaceful in the
+The party will head to the Town Hall after reading the
+                                                            dirt.
+letter. If they go directly, Pavel will escort them.
+However, they will find Aquilon outside in the Town            You notice the beaten men all wear the regalia of
+Square this time. In the future, he will always be in the   the Town Guard; faded yellow tunics stitched with
+Town Hall.                                                  the image of a sparrowhawk in flight. You watch
+                                                            on as the giant armored warrior steps forward, his
+Scene Description                                           emotionless black mask glinting in the light. He
+Read the following script when the party visits the         shoves his foot down on the crawling guardsman,
+Town Hall for the first time:                               flattening the wretch into the dirt. Slowly, he
+                                                            raises his bloodied club in the air as the helpless
+                                                            man gasps for breath beneath the weight of the
+                                                            enormous armored boot. The soldier holds his
+                                                            weapon suspended in the air for several moments,
+                                                            staring down at the guard, as if relishing the
+                                                            moment before the kill.
+                                                               You watch, glued to the scene as the soldier
+                                                            snaps the club downwards in a wide powerful arch,
+                                                            the metal whistling in the air as it fires down with
+                                                            incredible velocity. But then, in an infinitesimal
+                                                            fraction of a second before the wicked mace
+
+
+
+                                                                                                                     13
+                                                           him complete discretion and autonomy in his own
+ pulverizes the man’s skull, a loud commanding
+                                                           actions.
+ voice rings out.
+                                                             However, Aquilon is incredibly busy and speaks
+                                                           quickly and to the point, sparing little time or words
+   “Stop!”                                                 unless essential. He keeps tabs on the investigation
+                                                           but has no time to become involved in the minutiae of
+ The warrior tenses instantly, his thick plated            the case.
+ armor grinding at its joints. The weapon freezes
+ midair, a hair’s breadth from the guard’s skull.          Opening Script. To start the dialogue with Aquilon,
+    A tall, lean man steps forward through the ranks       read the following script:
+ of soldiers, his gloved fist raised in the air. The
+                                                            Aquilon beckons you to his office, a spacious room
+ man regards the scene with sharp, steel-blue eyes,
+                                                            on the second floor of the Town Hall. He takes his
+ his neatly cropped silver hair and stubble beard           place behind a large oak desk piled high with stacks
+ reflecting on the surface of his well-polished             of parchment, scrolls, and leather-bound books.
+ armored pauldrons.                                            A faded old scroll that has been rolled open on
+                                                            the desk. On the face of the scroll is an illustration
+   “That is enough. The point is made. Return               of a sword, but where its inked hilt is drawn in
+                                                            razor-sharp focus, the blade is strangely blurred
+ these men to their…captain.”
+                                                            and indefinite. Passages written in Lattrian cover
+                                                            the page, though you are too far away to make
+ Walking the blood-soaked grounds of the                    them out.
+ amphitheater, the man comes to the unfortunate                Aquilon glances at the scroll, his brows
+ guard who had been lying motionless in the dirt.           furrowing as he contemplates it for a moment.
+ He kicks the body, garnering no reaction.                  Then, seeming to make up his mind, he rolls it up
+                                                            and calls to Pavel the scribe, handing it to the
+                                                            young boy as he gives him a brief order.
+   “And send for the Abbot to take this one away.”
+                                                              “No, it will be impossible. It is a risk worth
+                                                            taking, but my soldiers are stretched too thin as is.
+Person of Interest: Aquilon                                 Have this sent to Primus Hintralius. This falls
+Repentor Primus Aquilon is one of the highest-              well within her expertise. Send our thanks to
+ranking generals in the Penitent Crusade and                Abbot Mercereau for the information.”
+commander of the regiment of soldiers stationed at
+New Heldon. He is sharp and fit for his age,                  As Pavel takes the scroll and leaves, Aquilon
+maintaining himself with a rigorous and disciplined         turns to you.
+routine.
+  Unlike most of his cohorts in the Church of Azerai,         “Now, let us speak.”
+Aquilon thinks little of religious matters, basing his
+decisions purely on calculated logic and reason.           Real Evidence
+However, he is respected by all within the Church and      No real evidence can be found here.
+throughout the realm for his fierce intelligence and
+efficient and ruthless tactics. He is undoubtedly one of
+                                                           Witness Statements
+the most powerful figures in the entire realm.
+                                                           1. Ritual Murders & Letter
+                                                           The Crusade is investigating three recent murders
+Approaching Aquilon. Aquilon is expecting the
+                                                           which have caused unrest in New Heldon.
+players but doesn’t know what they look like. If the
+                                                             You will need to conduct an investigation and report
+players don’t approach him, he will not notice them,
+                                                           back to me with what you find. I have no first hand
+ordering his soldiers to dispense the crowd and
+                                                           experience of the scenes, and so this task falls
+returning to the Town Hall which he has
+                                                           squarely on you.
+commandeered as his headquarters.
+                                                             The objective of your assignment is to identify the
+  If the players do approach Aquilon now, he will tell
+                                                           leader of the cabal and stop the ritual before its
+them to follow him into the Town Hall to talk in
+                                                           completion.
+confidence.
+                                                             The Church suspects the Tormentor Cults’
+                                                           activity based on the pattern of the scene. This cult
+Roleplaying Aquilon. Aquilon speaks freely and
+                                                           follows a strict modus operandi. Townsfolk begin to
+does not wear the mask customary of the Penitent
+                                                           disappear and a series of 5 ritual murders take place
+Crusade except in battle. His rank and prestige allow
+                                                           over a short time. If completed, the ritual may bring
+                                                                                                                     14
+forth demonic entities or unnatural monstrosities,          He is also a knowledgeable scholar. I am sure he will
+causing catastrophic loss and devastation.                  be as cooperative with you as he has been with us. If
+  As reward, you will each receive a retainer of 20         you seek information about the town or the townsfolk,
+gold pieces, plus an additional 80 gold when the            he may be a vital resource.
+menace is put to rest.                                        You should be able to find Mercereau in the Old
+                                                            Heldon Cathedral where he oversees its preservation,
+2. First Victim                                             or in the New Heldon Monastery.
+Her body was found eight days ago in the
+Stonemasons Hall. Her body was mutilated and a              6. Conducting the Investigation
+circle and series of runes were drawn in blood around       I am providing each of you with an Emblem of the
+her. By the time we arrived, the scene was already          Crusade. Anyone you speak with will know you are
+cleaned.                                                    acting under my authority if you present them with the
+   You might visit the scene to see if you can find any     badge. Most will cooperate immediately upon seeing
+additional witnesses, or you may visit the New Heldon       these emblems.
+Monastery. The local monks handle the dead,                    While an order of Indictum Dominius is in effect, the
+perhaps they can tell you more.                             badges grant you the authority to take any action
+                                                            necessary in achieving the Crusade’s agenda. You
+3. Second Victim                                            may threaten, torture, or even kill civilians without
+I understand he was the weaponsmith’s apprentice.           penalty or repurcussion. The only limitations to this
+He was found in the weaponsmith’s shop five days            authority are that you may not physically harm any of
+ago under similar circumstances.                            my soldiers or any other member of the Church.
+   Again, the scene of the crime was erased before we          If you do physically harm my soldiers or any other
+arrived. I would recommend visiting the scene of the        member of the Church, you will be court-martialed
+murder to find witnesses, or the New Heldon                 and summarily executed, as are the dictates of the
+Monastery.                                                  Crusade. Therefore, if you suspect involvement of any
+                                                            persons affiliated with the Church, you will first report
+4. Third Victim                                             to me, and I will conduct the investigation according to
+This is the only scene we have been able to preserve.       the rules set forth by the law of the Church, and by
+My soldiers and I arrived in town yesterday around          the regulations of the Crusade.
+midday. I dispatched a contingent to secure the
+barracks for use as my office where they found the          7. Official Interrogations & Alain
+third murdered man in the middle of the barracks.           If you do not wish to conduct your own interrogations,
+  I visited the site briefly to confirm but did not         you may seek the aid of my interrogator, Alain, who
+conduct further investigation. I have cordoned off the      will conduct the unpleasantries for you. In this case,
+area to preserve the evidence and have                      bring Alain the name of anyone you suspect and wish
+commandeered the town hall instead.                         him to process for further questioning, and he will take
+  As you can understand, I am displeased with the           care of the rest.
+local guard. Their failure to follow any reasonable            You may find Alain in the Old Garden Ruins. He is
+form of protocol has resulted in significant                an unusual character, but highly effective. If the
+advancement of the ritual murders and the potential         suspect is hiding anything at all, you can be sure that
+loss of critical evidence. Moreover the guard captain,      Alain will extract their secrets. He will have a full
+Lander, has been defiant towards my soldiers. We            report for you within two hours after you provide him
+have set an example with his men and I foresee no           with a name, so you should return to him for any
+further difficulties with him.                              information after that time.
+  I recommend you visit the barracks to view the body
+and ritual scene. You will likely find the guard captain,   8. Room and Board
+Lander, skulking about as well.                             While you conduct your investigation, I have ordered
+                                                            the Headless Horse Inn to reserve two rooms for your
+5. Abbot Mercereau                                          exclusive use and to provide you with food and drink
+You may find it valuable to speak with Abbot                as you request. You are free to use the rooms as your
+Mercereau. He was the one that reported the ritual          quarters.
+murders to the Crusade, dispatching a courier to us
+after the body of the second victim was found.              Daily Reports
+  Mercereau has been pivotal in establishing New            9. Daily Report
+Heldon and overseeing its growth for many decades.          I only have one demand of you while you conduct
+He is a caretaker and sees to the welfare of the town.      your investigation. I require a daily report on what you
+                                                                                                                  15
+have uncovered and who you suspect to be affiliated           Aquilon’s Challenge
+with the cult.                                                Aquilon will finish the scene by putting the party to a
+  Each day, you should report back here to be                 combat test. Read the following script:
+anywhere from 4:00 PM to 7:00 PM, after you have
+completed your investigations for the day. You can             As your conversation with Aquilon comes to an
+                                                               end, he calls for a nearby soldier.
+report earlier if you wish.
+                                                                 “Take them to the amphitheater, make sure
+ Reporting In. Aquilon demands a daily update.                 you test them thoroughly.”
+ Use this time to get a clear idea of what the party
+ believes is going on, and who they currently                  You look at Aquilon quizzically as he turns back to
+ suspect.                                                      you.
+   Also, you can use this time to foster discussion
+ between your party if they are not vocalizing their             “We cannot allow this investigation to rest
+ thoughts, or if they have overlooked or forgotten             in the hands of the incompetent. I have heard
+ about some evidence. You can use Aquilon to give              of your reputation. Now let us see it in
+ them advice or make logical deductions from the               action.”
+ evidence that they have uncovered, so that you can
+ push them in the right direction.
+                                                              In the Town Square, the location of the earlier battle,
+                                                              the party will face the following enemies as Aquilon
+ Advancing the Plot. The party will need to visit
+ Aquilon at least once, as there is a scene that plays        watches from the sidelines:
+ out the first time they return to him.
+                                                              1x Bulwark
+                                                              1x Supplicator
+Lies
+Crusade Confidentiality
+Aquilon does not lie. He is upfront, however he is             Torment: include the following enemies.
+bound by many regulations and secrets that he may
+                                                               1x Repentant
+not divulge, especially related to the Crusade’s affairs.
+He will not talk about the parchment on his table.
+                                                              The outcome of the fight may vary.
+Other Notes                                                     If players win, Aquilon will congratulate them.
+Players and the Clergy                                        Whether they land a killing blow or knock the soldier
+As clearly stated by Aquilon, if the players attack any       unconscious, Aquilon will not care.
+member of the Church, they will be court-martialed,             If the players lose, but manage to deal significant
+placed on a quick one-sided trial, and executed.              damage to the soldiers, the soldiers will only knock
+  The only exception to this will be if they kill a cultist   them unconscious. Aquilon’s men will resuscitate
+who was acting as a cultist at the time. In this case,        them and Aquilon will state that he did not expect the
+the Crusade will not punish the players, even after           players to win, but they put up a commendable fight.
+they learn that the cultist was a monk.                         If the players lose, and do not manage to deal any
+                                                              significant amount of damage, Aquilon will express
+Pavel’s Hand                                                  disappointment but will still entrust them with the
+If the players ask Aquilon to confirm the injury to           mission, stating he will withhold judgment for now
+Pavel’s hand, Aquilon should honestly tell them that          based on their reputations.
+he saw no such thing, and that Pavel’s hand was
+bandaged since before he met him. He has no idea              Scene 3 - Old Garden Ruins & Alain
+why Pavel would lie about such a thing.                       Alain can be visited here at any time, and his
+                                                              interrogations may affect the clues available to the
+Interrogating Abbot Mercereau                                 players in all of their further investigations.
+If the players wish Abbot Mercereau to be
+interrogated, they will need to report to either Aquilon      Scene Description
+or to Alain. More detailed notes on handling this             Read the following script the first time the players visit
+situation are provided in Abbot Mercereau’s character         this location:
+details provided in Scene 9 - Old Heldon Cathedral.
+
+
+
+
+                                                                                                                     16
+ You make your way to the Old Garden Ruins, on                  they name in the future. If they had not considered
+ the plateau cliffs midway up the path to the                   the consequences of having Alain conduct the
+ Cathedral. The gardens were once used to cultivate             interrogations for them before, they will now.
+ food and medicinal plants, and housed several
+ bronze sculptures depicting scenes from the Holy
+ Text. However, today they are in a state of near               Revealing Secrets. The next time the party speaks
+ complete ruin; the grand stone archways toppled,               to Alain, he will reveal any secrets the characters
+ soils overrun with weeds, and statues choked with              were hiding. Except, he will not be able to extract
+ vines.                                                         the name of the leader of the cult, Abbot
+   You find a lanky, gaunt man with grayish,                    Mercereau, from any of these individuals.
+ hueless skin sitting cross-legged on a small patch of            Instead, cultists will reveal a false name of your
+ grass, in a state of quiet repose. A large zweihander
+                                                                choosing. Try to choose the person that a
+ sword lies in the grass beside him, its polished blade
+ reflecting the ambient light.                                  misleading trail of evidence is most likely to point
+                                                                to. Alain will let the players know of the false
+                                                                name, but indicate that he harbors doubt based on
+                                                                his gut and extensive experience.
+Person of Interest: Alain
+Alain is the character in the garden, sitting quietly in
+                                                                Interrogating Clergy. Alain’s interrogations will
+meditation. He is a unique undead character who has
+                                                                be the only way to torture a member of the clergy,
+been assigned to conduct the interrogations for
+Aquilon.                                                        as Aquilon’s strict rules ordered the players not to
+  In life, Alain was filled with anger and a thirst for fury    physically harm anyone affiliated with the Church.
+and vengeance. He was known to be a zealous and                   Alain works directly under Aquilon, and though
+ruthless agent for the Church of Azerai. In death, he           his relation with the Crusade is tenuous, he is
+found himself more in control of his actions, but lost          authorized to conduct the internal interrogations
+much of his memory, remembering only shattered                  for the Church. If players report a clergy to him,
+images of carnage and feelings of intense anger. In             they can be with him as he conducts the torture,
+his new form, he has come to question much of who               asking questions they want.
+he was and has done.                                              But cultists will not name Abbot Mercereau,
+                                                                instead giving a false name.
+Alain’s Interrogations
+This location is only important for allowing the players
+to outsource any torture interrogations to Alain,
+                                                               Scene 4 - Stonemasons Hall
+Aquilon’s officially appointed torturer and interrogator.      The Stonemasons Hall is the site of the first murder,
+                                                               which happened eight days ago during the night.
+Use the following rules for Alain’s interrogations:              The guild is suffering as a recent cave-in at the
+                                                               Dragon’s Eye Mine caused the loss of more than half
+ Alain’s Interrogations: Two hours after players               their numbers. The survivors have been unable to
+ provide Alain with a suspect name, he will have               clear the collapsed areas and have closed the mine
+ completed their interrogations.                               for now. Disheartened and out of work, most
+   The results of each interrogation are always the            members do not come around anymore, leaving the
+ same. Alain will torture the suspect to the point             premises relatively empty.
+ that they die from the extensive physical trauma he
+ inflicts on their bodies.                                     Scene Description
+   Then, Alain will hang the body up in the town               Read the following script the first time the players visit
+ square, which he does to instill fear and strict order        this location:
+ in any town he works in. The body will be heavily
+                                                                You make your way to the Stonemasons Hall,
+ bruised and mutilated, striking immediate horror
+                                                                passing through an iron gate which encircles a
+ into the civilian population.                                  large dirt yard. Mining and stone-cutting
+ Alain shows no mercy.                                          equipment lie about in the open. Strangely for such
+                                                                a large area, no one is walking about.
+ Showing the Bodies. The next time the party                       At the end of the yard is a large building. You
+ walks around town, you should describe the lifeless            enter it through a set of double doors. The hall is
+                                                                large and spacious with an arched roof. It is dimly
+ hanging body of the suspect they reported to Alain.
+                                                                lit and empty except for a young man with a dry
+ Make it clear that this will happen to every person
+                                                                broom who sweeps idly in the far corner.
+
+                                                                                                                       17
+                                                              I was awakened when it was still dark by a
+Person of Interest: Niles                                   guardsman who told me to report to the guild hall
+The young boy sweeping in the corner is a                   immediately.
+Stonemason apprentice. He has not yet progressed to
+craftwork, and so works as a groundskeeper, cleaning        3. Stonemasons Guild Master Gorab
+the area and tending to tools and equipment. Niles          Gorab has been drinking heavily since the cave-in
+was not present during the cave-in, and in fact has         and is most likely at the Hagmeat Tavern.
+never set foot in the mine, but speaks with guild
+members and hears all of their rumors and gossip.           4. Cave-In
+  The night of the murder, Niles was present at the         Three weeks ago, there was a terrible cave-in at the
+Hall. He had been secretly meeting with the Guild           Dragon’s Eye Mine. Over half the guild members
+Master’s daughter, Alonde, in the halls late at night       were trapped and the remaining miners were not able
+where no one would find them. But Niles didn’t notice       to clear the rubble. Most survivors are laden with guilt
+anything strange that night, and they left shortly          for not being able to do anything. They guild
+before the murder occured.                                  barricaded the cave entrance saying the tunnels are
+  The morning after the murder, Niles was called in         unstable.
+early to clean the blood. By then, the victim’s body          The miner, Dolan, was closest to the lost miners
+had been removed. He scrubbed the floors for hours          when the mine collapsed. He has been saying some
+with lye to remove the stains, so his hands are red         strange things about the day of the cave-in. He says
+and sore.                                                   they heard voices in the new tunnels before the
+                                                            collapse.
+Real Evidence                                                 I think Dolan has lost his mind. The rest of the guild
+                                                            does too. They say he keeps going back to the mine
+An investigation of the area or persons of interest will
+                                                            and trying to listen to the rocks. I feel bad for him.
+reveal the following:
+ Investigation DC & Clues Found                             Lies
+                                                            5. Midnight Trysts
+ 15   A small broken silver link is caught in the           For the most part, Niles speaks the truth. However, he
+      crevice between two floor planks. It is               was actually in the Guild Hall that night, albeit a few
+      covered with blood.                                   hours before the sacrifice occurred. He has been
+                                                            secretly meeting with Alonde, Gorab’s daughter and
+ 10   The boy’s hands look sore and red.
+                                                            they have been using the guild hall for their
+ 5    The wood floors smell strongly of lye.                clandestine meetings since Niles has a key, and since
+                                                            it is almost always empty, especially past 8:00 PM
+                                                            when guild members clear out.
+Witness Statements                                              The night of the murder, Niles met Alonde around
+1. First victim                                             10:00 PM, and they stayed in the Stonemasons Guild
+I did not see the victim but heard she was a young          Hall until around 12:00 AM. The murders occured
+woman. It must have happened late at night because          around 3:00 AM, several hours before the lovers left,
+I don’t know of anyone who saw it. When I arrived, the      but Niles does not want to admit that he was there at
+body was already gone. The only people here were            all. Partly because he does not want to be connected
+Guild Master Gorab, and Captain Lander of the town          to the scene, but more importantly because his future
+guard.                                                      depends on becoming a fully-fledged member of the
+   They were talking quietly together for a few             guild.
+minutes, but I couldn’t hear what they were saying.             If his relations with Alonde are discovered, Niles is
+Then Lander left and Gorab instructed me to clean           sure that Gorab will kick him out of the guild and ban
+the blood before anyone else saw it.                        him for life. So, Niles will strongly deny that he was
+                                                            anywhere near the hall. This may be an innocent lie,
+2. Where were you at the time?                              but if the players become suspicious about Niles and
+I was following my typical routine. I tended to the guild   report him to Alain, he will be gruesomely tortured and
+equipment until about 7:00 PM, after which I ate            die, and all the players will gain from the weight of this
+dinner at the Hagmeat Tavern. After supper, I               decision is the knowledge of their love affair.
+returned to my small hut across the street from the             If this happens, the party will learn quickly that they
+guild hall and fell asleep.                                 should consider their options carefully before
+                                                            involving Alain.
+
+                                                                                                                    18
+Scene 5 - Weaponsmith’s Shop                                 showed up. The guard brought the monks who took
+The Weaponsmith’s shop is the site of the second             away the body, and we spent the day cleaning the
+murder. It is owned by Bjorq, a master craftsman. He         shop.
+usually oversees two journeymen and one apprentice.
+However, the apprentice was murdered five days ago           2. Silver Necklace
+inside of the shop.                                          One of the monks, a man named Hyle, dropped off
+                                                             the necklace. He said one of the links broke when he
+                                                             fell on the way up the mountain stairway to the Old
+Scene Description
+                                                             Heldon Cathedral.
+Read the following script the first time the players visit
+                                                               We do not have a jeweler in New Heldon and I am
+this location:
+                                                             the only local smith experienced with working with
+ You make your way to the Weaponsmith’s Shop on              white metals and jewels. We are fixing it, but I am
+ the eastern side of New Heldon. You hear the clang          keeping a close eye on the work. It is a good
+ of metal and see a trail of smoke billowing from a          opportunity to teach my journeymen a bit about
+ large outdoor chimney as you come to the forge.             whitesmithing.
+    A large, heavily muscled bald man carefully
+ oversees two younger men. One works the billows
+ and the other concentrates as he hammers carefully          Lies
+ on the anvil with a very small mallet using precise,        Bjorq tells the truth and has nothing to hide.
+ measured strikes.
+                                                             Other Notes
+                                                             Dagger with Silver Handle
+Person of Interest: Bjorq
+                                                             Players may recover an ornate dagger at the crime
+The bald man is Bjorq, the master weaponsmith who
+                                                             scene of the Guardsman Barracks. If they take it to
+has owned the shop for several years. On the
+                                                             Bjorq to identify it, Bjorq will confirm that the dagger
+morning of the murder, Bjorq opened the shop to find
+                                                             belonged to Stonemason Guild Master Gorab.
+his apprentice Rost had been murdered in a ritual
+                                                               Bjorq knows this for a fact because Gorab brought it
+sacrifice.
+                                                             to him to craft a new handle for him.
+
+Real Evidence                                                Analysis of the Necklace
+An investigation of the area or persons of interest will     If the players compare the links of the silver necklace
+reveal the following:                                        of Hyle’s necklace and the broken chain, they will see
+ Investigation DC & Clues Found                              that it is the same.
+
+
+ 15    The silver chain necklace looks to have
+                                                             Scene 6 - Guardsman Barracks
+       been recently cleaned and polished. It                The Barracks is the site of the third murder. Usually
+       shows no signs of tarnish.                            occupied by several guardsmen, it was empty for a
+                                                             short time while the Penitent Crusade was arriving in
+ 10    A broken silver chain necklace with an                New Heldon and all of the guards were preoccupied
+       ornamental cross lies on the nearby
+       workbench. The men are hammering a                    making sure everything was secured around town.
+       new silver chain link.                                During this time, the sacrificial murder happened.
+
+                                                             Scene Description
+Witness Statements
+                                                             Read the following script the first time the players visit
+1. Second Victim
+                                                             this location:
+I found my apprentice, Rost, in the morning five days
+ago. Rost was in charge of opening the shop and               You make your way to the Guardsman Barracks, a
+preparing wood for the furnaces each morning. I               sturdy structure of stone and wood in the lower
+arrived around 7:00 AM to find Rost hanging from the          eastern section of town. Patrols of armored
+rafters by iron chains.                                       Penitent Crusade soldiers march through the area.
+                                                                 Two masked Crusade soldiers stand at either side
+   His body was covered in many cuts and blood was
+                                                              of the front door, watching you silently. You
+dripping to the floor. On the floor, the blood had been
+                                                              quickly flash your emblem as you approach. You
+drawn into a large circle with odd symbols around it.         see no reaction behind their emotionless masks, but
+   I was too stunned to do anything. Several townsfolk        they do not hinder you as you enter.
+gathered behind me and my two journeymen arrived                 Inside, you are met with a ghastly sight. A man
+then. We did not know what to do until the town guard         hangs in the center of the room, his rigid body
+
+                                                                                                                    19
+                                                           much already with the cave-in, and Mercereau agreed
+ impaled upon a long wooden pole which erupts
+                                                           with him.
+ through his bare chest. Dark blood cakes his body
+ and soaks into his torn threaded pants.                     So I let the monks remove the body and we sent for
+   Around him on the floor, his pooled blood has           a guild apprentice to clean the mess.
+ been swept into a rough circle and used to draw
+ strange messy rules all about.                            2. Second Victim
+                                                           He was the weaponsmith’s apprentice. We came to
+                                                           the scene after a crowd had already gathered. Again,
+Person of Interest: Lander                                 I wanted to lock down the area and preserve the
+By Aquilon’s order, only agents of the Penitent            evidence for a full investigation.
+Crusade are allowed inside the barracks. The captain         But Bjorq, the shop owner, insisted that it would be
+of the town guard, Lander, stands outside smoking a        bad for business, so I agreed to have the monks
+pipe and talking with several of his men.                  remove the body and let him clean the blood.
+
+Real Evidence                                              3. Third Victim
+An investigation of the area or persons of interest will   I don’t know who he is. I haven't even been allowed
+reveal the following:                                      into my own barracks to look. My guards and I were
+ Investigation DC & Clues Found                            all busy at the time of the murder, trying to make sure
+                                                           things didn’t fall apart when the Crusade was arriving.
+                                                           It is not very easy to handle a town of people when
+ 15   The victim’s fingernails are caked in                they realize the Crusade is coming around.
+      dried blood, small flecks of flesh and
+                                                              Nobody was at the barracks at the time. From my
+      linen threads trapped under his nails.
+                                                           understanding, one of the Crusade soldiers visited the
+ 10   Three sets of bloody shoe prints lead                Barracks and found the scene. They blocked us out
+      from the ritual circle and out the back              afterwards, so we are out here.
+      door, quickly fading as they reach the
+      street.                                              4. Aquilon
+                                                           I don’t see why people respect him so much. He is
+ 5    The victim’s body is covered with many
+      thin lacerations and puncture wounds                 arrogant and ungrateful. This investigation would be
+      from a small blade.                                  quicker if they cooperated with us. And now I have to
+                                                           deal with the men he roughed up. The dead one, he
+      Lying on the floor in the corner of the              had a wife and baby to feed. What am I supposed to
+      room is a small steel knife, its worn blade          do about this? I’m sure as hell not going to make
+      covered in dried blood. However, it                  them my problems.
+      strangely has a very bright, new, well-
+      polished and unworn silver handle,
+      carved into the shape of a simple                    Lies
+      rectangular sitting badger.                          5. Incompetence
+                                                           Lander tries to play down his part in the loss of critical
+Witness Statements                                         evidence to the investigation. In both the first and
+                                                           second murder, he was actually the one who first
+1. First Victim
+                                                           suggested removing the body and wiping up the blood
+She was a pretty one. I don’t know her name, but she
+                                                           as quickly as possible. He wanted to hide these
+was a seamstress with a stall over in the market. The
+                                                           events from the public as he does not like trouble and
+night patrol found the door to the Stonemasons Hall
+                                                           rumors spreading in his town. The Stonemason and
+ajar, and found her while going over to inspect it.
+                                                           Weaponsmith were not difficult to convince as they
+  I arrived with two more guards and after seeing the
+                                                           also would benefit from moving on from the events
+scene, I sent for both Stonemason Gorab since the
+                                                           quickly.
+murder was on guild grounds, and for Abbot
+                                                             Now, Lander wants to hide his role in the critical
+Mercereau, as the monks generally handle all of our
+                                                           loss of evidence. He does not want anyone to think he
+dead bodies.
+                                                           was the one who bumbled the investigation, and has
+  When Gorab and Mercereau arrived, we discussed
+                                                           been chastised for his incompetence by Aquilon
+what to do next. I wanted to lock down the area and
+                                                           already.
+conduct a full investigation.
+  But Gorab requested to keep the situation private,
+as the Stonemasons Guild had been through too
+
+
+                                                                                                                  20
+Scene 7 - Hagmeat Tavern                                   Gorab tells an inconsequential lie to protect his
+The Stonemasons Guild master, Gorab, can be found          dignity. He is heavily intoxicated now, as he was at
+in the tavern drinking and heavily intoxicated at any      the time of the incident. He is exhausted from his
+time of day.                                               burden as the guild leader and dealing with the
+                                                           aftermath of the disastrous cave-in.
+                                                             In his recounting of the events, Gorab remembers
+Person of Interest: Gorab
+                                                           very little specific detail and has almost no sense of
+Stonemason Gorab. At a loss for how to manage his
+                                                           time. He blames it on being tired, but he was in fact
+deteriorating guild and feeling responsible for the
+                                                           drunk. If pressed, he will quickly burst out in anger
+deaths of so many of his men, Gorab drinks
+                                                           about it and tell the truth that he was drunk at the
+constantly and is in a state of deep intoxication at
+                                                           time.
+nearly all times.
+
+                                                           Other Notes
+Real Evidence
+                                                           4. Dagger with Silver Handle
+An investigation of the area or persons of interest will
+                                                           If the players confront Gorab with the silver-handled
+reveal the following:
+                                                           dagger found at the Guardsman Barracks, he will be
+ Investigation DC & Clues Found                            surprised, and say that he has been looking for it, and
+                                                           reach to take it from them.
+ 10    Gorab is heavily intoxicated.                          Gorab does not know the dagger was used in the
+                                                           murders. It did belong to him, the dagger was a family
+ 5     An empty pitcher on Gorab’s table smells            heirloom, and was becoming very old and worn, so he
+       of sour beer.                                       had the weaponsmith craft a new handle for him in
+                                                           the heraldic crest of his family, a badger.
+Witness Statements
+1. First Victim                                            Scene 8 - Dragon’s Eye Mine
+I was at home when I was awakened by a guard               The Dragon’s Eye Mine has been boarded up and is
+some time in the night. I don’t know when but it was       no longer accessible.
+still very dark. I went with the guard to the
+Stonemasons Hall.                                          Scene Description
+   It was very dark so I couldn’t see too much, but I      Read the following script the first time the players visit
+remember there was blood everywhere. I don’t know          this location:
+who she was, but Lander said it would be best to
+clean up the scene as quickly as possible, and I            You make your way along a trodden dirt path
+                                                            through the woods for some time until you come to
+agreed with him.
+                                                            the entrance of a boarded-up mine. Outside,
+   Lander said it would be best for the guild if the
+                                                            abandoned mining equipment and collapsed tents
+public did not find out this happened in our hall. I        lie strewn about in the open.
+guess he was right, so I agreed, we should clean it up         A thin and ragged man paces about in front of
+right away. He sent a guard to call the monks to take       the mine, pulling at his unruly beard with one
+away the body, and then to fetch one of our                 hand while dragging a pickaxe about behind him
+apprentices, Niles, to clean the blood.                     with the other. He is muttering to himself in
+2. The Cave-In                                              intense and unending sentences, too quiet for you
+Three weeks ago, there was a tunnel collapse at the         to hear. From time to time, he interrupts his
+Dragon’s Eye Mine. Over half the guild were buried.         pacing to put his ear to the side of the mountain,
+                                                            pausing to listen intently for a moment, before
+We could do nothing to clear the rubble and so we
+                                                            shrugging and continuing his frenetic pacing.
+barricaded the entrance. The tunnels are too unstable
+and are not safe.
+   One miner, Dolan, was closest to the lost miners        Person of Interest: Dolan
+when the mine collapsed. He has lost his mind,             Dolan is a mentally distressed survivor of the cave-in.
+claiming he heard voices in the darkness before the        He keeps returning to the mine where he puts his ear
+collapse. He has been seen going back to the mine          to the mountainside and listens intently for hours at a
+frequently. The rest of the miners are dispirited, but     time. He does not seem to have all his wits about him,
+what can anybody do?                                       talking in broken, disorderly sentences, and muttering
+                                                           imperceptibly under his breath half the time.
+Lies
+3. Drunk
+                                                                                                                  21
+Real Evidence                                                  overhead, its enormous ruined walls wondrous
+An investigation of the area or persons of interest will       even in their crumbling state. You make your way
+reveal the following:                                          inside through a fallen arched doorway and into a
+                                                               spacious nave. The high domed ceiling is pocketed
+ Investigation Score & Clues Found
+                                                               with holes, allowing dozens of beams of dim light
+                                                               to pierce down to the elaborately tiled floors.
+ 10    The rocks near the mine entrance are                       Around the peripheries of the room, small
+       scarred with long thin streaks, as if                   clusters of monks pace about, discussing quietly
+       someone has been striking them with a                   amongst themselves, studying books, or chanting
+       pickaxe haphazardly all over the place.                 quiet hymns.
+                                                                  You hear creaking wood as a thin and wizened
+ 5     The man is emaciated and his lips are                   man descends from the belfry tower at the far side
+       cracking. He looks to be in a state of                  of the cathedral. He wears a simple woolen smock
+       advanced starvation and dehydration.                    and bows humbly to you as he approaches,
+                                                               introducing himself as Abbot Mercereau.
+Witness Statements
+1. The Cave-In                                                Person of Interest: Mercereau
+The tunnels. A rumbling. Cave-in. We went deep.               Mercereau is the local abbot of the Church of Azerai.
+Deep in the dark. Very dark. Voices. Voices in the            He has been pivotal in the establishment of New
+dark, they called, again and again. They called. What         Heldon over the last forty years.
+were they saying? They still call. Here, can you hear           Following the discovery of the ruins of Old Heldon
+it? Listen, listen to the rocks. Can you hear it? They        and the Menhir Stone, he has made it his mission to
+are in there. Still there. Got to get them out. Still alive   ensure the survival and growth of the town, while
+in there.                                                     working to study and preserve the ruins and monolith.
+                                                              However, he is secretly the cult leader.
+Other Notes
+If the players listen to the rocks, they will hear            Real Evidence
+nothing but normal forest sounds. Whatever Dolan is           There is nothing to be found at this scene.
+hearing is in his head.
+                                                              Witness Statements
+Scene 9 - Old Heldon Cathedral                                1. First Victim
+The first time the players travel to the Heldon               Yes, I did visit the scene. What a tragic loss. Her
+Cathedral, they will find Abbot Mercereau. However, if        name was Yanna. She had a small shop in the market
+they go to the Monastery first looking for the Abbot,         selling garments. She was a child of the light, a hard
+the monks present there will direct them to visit the         worker and always devoted to her prayers.
+Heldon Cathedral to find him, where Mercereau is                Captain Lander sent for us, and when we arrived,
+taking care of the structure.                                 we followed his wishes and removed the body
+  During their first meeting with the Abbot, he will tell     immediately. We have already cremated her and
+the players that they may find him at the Monastery in        interred the ashes; her body had been defiled by dark
+the future. From then on, the Abbot will be at the            magics. Cleansing with fire is said to be the only way
+Monastery and not the Cathedral.                              to remove such taint by the holy doctrines.
+
+Scene Description
+Read the following script the first time the players visit    2. Second Victim
+this location:                                                I came to the scene to remove the body after the
+                                                              guards notified us. I did not know the boy. He did not
+ You make your way to the winding stairway that
+                                                              often come to service or offer confession. We
+ cuts up the side of the mountain cliffs overlooking
+                                                              cremated the body and interred the ashes as with the
+ New Heldon. You take a quick break to catch your
+ breath at the first plateau where, further along the         first victim.
+ cliffside, you can make out the ruins of the old                After the second murder, I sent the letter to the
+ garden said to house some of the most spectacular            Penitent Crusade for help. I only wish I had done so
+ sculptures of the Lost Age.                                  sooner.
+    After a few moments, you continue on up to the               With the first victim, Captain Lander convinced me
+ second plateau, atop which you find the Old                  that it might have been a one-time sin. It was a naive
+ Heldon Cathedral. The giant structure towers                 hope, and perhaps I went along with it because I
+
+                                                                                                                    22
+wished so much for it to be true. But now I see if I had      Suspicions Against Monks. If the party trusts
+acted quicker, perhaps we could have stopped these            Mercereau enough to tell him of their suspicions
+further atrocities.                                           against any of the other monks, Mercereau will take
+                                                              their accusations seriously and say that they are
+3. New Heldon                                                 doing the Light’s Work, and that he will pray for the
+I have dedicated many years bringing people back to           souls of those they believe are involved in the cult.
+these parts, to preserve what was lost and to study             If they do confirm any of the other monks are
+what we can of the past. I dread what may happen if           cultists and have Alain torture and kill them, when
+this cult is allowed to complete the ritual, or likewise      they talk to Mercereau, Mercereau will pretend to be
+what should happen if the Penitent Crusade decides            greatly saddened to learn his flock have strayed from
+the town is a lost cause.                                     the light, but always grateful for their work in saving
+   I fear they may slaughter the townsfolk to ensure          the town.
+the end of the cult. They are all my children. I am
+growing old and my heart cannot bear to start again. If       A Satisfying End. If the players suspect Mercereau
+there is anything I can do to assist you, you need only       and report him to Aquilon before the conclusion of the
+ask.                                                          story, you should work to craft a satisfying end.
+                                                              Perhaps they group together to confront him, and he
+4. The Tormentor Cults                                        confirms their suspicions in a fanatical monologue.
+The cult has plagued the realm as far back as the               No matter what, his followers will take his place and
+historical records of the Church show. As I                   ensure the ritual’s completion, so the story will
+understand from the few surviving texts held by the           continue, with a monk of your creation taking
+Church, they worship an otherworldly entity known as          Mercereau’s place.
+the Jailer and act in the shadows, driven by some
+deranged madness.                                             Hyle. If the players ask about Hyle, the monk who
+   The Church has observed their activity is always           dropped off the silver necklace to Gorab the
+linked to ritual murders in sets of five. Sometimes           weaponsmith, Mercereau will allow them to question
+these rituals end in nothing, and sometimes they bring        him.
+forth demonic entities. But who knows how or why                 Hyle is not at the Cathedral, rather he would most
+these rituals fail or succeed. I am afraid I am not an        likely be at the Monastery, so Mercereau will escort
+expert on the occult.                                         the party back to the Monastery to help them find him.
+
+5. The Menhir Stone                                           Letter to the Crusade. The reason Mercereau sent
+I have made it my life’s work to establish New Heldon         the letter requesting the Crusade’s aid was because
+and bring the Church to these ruins so that we could          the second murder was discovered by the public
+study this artifact of the Lost Age. Unfortunately, after     before it could be covered up, and he knew reports
+all of these years we still know little about what it is or   would quickly spread. By acting to send the letter, he
+how it works. All we know is that it seems to hold            hopes to ensure that no one suspects his involvement
+significant amounts of magical energy. But I believe          with the cult.
+we are very close to unlocking the potential of these           The first murder was completely covered up by
+stones.                                                       Captain Lander’s incompetent actions, so he did not
+                                                              send the letter until later, when he knew that
+Lies                                                          escalation was inevitable.
+6. The Mastermind
+Mercereau is the cult leader. He should act as a              Scene 10 - New Heldon Monastery
+kindly old man, helping the party in any way he can, in       The Monastery was one of the first buildings
+order to cover up his involvement long enough to              constructed in New Heldon and is erected near the
+complete the ritual.                                          Menhir Stone. The first time players meet with Abbot
+                                                              Mercereau, he will be in a different location, the
+Other Notes                                                   Cathedral, but at all subsequent times he will be in the
+Roleplaying Abbot Mercereau. Mercereau will                   Monastery.
+pretend to be immensely grateful for all the players            This section will be written as if the players first
+are doing to save the town. The players may trust or          went to the Cathedral and came back to the
+distrust him to various degrees.                              Monastery with Mercereau. However, if the players
+                                                              visit the Monastery first, create a monk to interact with
+                                                              them. The monk will direct the players to the
+
+                                                                                                                    23
+Cathedral if they are looking for Mercereau, and act in
+                                                              The holy man escorts you to a large wooden door at the side
+Mercereau’s place, providing the same statements
+                                                              of the Monastery. Opening it, he ushers you into a long hall
+listed here if they insist on continuing the investigation    and walks with you to the other end. A long tapestry spans
+at the Monastery first.                                       the length of the hallway, hung on the wall connecting to
+                                                              the Chapel.
+Scene Description                                                The tapestry illustrates dozens of religious scenes. Along
+Read the following script the first time the players visit    the opposite wall are rows of small wooden doors. Stopping
+this location:                                                at the third door from the end of the hall, your escort turns a
+                                                              simple iron knob and lets you into a small cubicle. He waves
+ As you make your way to the New Heldon                       you in and leaves, letting you know he will retrieve Hyle
+ Monastery you pass by the mysterious Menhir                  from the choir and return shortly.
+ Stone, which sits just outside the building. The                The room is nearly empty. The only pieces of furniture
+ enormous asymmetrical rock is so dark that it                are a narrow, straw-padded bed, and a small plank desk,
+ seems to suck the surrounding light from the sky.            atop which sits a small chamberstick candle holder, a holy
+ Its strange surface ripples in your peripheral               book, and a small, rolled-up parchment note.
+ vision like shifting waves or swirling clouds,
+ making your head spin. But as you try to focus
+ your vision on the movement, you see the surface            Real Evidence
+ is placid and still.                                        The note is written in common and reads:
+    Strange letters are carved into the side of the
+ monolith. A thin monk in a plain smok stands                 Demogaeus 6:16
+ before it, scrutinizing the symbols and writing              Lamenti 3:11
+ carefully in a small bound booklet. He has a small
+ podium set up next to him which carries an                  Demogaeus and Lamenti are books of the Holy Text.
+ inkwell and writing materials.                              A player will know what they are if they can pass a
+    You pass by and enter the New Heldon
+                                                             DC 10 Intelligence (Religion) check. If a player
+ Monastery, a large structure with an arched roof.
+                                                             character’s background suggests they are affiliated
+ Its walls are decorated with tapestries depicting
+ religious scenes of burning hellscapes and weeping          with the Church of Azerai, they may roll with
+ people. The melodic tones of a choir echo                   advantage.
+ throughout the halls.                                          If a player rolls 15 or higher, they will be able to
+                                                             recite the passages from memory. Otherwise, the
+                                                             players will have to look up the passages in the holy
+Person of Interest: Mercereau                                book, which does not take any skill, but since the text
+Mercereau is the local abbot for the Church of Azerai.       is written in Lattrian, they must have someone that
+If the players have already encountered him at the           can read this language. If no one understands
+Old Heldon Cathedral, he will always be at the New           Lattrian, they may ask any monk to translate it for
+Heldon Monastery. However, if the players have not           them.
+yet visited the Old Heldon Cathedral, you should                The passages read as follows:
+replace Abbot Mercereau with another monk of your
+creation for now. Whoever this monk is, they will
+primarily serve as a guide for the players at this point,     Demogaeus 6:16
+taking them to Hyle’s quarters if they ask about Hyle.
+                                                              In the place of celebration, of the ripe and bountiful
+                                                              harvest, beneath those sunlit gambrels of the hall of
+Person of Interest: Hyle                                      plenty, there shall the calf be taken.
+Hyle is a monk in the local abbey, but is also a Jailer
+cultist. While attacking the first victim in the
+Stonemasons Hall, the victim flailed out at him and           Lamenti 3:11
+tore off his silver cross necklace, causing one of the
+links to drop to the ground. Her blood splattered all         Bitterly they weep, this night, for there can be no
+over the necklace as he was murdering her, and he             comforts among the forsaken.
+cleaned it thoroughly before taking it to Gorab the
+weaponsmith to have it fixed.                                The passages are a code, indicating both the
+   If players ask to see Hyle, their guide should state      location and the time for the next ritual murder.
+that Hyle is in the choir, but escort them to his room to      The passage from Demogaeus refers to the
+wait. As they go to Hyle’s room, read the following          Farmtown Mead Hall where the common folk hold
+script:                                                      seasonal celebrations, especially those related to
+                                                             harvest times. It is common knowledge that
+                                                                                                                        24
+celebrations are held in the Farmtown Mead Hall, so if       he was murdering her, and he cleaned it thoroughly
+players ask anyone about where such a celebration            before taking it to Gorab the weaponsmith to have it
+would take place, they should receive the correct            fixed.
+answer.
+  The passage from Lamenti indicates that the ritual           Moving to Act 2
+will take place tonight.                                            Some developments will occur in Act 2, after
+                                                                    these notes are discovered. Once the players
+Speaking with Hyle. After the players have some                      have a chance to discover the note, move to
+time to investigate these clues, they hear                           the next Act. But you should still allow players
+footsteps coming down the hall. Give them a                          the freedom to visit or return
+moment to hide their investigation, and then                        to any place from the first Act if they so wish.
+have Hyle appear at the door alone, stating
+that he was sent to speak with them.
+  If Hyle realizes the players have read the
+note and the passages, he will become
+nervous. He will still speak to them, but
+may appear agitated.
+
+Witness Statements
+1. The Murders
+I don’t know anything about that.
+
+2. The Silver Necklace
+Yes, that is mine. It broke when I
+slipped and fell as I was climbing
+up the mountain stairway to the
+Old Heldon Cathedral. I took it to
+Gorab the weaponsmith to have
+it fixed.
+
+3. The Holy Passages
+Those are two passages
+of the Holy Text. I don’t
+know who put the note
+there, or why those
+passages would be
+written there.
+
+Lies
+Cultist. Hyle is a cultist
+and has assisted in all
+three murders. While
+attacking the first victim
+in the
+
+
+
+
+Stonemasons
+Hall, she flailed out at him and tore off his silver cross
+necklace, causing one of the links to drop to the
+ground. Her blood splattered all over the necklace as
+
+                                                                                                                  25
+ACT 2 :
+THE CIRCLE IS COMPLETE
+                                                            front of the rider, pushing aside townsfolk roughly
+            nce the players go to the New Heldon
+
+  O
+                                                            as they go. You watch as the disquieting procession
+            Monastery and had a chance to discover          passes, then make your way into the Town Hall.
+            the coded holy text note, the note will
+            indicate that the next murder will happen
+that very night. This will trigger the final development   The Atoner. The figure that passed was an Atoner, a
+in the ritual as Act 2.                                    spiritual leader of the Penitent Crusade and
+                                                           counterpart to the organization’s Primus military
+
+Final Investigations                                       leader. Each regiment of crusaders is led by both one
+                                                           Atoner and one Primus, who serve together in an
+As the party finishes the first stage of the               often uneasy balance.
+investigation, they will be put on a time clock by the       While a Primus such as Aquilon commands
+Penitent Crusade before the entire town is                 absolute power to determine the tactics they use to
+slaughtered. Regardless of the parties’ actions, the       achieve any objective of the Crusade, those
+ritual will be completed in one way or another through     objectives are first dictated by the Order of Atoners.
+the following developments.                                The Atoner in this scene had just met with Aquilon to
+                                                           dictate a final order regarding the investigation of New
+Scene 11 - Return to Town Hall                             Heldon. A nearby town the Order has deemed more
+As the party was ordered to report to Aquilon each         important requires the swift attention of Aquilon’s
+afternoon upon the conclusion of their daily               regiment, and this second town’s protection takes
+investigation, they have to return to the Town Hall        precedence over the welfare of New Heldon.
+prior to the time of the next murder. If they forget to      Therefore, the Atoner has come to issue an Order
+report in, remind them to do so.                           of Cleansing, should the investigation take much
+                                                           longer. New Heldon has been allotted three days of
+                                                           time, after which the Penitent Crusade must move on.
+The Scene
+                                                             If the Tormentor Cult is not put to rest within the
+As the party returns to the Town Hall, read the
+                                                           next two days, Aquilon will be forced to slaughter the
+following script.
+                                                           entire population of common folk on the third day to
+ As you return to the Town Hall, you see that a            ensure that no demonic entities are allowed to fester
+ large crowd of townsfolk have gathered in the             and enter the world in the Crusade’s absence.
+ streets. They shift about uneasily and murmur
+ fearfully amongst each other. As you push to the          The Siege of Guerrin. It is implied that the second
+ front of the crowd, you see that the people have          engagement that the Atoner refers to is with the town
+ parted along the cobbled street, making way for a
+                                                           of Guerrin, which has reported the stirrings of a large
+ regal figure atop a horse.
+                                                           warband of savage cannibals moving against them.
+    The figure is draped in layers of fine silk cloth
+ which obscures its body. It wears an elaborate            Guerrin is of critical importance due to its strategic
+ cone-shaped hat and its face is covered by a stoic        location and the Church has determined that it must
+ pearlescent mask. In one hand, the figure carries a       not be allowed to fall at any cost.
+ large staff from which several thuribles swing              This other scenario plays out in the adventure titled
+ gently as they burn various holy incense.                 A Red Dawn: the Siege of Guerrin. However, if your
+    The figure's mount, like the figure itself, is         players have already played this other adventure, you
+ draped in several layers of fine embroidered cloth.       should make your own engagement as a
+ The drapery covers the horse’s body completely,           replacement.
+ even its eyes, ears, and mouth.
+    Two thralls stand in front of the horse, guiding
+                                                           Meeting with Aquilon. When the players meet with
+ it forward at a slow and even pace. The thralls are
+ clothed in nothing but tattered shreds, their faces       Aquilon he requests their updates. If they ask about
+ muzzled by taught leather straps. As they stumble         the Atoner, he will tell them about the time limit on
+ forward, their hands bow up and down, bound               their investigation and be upfront about his intent to
+ tightly together as if in prayer. The horse’s lead        wipe out the town if the investigation cannot be
+ ropes, noosed around their wretched necks, tears at       completed by midnight in two days' time.
+ their loose skin as it pulls backwards against them.        However, he will express his regrets at having to do
+    Formations of masked Crusade soldiers march in         so, explaining that he believes New Heldon is a
+
+                                                                                                                  26
+valuable resource, and that the loss of the town             The second Cultist is Hyle. If only two cultists die or
+records of the Lost Age, along with the Menhir Stone,      are captured, he will be the second.
+is a tremendous waste.                                       The third Cultist is Pavel. If all three cultists die or
+                                                           are captured, he will be the third.
+Continuing the Investigation. Aquilon will appreciate
+any updates or information the players provide to him.     Real Evidence
+However, he will not be willing to commit any soldiers     If any Cultist is killed or captured, he will be carrying
+to assisting them at any point as he will need to          a small note, which reads:
+organize for the worst-case scenario and prepare his
+troops to begin their next journey.                         Make haste, brothers, for we must secure the dawn
+                                                            of the new age. Our time grows short, for the
+                                                            heretics of the tree move against us. The
+Scene 12 - Farmtown Mead Hall                               blasphemer’s order leaves us little time, we must
+The large mead hall is a gathering place after a long       complete the circle by tomorrow night. We must
+day’s work, but also serves as a community space for        put an end to their imposterous lies. We can delay
+seasonal events. It is located in Farmtown, the oldest      no longer. Rise, brothers, and embrace the one
+district in New Heldon.                                     truth and the only way.
+
+                                                            Verdictus 8:4
+Ritual Murder 4
+The sacrifice will occur at 3:00 AM in the morning
+after the players have a chance to find the note to        Verdictus, as with the previous passages, is a book
+Hyle in the New Heldon Monastery. Three Cultists           of the Holy Text. A player will know what it is with a
+sneak into the Farmtown Mead Hall carrying a bound         DC 10 Intelligence (Religion) check. If a player
+and gagged male victim to conduct the ritual.              character’s background suggests they are affiliated
+                                                           with the Church of Azerai, they may roll with
+If the party is ready and already waiting in the mead      advantage. If the players already figured out any of
+hall before 3:00 AM, the Cultists attempt to carry out     the previous passages were holy scriptures, they may
+the ritual, but will run as soon as they detect the        automatically deduce that this one is as well.
+players.                                                     If a player rolls 15 or higher, they will be able to
+   No matter what, one Cultist will always kill the        recite the passages from memory. Otherwise, the
+victim with a strong thrust of a dagger so that the        players will have to look up the passage in a holy
+victim’s blood spills to the ground. In his last           book and will need to know Lattrian or find someone
+moments, the Cultist will draw a hasty circle and          to translate it for them.
+scribble ruins in blood on the ground, but he will not       The passages read as follows:
+be able to complete the ritual entirely if the players
+target him. However, the ritual will be satisfactorily      Verdictus 8:4
+completed no matter what point it was interrupted at,
+so long as the person died.                                 And in those places of avarice, those districts of
+                                                            venal mercanalism, where metal rules the hearts of
+Otherwise, if the party did not make it to the mead         man, in those covetous bonds, they shall find
+hall by 3:00 AM, the ritual would have been                 themselves as slaves.
+completed fully. If they arrive after 3:00 AM but before
+3:15 AM, they enter as the Cultists are finishing, and     The passage is a code indicating the location of the
+have a chance to kill or capture them.                     next murder. The passage refers to the market, the
+  If the party arrives after 3:15 AM, they only find the   center for trade in New Heldon. The time, tomorrow
+aftermath of the ritual.                                   night, was already provided clearly by the note.
+
+Three Cultists. The three Cultists have their
+identities revealed as follows. However, if any of
+these characters have already died; perhaps                Scene 13 - The Market
+interrogated by Alain, make up a new monk to take
+                                                           Dozens of merchant stalls are set up in a small district
+their place.
+                                                           of the town. The fifth and final murder will take place
+  The first Cultist is the monk who was seen outside
+                                                           here, completing a rough circle of points around New
+of the New Heldon Monastery, copying the runes on
+                                                           Heldon.
+the Menhir Stone. If only one cultist dies or is
+captured, it will be this one.
+
+                                                                                                                  27
+Ritual Murder 5
+The ritual will occur at 12:00 AM in the morning after
+the fourth murder. Three Cultists will again be
+                                                            The Ritual is Complete
+working together to complete this ritual. The area of       The ritual has been completed. The Aspect of the
+the market is large and players cannot watch the            Jailer will be summoned.
+entire area.
+   If the players are in the market and on alert for the    Jailer Encounter - Stage 1
+ritual around the time it is set to take place, read the    When the players arrive at the Old Heldon Cathedral,
+following script.                                           read the following script:
+ You have deduced that the final ritual may happen           Rushing and out of breath, you arrive at the
+ in the New Heldon market.You fan out in the dark,           collapsed arched entrance of the Old Heldon
+ taking positions quietly to watch the streets               Cathedral. You climb haphazardly over piles of
+ around you, but the area is large and the rows of           rubble and into the great inner nave. The Durand,
+ closed-up stalls and timber houses stretch in too           the enormous ballista-carrying wagon of the
+ many directions.                                            Penitent Crusade, pulls up at the line of the rubble,
+    Then, a cry breaks out in a distant alley.               unable to make further progress, while a squad of
+ Running towards the sound, you find the last                soldiers begin to prepare the weapon for use.
+ victim, a woman in a nightgown, on the cobbled                Aquilon shouts orders to his men to fan out and
+ ground, blood soaking into her torn garments and            secure the area as an enormous shape rises from
+ flowing into a pool around her. The same rough              the dark earth at the far end of the cathedral. The
+ circle and runes you saw at the other scenes are            thing fills the cavernous space. It is an immense,
+ drawn around her body.                                      bloated fleshy being, like a misshapen ogre of a
+    Three hooded cultists stand around the corpse,           man. But as it steps forward into the beams of
+ cornered at the end of the alley. However, they do          moonlight which filter in through the broken
+ not attempt to flee. One steps forward, cackling as         rafters, you see a glinting array of sinister iron
+ he removes his hood. He is a monk, one of the many          bars and sharpened spikes erupting from its skin.
+ unremarkable faces you have seen in passing at the            Aquilon shouts to you as he points to a large
+ New Heldon Monastery or about town. He points               enameled tile circle at the center of the Cathedral.
+ a dagger at you and grins.                                    “Draw it into the circle! We need to bring it
+    “You are too late, the circle is complete.”              into the line of fire!”
+    Suddenly, a deafening clang of metal rends the
+ air, splitting the night with a deep and reverberant
+ clamor. The very earth beneath you trembles.               This begins the first fight against the Jailer. The
+ Looking toward the cliffs north of New Heldon,             Cathedral is not considered the monster’s lair, so it
+ you see boulders tumbling down the mountainside            will not have access to any Lair Actions during this
+ as a section of the Old Cathedral roof collapses.          fight.
+
+
+Similarly to the Cultists at the fourth murder, these        Torment: Use the Aspect of the Jailer’s Torment
+ones will be the one studying the Menhir Stone, Hyle,        statblock instead of regular statblock.
+and Pavel if those characters are still alive, or will be
+a random new monk if those characters already died.
+                                                            The Battleground
+   The Cultists should be easily dispatched by the
+                                                            The Cathedral is in ruins. Here is a summary of the
+party.
+                                                            notable places of the battlemap, as depicted on Map
+   The Grand Bell of the Old Heldon Cathedral has
+                                                            2.1a: Old Cathedral (GM Label).
+crashed to the ground upon the completion of the fifth
+                                                              A1. A gigantic hole has appeared, the floor
+and final ritual murder, shaking the very earth and
+                                                            collapsing into an utterly dark and seemingly
+splitting the night with a terrible clamorous roar.
+                                                            bottomless pit. The Jailer crawled out of this pit
+   The players should rush to the Cathedral at this
+                                                            immediately before the confrontation.
+point. As they run, they encounter Aquilon and
+                                                              A2. Near the pit, a collapsed section of the wall
+several soldiers heading that way as well. Aquilon
+                                                            leads to a small walled garden. The wall has been
+fires off orders as he runs with the party, sending
+                                                            collapsing for ages, and dirt and creeping vines have
+various squads of his soldiers in all directions,
+                                                            already begun to spread into the cathedral. Dozens of
+diverging around the town to seize control of all areas
+                                                            footprints in the dirt lead into the garden and to a
+and scout for any dangers.
+                                                            small stairwell that descends down into darkness.
+   Aquilon should additionally call for the Durand, a
+                                                            This stairwell will be used to reach the next part of the
+giant, ballista-carrying wagon, to be sent to the
+                                                            adventure, after the Jailer is defeated for the first time.
+Cathedral immediately.
+                                                                                                                     28
+  A3. The front entrance archway to the cathedral lies
+in ruins and is blocked by several feet of rubble and
+debris. The powerful ballista-carrying wagon known
+as the Durand is unable to pass through this area and
+into the cathedral, so its line of sight is limited to the
+area described in A4.
+  A4. An extravagantly colored circle of tiled ground
+has been built into the center of the cathedral. It lies in
+the middle of the nave, in view from the front entrance
+mentioned in A3. As long as the Jailer is standing
+partially within this area at the start
+of the Durand’s turn in combat,
+the Durand will be able to attack
+the monster in that round.
+  A5. The giant bell has fallen
+to the ground, filling the area with rubble,
+slabs of stone, shattered timbers, broken
+glass, and the gigantic brass bell, now split
+in two from the fall. This area is impassable.
+
+
+
+
+Running this Encounter
+
+Initiative. Both the Jailer and the Durand will roll
+initiative and be part of the fight. No other characters
+in the Penitent Crusade will participate in the fight, but
+Aquilon may be heard shouting orders to his men,
+and to the players, if they need to be reminded to
+draw the Jailer into the tiled circle area noted in A4.
+
+The Aspect of the Jailer will take damage from the
+Durand’s Ballista for each turn that is standing within
+the tiled circle at the start of the Durand’s turn. Each
+time this condition is met, the Durand will
+automatically deal 45 damage to the Jailer.
+
+The Cathedral is not considered the monster’s lair,
+so it will not have access to any Lair Actions during
+this fight.
+
+Ending the Fight. When the Jailer is reduced to 0
+health, it will not die. Instead, it will retreat, trudging
+back to the gigantic hole noted at A1, and crawl into
+the deep caverns below the cathedral.
+  Aquilon will send the players to follow the monster
+while staying back to organize his men, saying they
+will attempt to clear the rubble and will follow shortly
+with more firepower.
+
+
+
+
+                                                              29
+Old Heldon Cathedral Battle
+Map
+ Map 2.1a: Old Cathedral (Label)
+
+
+
+
+                                   30
+                                                           ground make it appear as if many heavy objects have
+
+The Descent                                                recently been pulled through this tunnel entrance.
+                                                             B7. A third tunnel entrance with a stairway of stone
+In the next stage of this scenario, the players will       descends immediately downwards. This tunnel is lit
+descend deep into a series of caverns below the            with a fresh torch as was the tunnel described in B5.
+cathedral before reaching the final stage of their fight   Faint chanting echoes up through this tunnel
+with the Jailer. The descent takes place over three        entrance.
+areas named Descending Path 1, Caverns Level 1,
+and Descending Path 2. The final fight will take place     Cultist Encounter
+over one additional area named Caverns Level 2.            When players enter Caverns Level 1, if Abbot
+These areas are depicted in Map 2.2a: Underground          Mercereau lives, he reveals himself as the cult leader.
+Caverns (Label).                                           Use this opportunity to give the Abbot one last
+                                                           monologue before his inevitable death. You can read
+Descending Path 1                                          this script or make your own:
+The downward stairwell in the walled cathedral
+garden circles for 80 ft., taking several minutes to
+                                                            Coming into the wide cavernous circle, you see a
+descend.                                                    light at the far end and spy a set of stairs
+   B1. The descending stair opens into a thin tunnel of     descending further into the depths. Several robed
+a sloping cavern. The passage is lit by sparse torches      cultists emerge, barring the way. One step
+along the walls.                                            forward, removing his hood and revealing himself
+   B2. The party first comes to a rickety wooden            to be Abbot Mercereau.
+bridge spanning a sheer drop into blackness. As each
+player crosses the bridge, the bridge will sway and           “It is done! There is nothing more you can
+they must pass a DC15 Dexterity saving throw. If            do, for he is here, and he shall subsume this
+they fail, they lose their balance and stumble and          corroding world, and from its ashes shall
+                                                            arise a new one, and we shall be the ones to
+must then make a DC15 Constitution saving throw. If
+                                                            lead its peoples into the light. Join me, for this
+they fail this second saving throw, they take 1d6           is the only way.”
+damage and sprain their ankle, reducing their
+movement speed by 5 ft. for the rest of the scenario
+unless they receive healing.                               Running the Encounter. Spawn these enemies from
+   B3. The passage comes to a sheer, 50 ft. drop.          the Welcome Pack and Cult of Flesh.
+Players can secure a rope at the top and descend
+safely. Scaling it up or down without a rope requires a    4x Cultist
+DC 10 Dexterity (Acrobatics) skill check for every 10      1x Cultist Demagogue
+ft. traveled. On a failure, the character falls the
+remaining way to the bottom and takes 1d6 damage            GM’s Discretion: Alternatively, you may spawn
+for every 10 ft. they fall.                                 any number of enemies from this faction, with
+   B4. The tunnel continues to descend downwards at         combined CR 6 or less.
+a gradual slope for an additional 80 ft, before opening
+into the Caverns Level 1.
+                                                            Torment: replace all enemies with the following.
+Caverns Level 1                                             Abbot Mercereau would be the Snatcherlord,
+                                                            transformed by his deity into a powerful fiendish
+This natural cavern is a large cavernous ring with a        being.
+giant pit in the center, descending even further down.
+Far below, several hundred feet, a faint eerie glow         1x Hunter
+resonates in the dark. Steady chanting in an ancient        2x Snatchers
+tongue can be heard, an archaic form of Lattrian that       1x Snatcherlord
+shares similar phonetics, but significantly different
+morphemes and grammar, to the point of being                Alternatively. Use the GM’s Discretion rule,
+unintelligible.                                             spawn enemies of combined CR 14 or less.
+   B5. The descending path opens into the Cavern
+Level 1. A fresh torch lights this passage.                Game Master’s Discretion (GM’s Discretion) is a
+   B6. An old mine track is visible at the mouth of this   rule used for combat encounters. The rule allows a
+tunnel entrance. The entrance is pitch black and           freeform use of models so that the GM can recycle
+silent. On the ground, many scrapes and ruts in the        models and tailor the experience to the table’s needs.
+                                                                                                                 31
+                                                           cult used the collapse to trap many of the miners in
+                                                           the tunnels, and then captured them, killing them and
+ GM’s Discretion: Whenever an event calls for
+                                                           throwing their bodies into the Hekatomb to power the
+ enemies to be spawned by GM’s Discretion, it will
+                                                           Jailer’s physical manifestation. Additionally, they
+ suggest a Challenge Rating (CR) as well. The
+                                                           counted on the Menhir Stone to provide the
+ Game Master should spawn enemies with a                   necessary magical energy to power such a
+ combined CR rating close to that number.                  demanding ritual.
+    Additionally, the GM should consider how
+ difficult the party is finding the various enemy             B11. The descending path opens into the Cavern
+ encounters, which enemies they have recently              Level 2. The level is lit only by an eerie magical glow
+ faced, and which models have been freed up to put         emanating from B15.
+ onto the table.                                              B12. A pitch dark tunnel entrance with splatters and
+   If the GM has access to additional models from          trails of blood coming from it.
+ other releases involving the same faction that the           B13. A pitch dark tunnel entrance with splatters and
+ current scenario is exploring, the GM may bring           trails of blood coming from it.
+ in those other models as well.                               B14. A pitch dark tunnel entrance with splatters and
+                                                           trails of blood coming from it.
+                                                              B15. The Hekatomb, a magically-imbued ritual
+Descending Path 2                                          circle used in the summoning of the Jailer. It consists
+A second tunnel descends in a slow spiral downwards        of a ringed wall of large stones carved with ancient
+an additional 150 ft.                                      runes. Within the ring, a pool of blood and corpses
+  B8. The short stairway from the circular cavern          festers. An eerie magical glow emanates from the
+opens to a thin tunnel which spirals slowly                blood that has been pooled in the Hekatomb and
+downwards. Sparse torches continue to light the walls      spilled throughout the cavern, soaking into the dark
+here and there.                                            earth.
+  B9. the path rises above a second path. If the party
+continues straight, the tunnel curves around a corner      The Battle
+into the darkness. They may additionally jump down         When players enter Caverns Level 2, the Jailer is
+to the lower path.                                         writhing about in pain, inside of the Hekatomb at point
+  If they jump, they will land on a spike trap covered     B15. He has taken significant damage from his
+by wooden planks, taking 1d6 damage. If they take          injuries, but the Hekatomb has been healing him as
+the time to first go around, they will see the trap and    the party slowly descended through the cave
+be able to avoid it.                                       systems..
+  B10. The tunnel continues to descend downwards
+at a gradual slope for the remaining 150 ft, before        The Aspect of the Jailer begins with its total health
+opening into the Caverns Level 2.                          at 90% due to his earlier injuries. Additionally,
+                                                           subtract 5% health for each cult member that the
+Jailer Encounter - Stage 2                                 party correctly identified and killed before the ritual
+As the party descends to the final level of the            was completed. Without those members of the cult,
+subterranean caves, they will encounter the Aspect of      the Jailer lost support he would otherwise have had,
+the Jailer one last time.                                  and therefore is not quite as powerful.
+
+
+Caverns Level 2                                            The lowest health the Jailer should be reduced to for
+                                                           all effects combined, should be 75% of his maximum
+This natural cavern is a large room, its ceiling rising
+                                                           health.
+all the way up to the cathedral, but it is so deep that
+the area above is completely dark. At the center of
+                                                           Cultists. During this fight, the cultists are deranged
+this cavern is the Hekatomb, a ritual structure used in
+                                                           fanatics, believing they will be granted incredible
+the summoning of the Jailer, which has the power to
+                                                           power if they throw themselves into the bloody pulp
+grant the monster several advantages in combat.
+                                                           swirling in the Hekatomb. For the vast majority this
+While on this map, the Jailer is considered to be in its
+                                                           ends in a grisly death, but for a few it ends in a
+Lair and will have access to its Lair abilities.
+                                                           strange metamorphosis into a demonic being,
+   The cultists have been carrying out additional
+                                                           physically merged with the energies of the Prison
+sacrifices in this location. The cult orchestrated the
+                                                           Realm. Review the Aspect of the Jailer’s monster
+cave-in of the Dragon’s Eye Mine after the miners dug
+                                                           statblock to understand how the cultists will be
+into their tunnel system. Seizing the opportunity, the
+                                                           created and sacrificed during this encounter.
+                                                                                                                    32
+Ending the Fight. When the Jailer is reduced to 0
+health, this time his corporeal body will explode in a
+shower of viscera, and his incorporeal form will be
+sent back to the Prison Realm. The body will fade into
+nothingness along with the eerie glow from the
+Hekatomb. Players may look around for loot in the
+surrounding area, rolling once on the Treasure Hoard:
+Challenge 5-10 table (DMG, p.136-137).
+
+Resting. Additionally, after the fight completes, you
+should allow the players time to take a brief short rest.
+They may need their health back for the final twist of
+the scenario.
+
+Escaping. Tunnels B12, B13, and B14 all lead into
+an endless dark maze, so the players should return to
+Caverns Level 1, by going back to B11. Once they
+return to Caverns Level 1, they will begin Act 3 of this
+adventure.
+
+
+
+
+                                                            33
+Underground Caverns Map
+Map 2.2a: Underground Caverns (Label)
+
+
+
+
+                                        34
+ACT 3 - THE SECRETS WE
+KEEP
+                                                               the Abbot’s involvement in this affair. For
+          ertain Secrets must be kept at all costs.
+
+ C
+                                                               such truths may never leave the Church. Truly
+          The Church of Azerai closely guards many             unfortunate, for I might have benefited from
+          such secrets, especially those which may             your capabilities in the future.
+          indicate the falsity, weakness, or fallibility of      Yet I am bound by the immutable codes of
+their holy doctrine. After the party learns of Abbot           the Penitent Crusade, which compel me to
+Mercereau’s involvement with the cult, that such an            ensure such matters of fact are kept in silence
+esteemed member of the Church had overseen an                  for perpetuity.
+extensive network of cultists and operated without the           Farewell, and may whatever gods you
+Church knowing for decades, Repentor Primus                    believe in be with you, at your end.”
+Aquilon will be bound by regulation to kill them to
+                                                               And with that, the Primus turns his back on you,
+ensure their silence.
+                                                               heading up through the cavern tunnels. The
+                                                               soldiers form together into a line, drawing their
+Aquilon’s Farewell                                             weapons, preparing for the fight.
+
+Short Rest. After the party finishes the fight with the
+Aspect of the Jailer, allow them a short rest. They           Escaping the Caves. For the rest of the scenario, the
+will need as much of their health and resources back          Penitent Crusade soldiers will be hostile towards the
+for the final twist of the scenario.                          players. They will have to attempt to escape from the
+                                                              caverns, which they can do in one of two ways.
+If the party had not deduced that Abbot Mercereau               First, they can travel back to Caverns Level 1 and
+was the mastermind behind the cult before the ritual          exit through the old mine tunnel which will lead them
+completed, Aquilon will make the deduction himself,           to a hidden cave entrance in the cliffs above New
+but kept this information hidden from the party in            Heldon.
+order to first verify the theory and the necessity to kill      Second, they can fight their way through the
+the players.                                                  powerful masses of the Crusade, back up through the
+   Additionally, Aquilon wanted to see if the players         cathedral. However, this course of action will likely
+and the Jailer would weaken or kill each other,               lead to near certain defeat.
+making his objectives easier in any result of the fight.
+Aquilong and his men will descend to the players for a        Party Wipes. Do what you can to subtly suggest that
+final dialogue.                                               the players look for an alternate way out of the caves.
+                                                              The scenario will place increasingly challenging
+When the party is rested, read this script:                   waves of enemies in their path to the Cathedral, so
+                                                              they should be considering other options. But if they
+ As you sit around tending to your wounds,                    have forgotten about the mine entrance in Caverns
+ exhausted from the ordeals you have faced, you               Level 1, they may not realize another path exists. Do
+ hear several sets of disciplined marching footsteps
+                                                              what you can to remind them of this tunnel at B6 with
+ descending down the tunnel stairs to your
+ location.                                                    the old mine track.
+    Several soldiers of the Penitent Crusade enter              If players insist on pushing on against the Crusade
+ the cavern carrying torches that light up the rocky          and should fall in their attempt to escape, let them fall
+ subterranean walls. Repentor Primus Aquilon                  unconscious instead of dying. If they were not able to
+ follows behind them, dressed in full battle regalia          reach the Cathedral, the Penitent Crusade will
+ and trailing a heavy cloak behind him.                       collapse the tunnel entrance to the Cathedral stairs,
+    This time, Aquilon’s face, like the many stoic            so the players will be forced to back down to the
+ soldiers of the Crusade that he commands, is                 caverns to find another escape like the mine shaft
+ masked behind an emotional black visage, though              tunnel.
+ you see his hawkish steel-blue eyes glint in the
+                                                                However, if the party made it all the way back to the
+ flickering firelight.
+                                                              Cathedral, let them fall unconscious and return badly
+    He looks to you for a moment in silence, as if
+ considering a train of thought. Then, he speaks in a         wounded, but still breathing, several hours later.
+ decisive, commanding tone.
+
+   “It is unfortunate that you have uncovered
+
+                                                                                                                    35
+Crusade Encounter 1:                                     The following two sections are the two possible
+For this encounter, continue to use the Caverns Level    outcomes of this scenario:
+2 map where the party was resting. Spawn the
+following enemies.                                       Ending 1 - The Cathedral
+                                                         If the party does make it back to the Cathedral, they
+3x Locusts
+                                                         will be faced with an incredibly challenging final
+1x Deliverer
+                                                         confrontation with the Penitent Crusade. They are not
+1x Supplicator
+                                                         likely to win this fight. The Crusade is the most
+                                                         powerful army of man, and the players will not find it
+ GM’s Discretion: alternatively, spawn any               easy to challenge them.
+ number of enemies from this faction, with a
+ combined CR 12 or less.                                 Crusade Encounter 3:
+                                                         For this encounter, set up the Penitent Crusade
+ Torment: Add the following enemies.                     soldiers around the Cathedral in a formation that
+                                                         suggests they have been waiting and preparing for
+                                                         the players.
+ 1x Repentor or Bulwark
+                                                           Heavier and tankier characters will be in the front
+ GM’s Discretion: alternatively, spawn any               and shield the weaker units or spellcasters in the
+ number of enemies from this faction, with a             back.
+ combined CR 18 or less.                                   This fight can be set up either designed around the
+                                                         Repentor Primus for a mostly physical fight, or around
+                                                         the Atoner for spell-heavy combat.
+Crusade Encounter 2:
+When the party arrives back at Caverns Level 1 from      If you are using the Repentor Primus as the final
+the stairway at B7, spawn the following enemies at       commander, spawn the following enemies:
+the upward stairwell, B5.
+                                                         1x Repentor Primus
+1x Repentor                                              1x Supplicators
+2x Deliverer                                             2x Deliverers
+
+
+ GM’s Discretion: alternatively, spawn any               If you are using the Atoner as the final commander,
+ number of enemies from this faction, with a             spawn the following enemies:
+ combined CR 12 or less.
+                                                         1x Atoner
+                                                         1x Locusts
+ Torment: Add the following enemies.                     2x Supplicator
+ 1x Bulwark
+ 1x Deliverer
+                                                          Torment: Add the Repentor Primus, or the
+ GM’s Discretion: alternatively, spawn any                Atoner (whichever one you have not added
+ number of enemies from this faction, with a              already).
+ combined CR 18 or less.
+                                                         As stated, this fight will be very difficult for most
+If the players are reduced to 0 Health during any of     parties to handle. If the players are defeated here,
+these encounters, they will not die. Instead, they are   then they fall unconscious and return hours later, very
+knocked unconscious and wake up an hour later.           badly wounded.
+   However, the soldiers will have collapsed the
+entrance to the caves at B1 so the players cannot
+leave back up to the Cathedral.
+
+If the players defeat the soldiers, they may make it
+back to the Cathedral through the tunnel entrance at     Ending 2 - The Mines
+B5.                                                      If the party goes in the correct direction to explore the
+                                                         tunnel leading towards the mines, they will find the
+
+                                                                                                                36
+area to be unlit and need a light source of their own.
+They can make their own or take any of the torches
+from the Caverns or Descending Paths.
+   Following the tunnel will lead them through a
+winding path for an hour, after which they will come to
+a hidden and long-forgotten mine entrance on the
+middle cliffs of New Heldon.
+
+
+
+
+                                                          37
+EPILOGUE
+                                                           they march into the distance, heading into the
+            s the Players come to the end of this
+
+ A          scenario, their are two primary ways to
+            finish the story.
+                                                           horizon in disciplined rows and columns like a
+                                                           swarm of black ants.
+                                                             You reflect for a moment on your experiences..
+
+
+                                                          This will conclude the narrative structure of the
+Exit from the Cathedral                                   campaign. The players can find a way down the
+If the players were defeated in the Cathedral, read the   mountainside and back to New Heldon. It is a natural
+following script:                                         slope that has not been scaled in many untold years,
+                                                          but it is only moderately sleep, so they can scale
+ You come to, badly battered, buised, and bleeding,       down in a few hours without having to conduct any
+ lying in the dust and rubble of the crumbling Old        skill checks.
+ Heldon Cathedral. Painfully, you stumble up onto
+ your feet, cautiously looking around for any more
+ soldiers, but the great empty halls are now quiet.
+   You carry yourself out to the cliff sides
+ overlooking New Heldon. The town is quiet and
+ commoners mill about as normal, as if unaware of
+ how perilously close they had come to being
+ consumed by the Tormentor Cult.
+   You groan in pain from your injuries, but
+ prepare yourself for the slow and winding descent
+ back down into civilization.
+
+
+If they actually won the fight, you can describe your
+own ending.
+
+
+Exit from the Mine
+If the players use the mine caves, read the following
+narrative script to end the adventure:
+ The old mine tunnel continues on, winding about
+ as it ponders through the earth. In some areas it
+ drops, and in others it rises sharply, forcing you to
+ exert yourself as you scamper up long unstable
+ embankments. You’re not sure anymore whether
+ you’ve been traveling up or down from the cultist
+ caverns.
+    After what feels like hours you round a bend in
+ the tunnel and are suddenly greeted with a distant
+ but unmistakable light. Though dim, a ray of sun
+ pierces the depths and lights your way, giving you
+ the strength to make a final push forward.
+    As you hasten your pace towards it, the light
+ grows steadily brighter, filling the tunnel with
+ radiance until you come at last to an old, but
+ sturdy mineshaft entrance. Relief washes over you
+ as you step back into the world above those
+ subterranean depths. You find yourself on a small
+ cliffside overlooking New Heldon from the
+ northwest. Gazing out upon the town, you watch
+ the village folk milling about as normal, as if
+ unaware of how perilously close they had come to
+ being consumed by the Tormentor Cult.
+    Further out at the edge of the town, you see the
+ organized formations of the Penitent Crusade as
+
+                                                                                                              38
+APPENDIX A:
+FACTION OVERVIEW
+   ONE FUNDAMENTAL TENET of the Azerai Church is that of repentance, that at its core, mankind is a sinful
+ breed and must make recompense for the evil in their hearts. It is only through repentance that the realm overcomes
+ its rot. Further, life in Doaden is not conducive to the tender soul. One must be quietly complicit in myriad sins to
+ have the luxury to believe with any confidence that they have not directly committed some evil or another.
+    While I do not share the Church’s belief that it is repentance that will deliver mankind from this wasting sickness,
+ I can see the hope it offers to the common folk. Misguided though it may be, the Azerai Church at least offers the
+ poor folk of the realm a reason for their suffering, and most importantly, a means of personal deliverance.
+    The Penitent Crusade is a sum distillation of this sad credo. Those so broken and trapped by the inexorable grind
+ of life in Doaden join the ranks expecting a simpler, more transactional relationship with their eternal souls.
+ Reducing the sacred texts and sermons of the Order of Atoners to their component parts, you can see the cold and
+ simple mathematics of the Penitent Crusade’s Path of Redemption. Commit less evil deeds than good, and therein
+ you find salvation for your eternal soul.
+    Like so much I witness in mankind’s twilight, the sheer tragedy of the Penitent Crusade would be too much for
+ me to bear, were it not for the terrible deeds I have witnessed them commit in the name of ‘Salvation’. Villages
+ burnt to cinders, innocent folk sentenced to slow, painful deaths and perhaps worst of all, the belief that brute
+ violence and zealous adherence will save Doaden from its wasting death.
+
+
+                                                                      Dreyen Solius, Journal of the World’s Ending.
+
+
+
+
+ T         he Penitent Crusade is a military
+           organization dedicated to combating the
+           many beasts, cults, and other nightmarish
+                                                                        Each soldier in the Crusade wears an austere and
+                                                                      expressionless mask which covers their face, hiding
+terrors that threaten to consume the kingdom. Though                  their thoughts and expressions from the peoples of
+serving a righteous purpose, the Crusade often                        the realm. Such dehumanizing measures are
+employs extreme and callous tactics to accomplish its                 implemented to ensure a complete separation from
+objectives, concerned primarily with the uprooting of                 the civilians of the realm, ensuring the soldiers are
+evil, and less with the wellbeing of the civilians they               able to execute any order demanded of them.
+encounter, who they view with a general indifference.                    Additionally, often trusted with compromising or
+   The Crusade is organized by the Order of Atoners,                  classified information, lower soldiers of the Crusade
+a branch of the Church of Azerai dedicated to the                     are bound to silence, prohibiting communication
+weighing of sin. The Crusade draws in those tortured                  outside of their ranks under penalty of death. As such,
+souls seeking redemption for past deeds and                           most civilians are greeted only with an eerie and stoic
+conscripts heavily from the ranks of the most                         silence when interacting with the Crusade.
+irredeemable criminals, perpetrators of horrendous
+deeds; thugs and murderers who have shown an                           The people of the realm are understandably
+aptitude for combat or a penchant for violence. In                    ambivalent about the Crusade, regarding them with
+exchange for absolving their sins and a chance to                     equal parts gratitude and trepidation. For though the
+return to a free life, such criminals are sentenced to                whims of the Crusade may seem capricious,
+years in service to the Crusade proportionate to the                  horrendous death at their hands is still an uncertainty,
+weight of their sins.                                                 while a horrendous death at the hands of the many
+   During their sentences, these soldiers are subjected               dark infestations of the realm is, in fact, a certainty.
+to the darkest horrors known to life in Doaden and
+frequently ordered to execute atrocities on their once-
+fellow civilians. Over time, these soldiers become
+irreparably scarred, often losing what little humanity
+they had left.
+
+
+
+
+                                                                                                                           39
+APPENDIX B:
+GAMEPLAY RESOURCES
+
+Player Letter
+This letter from Repentor Primus Aquilon is provided to the players by Pavel the Scribe while in the Hagmeat
+Tavern.
+
+
+
+
+                                         Servants of the Light,
+
+                                         Words of your deeds have been recorded within your local
+                                       jurisdiction. Under the highest authority of the Church of Azerai,
+                                       your expertise is demanded by the Penitent Crusade in regard to
+                                       certain ongoing confidential matters.
+                                         You are required to report to the location specified at the end of
+                                       this letter forthwith. Failure to appear shall result in potential
+                                       punishment including, but not limited to fine, confinement,
+                                       torture or execution. You shall each be compensated for your
+                                       efforts in an amount specified at the end of this letter.
+
+    Pre-authorized punishments include, but are not limited to, the confiscation of all coin, jewelry,
+  livestock, or other material wealth, up to but not exceeding one-hundred percent; and the stipping of
+  all title and land without option of redemption, in perpetuity, imprisonment of up life, solitary
+  confinement, or the relinquishment of bodily rights for use in religious and scientific experimentation
+  as authorized and administered by the Church, the lashing of flesh, crushing of bones, removal of
+  limbs or any other method of generating agony less than death, or execution by burning, drowning,
+  feeding to rats, flaying, beheading, hanging or nailing.
+
+    Prior to such punishments, you shall be accorded the rights to expedited trial under Church and
+  Military proceeding, at which time any exigent circumstances which may excuse, justify, or
+  exculpate your failure to follow the dictates of this letter may be taken into account if such court
+  elects to consider them.
+
+    Location to Report: Town Hall of New Heldon
+    Award: 20 gold coins upon assignment, plus 80 gold coins upon completion
+
+    Signed:
+    Repentor Primus Aquilon
+
+
+
+
+                                                                                                               40
+Quick-View Table
+Name & Title    Location       Overview
+
+Alain,          Old Garden     Undead agent of the Penitent Crusade, working as interrogator for Repentor Primus
+Interrogator    Ruins          Aquilon. Players can visit Alain and report a suspect’s name to him. Alain will extract
+                               any secrets they are hiding, killing them in the process. The next time players visit
+                               him after two hours, he will tell them any secrets he learned.
+
+                               Special rule for clergy interrogations: Players should be with Alain, to ask the
+                               questions as he tortures them.
+
+Aquilon,        Town Hall      Commander of the Penitent Crusade. Players must report to him at the end of each
+Repentor                       day.
+Primus
+
+Bjorq,          Weaponsmith    Owner of the weaponsmith shop where the second murder happened. His
+Weaponsmith     Shop           apprentice, Rost, was the second murder victim. Bjorq is the only person in town
+                               who is practiced in whitesmithing. He will know that the silver necklace belongs to
+                               Hyle the Monk, and that the silver-handled dagger belongs to Gorab the
+                               Stonemason Guild Master.
+
+Dolan,          Dragon’s Eye   Mentally troubled survivor of the mining tunnel collapse. Thinks he can hear voices
+Survivor        Mine           in the caves.
+
+Gorab,          Hagmeat        Drunk very often, breaking under the pressure following the collapse in the Dragon’s
+Stonemason      Tavern         Eye Mine. He agreed to go along with Captain Lander’s plan to hide the first murder.
+Guild Master                   He does not know that Niles the Apprentice is having a secret love interest with his
+                               daughter, Alonde.
+
+Hyle, Monk      Monastery      Cultist. Victim 1 broke his necklace, dropping a silver bead on the scene. Hyle gave
+                               necklace Bjorq for repairs.
+
+                               Hyle does not break easily. If he does break, he will attempt to deceive, say the
+                               leader is someone like Gorab, Lander, or Bjorq.
+
+Lander,         Barracks       Incompetent leader. Tried to cover up the first murders to maintain order. Now,
+Captain of                     Aquilon blames him for ruining the investigation. He does not like to feel
+Guard                          emasculated, will be defiant and upset if made to feel incompetent, and will be very
+                               forthcoming if his vanity is appeased.
+
+Mercereau,      Cathedral/Mo   Cult Leader. Pretends to be a benevolent old caretaker of New Heldon. He burned
+Abbot           nastery        the first 2 bodies to hide evidence. Sent letter recruiting the Crusade to cover his
+                               tracks, and only after the murders were public already.
+
+Niles,          Stonemasons    Cleaned the blood of Victim 1, but did not see the body. Having a secret relationship
+Stonemason      Guild Hall     with Gorab the Stonemason Guild Master’s daughter. Was having a tryst at the
+Apprentice                     location of the first murder a few hours before it happened. Will lie about it to make
+                               sure no one finds out about his relationship.
+
+Pavel, Scribe   Town Hall/     Cultist. Young and Naive. Acts timid and clumsy. Arm was cut by a dagger during
+                Monastery      the third sacrifice. He will lie and say it was from a pen. Breaks easily and is
+                               remorseful, but will lie and say the cultist is someone other than Mercereau.
+
+
+
+
+                                                                                                                   41
+New Heldon (Player Map)
+Map 1.1b: New Heldon
+
+
+
+
+                          42
+The Old Heldon Cathedral (Grid)
+Map 2.1b: Old Cathedral
+
+
+
+
+                                  43
+The Old Heldon Cathedral (No Grid)
+Map 2.1c: Old Cathedral
+
+
+
+
+                                     44
+Underground Caverns (Grid)
+Map 2.2b: Underground Caverns
+
+
+
+
+                                45
+Underground Caverns (No Grid)
+Map 2.2c: Underground Caverns
+
+
+
+
+                                46
+Appendix C: Bestiary
+
+
+
+
+Atoner
+  The Atoner leads the Penitent Crusade in
+service of the Azerai Church, they stand as the
+Church's direct representatives, close but
+separate from the ranks of the Crusade's fighting
+orders. It is theirs to ensure that the Crusade
+continues on the most correct and righteous
+heading, and to keep tally of the Path to
+Redemption.
+  The Atoner holds record of all the sins
+committed by the ranks of the Crusade, long past
+and more recent. They mark well each Crusaders
+progress on the path to redemption, which all
+soon understand is without end. It is telling of
+the dogmatic charisma possessed by the Atoners
+that the ranks of the Penitent Crusade do not
+break and turn upon themselves or flee before
+the horrors they face on the Path.
+  Even as one of the Cloth, the Atoner is still a
+formidable warrior in their own right. Riding
+atop a great War Steed, they join the ranks of the
+Crusade in battle, marking bone-breaking blows
+with their warstaff while channelling Azerai
+Rites to endow the soldiery with an unbecoming
+degree of confidence and vigour.
+
+
+
+
+                                                     47
+Penitent Bulwark
+  The Penitent Bulwarks are the mobile
+fortification of the Crusade. Warriors of
+Prodigious size and strength, each has
+sworn an oath to never drop their great
+pavise-shields.
+  Standing ever-ready, it is the Penitent
+Bulwarks who must weather the brunt of
+the blows laden up on the Crusade. They
+take these strikes with stoicism, knowing
+that only by remaining firm will they find
+solace.
+  So great is their commitment to the
+oath, the ranks of the Bulwark sleep
+standing, leaning against their shields to
+catch a few moments of rest within their
+never ending defensive vigil.
+
+
+
+
+                                             48
+Deliverers
+  The Deliverers are consummately
+skilled in the arts of the subtle strike.
+Carrying intricate crossbows and
+blades they dispense the Church's Will
+with graceful poise. Their fighting-
+order is often drawn from captured
+Cutthroats or Assassins who would
+otherwise languish and starve within
+the dungeons of whatever petty noble
+they had failed to slay.
+  Instead, they walk with the Penitent
+Crusade, in search of death or
+redemption for their failures. When
+the hunt is engaged, they operate on
+the strikes with their cruel blades, or
+making carefully placed shots at weak
+points within a beast's hide with their
+exotic and complex crossbows.
+
+
+
+
+                                      49
+Irredeemed
+  The Irredeemed serve as the
+rank and file of the Penitent
+Crusade, petty criminals,
+blasphemers and the simply
+unlucky, the Irredeemed are
+drafted into the ranks of the
+Crusade from the stockades of
+whichever town it passes
+through.
+The Irredeemed are charged to
+fight and sacrifice themselves to
+achieve forgiveness for their
+misdeeds.
+  It is rare for the Irredeemed to
+last long on the path of
+redemption. In the complex and
+meticulous plans of the Primus,
+they often serve as chaff or
+distractions; drawing a beast's
+ire and providing the more
+skilled warriors an opportunity
+to strike a killing blow.
+
+
+
+
+                                     50
+Repentant
+  The Repentant are deadly warriors,
+armed with mighty two handed blades.
+Considered the pinnacle of the Penitent
+Crusade's fighting orders, each is easily
+worth ten men.
+  Forming the core of the Crusade's
+offensive strike, the Repentant break forth
+from behind the Bulwarks, into their own
+loose fighting formation. Each warrior
+fights near alone, allowing space for their
+blades to cleave great arcs in the ranks of
+the foe.
+  To have served so long within the ranks
+of the Penitent Crusade is to accrue a
+great burden of guilt and shame for deeds
+done in service of the Church. These
+Warriors know with certainty their
+redemption shall never be claimed, and
+with this knowledge they fight with
+reckless abandon, knowing that only in
+death will they find peace.
+
+
+
+
+                                              51
+Repentor Primus
+  Commanding the Penitent Crusade is the
+Repentor Primus, the martial leader of the host.
+Cold and ruthless, he is the backhanded slap that
+drives the soldiery ever forwards, should their
+conviction show signs of waning.
+  The Repentor Primus can be elevated from any
+of the Crusade's fighting orders, but they are
+most often from the Repentors, for their resolute
+and fatalistic nature makes them a good
+character fit for the role of Primus, given that
+they must commit many of the Crusade's ranks
+to death the maelstrom of battle.
+  Serving at the behest of the Church, the
+Repentor Primus is afforded some degree of
+autonomy in the application of the Church's
+orders, a sure sign of the trust placed in these
+Warriors holy conviction. By nature of their
+roles, the Repentor Primus is placed at odds
+with the Crusade's resident Atoner, whose more
+lofty, spiritual concerns often run
+contrary to tactical wisdom.
+
+
+
+
+                                                    52
+Supplicators
+  Should an Irredeemed show a
+remarkable degree of skill, or
+survivability, they will rise in the
+ranks of the Penitent Crusade.
+Bequeathed with better armour and
+more ornate weaponry, they are
+granted the rank of Supplicator.
+While the great lie of the Penitent
+Crusade is that none may find
+salvation in its ranks, the Atoner
+nonetheless shall offer some
+forgiveness during the Supplicators
+elevation, their long list of sins is
+read aloud and forgiven, only to be
+followed by the Atoner reading a
+yet longer list of misdeeds
+committed by the individual during
+their time in the Irredeemed. It is
+through this ritual that the
+Supplicator truly understands they
+shall never be freed from their Holy
+Duty, and shall remain in the ranks
+til their ultimate demise.
+
+
+
+
+                                        53
+The Durand                                          momentum, the drivers will take the wagon in
+                                                    wide sweeping arcs around their quarry, while
+  To support the Penitent Crusade the Azerai
+                                                    the Ballista operators carefully pick their fatal
+Church procures all manner of exotic and
+                                                    shot.
+esoteric weapons from Smith and Machinist, but
+                                                      The Ballista Wagon was developed by Xephan
+none are more capable of such precise
+                                                    Durand, the Allsteiner Exile, during his tenure at
+destruction than the Great Ballistae.
+                                                    the Holy Smithy. Though he lacked the exotic
+  Mounted atop a great carriage pulled by four
+                                                    reagents to provide the motive force common to
+enormous shire horses, a Ballista is a
+                                                    Allstein's most wonderous inventions, his
+surprisingly mobile threat, though none would
+                                                    intricate skill with gear and cog still mark the
+call it agile. Lashing the horses into a frenzied
+                                                    war machine out as a singular marvel.
+
+
+
+
+                                                                                                   54
+Cultist
+  All manner of Cultists and Dark
+Adherents exist across Doaden,
+worshiping a variety of dark creeds and
+entities beyond the ken of sane folk.
+  The followers of the Jailor are singularly
+vicious in furthering the goals of their
+interplanar master. Their singular goal is
+the capture and subjugation of their once-
+kin. Those captured are imprisoned in
+cages, brought forth only in times of foul
+ritual, the Cultists cut throats, impale and
+desecrate in the hopes of drawing their
+Prison Lord's attention or blessing.
+
+
+
+
+                                               55
+Cultist Demagogue
+  All manner of Cultists and Dark
+Adherents exist across Doaden,
+worshiping a variety of dark creeds and
+entities beyond the ken of sane folk.
+  The followers of the Jailor are
+singularly vicious in furthering the goals
+of their interplanar master. Their
+singular goal is the capture and
+subjugation of their once-kin. Those
+captured are imprisoned in cages,
+brought forth only in times of foul ritual,
+the Cultists cut throats, impale and
+desecrate in the hopes of drawing their
+Prison Lord's attention or blessing.
+
+
+
+
+                                              56
+Aspect of the Jailer
+                                                        That is not to say these Aspects are without
+  The lord of the Prison Realm is without shape
+                                                      power, indeed they are blessed with prodigious
+or form, a force of sheer extraplanar will, bent
+                                                      strength and corrupting influence, capable of
+entirely on the subjugation of mortal souls.
+                                                      dealing unprecedented destruction before being
+  When the Jailor Cults reach their zenith, and
+                                                      inevitably hurled back to the Prison Realm to be
+succeed in creating a rift between Doaden and
+                                                      reabsorbed by their parent-entity.
+the Prison Realm; what comes through the portal
+is not the Jailor itself, it is 'merely' an aspect.
+
+
+
+
+                                                                                                    57
+58
+

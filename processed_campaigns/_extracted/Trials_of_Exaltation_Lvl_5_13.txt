@@ -1,0 +1,1595 @@
+1
+    Trials of Exaltation
+       A 5e Compatible Adventure
+            For Levels 5 – 13
+
+
+
+
+2
+              World of Doaden
+
+          elcome to Doaden, the dark fantasy setting of tainted lands
+
+W           and twisted monsters, where an ever-creeping affliction
+                    corrodes the very essence of existence.
+
+   It is a world of decay and depravity where once-righteous men and
+heroes of the glorious purpose now struggle to survive as cults and dark
+   gods vie with one another to consume the last vestiges of humanity.
+
+  It is a world of death, trapped in the fading dusk of a fallen empire.
+  The heroes that wander these lands are no grand adventurers to be
+                      honored in songs of minstrels.
+
+ For the heavy deeds and decisions these wanderers undertake invariably
+ leave them disheartened, broken, nothing more than soulless husks and
+                 shadows of their once-glorious selves.
+
+ Yet as dark as Doaden may be, humanity clings to life with a stubborn
+           tenacity, a last flickering flame within the dark.
+
+  A last hurrah, a final war cry that shall echo in the black abyss of
+        eternity, a momentary victory before the endless night.
+
+
+
+
+                                                                           3
+                            Credits
+
+    Developed by:
+      Bestiarum Games
+
+    Lead Game Designer:
+      Alexander Dovermann
+
+    Game Designer:
+      Giovani C. Fiorini
+
+    Art & Graphic Design:
+      Marina Jukova
+      Alexander Dovermann
+      Katarina Popovici
+
+    Cartography:
+      Giovani C. Fiorini
+      Alexander Dovermann
+      Marina Jukova
+
+
+                                ON THE COVER:
+
+                                BALAZAR
+
+
+
+                                “
+                                   Balazar is a powerful and extremely intelligent demon
+                                prince.
+                                   He is wise in philosophy, history, science, religion, and
+                                many other fields.
+                                   He already knows what the party seeks as several
+                                crusaders have come before requesting the Cypher Tablet.
+                                To each he makes the same offer; if they entertain him, he
+                                will give the tablet.
+                                   However, none have passed his trials – a deadly test of
+                                the body, mind, and soul.
+
+
+
+
+                                                                                    ”
+4
+                                                                Contents
+
+
+World of Doaden. ......................................... 3                  Taking it Further......................................... 23
+Credits................................................................. 4     Balazar’s Lair................................................... 24
+Contents............................................................. 5        Bouffon’s Fate................................................... 24
+Foreword........................................................... 6         Appendix A: ..................................................... 25
+  Running The Adventure.................................... 6                 Monsters and NPCs........................................... 26
+Introduction.................................................... 7            Weak (Cr 1)......................................................... 28
+  Story Overview................................................... 7           Bouffon, Hunchback Jester............................ 28
+  Adventure Hook................................................. 7             Flayed Slave...................................................... 29
+  Adventure Summary........................................... 7              Normal (Cr 3)..................................................... 30
+  Akhamia................................................................ 7     Cabal Mage....................................................... 30
+  Ashurr, the City of Wonder............................. 8                     Exalted Archer................................................ 31
+  Regional Map...................................................... 9          Exalted Spear................................................... 32
+  Preparing the Party......................................... 11               Exalted Warrior............................................... 33
+  Known Information......................................... 11               Hard (CR 5)......................................................... 34
+  Possibly Known Information.......................... 11                       Gladiator Sentinel.......................................... 34
+  Beginning the Adventure............................... 11                     Gladiator Ravager............................................ 35
+The Mission..................................................... 11             Sanctified Warrior.......................................... 36
+  Roleplaying the servant.................................. 12                  Voice of Lords...................................................37
+  Roleplaying Balazar....................................... 12               Elite (Cr 7)...........................................................38
+  Encounter 1: Trial of Body........................... 12                      Cabal Assassin....................................................38
+ Map A: Balazar’s Court................................... 13                   General Atraxes................................................39
+  Running the Encounter.................................. 13                  Champion (Cr 10)................................................39
+  Encounter 2: Trial of Mind........................... 15                      Keeper of Keys...................................................40
+  Running the Encounter.................................. 15                    Keeper of Secrets..............................................41
+  Map B: The Observatorium............................... 17                    Lamashtu, Scion of Suffering.........................42
+  Encounter 3: Trial of Soul............................ 22                   Bosses (Cr 13/18).................................................44
+  Running this Encounter................................. 22                    Lord Bekhetur..................................................44
+  Traveling to Akhamia...................................... 23               Archon (Cr 25)....................................................46
+  Exploring Ashurr............................................ 23               Balazar, Lord of Excess..................................46
+
+
+                                                                                                                                                          5
+                                                         Foreword
+
+
+    W
+                 elcome to Bestiarum’s grimdark world setting of       at 1/10th the amount suggested in D&D manuals.
+                 Doaden. This land is fallen, a shattered domain       Narrative Scripts. Some passages are meant to be read
+                 where darkness threatens to consume the last          aloud or paraphrased. They build atmosphere or reveal key
+                 vestiges of humanity. The Holy Empire fights to       information to the adventuring party.
+    survive in an age of darkness, bereft of their God Emperor,
+    and beset on all sides by rabid beasts, dark cults, and powerful
+    demonic entities.                                                      Narrative Scripts are written in this format!
+
+
+    Running The Adventure                                              Special Rules. Some passages cover mechanics that should be
+    Bestiarum scenarios are easy to run and quick to prepare. They     used for the specific scenario or encounter.
+    generally last one long, or two short sessions. But if you’d
+    like to delve further into our dark world, look at the Taking It
+    Further and Bestiary sections for inspiration on creating your         Special Rules are written in this format the first time
+    own adventures. The horrors of Doaden are truly endless and            they are used, but they may be referenced more than
+    we hope your experience becomes as much your own as it is              once.
+    ours.
+
+    Party Size. Monthly scenarios are designed for party sizes of 4    References. References to materials in the 5e core rules and
+    to 6 players.                                                      Systems Reference Document are Italicized. References to
+                                                                       unique Bestiarum materials, such as items and monsters, are
+    Difficulty Modes. Monthly scenarios are made for player levels     written in Bold.
+    5 through 13. Each module has a scaling difficulty so your
+    group can enjoy adventures in any order. Difficulty modes are      Abbreviations. The following terms are abbreviated in
+    Normal, Torment, and Damnation, each corresponds to its            Bestiarum publications:
+    own level bracket. As your party levels up, advance them to           PC - Player Character
+    higher difficulty modes. You can also adjust monster health           NPC - Non-Playable Character
+    and damage if the encounters are too hard or easy for your            GM - Game Master
+    particular party.
+    The standard scenario text is for Normal Mode. For Torment
+    and Damnation Mode, see the following formats. Only use the        THERE IS LIGHT YET in Doaden, and though it may seldom
+    monsters listed for one specific mode, do not include monsters     come in the form of love or joy, it still shapes itself into a
+    listed from other modes.                                           semblance of honor, purpose, and redemption.
+    Normal = Party Levels 5 – 8.                                                        - Dreyen Solius, Journal of the World’s Ending.
+                      Torment = Party Levels 9 – 12.
+
+                      Damnation = Party Level 13.
+
+    Leveling. PCs gain levels by completing scenarios. From
+    levels 5 to 8, they gain one level for every 2 adventures. From
+    levels 9 to 13, they gain one level for every 3 adventures. The
+    maximum level is 13, but parties continue to acquire gear
+    and can enjoy the most challenging and dynamic encounters,
+    and exclusive content for Damnation Mode. If you include
+    your own adventures in between monthly scenarios, consider
+    leveling your party quicker.
+
+    Gold & Items. Civilization and Trade in Doaden have
+    crumbled. Only gold, silver, and copper are circulated, and only
+6
+                                                       Introduction
+
+
+T
+        o live is to suffer. To suffer is to live. One must accept   Adventure Summary
+        the tortures of this world if they are ever to find peace.
+        To surrender to anguish is to accept divine purpose.         This adventure begins as the party arrives at Balazar’s palace,
+        This is the path of true Enlightenment.                      finding magnificent sights of both pleasure and suffering,
+                                                                     bountiful feasts, and orgies amidst servants with flayed skin and
+These are the tenets of Enlightened Suffering. Seekers of this       mutilated courtesans. As the party enters the court, a hunchback
+path make the great pilgrimage, traveling across the globe           jester entertains the crowd, a good-hearted yet simpleminded
+to the arid sands of Akhamia, to seek Lord Balazar in his            fool is unwittingly mocked by the crows. Balazar listens to the
+court of courts, and beseech his blessing. Each seeker on the        party’s request and will agree to give them the item they seek,
+enlightened path seeks to fully surrender to their suffering, to     but challenges them to a game, a test of the body, mind, and
+delight in the divine torments of their existence. And to those      soul. If they can complete his test, the item will be theirs.
+who prove themselves worthy, Lord Balazar gives a gift like
+none other, a state of rapturous joy and agony. An elevation of      The adventure is broken down into three encounters, each is a
+the body, the mind, and the soul. The seeker’s skin is flayed so     specific test, of the body, mind, or soul. The test is grueling and
+that their raw flesh may seer in constant pain. Their minds are      designed to challenge the parties in each of those aspects, and
+subject to never-ending torments and regrets. Their very souls       to reveal their true nature in doing so.
+are torn apart so that they may be born anew in suffering.               Encounter 1. The first test is of the body. The party must
+                                                                     duel with several of Balazar’s favorite gladiators, to the death.
+                                                                     Only those strong of body will survive. As the dead fall, a
+Story Overview                                                       strange phenomenon occurs. Their blood and vital essence
+In this adventure, the party must visit Lord Balazar and acquire     are sucked into a mysterious golden globe that floats, rotating
+a relic held in his vast library of ancient artifacts and lost       slowly in the air at the center of the court.
+knowledge. Balazar is willing to part with it, but first demands         Encounter 2. After the party survives the gladiatorial
+entertainment for his own twisted pleasure. To gain his favor,       match, Balazar calls forth a strange demon, the Keeper of
+the party must endure a sadistic game; a test of the body, mind,     Secrets. The Keeper uses a crystal key to open a magic portal
+and soul, a taste of the path of enlightened suffering that he       in the golden orb. For their next challenge, the test of the mind,
+offers.                                                              the party must enter the portal, traveling to the Observatorium,
+                                                                     a dimension where ancient scholars once studied the galaxy.
+                                                                     Here, the party must solve a series of puzzles concerning
+Adventure Hook                                                       astronomy, alchemy, and religion.
+Bestiarum Campaign. If you are playing a structured                      Encounter 3. If the party succeeds, Balazar will have one
+campaign following the Game Master guide rules, the party            final test, the test of soul. This challenge is simple. Balazar
+is deployed by the Penitent Crusade to acquire the Cypher            demands that they kill the court jester, Bouffon, a good-hearted
+Tablet from Balazar, one of three that the Holy Empire seeks         fool who helps the party along during the scenario. Regardless
+to acquire. Each tablet is covered in mysterious letters and         of what the party does, whether they slay or spare him, they
+diagrams that shift constantly and must be decrypted through         will have proven themselves worthy and delighted Balazar. He
+a magical ritual before the information stored on them can be        shall grant them the item as promised.
+read. What knowledge is contained on the tablets, and what
+it can be used for, is known only to the highest authorities of      Akhamia
+the Holy Empire. The three tablets contain fragments of the
+information necessary to construct a powerful arcane weapon          Akhamia is a vast expanse of sandy desert and parched earth
+known as a Demoncore, a weapon of such power that it                 lying across the Misted Sea to the southeast of the Holy
+destroyed the world of Doaden in the past.                           Empire. Life is sparse and the lands are arid, but grand cities
+                                                                     prosper on the fertile banks of several heart rivers that cut
+Homebrew Campaign. If you are playing this adventure as a            through the region. Culture here is ancient, predating the Holy
+one-shot or a homebrew campaign, the party could be seeking          Empire by many thousands of years. The cities are filled with
+any powerful relic, tome of knowledge, or other precious item.       beauty, art, literature, science, music, theater, and dance. Their
+Balazar’s troves of treasure and artifacts is endless, and so it     religion is one of logic, wisdom, and knowledge. Akhamians
+may contain any item you wish.                                       seek the expansion of mind and study philosophy and ideology
+                                                                     above all else.
+
+                                                                                                                                           7
+    Akhamians are gifted at magic, and much to the derision of the       there are more likely to die from a burst belly than to starve,
+    dogmatic Holy Empire, treat demons as another natural resource       more likely to find their pockets full of gold than silver, and
+    in their quest for arcane power, the same as food or water, iron,    more likely to share a bed with two lovers than none.
+    or clay. They consort openly with the otherworld, conducting
+    rituals to entrap, barter with, or forge allegiances with demons     The Path to Enlightenment
+    in exchange for knowledge and power. To the Akhamians, this          Balazar’s gates are open to all seekers of the Enlightened
+    is a question of logic and of strategic use of resources. To the     Suffering, offering to those true of heart a bounty of the flesh
+    Empire, this is blasphemy of the highest magnitude.                  and spirit, excessive pleasures, esoteric knowledge, and riches
+                                                                         beyond imagination. Yet all those gifts pale in comparison
+    Ir Khalem, the Jeweled City                                          to the most delicious sensations of suffering. Inside his inner
+    The Holy Empire maintains a foothold in north Akhamia,               court, Balazar’s chosen, the exalted, are served by flayed slaves,
+    occupying several port towns and extending their military might      indulging in every sadistic desire and sweet masochism that
+    inland to the city of Ir Khalem, the Jeweled City, situated on       crosses their mind.
+    the banks of a lush oasis in the Valley of the Sun. The Empire           Lustful orgies, sickening displays of bloodshed and
+    reveres this grand temple city, believing it was the birthplace      mutilation, depraved acts of sexual gratification, murder, and
+    of the God Emperor himself. Azerai scholars and archeologists        torture. The enlightened delight both in the viewing of such
+    excavate, and study records preserved here to document the           acts, and in the fulfilment of such acts upon themselves. To
+    God Emperor’s early years. Yet this occupation causes much           those who do not understand the path of suffering, the sights
+    strife with the Akhamians, as the ancient city is both a cultural    within are a hellish contradiction of beauty and depravity. To
+    mecca and holds bountiful natural resources in an otherwise          those who truly understand, these are all are one and the same,
+    scarce land.                                                         two facets of the same coin, a both a divine heaven and hell on
+                                                                         earth.
+    Ashurr, the City of Wonder
+    The city of Ashurr is located in central Akhamia. It is a thriving
+    metropolis filled with wonders; grand bazaars, libraries,
+    hanging gardens, exotic markets, crystal fountains, vibrant
+    harems, and much more. The Tiridus river’s blue-green waters
+    flow along its outer banks. Reed-bound boats bob along the
+    river’s surface, flowing into the city, bearing goods from afar.
+    Canals and aqueducts bringing water to sprawling districts of
+    sun-soaked clay buildings. The streets are lined with green
+    foliage, trees, and shrubs. Yet of all the wonders, two stand out
+    above the rest.
+        Balazar’s Palace. Balazar’s palace is a gleaming sight.
+    Its outer walls shine with stunning blue lapis lazuli and bright
+    veins of gold. Idols and statues line the halls and magnificent
+    tapestries drape every wall. The floors are lain in vibrant mosaic
+    patterns. Fountains gush with crystalline water that flows into
+    fruiting gardens. Tables are laden with exotic fruits and roasted
+    meats, and the halls ring with dulcet tones of harps and the
+    rapturous cries of orgies.
+        The Ziggurat. An enormous ziggurat towers over the city,
+    where Akhamians come to worship. It is the holiest of places
+    for those on the path of enlightened suffering, and no outsiders
+    are allowed inside. The only one who know what lies inside are
+    the very exalted few who are chosen by Balazar himself.
+
+    Balazar, the Lord of Excess
+    The demon prince Balazar signifies gluttony and depravity. But
+    he is also a collector of knowledge and all things, from artifacts
+    to treasures, or spells and incantations. He rules from his high
+    court in the city Ashurr. From this gilded throne, Balazar
+    accumulates all manner of luxury, wealth, and pleasures. Many
+    come from far and wide to suckle on the bounties of food,
+    wine, art, exotics, and carnal riches that can be found within his
+    flourishing kingdom. So plentiful are all forms of pleasures and
+    comforts in Balazar’s kingdom that it is said those who wander
+8
+Regional Map
+
+Adventure Location: Akhamia
+
+
+
+
+                              9
+10
+                                                  The Mission
+
+
+T
+        his adventure begins as the party arrives at Balazar’s       Possibly Known Information
+        court. They must negotiate with the demon prince
+        for the Cypher Tablet, the treasure hidden in his vast       The following should be revealed only if the party succeed on
+        collection of ancient artifacts. Balazar will be willing     the described skill check. Allow one or two PCs to roll for each
+to part with the tablet, but at a price. He demands that the party   piece of information. These paragraphs paint a more objective
+entertain him, participating in a twisted trial of their body,       picture of the situation.
+mind, and soul.
+                                                                     History of Strife. If the party succeeds on a DC 14 Intelligence
+                                                                     (history) check, they will know that the Akhamians have a
+Preparing the Party                                                  justifiable reason to dislike the Empire. The occupied city of Ir
+Before starting the adventure, ensure the party understands their    Khalem is a cultural mecca and sits on the banks of a lush oasis,
+mission so that they can conduct the negotiation with Balazar.       which has led to its prosperity for thousands of years. Akhami-
+The following is a list of information that the party should cer-    ans are upset that they have lost access to their cultural heritage
+tainly know and some that they might know if they are succeed        and the vital natural resources in an otherwise barren land.
+on an appropriate skill check.
+                                                                     Akhamian Culture. If the party succeeds on a DC 18 In-
+                                                                     telligence (history) check, they know that the Akhamians do
+Known Information                                                    commonly consort, bind, and pact with demons. However, this
+The party should know the following pieces of information            is their way of life and is not malevolent. They seek the accu-
+when starting the adventure. Provide the information in a sum-       mulation of knowledge and logic, and view demons as a natural
+mary or roleplay an encounter with their dispatching officer,        resource that, if controlled properly, may be used to benefit
+Vozruk the Storm Crow. Much of this information is colored by        society and themselves.
+the perspective of the Holy Empire.
+                                                                     Exaltation. If the party succeeds on a DC 22 Intelligence (re-
+The Cypher Tablet. Balazar stores the tablet is his library. The     ligion) check, they know about the path of enlightened suffer-
+tried to locate the library, but their agent have found nothing.     ing. Review the paragraphs in the Introduction section for this
+Therefore, theft is not an option. The party must play along         information.
+Balazar’s demands if they wish to acquire it.
+
+Utmost Urgency. The tablet is critical to the survival of the
+                                                                     Beginning the Adventure
+Holy Empire. The inner circle of Church of Azerai believe it         To begin the adventure, read the following script. The party is
+contains information capable of saving the world, but further        coming to Balazar’s court, to speak with him and convince him
+specifics are highly confidential and will not been disclosed to     to give them the Cypher Tablet.
+anyone involved with the mission.
+                                                                          You have come to the land of Akhamia, far to the
+Strained Politics. Politics between the Empire and Akhamia                south of the Holy Empire. Your journey has been
+are strained. The party should try not to offend Balazar or the           arduous; a month by galleon across the treacherous
+Akhamians or may jeopardize the mission. The conflict extends             Misted Sea, before a long three-week trek through
+back several hundred years when the Empire attacked and occu-             sweltering sun and shifting sand dunes, from the port
+pied Ir Khalem, which they claim was the birthplace of the God            city of Vey to the city of Ashurr, the City of Wonder,
+Emperor. There are ongoing skirmishes between the nations as              and domain of Lord Balazar.
+the Empire still holds the city, but no outright war.
+                                                                               Ashurr rises from the sand like a glittering
+                                                                          treasure, filled with sun-soaked clay structures.
+Sin and Temptation. In the city of Ashurr, and even more so
+in Balazar’s palace, the party will be greeted with sights of             Its streets are lined with lush trees, from which
+great pleasures, wealth, arts, and riches beyond their imagina-           budding figs and dates hang in abundance. Balazar’s
+tion. They should pay no attention to such things. The people             palace climbs over the city, its glazed mosaic walls
+are all heretics, worshipping and making pacts with demons in             shining with blue lapis lazuli and cut with veins of
+exchange for such splendor. Worse, those of Balazar’s fol-                gold. Making your way to the marvel, you see the
+lowers are sadistic, vile occultists that mutilate themselves for         famed ziggurat in the distance, a massive pyramidal
+pleasure. If one gives into such luxuries, they may quickly lose          structure casting a shadow over half the city, and
+themselves and become as twisted as the Akhamians.                        behind it, the glittering waters of the Tiridus river.
+                                                                                                                                           11
+                                                                            trays, among piles of fruits and cheeses are severed
+              You pass through the bazar district, bustling                 human heads.
+         with traders in colorful stalls, exhibiting fine silks                  At the center of the court is a sad spectacle. A
+         garments, lush fruits, exotic animals in iron cages,               hunchback fool dances clumsily, tripping over himself
+         oiled slaves, and much more. The smells of roasted                 as he attempts an acrobatic routine. He is dressed
+         meats and strange spices fill the air and the sounds               as a jester and recites a dramatic script, mumbling
+         of haggling echoes throughout. Merchants and                       words and broken half-phrases. The audience
+         customers bicker in a handful of conflicting tongues,              guffaws, mocking him aloud. Yet he only smiles and
+         before relinquishing pouches heavy with gold. As                   continues, too simple of mind to understand that they
+         you leave the district, you come to the grand marble               laugh at him, not with him. After finishing his routine,
+         staircase that ascends to Balazar’s palace.                        the hunchback bows and exits the stage with some
+             Climbing the stair, you come to the grand palace,              final words of jubilation.
+         its great golden doors open freely to the public. You                   “Bouffon loves his master! Master loves
+         step into a cavernous welcoming hall, finding the                  Bouffon!”
+         floor lined with magnificent gold trim rugs. It takes                   From the far end of the hall, a voice bellows,
+         a moment for your eyes to adjust to the darkened                   ushering you forth. You see an obscene figure upon a
+         interior and the thin veil mist of smokey incense that             golden throne, rolls of doughy flesh heaping around
+         hangs inside. A dark-skinned servant bows to you, his              his body. Four stout arms protrude from his sides.
+         toned body shimmering with a fine layer of oil, the                In sausage-like fingers, he holds a human head with
+         contours of his muscles accentuated by a simple, neat              its skull sliced open to form a bowl. He extracts
+         loincloth he wears around his waist. He speaks with a              the gelatinous brain and swallows it whole, before
+         deep and heavy accent.                                             beckoning you forward.
+             “The master welcomes you.”                                          “Come, travelers. What is it you seek from
+                                                                            Balazar?”
+     Roleplaying the servant
+     The servant is one of Balazar’s retainers, a novice on the         Roleplaying Balazar
+     path of enlightened suffering who has not yet undergone any        Balazar is a powerful and extremely intelligent demon prince.
+     mutilation. He refers to Balazar as the master. All are free to    He is wise in philosophy, history, science, religion, and many
+     come and go in the palace, as Balazar offers his luxuries freely   other fields. He already knows what the party seeks as several
+     to those who seek him. The servant should answer questions the     crusaders have come before requesting the Cypher Tablet. To
+     party has and take them to Balazar. Read the following script as   each he makes the same offer; if they entertain him, he will
+     he leads them to Balazar.                                          give the tablet. However, none have passed his trials – a deadly
+                                                                        test oof the body, mind, and soul. If the party can pass the
+         You follow the servant through the grand palace, a             trials, the tablet will be theirs.
+         maze of rooms filled with wonders. Feast halls are                  Exalted Trials. Balazar has a series challenges to test the
+         brimming with merriment as diners graze from silver            mettle of those that come to him. The trials are three, testing
+         plates laden with bread and fruits, roasted vegetables         the body, mind, and soul respectively. Balazar can talk about
+         and meats, and guzzle down endless goblets of wine.            the general idea, but not the particulars of each trial until they
+                                                                        occur. Once the party agrees to participate, continue on to the
+         Audiences sit enraptured in sprawling lunges piled
+                                                                        first encounter, the trial of the body.
+         high with satin cushions, watching troupes of dancers
+                                                                             A Grand Illusion. Balazar is not actually in his court. He
+         and musicians, singing, and speaking in a multitude            has great control over magical effects, especially of guile and
+         of tongues. From darkened chambers lit by candles,             illusion. His real body lies hidden deep in the bowels of his
+         you hear choruses of moans and cries of ecstasy.               ziggurat outside. If he is ever attacked, weapons and spells will
+              You finally come to the grand court. The spacious         move straight through his body, dealing no damage. He will
+         chamber is draped in embroidered rugs and lit by               only laugh at their feeble attempts to harm him, finding them
+         streams of sunlight that filter down through intricate         amusing and proclaiming himself a god, and immune to all
+         patterned holes in the ceiling. Courtesans ring the            injury.
+         walls, sipping wines and nibbling heure d’oeuvres
+         from golden plates carried be servants. Yet as you             Encounter 1: Trial of Body
+         look closer, you notice the courtesans are malformed
+         and strange, their limbs are clawed, and their flesh           The first trial takes place in the courtroom, the trial of the body.
+                                                                        It tests the party’s physical capabilities. Balazar will call forth a
+         torn. Their faces are snide and horned or twisted
+                                                                        few of his gladiators and favorite warriors as the crowd cheers.
+         inhumanely. You see too that the servants’ skin is
+                                                                        It will be a fight to the death without mercy.
+         flayed, raw muscles exposed, and that on their golden
+12
+Map A: Balazar’s Court                                                  of blood are wicked straight through the air, then
+                                                                        absorbed by the surface of the device.
+The following areas correspond to Map A: Balazar Court.                      Death is Inevitable. Creatures’ life essences
+                                                                        are being absorbed into the orb, making it difficult
+A1) Mysterious Orb                                                      to recover from injury. All living creatures have
+At the center of the gladiatorial area is a pool of blood. Two          disadvantage on death saving throws.
+fountains on either end spew a constant stream of new blood
+into the fountain. Above the pool, a large golden orb levitates,   A2) Balazar’s Throne
+revolving slowly in the air. The orb emanates with strange         Balazar sits on his throne, feasting on fruits and brains, and
+magic and can be activated to create portals using the keys kept   enjoying the show immensely.
+by the Keeper of Keys.
+
+    Blood Sphere. While in Balazar’s Court and within              Running the Encounter
+    60 feet of the Mysterious Orb, the following effects           Once the party is ready to begin, Balazar should announce the
+    are constant.                                                  first trial, a trial of the body. He will call sets of gladiators and
+        Blood Siphon. Whenever a creature bleeds, their            fighters. There will be no mercy and each fight is to the death.
+    blood is siphoned into the sphere; spilt globules              Between fights, read a brief script before calling forth the next
+                                                                                                                                           13
+     round of fighters. Once three teams of gladiators are defeated,              1x Gladiator Sentinel, 1x Cabal Assassin, and
+     the trial is complete.                                                       1x General Atraxes.
+
+     Gladiator Round 1                                                  Ending this Encounter
+     The first team of gladiators should be composed of the             When all gladiators are defeated, Balazar will be in a good
+     following creatures. 1x Cabal Mage and 1x Flayed Slaves.           mood. He should give the party another chance to take a short
+                                                                        rest and partake in some feasting if they wish. When the party
+               1x Cabal Mage and 2x Flayed Slaves, 1x                   is ready to proceed, Balazar will call his demon servant, the
+               Exalted Spears.                                          Keeper of Secrets. The Keeper holds special keys that can open
+                                                                        portals to other dimensions using the golden orb. The party will
+               1x Cabal Mage, 3x Flayed Slaves, 2x Exalted              travel through a portal to an astral observatory once used by
+               Spears.                                                  ancient mages, where they will be challenged with a series of
+                                                                        puzzles. Read this script when the party is ready to proceed.
+     When the gladiators are killed, read this script. Bouffon should
+     give the players 2x Potions of Greater Healing.                        Balazar beckons a demon by his side, a regal figure
+                                                                            draped in stitched leather skins and wearing a
+          As your opponents fall, the blood drains from their               cylindrical hat. The demon reaches into the folds of
+          bodies, forming a stream that creeps through the air              its cloak, drawing forth a crystal key. It walks to the
+          before it is siphoned into the golden orb hovering at             golden orb, inserting the key and stepping back as
+          the center of the room. Flayed slaves come quickly                the orb begins to spin violently, turning to a molten
+          to drag off their desiccated bodies. The hunchback,               red blur. A vortex of blood swirls around it, sucked in
+          Bouffon applauds loudly, stepping forward and                     by the centrifugal force. The orb suddenly vanishes,
+          handing you a few potions. He whispers to you before              replaced by a thrumming portal.
+          stepping back into the crowd.
+              “Happy Bouffon! Happy Bouffon! Stay alive, little
+          friends!”
+
+     Gladiator Round 2
+     The second team of gladiators should be composed of the
+     following creatures. 1x Exalted Spear and 1x Exalted Archer.
+
+               1x Exalted Spear and 1x Cabal Assassin.
+
+               1x Exalted Spear, 1x Lamashtu.
+
+     When the gladiators are defeated, read the following script.
+     Give the party time for a short rest before the final fight.
+
+          Near the onlooking courtesans, the hunchback claps,
+          jumping from one foot to another, happy to see you
+          have survived. Balazar and the gallery cheer in
+          merriment, enjoying the display of violent bloodshed.
+          The demon lord swallows another brain along with
+          a handful of grapes and hams, before raising a fisted
+          hand.
+              “I am amused! We shall enjoy one last fight with
+          our deadliest warriors. But first, I shall grant you
+          time to tend your wounds. We do not want our fun to
+          end here!”
+
+     Gladiator Round 3
+     The third team of gladiators should be composed of the
+     following creatures. 1x Gladiator Sentinel and 1x Gladiator
+     Ravager.
+
+               1x Gladiator Sentinel, 1x General Atraxes.
+
+14
+Encounter 2: Trial of Mind
+If the party has questions, Balazar can explain that he is sending    Running the Encounter
+them to a realm of lost knowledge to prove their mind. When           To begin, as the party is standing in area B1. hand them the note
+the party steps through the portal, they will be transported to the   from the pedestal. Once they have read it, start a 30-minute
+Observatorium dimension and faced with a series of puzzles.           timer. You can use a real hourglass as well. Whenever you are
+Read the following script.                                            describing scenes or reading narrative scripts, pause the timer
+                                                                      (if you are using a real hourglass, you can turn it sideways).
+     Stepping through the portal, you are torn from your                  Succeeding on the Trial. The party will have until the
+     reality. You spiral through a vortex of stars and                timer runs out to finish this trial, a test requiring strength of
+     galaxies as a multitude of dimensions passes behind,             mind. To complete the trial, the party will need to solve the
+     an infinite number of realities both material and                area B1: Statue Puzzle, by placing the Maiden Statue on the
+     ethereal. Your stomach tightens and a sharp pain                 left pedestal, the Mother Statue on the middle pedestal, and
+                                                                      the Crone statue on the right pedestal. The moment the statues
+     pierces your head when suddenly you find yourself in
+                                                                      are placed correctly, proceed to the Ending this Encounter
+     a cozy, domed study lit by strange, flameless torches.
+                                                                      section.
+     Below glass paneled windows you see bookshelf-                       Failing the Trial. If the party fails to complete the puzzle
+     packed walls and rays of blue starlight.                         on time, the mysterious orb will activate again and teleport
+         In front of you is a podium with a parchment note            them back to Balazar’s palace. In this case, they will fail the
+     and an hourglass that has just begun to run. Past                adventure and Balazar will force them to leave without the
+     that are three awkwardly empty stone pedestals, as               Cypher Tablet they seek.
+     if something should be displayed on top. Around you                  Alchemy Puzzles. However, to acquire the statues, the
+     are various tables laden with alchemical equipment               party will first have to create them through transmutation in
+     and devices, and nooks with sofas, tables, and books.            area B2: Alchemy Puzzles & Altar. They do so by solving
+     In one corner, you see a large brass contraption, as             three alchemical puzzles in area B2. Each puzzle they solve will
+     tall as the room.                                                transmute one of the statues they seek.
+                                                                                                                                          15
+                                            Note found on the initial podium with hourglass.
+
+
+
+
+     Three pedestals with missing statues. The left reads, “The virtuous ______, who sleeps with her lover.” The middle reads, “The
+               nurturing ______, who poisons her child.” The right reads, “The wise old ______, who leads us astray.”
+16
+Map B: The Observatorium                                            ingredients to solve arithmetic puzzles at the alters by placing
+                                                                    the ingredients in the puzzle bowls correctly to generate specific
+The following areas correspond to Map B: The                        sums.
+Observatorium.                                                      Solved Altars. When an alter is solved, a small statue will
+                                                                    materialize at the center of it. The party can take the statue
+B1) Statue Puzzle & Pedestals                                       and place it in area B1. Each altar will only generate the statue
+Here is a podium with a note and an hourglass (the party should     once. The alchemical ingredients will NOT be consumed in
+access these right when they start this encounter). Behind          the process of creating the statue and will remain for the party
+the podium are three empty pedestals. From left to right, an        to collect and use in the next puzzle altar. The solutions and
+inscription is written on each as follows.                          statues created for each alter are discussed in the subsequent
+    Left. “The virtuous ______, who sleeps with her lover.”         paragraphs.
+    Middle. “The nurturing ______, who poisons her child.”
+    Right. “The wise old ______, who leads us astray.”              Book. The book on the table is titled “The Principles of
+                                                                    Alchemy Vol. 1”. A copy of the text follows.
+    Solution. To solve this puzzle, the Maiden Statue must be
+placed on the left pedestal, the Mother Statue must be placed       Inherent Value Scale. On the table is a scale which can weigh
+on the middle pedestal, and the Crone Statue must be placed         different elements against each other. If the value of both sides
+on the right pedestal. Continue to the Ending this Encounter        is equal, the two sides will balance. If one side is heavier, that
+section when the puzzle is solved.                                  side will descend all the way to the bottom of the table. The
+                                                                    scale can only tell which side is heavier; it cannot tell how
+B2) Alchemy Puzzles & Altars                                        much heavier one side is than the other.
+Here are three altars carved with alchemical symbols, and
+an elegant wooden table, atop which are set three bowls of
+elemental ingredients, a scale, and a book.                              Inherent Values. All pieces of the same element have
+                                                                         the same value as follows. Value may be added, i.e.
+Bowls. Each of the three bowls contains a different element.             2x Mercury would be 14, and 1x Sulphur plus 1x Salt
+One has 5x Sulphur Crystals, 3x Mercury Nuggets, and 4x                  would also be 14.
+Salt Blocks. Each element has a different inherent value that the            Sulphur: 3
+party must deduce using the scale on the table and hints around              Mercury: 11
+the room. Once the values are deduced, the party can use the                 Salt: 7
+
+
+
+
+                                      Alchemy table with bowls of elements, book, and scale.
+                                                                                                                                         17
+     Element Props. 5x Sulphur Crystals (Yellow), 3x Mercury Nuggets (Red), 4x Salt Blocks (Gray)
+
+
+
+
+                                  Book: Principles of Alchemy Vol.1
+
+
+18
+                               Three alchemy puzzles altars with three corresponding riddle notes.
+
+The Alchemy Puzzle Altars (B2)                                    Reward. When this altar is solved, the Maiden Statue will be
+Next to the table are three altars carved with alchemical         transmuted at the center of the table.
+symbols. Each altar has three bowls organized in triangles,
+that cannot be removed. Each alter also contains a paper note     Middle Altar. Solstice Stars. The party must look at the stars
+with a riddle to determine the elements that must be placed in    using the telescope in area B3, and find the Crab, Snake, and
+each bowl, as well as a restriction on how the elements can be    Phoenix constellations. They must count the total number of
+placed. All three puzzles must be solved.                         stars in each constellation and place the corresponding value of
+                                                                  materials in the bowl imprinted with that constellation’s animal.
+Left Altar. Common Elements. The party must identify the          The left bowl is the Snake and should have a value 21. The right
+element marked in each bowl from the Principles of Alchemy        bowl is the Crab and should have a value 25. The bottom bowl
+book, and match the value in each bowl to that element. The top   is the Phoenix and should have a value 17.
+bowl is Alumen and should have a value 14. The left bowl is           •     Solution 1. Snake contains 1x Sulphur, 1x Salt,
+Ferrum and should have a value 18. The right bowl is Realgar          1x Mercury. Crab contains 1x Sulphur and 2x Mercury.
+and should have a value 21.                                           Phoenix contains 1x Sulphur and 2x Salt.
+   •     Solution 1. Ferrum contains 1x Salt and 1x Mercury.          •     Solution 2. Snake contains 1x Sulphur, 1x Salt, 1x
+   Alumen contains 2x Salt. Realgar contains 1x Sulphur, 1x           Mercury. Crab contains 2x Salt and 1x Mercury. Phoenix
+   Salt, and 1x Mercury.                                              contains 2x Sulphur and 1x Mercury.
+   •     Solution 2. Ferrum contains 1x Salt and 1x Mercury.          •     Solution 3. Snake contains 3x Salt. Crab contains 1x
+   Alumen contains 1x Sulphur and 1x Mercury. Realgar                 Sulphur and 2x Mercury. Phoenix contains 2x Sulphur and
+   contains 3x Salt.                                                  1x Mercury.
+   •     Solution 3. Ferrum contains 1x Salt and 1x Mercury.      Reward. When this altar riddle is solved, the Crone Statue will
+   Alumen contains 1x Sulphur and 1x Mercury. Realgar             be created at the center of the table.
+   contains 1x Sulphur, 1x Salt, and 1x Mercury.
+                                                                                                                                      19
+     Right Altar. Answer to All. The part must find the special            Heart of Creation, at the very center of the nebula. In total, the
+     number 42, and then place elements with a total value to match.       phoenix contains 17 stars.
+     They can find this number by picking up the note carried by the
+     dead crusader in area B5. The top bowl is the Mercury. The left       B4) Study Table with Astrology Book
+     bowl is the Sulphur. The right bowl is the Salt. Only the marked
+                                                                           In this area is a circular table piled with random books, and two
+     element can be placed in the bowl.
+                                                                           chairs. When the party explores this area, read the following
+         •    Solution 1. Sulphur bowl contains 3x Sulphur.
+                                                                           script.
+         Mercury bowl contains 3x Mercury.
+         •    Solution 2. Sulphur bowl contains 2x Sulphur. Salt
+                                                                                You find a round table piled high with books of all
+         bowl contains 2x Salt. Mercury bowl contains 2x Mercury.
+         •    Solution 3. Sulphur bowl contains 1x Sulphur. Salt                subjects; magic, science, history, geography, and
+         bowl contains 4x Salt. Mercury bowl contains 1x Mercury.               more. You notice one book is open to a page about
+     Reward. When this altar riddle is solved, the Mother Statue                astrology. Taking a closer look, you see an illustration
+     will be created at the center of the table.                                of the solstice sky and the constellations surrounding
+                                                                                the nebula known as the Flame of Creation. The
+     B3) Giant Telescope                                                        outlines of three animals are traced in the stars: a
+     In this area is an enormous telescope. When the party explores             snake, a crab, and a phoenix.
+     this area, read the following script.
+                                                                           Revealing the Constellations. If the party accesses this
+                                                                           information, the next time they look at the sky, show them the
+          At the far end of the room is an enormous brass
+                                                                           night sky with constellation lines drawn.
+          machine made of various gears, plates, and a series
+          of wide, long tubes and lenses extending up to the
+                                                                           B5) Dead Crusader
+          tall domed ceiling. A narrower tubular spyglass
+          descending down towards you, at an accessible height             In this area is a dead crusader, apparently having failed
+                                                                           Balazar’s challenge in the past. His body is desiccated and his
+          for viewing.
+                                                                           remains are covered in blood. A note lies next to him with clue
+                                                                           about the Answer to All riddle in area B2. When the players
+     Using the Telescope. If the party looks through the telescope,
+                                                                           explore here, describe the gruesome scene and provide them
+     they will see the solstice sky. Show them the version of the sky
+                                                                           with the following bloodied note.
+     with NO constellation lines drawn. A viewer can see a large
+     cluster nebula called the Flame of Creation, in which three
+     constellations can be charted: the Snake on the left, the Crab on
+     the right, and the Phoenix at the center. The Solstice Stars riddle
+     in area B2 hints at the predominant color of the stars that make
+     up each of these constellations, with the Snake being green, the
+     Crab being gold, and the Phoenix being red. However, each is
+     made from a mixture of star colors.
+         Discerning the Constellations. If a PC is able to discern the
+     three constellations, show them the version of the sky with the
+     constellation lines already drawn. There are two ways that a PC
+     may know this information. First, they may make a successful
+     DC 20 Intelligence (Nature) check. The second way is that they
+     may investigate the open books lying on the table in area B4.
+     One of the books is open to a page about the solstice night sky
+     and will show the PCs the shapes of the constellations.
+
+     Constellation Information. There are three constellations in
+     the sky, each represented by an animal with a story from the
+     world’s time of creation. The important information for each
+     constellation is as follows.
+         Snake. The snake is in the left-most area of the sky and is
+     made primarily from green stars, though a few white stars are
+     mixed in. In total the snake it contains 21 stars.
+         Crab. The crab is in the right-most area of the sky and is
+     made primarily from yellow stars, though a few blue stars are
+     mixed in. In total, the crab contains 25 stars.
+         Phoenix. The phoenix is in the center of the sky and is made
+     primarily from red stars, though a few whites stars are mixed in.
+     The core of the Phoenix is made by the brightest star, called the
+20                                                                                             Crusader’s bloodied note.
+Answer to All Riddle. The crusader was searching through                In any case, 42 is the correct answer to the third altar riddle,
+texts for the meaning behind the third alchemy altar riddle, and   but the crusader’s research into the number was maddening and
+finally stumbled upon the number 42 before his time ran out.       filled with contradictory debates. Scholars believe this number
+The notes about blasphemy are him realizing that Balazar’s         holds much significance, from natural angles to divisibility of
+pedestal riddle mock the Maiden, Mother, and Crone, the holy       elements, and other phenomenon. Yet none can agree exactly
+triunity of the Azerai faith.                                      why the number is so important.
+
+
+
+
+                                               Night sky with NO constellation lines.
+
+
+
+
+                                                Night sky WITH constellation lines.                                                        21
+     B6) Mysterious Orb
+     The golden orb exists in the Observatorium dimension as well,               Balazar grins widely, his fatty cheeks pulling back
+     and sits in the middle of this study. However, it looks different           into a smirk, revealing rows of sharpened teeth. He
+     here, surrounded by a pool of crystalline glowing blue liquid,              raises a pudgy hand, pointing his finger at Bouffon,
+     and emanating an arcane energy.                                             who hops gently from one foot to the other humming
+                                                                                 and smiling at you.
+     Helpful Bouffon                                                                 “Kill him. Show me the conviction in your soul.”
+     If the party ever gets stuck while trying to solve this puzzle,                 The hunchback falls to his knees, trembling. Tears
+     have Bouffon teleport in sneakily, appearing in a corner of the             and snot stream down his astonished face as he cries
+     room to assist them. He should act as if he wants to make sure
+                                                                                 out in fear.
+     no one at court knows he is there to help and can give them any
+                                                                                     “But Master! But Bouffon loves Master!”
+     types of hints they need to solve the riddle they are currently
+     stuck on.
+          Time is Ticking. Additionally, Bouffon can even help the          Running this Encounter
+     party by flipping over the hourglass and reversing the flow of         Balazar uses everyone in his court for his own psychopathic
+     time. The hourglass is just a normal hourglass, and if the party       pleasure. Bouffon was too simple or perhaps too good-hearted
+     did not ever attempt to flip it over or use magic or physical          to understand this. Balazar has been manipulating him,
+     abilities to affect it, Bouffon simply flipping it over as time is     applauding ironically, and praising him sarcastically for his
+     about to run out will be a comedic way to allow your players to        talents while feeding him splendid foods and wines. Bouffon
+     continue without punishing them and failing the scenario. After        thought he was appreciated and loved by Balazar. But now, his
+     all, this can be a lesson about using one’s mind and not making        world reels as he grapples with the fact that his master would
+     assumptions (such as the hourglass being anything but normal).         throw his life away so mercilessly.
+                                                                                Yet Balazar’s test is a sham, a cover for deeper question.
+     Subtle Blasphemy                                                       He wishes to watch the party squirm and grapple with this
+     This puzzle has a deeper lore meaning. It teaches about the            test, revealing their true souls as they decide what to do with
+     fundamentals of alchemy and some of the nature of the world            Bouffon. To play up this decision, you might roleplay this scene
+     of Doaden. Most importantly, the final riddle, of the three            as Bouffon pleads for his life, begging his master for mercy or
+     statutes pedestals in area B1, is a profane mockery of the Azerai      attempting to flee from the party, only to be beaten by a guard
+     faith, and consequently the Holy Empire. The riddle it does not        or stumble down the stairs and be brought right back.
+     directly state its allegations, but insinuates that the Maiden, who
+     is known as being of unquestionable virtue, was in a clandestine           Acquiring the Tablet. Regardless of the party’s decision,
+     sexual relationship and not as pure as the church would have           they will have proven their souls. The following are the most
+     you believe.                                                           commonly expected outcomes. But if the party takes any form
+         Likewise, the riddle suggests that the Mother, who is always       of decisive action, you should reward them with the Cypher
+     shown as caring and compassionate, was abusing or poisoning            Tablet and come up with your own justification. To get the
+     her child, and was not in fact the benevolent and nurturing            tablet, the Keeper of Keys will use a new key to open another
+     figure the church would make her out to be. Lastly, the Crone,         portal in the golden orb, traveling to Balazar’s library archive
+     who is always shown as a wise leader, is leading her flock             in an alternate dimension and returning moments later with
+     from truth, whether knowingly or unwittingly. Such statements          the tablet in hand. It turns out this place was hidden in another
+     are blatant blasphemy and would make any true believer                 dimension, so not crusaders could find it.
+     uncomfortable just thinking about putting the statues onto the
+     pedestals if they understand the deeper connotations.                  Sparing Bouffon
+                                                                            If the party refuses to kill Bouffon, Balazar will applaud
+     Ending this Encounter                                                  them for having the courage to defy him, and for potentially
+     When the party correctly places the statues of the Maiden,             sacrificing their mission to spare an innocent life. Their souls
+     Mother, and Crone in the Statue Puzzle in area B1, the trial           are noble, though perhaps naïve. Balazar should warn them that
+     is complete. The golden orb will begin to spin, phasing the            in this world, those of pure heart rarely survive.
+     dimension away and bringing the party back to Balazar’s
+     court. Describe a similar scene as the party took to reach the         Killing Bouffon
+     Observatorium as they return to the real dimension. Then,              If the party kills Bouffon, Balazar will applaud them for having
+     proceed to the final encounter of the scenario.                        the conviction to follow through their circumstances at all costs.
+                                                                            Balazar should advise them that it is only the strong of will
+     Encounter 3: Trial of Soul                                             that are able to make the decisions necessary to survive in this
+                                                                            world.
+     When the party returns to Balazar’s palace, he should
+     congratulate them for solving the puzzles. He will have one
+     final trial for them, the trial of the soul. When the party is ready
+     to proceed, read the following script.
+22
+                                           Taking it Further
+
+
+
+
+B
+        estiarum scenarios are designed to be easy to run and       Exploring Ashurr
+        quick to prepare. The structured narrative generally
+        last one long, or two shorter sessions. This Taking it      Before the party enters Balazar’s palace, they might explore
+        Further section is designed to inspire you to create        Ashurr, the famed City of Wonders, a thriving metropolis with
+your own adventures or to build upon the core adventure, so         much to see. The fertile Tiridus river’s blue-green waters flow
+that your party’s journey becomes as much your own as it is         along its outer banks, but canals have been dug throughout the
+ours. The following suggestions can be used to craft the world      city, intersecting with sprawling districts of sun-soaked clay
+and build the narrative further.                                    buildings. The streets are lined with lush green foliage, trees,
+                                                                    and shrubs. At the center of the city, Balazar’s palace stands
+                                                                    high, its walls gleaming with colorful mosaics and gold. At the
+Traveling to Akhamia                                                far end of the city is the famed ziggurat, a massive pyramidal
+Akhamia lies far to the southeast of the Holy Empire, across the    structure used in religious ceremonies.
+Misted Sea, a treacherous sea filled with lost archipelagoes and
+jagged reefs, an ever-raging maelstrom, and strange monsters.       City Streets
+The Penitent Crusade generally departs the Western Empire           The streets of Ashur are packed with street performers, beast
+from port city of Carth, landing in one of a few port and trade     charmers, fire eaters, sword swallowers, exotic dancers, and
+cities in northern Akhamia. From there, an overland journey for     much more Fighters partake in pit fights as onlooking crowds
+four days takes them to the holy city of Ir Khalem, birthplace of   should and gamble. Farmers and merchants peddle their wares,
+the God Emperor. Yet the party’s journey will take them further     carrying crates of spices, vegetables, fruits, or jewelry. Ashurr
+still for another two to three weeks southwest through the arid     is a place where one may find practically anything they can
+wastes and sandy dunes before they reach Ashurr. There is little    imagine so long as they know where to look. But one should
+along the way, but perhaps a wandering traveler or merchant         be cautious about scammer and charlatans who look to make a
+caravan, a band of thieves or bandits, or if the party is lucky,    quick sack of gold at the expense of the naïve and over-trusting.
+a small oasis to take a rest, or a lost temple buried in sand,
+containing nightmares of your own design.
+                                                                                                                                        23
+     The Grand Bazar                                                      A Question of Causality
+     At the center of the commerce district lies the Grand Bazaar,        Balazar is highly intelligent and knowledgeable. He has existed
+     where merchants and caravans from all over the world gather          for millennia in Doaden and has seen history play out firsthand.
+     to sell their goods. Vendors and customers haggle over prices        He already knows the information contained on the tablet
+     in many languages while smoking and eating exotic foods.             but would not disclose it to the party. He enjoys the irony of
+     Auctioneers parade slaves, animals, and other goods about on         seeing them struggle while ignorant of the greater purpose of
+     elevated platforms, announcing the price offered. Buyers gather      their actions, of believing themselves in control when they are
+     around to examine, interrogate, and bid as it suits them. Slaves     merely pawns to the greater powers they serve. For Balazar,
+     tend to a multitude of tasks, dressed in fine clothes or rags, as    this is a question of causality, of action and reaction, cause and
+     they press through the crowds. A never-ending line of flayed         effect.
+     servants carry trays of exotic fruits and shining jewelry, turning       Watching the party is to him watching a predestined play, a
+     their haggard train toward the looming gold spires of Balazar’s      dramatic unfolding of history once again that will lead to only
+     palace.                                                              one conclusion. He is interest in watching their journey unfold,
+                                                                          believing that should the Holy Empire ever acquire another
+     Balazar’s Lair                                                       Demoncore, no matter how noble their intentions, human nature
+                                                                          will ensure that they make the same mistakes it did before,
+     If the party ever attacks Balazar in his court, their weapons        shattering Doaden once again. He relishes in the delicious irony
+     and spells travel right through him. He will attempt to deceive      that the party’s actions today will invariably lead to their utter
+     them, calling himself a god and immune to all worldly injury.        annihilation.
+     Het it is a façade. He is casting a magical illusion of himself to
+     be present in court while his real body resides in the bowels of
+     his ziggurat.                                                        Bouffon’s Fate
+         The party might hunt him there. People are free to come          If the party spares Bouffon, the poor jester will likely not enjoy
+     and go on the outside of the ziggurat as it is a public religious    his time in Balazar’s court any longer, realizing in his heart
+     temple. However, one who climbs to the top will find a heavily       the truth that Balazar does not love him back. If the party has
+     guarded golden door, which only Balazar’s most exalted may           compassion, they may take them with them and he can show
+     enter. This door leads to a dungeon-like maze that descends          them around Akhamia or join them on their travels for some
+     several levels, full of trap, guards, and demons, before reaching    time. He does not have much to offer but is a good-hearted
+     Balazar’s grand residence at the bottom. You can design a            character and can use his antics to lighten the mood when their
+     dungeon encounter for the party to explore this ziggurat.            spirits are down.
+     However, Balazar is an incredibly powerful entity and this
+     would only be fit for the strongest and most daring parties that
+     have conquered Torment Mode gameplay.
+
+
+
+
+24
+                          Appendix A:
+
+This appendix details the monsters and NPCs that appear in this adventure in addition to
+many more from Bestiarum’s monthly release that you can use as inspiration for your own
+adventures! Monsters are organized by Challenge Rating (CR), from weakest to strongest,
+and then alphabetically.
+
+
+
+
+                                                                                           25
+     Monsters and NPCs
+
+
+
+
+26
+Challenge Ratings. Enemies and NPCs range from difficulty levels Weak
+(CR 1), Normal (CR 3), Hard (CR 5), Elite (CR 7), Champion (CR 10),
+Boss / Boss Torment (CR 13 / 18), and Archon (CR 25).
+
+
+
+
+                                                                        27
+                                                       Weak (Cr 1)
+
+     Bouffon, Hunchback Jester                                           Bouffon, Hunchback Jester
+     Bouffon, the hunchback jester of Balazar’s court, is a              Medium humanoid (human), chaotic good
+     pathetic creature. He was born malformed, both in body and
+     mind, and is made to dance and juggle, sing, and act, for the       Armor Class 10
+     perverse pleasure of the demon lord and his court. Bouffon          Hit Points 52 (8d8 + 16)
+     performs clumsily, tripping over himself and reciting dramas        Speed 20 ft.
+     in his nearly unintelligible grunts. He smiles to himself, taking
+     pride in the raucous laughter he draws from his crowd, unable       STR       DEX      CON       INT      WIS       CHA
+     to tell that they laugh at him and not with him. They mock
+                                                                           14        10       14          6      10        10
+     him and his farcical caricatures, taking joy in his unwitting
+                                                                          (+2)      (+0)     (+2)       (-2)    (+0)      (+0)
+     self-debasement, often beating him, or tormenting him to
+     satisfy their own vile pleasure.
+                                                                         Senses passive Perception 10
+                                                                         Languages Akhamian, Common
+                                                                         Challenge 1 (200 XP)
+
+
+
+                                                                         Actions:
+                                                                         Multiattack. This creature makes two attacks.
+
+                                                                         Biting Marotte. Melee Weapon Attack: +4 to hit, reach 5 ft.,
+                                                                         one target. Hit: 5 (1d6 + 2) bludgeoning damage and 4 (1d4 +
+                                                                         2) piercing damage.
+
+
+
+
+28
+                                                  Weak (Cr 1)
+
+Flayed Slave                                                      Flayed Slave
+Medium humanoid (human), lawful neutral                           Many seek to experience the deepest pleasures and pains of
+                                                                  the flesh. They travel far and wide in search of Balazar’s court
+Armor Class 12                                                    in the lands of Akhamia, seeking the unholy enlightenment
+Hit Points 33 (6d8 + 6)                                           that Balazar offers. In his beneficence, the lord of gluttony
+Speed 30 ft.                                                      takes in all those who beseech him in his stately court, even
+                                                                  though they are unworthy of his gifts.
+ STR      DEX       CON       INT       WIS       CHA                 Seekers of Enlightenment. The flayed are those who seek
+                                                                  the enlightened torments of Balazar’s court but can offer no
+ 12       14        12        10        12        10
+                                                                  value or skill in return. Their skin is carefully peeled from
+ (+1)     (+2)      (+1)      (+0)      (+1)      (+0)
+                                                                  their bodies, their muscles delicately lathered with ointments
+                                                                  to preserve their exposed muscle fibers and nerves. They walk
+Senses passive Perception 11
+                                                                  the palace grounds in a state of constant torment, attending
+Languages Akhamian, Common
+                                                                  to the master’s every need, carrying splendid platters of food,
+Challenge 1 (200 XP)
+                                                                  wine, and treasures. Their very existence is suffering, a sweet
+                                                                  surrender to the enlightened torments of the body Yet they are
+                                                                  grateful for this gift of divine suffering, for the opportunity to
+Actions:                                                          experience the master’s realms of enlightened existence.
+
+Multiattack. This creature makes three attacks.
+
+Fists. Melee Weapon Attack: +3 to hit, reach 5 ft., one target.
+Hit: 3 (1d4 + 1) bludgeoning damage.
+
+
+
+
+                                                                                                                                       29
+                                                   Normal (Cr 3)
+
+     Cabal Mage                                                        Cabal Mage
+     Among those who come to Balazar’s court are the members           Medium humanoid (human), neutral evil
+     of the Cabal, a secretive sect of sorcerers who seek
+     enlightenment of the mind above all else and understanding of     Armor Class 11 (leather armor)
+     the threads of construction that create both the physical world   Hit Points 44 (8d8 + 8)
+     and the intangible space of the mind, the constituents of the     Speed 30 ft.
+     human experience itself.
+         Cabal Mages peddle their services to Balazar’s court,          STR       DEX       CON       INT       WIS       CHA
+     casting preservative magics upon the bodies of those seeking
+                                                                        12        10        12        14        16        14
+     the Enlightened Suffering, so that they can experience greater
+                                                                        (+1)      (+0)      (+1)      (+2)      (+3)      (+2)
+     pleasures and pains than they may otherwise be able to. In
+     exchange, these mages are gifted access to forbidden
+                                                                            Senses passive Perception 12
+     knowledge and ancient wisdom. They delve into these
+                                                                            Languages Akhamian, Common
+     texts to achieve greater aptitude in their arcane arts.
+                                                                            Challenge 3 (700 XP)
+
+                                                                          Adept Spellcasting. Some of this creature’s actions are
+                                                                         considered spells (denoted in name). It can cast these spells
+                                                                        without using spell slots. Its spellcasting ability is its Wisdom
+                                                                       (spell save DC 13, +5 to hit with spell attacks).
+
+
+
+                                                                       Actions:						
+                                                                       Quarterstaff. Melee Weapon Attack: +5 to hit, reach 5 ft., one
+                                                                       target. Hit: 5 (1d8 + 1) bludgeoning damage.
+
+                                                                       Enlightened Pleasures (Spell). The Cabal Mage summons a
+                                                                       spectral whip, flogger, or blade, targeting a creature within 60
+                                                                       feet. The target must succeed on a Dexterity saving throw or
+                                                                       is struck by the instrument, taking 21 (7d6) piercing damage,
+                                                                       bludgeoning damage, or slashing damage respectively,
+                                                                       depending on which weapon was created.
+
+                                                                       Patron of Pain (Spell) (Recharge 5-6). The Cabal Mage
+                                                                       preserves the body of an ally, allowing it to experience
+                                                                       extensive pains without dying. Target a friendly creature within
+                                                                       60 feet. For the next minute, it is resistant to all damage. When
+                                                                       the spell ends, it takes damage equal to its missing hit points.
+
+
+
+
+30
+                                                 Normal (Cr 3)
+
+Exalted Archer                                                       Exalted Archer
+Medium humanoid (human), neutral evil                                The Exalted are servants of Balazar, composing the bulk of
+                                                                     his army and acting as agents at his service. They are drawn
+Armor Class 14 (leather armor)                                       from those who make the pilgrimage to Balazar’s court
+Hit Points 38 (7d8 + 7)                                              seeking his enlightened gifts and are strong enough to offer
+Speed 30 ft.                                                         valuable services in return. They are all capable fighters,
+                                                                     warriors, and assassins and are gifted in exchange for their
+ STR       DEX       CON       INT        WIS       CHA              servitude the path to the delightful raptures of torment. All
+                                                                     are sadistic and cruel, reveling in the physical mutilation of
+ 12        16        12        10         14        10
+                                                                     their enemies and driven to ecstatic pleasures by their moans
+ (+1)      (+3)      (+1)      (+0)       (+1)      (+0)
+                                                                     and tormented screams. But they enjoy equally, if not more,
+                                                                     the experience of their own suffering. To walk the path of
+Skills Perception +3
+                                                                     exaltation is to seek enlightenment, to understand every
+Senses passive Perception 13
+                                                                     sensation the body can offer, every emotion that the mind
+Languages Akhamian, Common
+                                                                     can devise, and every ecstasy and agony of the soul. It is
+Challenge 3 (700 XP)
+                                                                     a perverse worship of the self, a twisted exploration of the
+                                                                     human consciousness and condition of existence.
+Pain Toxins. This creature’s weapons are laced with
+                                                                         Exalted Archers. The archers of Balazar’s armies are
+neurotoxins that stimulate pain. Any target hit by this creature’s
+                                                                                 lithe and deadly; agile huntresses that dance about
+attacks is infected and takes an additional 3 (1d6) psychic
+                                                                                  the battlefield and strike swiftly like birds of
+damage whenever taking damage until they receive healing of
+                                                                                  prey. They prefer to stay close to the melee to
+any kind.
+                                                                        watch their foes die, relying on their natural dexterity to
+                                                                     dance around enemy blades. Their arrows are cruel and sharp
+Evasive. Attack rolls made against this creature have
+                                                                     with barbed heads and shafts, poisoned by neurotoxins that
+disadvantage if it can see the attacker, and it makes
+                                                                     increase physical stimulations to elevate the sensations of
+Dexterity saving throws with advantage. This benefit
+                                                                     both pleasure and pain. They do not aim to kill but to lacerate
+is lost if this creature is incapacitated or its speed is
+                                                                     and shred, exposing flesh and nerves so that their enemies
+reduced.
+                                                                     might suffer excruciatingly over many hours before finally
+                                                                     succumbing to their             blood loss and divine torments.
+Actions:		                                                           Normal (Cr 3)
+Multiattack. This creature makes two
+attacks.
+
+Dagger. Melee Weapon Attack: +5 to hit, reach 5 ft.,
+one target. Hit: 5 (1d4 + 3) piercing damage.
+
+Shortbow. Ranged Weapon Attack: +5 to hit, range
+80/320 ft., one target. Hit: 6 (1d6 + 3) piercing
+damage.
+
+
+
+
+                                                                                                                                       31
+                                                    Normal (Cr 3)
+
+     Exalted Spear                                                       Exalted Spear
+     The spears of Balazar’s armies are, like their archer               Medium humanoid (human), neutral evil
+     counterparts, on the path of enlightened suffering. They
+     are acrobatic soldiers, nimble and quick to exploit any hole        Armor Class 16 (leather armor, shield)
+     in the enemy’s defense. With spears poisoned by the same            Hit Points 52 (8d8 + 16)
+     neurotoxins as their archer counterparts, these warrior women       Speed 30 ft.
+     deliver precise strikes against their targets, subjecting them to
+     extended pain and suffering with each cut. They aim to pierce        STR      DEX       CON       INT       WIS       CHA
+     their enemies’ nerves, tendons, and non-vital organs, taking
+                                                                            14       16        14        10        14        10
+     every opportunity to see them squirm in agonizing pain before
+                                                                           (+2)     (+3)      (+2)      (+0)      (+1)      (+0)
+     finally bleeding out and embracing the relief from suffering
+     that death brings.
+                                                                         Senses passive Perception 11
+                                                                         Languages Akhamian, Common
+                                                                         Challenge 3 (700 XP)
+
+                                                                         Pain Toxins. This creature’s weapons are laced with
+                                                                         neurotoxins that stimulate pain. Any target hit by this creature’s
+                                                                         attacks is infected and takes an additional 3 (1d6) psychic
+                                                                         damage whenever taking damage until they receive healing of
+                                                                         any kind.
+
+                                                                         Actions:						
+                                                                         Multiattack. This creature makes two attacks.
+
+                                                                         Spear. Melee Weapon Attack: +5 to hit, reach 5 ft., one target.
+                                                                         Hit: 6 (1d6 + 3) piercing damage.
+
+
+                                                                         Reactions:						
+                                                                         Riposte. When this creature is targeted by a melee attack that
+                                                                         fails, it may immediately make one attack against the attacker
+                                                                         and regain its reaction.
+
+
+
+
+32
+                                               Normal (Cr 3)
+
+Gladiator Sentinel                                                Gladiator Sentinel
+Large humanoid (human), neutral evil                              The gladiator known as the Sentinel is a methodical fighter.
+                                                                  A well trained Akhamian soldier of war, he approaches every
+Armor Class 15 (studded leather, shield)                          combat slowly and patiently, remaining safe behind his bronze
+Hit Points 161 (17d10 + 48)                                       shield while waiting to find the perfect opening in the enemy’s
+Speed 30 ft.                                                      defenses. Once a crack in the defense appears, he strikes
+                                                                  swiftly, laying a devastating blow with his enormous cleaver.
+ STR      DEX      CON       INT      WIS      CHA                    Court Gladiators. The gladiators of Balazar’s court battle
+                                                                  to the death for the entertainment of malevolent nobles that
+   20       12       18        10      12        12
+                                                                  watch on in glee as their blood spills and bodies drop dead
+  (+5)     (+1)     (+4)      (+0)    (+1)      (+1)
+                                                                  to the floor. Combat is brutal and deadly, but each gladiator
+                                                                  is fed well and provided with every luxury and desire. Food,
+Senses passive Perception 11
+                                                                  women, men, or anything else their heart desires, all is given
+Languages Akhamian, Common
+                                                                  to them in plenty. Each time they enter the arena, these
+Challenge 5 (1,800 XP)
+                                                                             fighters treat it as if it will be their last, for one
+                                                                               miscalculated move may very well lead to their
+Brutal Melee. This creature’s attacks with melee
+                                                                                         end.
+weapons deal one extra die of their damage
+(included in the attack). Additionally, they score a
+Critical Hit on a natural 18 or higher.
+
+Shield Guard. This creature may spend an action or bonus
+action to raise its defenses, blocking the next 8 points
+of damage from attacks against it. This effect ends at
+the beginning of this creature’s next turn or if it is
+incapacitated.
+
+Actions:					
+Multiattack. This creature makes one attack with its
+Greataxe and may use Power Cleave.
+
+Greatsword. Melee Weapon Attack: +8 to hit, reach 5 ft., one
+target. Hit: 22 (5d6 + 5) slashing damage.
+
+Power Cleave (Recharge 5-6). Choose a melee weapon and
+make an attack against any number of targets within range. Any
+creature that is hit must make a DC 18 Strength saving throw or
+be knocked prone.
+
+
+
+
+                                                                                                                                      33
+                                                       Hard (CR 5)
+
+     Gladiator Ravager                                                  Gladiator Ravager
+     The gladiator fighting in Balazar’s Court, known as the            Large fiend (demon), chaotic evil
+     Ravager, is a talented arena fighter, like his counterpart,
+     the Sentinel. Each has survived scores of fights, exiting the      Armor Class 15 (studded leather)
+     arena after slaying their foe. But while the Sentinel is calm      Hit Points 102 (12d10 + 36)
+     and methodical, the Ravager is known for his rabid ferocity,       Speed 40 ft.
+     giving himself to bloodlust and going for the kill regardless of
+     any danger posed to himself.                                        STR      DEX      CON       INT      WIS      CHA
+                                                                           18       16       16        10      10        14
+                                                                          (+4)     (+3)     (+3)      (+0)    (+0)      (+2)
+
+                                                                        Senses passive Perception 10
+                                                                        Languages Akhamian, Common
+                                                                        Challenge 5 (1,800 XP)
+
+                                                                        Brutal Melee. This creature’s attacks with melee weapons
+                                                                        deal one extra die of their damage (included in the attack).
+                                                                        Additionally, they score a Critical Hit on a natural 18 or higher.
+
+                                                                        Ravaging Strikes. As a bonus action, this creature may gain
+                                                                        advantage on all melee attacks for the remainder of its turn.
+                                                                        However, all attacks against it have advantage until its next
+                                                                        turn.
+
+                                                                        Actions:				
+                                                                        Multiattack. This creature makes two with its Cleaver and two
+                                                                        attacks with its War Pick.
+
+                                                                        Cleaver. Melee Weapon Attack: +7 to hit, reach 5 ft., one target.
+                                                                        Hit: 17 (3d8 + 4) slashing damage.
+
+                                                                        War Pick. Melee Weapon Attack: +7 to hit, reach 5 ft., one
+                                                                        target. Hit: 17 (3d8 + 4) piercing damage.
+
+
+
+
+34
+                                                   Hard (CR 5)
+
+Voice of Lords                                                        Voice of Lords
+Medium fiend (demon), lawful evil                                     The Voice of Lords is one of the many demons bound to
+                                                                      Balazar’s service through ancient pacts of power. It acts
+Armor Class 14 (leather armor)                                        as the herald of Balazar’s court, announcing each session
+Hit Points 82 (11d8 + 22)                                             to the courtesans that come before its master and acting as
+Speed 30 ft.                                                          interpreter for those that travel far and wide to come before
+                                                                      him. The Voice is gifted with knowledge of all language and
+ STR       DEX       CON       INT       WIS       CHA                sciences, able to comprehends all tongues in existence, have
+                                                                      existed in the past, or will exist in the    future.
+   10        16        14        18        18        18
+  (+0)      (+3)      (+2)      (+4)      (+4)      (+4)
+
+Condition Immunities Blinded, Charmed
+Senses blindsight 60 ft., passive Perception 14
+Languages all
+Challenge 5 (1,800 XP)
+
+Adept Spellcasting. Some of this creature’s actions are
+considered spells (denoted in the name). It can cast these spells
+without using spell slots. Its spellcasting ability is its Charisma
+(spell save DC 15, +7 to hit with spell attacks).
+
+Quickcaster. This creature may cast a spell as a bonus action on
+each of its turns.
+
+
+Actions:				
+Fists. Melee Weapon Attack: +3 to hit, reach 5 ft., one
+target. Hit: 3 (1d6) bludgeoning damage.
+
+Word of Pain (Spell). The Voice of Lords speaks a word
+of pain directed at any creature within 60 ft. The target
+must make a Charisma saving throw, taking 28 (8d6)
+psychic damage on a failure.
+
+Word of Rapture (Spell) (Recharge 5-6). The Voice of
+Lords speaks a word of intense pleasure directed at any
+creature within 60 ft. The target must make a Charisma
+saving throw, becoming paralyzed until the end of their
+next turn on a failure.
+
+Thunderous Emanation (Spell) (Recharge 6). The
+Voice of Lords speaks a word of thunderous power,
+sending a rippling shockwave outward from itself.
+All other creatures within a 30 ft. circle must make a
+Constitution saving throw. On a failure, they take 21 (6d6)
+thunder damage and are knocked back to the edge of the effect.
+On a success, they take half damage and are not pushed back.
+
+
+
+
+                                                                                                                                      35
+                                                        Elite (Cr 7)
+
+     Cabal Assassin                                                     Cabal Assassin
+     The assassins employed by the cabal are demonic fiends             Medium fiend (shapechanger), neutral evil
+     brought forth from the nether realms and paid in souls to
+     accomplish selective tasks that require subtlety. They are lithe   Armor Class 16 (leather armor)
+     and deadly hunters, stalking through shadows and employing         Hit Points 71 (13d8 + 13)
+     arsenals of poisons and illusion magics to accomplish              Speed 40 ft., climb 40 ft.
+     anything from theft to seduction to murder. They have strange
+     bodies, resembling human but marred by deformities, yet             STR     DEX       CON      INT      WIS      CHA
+     through their magics, are able to appear human to the casual
+                                                                           14      20        12       12      14        14
+     glance, nearly indistinguishable from the general population.
+                                                                          (+2)    (+5)      (+1)     (+1)    (+2)      (+2)
+     They stalk their marks, using stealth and guile to gain entrance
+     to any location, and once the opportunity presents itself, in
+                                                                        Skills Deception +8, Perception +5, Stealth +8
+     dark alleys of the bazar or private rooms of the lush pleasure
+                                                                        Condition Immunities Blinded
+     houses, they strike quickly before seemingly disappearing into
+                                                                        Senses blindsight 60 ft., passive Perception 12
+     thin air.
+                                                                        Languages Akhamian, Common
+                                                                        Challenge 7 (2,900 XP)
+
+                                                                        Face Changer. The Cabal Assassin can use its action to
+                                                                        create an enduring magical illusion, making it appear like any
+                                                                        humanoid creature it has ever seen. This façade is not perfect,
+                                                                        and a creature that passes a DC 18 Wisdom (Perception) check
+                                                                        will be able to see through the illusion, noticing anatomical
+                                                                        anomalies that are slightly off.
+
+                                                                        Shadow Escape (Recharge 6). This creature can spend a bonus
+                                                                        action to immediately become invisible and then take the hide
+                                                                        action. The invisibility lasts for thirty seconds.
+
+                                                                        Scorpid Poison. When this creature makes an attack with
+                                                                        advantage, the attack deals an additional 17 (5d6) poison
+                                                                        damage.
+
+
+                                                                        Actions:			
+                                                                        Multiattack. This creature makes three attacks.
+
+                                                                        Glaive. Melee Weapon Attack: +5 to hit, reach 10 ft., one target.
+                                                                        Hit: 7 (1d10 + 2) slashing damage.
+
+                                                                        Paralyzing Dart (Recharge 5-6). Ranged Weapon Attack: +8
+                                                                        to hit, range 20/60 ft., one target. Hit: 7 (1d4 + 5) piercing
+                                                                        damage. On a hit, the target must make a DC 16 Constitution
+                                                                        saving throw or be paralyzed for one minute. A creature
+                                                                        paralyzed this way may repeat the saving throw at the start of
+                                                                        its turns, recovering on a success.
+
+
+
+
+36
+                                        Champion (Cr 10)
+
+General Atraxes                                                   General Atraxes
+Large fiend (demon), lawful evil                                  Atraxes leads Balazar’s armies of exalted into combat. She is
+                                                                  a cunning commander and skilled warrior, wielding a greataxe
+Armor Class 16 (scale mail)                                       that drips with a mixture of toxins extracted from the many
+Hit Points 127 (18d10 + 45)                                       poisonous and venomous insects and creatures that inhabit the
+Speed 30 ft.                                                      sandy dunes of the Akhamian deserts. Atraxes is the source
+                                                                  of much trouble for the Holy Empire, as she
+STR       DEX       CON       INT     WIS       CHA               leads assault parties to strike out at Penitent
+                                                                  Crusader outposts and constantly destabilize
+  20        18        16        14      16        18
+                                                                  the Holy Empire’s grasp on Akhamia. She
+ (+5)      (+4)      (+4)      (+2)    (+3)      (+4)
+                                                                  works ruthlessly to liberate the jewel
+                                                                  city of Ir Khalem, which the crusade
+Saving Throws Str +9, Con +8, Cha +8
+                                                                  currently occupies as they believe it is
+Senses passive Perception 13
+                                                                  the birthplace of their God Emperor.
+Languages Akhamian, Latrian, Common
+                                                                  However, to Akhamians, this grand
+Challenge 10 (5,900 XP)
+                                                                  city is a cultural mecca and was once
+                                                                  an important ancestral capital. It is also
+Command. As a bonus action on each of its turns, this creature
+                                                                  one of the few places in the arid desert with
+may select one allied creature within 30 feet. The target may
+                                                                  access to bountiful water and resources,
+immediately make one free move or attack action.
+                                                                  making it an important social and
+                                                                  political stronghold.
+Cruel Toxins. This creature’s weapons are laced with a deadly
+mixture of poisons and venoms. When this creature makes a
+successful attack, its target must make a DC 18 Constitution
+saving throw. On a failure, it takes 21 (6d6), and must make
+a second DC 16 Constitution saving throw. On a failure, it
+becomes poisoned until it takes a long rest.
+
+
+Actions:			
+Multiattack. This creature makes two attacks with its Greataxe.
+
+Greataxe. Melee Weapon Attack: +9 to hit, reach 5 ft., one
+target. Hit: 18 (2d12 + 5) slashing damage.
+
+
+
+
+                                                                                                                                  37
+                                                Champion (Cr 10)
+
+     Keeper of Keys                                                       Keeper of Keys
+     The Keeper of Keys is a demonic juggernaut, impervious               Large fiend (demon), lawful evil
+     to all forms of physical damage and able to decapitate a man
+     with a single flick of its bladed arms. With its one demonic         Armor Class 10 (no armor)
+     eye, this creature can see all true physical realities, discerning   Hit Points 172 (15d10 + 90)
+     all hidden things of the physical sphere.                            Speed 30 ft.
+         Keeper Pair. The two Keepers are a strange pair, two
+     demonic beings hailing from the nether realms. The larger             STR      DEX       CON INT             WIS       CHA
+     and more imposing is titled the Keeper of Keys, and from
+     the various leather straps and bands that circle its body hang          22       10        22  10             10          8
+     multitudes of strangely shaped keys of all shapes and sizes.           (+6)     (+0)      (+6) (0)            (0)       (-1)
+     Each key holds a tremendous secret, opening a gateway to a
+     realm of knowledge, wisdom, or experience that would break           Damage Immunities Bludgeoning, Piercing, Slashing
+     the mind of any ordinary mortal. No one save the Keeper of           Condition Immunities Blinded, Deafened, Exhausted,
+     Secrets may access these keys, for the Keeper of Keys exists         Frightened, Grappled, Incapacitated, Paralyzed, Petrified,
+     solely to safeguard them.                                            Poisoned, Stunned, Unconscious
+                                                                          Senses blindsight 60 ft., passive Perception 10
+                                                                          Languages understands all languages but cannot speak
+                                                                          Challenge 10 (5,900 XP)
+
+                                                                          Brutal Melee. This creature’s attacks with melee weapons
+                                                                          deal one extra die of their damage (included in the attack).
+                                                                          Additionally, they score a Critical Hit on a natural 18 or higher.
+
+                                                                          Discern Reality (Physical). The Keeper of Keys automatically
+                                                                          succeeds on perception checks concerning items or creatures
+                                                                          that are not protected by magical effects.
+
+
+                                                                          Actions:						
+                                                                          Multiattack. This creature makes two attacks with its Blades.
+
+                                                                          Great Blades. Melee Weapon Attack: +10 to hit, reach 5 ft., one
+                                                                          target. Hit: 25 (3d12 + 6) slashing damage.
+
+
+
+
+38
+                                                Champion (Cr 10)
+
+     Keeper of Secrets                                                     Keeper of Secrets
+     Medium fiend (demon), lawful evil                                     The Keeper of Secrets can see through all manner of magical
+                                                                           effects and illusions, viewing the true reality as is. It cannot be
+     Armor Class 14 (leather armor)                                        tricked nor lied to, as it sees through all truths and lies.
+     Hit Points 75 (10d8 + 20)                                                 Gateway to Enlightenment. The tandem pair of Keepers
+     Speed 30 ft.                                                          are never far apart from one another, each playing a vital role
+                                                                           on the path of enlightened suffering and both remaining in
+      STR       DEX       CON       INT       WIS        CHA               service to Balazar. To the worthiest of humans; those seekers
+                                                                           ready to transcend their mortal shells, Balazar grants an
+        10        16        14        22        22         22
+                                                                           audience with the Keeper of Secrets. This strange demonic
+       (+0)      (+3)      (+2)      (+6)      (+6)       (+6)
+                                                                           being turns to the individual with sightless eyes, reading their
+                                                                           very soul and choosing a key from the Keeper of Keys.
+     Damage Immunities Acid, Cold, Fire, Force, Lightning,
+                                                                               Each key fits into the same keyhole in a
+     Necrotic, Poison, Psychic, Radiant, Thunder
+                                                                           mysterious orb that floats in Balazar’s court,
+     Condition Immunities Blinded, Charmed
+                                                                           a golden globe transcribed with ancient
+     Senses truesight 60 ft., passive Perception 16
+                                                                           languages not of this world. Each key opens
+     Languages all, telepathy 120 ft.
+                                                                           a gateway to a different reality, a different
+     Challenge 10 (5,900 XP)
+                                                                           realm of existential suffering and pleasure,
+                                                                           a different plane of enlightenment. For
+     Discern Reality (Ethereal). The Keeper of Secrets
+                                                                           each worthy seeker, the Keeper of Secrets
+     automatically succeeds on perception checks concerning
+                                                                           chooses the key to the reality most
+     items or creatures affected by magic. Additionally, it can
+                                                                           fundamental to that person’s existential
+     automatically tell the difference between any truth or lie.
+                                                                           journey, the final step on the path to their
+                                                                           own form of enlightenment. Those who
+     Mirror Shift. On each of the Keeper’s turns, it may spend a
+                                                                           enter their reality through the golden
+     bonus action to trade places with any one of its duplicates. A
+                                                                           orb invariably come back changed,
+     creature cannot tell that this switch occurred unless it is able to
+                                                                           always something more and always
+     see through magical illusions.
+                                                                           something less than the being they once
+                                                                           were.
+     Adept Spellcasting. Some of this creature’s actions are
+     considered spells (denoted in the name). It can cast these spells
+     without using spell slots. Its spellcasting ability is its Wisdom
+     (spell save DC 18, +10 to hit with spell attacks).
+
+     Actions:					
+     Terrific Sights (Spell). Target a creature within 60 feet. The
+     target must make a Wisdom saving throw. On a failure, its brain
+     is filled with torturous sights beyond the limits of imagination,
+     taking 21 (6d6) psychic damage.
+
+     Mirror Self (Spell) (1/Day). Three illusory duplicates of the
+     Keeper of Secrets appear anywhere within a 90 ft. of it. Each
+     duplicate takes a turn at the same time as the Keeper and has
+     all the same stats and abilities as the Keeper at the time of its
+     creation. If a duplicate is reduced to 0 hit points, it disappears.
+     If the Keeper takes damage, all surviving duplicates adjust their
+     current hit points to match. If the Keeper is slain, all duplicates
+     disappear.
+
+
+
+
+39                                                                                                                                               39
+                                              Champion (Cr 10)
+
+     Lamashtu, Scion of Suffering                                     Lamashtu, Scion of Suffering
+     Lamashtu is a demon of nightmarish ferocity. It descends         Large fiend (demon), chaotic evil
+     upon the battlefield, slaughtering all those that oppose
+     the advances of General Atraxes and her troops. Yet the          Armor Class 17 (leather armor)
+     bloodshed of battle is not enough to sate the hunger of this     Hit Points 119 (14d10 + 32)
+     fiendish entity. When it has not whet its blades in the blood    Speed 40 ft.
+     of an enemy for a day or longer, it grows restless, turning on
+     anyone around for sport. In these times, Lamashtu must be         STR       DEX       CON        INT       WIS        CHA
+     given a wide berth, for it begins to stalk even its own kind
+                                                                         16        22        16         14        16         12
+     with a feline psychopathy. The demon enjoys the massacre
+                                                                        (+3)      (+6)      (+3)       (+2)      (+3)       (+1)
+     of innocents, especially enjoying the murder of the young or
+     pure of heart, but their        blood tastes sweetest to it.
+                                                                      Saving Throws Dex +10, Wis +7, Cha +5
+                                                                      Skills Perception +7
+                                                                      Senses darkvision 120 ft., passive Perception 13
+                                                                      Languages all
+                                                                      Challenge 10 (5,900 XP)
+
+                                                                      Evasive. Attack rolls made against this creature have
+                                                                      disadvantage if it can see the attacker, and it makes Dexterity
+                                                                      saving throws with advantage. This benefit is lost if this
+                                                                      creature is incapacitated or its speed is reduced to 0.
+
+                                                                      Scent of Blood. The Lamashtu has advantage on attack rolls
+                                                                      against any creature that is missing at least half of its total hit
+                                                                      points.
+
+                                                                      Battle Stalker. This creature cannot be targeted by attacks of
+                                                                      opportunity.
+
+                                                                        Actions:				
+                                                                                   Multiattack. This creature makes four attacks.
+
+                                                                                   Scimitar. Melee Weapon Attack: +10 to hit, reach
+                                                                                 5 ft., one target. Hit: 13 (2d6 + 6) slashing damage.
+
+                                                                      Reactions:		
+                                                                      Riposte. When this creature is targeted by a melee attack that
+                                                                      fails, it may immediately make one attack against the attacker
+                                                                      and regain its reaction.
+
+
+
+
+40
+41
+                                                   Archon (Cr 25)
+
+
+     Balazar, Lord of Excess                                                Balazar’s Lair
+     Balazar, the Lord of Excess, is the demon prince of gluttony           Balazar reigns from his palace in the Akhamian city of Ashurr,
+     and depravity. He rules from his high court in the city Ashurr,        from his seat at court on his gilded throne. Yet, his physical
+     located in the central area of the arid country Akhamia. Yet           body is hidden deep within a ziggurat outside of the palace.
+     his is a realm of opulence and fertility. The city is ancient, a       However, the entire city is considered his lair, and all areas
+     millennium old, full of history and ancient culture. It sits on the    of it fall under his magical domain. He can hear, see, and feel
+     banks of the Tiridus river, one of the few heart rivers that flows     everything that happens anywhere within its walls, and he takes
+     through the otherwise sand swept landscape.                            great amusement in spying on all those within his dominion.
+         From this gilded throne, Balazar accumulates all manner
+     of luxury, wealth, and pleasures, and many come from far and
+     wide to suckle on the bounties of food, wine, art, exotics, and        Lair Actions
+     carnal riches that can be found in endless troves within his           On initiative count 20 (losing initiative ties), Balazar takes a
+     flourishing kingdom. So plentiful are all forms of pleasures and       lair action to cause one of the following effects. Balazar cannot
+     comforts in Balazar’s realm that it is said those who wander           take the same lair action twice in a row:
+     there are more likely to die from a burst belly than starve, more
+     likely to find their pockets full of gold than silver, and more            Illusory Clone. A magical copy of Balazar appears
+     likely to share a bed with two lovers than none.                       anywhere within a 90 ft. of him. The copy is created with all
+         Master of Guile. Balazar is a demon gifted with many traits,       the same characteristics as the real Balazar at the time of its
+     highly intelligent, and knowledgeable in all things of history,        creation, and if the real Balazar takes damage, all copies change
+     culture, religion, science, and the human condition. Yet most of       their current hit points to match. The copies do not deal any
+     all, he is gifted with the powers of guile, able to create illusions   damage but mirror Balazar’s movements so that they always
+     and obfuscations, which he employs to his own amusement                face the same point that he is looking at and always act as if
+     and for his safety. Though Balazar appears at all times to sit         they are attacking or casting spells at the same time he is. A
+     on his gilded throne, feasting on fruits and human brains while        maximum of three copies may exist at any time.
+     laughing and participating in court, he is not truly there. This           Change Places. Balazar trades places with one of his
+     body is just a projection, a mirage that he controls, while his        illusory copies. A creature cannot tell that this switch occurred
+     true body lies far below, hidden away in the deepest levels of         unless it is able to see through magical illusions.
+     his ziggurat outside the palace walls.
+         The Enlightened Suffering. Yet to those seekers of a deeper
+     truth, an even greater blessing can be found in Balazar’s court,
+     the gift of exaltation. For a portion of the population, indulging
+     worldly things is not enough to sate them. No matter how much
+     they consume, they feel as if something is missing. Decadent
+     feasts, luxurious orgies, and endless nights of bacchanal parties,
+     nothing is enough. They begin to realize that deep inside them
+     is a bottomless desire, a creeping blackness in the heart, a
+     gaping void that stretches larger by the day.
+         These people begin to realize a truth deep within themselves,
+     beginning to understand the lies of worldly pleasures and
+     turning toward the truer experience of suffering. They learn
+     to indulge in the most extreme of human emotions, those of
+     anguish and torment of both the body and mind. They become
+     seekers, and begin to unravel the mysteries of the human
+     existence that others are too naive or too scared to realize.
+     When the time is right, they make a pilgrimage to Balazar’s
+     court, beseeching him for the gift of exaltation to elevate them
+     to a perpetual suffering. And for those who truly prove their
+     worth, Balazar freely grants these gifts, which he calls the
+     enlightened suffering.
+42
+43
+                                                    Archon (Cr 25)
+
+     Balazar, Lord of Excess                                             each of its turns, ending the effect on itself on a success. If a
+                                                                         creature’s saving throw is successful or the effect ends for it, the
+     Gargantuan fiend (devil), neutral evil                              creature has advantage against this effect for the next 24 hours.
+
+     Armor Class 16 (natural armor)
+     Hit Points 437 (25d20 + 175)                                        Legendary Actions:				
+     Speed 30 ft.                                                        Balazar can take 3 legendary actions, choosing from the options
+                                                                         below. Only one legendary action option can be used at a time
+      STR       DEX       CON       INT       WIS        CHA             and only at the end of another creature’s turn. Balazar regains
+        24        10        24        24        24         24            spent legendary actions at the start of his turn.
+       (+7)      (+0)      (+7)      (+7)      (+7)       (+7)
+                                                                         Bounteous Gifts. Balazar cast a Gift of Enlightenment.
+     Saving Throws Int +16, Wis +16, Cha + 15
+     Skills Arcana +15, Deception + 15, History + 15, Insight + 15,      Slam. Balazar makes a Slam attack.
+     Persuasion +15, Religion +15
+     Senses truesight 120 ft., passive Perception 17                     Phase Step (Costs 2). Balazar chooses himself or one of
+     Languages all                                                       his copies. The chosen creature steps through the void and
+     Challenge 25 (75,000 XP)                                            teleports to a new location in reality, instantly disappearing and
+                                                                         reappearing anywhere within 60 feet.
+     Adept Spellcasting. Some of this creature’s actions are
+     considered spells (denoted in the name). It can cast these
+     spells without using spell slots. Its spellcasting ability is its
+     Intelligence (spell save DC 23, +15 to hit with spell attacks).
+
+     Legendary Resistance (3/Day). If this creature fails a saving
+     throw, it can choose to succeed instead.
+
+
+     Actions:
+     Slam. Melee Weapon Attack: +15 to hit, reach 5 ft., one target.
+     Hit: 25 (4d6 + 7) bludgeoning damage.
+
+     Gift of Enlightenment (Spell). Balazar selects one creature
+     within 90 feet and grants it a gift of enlightened suffering. The
+     target must make a DC 18 Wisdom saving throw to avoid the
+     blessing or is cursed for the next 1 hour. When cursed, at the
+     start of each of its turns, the target’s skin and flesh begins to
+     peel from its body, taking 3 (1d6) force damage. Creatures may
+     receive this curse any number of times, increasing the damage
+     by an additional 1d6 for each additional time it is cursed. The
+     curse may be removed by spells and is automatically removed
+     if Balazar dies.
+
+     Hideous Laughter (Recharge 6). Balazar breaks out in an
+     amused laughter, allowing a magical illusion covering his
+     body to shift. For a moment, all creatures that can see him and
+     are looking at him, and can hear him, may glimpse his true
+     demonic nature, a shocking sight. All such creatures must make
+     a DC 19 Charisma saving throw or become frightened for 1
+     minute. A creature can repeat the saving throw at the end of
+
+44
+45
+46
+47
+48
+49
+50
+51
+52
+

@@ -1,0 +1,436 @@
+PATH OF PENITENCE
+   PLAYER QUICKSTART GUIDE
+                                          v 1.0
+
+
+
+
+                        Player QuickStart Guide
+“The path to redemption is a treacherous journey walked alone,
+each step resonating with the sorrow of a thousand sins."
+
+
+
+
+                                         CREDITS
+Designer/Editor-in-Chief: Alexander H.       Produced by: Bestiarum Games
+  Dovermann
+
+Miniature Photos: Marcus Harland
+
+Image Technician: Marina Jukova
+                                                     evil throughout the realm. Your party will form
+            elcome hero! The Path of                 a band of unlikely heroes, starting as dregs of
+
+
+
+    W
+            Penitence (PoP) is Bestiarum’s           the Empire’s lowest caste of criminals and
+            unique 5e campaign system, a             rising to become heroes of the realm.
+            thrilling experience that thrusts
+            you into the fallen world of
+Doaden, a dark fantasy setting full of deadly
+monsters, rabid beasts, devious cults, risen
+dead, demons, devils, and worse!
+
+As you explore these shattered lands, you will
+uncover dark secrets and mysteries of the
+past. But be warned, your path will be full of
+danger. Not only must you learn to defend
+yourselves against the terrifying enemies that
+stalk this realm, but the world itself becomes a
+treacherous foe! Whether you are exploring an
+ancient tomb, sinister forest, dark mage’s
+tower, or a cursed city long forgotten, tread
+carefully or you will quickly find your end!
+
+This short guide contains all the information
+you need to jump right in and get started!
+Whether you are newly joining our dark world,         “The only good cultist is a dead cultist.” – Vozruk
+or have been a long-time fan, we welcome you
+to the fallen world of Doaden and hope you           Vozruk the Redeemer is your commanding
+enjoy your adventures ahead!                         officer. He will assign you your missions for
+                                                     the Crusade. These missions typically take the
+The Penitents                                        form of short adventures, varying across the
+                                                     spectrum of dark fantasy stories. From horror
+You and your Player Character (PC) take on
+                                                     to suspense, monster hunts to demonic
+the role of a Penitent, an unfortunate soul
+                                                     exorcisms, paranormal investigations to hack-
+who has been convicted of crimes or sins
+                                                     and-slashes dungeon runs, the dark tales of
+against the Empire of Azerai. As punishment,
+                                                     this world are truly endless. You never know
+you have been sentenced to 500 years of
+                                                     what adventures lie ahead!
+atonement, beginning your harrowing quest
+                                                         For each successful mission you complete,
+for redemption.
+                                                     the number of years left of your atonement will
+   To pay off your sentence, you are forced to
+                                                     be reduced and your rank in the Crusade will
+join the Penitent Crusade, the Empire's army
+                                                     rise, allowing you to access supplies and
+of soldiers and knights dedicated to fighting
+2                                    Path of Penitence – Player QSG
+magical items, allies, and companions to help         demands utter obedience to its draconic laws
+you on your future quests. Over the course of a       and doctrines. Disobedience is punished
+campaign, your party’s actions will change the        harshly.
+course of the world forever.                              Common folk are routinely convicted of
+                                                      crimes and sentenced to a harsh life of
+                                                      penance. These convicted Penitents form an
+The World of Doaden
+                                                      endless supply of laborers and militia for the
+Once full of beauty and promise, Doaden is a
+                                                      Empire, their sentenced to serve for a few
+fallen realm teetering on the brink of oblivion.
+                                                      months to many years. The worst offenders
+Long ago the First Emperor, a man of iron will
+                                                      receive a 500-year sentence, nearly impossible
+and determination, united the many banners
+                                                      to repay in a single lifetime.
+of the world through ruthless conquest. The
+                                                          To atone for their crimes, Penitents are
+empire he forged, now called the Old Empire,
+                                                      sent to harsh labor assignments all over the
+fostered a golden age of prosperity, regional
+                                                      realm. In the Mines of Tartari, thousands dig
+stability, and advancement in both the magical
+                                                      for metals in dark and unstable tunnels filled
+and worldly sciences.
+                                                      with deadly gasses. In the Ambrosian Fields,
+                                                      lines of broken souls toil endlessly in vast
+The Devastation. Yet, at the height of the Old
+                                                      grain farms, spreading Corpse Ash from dawn
+Empire’s power, the unthinkable happened.
+                                                      to dusk, a caustic fertilizer derived from burnt
+The Demoncore, an arcane weapon said to
+                                                      human remains. The variety of assignments is
+harness the power of the sun itself, detonated
+                                                      endless, and each is worse than the last.
+in the imperial capital. A wave of flames and
+destruction erupted from its epicenter,
+consuming the world. Cities, towns, forests,
+                                                      The Penitent Crusade
+and mountains burned away in moments.                 The Crusade is the Empire’s army of knights
+    In the wake of the explosion, Doaden was          and soldiers dedicated to combatting evil in
+plunged into a new dark age, the survivors            whatever form it takes. Yet the vast majority of
+bereft of their collective knowledge of magic,        its ranks are drawn from Penitent conscripts
+science, and technology. The Old Empire was           who have been forced into service to pay off
+shattered into many nations once again, each          their criminal sentences.
+struggling to survive in the annihilation. In the         It is this organization that your PC will be
+ages that followed, demons, monsters, and             joining on their own path to atonement.
+twisted abominations proliferated throughout          Though the Crusade is one of the deadliest
+the world, brought forth from hellish realms.         assignments in the Empire, it repays years of
+                                                      atonement far quicker than any other duty.
+The Empire of Azerai
+                                                      The Meatgrinder. Little value is placed on the
+The remnants of the Old Empire survive today
+                                                      lives of Penitents. Their numbers are endless,
+as the Empire of Azerai, a theocracy run by the
+                                                      and they are often unskilled and untrained.
+Church. Life is hard. The Church of Azerai
+                                                      The Crusade uses them as cannon fodder,
+                                      Path of Penitence – Player QSG                                 3
+deploying them on suicidal missions to lessen         Husks. Penitents who run from their duties
+the risks towards more valuable soldiers.             are hunted down by Church interrogators.
+    Waves of Penitents are sent charging              Once captured, they are thrown into torture
+unarmed into battlefields to bog down enemy           chambers where horrific ceremonies are
+armies, sprinting through monster-infested            performed. The details are a well-guarded
+lairs to bait out the horrors within, cracking        secret, but hushed rumors circulate of iron
+open sealed tombs to trigger curses or traps,         needles driven into the brain, anguished cries
+and many other unsavory tasks.                        of victims, and robed zealots murmuring
+    A Penitent’s odds of survival are slim, but       incantations in archaic tongues.
+there is a chance they may rise within the               Though the details of these rituals are
+ranks of the Crusade and redeem themselves.           obscured, the outcome is well known. The
+In the Crusade, prowess in battle and years           individual returns as a Husk, a hollowed-out
+served determine one's standing.                      being, stripped of the essence that made them
+                                                      human. Husks retain their ability to speak and
+Mark of Atonement. There is no escaping a             perform simple tasks from wielding weapons
+Penitent’s fate. The Mark of Atonement is             to simple smithing or labor, but behind their
+branded prominently on their skin, an                 vacant eyes, one finds only emptiness. They
+unmistakable label that draws the scorn and           are perfect slaves, incapable of independent
+derision of all and reminds them of their sins.       thought and fully obedient to their master.
+The mark cannot be removed, but it slowly
+fades over time as their sins are paid. The
+Empire wields magical means to track these
+marks, rendering escape impossible.
+
+
+
+
+A Penitent’s mark slowly fades as they atone for their sins, though never entirely. There will always be
+                        some faint trace remaining, a reminder of their past.
+4                                     Path of Penitence – Player QSG
+Forging Your Path
+Husks are a chilling reminder of what happens
+to those who defy the Empire. The Path of
+Penitence is fraught with danger and despair,
+but there is a chance – however slim – of
+redemption. It is best that your PC accepts
+their predicament and strives to make the best
+of the hand they’ve have been dealt.
+    Of course, we're speaking in character
+here. On a meta level, we understand that the
+grim world of Doaden and the plight of the
+Penitent might feel bleak or constraining at
+times. However, players and Game Masters
+are united in a common goal to tell a collective
+story. This means accepting the limitations of
+your characters' position and working within
+those bounds to create drama, tension, and
+ultimately, build a world in service to this
+greater narrative.
+    There will be plenty of space for you to
+develop your character’s unique story,
+especially as they advance in rank within the
+crusade and begin to explore the world!
+
+Let this understanding guide your next steps!
+In the following section, you will learn how to
+create your very own Penitent character.
+
+
+
+
+                                     Path of Penitence – Player QSG   5
+CREATING YOUR PENITENT
+                                                        The crime does not need to be extreme.
+                                                     The sentence may be far in excess of the
+Create your character exactly the same as you        typical punishment. For example, stealing a
+would in a standard 5e game. But along the           loaf of bread from the wrong lord, or annoying
+way, consider the following to engage with the       a judge, could lead to the 500-year sentence
+system’s unique narrative!                           for your PC while someone else gets a few
+                                                     short months.
+
+1. Backstory: Sins & Crimes
+                                                     Life of Penance. Next, consider how these
+As part of your character’s backstory, consider      events have shaped your character. Were they
+the sin or crime they were charged with,             truly guilty or not? Were they justly punished
+leading to their conviction. You can look at the     or a victim of an uncaring legal system?
+Sins & Crimes Table to roll on or draw                  How has it affected their life? Were they a
+inspiration from to create your own! The crime       prominent figure, brought low by sin, or
+does not affect your PC’s skills or abilities but    perhaps a lowly individual ensnared by the
+helps to deepen their backstory.                     machinations of the powerful?
+                                                        What drove them to commit their crime,
+Custom Crime. The only requirement is that           and how do they feel about it now? Are they
+your crime has resulted in a 500-year sentence       remorseful, defiant, or perhaps a bit of both?
+for your PC. It could be anything from stealing         Answering just a few of these questions will
+from a church or planning a rebellion against        go a long way to shape your character’s
+the Empire, practicing dark magic, or just           personality and build an impactful journey on
+being in the wrong place at the wrong time.          their path of penance.
+
+6                                    Path of Penitence – Player QSG
+“Bad” Characters. Some PCs might be                   3. Magic
+condemned based solely on their identity. For
+                                                      In Doaden, the ability to cast magic does not
+example, a warlock’s use of dark magic may
+                                                      stem from a pantheon or deity — it courses
+be all that is needed for the zealous Church to
+                                                      through the individual. To cast spells, your
+sentence them. The good news is that the
+                                                      character does not have to be bound by a
+Crusade does not discriminate. Regardless of
+                                                      belief or subscribe to any particular deity.
+your PC’s background, abilities, race, or
+                                                         However, for narrative purposes, you might
+gender, the Crusade will eagerly exploit their
+                                                      give your PC a belief that reflects the world
+powers in the fight against evil. So, don’t shy
+                                                      around them. For example, Azerai clerics or
+away from your gifts — they may prove to be
+                                                      paladins may believe their abilities stem from
+your greatest asset on the path to redemption.
+                                                      their faith in the Church.
+    Even a Penitent's personality traits may be
+a benefit to them. If they are prone to violence,
+                                                      4. Taking it Further
+thieving, or other character defects, so long as
+they are now performing these acts in service         That is all you need to know to start your
+to the Empire, they will be accepted.                 journey as a Penitent! The following section,
+                                                      Lore & History, is an optional read, for those
+Oath of Penance. Instead of committing a              who wish to dig deeper into the world of
+crime, your character may become a Penitent           Doaden and the various cultures and political
+by freely taking the Oath of Penance. They            structures of the Empire.
+may be zealous believers in the teachings of             This information is not necessary to know,
+Azerai faith, punishing themselves out guilt or       but it help you to understand the world and
+remorse for past acts, or any other reason you        determine your character’s background and
+can think of.                                         ethnicity more clearly. Remember, you can
+                                                      always invent your own material as well!
+2. Fantasy Races
+Doaden is dominated by humans. Fantasy
+races like dwarves and elves do exist, though
+typically residing in communities isolated
+from human settlements, so little is known
+about them within the Empire. While these
+races are unusual, they are not unheard of. In
+the vastness of this shattered world, there is
+space for anything and anyone to exist.
+   Thus, you may choose any fantasy race you
+wish when building your PC. But if you do,
+consider where they hail from, what their
+community looked like, and what brought
+them into contact with human civilization.
+                                      Path of Penitence – Player QSG                                   7
+SINS & CRIMES TABLE
+    Roll      Charge             Definition                                Example
+     1        Heresy       Speaking doubt about        A scholar suggests the Grand Ecclesiarch’s new
+                           the Azerai faith.           law is brutal and not in the best interest of the
+                                                       people. He is taken by the Church and
+                                                       sentenced for heresy.
+
+     2        Cultism      Worshipping any             A small village in an old forest makes yearly
+                           religion other than the     sacrifices to a nature spirit they believe is
+                           Azerai faith.               responsible for good harvests. Their ritual is
+                                                       seen by a traveling priest, who summons the
+                                                       Crusade to purge their cultish beliefs.
+
+     3       Sedition      Taking up arms against      A group of farmers plot a coup to overthrow
+                           or plotting to              the corrupt lord of their land. Unfortunately,
+                           destabilize the Empire.     their plan is discovered, and soldiers are sent
+                                                       to quash the uprising. The few survivors are
+                                                       sentenced for sedition.
+
+     4     Contamination   Accessing tainted           A young scribe works as an archeologist,
+                           knowledge or artifacts      removing ancient relics from a buried temple
+                           without authorization.      site. She stumbles upon a worn tome and
+                                                       opens it, finding demonic spells written inside.
+                                                       She quickly closes it and hands it to her
+                                                       supervisor. He reports her in case her mind has
+                                                       been contaminated by evil.
+
+     5     Grand Murder    The unauthorized killing    Bandits attempt to rob a traveler at knifepoint.
+                           of a lord or member of      Their actions escalate and they kill the traveler,
+                           the Church.                 who turns out to be a wandering Azerai priest.
+                                                       The bandits are rounded up and sentenced for
+                                                       grand murder.
+
+     6     Tithe Evasion   Failing to pay one’s        A crafty merchant uses a 'creative' accounting
+                           required annual tithe to    method to reduce the taxes he owes to the
+                           the Empire.                 Empire. His elaborate bookkeeping ruse is
+                                                       discovered by the imperial treasurers. He is
+                                                       promptly arrested and sentenced.
+
+
+
+
+8                                     Path of Penitence – Player QSG
+        LORE & HISTORY
+                                                    The Demoncore. In secret arcane vaults,
+                                                    Azerai mages built the Demoncore, gifting the
+This section is an optional read! The world of      weapon to the First Emperor. The weapon
+Doaden is vast and what is covered here is          was used to secure the fealty of the empire’s
+only a fraction of what might exist. You are        vassal nations by ensuring obliteration for any
+free to create your own stories, backgrounds,       that stepped out of line. The operation and
+and cultures both inside the Empire and out!        maintenance of the weapon remained a
+                                                    guarded secret known only to the Azerai’s
+                                                    inner circles.
+Founding of the Azerai
+The peace and stability of the Old Empire was       The One Faith. Over the generations, each
+an illusion built upon the veiled threat of         successive emperor relied on the Azerai’s
+destruction. After the empire’s founding, the       knowledge, secrets, and guidance. The Azerai
+Cult of Azerai rose to power by spreading a         was quickly established as the empire’s official
+new religion, worshipping the First Emperor         religion and remained a dominant power until
+as a god. They pledged their services to him in     the fall of the Old Empire in the Devastation.
+exchange for power and influence at court.
+
+                                    Path of Penitence – Player QSG                                9
+The Empire of Azerai. After the Devastation,          where slaves forge sacred weapons and
+the Church of Azerai founded the Empire of            machines of war.
+Azerai, or simply the Empire, in the western              Majestic spires rise into the sky, casting
+reaches of the once great power. The Church           long shadows over the rest of the Empire, a
+rules now as theocracy, controlling all laws          constant reminder of the Church's watchful
+and banning all other religions. Its dominion is      eye and omnipresent authority. The Citadel is
+marked by tyranny, oppression, and religious          a place of unyielding faith, where religious
+zealotry. Citizens must pledge utter obedience        doctrine permeates every aspect of life.
+to the Church’s teachings, which promises                 Despite the Church’s oppressive nature, it
+salvation from the darkness.                          acts as a nexus, uniting the varied cultures of
+                                                      the Empire in a shared faith. The Empire’s
+Grand Ecclesiarch. At the head of the church          citizenry forms a united front, enduring the
+is the Grand Ecclesiarch, a sovereign granted         evils of the world together and drawing
+absolute authority over the Empire through            strength from their collective resilience.
+the ritual of ascension. Vitalinus is the current
+Grand Ecclesiarch. He sits the Malformed              Western Diocese
+Throne, a twisted wreckage of molten metal
+                                                      To the west are the once great kingdoms of
+once belonging to the First Emperor, salvaged
+                                                      Averlon and Frankonia, a people beholden to
+from the epicenter of the Devastation.
+                                                      chivalric ideals and a heritage of honor and
+                                                      societal duty. Their lands are steeped in
+Azerain Culture                                       legends, from their great lochs to their rolling
+The Empire has five key regions: the Sunlit           plains and mystic woods. Ancient castles dot
+Citadel at its center, and four Diocese to the        the landscape, many now in ruin, their
+North, East, and South, and West. Each                weathered stone halls whispering tales of
+Diocese is overseen by bishops who hold               knights and kings, valor, and treachery.
+power over areas of land, ensuring the local              The folk here, often hailing from noble
+lords govern their people according to the            lineage, uphold their ancestral traditions with
+Church’s religious doctrines.                         great pride, their festivals and tournaments
+                                                      providing rare moments of respite from their
+Sunlit Citadel                                        grim reality. Yet beneath the chivalric façade,
+                                                      the people bear the burden of their history.
+At the heart of the Empire lies the awe-
+                                                          Old feuds simmer beneath the surface,
+inspiring Sunlit Citadel, the hub of the Church
+                                                      betrayals and bloodshed never quite forgotten,
+and seat of the Grand Ecclesiarch. The
+                                                      a roiling tension beneath a fading veneer. This
+magnificent city is bathed perpetually in divine
+                                                      is a place where honor is both a shield and a
+light. Choirs and sermons ring endlessly from
+                                                      sword, wielded deftly in the intricate dance of
+the temples and churches that line its streets.
+                                                      power and survival.
+Hammers ring tirelessly in the Grand Basilica,
+
+
+10                                    Path of Penitence – Player QSG
+Northern Diocese                                     Southern Diocese
+The rugged north is a frigid region of black         The temperate southern Empire is a vivid
+forests and craggy mountains. The inhabitants        contrast to the gloomier climes elsewhere.
+are barbaric, their beliefs rooted in the olden      Infused with an influx of foreign traders and
+ways. Shaman-led blood sacrifices and wild           explorers along its coastal cities, these
+ceremonies dedicated to ancient earth spirits        territories hum with rhythm and energy, a
+form a central pillar of their communal lives, a     vibrant palette unlike anywhere else.
+fact that draws derision from the Church.               Brightly colored cities like Solteres and
+    The Empire begrudgingly tolerates their          Marinvall are adorned with resplendent
+cultural differences, as their mighty warriors       mosaics and intricate filigree, proudly
+and stalwart fortresses, such as the bastion         standing testament to the region's spirit.
+city of Stürmenburg, hold back the tides of          Bustling port cities are alive with trade and
+raiders and rabid beastmen that constantly           exploration, serving as a melting pot for the
+seek to invade the Empire’s borders. It is said      emissaries, merchants, and adventurers of
+that some northerners carry the blood of             distant lands.
+giants, growing to be powerful warriors                 But beneath the colorful bravura, dark
+several heads taller than the average man.           secrets lurk. Shadowy syndicates rule the
+                                                     underworld, their influence seeping into every
+Eastern Diocese                                      corner of society. The remnants of ancient
+                                                     cults persist, hiding in plain sight, their
+The eastern lands were closest in proximity to
+                                                     practices shrouded in mystery and dread. And
+the epicenter of the Demoncore’s explosion
+                                                     at sea, smugglers and corsairs ply their trade
+and thus the most scarred. Eerie, desolate,
+                                                     along the coastline, attacking settlements and
+and forsaken, their gnarled forests seem to
+                                                     trafficking in forbidden relics and slaves.
+whisper and move, and their eerie swamps
+glow with sepulchral lights. Travelers here
+become anxious and unsettled, the haunting           FURTHER CONTENT
+sights evoking a primal sense of dread in all        Keep your eyes peeled for further Path of
+but the most well-adapted.                           Penitence content! Bestiarum releases
+    The regional capital, Vostograd, is one of       continuing support for the campaign system
+the few safe bastions in the area, though even       including class paths and special mechanics,
+a short jaunt outside of its stone walls, one        backgrounds, cultures & ethnicities, campaign
+may find themselves beset upon by specters or        features, companions, and more!
+cryptic horrors. Eastern folk are regarded
+warily by the rest of the Empire, known for
+their stoic resilience and uncanny knowledge
+of the arcane and the occult.
+
+
+
+
+                                     Path of Penitence – Player QSG                              11
+12   Path of Penitence – Player QSG
+Path of Penitence – Player QSG   13
+

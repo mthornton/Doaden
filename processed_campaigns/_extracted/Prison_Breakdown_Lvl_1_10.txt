@@ -1,0 +1,939 @@
+PRISON BREAKDOWN
+                   LEVEL SCALING
+                       1 – 10
+
+
+LAY DOWN THE LAW AND THWART AN OUTLAW BAND’S COUP IN
+            THIS EASY-TO-RUN ADVENTURE
+
+
+
+                                          Liber Obscura 003
+“The path to redemption is a treacherous journey walked alone,
+each step resonating with the sorrow of a thousand sins."
+
+
+
+
+                                    CREDITS
+Writer/Designer: Alexander H. Dovermann   Produced by: Bestiarum Games
+          his module can be run as a one-shot        dangerous plan to stir up trouble and free
+          or as part of a persistent dark fantasy    many of their incarcerated members in the
+
+
+T         campaign using Bestiarum’s Path of
+          Penitence (PoP) system. Creatures
+          and items marked with an asterisk (*)
+          are new. Their information can be
+                                                     process. The party must infiltrate the prison
+                                                     and thwart the impending jailbreak, ensuring
+                                                     the region's safety.
+
+found at the end of the adventure.                   Adventure Hooks
+                                                     The adventure begins as the party arrives at
+Tier I. This adventure scales in difficulty
+                                                     the Iron Gauntlet while the prison riots are
+based on your party’s Average Party Level
+                                                     well under way. Decide whether the party was
+(APL). Use the following table to determine
+                                                     hired by local law enforcement, tipped off by a
+the appropriate difficulty for your party. If your
+                                                     mysterious informant, or stumbled upon the
+party finds the scenario too easy or hard, you
+                                                     breakout plan during a separate investigation.
+can shift difficulties, even mid adventure!
+                                                     You can build the narrative by starting earlier!
+
+ADVENTURE DIFFICULTY                                 Opening Script
+    Difficulty              APL                      To start the adventure read this script.
+
+    Beginner                1–2
+                                                       After an arduous journey, you come to the
+                                                       Iron Gauntlet, a prison fortress set on a
+    Easy                    3–4
+                                                       rugged mountain pass. Its imposing stone
+                                                       walls and towers loom over the craggy terrain.
+    Medium                  5–7                        You’ve heard rumors of this place and its
+                                                       iron-barred prison blocks brimming with
+    Hard                    8 – 10                     villains and outlaw scum. It is a place you’d
+                                                       hoped never to see in this lifetime.
+                                                           As you approach the formidable structure,
+Adventure Introduction                                 the distant clanking of metal and hushed
+The Blood Reavers, a notorious outlaw band,            whispers of the wind reach your ears, carrying
+are stirring up trouble. They’ve spurred on a          tales of the dangerous inmates held within.
+riot in the Iron Gauntlet, a high-security prison      Time is of the essence. You’ve learned that a
+fortress where many dangerous criminals are            dangerous band of prisoners have revolted
+                                                       and are threatening to escape. The safety of
+kept. The bandit leader, Urvakh the Betrayer,
+                                                       the region depends on your success.
+was captured and locked up recently. But it
+seems this was all according to plan!
+   Just days after Urvakh’s capture, an
+organized riot has overtaken the prison. From
+the inside, the bandit network devised a
+
+2                                 Liber Obscura 003 – Prison Breakdown
+          IRON GAUNTLET                              The towering iron portcullis of the fortress
+The Iron Gauntlet is a nearly inescapable            has been drawn up. The front gate stands
+prison, but the Blood Reavers’ revolt has            wide open. A pair of guards dressed in
+reached its tipping point. Swarms of inmates         battered armor lean casually against the outer
+have been freed, forming rioting mobs while          walls. They seem unusually relaxed given the
+the bandits have secured several tactically          circumstances. As you approach, they wave
+significant buildings throughout the complex.        you away, their faces obscured by the visors
+By the time the party arrives, nearly all the        of their helmets.
+guards have been slain and prisoners are                 “Got it all under control, no worries,” one
+running rampant. Small pockets of guards still       says, nonchalantly.
+resist, yet the prison is nearly overrun. As the
+party approaches the front gates, they find
+them wide open. Read this script to start the
+encounter.
+                                Liber Obscura 003 – Prison Breakdown                                   3
+1) Entry Gate                                      Combat Encounter
+                                                   If the party insists on entering the prison, the
+Roleplay an encounter with the two guards.
+                                                   false guards and their hidden bandit allies will
+They are actually bandits who looted weapons
+                                                   attack, jumping out from behind scattered
+and armor from slain guards. They should
+                                                   crates and debris in the ward (area 2) past the
+attempt to get the party to leave. However, if
+                                                   gate. The fight may instigate in two ways.
+the party insists on entering the gates, the
+                                                       First Strike. The party becomes suspicious
+false guards will attempt to ambush them.
+                                                   and attacks first.
+                                                       Ambush! If the party insists on entering the
+Insight Clues. A PC may perform a Wisdom
+                                                   prison without attacking, the guards will let
+(Insight) check to determine something is off.
+                                                   them enter. But once the party is in the ward,
+                                                   the hidden bandits will surround and ambush
+    DC    Insight Gained                           them, and the guards will attack from behind.
+
+    5+    The guards seem too relaxed despite      AREA 1 ENCOUNTER
+          under the circumstances.
+                                                     Difficulty             Enemies
+    10+   Under the guards’ casual demeanor,
+          you notice a subtle tension in their       Beginner               2 guards
+          voices. They are wary of you.                                     1 bandit
+
+                                                     Easy                   2 guards
+Perception Clues. A PC may also perform a                                   3 bandits
+Wisdom (Perception) check to notice clues.
+                                                     Medium                 2 guards
+    DC    Clues Perceived                                                   2 bandit captains
+
+    5+    You hear clashing weapons and              Hard                   2 guards
+          shouts coming from inside the                                     3 veterans
+          prison.
+
+    10+   There are fresh blood stains on the      2) Ward
+          guards’ armor. One wears chain           Past the entry gate is the outer ward, a walled
+          mail with a large puncture hole          courtyard which serves as a processing area
+          straight through, but he is uninjured.   for prisoners and first line of defense against
+                                                   attempted breaches. A few Blood Reavers are
+    15+   You spot a crouched shadow lurking       hiding here, ready to ambush anyone hoping
+          behind some crates past the gate.        to reinforce the prison guards. The area is
+
+
+
+4                               Liber Obscura 003 – Prison Breakdown
+scattered with debris and crates which can be       AREA 3 ENCOUNTER
+used as cover or hiding places.
+                                                      Difficulty             Enemies
+Sounds of Conflict. When the fight is over,
+the party should hear sounds of comflict              Beginner               8 commoners
+drawing them deeper in the prison complex.
+Read this script.                                     Easy                   8 commoners
+                                                                             2 thugs
+
+ Past the ward’s inner gate, you hear clashing        Medium                 8 commoners
+ steel and desperate yells. It seems the battle                              2 bandit captains
+ for the Iron Gauntlet is far from over.
+
+                                                      Hard                   14 commoners
+3) Gallows                                                                   2 bandit captains
+
+Past the ward’s inner gate is a courtyard
+where a group of three guards are making a          Separate Fights. The guards will be busy
+stand. They are using a gallows surrounded by       fighting their own enemies during this
+makeshift barricades as a high ground. But          encounter, so they will not help the party to
+they are being mobbed by a swarm of rioting         kill these enemies.
+inmates and cannot hold out for long.
+   The party must decide whether to help or         Saving the Guards
+ignore the guards. If the party does not help,      The three guards will be grateful if the party
+the guards die. They can provide key plot           saves them. One is a seasoned soldier named
+information to the party, but other guards or       Barle. If he is saved, hold a narrative
+knowledgeable prisoners in the complex might        encounter to for him to share some important
+do the same. Read this script as the party          plot points. Afterwards, the guards should stay
+enters the main courtyard.                          and establish a safe perimeter in the courtyard
+                                                    while the party moves on.
+
+ As you pass through the gate, the full scale of
+                                                    Prison Map. Barle should provide the party
+ the revolt reveals itself. The courtyard, once a
+                                                    with a map of the Iron Gauntlet prison, giving
+ site of order and harsh justice, now echoes
+ with chaos. Making a stand atop a raised           them a clearer understanding of the layout and
+ gallows platform, you see a group of guards,       structure of the complex. This could aid in
+ outnumbered, and encircled by a sea of             planning their strategy against the Blood
+ rioting prisoners. They are desperate, fighting    Reavers and understanding the layout and
+ fiercely but gradually losing ground. Will you     objectives.
+ intervene or use the distraction to slip deeper
+ into the prison complex?
+
+
+                                 Liber Obscura 003 – Prison Breakdown                               5
+                                                         Luckily, the Panopticon is currently safe. It
+                                                     is an unbreachable keep impervious to break-
+                                                     in attempts. A well-provisioned regiment of
+                                                     guards is stationed inside, defending it at all
+                                                     times. The only way to enter is by opening the
+                                                     door from the inside or by using a single key
+                                                     kept externally. Only the warden, Ingfar,
+                                                      knows the key’s location. Unfortunately, he
+                                                     has been captured and is currently being
+                                                     tortured in his office. It is only a matter of time
+                                                     before he cracks and gives up its location.
+  GM Note: The prison map handout version
+hides the location of the secret tunnel in area 9!   Ending the Riot. The only way to end the riot
+                                                     is to take down Urvakh. Once he is slain, the
+                                                     bandits will give up and the guards will be able
+The Blood Reavers. The prison revolt was
+                                                     to take control again. Getting to Urvakh will
+orchestrated by a notorious bandit gang called
+                                                     not be easy. He has barricaded himself in the
+the Blood Reavers. Their leader, Urvakh the
+                                                     warden's office while he tortures the warden
+Betrayer, is known for his cunning and cruelty.
+                                                     for the Panopticon key.
+They're not ordinary bandits. They're tactically
+                                                         The warden’s office is a heavily defensible
+sharp and violently aggressive, as shown by
+                                                     position within its own walled courtyard. The
+their revolt.
+                                                     office is surrounded by an army of Urvakh’s
+   Urvakh was captured a week ago and
+                                                     most loyal and dangerous followers. A direct
+imprisoned in one of the cell blocks. But based
+                                                     assault may be suicide until the party can
+on the events here, it seems the guards were
+                                                     scout the area and gain more information on
+playing right into Urvakh’s master plan. Most
+                                                     their numbers and locations.
+likely, he had intentionally let himself be
+                                                         The nearby armory has a watch tower
+captured so he could lead the coup from the
+                                                     which the party can use to gain a vantage
+inside out.
+                                                     point and assess the situation further.
+
+The Panopticon Danger. Urvakh and his
+                                                     Armory and Guardhouse. The armory is a
+band seek the key to the Panopticon, a high-
+                                                     strategic point, holding valuable equipment
+security prison block accessible only by a
+                                                     that can aid in quelling the revolt. It also has
+fortified drawbridge. The Panopticon is where
+                                                     several watchtowers that overlook the
+the Iron Gauntlet keeps its deadliest
+                                                     warden’s office, allowing a tactical assessment
+prisoners, each more villainous than the last.
+                                                     of the area and the enemies present there.
+Urvakh must be trying to free one of the
+                                                         However, the key to the armory is in the
+prisoners there, and if he succeeds, there is no
+                                                     guardhouse, which is overrun with bandits. It's
+telling what evils will be unleashed.
+                                                     a risk, but the rewards could be pivotal in their
+
+6                                Liber Obscura 003 – Prison Breakdown
+battle against the Blood Reavers. Also, the         Prison Keys. A set of prison keys are kept in a
+armory would be a strategically defensible          large and obvious drawer of a desk in the
+location. If captured, the guards can move in       guardhouse. The desk is an old, sturdy piece
+and fortify it, securing it as a headquarters.      of furniture. These keys can be used to free
+                                                    the guard in the guardhouse jail cell, as well as
+Prison Blocks. The complex has two main             open any lock in Cell Blocks A and B.
+prison cell blocks, Cell Block A and Cell Block
+B, each holding 50 to 100 cells. When the           Armory Keys. The armory keys are kept in a
+riots started, crowds of prisoners suddenly         secret drawer of the same desk, which can be
+burst out of their cells, attacking, and            detected by making a DC 10 Intelligence
+overwhelming the guards. Most prisoners are         (Investigation) check. If the party states
+unarmed or wielding makeshift weapons. The          specifically that they are checking the desk for
+guards managed to establish lines of defense        the secret compartment, they will find it
+inside the cell blocks. There might still be        automatically.
+pockets of guards resisting that could be
+potential allies if the party can reach them.       Combat Encounter. If the party is discovered
+                                                    while they investigate the guardhouse, the
+4) Guardhouse                                       drunken bandits will attack. But these bandits
+                                                    are not as alert as they would be if they were
+The one-story guardhouse has been overrun
+                                                    sober. They have - 5 to their passive
+by the Blood Reavers. Inside, some bandits
+                                                    Perception scores.
+are reveling in their victory, while a captive
+guard is held in a small jail cell in the back.
+The bandits have been drinking heavily and          AREA 4 ENCOUNTER
+are more interested in enjoying their spoils
+                                                      Difficulty             Enemies
+than guarding the captive. The guardhouse is
+also where the keys to the armory are stored.         Beginner               1 bandit
+The party can stealthily or forcefully secure                                1 thug
+the armory keys. As the party approaches,
+read this script.                                     Easy                   2 bandits
+                                                                             3 thugs
+ You find the guardhouse in shambles. Its
+ windows are darkened and its doors ajar. As          Medium                 5 thugs
+ you approach, you notice signs of struggle.                                 1 bandit captain
+ Discarded weapons, spots of wet blood, and
+ a single boot laying by the entrance. The front      Hard                   6 thugs
+ door reeks of spilled ale, and you hear the                                 2 bandit captains
+ faint sound of laughter from inside.
+
+
+
+                                 Liber Obscura 003 – Prison Breakdown                              7
+Saving the Guards                                      5) Armory
+The guard is held in a locked jail cell at the
+                                                       The Armory holds strategic value in the fight
+back of the guardhouse. The lock can be
+                                                       against the Blood Reavers. It is stocked with
+picked with a DC 10 Dexterity check using
+                                                       weapons, armor, and equipment, and its
+thieves’ tools or with the Prison Keys found in
+                                                       watchtowers overlook the warden's office,
+the nearby desk. The guard has gathered
+                                                       allowing the party to gain valuable information
+valuable information while listening to the
+                                                       about Urvakh’s defenders. Read this script as
+drunk bandits’ conversations. If freed, he will
+                                                       the party approaches the area.
+be happy to share what he learned.
+
+Secret Tunnel. The bandits bragged about a               As you approach the armory, you notice that
+secret tunnel they used to sneak into the                it's well-fortified but seemingly unguarded.
+prison undetected, taking the upper hand in              The heavy door, made from reinforced
+the coup. The guard doesn’t know where the               ironwood and solid steel bars, stands before
+tunnel is but recalls a fellow guard, Grolo, was         you, locked and imposing. Tall stone towers
+imprisoned in Cell Block A (area 6) after he             are built into the structure with narrow arrow
+was caught smuggling illegal goods into the              slit windows overlooking the warden’s office
+prison to sell to the inmates. Grolo might               and the main courtyard.
+know something about a secret tunnel.
+
+                                                       Gaining Entry
+The Ghost. The drunk bandits talked fearfully          The door to the armory is locked, requiring a
+about the ‘Ghost’ hoping he does not escape in         key from the guardhouse in area 4 to open.
+the chaos of the riot. The guard knows this            The lock is sturdy and difficult to pick but may
+prisoner, a man held in Cell Block B (area 7).         be unlocked with a DC 15 Dexterity check
+The man is a mysterious convict hailing form           using thieves' tools. It can also be destroyed. It
+a faraway desert land, who single-handedly             has a DC of 20, 20 hit points. But, breaking
+slew eight Blood Reavers in a prison brawl,            down the door will compromise the structure,
+unarmed, before the guards could intervene. If         making it less defensible for the guards to use
+he's still in his cell, he might be a useful asset     as a safe headquarters.
+against the bandits. Read this script as the
+guard’s closing comments on the subject.
+                                                       Inside the Armory
+                                                       The armory is stocked with rows of weapons
+    "We couldn't control him," the guard admits        and armor. Swords, bows, spears, axes,
+    with a shudder, "But desperate times call for      crossbows, and polearms are neatly arranged
+    desperate measures. Maybe you can turn this        on racks. Chests of bolts, arrows, and other
+    Ghost against them. He might hold a grudge,        ammunition are stored on shelves. Armor
+    seeing as the ones he killed were all Reavers."    stands hold chainmail, leather armor, and
+                                                       helms while shields are hung on the walls.
+                                                       The party can find useful equipment here. Any
+
+8                                   Liber Obscura 003 – Prison Breakdown
+standard weapon or armor with a cost of 100
+                                                    d20        Loot Acquired
+gp or less can be found freely, as well as
+supplies such as ammunition and torches.
+                                                    0 – 14     Nothing
+
+Ambush. The apparent calm is deceptive. One
+                                                    15 – 19    A potion of healing
+of Urvakh’s lieutenants and assassins lie
+inside, ready to ambush any who enter. If not
+                                                    20         A weapon +1, armor +1, or shield
+detected, the bandits attempt to ambush the
+                                                               +1 of the GM’s choice.
+party while they are distracted looking for gear
+and equipment.
+   Once the enemies inside the armory have
+been defeated, the surviving guards can secure
+the building and use it as a headquarters and
+staging ground for taking back the prison.
+
+AREA 5 ENCOUNTER
+ Difficulty            Enemies
+
+ Beginner              1 scout
+                       2 bandits
+
+ Easy                  1 bandit executioner*
+
+ Medium                3 spies
+                       1 bandit executioner*
+
+ Hard                  6 spies
+                       1 bandit executioner*
+
+
+Searching for Supplies. Each PC can search
+for valuable items. To determine what they
+find, have each party member roll a d20 and
+consult following table.
+
+
+
+
+                               Liber Obscura 003 – Prison Breakdown                               9
+The Watchtower. Above the main armory is a           Inside Cell Block A. The interior of Cell Block
+small watchtower. It is accessible via a narrow      A is a lengthy corridor flanked by cells. The
+staircase and provides an excellent vantage          cells, bare and compact, contain just enough
+point over the prison grounds, particularly the      room for a crude bed and a chamber pot. The
+warden's office (area 8). From here, the party       meager sun that filters in through the dirty
+can gather valuable information about the            windows barely lights the area. It's clear the
+enemy's numbers and positions. Review the            place was abandoned hastily - some of the
+Warden’s Office section to determine what            cells are still locked, containing delirious,
+they see.                                            moaning inmates, while others stand empty
+                                                     and ajar, their occupants freed to form the
+New Headquarters. After the armory is                swarming riots outside. Lifeless bodies are
+secured, the surviving guards should move in         strewn across the floor, a mix of both guards
+and fortify the structure to establish a reliable    and prisoners alike.
+base of operations. The party can return here
+to safely take short rests.                          Ex-Guard Grolo. At the very end of the
+                                                     corridor, in an isolated cell, resides Grolo, a
+6) Cell Block A                                      slim and wily man. Grolo was once a prison
+                                                     guard working under the warden. However, he
+Cell Block A’s is a sturdy stone structure
+                                                     was discovered running an illicit smuggling
+where the previously employed guard and
+                                                     operation, sneaking in contraband goods to
+smuggler, Grolo, is imprisoned. If the party
+                                                     sell to the highest-bidding inmates. The
+manages to secure Grolo's cooperation, he
+                                                     warden delivered his justice quietly, locking
+could provide valuable information about the
+                                                     Grolo up without any fanfare or trial to make
+secret tunnel the Blood Reavers used to
+                                                     sure the incident was not made public.
+infiltrate the prison. Read this script as the
+party approaches the area.
+                                                     Grolo Narrative Encounter
+                                                     If the party is looking for Grolo, they should
+ The high walls of Cell Block A are scarred with     find him right away. Otherwise, he might call
+ age and weather. Thick iron bars cover the          out to them to try to persuade them to free
+ sparse windows lining the structure. The            him. Grolo should try to deceive the party to
+ entrance gate hangs open, revealing a gloomy        create the best chance for his freedom. For
+ corridor leading to rows of compact cells. The      example, if he does not know that the party
+ area is eerily quiet, save for the faint, echoing   knows he was imprisoned for smuggling, he
+ drip of water somewhere deep within the
+                                                     may claim that he was an innocent farmer sent
+ prison. An involuntary shudder courses down
+                                                     here because of a clerical error made by the
+ your spine as you step into the foreboding
+                                                     local judge, mistaking his name for someone
+ interior, finding the quite halls littered with
+                                                     else’s. Grolo has the same stats as a spy.
+ the still bodies of prisoners and guards alike.
+
+
+
+10                                Liber Obscura 003 – Prison Breakdown
+The Secret Tunnel. Grolo never admitted to          case he needed a quick escape. The traps can
+the warden how he managed to sneak the              include spikes, a boulder, and a den of rats.
+goods into the prison, but he was in fact using     Knowing the party plans on exploring the
+the same secret tunnel that the Blood Reavers       tunnel, Grolo hopes they will die to his traps
+used to accomplish the coup. Grolo will             so he can collect their valuables and add it to
+happily trade the following information about       his stash of life savings.
+the tunnel in exchange for his freedom.
+    Entrance. The tunnel's entrance is hidden       Opening Grolo’s Cell. The lock on Grolo's
+along the outer wall of the prison complex,         cell is old but sturdy. It can be picked with a
+directly across from the warden’s office (area      DC 10 Dexterity check using thieves’ tools or
+9). It is concealed by the surrounding              opened with the Prison Keys found in the
+vegetation and difficult to find.                   guardhouse (area 4).
+    Exit. The tunnel emerges right behind the
+warden’s office inside of the prison walls,         Parting Gift. If the party frees Grolo and
+allowing someone to sneak right into the            finishes their conversation with him, he will
+ground floor of the office, bypassing the           give them a parting present, a smelly bag
+courtyard and any bandits that might be there.      which, if carried, will attract the rats in the
+                                                    secret tunnel to attack them. He will try to
+Secret Information. There are a few pieces of       convince them that it wards away predators,
+information that Grolo will not willingly reveal    but he really hopes they die to the rats so he
+to the party. He has his own agendas.               can collect their valuables. Read this script
+    A Bit Guilty. Grolo is complicitly guilty for   and give the party a Grolo’s Stinky Sack* to
+the riots. He had been anticipating a prison        end the encounter.
+break since he himself sold the information
+about the secret tunnel to the Blood Reavers.
+                                                     As you prepare to leave, Grolo rummages
+He hoped to make a getaway during the coup.
+                                                     around in his cell, pulling out a worn, grimy
+Yet amid the chaos he is visibly frustrated as
+                                                     bag that reeks of a putrid odor. It makes a
+he has been unable to escape his cell.
+                                                     squelching sound as he holds it out to you.
+    Stash of Loot. Grolo sold the location of            "Gentlefolk, here is my token of gratitude.
+the secret tunnel for a good sum of gold to a        Saved me from a lot of trouble, this has.
+Blood Reaver contact that he made while              Stench's a bit on the strong side, I admit, but
+running the smuggling ring. Grolo stashed the        critters hate it. 'Specially the nasty ones in the
+gold away shortly before he was caught, along        tunnel. Carry this with you, and they'll keep
+with the profits he made from his smuggling          their distance."
+work, near the entrance to the secret tunnel.           As you take the dubious gift, Grolo gives
+He hopes to pick up the stash and live off the       you a wink, "Good luck out there. And
+gold when he escapes.                                remember, it ain't the prettiest of smells, but
+    Traps. The secret tunnel is filled with traps    it's got a way of keeping trouble at bay."
+that Grolo laid to slow down any pursuers in
+
+                                Liber Obscura 003 – Prison Breakdown                                   11
+7) Cell Block B
+Cell Block B is in chaos, overrun by a mob of       Cell Block B looms ominously before you,
+inmates who have taken advantage of the             echoing with the sounds of unrestrained
+prison's disorder. A whirlwind of prisoners         pandemonium. As you slip through the door,
+runs amok, assaulting two surviving guards in       you find the block engulfed in a violent
+a frenzy of pent-up rage and their newfound         breakout. At the far end of the hallway is a
+freedom.                                            chaotic scene. Rioting prisoners are engaged
+    However, one cell near the entrance stands      in frenzied combat with a two guards, their
+eerily silent and undisturbed amidst the havoc,     backs against the wall.
+holding an unusual opportunity for the party:           Over the din of clashing steel and shouts,
+the infamous prisoner known as the ‘Ghost’. If      you notice a calm prisoner sitting cross-
+the party frees him, they might gain a powerful     legged in a cell to your right. He appears to
+                                                    be meditating, his eyes closed serenely,
+ally. As the party approaches the cell block,
+                                                    though he wears a hood and mask covering
+read this script.
+                                                    his hair and lower face.
+
+
+                                                  Ghost Narrative Encounter
+                                                  The Ghost is a mysterious man from a faraway
+                                                  desert land, the subject of many prison tales.
+                                                  He is a calm oasis amidst the storm of chaos,
+                                                  sitting cross-legged on the small cot in his cell,
+                                                  perceiving the madness with an eerie
+                                                  detachment. He has the same stats as an
+                                                  assassin and talks in cryptic riddles, referring
+                                                  to himself in the third person.
+                                                      It is said that the Ghost slew eight Blood
+                                                  Reavers single-handedly in a brawl, all while
+                                                    unarmed, a feat that earned him the fearful
+                                                     respect of the inmates and guards alike. He
+                                                      doesn’t hold any particular grudge against
+                                                       the Blood Reavers. He killed the men in
+                                                        the brawl because they antagonized him
+                                                                  and refused to leave him in peace.
+                                                                    He did so with ease as he is a
+                                                                    highly trained assassin who
+                                                                    makes a living through
+                                                                    contract killings.
+
+
+
+12                             Liber Obscura 003 – Prison Breakdown
+Freeing the Ghost. The Ghost can be freed by          Ghost's cell, should the party be lacking the
+making a DC 15 Dexterity check with thieves’          necessary skills or tools to do so themselves.
+tools to pick the lock, by using the Prison Keys         However, to rescue the guards, the party
+found in the guardhouse (area 4), or by               will have to fight through a mob of rioting
+rescuing the guards fighting against the              prisoners in the hallway. The guards will be
+inmates down the hall and convincing them to          busy fighting another mob, but if the party
+open the cell.                                        defeats their enemies the guards will also do
+   If the party frees the Ghost, he is willing to     so at the same time.
+thin the ranks of Urvakh’s guards before he
+vanishes from the area. After being freed, the        AREA 7 ENCOUNTER
+Ghost will kill all six of Urvakh's men on the
+ground floor of the warden's office (area 8),           Difficulty             Enemies
+leaving behind the slain corpses as evidence of
+his work. This will allow the party to either           Beginner               6 commoners
+handle the rest of the bandits in the courtyard
+outside the office or directly confront Urvakh          Easy                   5 commoners
+by sneaking through the secret tunnel in area                                  2 thugs
+9, bypassing both battles.
+   When the Ghost is freed, read this script.           Medium                 4 commoners
+                                                                               2 bandit captains
+
+ With a nod, the Ghost rises from his seated
+                                                        Hard                   4 commoners
+ position. He pulls a massive cleaver from a
+                                                                               2 thugs
+ hiding place under his cot. As he steps out of
+ his cell, he speaks in a low, steady tone, “Six
+ years in chains, this one was told to bear.          8) Warden’s Office
+ Now, six lives shall be taken, fair for fair. You
+                                                      The bandit leader Urvakh holds the warden
+ will find your foe an easier mark, so you
+                                                      hostage in his office, torturing him in the
+ should dare.”
+                                                      hopes of acquiring the Panopticon key. Urvakh
+                                                      is a tough foe, and he is protected by two
+Saving the Guards                                     additional groups of elite bandits. Unless the
+Two guards are desperately defending                  party can find a way to thin the enemy ranks,
+themselves against a mob of rioting prisoners         or avoid at least one fight, they will likely not
+at the far end of the hall. The guards are            be able to defeat Urvakh.
+hopelessly outnumbered but holding their                  There are three enemy groups in this area,
+ground. Rescuing the guards secures them as           listed from outward to inward: the bandits in
+allies in the fight against the Blood Reavers.        the walled courtyard, the bandits in the ground
+Also, they may be convinced to unlock the             level of the office, and finally Urvakh in the
+                                                      upper level of the office.
+
+                                   Liber Obscura 003 – Prison Breakdown                             13
+Notes. There are a few notes, reminders, and      AREA 8 COURTYARD ENCOUNTER
+interactions from other locations and
+characters in the adventure to keep in mind.        Difficulty             Enemies
+    Lookout Tower. From the armory tower in
+area 5, the party can monitor the number of         Beginner               5 thugs
+remaining enemies in each group. They can
+see directly into the walled courtyard and          Easy                   5 bandit captains
+through windows into the ground and upper
+floors of the warden’s office.                      Medium                 7 veterans
+    Secret Passage. If the party discovers the
+secret passage in area 9, they can use it to        Hard                   6 veterans
+bypass the bandits in the walled courtyard and                             1 assassin
+directly infiltrate the ground floor of the
+warden's office. This stealthy approach skips
+the courtyard bandits, greatly reducing the       Ground Floor
+                                                  Once inside the lower level of the warden's
+challenge the party has to face.
+                                                  office, the party must confront Urvakh’s final
+    Help From a Ghost. If the party frees the
+                                                  line of defense. These are some of Urvakh's
+‘Ghost’ in area 7, he proves to be a powerful
+                                                  most trusted men, and they will fight fiercely
+ally in the fight against Urvakh's men. Moving
+                                                  to protect their leader. If the Ghost has been
+silently and unseen, the Ghost infiltrates the
+                                                  freed, the party will instead find a gruesome
+ground floor of the warden's office and
+                                                  scene – the bodies of the bandits slain by the
+eliminates all of Urvakh's henchmen there,
+                                                  Ghost's hand, a testament to his deadly skills.
+leaving a chilling scene of death behind. This
+dramatic turn of events drastically reduces the
+number of bandits the party has to confront.
+                                                  AREA 8 GROUND FLOOR ENCOUNTER
+    Final Assault. When the party makes their       Difficulty             Enemies
+final attack, the surviving guards may join
+them. However, if the party uses the secret         Beginner               5 bandits
+tunnel in area 9, the guards recommend they                                1 bandit captain
+go alone to maintain the element of surprise.
+                                                    Easy                   2 thugs
+Walled Courtyard                                                           4 bandit captains
+The office is surrounded by a walled courtyard
+blocked by a locked gate. The lock may be           Medium                 5 thugs
+picked with a DC 15 Dexterity check using                                  1 assassin
+thieves' tools or broken down. The door has a
+DC of 20 and 20 hit points. Attacking the door      Hard                   4 veterans
+alerts the enemies in the courtyard.                                       2 assassins
+
+
+14                             Liber Obscura 003 – Prison Breakdown
+Upper Floor                                         AREA 8 URVAKH ENCOUNTER
+The upper floor of the office is where Urvakh
+is holed up. He is interrogating the warden,          Difficulty        Enemies
+trying to extract information about Panopticon
+key. The warden, despite the brutal torture, is       Beginner          1 bandit captain (Urvakh)
+holding his ground and refusing to give up any
+information. Upon entering the room, the              Easy              1 bandit khan* (Urvakh)
+party will see Urvakh threatening the warden
+with a wickedly curved blade. Read this script.       Medium            1 bandit khan* (Urvakh)
+                                                                        2 thugs
+
+ The upper floor of the warden's office is eerily
+                                                      Hard              1 bandit khan* (Urvakh)
+ silent compared to the chaos of the rest of
+                                                                        2 veterans
+ the prison. The thick wooden door opens
+ under your touch, revealing a dimly lit room.
+ The rich scent of incense and old parchment
+ hangs in the air, a stark contrast to the grime
+ and stench that pervades the rest of the
+ prison. As your eyes adjust to the gloom, you
+ see a figure towering over a frail, bound man
+ slumped in a chair.
+     Urvakh, a brutish man clad in crude,
+ blood-stained armor, is interrogating the
+ warden. His scarred face contorts into a
+ sadistic grin as he leans in close, pressing the
+ edge of a wicked blade against the man's
+ neck. "Give me the key, old man," he growls,
+ his voice as cold as iron. The warden, though
+ pale and beaten, maintains a defiant glare,
+ refusing to submit to the bandit's cruelty.
+
+
+If the party makes a stealthy approach, they
+may get a surprise round on Urvakh. However,
+if the party engaged in combat on the lower
+floor or broke through the front door, Urvakh
+will be alerted and ready for them. He fights
+without mercy, using brutal and underhanded
+tactics to try to defeat the party.
+
+
+
+                                 Liber Obscura 003 – Prison Breakdown                               15
+Final Victory. If the party defeats Urvakh, the     Grolo's Stash. Right near the entrance of the
+remaining bandits lose morale and give up the       passage, hidden behind a loose stone in the
+fight. Depending on the state of the prison,        prison’s outer wall, is Grolo's treasure. This
+they may either attempt to flee or surrender to     unassuming stone conceals a small cavity just
+the guards and the party. At this point, the        big enough to house a decent-sized stash.
+party can then proceed to the Ending the            Finding the stash without guidance or clue to
+Adventure section to wrap up the scenario.          its existence requires a keen eye and a DC 20
+                                                    Wisdom (Perception) check. If the party has
+9) Secret Tunnel                                    knowledge of the stash, either through Grolo
+                                                    himself or any other means, the check is
+This tunnel is a hidden passageway running
+                                                    reduced to DC 15. The stash contains 500
+under the prison complex. It was used by the
+                                                    gold pieces that Grolo accumulated over his
+ex-guard and current inmate Grolo in Cell
+                                                    years of smuggling. This treasure is Grolo's
+Block A to smuggle goods, and later served as
+                                                    nest egg, the fruits of his illicit trade that he
+a critical factor in the Blood Reavers' coup.
+                                                    planned to live on after his escape.
+
+Tunnel Entrance
+                                                    Traversing the Tunnel. The tunnel is narrow
+The entrance to the tunnel is cleverly hidden
+                                                    and dark but provides a path underneath the
+by the rugged terrain along the exterior wall of
+                                                    prison complex, allowing the party to bypass
+the prison complex. Finding the entrance with
+                                                    many bandits on the way to Urvakh. The
+no prior knowledge calls for a DC 20 Wisdom
+                                                    passage is tight, allowing only one medium-
+(Perception) check while in the vicinity.
+                                                    sized creature to squeeze through at a time. A
+Looking for it intentionally without knowing
+                                                    torch or light source is necessary to see
+its exact location reduced the check to DC 15.
+                                                    through the darkness. The path is a straight
+Finding it after speaking with Grolo and
+                                                    shot so no one can get lost, but it is full of
+learning its exact location is automatic. When
+                                                    traps devised by Grolo in case he needed a
+the party finds the tunnel, read this script.
+                                                    quick escape and to delay any pursuers.
+
+ Amongst the brush and undergrowth, a thick         Trap 1 – Spike Trap
+ patch of faded leaves catches your eye. Upon       After about twenty feet into the tunnel, the
+ closer inspection, you realize the layer of        floor gives way to a concealed pit trap. The pit
+ foliage cleverly disguises a small tunnel in the   is five feet deep and lined with sharpened
+ ground. Pushing aside the leaves reveals a         stakes at the bottom. It is well-concealed,
+ dark, narrow passage that burrows into the         requiring a DC 15 Wisdom (Perception) check
+ earth and runs beneath the prison complex.
+                                                    to notice. If the trap is triggered, the party
+ You can only imagine what lies within, but
+                                                    member in front must make a DC 15
+ one thing is certain – this tunnel, hidden
+                                                    Dexterity saving throw or fall into the pit,
+ away from prying eyes, could be your ticket
+                                                    taking piercing damage from the spikes. If the
+ into the heart of the prison.
+
+
+16                               Liber Obscura 003 – Prison Breakdown
+party has prior knowledge of the trap, the DC      BOULDER TRAP
+is reduced to 10.
+                                                     Difficulty              Bludgeoning
+                                                                             Damage
+SPIKE TRAP
+ Difficulty               Piercing Damage            Beginner                3 (1d6)
+
+
+ Beginner                 5 (1d10)                   Easy                    7 (2d6)
+
+
+ Easy                     11 (2d10)                  Medium                  10 (3d6)
+
+
+ Medium                   16 (3d10)                  Hard                    14 (4d6)
+
+
+ Hard                     22 (4d10)
+                                                   Trap 3 – Rat Trap
+                                                   Towards the end of the passage is a peculiar
+Trap 2 – Rolling Boulder                           array of holes along the tunnel wall, each
+At the midpoint of the tunnel, a subtle tripwire   roughly the size of a fist. If the party is carrying
+lies hidden across the passage floor, linked to    Grolo’s Stinky Sack*, the foul scent lures out a
+a wine-barrel-sized boulder above. Detecting       swarm of rats inhabiting the holes to attack
+the boulder requires a DC 15 Wisdom                the party. If the party is not carrying the sack,
+(Perception) check, or DC 10 if the party is       the rats remain dormant, unbothered by the
+aware of it. Once the trap is discovered, a DC     party’s passage. Upon triggering the trap, the
+15 Dexterity (Acrobatics) check is necessary       swarms of rats attack, fighting until defeated
+to navigate past the tripwire without triggering   or until the sack is thrown away, in which case
+the trap.                                          they chase it. Read this script when the rats
+    Disarm. To completely disarm the trap,         first appear.
+one would need to execute a DC 15 Dexterity
+(Sleight of Hand) check to untie the wire            A chittering cacophony fills the tunnel. From
+carefully.                                           a score of fist sized- holes in the walls,
+    Trigger. On a disarm failure, or if the trap     gleaming red eyes blink into existence.
+is triggered, the boulder dislodges and begins       Suddenly, a swarm of rats pours forth,
+to barrel down the tunnel. Each party member         forming a seething mass that descends upon
+in its path must make a DC 10 Dexterity              you. Their beady eyes shine with savagery as
+saving throw to jump above the boulder or            they gnash their sharp teeth.
+dive into a narrow side alcove, or be crushed
+by it, taking bludgeoning damage.
+
+
+
+
+                                Liber Obscura 003 – Prison Breakdown                                 17
+RAT SWARM TRAP                                        The tunnel begins to slope upward, the cold
+ Difficulty               Rat Swarms                  earth walls giving way to the wooden
+                                                      underpinnings of a building. You emerge in a
+ Beginner                 2 rat swarm                 small alley between a stone building and the
+                                                      tall outer wall of the prison complex. Sidling
+                                                      along the back of the building, you come to
+ Easy                     4 rat swarms
+                                                      an open window. It's the ground floor of the
+                                                      warden's office. You've bypassed the
+ Medium                   10 rat swarms               courtyard, successfully infiltrating the bandit
+                                                      stronghold without raising the alarm.
+ Hard                     15 rat swarms
+
+                                                    10) The Panopticon
+Bait & Switch! The rats are drawn by the
+                                                    The Panopticon is an imposing, fortified
+smell of Grolo’s Stinky Sack*. Grolo hoped
+                                                    prison block, home to the deadliest criminals
+that the party would be carrying it so that the
+                                                    of the realm. It is located within a separate
+rats would swarm and attack them, hoping
+                                                    complex accessible only via a heavily fortified
+killing one or all of them and leaving their loot
+                                                    drawbridge. Urvakh and his band of the Blood
+behind in the tunnel for him to collect during
+                                                    Reavers are desperately seeking access to this
+his great escape.
+                                                    high-security area, and should they succeed,
+    After the first round of combat, have the
+                                                    the consequences could be dire.
+party make DC 15 Wisdom (Survival) checks.
+                                                        The Panopticon is a testament to the
+If anyone succeeds, read the following script.
+                                                    exceptional security measures undertaken by
+If the party throws the sack away, the rats stop
+                                                    the Iron Gauntlet. Its walls are impregnable,
+attacking the party and chase the sack instead.
+                                                    and a regiment of well-equipped and
+                                                    disciplined guards defend it tirelessly.
+ The rats’ attention is focused on Grolo's sack.    Attempts to breach the Panopticon are futile.
+ The overpowering odor, barely tolerable to         It can only be accessed from the inside, or
+ you, seems to have whipped them into a             with a unique key, which has been carefully
+ frenzied hunger.                                   hidden by the warden, Ingfar.
+                                                        In this scenario, Ingfar has been captured
+                                                    and is currently being tortured in his office. So
+Tunnel Exit
+                                                    far, he remains resolute, but it is only a matter
+After the three traps, the tunnel emerges right
+                                                    of time before he gives up the location of the
+behind the warden's office, bypassing the
+                                                    key. If the party doesn't intervene soon, it
+courtyard. However, the party will still need to
+                                                    might be too late. For the purposes of the
+deal with any living enemies on the first floor.
+                                                    current adventure, the Panopticon remains
+Read this script as the party nears the end of
+                                                    secure. While the characters might catch a
+the tunnel.
+                                                    glimpse of the foreboding structure or
+
+18                               Liber Obscura 003 – Prison Breakdown
+overhear talk of it, it is not the focus of their   names will be etched into the annals of the
+current mission. For now, the party's goal is to    prison's history as the brave adventurers who
+the immediate threat – rescuing the warden          quelled the Blood Reavers' rebellion.
+and dealing with Urvakh and his band of
+rebels. The Panopticon threat only serves as a
+timer to bring urgency to their actions.
+
+
+Ending the Adventure
+When Urvakh is defeated, the prison riot will
+end. Depending on the state of the prison, the
+bandits and mobs of inmates might choose to
+flee or surrender to the guards and the party.
+    How the party chooses to handle this
+victory is up to them. They can parade
+Urvakh's head as a macabre trophy, a grim
+symbol of the fate that befalls those who dare
+to challenge the Iron Gauntlet. Or they may
+decide to shackle the fallen leader in irons and
+send him to the inescapable Panopticon to be
+held for many years. Either way, for the
+bandits, the sight of their leader's defeat will
+send a clear message – the rebellion is over.
+    In the aftermath, the prison slowly begins
+to reclaim its usual rhythm. Guards round up
+the remaining rebels, some nursing their
+wounds, others bound and awaiting their fate.
+The warden, once freed from his captors,
+resumes control of the prison. His ordeal has
+not broken him, but it has instilled a newfound
+respect for the precarity of his position and the
+valor of the adventurers who saved him.
+    With their mission in the Iron Gauntlet
+prison complete, the party can enjoy a well-
+deserved respite, knowing they've made a
+difference. In the face of anarchy, they've held
+the line, and in doing so, they've earned not
+just the gratitude of the Iron Gauntlet but also
+the respect of those they've saved. Their
+actions today will be remembered, and their
+                                Liber Obscura 003 – Prison Breakdown                           19
+                                     MONSTERS & NPCS
+ Bandit Executioner                                        Bandit Khan
+ Medium humanoid (any race), any non-                      Medium humanoid (any race), any non-
+ lawful alignment                                          lawful alignment
+ Armor Class 14 (studded leather)                          Armor Class 15 (studded leather)
+ Hit Points 90 (12d8 + 36)                                 Hit Points 152 (16d8 + 80)
+ Speed 30 ft.                                              Speed 30 ft.
+
+     STR    DEX    CON      INT      WIS      CHA           STR       DEX    CON      INT      WIS     CHA
+      16     14     16       10       10       12            18        16     20       10       14      16
+     (+3)   (+2)   (+3)     (+0)     (+0)     (+1)          (+4)      (+3)   (+5)     (+0)     (+2)    (+3)
+
+ Saving Throws Str +5, Dex +4, Con +5                      Saving Throws Str +7, Dex +6, Con +8
+ Skills Athletics +5, Intimidation +3                      Skills Athletics +7, Intimidation +6
+ Senses passive Perception 10                              Senses passive Perception 12
+ Languages any one language (usually Common)               Languages any one language (usually Common)
+ Challenge 4 (1,000 XP)                                    Challenge 6 (2,300 XP)
+
+ Brute. A melee weapon deals one extra die of its          Brute. A melee weapon deals one extra die of its
+ damage when this creature hits with it (included          damage when this creature hits with it (included
+ in the attack).                                           in the attack).
+
+
+ Actions:                                                  Mark for Death (1/Day). As a bonus action, this
+                                                           creature can target a visible enemy within 60
+ Multiattack. This creature makes three melee              feet. This creature and its allies have advantage
+ attacks, then one additional attack against a             on their attacks against the target for the next 6
+ creature with less than half its total hit points.        seconds.
+
+ Handaxe. Melee or Ranged Weapon Attack: +5
+                                                           Actions:
+ to hit, reach 5 ft. and range 20/60 ft., one target.
+ Hit: 10 (2d6 + 3) slashing damage.                        Multiattack. This creature makes three melee
+                                                           attacks.
+
+                                                           Scimitar. Melee Weapon Attack: +7 to hit, reach
+                                                           5 ft., one target. Hit: 11 (2d6 + 4) slashing
+                                                           damage.
+
+
+
+
+20                                   Liber Obscura 003 – Prison Breakdown
+                                          ITEMS
+
+
+
+
+*GM Note: While carrying this item, a PC’s stealth capabilities are reduced because of the
+overpowering stench emitted by the sack. All enemies within 30 feet have +5 passive Perception
+to detect them. However, do not inform the PC of this hidden mechanic!
+
+
+
+
+                              Liber Obscura 003 – Prison Breakdown                          21
+

@@ -1,0 +1,473 @@
+MAD MAGE'S TOWER
+                   Level Scaling
+                       1 – 10
+
+
+put an end to the horrors of a mad mage's monstrous
+      experiments in this easy-to-run adventure
+
+
+                                           Liber Obscura 007
+  “The path to redemption is a treacherous journey walked alone,
+     each step resonating with the sorrow of a thousand sins."
+
+
+
+
+                                    CREDITS
+Writer/Designer: Alexander H. Dovermann   Produced by: Bestiarum Games
+          his module can be run as a one-shot        Adventure Hooks
+          or as part of a persistent dark fantasy
+                                                     The adventurers can be introduced to the
+
+T         campaign using Bestiarum’s Path of
+          Penitence (PoP) system. Creatures
+          and items marked with an asterisk (*)
+          are new. Their information can be
+                                                     story by the desperate pleas of the villagers of
+                                                     Neredge or perhaps they encounter one of the
+                                                     mage's escaped experiments and follow its
+                                                     trail back to the tower. If the party includes
+found at the end of the adventure.
+                                                     magic users, they might be drawn to the tower
+                                                     in search of arcane knowledge and artefacts.
+Tier I. This adventure scales in difficulty
+based on your party’s Average Party Level
+(APL). Use the following table to determine
+                                                     Opening Script
+the appropriate difficulty for your party. If your   To start the adventure read this script.
+party finds the scenario too easy or hard, you
+can shift difficulties, even mid adventure!           The air is heavy with anticipation as you
+                                                      approach the mad mage’s looming tower.
+ADVENTURE DIFFICULTY                                  Silhouetted against the darkening sky, its
+                                                      twisted shape cuts an ominous figure, like a
+    Difficulty              APL                       jagged scar across the stars. As you draw
+                                                      nearer, a chill runs down your spine, a
+    Beginner                1–2                       prickling sense of unease amplified by the
+                                                      sight of gnarled trees bending away from the
+    Easy                    3–4                       tower, as though recoiling from an unseen
+                                                      terror. The tower's high walls stretch
+    Medium                  5–7                       impossibly into the heavens. They seem to
+                                                      ripple and distort, not unlike the surface of a
+    Hard                    8 – 10                    moonlit lake disturbed by a stone.
+                                                          As you draw near, you find the once-grand
+                                                      doors, carved with arcane symbols, hanging
+Adventure Introduction                                ominously ajar. What lies within this mad
+                                                      mage's playground of twisted science and
+The town of Neredge is stalked by nightmarish
+                                                      arcane magic is unknown, but you steel
+beasts that prey on the folk at night. Rumors
+                                                      yourself for the challenges that await.
+are swirling that the forgotten tower of a once-
+renowned mage, known for his unsettling
+experiments, has sprung back to life. The
+tower's windows shine with strange lights and
+roars of beasts are heard the nearby woods.
+Now, it's up to the party to explore this arcane
+tower and uncover the disturbing truth about
+the mad mage's tower.
+
+2                                Liber Obscura 007 – Mad Mage’s Tower
+                                                    the room. At the far end of the hall, a grand
+          MAGE'S TOWER                              staircase spirals upward into the darkness.
+                                                       A peculiar sight greets the adventurers
+The tower served as the once-renowned
+mage's home, library, and laboratory. Yet now       here: a large, antique book, bound in worn
+it stands as a twisted monument to his              leather, floats in the middle of the room. As
+obsession with arcane knowledge and reckless        they approach, the book snaps open, revealing
+experimentation. As the party ascends the           page upon page of cryptic text and
+tower room by room, they will discover that         enchantments. A surge of energy pulses from
+each floor is guarded by his terrifying             the book, filling the room with an eerie hum.
+experiments and protected by ingenious,             This is the mad mage’s sentient codex, now
+arcane traps.                                       the tower's magical guardian.
+
+
+Ascending the Tower. The villagers are being        The Sentient Codex
+hunted by a monstrosity, a creation of the mad      The Codex is imbued with the Mad Mage's
+mage that now leaves the tower at night to          knowledge and malice, its purpose to protect
+prey on nearby beasts and humans. The               the tower by any means necessary. It doesn't
+monstrosity resides on the fifth floor. The         seek to kill intruders outright, but instead tries
+interior of each floor does not conform to          to trap them in a magical contract that drains
+normal physical space constraints, each is as       their life force over time. At the start of the
+tall or wide as it needs to be, while the outside   encounter, the Codex will try to negotiate with
+of the tower remains the same, a result of the      the party, offering knowledge in exchange for
+strange magical enchantments placed on the          a signature on its pages. It communicates
+tower. Each floor contains a puzzle or              through inked letters that appear on a blank
+encounter that must be completed before the         page, forming sentences and phrases before
+party can proceed to the next floor.                disappearing. Once all PCs have signed or
+                                                    refused, the Codex’s curse will trigger. Begin
+Floor 1 (Ground Floor)                              combat and use the following rules.
+
+As the party steps across the threshold of the
+tower, they find themselves in a grand
+entrance hall. The once-magnificent space
+now carries an air of neglect. Tall, dusty
+shelves are crammed with ancient texts, and
+cobwebs hang from the intricate carved
+ceiling, swaying gently in the draft. Strange
+glyphs and arcane symbols etched into the
+stone walls glow with an eerie, flickering light,
+casting distorted shadows that dance around
+
+
+
+                                Liber Obscura 007 – Mad Mage’s Tower                                3
+Codex Curse. All PCs that signed the Codex
+                                                      Floor 2
+have become cursed. At the start of each
+                                                      The second floor contains a puzzle that the
+round, all cursed PCs take damage equal to
+                                                      party must solve to proceed. Read this script
+their character level as a stream of their blood
+                                                      to introduce the encounter.
+is pulled from their bodies and through the air
+and sucked into the book. A remove curse
+spell or similar magic can negate the contract,         As you ascends the stairs, you come to a
+as will destroying the book.                            stark, circular room. Three stone statues of
+                                                        maidens dominate the chamber. Before each
+Codex Stats. The book’s AC and hit points               statue is an identical glass orb glowing with a
+scale with difficulty. It can cast any wizard           pulsating, fiery light inside. On the stone floor
+spell that does not require concentration, of a         before the statues, an inscription is carved.
+spell level that scales by difficulty shown on
+the following chart. It is immune to all magical           One maiden tells the truth,
+damage and hovers five feet off the ground as              two maidens speak in lies.
+it moves around the room, casting one spell                One orb contains your prize,
+per turn. The spells have +4 to hit and DC 12.
+                                                           choose wrong and meet a fiery demise.
+When it reaches 0 hit points, it disintegrates in
+                                                           The Maiden on the left declares,
+midair, and its curses is removed.
+                                                           'One of us tells the truth.'
+
+                              Hit          Spell           The Maiden in the middle swears,
+    Difficulty     AC         Points       Level           'Both my sisters tell untruths.'
+
+    Beginner       17         5            0               The Maiden on the right sighs,
+                                                           'My orb is not the one you seek.'
+    Easy           18         8            1
+
+                                                      Solving the Puzzle. Two orbs will explode in
+    Medium         19         11           2
+                                                      a fiery burst when broken, while the last will
+                                                      release a harmless puff of smoke and cause a
+    Hard           20         15           3
+                                                      stairway to descend from the ceiling, leading
+                                                      to the next floor. This puzzle can be solved
+Ascending to Floor 2. Once the Codex is               using deductive reasoning.
+defeated, the staircase to the next floor                 The Left Maiden's statement, “One of us
+becomes accessible.                                   tells the truth,” is consistent with the
+                                                      inscription and must be the truth. The Middle
+                                                      Maiden claims that both her sisters are liars,
+                                                      which contradicts the Left Maiden. Therefore,
+                                                      the Middle Maiden must be lying. The Right
+
+4                                  Liber Obscura 007 – Mad Mage’s Tower
+Maiden declares that her orb is not the one the      Orb Damage. When a wrong orb is shattered,
+adventurers seek. If she were truthful, then         it releases an inferno of flames, engulfing and
+there would be two truth-tellers (Left and           damaging everyone in the room. The damage
+Right), contradicting the initial rule. Therefore,   scales with the adventure difficulty as shown
+she must also be lying. So, the Right Maiden         on the following table.
+must be telling a lie and her orb is actually the
+correct one.
+                                                      Difficulty           Orb Fire Damage
+
+ Timer! To make this puzzle more intense,             Beginner             3 (1d6)
+ start a 10 minute timer after reading the
+ script. The ceiling begins to descend, and           Easy                 7 (2d6)
+ after the time runs out, it crushes everyone
+ and everything in the room. This puts                Medium               14 (4d6)
+ pressure on the party to take more risks with
+ the orbs and potentially bumble their logical
+                                                      Hard                 21 (6d6)
+ reasoning capabilities.
+
+
+                                 Liber Obscura 007 – Mad Mage’s Tower                              5
+Floor 3                                            1) Ascending Stair
+Upon reaching the third floor, the party steps     This area is a medium-sized room filled with
+into what was once both a laboratory and           desk, ledgers, and other miscellaneous items,
+living quarters. The space is filled with arcane   though none are useful. A large winding
+equipment and bizarre machinery, most              staircase at the center of the room leads from
+prominent of which is a curious contraption        the lower floor to this floor, from where the
+standing in the center of the room with a          party came ascended.
+keyhole. When opened, the contraption
+triggers a circular staircase to descend from      2) Main Hall
+the ceiling on top of it, leading to the next      A large hallway connects several open areas. It
+floor.                                             is throughout this area that the keyholder
+                                                   wanders, attending to odd tasks here and
+The Keyholder. Shuffling amidst the arcane         there, such as fiddling with beakers, mixing
+clutter is a grotesquely deformed figure, once     alchemical ingredients, or reading from
+the mad mage's apprentice. Attached to the         strange books. Make sure to describe how the
+figure’s belt is a set of keys which can unlock    keys clink on its belt as it walks about,
+the device in the center of the room, causing a    muttering in some strange, archaic
+staircase to descend from the ceiling, leading     tongue.
+to the next floor. The keys can also be used to
+unlock a treasure chest on the floor. The
+keyholder character changes based on
+adventure difficulty.
+
+
+    Difficulty       Wandering Keyholder
+
+    Beginner         acolyte
+
+    Easy             acolyte
+
+    Medium           priest
+
+    Hard             mage
+
+
+Areas & Items. There are several areas of the
+laboratory as shown on the map, as well as
+items and treasures the party can pick up.
+
+
+
+6                               Liber Obscura 007 – Mad Mage’s Tower
+2a) Stair-Trigger Sphere                           mesmerizing dance. At the center of the rings
+At the center of the hall is an ornate armillary   is a brass globe with a keyhole. Only the
+sphere, a model of objects in the sky,             keyholder’s key can be used to unlock the
+composed of a series of concentric brass rings     device, which causes a stairway to descend to
+all turning independently of one another in a      the next floor.
+
+                                Liber Obscura 007 – Mad Mage’s Tower                           7
+2b) Spell Scroll                                    party can find 6d10 gp and 1d4 gems worth
+On a desk here is a spell scroll. Roll 1d4, the     50 gp.
+spell can be any spell of your choosing from
+the spell level as shown on the following table.    3) Construct Storage Room
+                                                    The last room on this floor contains a
+    d4         Spell Scroll Level                   deactivated construct. It will not move, attack,
+                                                    or even notice anyone. This hulking guardian
+    1          0 (cantrip)                          of the mage's secrets lies dormant. Yet the
+                                                    party must be careful. If the apprentice or the
+    2          1                                    construct is harmed in any way, it will awaken
+                                                    and burst through the walls, relentlessly
+    3          2                                    defending its charge. It can move freely
+                                                    through the floor, smashing walls and
+    4          3                                    trampling any terrain that may be in its way.
+                                                    The construct changes depending on the
+                                                    adventure difficulty.
+2c) Small Bag of Treasure
+On a desk here is a small bag of treasure. It
+contains 4d10 gp and 1d4 gems worth 50 gp.            Difficulty         Construct Guardian
+
+                                                      Beginner           animated armor
+2d) Potions
+On a desk here next to a large alchemical
+distilling machine are some potions. The table        Easy               flesh golem
+holds 1d4 potions of healing and 1 potion of
+poison.                                               Medium             shield guardian
+
+
+2e) Unlocked Chest                                    Hard               shield guardian
+This unlocked chest contains 4d10 gp.
+
+                                                    Shield Guardians. If the construct is a shield
+2f) locked Chest                                    guardian, the wandering keyholder has its
+This locked chest contains 8d10 gp. The lock
+                                                    amulet, and has stored one of their spells in
+can be picked with a DC 15 Dexterity check
+                                                    the guardian. Before combat, determine this
+using thieves’ tools by using a key held by the
+                                                    spell based on the keyholder’s spell list.
+wandering keyholder.
+
+
+2g) Supply Closet                                   Floor 4
+This supply closet it filled with boxes, crates,    On the fourth floor is a simple room with a
+and supplies. While rummaging here, the             door, four chests, and a puzzle involving
+                                                    mimics. Read this script to begin.
+
+8                                Liber Obscura 007 – Mad Mage’s Tower
+                                                    •   If 3 chests marked ‘1’ remain and there
+ As arrive on the fourth floor, you find a
+                                                        are 2 mimics, on a 1 – 4 the chest is a
+ simple, dusty room. At the far end is a large
+                                                        mimic. If there is 1 mimic, on a 1 – 2 the
+ stone door with a keyhole. There are four
+                                                        chest is a mimic.
+ treasure chests by the door: two to the left
+ and two to the right. They are marked from         •   If 2 chests marked ‘1’ remain and there
+ left to right with the numbers 1, 1, 1, and 2.         are 2 mimics, the chest is a mimic. If there
+                                                        is 1 mimic, on a 1 – 3 the chest is a mimic.
+                                                    •   If 1 chest marked ‘1’ remains, if there is a
+Chests. The chests all seem physically                  mimics, the chest is a mimic.
+identical, except for the number marking, a
+side effect of some being mimics which must         Moving On. Once the party locates the correct
+copy forms exactly. The number of mimics            chest marked with the number 2 and retrieves
+changes depending on the difficulty, but the        the key within, they can unlock the stone door
+real chest is always the one marked with the 2,     at the far side of the room. This reveals a
+as mimics must copy objects exactly, and if the     staircase leading up to the fifth and final floor.
+chest marked 2 were a mimic, there would be
+no chest it could have copied.
+
+
+ Difficulty          Mimics
+
+ Beginner            1 mimic
+
+ Easy                2 mimics
+
+ Medium              1 mimic
+                     1 greater mimic*
+
+ Hard                2 greater mimics*
+
+
+Mimics. If a chest marked with a
+number 1 is opened, it might be
+the mimic. If any mimic is
+disturbed, all attack at the same
+time. Any additional chests marked 1
+that are not mimics are empty.
+   Depending on how many chests numbered
+1 remain, roll 1d6 to determine if it is a mimic.
+
+
+                                 Liber Obscura 007 – Mad Mage’s Tower                               9
+Floor 5                                               Difficulty        Monstrosities
+The fifth and final floor of the tower is where
+the players come face-to-face with the source         Beginner          1 grick
+of the village's fear: the monstrous creations of
+the mad wizard, which have been let loose             Easy              1 chimera
+upon the surrounding lands. Upon reaching
+the top of the stairs, the party is greeted by a      Medium            1 nightmare chimera*
+grand and eerie spectacle. Read this script.
+                                                      Hard              1 chimera
+                                                                        1 nightmare chimera*
+ You make your way up a long and winding
+ staircase, to the next floor. The air here is
+ thick with a musky, bestial smell and the          Loot. If the party defeats the enemies, they
+ room is filled with an unsettlingly quiet,         may roll 4d10. Based on the cumulative roll
+ interrupted only by the occasional creak of        score, they find the item corresponding to the
+ the tower. The room is vast, covered with          highest score they reach. Add a bonus to the
+ markings and scratches of various sizes and
+                                                    cumulative roll score depending on the
+ shapes, and the remains of many iron-barred
+                                                    adventure difficulty level.
+ cells filled with small environmental
+ enclosures.
+     Yet the cells are broken open and only           Difficulty                  Loot Roll Bonus
+ corpses or bones remain, something,
+ perhaps on of the occupants, has been                Beginner                    +0
+ feasting on the rest. The far wall has caved in,
+ allowing access in and out, whatever predator        Easy                        +1
+ lurks here appears to have begun hunting
+ outside as its food supplies dried.                  Medium                      +2
+     As you cautiously enter the room, a
+ twisted monstrosity, its form a horrifying
+                                                      Hard                        +3
+ amalgamation of scientific experimentation,
+ pounces down from a hidden alcove, its eyes
+ gleaming with a fierce intelligence and a          LOOT TABLE
+ predatory gaze.
+                                                      4d10         Item Discovered
+The Creatures. The nature of the creatures
+                                                      28+          Nightmare Chimera Skull*
+depends on the difficulty of the adventure, as                     (uncommon)
+shown on the following table. The creatures
+are aggressive and will immediately attack.
+                                                      1 – 27       Nothing
+
+
+10                               Liber Obscura 007 – Mad Mage’s Tower
+                                                  village, their mission complete. The party can
+Ending the Adventure
+                                                  choose to share the wizard's notes with the
+Once the creature is defeated, the party can
+                                                  villagers or keep them. Either way, they will be
+explore the remains of the room. Among the
+                                                  hailed as heroes, the village finally safe from
+debris, they find a collection of the wizard's
+                                                  the creature's nightly attacks.
+notes, detailing his experiments and plans, as
+well as a strange device that looks like a
+handheld mirror. The mirror is magical and
+serves as a teleportation device, allowing the
+party to leave the tower and return to the
+
+
+
+
+                               Liber Obscura 007 – Mad Mage’s Tower                            11
+                                  MONSTERS & NPCS
+                                                        False Appearance (Object Form Only). While the
+ Greater Mimic                                          mimic remains motionless, it is indistinguishable
+ Large monstrosity (shapechanger), neutral              from an ordinary object.
+ Armor Class 17 (natural armor)
+ Hit Points 133 (14d10 + 56)                            Grappler. The mimic has advantage on attack rolls
+ Speed 30 ft., climb 30 ft.                             against any creature grappled by it.
+
+     STR    DEX    CON     INT     WIS    CHA           Stranger. Creatures that are grappled by the mimic
+      20     16     18      8       14      8           must attempt to escape at the start of their turn. If
+     (+5)   (+3)   (+4)    (-1)    (+2)    (-1)         they fail, they cannot take any other actions during
+ Skills Stealth +6                                      their turn.
+ Damage Immunities acid
+ Condition Immunities prone                             Actions
+ Senses darkvision 60 ft., passive Perception 11
+                                                        Multiattack. The mimic makes two pseudopod
+ Languages –
+                                                        attacks.
+ Challenge 7 (3,900 XP)
+
+ Shapechanger. The mimic can use its action to          Pseudopod. Melee Weapon Attack: +7 to hit, reach
+ polymorph into an object or back into its true,        10 ft., one target. Hit: 16 (3d8 + 3) bludgeoning
+ amorphous form. Its statistics are the same in each    damage plus 5 (2d4) acid damage. If the mimic is
+ form. Any equipment it is wearing or carrying isn't    in object form, the target is subjected to its
+ transformed. It reverts to its true form if it dies.   Adhesive trait.
+
+ Adhesive (Object Form Only). The mimic adheres         Bite. Melee Weapon Attack: +7 to hit, reach 5 ft.,
+ to anything that touches it. A Huge or smaller         one target. Hit: 16 (3d8 + 3) piercing damage plus
+ creature adhered to the mimic is also grappled by it   7 (2d6) acid damage.
+ (escape DC 15). Ability checks made to escape this
+ grapple have disadvantage.
+
+
+
+
+12                                Liber Obscura 007 – Mad Mage’s Tower
+                                                       Claws. Melee Weapon Attack: +10 to hit, reach 5
+Nightmare Chimera                                      ft., one target. Hit: 13 (2d6 + 6) slashing damage.
+Huge monstrosity, chaotic evil
+Armor Class 16 (natural armor)                         Tail Strike. Melee Weapon Attack: +10 to hit, reach
+Hit Points 168 (16d12 + 64)                            15 ft., one target. Hit: 10 (3d6) poison damage.
+Speed 40 ft.
+                                                       Nightmare Breath (Recharge 5–6). The chimera
+ STR     DEX     CON      INT     WIS     CHA          exhales shadowy flame in a 30-foot cone. Each
+  22      14      18       4       14      10          creature in that area must make a DC 17
+ (+6)    (+2)    (+4)     (-3)    (+2)    (+0)         Constitution saving throw. On a failed save, a
+Skills Perception +10                                  creature takes 45 (10d8) necrotic damage and is
+Senses darkvision 60 ft., passive Perception 20        frightened until the end of its next turn. On a
+Languages understands Draconic but can’t speak         successful save, a creature takes half as much
+Challenge 10 (5,900 XP)                                damage and isn’t frightened.
+
+Multiple Heads. The chimera has advantage on           Legendary Actions
+saving throws against being blinded, charmed,
+deafened, frightened, stunned, and knocked             The Nightmare Chimera can take 3 legendary
+unconscious.                                           actions, choosing from the options below. Only
+                                                       one legendary action option can be used at a time
+Wakeful. While the chimera sleeps, at least one of     and only at the end of another creature's turn. The
+its heads is awake.                                    Nightmare Chimera regains spent legendary
+                                                       actions at the start of its turn.
+Actions
+                                                       Tail Attack. The Nightmare Chimera makes a tail
+Multiattack. The chimera makes two attacks: one            strike attack.
+with its bite and one with its claws. When its         Detect. The Nightmare Chimera makes a Wisdom
+nightmare breath is available, it can use the breath       (Perception) check.
+in place of one attack.                                Charge (Costs 2 Actions). The Nightmare
+                                                           Chimera moves up to its speed and then
+Bite. Melee Weapon Attack: +10 to hit, reach 5 ft.,        makes a bite attack.
+one target. Hit: 17 (2d10 + 6) piercing damage.
+
+
+
+
+                                  Liber Obscura 007 – Mad Mage’s Tower                                       13
+                 ITEMS
+
+
+
+
+14   Liber Obscura 007 – Mad Mage’s Tower
+

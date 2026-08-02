@@ -1,0 +1,1255 @@
+CONTENTS
+                                                    Map Locations                            14
+CONTENTS                                     1          B1) Main Entrance                    14
+CREDITS                                      2          B2) Entrance Cavern                  14
+FOREWORD: THE WORLD OF DOADEN                3          B3) Rope Bridge                      14
+ADVENTURE SUMMARY:                                      B4) Butcher’s Kitchen                14
+ THE BLOODFEVER                              4          B5) Larder                           14
+   Scenario & Story Structure                4          B6) Ceremonial Chamber               15
+       Story Hook                            4          B7) Ceremonial Pit                   15
+       Chapters                              4          B8) Side Entrance                    15
+       Balance                               4          B9) Overlook Ledge                   16
+INTRODUCTION: THE BLOODFEVER                 5          B10) Storage Cavern                  16
+   Adventure Notes                           5          B11) Living Cavern                   16
+       The North                             5          B12) Holding Pit                     16
+       Gaurric Language                      5          Slaughterhorn Lair Map               17
+       Bal’Morra, the Festival of Light      5   EPILOGUE                                    18
+       Communications Breakdown              5      Return to Guerrin                        18
+       Adventure Hook: Rangers Commission    5      Possible Endings                         18
+CHAPTER 1: THE FESTIVAL OF LIGHT             6          Massacring the Slaughterhorns        18
+   Arrival at Ubsola                         6          Saving the Slaughterhorns            18
+       The Town of Ubsola                    6          Siding with the Bloodbrand Cults     18
+           Alderman Yngvald                  6   APPENDIX A: FACTION FOCUS                   19
+           Circle of Morra                   6          Life & Culture                       19
+           Shops & Supplies                  6          Religious Beliefs                    19
+           Knowledge of Bal’Morra            6          The Bloodfever                       19
+           Speaking with High Priest Torvik  6          The Bloodbrand Cult                  19
+       Yngvald’s Longhouse                   7   APPENDIX B: GAME RESOURCES                  20
+           Speaking with Alderman Yngvald    7      Resources 1.1: Letter & Texts            20
+       Visiting the Tracks                   7          Rangers Commission Letter            20
+   The Ceremony of Bal’Morra                 8          Rangers Update Letter                20
+       The Feast                             8      Resources 1.2: Maps                      21
+       The Choice                            8          Map A - Slaughterhorn Ambush (Grid) 21
+       The Conclusion                        9          Map A - Slaughterhorn Ambush (No Grid)22
+CHAPTER 2: SLAUGHTERHORN AMBUSH 10                      Map B - Slaughterhorn Lair (Grid)    23
+   Slaughterhorn Background                 10          Map B - Slaughterhorn Lair (No Grid) 24
+       The Beastmen Lair                    10   APPENDIX C: BESTIARY                        25
+       Troubles with the Bloodbrand Cult    10      Aurox Bloodbrand                         25
+       Communication Barriers               10      Aurox Bludgehorn                         26
+       An Unfortunate Misunderstanding      10      Aurox Warrior                            27
+   Ambush Encounter                         11      Bloodbrand Matriarch                     28
+       Encounter Setup & Mechanics          11      Bloodfevered Brute                       29
+           Points of Interest               11      Mouth of Mologh                           30
+           Starting Characters              11      Rockgut Raider                            31
+           Enemy Reinforcements             11      Slaughterhorn Chieftain                   32
+           Encounter Mechanics              11      Yoken                                     33
+       Slaughterhorn Ambush Map             12
+       A Lead on the Rangers                12
+       Yngvald’s Farewell                   12
+CHAPTER 3:
+INTO THE SLAUGHTERHORN LAIR                 13
+   Lair Background                          13
+       A Tale of Conflict                   13
+       Persistent Rules                     13
+       Starting the Chapter                 13
+
+                                                                                                   1
+CREDITS
+Developed by:
+  Bestiarum Games
+
+Story and Game Design:
+   Alexander Dovermann
+
+Faction Lore:
+  Alexander Dovermann
+  Marcus Harland
+
+Graphic Design:
+  Alexander Dovermann
+  Katarina Popovici
+
+
+
+
+                         2
+FOREWORD: THE WORLD OF DOADEN
+
+Welcome to Doaden, the dark fantasy setting of tainted
+                                                                    Compatibility. This adventure is intended for use in
+                                                                    conjunction with the D&D 5e Player’s Handbook (PHB),
+                                                                    Dungeon Master’s Guide (DMG), and Monster Manual (MM).
+lands and twisted monsters, where an ever- creeping affliction
+corrodes the very essence of existence. It is a world of decay
+                                                                    Civilization & Trade in Doaden have crumbled. Only gold,
+and depravity where once-righteous men and heroes of glorious
+                                                                    silver, and copper are circulated, and only at 1/10th the amount
+purpose now struggle to survive as cults and dark gods vie with
+                                                                    suggested in D&D manuals. Magical items are extraordinarily
+one another to consume the last vestiges of humanity.
+                                                                    rare.
+Doaden is filled with horrific scenarios and impossible
+decisions. Players will have their morals challenged and often
+                                                                    Statblocks for Bestiarum creatures are
+no outcome will feel “good” or “just”. The heavy decisions
+                                                                    included in the appendix of this scenario. These creatures will
+these heroes make often leaves them disheartened and it is
+                                                                    be written in bold text. D&D creatures are referenced by book
+important that players prepare themselves for this setting before
+                                                                    and page number.
+starting any adventure through the realm.
+Hope. Yet as dark as Doaden may be, it is important that your
+players, as human beings, are able to find respite from the          Narrative Scripts: are passages of text which should
+darkness. Light may be found even in the darkest of places, and      be read aloud or paraphrased as they build the
+you should alleviate the mood at the table if you notice your        atmosphere or provide key pieces of information to
+players have trouble adjusting.                                      the players. This is an example of the “Narrative
+                                                                     Script” format indicating that this section should be
+                                                                     read aloud.
+ THERE IS LIGHT YET in Doaden, and though it
+ may seldom come in the form of love or joy, it still
+ shapes itself into a semblance of honor, purpose,                   Recurring Rules: are mechanics used to resolve
+ and redemption.                                                     specific situations. The rule will appear in this
+                - Dreyen Solius, Journal of the World’s Ending.      format when it first occurs. You may also use your
+                                                                     own rules to resolve these situations as well.
+
+
+                                                                     Torment Mode: adventurers in Doaden fall into two
+                                                                     categories based on the average level of the party.
+                                                                     Normal Mode ranges from levels 5 - 7 while
+                                                                     Torment Mode ranges from levels 8 - 10. Encounters
+                                                                     are written for Normal Mode, and Torment Mode
+                                                                     modifications are given in this format to convert
+                                                                     encounters to higher levels.
+
+                                                                     Between these two difficulty levels, the enemies
+                                                                     encountered will generally have the same statblocks.
+                                                                     However, Boss monsters will be provided with a
+                                                                     separate statblock for both Normal and Torment
+                                                                     Modes.
+
+
+
+
+                                                                                                                                       3
+ADVENTURE SUMMARY:
+THE BLOODFEVER
+Beastmen are an ancient species that have walked the wilds
+                                                                     northern culture, they may make grave mistakes in their actions,
+                                                                     causing the man to burn in agony before his death.
+long before the coming of man. Following a contentious history
+                                                                       In Chapter 2: the festival is attacked by a group of
+with the early nomadic northmen that shared their territory, they
+                                                                     Slaughterhorn Tribe raiders and the party must defend the
+have learned to exist in nature far from the dominion of man,
+                                                                     villagers as best they can.
+where they may avoid conflict.
+   However, in recent years there has been an alarming
+                                                                       In Chapter 3: the party tracks down the missing rangers,
+escalation in the encounters with these beasts. Survivors
+                                                                     coming to the lair of the Beastmen. They find the Slaughterhorn
+describe attacks by feral bullmen overtaken by a savage rage,
+                                                                     Tribe at war with itself, some Beastmen seeking peace and
+rabid beasts ambushing caravans and slaughtering villages,
+                                                                     harmony while others seek allegiance with dark gods and
+leaving behind nothing but corpses and demolished structures.
+                                                                     entities. If the party is able to communicate with the
+   Unknown to the humans, the Beastmen tribes are suffering,
+                                                                     Slaughterhorn shaman, they may learn that they have more in
+their clans plagued by myriad issues. Food grows scarce as
+                                                                     common with the perceived enemy than they imagined.
+corruption spreads deep into their plains and forests. A wasting
+                                                                       It will be up to the party to decide whether to listen to this
+sickness has culminated over many generations, causing
+                                                                     otherly culture or to slaughter the half-beast hybrids and ensure
+widespread infertility and decimating their young populations.
+                                                                     the peace and stability of the area.
+Worst of all, a new infection, the Bloodfever, spreads among
+their numbers, causing the infected to become feral, succumbing
+to a blinding rage that leads to a devastating loss of mental        Balance
+control and eventual death.
+   A team of rangers has traveled north to investigate the reports     This scenario is balanced for 4-5 players, with Normal Mode
+of these attacks, but have not been heard from in over a week.       levels 5-7, and Torment Mode levels 8-10.
+
+
+Scenario & Story Structure
+  This adventure is designed to be easily run with minimal
+preparation. A GM will be able to skim these pages and begin
+the adventure right away, allowing the story to unfold naturally.
+
+
+Story Hook
+
+  The party is charged with tracking down the missing team of
+rangers that disappeared in the north while investigating
+Beastmen raids.
+  In their search, they will encounter the Slaughterhorn Tribe
+who have been pushed south due to desperation, and are being
+torn apart by internal division. However, the evils
+this tribe faces are common to all of their clans, and similar
+stories are unfolding across the lands.
+
+
+Chapters
+
+   In Chapter 1: the party visits a small town celebrating
+Bal’Morra, a barbaric northern tradition involving fire and
+human sacrifice.
+   The party will partake in this gruesome ritual, holding a man’s
+life in their hands. If they are not careful to learn about this
+
+
+                                                                                                                                     4
+INTRODUCTION: THE BLOODFEVER
+                                                                     Bal’Morra, the Festival of Light
+   This adventure revolves around the conflict and prejudices        Bal’Morra is an ancient northern tradition. Each year, local
+held between peoples and between cultures. In their journey, the     communities gather together. For six days, they feast and
+party will be exposed to strange traditions which they may find      fornicate, their inhibitions loosened by copious ingesting of
+to be grotesque and alien to their own, both among Men and           alcohol and hallucinogenic plants.
+among the Beastmen.                                                    On the last day of the festival, a great bonfire is lit in the
+  However, if the party is able to communicate with and accept       name of Morra, goddess of growth and fertility. Around the fire,
+these other cultures, they may find a new understanding of the       six men are tied to wooden stakes, each is a volunteer. The
+world, and that they share much in common with the other.            Priests of Morra push the men into the fire, whose deaths are
+                                                                     meant to appease Morra and ensure a bountiful and fertile year
+Adventure Notes                                                      ahead.
+                                                                       Historically, the volunteers were pushed into the fire alive,
+This scenario takes place in the northernmost regions of the
+                                                                     their agonized screams echoing through the dark, drowned out
+Western Reaches, where the people share much tradition with
+                                                                     only by the fervent beat of drums. However, today, a relative of
+the north.
+                                                                     each man slits their throat before they are pushed into the fire, a
+                                                                     modern mercy meant to ease the person’s passing.
+The North
+                                                                     Communications Breakdown
+The north is a sparsely populated region inhabited by nomadic
+tribes. These people are animistic, believing in nature spirits,
+                                                                     Unfortunately, misunderstood culture and communication
+contrary to the beliefs of the Church of Azerai. However, their
+                                                                     barriers often lead to the perpetration of terrible evils in our own
+warriors are fierce and the region too craggy and cold to grow
+                                                                     world, and this is no different in Doaden.
+much crop or livestock.
+                                                                       If the party does not know Guarric or have a spell to
+   A military campaign of the magnitude needed to conquer the
+                                                                     comprehend languages, they will not be able to communicate
+north would be costly, arduous, and offer little return. For these
+                                                                     with the Slaughterhorn tribe and may not understand their
+reasons, the north maintains independence from the Empire, the
+                                                                     actions. You may allow a few of them to learn the Guarric
+Church finding little benefit in extending their reach into such
+                                                                     language if it fits their character background to give them a
+inhospitable lands.
+                                                                     better chance at bridging the cultural barrier between Men and
+                                                                     Beastmen.
+Gaurric Language
+                                                                     Adventure Hook: Rangers Commission
+Gaurric is an old language, prevalent in the region since before
+the Empire. It is still spoken by the tribes of the area and
+                                                                     Before beginning the adventure, provide your players a copy of
+generally by druids throughout the wilds. It uses a primitive
+                                                                     the Rangers Commission Letter included in Appx. B: Game
+writing system of runes that are easily carved into rock or
+                                                                     Resources. All players must be united in their objectives to
+leather.
+                                                                     fulfill their commission and search for the missing rangers.
+  The Church of Azerai considers the language to be barbaric
+and a symbol of the uncivilized. Similarly, many people of the
+south carry these prejudices dictated by the Church, and look
+down on anyone speaking the language.
+  A character that originates from the north or who has spent
+time in the wilds may have learned Gaurric. A Barbarian, Druid,
+or Ranger would be especially likely to know this language.
+
+
+
+
+                                                                                                                                       5
+CHAPTER 1:
+THE FESTIVAL OF LIGHT
+                                                                     Alderman Yngvald
+
+This adventure begins in Ubsola, a town preparing for the            Ubsola is governed by the local Alderman, Yngvald. He has
+festival of Bal’Morra, an ancient tradition involving fire and       been elected into the position by his people, but ordained by the
+human sacrifice. Players will have a chance to participate in this   Empire.
+ancient ritual, after which the town is attacked by a Beastmen
+raid.                                                                Circle of Morra
+                                                                     High Priest Torvik leads the circle of Morra, a group of priests
+Arrival at Ubsola                                                    dedicated to the goddess’ worship. They reside in Ubsola and
+                                                                     act as the religious leaders for the surrounding villages.
+
+Start the adventure as the party arrives in Ubsola or in New
+                                                                     Shops & Supplies
+Heldon, having the party embark first on a two-week journey
+through the wilderness to reach the town.
+                                                                     Ubsola is a small town with limited trade. Players may find the
+                                                                     rudimentary equipment for adventuring here, but little else.
+When the party arrives in Ubsola, read:
+
+                                                                     Knowledge of Bal’Morra
+ After a long week following faded forest trails and
+ mountain paths, you finally come to the town of
+                                                                     Players may make an Intelligence (Religion) skill check to see
+ Ubsola. You see the folk bustling about, stacking                   how much they know about Bal’Morra, using the results on the
+ wood into a great pile at the edge of town and                      following chart. Players whose background indicates they may
+ erecting six large wooden stakes around it. An                      know about the tradition have advantage on their roll.
+ elderly man in yellow robes stands by, supporting
+ himself with a gnarled cane and directing them                        Religion Check table:
+ about.
+   Though it is not yet evening, some of the townsfolk                Score                 Known Information
+ appear intoxicated, stumbling about and slurring
+ their speech. Belligerent singing rings through the                  12+      The town prepares for the Festival of Light,
+ air, interspersed by the grunts and moans of                                  an annual celebration seeking fortune and
+ passionate fornication.                                                       fertility for the coming year. It involves six
+                                                                               days of feasting, alcohol, psychoactive
+The Town of Ubsola                                                             plants, and fornication.
+                                                                      16+      The festival is known in Gaurric as
+Ubsola lies along the northern tip of the Western Reaches, one
+                                                                               Bal’Morra, translating into “Fire of
+week's journey north of the town of New Heldon. A New                          Morra,” and is held in honor of the goddess
+Heldon map is provided in the adventure Penitent Crusade I:                    Morra, a spirit of nature. At the end of the
+The Cleansing of New Heldon.                                                   sixth night, a great fire is lit.
+  Ubsola has a permanent population of only a few hundred, but        20+      Six men are pushed into the fire as
+serves as a religious center for a scattering of nearby villages.              sacrifices, tied to wooden stakes.
+Each year, the villages convene to celebrate Bal’Morra, the           25+      The sacrifices are all volunteers. In modern
+Festival of Light, during which time the town’s population may                 times, their throats are first slit so that they
+reach several hundred. The town is surrounded by dense forests                 do not suffer as their bodies are consumed
+and craggy mountains.                                                          by the flames.
+
+                                                                     Speaking with High Priest Torvik
+
+                                                                     The man in yellow robes is High Priest Torvik, the head of the
+                                                                     priests of Morra. He is busy with festival preparations, but is
+                                                                                                                                       6
+happy to chat briefly about anything including the following        Beastmen Raids. The Beastmen have not attacked Ubsola, but
+points.                                                             have attacked nearby villages and caravans. Survivors describe
+                                                                    rabid bullmen that charge out of the woods, goring people with
+Bal’Morra, the Festival of Light. Torvik conducts Bal’Morra         their horns and great weapons, and often take the corpses with
+every year and knows the ceremony in intricate details.             them.
+However, he is busy and therefore does not expound on details
+unless the party asks him directly for specific information about   The Armored Men. Yngvald was just speaking with a group of
+the festival.                                                       scouts who found hoof tracks outside of town. If they wish to
+                                                                    investigate, they should speak to Wikkum the scout outside.
+The Beastmen. Torvik is fearful of the Beastmen’s increased
+aggression, but does not know much about the attacks or about       Malcor’s Rangers. The rangers came to Ubsola about five
+the missing rangers. He suggests the players visit the              weeks prior. They primarily stayed in the wilds, but at least one
+Longhouse and speak with Alderman Yngvald, the town                 ranger would report back every few days with a written report
+leader. The building is the largest structure in town and visible   for delivery to Guerrin. The rangers were tracking the
+from the area, less than a five minute walk away.                   Slaughterhorn Tribe, a group of Beastmen that were migrating
+                                                                    through the area. Yngvald hasn’t heard from them for about two
+Yngvald’s Longhouse                                                 weeks.
+
+                                                                    Enjoy the Feast. When the party finishes talking, Yngvald
+The Longhouse is a wide building which seats eighty. It is being
+                                                                    suggests they stay and enjoy the feast, waving them to a table.
+set for the evening feast, which will commence later in the
+                                                                    The party may take seats right away.
+evening.
+                                                                      If the party insists on investigating the tracks or running
+                                                                    errands first, there are still several hours of daylight remaining.
+When the party enters the Longhouse, read:
+                                                                    They may leave and return, and their seats will be reserved for
+                                                                    them.
+ You make your way to the Longhouse, past clusters
+ of thatched-roof huts and up a short rise to the wide
+ wooden structure. Entering through an open
+                                                                    Visiting the Tracks
+ doorway, you find servants inside busily setting rows
+ of long tables, arranging pitchers of ale and piling               If the party chooses to investigate the tracks, they must speak to
+                                                                    the scout Wikkum outside the Longhouse for details. The tracks
+ platters with breads, cheeses, and roasted meats.
+                                                                    are in the forest about three miles north of the town. They are
+   At the end of the hall is a large wooden throne. A
+                                                                    easy to find with Wikkum’s help.
+ burly man with a shorty graying beard and dressed
+ in layers of fine animal hides stands next to the
+                                                                    The following enemies are at the tracks:
+ throne, drinking from a horn in his hand. He                         1x Aurox Warrior
+ converses with a few armored men, patting one on                     1x Bloodfevered Brute
+ the shoulder and laughing with them before the men
+ take their leave, passing you as they head outside.
+                                                                     Torment: add the following enemies:
+   Spotting you, the man greeting you jovially,
+                                                                      1x Aurox Warrior
+   “Ah, visitors! Come friends, sit with me.”
+
+Speaking with Alderman Yngvald
+
+The man is Yngvald, leader of the town and surrounding
+villages. He is primarily concerned with keeping the mood light
+and optimistic as the town prepares for the ceremony of
+Bal’Morra. He will be happy to discuss the following.
+
+Bal’Morra. Yngvald oversees general festival preparations each
+year. Like High Priest Torvik, his answers are limited to direct
+responses as he is preoccupied.
+
+                                                                                                                                          7
+                                                                        Slitting the throat is a choice. The man will be pushed into the
+The Ceremony of Bal’Morra                                               fire no matter what, but if his throat is not slit, he will suffer
+One way or another, the party should return to the Longhouse            greatly as he burns. It will be understood that Morra wishes him
+before the feast ends.                                                  to suffer like in the days of old.
+
+The Feast                                                               The Party Role. One man will have no relatives. The High
+                                                                        Priest will determine that the duty of easing his passage belongs
+When the party joins the feast, read:                                   to the party, as their arrival and involvement with the Beastmen
+                                                                        symbolizes the will of Morra.
+ The Longhouse fills with raucous shouts music as                         Any of the party members can step forward. If they all
+                                                                        hesitate, you should use the Alderman Yngvald to push one
+ you feast on platters of roasted meats, thick stews,
+                                                                        forward. He may whisper that they have been chosen by
+ cheeses, and buttered root vegetables. Servants
+                                                                        Morra’s will, and should not anger the gods by refusing their
+ bustle about, refilling pitchers of potent mead, a slur
+                                                                        duty.
+ of honey and spice that warms your belly and goes
+ straight to the head.                                                  Cultural Misunderstanding. At this point, if the party has not
+   Yngvald stands to his feet, his face ruddy from                      figured out how the Bal’Morra festival is conducted yet, they
+ merriment. He slams a fist on the table and raises                     should not be given any more information, so that they are put
+ his horn in the air, shouting above the din as the hall                on the spot in determining whether or not to slit the man’s
+ quiets to listen.                                                      throat.
+
+   “Friends! Let us give thanks for Morra’s bounty.                     When you are ready to proceed, read:
+ Let us honor her sustenance, even in these dark
+ times. Let us remember those we have lost; our                          A rhythmic drumbeat grows outside and slowly
+ family, to the wills of the gods, for today, we honor                   overtakes the humdrum of festivities. A young priest
+ them.                                                                   in yellow robes steps into the hall with head bowed.
+   Before we proceed, please, raise your drinks to                       Wordlessly, he kneels to the ground, scraping a
+ our new friends, brave souls who seek to end the                        handful of dirt across his face, before heading back
+ plague that descends upon our lands. Let the                            outside. The feasters grow hushed, standing to
+ blessings of Morra shine upon them as well!”                            follow behind him in silence, forming a large crowd
+                                                                         as they funnel out of the Longhouse.
+ With that, Yngvald upturns the horn, drinking deeply                      You follow the crowds to the edge of town where
+ as the liquid splatters his beard. The rest of the hall                 they had been busy earlier erecting the pile of timber
+ follows suit, drinking, clapping, and greeting you                      encircled by wooden stakes. The logs have been lit,
+ with shouts of welcome.                                                 creating a great bonfire which blossoms like a red
+                                                                         carnation, its fiery petals tearing through the
+Allow the party time to eat, speak with each other or to
+                                                                         darkness.
+Yngvald, or participate in festivities. You can use this time to
+                                                                           Six men are now bound to the wooden stakes that
+review the next steps of the ceremony before proceeding.
+                                                                         circle the fire. To the left of each man stands a priest
+                                                                         in yellow robes. The crowd slowly fills the space
+The Choice                                                               surrounding the great fire, encircling the men.
+                                                                           The High Priest watches on as villagers step
+The priests have been busy preparing the pyre and sacrifices.            forward; four women and an elderly man, each
+The party will be forced to participate in the ritual. The outcome       wordlessly taking their place in front of a bound
+of the ceremony will depend on the following.                            man. However, no one steps forward for the last one.
+                                                                         The High Priest then turns his gaze to you, raising
+The Six Sacrifices. Six volunteers are about to be sacrificed.           an open hand and beckoning you forward towards
+Their closest relation steps forward and stands next to them,            the last bound man.
+taking the responsibility of cutting their throat before they are
+pushed into the fire, to ease their suffering. Once all relatives are
+in place, the priests of Morra will give knives to the relatives.
+
+
+                                                                                                                                         8
+When a player accepts the duty, read:
+                                                                      Burned Alive. If the man’s throat was not slit, describe the
+ You step forward and walk to the last man,                           horrible outcome.
+ mirroring the examples of the others. The priest                     Read:
+ nods to you.
+    The drums beat heavier and heavier, their deep                     The man before you screams in tortured agony as
+ rhythmic pounding causing a tremor in your body                       the flames engulf him. His voice peels through the
+ and a fogginess in your head. The beat reaches a                      darkness, a horrible retching cry that cuts through
+ frenetic crescendo. Then suddenly, it stops.                          the beat of the drums clear as day.
+    In the eerie silence that follows, you hear only the                 His wails rend open your very soul. For an
+ flickering of the great bonfire and the uneven                        agonizing eternity, he screams, until his voice grows
+ breathing of the man before you. Peering at his face,                 weary, until his skin blackens, bubbles and cracks,
+ you see that his eyes are glazed and unfocused, his                   until the water in his lungs boils into a choking
+ pupils dilating widely to form two clouded black                      vapor, until the whites of his eyes melt and drip
+ saucers.                                                              down the sides of his cheeks. He looks to you with
+    Each priest steps forward, offering a knife to the                 those sunken, unseeing pits before his head falls
+ villager beside them. Each of the villagers takes the                 forward and he drops limp to the side.
+ knife and slashes it across the throat of the bound
+ man before them. Crimson blood explodes violently                    Processing the Ceremony. Give the players some time to
+ from their throats, spraying into the air and filling                process what happened. They may speak to each other, to
+ your nostrils with the acrid smell of iron.                          Ingvald, to the priests, or anyone else that is present.
+                                                                        They have shared a deep experience with all of those present,
+    The priest nearest to you brings forth a glinting
+                                                                      and people will be willing to explain the significance of the
+ kris knife from his robes, offering you the blade as it
+                                                                      events now. During this time, the ceremony will wind down and
+ glints in the firelight.
+                                                                      the people begin to leave. However, one last event remains for
+                                                                      the night, as a Beastmen raiding party is about to strike the
+The choice of killing the villager now falls to the player. If they
+                                                                      town.
+do not slit their throat, read the following Final Chance script.
+Otherwise if they do, skip to the Ending the Scene section.
+
+Final Chance. If the player does not slit the man’s throat, read:
+
+ As you hesitate, the bound man before you whispers
+ out with a laborious breath.
+
+   “Please.”
+
+ Even in his heavily drugged state, you can sense a
+ fear, a desperation within him. The priest places the
+ knife in your hands.
+
+The Conclusion
+
+Once the player makes the decision to kill or not kill
+the man, read:
+
+ The priest takes the knife back from you, nodding to
+ you as he does. The six priests act in unison, rubbing
+ dirt across the face of the bound man before kicking
+ the wooden stakes, toppling them into the raging
+ fire. The drums beat loud, reaching a fevered rhythm
+ that drowns out the crowds.
+                                                                                                                                     9
+CHAPTER 2:
+SLAUGHTERHORN AMBUSH
+                                                                         Unfortunately, they did not manage to speak to the Chieftain
+
+Following the sacrificial ceremony, Beastmen raiders will
+                                                                       or his followers, and so were not able to distinguish the good
+                                                                       from the bad, concluding that all of the Beastmen were infected
+                                                                       with a demonic plague and must be purged from existence.
+attack Ubsola. The party must defend the townsfolk from the
+                                                                         Following these discoveries, the Bloodbrands captured the
+attack.
+                                                                       rangers, eating or killing all of them besides Malcor, further
+                                                                       further confirming his prejudices about the tribe and the species.
+Slaughterhorn Background
+The following information about the goings on of the tribe will
+be important for the remainder of the scenario.
+
+
+The Beastmen Lair
+
+The Slaughterhorn Tribe has been pushed south due to resource
+scarcity and now occupies a small cave several miles outside of
+Ubsola. The party will explore the lair in the final chapter of this
+scenario.
+
+
+Troubles with the Bloodbrand Cult
+
+The Slaughterhorn Tribe is being torn apart by internal conflict.
+Led by a Bloodbrand Matriarch, the Bloodbrand Cult has all but
+taken over the tribe, having captured the tribe’s chieftain and
+pushed the remaining Slaughterhorn Resistance into a small
+portion of the cave system.
+
+
+Communication Barriers
+
+Beastmen have their own form of speech which is unintelligible
+to humans, known as Beastspeak. Some Aurox may understand
+a limited amount of Gaurric if they interacted with human tribes
+in the north. The smartest individuals may even be able to speak
+in haltering Gaurric.
+   Of the Slaughterhorns, none of the Aurox can speak or
+understand any Gaurric except for the Slaughterhorn
+Chieftain, the Mouth of Mologh, and the Bloodbrand
+Matriarch. All three of these individuals can understand and
+speak faltering Gaurric.
+
+
+An Unfortunate Misunderstanding
+
+Approximately three weeks before the party arrived at Ubsola,
+Malcor and the missing rangers tracked the Slaughterhorn Tribe
+to their den. They witnessed the Beastmen succumbing to the
+Bloodfever and conducting dark rituals, becoming imbued with
+demonic energy and raising the dead with necromancy.
+
+                                                                                                                                       10
+Ambush Encounter                                                         Torment: add the following enemies:
+                                                                          1x Yoken
+To begin the encounter, read:
+
+                                                                        Enemy Reinforcements
+ The crowd has become withdrawn; quiet and
+                                                                        The following enemies are spawned randomly along the map
+ contemplative in their demeanor. As you leave the
+                                                                        edge, before the start of these combat rounds:
+ ceremony, a loud scream cuts through the dark from                       Round 3: 1x Aurox Bloodbrand
+ somewhere ahead. Then another to the left, and                           Round 5: 1x Aurox Bloodbrand
+ another to the right. People begin to run, forming a                     Round 9: 1x Rockgut Raider
+ chaotic stampede. Through the din you hear loud,
+ bestial grunts and a rugged, gutteral roar.                             Torment: add the following enemies:
+                                                                          Round 7: 1x Aurox Warrior
+Encounter Setup & Mechanics
+
+Set up this encounter using the Slaughterhorn Ambush Map.                Random Spawn (Map Edge): To spawn
+                                                                         an enemy randomly on the map edge, roll
+Points of Interest                                                       1d20 and match the location to where the
+                                                                         triangular face on top of the number is
+The map has the following points of interest:                            facing, placing the d20 in the center of the
+                                                                         map.
+A1) Upper Level. The top of the ridge leads to the residential             Alternatively, you may place the
+section of Ubsola. In this area are three small huts. Each hut has       spawned creature wherever you think
+a locked wooden door with AC 10 and 40 Hit Points. If it is              best.
+reduced to 0 Hit Points, it is smashed open.
+   The ridge is 10 ft. tall, a character can scale the ridge at half
+speed, but can also walk along the inclines without penalty.            Encounter Mechanics
+A2) Lower Level. At the bottom of the ridge, the ceremonial
+                                                                        All enemies will prioritize attacking the nearest target, which
+fire is still burning, lighting the area in a bright light. Along the
+                                                                        could be a villager, the door to a hut, or a player character.
+outside is the edge of a nearby woods.
+                                                                        However, if they are attacked by a player, they will prioritize
+                                                                        fighting against the party from then on.
+Starting Characters                                                        Once the Rockgut Raider is slain, the fight ends and any
+Place the following characters on the map:                              remaining Beastmen will attempt to retreat. The Rockgut
+                                                                        Raider carries the body of a dead ranger on his beast, who
+Adventurers.                                                            carries information needed to move on to the next chapter. The
+The players can start anywhere in the Upper Level, area A1.             information is provided in the following section, A Lead on the
+                                                                        Rangers.
+Villagers.
+In each hut is a group of 2-3 villagers. Additionally, three small
+groups are out in the open, where you determine. The villagers
+use the statblock of a Commoner (MM, 345). They do not fight,
+instead cowering in fear until the Beastmen ambush is defeated,
+though the party might direct the villagers to gather in a specific
+location if they come within 15 ft. of them.
+
+Enemies.
+The following enemies are placed immediately, randomly along
+the map edge.
+  2x Aurox Warrior
+  1x Bloodfevered Brute
+
+
+
+                                                                                                                                      11
+Slaughterhorn Ambush Map
+
+Map A: Slaughterhorn Ambush (GM)
+
+
+
+
+A Lead on the Rangers
+
+  When the Rockgut Raider is defeated, the party should see that the corpse of a ranger is tied to the Beastman’s mount. The corpse
+is afflicted with several grievous wounds made by sharp weapons, and is several days old, smelling strongly and showing signs of
+decomposition.
+   In a small bag, the ranger carries the Rangers Update Letter included in Appx. B: Game Resources, along with a map that marks
+the exact location of the Slaughterhorn Lair.
+
+
+Yngvald’s Farewell
+
+  Yngvald and his men were busy during the fight defending other parts of Ubsola against more raiders. He will join the party after
+they finish fighting and inspecting the dead ranger.
+  Thankful for their aid, Yngvald will give to the party 3x Potions of Greater Healing (DMG, 187-188). He will suggest the party
+take a long rest until morning, and then set out in search of the remaining rangers and the Beastmen Lair.
+
+
+
+
+                                                                                                                                      12
+CHAPTER 3:
+INTO THE SLAUGHTERHORN LAIR
+                                                                      Persistent Rules
+After reading the Ranger Update Letter carried by the                 The Slaughterhorn Lair Map uses these rules:
+
+dead ranger, the party will be able to track the Slaughterhorn         Cliffs: Many levels of ascending and descending
+Tribe to their lair and resolve the Beastment threat in the area.      cliffs split up the cave. Each cliff is 15 ft. tall, and
+                                                                       scalable, though creatures must spend twice as much
+Lair Background                                                        movement to climb the rocky cliff faces as they
+  The lair is a two day’s journey to the northwest of Ubsola. It is    would walking.
+easily located as marked on a map attached to the Ranger
+Update Letter.                                                         Communication Barriers: The Beastmen cannot
+                                                                       naturally communicate with the party except for the
+A Tale of Conflict                                                     Slaughterhorn Chieftain, the Mouth of Mologh,
+                                                                       and the Bloodbrand Matriarch. These three
+  The caverns of the lair are bisected into two areas which tell
+                                                                       individuals can understand and speak faltering
+the story of the ongoing conflict between the Slaughterhorn
+                                                                       Gaurric.
+Resistance and the Bloodbrand Cult.
+                                                                      Starting the Chapter
+The Bloodbrand Cult is currently winning the internal conflict
+for control over the Slaughterhorn Tribe, though its victory is       To being this chapter, read this script:
+not yet assured. The Cult occupies the main areas of the cave,
+B1 - B7. They have turned to hunting and eating humans and             Following the markings on the map attached to the
+have allied themselves with demons to control the Bloodfever.          ranger’s letter, you travel through the forests,
+  The Cult has captured the tribe chieftain and holds him in area      ascending a gradual incline until you come to a
+B7, where they attempt to beat him into submission or corrupt
+                                                                       craggy mountain face. After some searching, you are
+him so that his followers give up their resistance and join the
+                                                                       able to locate sets of Aurox tracks, leading you to a
+cult. However, he has thus far held out.
+                                                                       cavernous entrance in the jagged stone face.
+The Slaughterhorn Resistance are a group of traditionalists
+that maintain the old ways and their faith in Mologh. They are
+holed up in the small side section of the cave with little food or
+resources, area B8 - B12.
+  The resistance includes the Slaughterhorn Chieftain, Mouth
+of Mologh, the tribe’s elite Aurox Bludgehorns, and several
+Aurox Warriors. However, their prospects look grim as the
+chieftain who has been captured.
+
+
+
+
+                                                                                                                            13
+Map Locations                                                        B4) Butcher’s Kitchen
+The Slaughterhorn Lair has the following rooms and points of
+interest:                                                            This area has a large cookfire and several tables where the
+                                                                     Bloodbrand butchers and cooks meat. At first, the only path
+                                                                     from here to leave the cave ran through area B3. However as
+B1) Main Entrance
+                                                                     that location is heavily defended by the Resistance, the
+                                                                     Bloodbrands have excavated a small tunnel directly from B4 to
+This is the main entrance to the Lair, leading to the cave section   B2 that bypasses the bridge.
+overrun by Bloodbrand Cultists.
+                                                                       When the party enters, read:
+Clues. The following can be spotted and/or investigated here:
+  Ranger’s Corpse. The corpse of a ranger who has been killed
+                                                                      The cavern is filled with a thick black smoke. A
+by Slaughterhorn warriors lies out in the open.
+                                                                      cackling fire at the center of the room fills the air
+  Signs of Conflict. Beastmen tracks lead to the left and up a
+scalable ridge to the Side Entrance in area B8, where the
+                                                                      with the smell of cooking meat. At the far end of the
+Slaughterhorn Resistance is holed up. Ballista bolts litter the       cavern, you hear a steady thudding and the grunt of
+area and a dead Aurox lies on the ground close to the ridge. This     an Aurox.
+area has been successfully defended by an Aurox Bludgehorn              Its body is twisted and demonic, its hands clawed
+who is keeping the Bloodbrand Cultists out. Currently, the            and strange misshapen spines protrude from its
+Bludgehorn has moved to area B9.                                      back. It brings a large cleaver down repeatedly on
+                                                                      the wooden table before it, butchering a dead man.
+Enemies. The following enemies are present in this location:
+ 1x Aurox Warrior (Sleeping by the cavern entrance)                  Loot.
+                                                                     There are two chests in this area. One is unlocked and one is
+                                                                     locked.
+B2) Entrance Cavern                                                    Unlocked Chest: contains 1x Potion of Superior Healing
+                                                                     (DMG, 187-188), and 1x Net (PHB, 148)
+The Bloodbrands store their weapons on a small rack along the          Locked Chest: can be opened with the Bloodbrand
+wall in this cavern.                                                 Matriarch’s key located in area B6, or by a successful
+                                                                     Lockpick roll with DC 20. It contains 4x Potion of Poison
+Loot. Players may find a variety of Heavy weapons here.              (DMG, 188)
+Additionally, you may give one +1 weapon that best fits the
+party’s needs.                                                       Enemies.
+                                                                     The following enemies are present in this location:
+Enemies. The following enemies are present in this location:           1x Aurox Bloodbrand (butchering meat at the table). This
+ 1x Aurox Warrior (tending the weapon racks)                         creature carries a key to the cages in area B5.
+
+ Torment: add the following enemies:                                  Torment: add the following enemies:
+  1x Yoken                                                             1x Aurox Warrior
+
+                                                                     B5) Larder
+B3) Rope Bridge
+                                                                     Piles of stored corpses line the room and two cages are set along
+A rope bridge leads over a bottomless pit. This path was             the wall, one empty and one containing Malcor the ranger.
+previously the only way in or out of the main cavern, but the
+Bloodbrand Cult has recently excavated a tunnel from area B4           When the party enters, read:
+to B2, to bypass the bridge as they had difficulty controlling it.
+                                                                      Along the far wall of this cavern, you can make out a
+Enemies. No enemies, though an Aurox Bludgehorn stands in
+                                                                      pile of dead bodies and two cages. One is empty, but
+area B9. The Bludgehorn will not initiate hostilities against the
+                                                                      the other contains a malnourished man in a black
+players as he is watching for Bloodbrands. However if the party
+attacks, he will defend himself.
+                                                                      cloak. A twisted Beastman stands before the cage,
+                                                                      stabbing his clawed fingers at the man and
+                                                                                                                                     14
+ squealing in amusement as the man rolls about                        carved in the likeness of a monstrous face, its beastly
+ trying to avoid the beast’s gnarled nails.                           maw agape with jagged teeth. The cavity of its
+                                                                      mouth is filled with pulsating organs and grinning
+Malcor the Ranger is in the cage. The cage can be opened with         human skulls.
+a key held by the Aurox Bloodbrand in area B4, or by a                  A large sow raises her hands before the altar,
+successful Lockpick roll with DC 20.                                  chanting in the guttering tongue of Beasts. Beside
+  Malcor witnessed the Bloodbrand Cultists raiding nearby             her, the corpse of an Aurox, horribly mauled and
+villages and eating human flesh. His companions have been             long dead, stirs and rises, jerking upright as if
+killed or eaten. He is deeply upset and wants to slaughter all of     pulled by some invisible strings. It lets out a shrill
+the Beastmen, seeing only the side of their barbarism, savagery,
+                                                                      yowl as it stumbles toward a wooden wall at the
+and demonic worship.
+                                                                      opposite end of the room and slams the timber
+  He knows that a demonic matriarch is in the next room, area
+                                                                      planks.
+B6, where she conducts dark blood rituals, and that there are
+                                                                        From behind, you hear an anguished roar, as the
+more Aurox in the upper caves of area B8 - B12.
+  Malcor asks the party to slay all of the Beastmen to make
+                                                                      sow lets out a braying laugh.
+sure the area is safe.
+                                                                     Enemies. The following enemies are present in this location:
+                                                                      1x Bloodbrand Matriarch
+Freeing Malcor:
+                                                                      1x Yoken
+If Malcor is freed, he will recover his equipment from a
+backpack next to the chest in the room. Use the following rules
+for the rest of the scenario.                                         Torment: add the following enemies:
+                                                                       1x Aurox Bloodbrand
+ Joining Forces: Malcor is happy to join forces with
+ the party until the end of the adventure, using the
+ statblock of a Scout (MM, 349).                                     B7) Ceremonial Pit
+
+ Deep Prejudice: Malcor’s experiences have made                        Hidden behind the wooden wall is a large pit for sacrificial
+ him hostile to all Beastmen. He will attack all                     livestock. The pit currently holds the Slaughterhorn Chieftain
+ Beastmen on sight and cannot be reasoned with.                      and the remains of a human. The Bloodbrand Matriarch has
+   If attacked, Beastmen that are part of the                        been holding the Chieftain here, taunting him and starving him,
+ Resistance will defend themselves against Malcor                    waiting for his will to break so that he feasts on the human flesh
+                                                                     and joins the Bloodbrand Cult.
+ and the party, assuming they are working together.
+                                                                        The chieftain is very weak, and bound by ropes. He will not
+ However, if the party attacks, subdues, or kills
+                                                                     attack, and will attempt to communicate with the party in
+ Malcor, or otherwise demonstrates that they are at
+                                                                     Gaurric, asking them for aid. However, if he is attacked, he will
+ odds with him, the Beastman of the Resistance will
+                                                                     break his restraints and defend himself.
+ stop attacking the party.
+                                                                     Enemies.
+Loot.
+                                                                     The following enemies are present in this location:
+There is one unlocked chest in this area containing the valuables
+                                                                       1x Slaughterhorn Chieftain (suffering from 4 levels of
+of captured villagers. It is filled with scraps of linen clothing,
+                                                                     exhaustion)
+1d20 silver, and 1d20 copper.
+
+                                                                      Torment: The Slaughterhorn Chieftain does not
+B6) Ceremonial Chamber                                                suffer from any exhaustion.
+This room contains the Altar of Mologh, now defiled by dark
+                                                                     B8) Side Entrance
+blood rituals. The Bloodbrand Matriarch here uses her new
+powers of necromcy to raise the dead as Yoken slaves.
+  When the party enters, read:                                       This narrow side entrance leads to the section of the caves now
+                                                                     occupied by the Slaughterhorn Resistance. Aurox hoof tracks,
+                                                                     blood, discarded weapons, broken tree trunks, and other signs of
+ The fires of several brightly burning torches circle
+                                                                     an ongoing struggle persist here.
+ this cavern, at the center is a disquieting totem
+
+                                                                                                                                     15
+B9) Overlook Ledge                                                     communicate, he will attempt to make peace, talking about the
+                                                                       situation with the Bloodbrand Cult and requesting that the party
+                                                                       save the tribe chieftain in area B7, as it is the only hope for
+This area overlooks the pit and wooden bridge in area B3, which
+                                                                       rallying the Resistance.
+was once the only way in or out of the den, until the
+                                                                          Additionally, he holds a key to the locked chest in area B10,
+Bloodbrands excavated a tunnel directly from area B4 to B2. An
+                                                                       which he promises to give to the party if they save the chieftain.
+Aurox Bludgehorn with ballista stands guard here, ready to
+                                                                       The key may also be obtained by killing him.
+shoot any Bloodbrand Cultists that travel through the area.
+
+Enemies. The following enemies are present in this location:           B12) Holding Pit
+ 1x Aurox Bludgehorn (with ballista)
+                                                                       In this pit, an unfortunate Aurox has lost the fight with the
+ Torment: add the following enemies:                                   Bloodfever, becoming a Bloodfevered Brute, and will charge
+  1x Aurox Warrior                                                     anything that drops down into the area with him.
+                                                                          This area is a deep pit with three points of entrance. There is a
+                                                                       wide ledge leading to area B11, made of two ridges of 15 ft.
+                                                                       each. There is a medium ledge leading to area B10, made of two
+B10) Storage Cavern
+                                                                       ridges of 15 ft. each. And there is a narrow ledge leading to area
+                                                                       B9, made of two ridges that are 22.5 ft. each. A Large creature
+This room contains the few rations and supplies that the               cannot travel through the path to B9 as it is only 5 ft. wide.
+Slaughterhorn Resistance have left.
+                                                                       This room contains the following enemies:
+Loot. There are two crates and a locked chest in this area.
+  Crates: are nearly empty, with nothing but five days of                1x Bloodfevered Brute
+rations between them.
+  Locked Chest: can be opened with a key that is held by the
+Mouth of Mologh located in area B11, or by a successful
+Lockpick roll with DC 25. When opened, the party may roll
+once on the Treasure Hoard: Challenge 5-10 table (DMG, 137)
+
+Enemies. The following enemies are present in this location:
+ 1x Aurox Bludgehorn
+
+ Torment: add the following enemies:
+  1x Aurox Warrior
+
+
+B11) Living Cavern
+
+This area contains debris and piles of ordinary supplies
+including ropes, torches, cloth, and leather skins. From this
+room, the Mouth of Mologh oversees the care of an Aurox
+infected with the Bloodfever in area B12, searching for a means
+to cure or restrain the fever to free the Brute, so far to no avail.
+
+Enemies. The following enemies are present in this location:
+ 1x Mouth of Mologh
+
+ Torment: add the following enemies:
+  1x Aurox Warrior
+
+Notes:
+The Mouth of Mologh speaks Gaurric. If the party can
+
+                                                                                                                                        16
+Slaughterhorn Lair Map
+
+Map B: Slaughterhorn Lair (GM)
+
+
+
+
+                                 17
+EPILOGUE
+                                                                          However, Malcor will be incredibly angry with the party,
+
+Communication, language capabilities, and the willingness
+                                                                        viewing their allegiance with the Beastmen as an absolute
+                                                                        betrayal, a poorly misjudged and risky action, and a threat to the
+                                                                        region’s future stability.
+to speak with and understand other cultures is critical to the
+                                                                          If Malcor is still alive at this point, he will return to the
+outcome of this adventure. You may determine whether or not
+                                                                        rangers in Guerrin and speak poorly of the party, twisting
+you will make it easier for your players by ensuring they can
+                                                                        Vozruk’s ear, who will likewise be upset at the party for taking
+speak Gaurric.
+                                                                        such actions. To the rangers, the preservation of humanity is the
+  However, it is not necessary that the players understand
+                                                                        only important goal.
+Gaurric or even attempt to save the Slaughterhorn Resistance.
+The humans in the area will likely be the most secure if all of
+the Slaughterhorns are killed, to ensure that no more Beastmen          Siding with the Bloodbrand Cults
+roam the area.
+                                                                        Some parties might even consider siding with the Bloodbrand
+Return to Guerrin                                                       Cultists. For the Matriarch is strong, the dominant voice in the
+                                                                        tribe, and better able to lead the Beastmen. Perhaps men can
+You may end the scenario by circling back to Ubsola, to New
+                                                                        likewise learn much by working with demons and allying
+Heldon, or even all the way back to Guerrin to collect their
+                                                                        themselves with these dark entities.
+reward. Bring the party back to human civilization and the
+                                                                           Unless the party acts against the Matriarch, the Bloodbrands
+comfortable norms of their own kind.
+                                                                        will eventually take over the entire tribe, winning the war of
+  Depending on the party’s choices and actions, Vozruk’s
+                                                                        attrition. The Matriarch does speak Gaurric, and if you allow the
+willingness to pay them may change. If Malcor is returned
+                                                                        communication, the party might assist her in finishing off the
+safely, Vozruk may even throw in some bonus gold, hoping to
+                                                                        Slaughterhorn Resistance, in which case she may promise to
+establish a strong bond and maintain a good relationship moving
+                                                                        leave the humans in the region alone.
+forward in case their expertise is needed in the future.
+                                                                           But can her words be trusted?
+                                                                        Are her demonic words to be
+Possible Endings                                                        doubted solely because of her
+The following endings cover most permutations of what could             unusual allegiances? Or are the
+happen in this scenario. You can adapt these endings as you see         promises of a demon to be
+fit.                                                                    considered more trustworthy than
+                                                                        that of a man? These questions
+                                                                        remain to be seen and for you to
+Massacring the Slaughterhorns                                           consider.
+
+If the party decides to kill off all of the entire tribe, Malcor will
+be particularly happy. He will be a loyal friend for life and
+advocate strongly on the party’s behalf to the rangers.
+   The Slaughterhorn Tribe will exist no more. However, the
+conflict they were fighting rages on within all of their clans,
+tearing their peoples apart from the inside. Different tribes will
+certainly move into the area, similarly pushed south by waning
+resources.
+
+
+Saving the Slaughterhorns
+
+If the party decides to help the Slaughterhorn Resistance, this
+will be as close as they can come to a benevolent and
+compassionate outcome. The Slaughterhorn Chieftain and
+Mouth of Morgoth will promise to move their people far away
+back into the wilds and away from human civilization,
+preventing any further conflict between the two species.
+
+                                                                                                                                        18
+APPENDIX A: FACTION FOCUS
+
+
+  Archeological records suggest that the Beastmen are an ancient species, perhaps predating mankind itself.
+Indigenous to the outwash plains of the savage north, early Beastmen clans were once locked in a perpetual
+state of endemic warfare with the nomadic humans that cohabited the area.
+  Yet in modern ages, Bestmen clans tend to distance themselves from human society, preferring to avoid
+conflict instead. This aversion to humanity is likely for the better as the Church of Azerai has declared the
+species to be unclean, a monsterous bastardization of man and beast, and beyond the graces of civility.
+Generally, they are slaughtered on sight by the agents of the Church.
+  In recent years, there has been an alarming increase in encounters with the species. Where once sightings
+might have been recorded once in a decade, now they are commonplace, occurring monthly or even weekly
+in some regions. Most disturbing are the testimony of feral beasts overtaken by a savage bloodrage,
+something that has not been seen before. Caravans, villages, and entire towns are disappearing in the
+northern sections of west where the land abuts the Savage North. What could be causing this strange
+aggression and driving the beastmen into the realms of man?
+                                                                                       - Dreyen Solius, Journal of the World’s Ending.
+
+
+   The Beastmen of Doaden are an ancient species with                 The Bloodfever
+tribal culture and beliefs that are little known to man. However,
+they share common gods and customs with the barbaric clans of         Beastmen face many problems today. Aurox populations are
+northmen who have coexisted in the wild lands beyond the              dwindling as they are unable to birth healthy offspring, their
+civilized empire for untold ages. It has even been observed that
+some Beastmen may speak or understand a limited amount of             unborn calves infected by a wasting illness that nearly always
+Gaurric, the language of wildmen that inhabit the area.               results in stillbirth. Moreover, their resources dwindle as
+                                                                      Doaden falls ever further into decay. As a result, they encroach
+Life & Culture                                                        further and further into human lands in search of food, leading
+                                                                      to escalating conflicts and even consumption of human flesh by
+                                                                      some desperate tribes.
+Few Beastmen clans survive today, rarely convening unless
+                                                                        Most recently, adult Aurox have been afflicted by the
+faced with the most dire of circumstances. Life is centered
+                                                                      degenerative disease known as the bloodfever. As it progresses,
+primarily around smaller tribes led by a chieftain and shaman.
+                                                                      infected individuals begin to exhibit strange behaviors including
+These tribes are generally multi-species populations. Most
+                                                                      aggression, anxiety, nervousness, and inevitably succumbing to
+dominant are the Aurox, a mixture of man and bovine beast that
+                                                                      a mind-consuming frenzy, leading to coma and death.
+can live for hundreds of years. However, other species exist as
+well such as the smaller goat-like Capra and the rare and solitary
+lionfolk, Leonids.                                                    The Bloodbrand Cult
+
+Religious Beliefs                                                     As populations dwindle and signs of Mologh’s benevolence
+                                                                      grow ever scarcer, many tribes have been torn apart by dissent.
+                                                                      The rising voice of the Bloodbrand cult garners ever more favor.
+Beastmen worship Mologh, a primordial earth spirit who they
+                                                                      Branding themselves by carving painful symbols into their own
+believe, like nature itself, is a source of both bountiful blessing
+                                                                      flesh, the Bloodbrands openly pact with the dark gods of
+and terrible calamity. Willing sacrifices are made to petition its
+                                                                      Doaden, proclaiming that this is the only way to avoid
+benevolence and appease its wrath. It is also believed that the
+                                                                      extinction. They use their newfound demonic powers to control
+kindling of Mologh’s fire shall bring about the end of the world;
+                                                                      and direct the bloodfever, and necromancy to raise their dead so
+a chaotic flame consuming all so that life may sprout anew from
+                                                                      that they may never die.
+the glowing cinders.
+
+                                                                                                                                       19
+APPENDIX B: GAME RESOURCES
+Resources 1.1: Letter & Texts
+
+Rangers Commission Letter
+This letter is from the Rangers Faction, and is provided to the players before the adventure.
+
+
+
+Adventurers,
+
+Herein lies your commission and assignment. Such information provided is confidential, intended for your eyes alone.
+
+  A group of six rangers from our ranks, under the leadership of the one known as Malcor, have been lost to us. This
+unit’s last known location is the town of Ubsola, within the northern regions of the Western Reaches. They had been
+assigned to study the movements of Beastmen in the area, in search of answers as to why the Aurox herds have been
+exhibiting such elevated levels of aggression as of late. These northern regions have been struck the hardest. Beastmen
+raids are being received now monthly or weekly by many municipalities in the area.
+
+  We fear some ill fortune has befallen the unit. In order to maintain communication and support, they were required
+to check into Ubsola and deliver an update each third day. However, it has been one week since their last transmission.
+
+  Your mission: travel to Ubsola and locate Malcor’s team. In the process, additionally recover any information
+related to the Beastmen or the cause of the increased aggression so that a solution may be identified. When you have
+accomplished your task, seek out our agents in the town of Guerrin, for the reward of 25 gold coins per person.
+
+
+                                                                                                Signed, Vozruk, the Storm Crow
+
+
+Rangers Update Letter
+This letter may be found on the dead ranger’s body.
+
+
+
+Vozruk,
+
+  We have noted an alarming increase in activity within the Slaughterhorn Tribe. We have located their lair,
+which I have marked on the attached map. Bypassing a sleeping guard, we managed to infiltrate the cave to some
+limited extent, finding an abhorrent display of demonic magic within. The beasts have fallen in league with devils, now
+imbuing themselves with dark powers, their forms twisting with grotesque features. Gnarled horns and wicked claws
+sprout from their malformed bodies, and their dead rise and shamble about, their organs dangling to the ground
+between their legs.
+
+  As for the raids and attacks on nearby villages, we now know what it is they seek. They capture our kind, butchering
+us and eating our flesh. Though they share some physical similarities to our species, they are despicable beasts and
+nothing more, driven only by nature to maim and kill, and consume all they see. From what we have witnessed, they
+possess no faculties for reason or higher thought, much less compassion or socialization.
+
+  In fact, they do not act in accord even with one another. We have witnessed several of the Aurox bulls fighting one
+another to the death. The tribe seems to be attacking itself, torn apart by some ongoing conflict. We may be able to use
+this to our advantage, striking when they are weakened and distracted by the uncontrollable combativeness and
+bellicosity inherent to their nature.
+
+                                                                                                               Signed, Bravon
+                                                                                                                           20
+Resources 1.2: Maps
+
+Map A - Slaughterhorn Ambush (Grid)
+
+
+
+
+                                      21
+Map A - Slaughterhorn Ambush (No Grid)
+
+
+
+
+                                         22
+Map B - Slaughterhorn Lair (Grid)
+
+
+
+
+                                    23
+Map B - Slaughterhorn Lair (No Grid)
+
+
+
+
+                                       24
+Appendix C: Bestiary
+Aurox Bloodbrand
+
+ The Bloodbrand Cult is a rising voice of dissent against the
+traditionalist worshippers of Mologh. They believe that the old
+gods have died, or no longer listen to their pleas. Now, they
+swear fealty to demonic entities, carving painful symbols into
+their skin and binding themselves to dark pacts.
+   In exchange for their allegiance, these demons
+imbue the Bloodbrands with the ability to control
+the Bloodfever, granting them increased strength
+and savagery without losing their minds. Though
+twisted in form, the Bloodbrands believe such dark
+alliances are the only way to prevent their species’
+extinction, pointing towards the demonstrable
+evidence of their new gods’ benevolence as
+opposed to the waning and silent voice of
+Mologh’s in light of their generations of suffering.
+
+
+
+
+                                                                  25
+Aurox Bludgehorn
+ Bludgehorns are the strongest of the Aurox warriors. It is a title
+conferred to an individual only after great displays of strength
+and bravery, following countless battles to prove their mettle.
+Each scar a Bludgehorns carries tells a tale of their glory, and
+their strength and combat expertise may rival even that of some
+chieftains.
+  Bludgehorns often serve as elite guards to their tribe leaders,
+wielding great totems and hand-held ballistas which none other
+possess the strength to carry.
+
+
+
+
+                                                                      26
+Aurox Warrior
+Aurox are the most dominant of Beastmen species. They are
+sturdy and muscled, great bovine hybrids that naturally tend
+towards great combat capability. Aurox may live for several
+hundred years, most dying from inter-clan warfare rather than
+growing to an old age. This is as it should be, as in their culture,
+the lifeblood they spill appeases Mologh and nurtures the earth,
+where new life may sprout once again.
+
+
+
+
+                                                                       27
+Bloodbrand Matriarch
+Many Beastmen tribes are torn apart by dissent as leadership wavers. Aurox calves die at an alarming rate due to a wasting disease.
+Food grows ever scarcer as corruptions of the earth spread through the wilds of Doaden. And the Bloodfever, a degenerative disease
+of the mind, has caused many of the remaining Aurox to fall into a savage, feral insanity.
+  The Bloodbrands are a rising voice of dissent, speaking out against the Mouths of Mologh. Their cults believe it is time for the old
+ways to die and for a new path to be forged to preserve the existence of their race. The Bloodbrand Matriarch leads this movement,
+making pacts with demons and dark entities, and binding their followers by carving the Bloodbrand marks into their skin.
+  Through their dark pacts, the Matriarchs are gifted with demonic and necromantic powers, granting a degree of control over the
+Bloodfever so their followers may harness and channel the disease for their own purposes, and the ability to raise the dead Aurox so
+that the lost may never die, serving their tribes for all of time.
+
+
+
+
+                                                                                                                                     28
+Bloodfevered Brute
+The Bloodfever is a degenerative disease; the most recent malady to plague the Aurox species. As the infection accumulates in the
+bloodstream, individuals begin to exhibit strange behaviors including increased aggression, anxiety, and nervousness.
+  The result of the Bloodfever is a mind-consuming frenzy which may be inhibited for some time through rigid mental discipline and
+restraint. However, as the call to savagery grows ever stronger, infected individuals inevitably succumb to the disease, erupting in a
+feral rage and becoming an unstoppable juggernaut known as the Bloodfevered Brute.
+  For some time, a Brute may retain limited control over their actions, and may even be used by their tribes in combat to great
+efficacy, so long as they are able to redirect their aggression towards the enemy. However, such tactics are dangerous and risky, as the
+Brutes may quickly turn their gaze onto their allies as well.
+  Eventually, the infection consumes the brain, eating away at the flesh and leaving behind nothing but a spongy mulch of soupy
+protein. Once the bloodrage dies down, the Aurox falls into a deep and irreversible coma, before organ failure and death.
+
+
+
+
+                                                                                                                                     29
+Mouth of Mologh
+The Beastmen worship Mologh, a primordial earth spirit who they believe, like nature itself, is the source of both bountiful blessing
+and terrible calamity. But nature can be capricious; and its manifestations difficult to identify and harder yet to decipher.
+  The Mouths of Mologh act as each clan’s spiritual leaders, shamans dedicated to conducting the necessary ceremonies to ensure
+Mologh’s blessing, often involving sacrifice of flesh and the ingesting of psychoactive medicines. It is their duty to divine the signs of
+the earth and to speak Mologh’s will, advising the tribal chieftains of their sacred duties, both physical and spiritual.
+
+
+
+
+                                                                                                                                       30
+Rockgut Raider
+Great quadrupeds with gnarled horns, the rockguts wander the
+plains and mountainous regions of the north. Their name derives
+from the copious amounts of stones they eat, which tumble in
+their stomachs and grind the tough plant matter they swallow
+into a digestible paste. Their herds may be tracked by the great
+quantities of manure they leave behind, which, when it decays,
+leaves behind large stacks of stones which have grown smooth
+from years of tumbling.
+  The Beastmen have domesticated these great animals, using
+them for meat, milk, beasts of burden, and even as war mounts.
+Rockgut Raiders train for years to build a bond with their
+mounts so that they may grow fearless and unperturbed by the
+visceral sounds and smells of combat, allowing them to charge
+into the middle of the fight.
+
+
+
+
+                                                                   31
+Slaughterhorn Chieftain
+Each Beastman tribe is led by a great chieftain who commands         Mologh and from the mentorship of the clan war chiefs.
+absolute authority, dictating all significant decisions that will    However, age inevitably brings feebleness of the body, and no
+affect the tribe’s life and future. Generally the strongest of the   matter how great they may be, every chieftain will eventually be
+Aurox, chieftains are formidable foes in combat, forged by the       defeated by a young bull who seeks glory and power, or who
+many battles with rival clans and deadly duels with would-be         disagrees with their decisions and believes they can lead the
+rivals that seek to usurp their power from within.                   tribe to a greater life.
+   A successful chieftain may rule for centuries, becoming ever
+more wizened by the years of council from the Mouths of
+
+
+
+
+                                                                                                                                  32
+Yoken
+Though the Bloodbrands’ demonic pacts have granted them
+control over the Bloodfever plague, the solution to the waning
+Aurox populations has not yet presented itself. The wasting
+disease persists, resulting in incredibly low birth rates and high
+infant mortality.
+  To bolster their forces, the Bloodbrand Cults have turned to
+necromancy, bargaining for powers over death so that their lost
+warriors may rise from the earth and serve again. The result are
+the Yoken, risen beasts who are chained by magic, yoked to the
+will of the one who has raised them.
+  Though not as strong as a healthy Aurox bull, these risen
+monsters are nearly impervious to damage, marching ever
+forward even with missing limbs, hanging guts, or other
+grievous injuries.
+
+
+
+
+                                                                     33
+

@@ -1,0 +1,1098 @@
+1
+      Purgation
+    A 5e Compatible Adventure
+        For Levels 5 – 10
+
+
+
+
+2
+       The World of Doaden
+
+W
+         elcome to Doaden, the dark fantasy setting
+        of tainted lands and twisted monsters, where
+        an ever-creeping affliction corrodes the very
+                     essence of existence.
+    It is a world of decay and depravity where once-
+righteous men and heroes of the glorious purpose now
+  struggle to survive as cults and dark gods vie with
+ oneanother to consume the last vestiges of humanity.
+        It is a world of death, trapped in the
+            fading dusk of a fallen empire.
+  The heroes that wander these lands are no grand
+  adventurers to be honored insongs of minstrels.
+ For the heavy deeds and decisions these wanderers
+undertake invariably leavethem disheartened, broken,
+ nothing more than soulless husks and shadows of
+             their once-glorious selves.
+   Yet as dark as Doaden may be, humanity clings to
+ life with a stubborn tenacity,a last flickering flame
+                   within the dark.
+ A last hurrah, a final war cry that shall echo in the
+  black abyss of eternity,a momentary victory before
+                   the endless night.
+
+
+
+
+                                                         3
+                            Credits
+
+    Developed by:
+      Bestiarum Games
+
+    Lead Game Designer:
+      Alexander Dovermann
+
+    Game Designer:
+      Giovani C. Fiorini
+
+    Art & Graphic Design:
+      Marina Jukova
+      Alexander Dovermann
+      Katarina Popovici
+
+    Cartography:
+      Giovani C. Fiorini
+      Alexander Dovermann
+      Marina Jukova
+
+
+
+                                ON THE COVER:
+                                SURTR
+
+
+
+                                 “
+                                  Surtr holds a sad story, a monstrous giant engulfed
+                                in flame, its skin charred and burned. It screams in
+                                agony as it flails about, slicing its massive weapons
+                                through the ranks of enemies of the Church of
+                                Azerai.
+                                  The behemoth was captured near the world’s end,
+                                where tremendous glacial mountains of frost clash
+                                with magma-spewing volcanoes and where ancient
+                                giants live and roam. Since its capture, the Church
+                                has tortured the monster with the Emperor’s Flame...
+
+
+                                                                                ”
+4
+                                                               Contents
+
+Credits .......................................................4                 Briga Square ................................................... 15
+
+Contents ....................................................5                   Surtr Encounter ............................................ 15
+
+Foreword ..................................................6                     Map B: Areas ................................................... 15
+
+  Scenario Structure ......................................... 7                 Continuing the Adventure .......................... 15
+
+  Story Hook........................................................ 7           Encounter Map B: Briga Square ................ 16
+
+  Chapter Structure .......................................... 7               Chapter 3: Dust and Ash ...................... 17
+  Balance ............................................................... 7      Fire & Ash ......................................................... 18
+
+  Regional Map .................................................... 8            Ending the Adventure .................................. 18
+
+  Background....................................................... 9          Epilogue ................................................... 19
+  The North .......................................................... 9       Taking it Further................................... 21
+  The Church of Azerai ..................................... 9                   Building the Narrative ................................. 22
+  The Penitent Crusade ..................................... 9                   Justification for War.................................... 22
+Introduction.............................................9                       Head of the Snake .......................................... 22
+  Briga ................................................................. 10     War Crimes ...................................................... 22
+  Persistent Rules ............................................. 10            Appendix A: Bestiary ............................. 24
+  Cooldowns ...................................................... 10            Swarms (CR 2).................................................. 26
+  Wave Combat Encounters ............................. 10                        Flagellant ....................................................... 26
+  Mission & Rewards ......................................... 10                 SoldiersS (CR 3): ............................................ 28
+  Renown ............................................................. 10        Azerai Mage .................................................... 28
+  Starting the Adventure ................................ 10                     Elites(CR 5) ..................................................... 30
+Chapter 1: Burning Trail..................... 11                                 Flame Defender............................................... 30
+  Briga Streets .................................................. 12            Commanders (CR 7) ........................................ 32
+  Map A: Areas ................................................... 12            Iron Maiden ..................................................... 32
+  Encounter Map A: Briga Streets ............... 12                              Purifying Mfchine.......................................... 34
+  Continuing the Adventure ........................... 13                        Bosses (CR 11/14) ............................................ 36
+
+Chapter 2: Surtr .................................... 14                         Surtr ................................................................. 36
+
+
+                                                                                                                                                              5
+                                             Foreword
+
+    Compatibility. This adventure is intended for use in
+    conjunction with the open license materials in the 5e
+    Systems Reference Document (SRD). References to         THERE IS LIGHT YET in Doaden, and though it
+                                                            may seldom come in the form of love or joy, it still
+    materials in the SRD including monsters, items, and     shapes itself into a semblance of honor, purpose, and
+    other materials are Italicized and may be found by in   redemption.
+    the SRD, in other core books, or by searching online.
+       References to Bestiarum materials are Bolded and             - Dreyen Solius, Journal of the World’s Ending.
+    included in the scenario appendix.
+
+    Gold & Items. Civilization and Trade in Doaden
+    have crumbled. Only gold, silver, and copper are
+    circulated, and only at 1/10th the amount suggested
+    in D&D manuals. Magical items are extraordinarily
+    rare.                                                     Narrative Scripts. Passages in this format
+                                                            are meant to be read aloud or paraphrased.
+    Abbreviations. The following terms are abbreviated
+                                                            They build an atmosphere or reveal key
+    in Bestiarum publications: Player Character (PC),
+                                                            information to the adventuring party.
+    Non-Playable Character (NPC), and Game Master
+    (GM).
+
+
+                                                              Special Rules. These passages cover
+                                                            mechanics used to resolve situations in the
+                                                            scenario. The rule will be detailed in this
+                                                            format the first time it is used, but it may be
+                                                            referenced more than once.
+
+
+
+                                                            Torment Mode. Adventurers in Doaden are
+                                                            designed for Normal Mode parties ranging
+                                                            from levels 5 - 7 and Torment Mode parties
+                                                            ranging from levels 8 - 10. Torment Mode
+                                                            modifications to encounters are written in
+                                                            this format.
+
+
+
+
+6
+                                                         carnage through the burning streets, fighting their
+       Adventure SummAry:                                way through the Penitent Crusade until they reach
+           PurgAtion                                     the town square.
+
+Fire. Death. Screams. Agony. Suffering. This             Chapter 2: In the town square, the party confronts
+night is marked by the flames of purgation as the        Surtr in a grueling battle. The giant is a furious foe,
+Penitent Crusade descends upon the northern town         exploding in flames and wielding two great swords.
+of Briga. Villagers die. Heretics burn. One of the       Once defeated, its husk drops to the ground, a steam-
+mighty Iron Maidens of the Church of Azerai has          ing pile of charred skin and bone.
+gone rogue, leading a fanatical expedition into the
+north, to slaughter and cleanse all non-believers.       Chapter 3: Yet the fight is not yet over. Azerai Mag-
+As a powerful member of the church, she has              es descend upon the Party, re-igniting the flaming
+conscripted weapons capable of terrible destruction      giant and forcing the monster to rise again. The party
+– the massive metal Purifying Machines that unleash      must face one final confrontation with the giant, this
+flames, and the chained giant Surtr, tortured and        time enraged and supported by its allies.
+mangled in the Church’s dungeon, and set alight with
+ever-burning flames.                                     BALANCE
+    But this attack is unsanctioned and threatens        This scenario is balanced for 3-4 players, with
+to ignite open war between Stürmenburg and the           Normal Mode levels 5-7, and Torment Mode levels
+Empire, a war the Church does not believe it can win     8-10.
+at this time as its armies and resources are divided.
+In shadowed halls and classified meetings, the
+internal political engine of the Church begins to turn
+against this once-esteemed general. The party has
+been hired to foil her foolish ambitions and stop this
+massacre before it escalates any further.
+
+Scenario Structure
+This scenario draws players into an exciting, multi-
+staged boss fight. They will spend the majority of
+the adventure fighting a flaming giant in the burning
+wreckage of the town of Briga.
+
+Bestiarum scenarios are designed to be quickly
+prepared by a GM with any level of experience and
+run in one session. However, additional prompts are
+provided to build a multi-session adventure or create
+a more complex narrative in the Taking It Further
+section.
+
+STORY HOOK
+The party is hired to foil the Iron Maiden’s plans.
+They must rush to the town of Briga and follow the
+trail of destruction to stop the attack from going any
+further.
+
+CHAPTER STRUCTURE
+Chapter 1: The party arrives at Briga, a burning
+wreckage of a town. They must follow the trail of
+                                                                                                                   7
+    Regional Map
+    This month’s adventure takes place in the following marked location of the North, in a town called Briga.
+
+
+
+
+8
+                                       Introduction
+
+T
+         his section provides background on the lo-       neither the northern lord of Stürmenburg, nor the
+         cations, factions, characters, and quests that   Empire can afford in these dark times.
+         appear in this scenario.
+                                                          The Church of Azerai
+Background
+                                                            The Church of Azerai holds tremendous power
+  The following information is helpful for running        over the populace of the Holy Western Empire.
+the scenario.                                             Placing their faith in the God Emperor, they hold
+                                                          he is the one true god, and that all must follow his
+The North                                                 divine path to achieve the salvation of humanity.
+                                                          As the only legitimized religious institution of the
+   The North is a sparsely populated region               Empire, the Church’s role is as much political as it
+historically inhabited by nomadic tribes. The people      is religious, spreading their influence and shaping
+are animistic, believing in nature spirits that are       doctrine and law around the God Emperor’s will.
+contrary to the beliefs of the Church of Azerai.          Those who stray from the path or voice doubt about
+However, their warriors are fierce, and the region is     the faith are labeled heretics and sinners, and are
+too craggy and cold to grow much crop or livestock.       brutally punished, subjected to years of indentured
+   A military campaign of the magnitude needed to         servitude, or executed.
+conquer the north would be costly, arduous, and offer
+little return. For these reasons, the North maintains     Iron Maiden, Nefryna
+some independence from the Empire, the Church               Among the highest ranks of the Church of Azerai
+finding little benefit in extending its reach into such   are the Iron Maidens, warrior women and battlefield
+inhospitable lands.                                       commanders with the authority to command both the
+                                                          ranks of the Church and of the Crusade. Nefryna is
+Political Tension                                         one such Iron Maiden, a zealot on a fanatical, self-
+ The balance of peace between the Empire and the          imposed mission to rid the empire of all heresy.
+north is delicate. The imperial lords and the Church        Sparking the conflict of this adventure, Nefryna
+of Azerai consider the northerners heretics. Yet, the     has used her rank and position to commandeer a
+northerners die daily to protect the south against        force of the Penitent Crusade soldiers and defenders
+invasions from the true wild north, the domain of         of the Church of Azerai, taking her army on an
+Thule, receiving little to nothing in return and paying   unsanctioned campaign against the North, and
+a toll both in blood and gold for their efforts. Many     slaughtering town after town without reasonable
+northern citizens grumble about this arrangement,         justification. Despite her freedom to act with
+believing they would be better off without the            independence, this was a step too far and the Church
+Empire.                                                   has been forced to act to protect the delicate balance
+  The animosity between cultures occasionally             of peace.
+results in skirmishes along the northern border, as
+pockets of northern guerrilla rebels strike at imperial   The Penitent Crusade
+convoys, or imperial forces attempt to root out
+those they believe are dissidents. However, these           The Crusade is a military organization within
+attacks are quickly extinguished by each party’s own      the Church of Azerai, used to combat the many
+governance, in the interest of keeping the general        nightmarish terrors that threaten the realm.
+peace.                                                      Their ranks are composed mainly of sinners,
+  This routine dance of escalation and de-escalation      criminals, and brigands atoning for their past.
+is a delicate balance that must be kept. For should       Yet among these once petty raiders, there are
+either side commit fully to an open act of aggression,    trained, hardened warriors, and true believes in the
+all-out war is certain to follow, which is something      Emperor’s Divine Path.
+                                                                                                                   9
+     Briga                                                      Mission & Rewards
+        This scenario takes place in a small northern town        The party must put an end to the attack in the town
+     called Briga, a hillside town with a population of         of Briga by defeating the enemies present there.
+     only a few hundred. Due to its size, the town has
+     a limited trad, surviving mostly by hunting, but its
+     people are hard workers who live their daily lives         Renown
+     proudly, despite their hardship. The people of Briga
+     stick closely to the old northern traditions and deities     This mission is assigned by the Templar Rangers,
+     and have a clear hatred for the Church. Their defiant      the dominant Order cell in the Western Reaches.
+     behavior leaves the town in a delicate position, as          Upon successful completion of the mission, each
+     it attracts the hateful attention of the Church’s more     party member will gain +1 Renown for the Templar
+     devout servitors.                                          Rangers. Renown is used to acquire special benefits
+                                                                from various cells of the Order. Lists of artifacts,
+     Persistent Rules                                           resources, upgrades, and other benefits offered by
+                                                                each cell are included in the Bestiarum 5e Game
+       The following persistent rules apply throughout          Master Guide.
+     this scenario.
+
+     Cooldowns                                                  Starting the Adventure
+       Some monsters have abilities with cooldowns,
+     limiting the number of times that ability can be used.       Vozruk the Stormcrow should inform the party
+     Cooldowns range from 1 to 6, so you can track them         about Nefryna’s rogue status and that her next attack
+     on a d6.                                                   with be on the town of Briga.
+                                                                  Vozruk should tell them that this mission is
+                                                                sanctioned by the Church of Azerai, and that they
+           Cooldowns. The notation «Cooldown                    must put an end to the attack on that town. They do
+         X» means that an ability may only be used              not have to kill Nefryna. So long as they can defeat
+         once per that number of rounds. When the               her soldiers in Briga, they will deprive her of the
+         ability is used, the ability is marked with the        means to continue the campaign for long, and open
+         specific number. At the end of each round,             her up to attacks by Stürmenburg or other northern
+         all abilities on cooldown are reduced by 1.            fighters, which is enough to preserve the delicate
+         Abilities on cooldown reset once they reach            balance of the north.
+         0, or once combat ends.                                  Vozruk does not know exactly what types of allies
+                                                                Nefryna commands, but knows she has access to
+                                                                the most powerful soldiers of the Church and the
+     Wave Combat Encounters                                     Crusade combined.
+
+       Use the following rules when running wave-based
+     encounters.
+
+          Spawning Waves: spawn enemies at the
+         beginning of their noted round, according to
+         any rules which may be specified.
+
+           Delayed Initiative. If a creature joins the
+         fight on any round after the first, it is added
+         to the end of the initiative order.
+
+
+10
+ Chapter 1:
+Burning Trail
+
+
+
+
+                11
+     A
+                s the party arrives in Briga, they
+                find the town in chaos, burning in the         Encounter Map A: Briga Streets
+                aftermath of Nefryna’s attack. To begin
+                this chapter, read the following script.       Map A: Briga Streets.
+
+           You rush through the gates of Briga,
+         climbing the cobbled streets of the hillside
+         town. Clouds of thick black smoke billow
+         upwards, blanketing the night sky. Screams
+         echo from the burning houses all around as
+         the structures crumble in the licking flames. \
+
+           On the streets are piles of corpses, some
+         burned to a crisp, and others brutalized and
+         mangled. Along the floor, large gashes of
+         molten rock trail along the street, heading
+         further into town towards the town square.
+
+
+     Briga Streets
+       In the streets of Briga, flames spread through the
+     houses and shops. The rogue crusaders have left a
+     trail of death and tortured civilians on their wake.
+     Burning houses and shops enclose the street. The
+     floor is covered in melted ice and water, turning into
+     crimson with blood. The party must follow the trail
+     of destruction and reach the town square.
+
+     Map A: Areas
+      The following areas correspond to Map A: Briga
+     Streets. The party starts at the edge of area A1.
+
+     A1) Section 1
+       The entrance to the alleyway is blocked by a few
+     barricades. There are 3x Flagellants defending the
+     area.
+
+                 Torment. Add 1x Flagellant.
+
+     A2) Section 2
+       A raised platform stands in the middle of the street,
+     in front of a burning tower. The platform is 5 ft. high
+     and atop it is a screaming man nailed to a torture
+     wheel, burning alive. 1x Azerai Mage stands atop
+     the platform, preaching to the burning men.
+         Besides the platform is a pile of charred corpses.
+     1x Flame Defender stands nearby, pilling the bodies
+     higher and higher.
+12
+      A robed figure stands atop a raised
+    platform, preaching in a crazed voice: “The
+    Fire will cleanse the heretic’s curse!”
+
+        A man hangs before him, nailed to a
+    burning wheel. He screams in pain as his
+    skin blisters and peels. He wails in agony,
+    shaking and pulling against his restraints in
+    a futile attempt to unbind himself.
+
+       Besides the platform is a pile of charred
+    corpses. A hulking knight in charred armor
+    throws another body in the pile. The knight
+    slams a fiery, black iron hammer on the
+    ground, unleashing a nova of flames.
+
+A3) Section 3
+  Behind the burning tower is 1x Purifying Ma-
+chine. It does not see the party until they pass
+the tower.
+
+           Torment. Add 2x Flagellants.
+
+
+Continuing the Adventure
+  When the party reaches the end of the map past
+area A3, proceed to Chapter 2.
+
+
+
+
+                                                    13
+     Chapter 2: Surtr
+
+
+
+
+14
+T
+         he party reaches the town square, catch-       It lies in ruins, partially crumbled, yet an inner flight
+         ing up to the flaming giant, Surtr. To begin   of stairs, 30 ft. in length, is still intact and leads to
+         this chapter, read the following script.       the top.
+
+                                                        B3) Chain Ballista Platforms
+                                                          Four ballistae are on platforms framing the town
+      As you enter the town square, a giant rises       square around town. Each is supplied with a stack
+    from the smoke.                                     of bolts connected to thick iron chains. They are
+                                                        accessible by a series of 10 ft. tall ladders.
+      Covered in fire, its skin burns and falls to
+    the ground, smoldering chunks of cinder and               Operating the Ballista: Each Ballista has
+    flesh. Its eyes melt, leaking white from their          50 Hit Points and an AC of 15. The ballista
+    sockets. Its mouth hangs agape in a wordless            requires three actions to be shot. The first
+    scream.                                                 action is used to load the ballista. The
+                                                            second action is used to aim the ballista. The
+       As it shambles through the collapsing                third action fires the ballista. The ballista
+    houses, it drags two flaming swords behind              has the following weapon profile.
+    it, leaving burning gouges in the ground. It
+    turns to you, flailing the weapons in the air             Chain Bolt. Ranged Weapon Attack: +6
+                                                            to hit, range 120/480 ft., one target. Hit: 21
+    in madden fury, and charges.
+                                                            (6d6) piercing damage. Chains have been
+                                                            attached to the bolts, and when shot against
+Briga Square                                                a creature of huge size will decrease its
+                                                            movement Speed by 10ft. This effect stacks
+  The town square is destroyed. Houses have been            up to 40ft.
+reduced to ashes. The ground is littered with the
+mangled, charred corpses of guards and citizens               Taking Fire: By using its Legendary
+alike. The people fought here, defending the point          Action (Inferno), Surtr can destroy
+until the Surtr overwhelmed them.                           the chained bolts holding him back.
+                                                            Additionally, if a ballista is within range of
+Surtr Encounter                                             the explosion, it is immediately destroyed.
+
+  1x Surtr, a massive, enslaved giant engulfed in
+flames, is wreaking havoc in the town square. The
+party must defeat him and may use the ballistae on
+the nearby towers to help.
+                                                        Continuing the Adventure
+                                                        When the party defeats Surtr, proceed to Chapter 3.
+
+Map B: Areas
+ The following paragraphs detail important areas of
+Map B: Briga Square. The party starts at B1.
+
+B1) Briga’s Square Entrance
+ This is the entrance to the town square from Map
+A: Briga Streets.
+
+
+B2) Crumbling Tower
+ A watch tower is in the center of the town square.
+
+                                                                                                                    15
+     Encounter Map B: Briga Square
+     Map B: Briga Square.
+
+
+
+
+16
+ Chapter 3:
+Dust and Ash
+
+
+
+
+               17
+     A
+                fter Surtr has been defeated once, an       now stands on the tower in area B2. The Azerai
+                Azerai Mage will teleport onto the tower    Mage’s abilities should all begin on cooldown.
+                in area B2 and set the giant aflame. To
+                begin this chapter, read the following
+                script.                                          Enraged: Every three rounds, Surtr will
+                                                               discharge an explosion of flame. All other
+                                                               creatures within 15 ft. of Surtr must make
+           The giant’s corpse smolders on the ground
+                                                               a DC 16 Dexterity saving throw, taking 21
+         before you. Suddenly, the air is filled with
+                                                               (6d6) fire damage on a failure or half as
+         chanting, and a robed man teleports to the            much on a success.
+         tower in the middle of the square, calling
+         down a pillar of flame upon the giant. Its
+         body erupts in a white-hot flame, and it
+                                                            Ending the Adventure
+         stands up once again, engulfed in a raging
+         inferno.                                            When the party defeats Surtr,
+                                                             proceed to the Epilogue.
+
+     Fire & Ash
+       Start combat again. Surtr rises where it was slain
+     fully healed and in an enraged state. 1x Azerai Mage
+
+
+
+
+18
+Epilogue
+
+
+
+
+           19
+      T
+               hough Briga has been lost, Surtr has
+               been put to rest and Nefryna’s army will
+                                                              You stare at the giant’s motionless body,
+               now falter.
+                                                            only now noticing the deafening stillness
+               Though the peace is held, it comes at a
+               terrible cost to life. Briga’s houses have   around you.
+     crumbled to ashes, and most of its people massacred.
+                                                              No screams can be heard. No clashing
+                                                            of metal, no sounds of battle nor suffering.
+      To end this scenario, read the following script.
+                                                            Only the flickering sound of embers as the
+                                                            timber houses fall into ruin.
+
+                                                              Ash and snow descend steadily from the
+                                                            darkened sky, beginning to cover the scorch
+                                                            marks left where the town square of Briga
+                                                            once stood.
+
+
+
+
+20
+Taking it Further
+
+
+
+
+                    21
+     B
+               estiarum scenarios are designed to be run       Nefryna may be spearheading this attack to
+               in one session with minimal preparation.      prevent such an outcome or the potential of northern
+               However, the following suggestions will       secession.
+               help you to craft a longer experience and
+               deeper narrative.                             Burning Ambition
+                                                               Those who benefit from war are often those who
+     Building the Narrative                                  are most engaged in it. Nefryna may have hoped to
+                                                             instigate all-out war for her own purposes, with the
+       The following suggestions can be used to craft        goal of grasping ever-increasing power, authority,
+     additional encounters or build the world.               and autonomy.
+
+     Justification for War                                   Head of the Snake
+       Nefryna’s background is intentionally left vague in     Nefryna’s greatest weapon, Surtr, has been defeat-
+     this scenario. You can build her in a way that serves   ed so she no longer poses a great threat to the North.
+     your world best. Justifications for her attacks may     However, remnants of her army survive and will
+     include one or several of the following prompts.        continue to cause aggravation.
+                                                               The party might hunt Nefryna down in her en-
+     Retaliation for Stürmenburg                             campment, engaging her and her surviving guards
+       If your party has completed the Beastmen Pt. I        and soldiers. For further engagements, you might
+     and Beastmen Pt. II scenarios, they will see how        include the full roster of Penitent Crusade models
+     tensions between the North and the Holy Western         outside of this release.
+     Empire may escalate.
+       Nefryna’s campaign might be a direct response
+     to the death of Administrator Varus. In her eyes,       War Crimes
+     this retaliation may be justified in the scope of the     The trail of corpses doesn’t start at Briga, as other
+     North’s actions.                                        villages and hamlets were massacred along the way.
+                                                             Before reaching Chapter 1 of this scenario, the
+     Fanatical Zealotry                                      party may have had to scout or fight through several
+       Nefryna could conduct this campaign because of        other settlements and run into groups of Nefryna’s
+     internal prejudices she harbors against the religion    soldiers.
+     and culture of the North. Place some emphasis on the      For further engagements, you might include the
+     cultural differences between the North and the Holy     full roster of Penitent Crusade models outside of
+     Western Empire.                                         this release.
+       Perhaps the towns were in the middle of
+     celebrating a strange, pagan ritual. They may have
+     erected strange wicker totems or fetishes that
+     Nefryna’s crusades are intent on destroying, to put
+     a stop to their ceremonial practices, deeming them
+     blasphemous and heretical.
+
+     Practical Calculations
+       Nefryna might be making a carefully calculated
+     attack based on information only she knows, or has
+     the will to follow through on.
+       Perhaps her spies have reported growing nests of
+     northern dissidents and rebels, who are on the brink
+     of growing into an uncontrollable mob. If enough
+     momentum is built by these rebels, the entire North
+     may turn against the Holy Western Empire.
+
+22
+23
+                Appendix A: Bestiary
+
+        The Penitent Crusade is an iron fist, a standing army used to enforce the faith and
+     laws of the Holy Western Empire. Sinners, criminals, and brigands, their ranks are
+     indoctrinated to walk the Path of Redemption, the central credo of the Crusade.
+
+
+
+
+24
+   Marching brazenly into the dark, they purge monsters, demons, and any
+manner of external threats from the realm. Yet one must be wary, for when
+rumors of heresy and hidden cults emerge, the eyes of the Church of Azerai soon
+follow, and the flames of the Emperor’s wrath and judgment are not far behind.
+   Those in the ranks of the church are wholly overtaken by unquestionable faith,
+and the need to purge the corruption with the blazing fire of the Emperor. In their
+midst, these zealots often leave a trail of dead, guilty and innocent alike.
+
+
+
+
+                                                                                      25
+     Swarms (cr 2)
+       Flagellants
+
+
+
+                 Flagellants are sinners and criminals beyond
+             redemption.
+                 Treated like animals, they are beaten and
+             mangled, their arms sawn off and weaponry nailed
+             into their seeping, cauterized stumps. Their minds
+             are broken by torture and contorted by a ceaseless
+             litany, becoming vessels of pure anguish, remorse,
+             and hatred.
+                 In the peak of their insanity, they are unleashed
+             into the midst of combat, their pent-up rage directed
+             at the front lines of the enemy, where they charge
+             invariably to their deaths as they flail their mangled,
+             weaponized bodies at the foe.
+
+
+
+
+26
+FLAgeLLAnt
+Medium humanoid
+
+Armor Class: 15
+Hit Points: 52
+Speed: 40 ft.
+
+STR    DEX CON INT             WIS     CHA
+ 14     16   16  10            10       10
+(+2)   (+3) (+3) (0)           (0)      (0)
+
+
+Condition Immunities: Charmed, Exhaustion,
+Frightened
+Senses: Passive Perception 10
+Languages: Common
+Challenge: 2 (450 XP)
+
+
+Mad Frenzy. When the Flagellant is reduced to
+half its total hit points, it becomes enraged. dealing
+an additional +2 damage on any of its successful
+attacks.
+
+
+Actions:
+
+Whiplash. Melee Weapon Attack: +5 to hit, reach
+5 ft., one target. Hit: 17 (4d6 + 3) bludgeoning
+damage.
+
+Whirlwind (CD 2). Each creature within 10 ft. of the
+Flagellant must succeed on a DC 15 Dexterity saving
+throw, taking 21 (6d6) slashing damage on a failure,
+or half as much on a success.
+
+
+
+
+                                                         27
+                                           Soldiers (cr 3)
+     FLAgeLLAnt                            Azerai Mage
+     Medium humanoid
+
+     Armor Class: 15
+     Hit Points: 52                                              Azerai Mages turn to the holy word of the
+     Speed: 40 ft.                                            Emperor, calling down the divine flames of wrath
+                                                              and judgment upon their foes.
+     STR    DEX CON INT             WIS     CHA                  Chanting arcane passages and the holy
+      14     16   16  10            10       10               scriptures, they arrive on the battlefield to channel
+     (+2)   (+3) (+3) (0)           (0)      (0)              spouts of fire and scorching heat.
+                                                                 Though they frequent the fields of battle, they
+                                                              prefer not to engage with the enemy directly,
+     Condition Immunities: Charmed, Exhaustion,               providing support where needed and hiding behind
+     Frightened                                               lines of Bulwarks or rabid Flagellants.
+     Senses: Passive Perception 10
+     Languages: Common
+     Challenge: 2 (450 XP)
+
+
+     Mad Frenzy. When the Flagellant is reduced to
+     half its total hit points, it becomes enraged. dealing
+     an additional +2 damage on any of its successful
+     attacks.
+
+
+     Actions:
+
+     Whiplash. Melee Weapon Attack: +5 to hit, reach
+     5 ft., one target. Hit: 17 (4d6 + 3) bludgeoning
+     damage.
+
+     Whirlwind (CD 2). Each creature within 10 ft. of the
+     Flagellant must succeed on a DC 15 Dexterity saving
+     throw, taking 21 (6d6) slashing damage on a failure,
+     or half as much on a success.
+
+
+
+
+28
+AZerAi mAge
+Medium humanoid
+
+Armor Class: 15
+Hit Points: 82
+Speed: 30 ft.
+
+STR    DEX CON INT             WIS     CHA
+ 10     12   12   16            16      18
+ (0)   (+1) (+1) (+3)          (+3)    (+4)
+
+
+Damage Resistances: Fire
+Condition Immunities: Charmed, Frightened
+Senses: Passive Perception 14
+Languages: Common , Latrian
+Challenge: 3 (700 XP)
+
+
+Spellcaster (DC 14, Hit +5). This creature is a
+spellcaster with Spell Save DC and +Hit with spell
+attacks as indicated. Spells will be noted in their
+Actions.
+Quickcaster. This creature may cast a Spell with a
+Bonus Action each turn.
+
+
+Actions:
+
+Staff. Melee Weapon Attack: +3 to hit, reach
+5 ft., one target. Hit: 4 (1d6 + 1) bludgeoning
+damage.
+
+Force Bolt (Spell). Make a ranged spell attack
+against a creature within 120 ft. On a hit, the target
+takes 14 (4d6) force damage.
+
+Call Flame (Spell) (CD 3). A radiant flame
+descends upon a creature you can see within
+60 ft. The target must succeed on a Dexterity
+saving throw, or take 28 (8d6) fire damage
+
+Teleport (Spell) (CD 6). Teleport up to 80ft. to an
+unoccupied space that it can see.
+
+
+
+
+                                                         29
+      Elites (cr 5)
+     Flame Defender
+
+               Flame Defenders are hulking knights dressed in
+             charred armor and carrying massive bludgeoning
+              weapons.
+                   They are stalwart guardians, screening enemies
+                and protecting important clergy on the battlefield.
+                   As honored warriors, they are burdened to
+               carry the light of the Azerai faith into battle,
+                which burst from their weapons and spread from
+                their helmets like a beacon on the front lines.
+
+
+
+
+30
+FLAme deFender
+Large humanoid
+
+Armor Class: 18
+Hit Points: 115
+Speed: 30 ft.
+
+STR    DEX CON INT            WIS    CHA
+ 22     12   20   12           14     14
+(+5)   (+1) (+5) (+1)         (+2)   (+2)
+
+
+Damage Immunities: Fire
+Condition Immunities: Charmed, Exhaustion,
+Frightened
+Senses: Darkvision 60 ft, Passive Perception 12
+Languages: Common , Latrian
+Challenge: 7 (2,900 XP)
+
+
+Spellcaster (DC 17, Hit +9). This creature is a
+spellcaster with Spell Save DC and +Hit with spell
+attacks as indicated. Spells will be noted in their
+Actions.
+
+Quickcaster. This creature may cast a Spell with a
+Bonus Action each turn.
+
+
+
+
+Actions:
+
+Multiattack. This creature makes two
+attacks.
+
+Hammer. Melee Weapon Attack: +7 to hit,
+reach 5 ft., one target. Hit: 15 (3d6 + 5)
+bludgeoning damage.
+
+Fire Blast (CD 4). The Flame Defender hits the
+ground with its hammer, creating an explosion of
+fire. All other creatures within 15 ft. must make
+a DC 16 Dexterity saving throw, taking 28 (8d6)
+fire damage on a failed save, or half as much on a
+successful one.
+
+
+
+
+                                                      31
+     Commanders (cr 7)
+       Iron Maiden
+
+                 Iron Maidens are drawn from the ranks of the
+              Church of Azerai itself.
+                 Anointed by scripture and combat, they are
+              powerful battlefield generals adorned with hardened
+              armors and carrying great weapons blessed by the
+              holy flame.
+                 They are revered sisters, able to commandeer
+              armies from even the highest of the Primus,
+              esteemed sisters of the Church, women who show no
+              fear nor doubt, driven only by the singular purpose
+              of the protection and expansion of the Azerai faith.
+                 Wherever they walk, these Iron Maidens bring the
+                      light of the empire upon the faithful, and the
+                       blade of his wrath upon the lost.
+
+
+
+
+32
+                                                           object takes 14 (4d6) fire damage when the spell is
+iron mAiden                                                cast. Until the spell ends, you can use a bonus action
+                                                           on each subsequent turn to cause this damage again.
+Medium humanoid
+                                                           Iron Thorns (Spell) (CD 6). Target an allied creature
+Armor Class: 20
+                                                           within 60ft. The target’s AC can’t be reduced to
+Hit Points: 112
+                                                           less than 19, regardless of what kind of armor it
+Speed: 30 ft.
+                                                           is wearing. Additionally, any enemy creature that
+                                                           makes a melee attack against the target takes 7 (2d6)
+STR    DEX CON INT             WIS     CHA
+                                                           piercing damage. This spell lasts for 5 minutes, but
+ 18     16   16   18            22      22
+                                                           can only be applied to one target at a time, with all
+(+4)   (+3) (+3) (+4)          (+6)    (+6)
+                                                           prior instances ending when the spell is cast again.
+
+Condition Immunities: Charmed, Exhaustion,
+Frightened
+Senses: Passive Perception 16
+Languages: Common , Latrian
+Challenge: 5 (1,800 XP)
+
+
+Flame Beacon. The Flame Defender sheds a
+bright light in a 20 ft. radius, and dim light for an
+additional 20 ft. Any creatures within the area have
+disadvantage on Stealth checks, and allied creatures
+have advantage on Perception checks.
+
+
+Actions:
+Multiattack. This creature makes two attacks.
+
+
+Greatsword. Melee Weapon Attack: +7 to hit, reach 5
+ft., one target. Hit: 25 (6d6 + 4) slashing damage.
+
+Wave of Force (Spell) (CD 2). The Iron Maiden
+explode in a blast of pure energy. Each enemy
+creature within 10 ft. of her must succeed on a DC
+18 Strength saving throw or be knocked prone.
+
+Burning Chain (Spell) (CD 4). Make a ranged spell
+attack against an enemy creature up to 60 ft. away.
+On a hit, the target is ensnared by burning chains for
+its next two turns. While the spell lasts, the target is
+restrained and takes 7 (2d6) fire damage at the start
+of each of its turns.
+
+Searing Metal (Spell) (CD 5). This spell requires
+concentration. Choose a metal object within 60 ft
+that you can see. The object becomes burning hot for
+one minute. Any creature in physical contact with the
+                                                                                                                    33
+                               Purifying Machine
+
+        Purifying Machines are massive artillery torches, deployed into battle where absolute sheer power
+     of disintegration is needed. These machines are carved in the shapes of faces, crowned with engulfing
+     flames.
+        The ceaseless fires that writhe within are ejected in white-hot motes that burn anything in their path.
+     With the Emperor’s blessing, these fiery contraptions burn away sin and corruption, charring entire
+     heretic towns, and crumbling enemy rank into ash and dust.
+
+
+
+
+34
+PuriFying mACHine                                     Immolation. When the Purifying Machine dies, it
+                                                      explodes in a burst of fire. Each creature within 10
+                                                      feet of it must make a DC 16 Dexterity saving throw,
+Huge construct
+                                                      taking 42 (12d6) fire damage on a failed save, or half
+                                                      as much damage on a successful one.
+Armor Class: 20
+Hit Points: 130
+Speed: 30 ft.
+                                                      Actions:
+STR    DEX CON INT          WIS    CHA
+ 26     10  26   10         10      10
+(+8)    (0) (+8) (0)        (0)    (0)                Flame Cannon. Ranged Weapon Attack: +11 to hit,
+                                                      reach 60/120 ft., up to three targets. Hit: 17 (5d6)
+                                                      fire damage. You may direct your attacks at the same
+Damage Immunities: Fire                               target, or up to three different targets.
+Damage Resistances: Fire, Poison, Bludgeoning,
+Piercing, and Slashing from nonmagical attacks        Mortar (CD 4). Fire a mote of flame at a point
+Condition Immunities: Charmed, Exhaustion             within 240 ft. Each creature in a 10 ft. radius sphere
+Frightened, Grappled, Poisoned, Restrained, Stunned   of that point must make a DC 18 Dexterity saving
+Senses: Passive Perception 10                         throw, taking 32 (10d6) fire damage on a failed save,
+Languages: -                                          or half as much on a success.
+Challenge: 7 (2,900 XP)
+
+
+
+
+                                                                                                               35
+                                    Bosses (cr 11/14)
+                                          Surtr
+
+         Surtr holds a sad story, a monstrous giant
+     engulfed in flame, its skin charred and burned.
+     It screams in agony as it flails about, slicing its
+     massive weapons through the ranks of enemies of
+     the Church of Azerai.
+         The behemoth was captured near the world’s
+     end, where tremendous glacial mountains of frost
+     clash with magma-spewing volcanoes and where
+     ancient giants live and roam. Since its capture, the
+     Church has tortured the monster with the Emperor’s
+     Flame, its skin blisters and peels from its body, its
+     eyes melting, and set ablaze before shambling in the
+     direction of the enemy, to burn, destroy, and die.
+         The cycle repeats, life, death, and pain, as its
+     body grows ever more disfigured from each
+     confrontation.
+
+
+
+
+36
+Surtr                                                   Legendary Actions:
+                                                        This creature can take 2 legendary actions, choosing
+Huge giant
+                                                        from the options below. Only one legendary action
+                                                        option can be used at a time and only at the end of
+Armor Class: 16
+                                                        another creature’s turn. This creature regains spent
+Hit Points: 116
+Speed: 60 ft.                                           legendary actions at the start of its turn.
+
+STR    DEX CON INT             WIS CHA                  Rage. Make a Cleave attack.
+ 26     16   26   12           12    14
+(+8)   (+3) (+8) (+1)          (+1) (+2)                Inferno (CD 5) Surtr explodes in a blast of fire,
+                                                        losing 10 hit points. All other creatures within 20 ft.
+                                                        of Surtr must succeed on a DC 18 Dexterity saving
+Saving Throws: Str + 10, Dex +5, Con +10                throw, taking 42 (12d6) fire damage on a failure or
+Condition Immunities: Blinded, Charmed,                 half as much on a success.
+Exhaustion, Frightened, Grappled, Restrained
+Senses: Darkvision 60 ft., Passive Perception 10
+Languages: -
+Challenge: 11 (7,200 XP)
+
+
+Fire Touched. Whenever Surtr would suffer any
+amount of fire damage, Surtr is instead healed by
+that amount.
+
+Enflamed. Any enemy creature that starts its turn
+within 10 ft. of Surtr, takes 7 (2d6) fire damage.
+
+Beacon of Light. Surtr sheds a bright light in a 60
+ft. radius and dim light for an additional 20 ft. Any
+creature within this area has disadvantage on Stealth
+checks, and allied creatures have advantage on
+Perception checks.
+
+
+Actions:
+Multiattack. This creature makes two attacks.
+
+Cleave. Melee Weapon Attack: +12 to hit, reach
+10 ft., up to two targets. Hit: 15 (2d6 + 8) slashing
+damage.
+
+Fire Breath (CD 3). Surtr exhales fire in a 60-foot
+cone. Each enemy creature in that area must make
+a DC 18 Dexterity saving, taking 28 (8d6) fire
+damage on a failed save, or half as much on a
+successful one. Additionally, if a creature fails
+the save, it catches on fire, taking an additional
+14 (4d6) fire damage at the start of its next turn.
+
+                                                                                                                  37
+     Surtr (torment)                                             Legendary Actions:
+     Huge giant
+                                                                 This creature can take 3 legendary actions, choosing
+     Armor Class: 16                                             from the options below. Only one legendary action
+     Hit Points: 174                                             option can be used at a time and only at the end of
+     Speed: 60 ft.                                               another creature’s turn. This creature regains spent
+                                                                 legendary actions at the start of its turn.
+     STR     DEX CON INT             WIS CHA
+      26      16   26   12           12    14                    Rage. Make a Cleave attack.
+     (+8)    (+3) (+8) (+1)          (+1) (+2)
+                                                                 Inferno (CD 5) Surtr explodes in a blast of fire,
+                                                                 losing 10 hit points. All other creatures within 20 ft.
+     Saving Throws: Str + 10, Dex +5, Con +10                    of Surtr must succeed on a DC 20 Dexterity saving
+     Condition Immunities: Blinded, Charmed,                     throw, taking 42 (12d6) fire damage on a failure or
+     Exhaustion, Frightened, Grappled, Restrained                half as much on a success.
+     Senses darkvision 60 ft., passive Perception 11
+     Languages: -
+     Challenge: 14 (11,500 XP)
+
+
+     Fire Touched. Whenever Surtr would suffer any
+     amount of fire damage, Surtr is instead healed by
+     that amount.
+
+     Enflamed. Any enemy creature that starts its turn
+     within 10 ft. of Surtr, takes 10 (3d6) fire damage.
+
+     Beacon of Light. Surtr sheds a bright light in a 60
+     ft. radius and dim light for an additional 20 ft. Any
+     creature within this area has disadvantage on Stealth
+     checks, and allied creatures have advantage on
+     Perception checks.
+
+     Actions:
+
+     Multiattack. This creature makes two attacks.
+
+     Cleave. Melee Weapon Attack: +13 to hit, reach
+     10 ft., up to two targets. Hit: 15 (2d6 + 8) slashing
+     damage.
+
+     Fire Breath (CD 3). Surtr exhales fire in a 60-foot
+     cone. Each enemy creature in that area must make a
+     DC 18 Dexterity saving, taking 28 (8d6) fire damage
+     on a failed save, or half as much on a successful one.
+     Additionally, if a creature fails the save, it catches on
+     fire, taking an additional 14 (4d6) fire damage at the
+     start of its next turn.
+
+38
+39
+40
+

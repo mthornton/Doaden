@@ -1,0 +1,11 @@
+# OS cruft
+.DS_Store
+**/.DS_Store
+
+# Raw source PDFs: ~11GB and several files exceed GitHub's 100MB limit.
+# Kept only on the primary machine. The committed processed_campaigns/_extracted/
+# text cache stands in for them on other machines.
+raw_campaigns/
+
+# Superseded / temp files staged for deletion
+processed_campaigns/_to_delete/

@@ -1,0 +1,417 @@
+     Fire and Death!
+      The Beastmen hordes have breached the walls of Stürmenburg, pillaging and burning as
+they swarm the city. Will your warband rise against the befouled hordes and cut the head of
+the beast, or will they fall beneath their hooves, trampled to death, their last gasps for air
+drowned out by their bleating laughs?
+
+
+     This scenario picks up immediately after the previous adventure, Siege of
+Stürmenburg Pt. I.
+       Wall Träz has been breached and the Beastmen spill into the outer district. The city’s
+last defenders, organized by Lord Arminius himself, warden of the city and esteemed general,
+fall back to prepare a final defense. However, a delicate diplomatic situation arises. Fearing
+for his own safety, the Imperial Administrator, Varus, has demanded to be extracted from the
+city. Though the city burns and the screams of the dying echo throughout the streets, Varus
+must be appeased if peace between the Empire is to be maintained.
+
+
+MISSION
+      The warbands must help retake the walls of the city in scenario 1 and secure the gates
+to stem the flow of Beastmen. With that difficult task complete the surviving warband
+members must help escort Varus out of the city and fight off waves of beasts.
+      If they manage this, they might even invoke the attention of the Beastlord Grimscar
+(scenario 3).
+      Intro page
+
+      Welcome to Doaden, the dark fantasy setting of tainted lands and twisted
+monsters, where an ever-creeping affliction corrodes the very essence of existence. It
+is a world of decay and depravity where once- righteous men and heroes of glorious
+purpose now struggle to survive as cults and dark gods vie with one another to
+consume the last vestiges of humanity.
+
+
+      In Forbidden Psalm: The Tainted lands of Doaden you will find:
+• Three scenarios created for the fantastic monsters from Bestiarum miniatures;
+• Rules for monsters;
+
+
+     These scenarios should be played in order. You will need a copy of the
+Forbidden Psalm Core Book to play.
+     The North is a sparsely populated region historically inhabited by nomadic tribes. The
+people are animistic, believing in nature spirits that are contrary to the beliefs of the Church
+of Azerai. However, their warriors are fierce, and the region is too craggy and cold to grow
+much crop or livestock.
+     A military campaign of the magnitude needed to conquer the north would be costly,
+arduous, and offer little return. For these reasons, the North maintains independence from the
+Empire, the Church finding little benefit in extending its reach into such inhospitable lands.
+      The Beastmen
+      Beastmen hail from the north. Historically, they warred with the barbarian tribes, but
+often spilled into the south to pillage and raid. Though the wars of old quieted down to small
+skirmishes and opportunistic raids for many generations, they have recently become
+militaristic once again.
+      History of Stürmenburg
+       The fortress city of Stürmenburg is located along the northern frontier of the Empire,
+thus it suffers the constant barbarian and Beastmen attack from the north. Though the
+defenders share much history and culture with the northmen, they have remained loyal to the
+Empire after being conquered during its expansionary years.
+      As a fortress city subjected to constant war, most townsfolk have received extensive
+military training. The city has a large supply of well-trained militia in addition to its city
+guard, which acts as a standing army.
+      Stürmenburg’s most distinctive features are its three massive walls that form rings
+around the city, towering some 15 to 20 meters into the air. They grow progressively taller,
+rising from the outermost wall to the innermost one. The walls were constructed thousands of
+years ago from monolithic slabs of stone carved from the nearby mountains. It is unclear how
+the massive stones were cut or transported.
+The walls, from outer to inner, are named Wall Träz, Wall Sten, and Wall Stahl, so named in
+Gaurric for wood, stone, and steel, respectively. These names represent the most important
+materials used to construct the city’s defenses, which the people have relied on for countless
+generations.
+
+These scenarios should be played in solo or coop only.
+      First, the warbands must fight along Wall Träz to recapture it. They must reach Gate
+Bjärn and retake it.
+       Fighting your way through the outer district to the wall. The despoiled goat-men block
+the way at every turn, causing mayhem in the streets as they attack the townsfolk and light
+their homes on fire. Its slow progress for the warbands as they cut them down one after
+another, clearing the way to Wall Träz.
+       Eventually, reaching a long stone stairway that ascends the great wall. Ascending the
+steps, a bleat from above calls out, and a warband member dodges to the side just in time to
+avoid the swing from a Capra’s axe. Shoving the beast off the stairs, it hurdles down to
+splatter upon the cobbled streets below. Coming to the top of the rampart, the warband finds a
+great blazing brazier. In the distance, they can make out the gatehouse for the Bjärn Gate, but
+to reach it, they will need to cut their way through swathes of Beastmen that have overrun the
+wall. All around, the clashes of weapons can be heard, as the battle rages furiously along the
+walls.
+
+
+GOAL
+Fight your way through the Beastmen to the gate house.
+
+
+REWARD
+For each Beastmen slain the Warband gains 1 additional XP.
+
+
+SETUP AND TREASURE
+The board is map up of a map that is 6 inches across and 24 inches long.
+Across the wall you should place terrain to represent crates and other debris.
+A1- Warband should be placed in area A1 and no more than 4 inches onto the board.
+A2 - These are Beastmen towers that are on the wall, each one is where enemies will come from each
+round. As an action a warband member can attempt to push the tower away by making a strength test.
+However, this test can only be made if no enemy models are within 3 inches of the tower. On a
+success no more hostiles spawn on that location.
+A3 - This gap is 2 inches wide, and models must make an Agility test as an action to jump over it. On
+a failure they land awkward and take 1 damage, on a pass they land safely, on a fumble they fall off
+the wall and are killed!
+A4 -This is the door to the tower; Models can move through this door and off of the board if no
+enemies are within 3 inches of the door.
+DEPLOYMENT
+All models should be deployed in A1 as above.
+
+
+THREATS
+At the end of each round roll a D6 for each A2 area still connected.
+1 – Nothing spawns
+2 – Spawn a Capra Hunter
+3 – Spawn a Capra Scout
+4 – Spawn a Capra Marauder
+5-6 Nothing spawns
+
+
+SOLO PLAY
+Do not spawn more hostiles if there are already 3 in play.
+
+
+The Scenario ends when all living models make it through the door in A4.
+
+
+RPG TEXT BOX
+When the scenario ends read:
+        As you fight your way towards the Bjärn Gatehouse, bloodied and tired, you look up to see a
+full formation of Capra archers in the upper tower, bleating and gloating at you. They train a dozen
+arrows on you, preparing to let loose their bows for the kill. But suddenly, a blinding white flash
+erupts from the sky above, streaking downward from a twisting vortex of blackened clouds. Lightning
+crashes down on the enemy, sending bricks and timbers flying about and leaving nothing behind but
+charred bones and ash. Uldibad steps forward from the steaming wreckage, carrying large stone slab
+carved with a glowing blue rune. Hamarhelm and Uldibad, as well as several other members of the
+Blitzvakt have arrived. Uldibad used one of his runestones to call down a blast of lightning and
+annihilating the enemy. Take a deep breath you survived for now.
+
+
+
+
+                                                Map 1
+      Now that you have secured the walls and gates you have stemmed the flow of Beastmen.
+        The Warbands escort Varus through the war-torn city, sneaking from cover to cover. Varus
+trails along behind, glancing about anxiously as he steps gingerly over the body of a dead soldier. A
+look of repugnance washes over his face as he mutters aloud, “Savages.” Suddenly, the warbands hear
+cries from a nearby alley. Turning to investigate, they find several pen-like cages with people held
+inside. Before them is a great bonfire. What the Beastmen plan for them? Rushing over, the warbands
+break the locks to the cages but as the townsfolk step out, a roar rings out. Several Beastmen rush
+towards the warbands from the left and right, pinning them down in the narrow alleyway. A goatmen
+charges toward Varus, slashing out with a blood-slickened cleaver. Varus quickly shoves one of the
+townsfolk in its way, stepping back to safety as the man is sliced apart. Varus points a crooked finger
+and screams, “Protect me!”
+
+
+GOAL
+Protect Varus.
+
+
+REWARD
+If Varus survives each warband gains 100 gold. For Each surviving townsfolk member warbands gain
+5 gold.
+
+
+SETUP AND TREASURE
+Set up the board as shown in Map 2. The Board should be at least 20 inches by 20 inches. In A1 place
+5 civilian models and one model to represent Varus.
+At the end of each turn move civilians 1D6 in a random direction unless an enemy is within 1 inch of
+them (they stop at terrain or edge of bonfire).
+Civilians do not attack back and have the stats
+HP6 Armor 1
+Varus has the stats
+HP12 Armor 1
+In the centre of the board place a large bonfire.
+Vaurs does not move
+A3 is a blockage that can be cleared. Models must make a Strength test to move the blockage out of
+the way. Models within 1 inch can as an action clear some of the blockage with a successful strength
+test. Note how many successes have been made, when 6 successful rolls have been made the blockage
+is cleared and the models can move off of the board.
+Hostiles that spawn this scenario prioritise civilians, then Varus then warband members until they take
+any damage. Once they have taken damage, they prioritise the last model to hurt them.
+Deployment
+All warbands should be placed in A4.
+Threats
+Each round roll a D20 for each area marked A2 and spawn the following:
+
+d20                               Enemy Spawned
+1-4                               2x Capra Scout
+5-7                               1x Capra Hunter
+8 - 10                            1x Boargore
+11 - 13                           1x Gorehound
+14 - 16                           1x Capra Herd Keeper
+17 - 19                           1x Capra Marauder
+20                                1x Armogor
+
+Solo Play
+It only takes 4 successes to clear the blockage. Only roll a single dice each round for hostiles to spawn
+and randomise with A2 they appear in.
+The Scenario ends when the blockage is cleared.
+RPG text box
+If the party clears the blockage and Varus is still alive read:
+Clearing the way, you quickly grab Varus and drag him towards the exit. You hear the calls of the
+beasts behind you and make a quick escape.
+Map 2
+                 SCENARIO 3: CHALLENGE BE THY NAME.
+
+      The flames grow higher, engulfing the city and filling the sky with billowing clouds of smoke.
+The Warbands push onward to the Ulf Gate, choking on the acrid, ash-filled air. War rages all around,
+the sounds of clashing weapons and screams of the dying echoing throughout the night.
+       As they run, they glimpse the mountainous Hamarhelm in the distance. He stands waist deep in
+Beastmen corpses, his iron Warhammer matted with layers of pulverized flesh and scraps of fur.
+Covered in bloody gashes and sweat, his skin shines bronze in the firelight. He shouts a bellowing war
+cry as he charges off, barrelling into an oncoming horde. Pushing onward, the warbands pass three
+guardsmen standing together with shields raised. A demonic centaur-like beast charges forth,
+swinging a battleaxe and slicing the heads off two of the men before swiping at the last with a set of
+clawed hooves.
+       A sudden trumpet sounds and Arminius charges from around a corner, dressed in blood-
+splattered armor and mounted on an enormous destrier. Accompanied by a retinue of cavalry, he
+brings a halberd down on the demonic beast, cleaving into its torso, its intestines spilling to the
+ground as its body collapses. Arminius shouts a command to his men before they charge away.
+       The Warbands come finally to the main road, a long highway that leads to the great Ulf Gate.
+Uldibad dances about before the great gate, firing spurts of fire and lighting from his hands as he
+disintegrates goatmen left and right. Around him are a dozen corpses of guardsmen.
+       A sudden bleating cry cuts through the night. A large goatman wearing heavy amor jumps
+down from a nearby rooftop. His plate armor is adorned with human skulls and severed heads. With a
+swipe of a spike greataxe, slices Uldibad across chest, dropping the rune priest to the ground. Bleating
+cheers of the rabid horde echo through the night. The Beastlord looks to the Warbands. Raising his
+bloody axe, he points at you as he begins to circle left and right.
+
+
+GOAL
+Kill Grimscar.
+
+
+REWARD
+10xp for the party that kills Grimscar.
+
+
+SETUP AND TREASURE
+On a board 24 inches by 18 inches set up a ruined city street as shown in Map3. Around 6 inches on
+the board set up the statue that stands between the party and Grimscar.
+
+On the ground A3, place the body of Uldibad who is mortally wounded.
+
+
+DEPLOYMENT
+All warband members should be placed around A1.
+THREATS
+In a A3 place Grimscar he is here to kill them all.
+
+
+SOLO PLAY
+As above.
+
+
+The Scenario ends when Grimscar dies.
+
+
+
+
+                                                 Map 3
+      Grimscar's fall means the remaining Beastmen in the city will begin to lose morale and route.
+With few ways out of the city for the beasts to take, the Defenders of Stürmenburg will be able to
+methodically slay the remaining attackers within their walls. However, Varus cannot escape through
+the Ulf Gate. The guards sent to open the gate were defeated by Grimscar and his Beastmen.
+        Now, Varus would need to find another gate, and he is impatient to do so. Hamarhelm arrives
+at the scene, and he demands that Hamarhelm and the party immediately take him to safety. However,
+Hamarhelm must first see to Uldibad.
+
+
+      The Beastlord falls to the ground, its eyes rolling back into its skull. Turning to Uldibad, you
+see Hamarhelm approaching and kneeling down by the rune priest. The wound is fatal. A slash across
+the chest and abdomen. Uldibad will die, though it will be slow and painful.
+      Varus, seeing Hamarhelm approach, steps out from behind a pile of crates where he had been
+hiding during the fight. He speaks quickly and anxiously, “Hurry, take me to safety before more
+beasts arrive!” Hamarhelm replies calmly, “No brother of mine shall pass alone. I must stay.” Varus
+grunts in frustration, swinging about and pointing at Hamarhelm and you, “This man is as good as
+dead! I command you all! Take me to another gate! Now!”
+       Yet again Hamarhelm refuses, turning his attention back to his dying friend, “I stay!” A look of
+anger washes over Varus. In an instant, he draws a dagger from his waist sash and plunges it into
+Uldibad’s throat, spitting out, “There’s no use waiting for the dead!” The rune priest shudders for a
+moment as his blood spurts forth from his jugular, and then falls still. Hamarhelm lets loose a cry of
+pure rage and pain. He clasps Varus’ head in both hands, squeezing them together. Varus screeches
+out, his eyes bulging from their sockets and blood leaking from his nostrils, his face turning purple
+from the pressure. “Stop him!” he cries in desperation.
+
+
+
+A Final choice for the warbands to make:
+   As players you should decide how your warbands handle this situation. They may try to
+intervene to save Varus, or to step back and let the scene unfold.
+   Hamarhelm is acting on pure rage and instinct. If left alone, he will explode Varus’ head as
+easily as one might a tomato.
+   However, the Warbands may choose to intervene. If one Warband choices to intervene they
+stop Hamarhelm, if no Warband intervenes Varus is killed.
+   Warbands must keep in mind that Varus’ death will inevitably plunge the land into civil war
+with the Empire!
+All monsters in Forbidden Psalm: The Tainted Lands of Doaden treat other monsters as
+friendly.
+
+
+
+CAPRA SCOUTS
+
+HP: 8
+
+Morale: 9
+
+Handaxe 1D4
+
+Armor: 1
+
+Special: After successfully hitting a model the Scout disengages from combat and moves
+1D6 away.
+
+
+
+CAPRA HUNTER
+
+HP: 9
+
+Morale: 9
+
+Dagger 1D4/Bow 1D6
+
+Armor: 1
+
+Special: Hunters do not move towards models instead standing back and using their bows.
+If they are within 12 inches they do not move and attack with their bow as a ranged attack. If
+they are over 12 inches, they move 1D6 towards a model and then attack once they are
+within 12 inches.
+
+
+
+CAPRA HERD KEEPER
+
+HP: 6
+
+Morale: 11
+
+See Special.
+
+Armor: 0
+
+Special: If no warband member is within 1 inch of a Herd Keeper they fire flame bolt out
+against the nearest model. [deals 1d6 damage that ignores Armor]. They donot move
+towards models. If a model is within 1 inch they strike with their staff [1d4]. At the end of
+their action if any beast man model is hurt and within 6 inches of them the Herd Keepers
+heal them 1D4 HP.
+CAPRA MARAUDER
+
+HP: 13
+
+Morale: 11
+
+Battleaxe 1D12
+
+Armor: 2
+
+Special: Whenever a model moves within 1 inch the Marauder, it immediately makes a
+headbutt attack [1D4].
+
+
+
+BOARGORE
+
+HP: 9
+Morale: 8
+
+Gore: 1D6
+
+Armor: 2
+
+Special: If the Boargore moves at least 2 inches before it attacks its damage is increased to
+1D10 in a successful hit.
+
+
+
+GOREHOUND
+
+HP: 10
+Morale: 8
+
+Bite: 1D8
+
+Armor: 2
+
+Special: Rolls 2d20 when attacking and takes best result.
+
+
+
+ARMOGOR
+
+HP: 24
+
+Morale: -
+
+Cleave 2D8
+
+Armor: 2
+
+Special: If the Armogor moves at least 2 inches before it attacks its damage is increased to
+2D10 in a successful hit.
+GRIMSCAR THE BEASTLORD
+
+HP: 40
+
+Morale: -
+
+Battleaxe 1D12
+
+Armor: 3
+
+Special: At the start of each round roll a D6 on a result of a 5+ 1 Gorehound should be
+placed within 1 inch of Grimscar.
+

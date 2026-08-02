@@ -1,0 +1,1794 @@
+RETURN OF
+THE JAILER
+  “The path to redemption is a treacherous journey walked alone,
+     each step resonating with the sorrow of a thousand sins."
+
+
+
+
+                                                   CREDITS
+
+
+
+Ownership and Copyright
+This product is compliant with the Open Game License and is suitable for use with the 5th Edition rules system.
+Product Identity: The following items are hereby identified as Product Identity, as defined in the Open Game License version
+1.0a, Section 1(e) and are not Open Content:
+
+All trademarks, registered trademarks, proper names (characters, deities, etc.) dialogue, plots, storylines, locations, characters,
+illustrations, and trade dress. (Elements that have previously been designated as Open Game Content or are in the public
+domain are included in this declaration.)
+
+Open Content: Except for material designated as Product Identity (see above), the game mechanics of this game product are
+Open Game Content, as defined in the Open Game License version 1.0a Section 1(d). No portion of this work other than the
+material designated as Open Game Content may be reproduced in any form without written permission.
+
+Whispers of Torment: A Tormentor Cults Adventure © 2024 Bestiarum Studio LLC
+Return of the Jailer: A Tormentor Cults Adventure © 2024 Bestiarum Studio LLC
+Tormentor Cults: Faction Guide © 2024 Bestiarum Studio LLC
+
+Reference to copyright material in no way constitutes a challenge to the respective copyright holder of that material. Bestiarum
+Games, Bestiarum Miniatures, Tormentor Cults, the Tormentor Cults Logo, and the Bestiarum Logo are trademarks of
+Bestiarum Studio LLC
+                                                        CONTENTS
+Foreword ............................................................... 3           Scene 3) Stonemason’s Hall ........................ 21
+                                                                                     Scene 4) Weaponsmith’s Shop .................... 23
+Introduction ........................................................... 4           Scene 5) Guardsman’s Barracks .................. 25
+       Story Acts ....................................................... 4          Scene 6) Apostle’s End Tavern .................... 29
+       Adventure Background .................................. 4                     Scene 7) Dragon’s Eye Mine ........................ 31
+       Adventure Hooks ........................................... 5                 Scene 8) Old Heldon Cathedral ................... 33
+       Opening Script ............................................... 5              Scene 9) Monastery .................................... 35
+                                                                                     Scene 10) Mead Hall ................................... 37
+    New Heldon Areas ............................................. 7
+                                                                                     Scene 11) Market ........................................ 39
+       1. Apostle’s End Tavern ................................. 7
+       2. Town Hall ................................................... 7     Act 2: The Jailer ................................................... 43
+       3. Stonemason Guild Hall .............................. 7                 Ruined Cathedral............................................. 43
+       4. Weaponsmith Shop ................................... 8                     Map Areas ................................................... 43
+       5. Guardsman Barracks.................................. 8                     Encounter .................................................... 45
+       6. Dragon’s Eye Mine ..................................... 8              The Descending Passage ................................. 46
+       7. Old Heldon Cathedral ................................ 8                    Map Areas ................................................... 46
+       8. Monastery ................................................. 8              Encounter .................................................... 48
+       9. Mead Hall................................................... 9         Hecatomb Catacombs ..................................... 49
+       10. Market ..................................................... 9            Map Areas ................................................... 49
+       Other Areas ................................................... 9             Encounter .................................................... 51
+
+Act 1: The Investigation ....................................... 10              Ending the Adventure ..................................... 53
+    Investigation Overview .................................... 10               What’s Next? ................................................... 54
+       Scene Structure ........................................... 10            Monsters & NPCS ............................................ 55
+       Tracking Time .............................................. 11           The Jailer ......................................................... 60
+       Mystery Revealed ........................................ 11                  Lair Actions .................................................. 61
+       Final Investigation Notes ............................. 12                    Lair Actions .................................................. 62
+                                                                              Items ................................................................... 63
+    Investigation Scenes ........................................ 13
+       Scene 1) Apostle’s End Tavern .................... 15
+       Scene 2) Town Hall ...................................... 17
+
+
+2                                                                 Return of the Jailer
+                                       FOREWORD
+                 elcome dear adventurer, to
+                                                          Adventure Difficulty
+
+   W
+                 "Return of the Jailer," a grimdark
+                                                          The encounters in this module scale are based on
+                 D&D 5e module where the line
+                                                          the party’s Average Party Level (APL). Determine
+                 between hope and despair is razor
+                                                          your party’s APL and use the corresponding
+                 thin. In this dark adventure, the
+                                                          difficulty level from the following table for each
+                 party will investigate a series of
+                                                          encounter.
+grisly murders in the town of New Heldon. The
+bodies of the victims show signs of brutal torture,
+with strange runes carved into their flesh. As the
+party races against time, they will confront the
+Tormentor Cults, the sinister force behind these
+heinous acts, uncovering the cult’s nefarious plan
+to open a rift to the realm of their dark god, the
+Prison Lord. As the cult completes their ritual,
+fiends spill forth through the rift, threatening to
+plunge the world into chaos. The party must brave
+the depths of a forgotten catacomb and face the
+cult’s dark patron, the Jailer, to save their world
+from unimaginable horrors. In these bleak times,          *For parties that find the encounters too easy,
+hope is a rare commodity. Let us pray that our            consider adding a few more enemies to increase
+adventurers possess the cunning and strength to           the adventure challenge.
+endure their trials. Should they fail, the world will
+fall under the shadow of Prison Lord, and there
+shall be no tomorrow.
+                                                          The Path of Penitence
+                                                          This adventure can be run as a one-shot or
+                                                          integrated into a larger campaign using
+                                                          Bestiarum’s Path of Penitence (PoP) system. PoP
+                                                          brings the dark world of Doaden to life, creating a
+                                                          persistent world for your party to explore and
+                                                          provides the tools to string together all
+                                                          Bestiarum’s adventure modules into one cohesive
+                                                          campaign. Learn about the system and join the
+                                                          Crusade at: https://www.bestiarumgames.com/
+
+                                                          Retelling a Classic
+                                                          "Return of the Jailer" is a reimagining of "Indictum
+                                                          Dominus," one of Bestiarum’s favorite 5e
+                                                          adventures. This version offers enhanced design
+                                                          elements, more thrilling combat, and a deeper
+                                                          focus on the sinister Tormentor Cults.
+
+
+                                              Return of the Jailer                                             3
+                                 INTRODUCTION
+                 he town of New Heldon has been          throughout the land. In their mission to eradicate
+
+
+
+     T
+                 struck by a series of ritualistic       evil and establish order throughout the realm, the
+                 murders. The victims’ bodies have       Crusade cares little for the lives of any innocents
+                 been found tortured and                 that may be caught in the crossfire. Whole towns
+                 mutilated, with strange runes           have been burned to the ground, the scorched
+                 carved into their flesh, indicating     bodies of the innocent and guilty alike piled high –
+cult activity. The players are tasked with aiding the    all to eradicate monsters, hidden cells of cultists,
+murder investigation, working alongside the              or other dark threats.
+Penitent Crusade to analyze each gruesome scene              The Primus acts as a general of the Crusade,
+and identify the cult members behind the violent         vested with great authority and power over the
+acts. The fate of New Heldon lies in their hands,        realm. Each Primus leads a veritable army of
+and they must race against time to unravel the           soldiers, war machines, and arcane weaponry,
+cult’s devious plan.                                     which they employ at will to exterminate evil
+                                                         throughout the realm. In this case, Primus Aquilon
+Story Acts                                               has come to New Heldon suspecting the hand of
+                                                         the nefarious Tormentor Cults, though his
+This adventure is organized into two separate acts
+                                                         suspicions have not yet been proven. In the case
+involving different elements of the narrative arc.
+                                                         that the cult gets out of hand and New Heldon
+                                                         falls to their corruption, he is prepared to burn the
+Act 1. The party conducts an investigation into the
+                                                         town to the ground to prevent further spread of
+cult murders. They may investigate crime scenes
+                                                         chaos.
+and interview witnesses. If they suspect someone
+is a cultist, they can have them tortured to extract
+                                                         New Heldon. New Heldon is a large town
+a confession.
+                                                         constructed upon the ruins of Heldon, a city that
+                                                         was destroyed in ages past. In many places the
+In Act 2. The cult reveals its hand, summoning
+                                                         skeletal structures of the past still survive, the
+their dark god, the Jailer. The party must defend
+                                                         most famous of these being the Old Heldon
+New Heldon against the hellish forces and
+                                                         Cathedral, a grand and wondrous, though severely
+confront the Jailer.
+                                                         damaged place of worship that sits atop a cliff
+                                                         overlooking the town’s northeasterly edge.
+Adventure Background
+These sections provide additional narrative and          Abbot Mercereau. New Heldon was established
+location background information for the                  by Abbot Mercereau forty years ago. Though now
+adventure.                                               well into his twilight years, Mercereau is still a
+                                                         well-regarded spiritual leader of the town and
+Penitent Crusade. A contingent of the Crusade,           operates the New Heldon’s local monastery.
+led by Primus Aquilon, is occupying New Heldon           Through the years, Mercereau has been
+until the murder investigation’s conclusion. The         instrumental in the town’s growth and survival. He
+Crusade is a military organization comprised of          has always been known to be kind, gracious, and
+zealous knights, soldiers, and conscripted               fair. The monastery’s mission is to study and
+criminals, dedicated to combatting evil
+
+4                                             Return of the Jailer
+preserve various structures and artifacts of the         Opening Script
+past that might be found in the area.
+                                                         To start the adventure read this script.
+The Cult. The details about the cult should be kept
+secret from the players for now. A detailed
+explanation of their objectives, methods, and the
+leader behind their actions is included in at the
+beginning of Act 1 in the Investigation Overview
+section.
+
+Adventure Hooks
+This adventure is structured to use a specific hook
+to draw in the adventurers. It includes narrative
+elements and lore tying the adventure into
+Bestiarum’s dark world of Doaden. However, to
+run this adventure in your own homebrew setting,
+you can replace the Crusade with the town guard,
+and replace Primus Aquilon with the town mayor.
+
+•   Crusade Summons. Hearing of the party’s
+    skills, Primus Aquilon has requested their
+    assistance with an investigation of a rash of
+    seemingly cult-related murders in the town of
+    New Heldon. This mission can be tied directly
+    into the Path of Penitence campaign system.
+
+
+
+
+                                             Return of the Jailer                                   5
+6   Return of the Jailer
+New Heldon Areas                                          Smidge. The tavernkeeper, ‘One-Eye’ Smidge, is a
+                                                          large and powerful man who wears a black patch
+New Heldon is a large town by Doaden’s
+                                                          covering half his face. Rumor has it that Smidge
+standards. Home to about 3,000 people, it was
+                                                          was once a soldier in the Penitent Crusade. They
+established upon the remains of Heldon, a city
+                                                          say half his face was burned off by an acid-
+from ages past. In many areas, the ruins of ancient
+                                                          spewing wyvern during his time in service.
+infrastructure still clutter the streets, jutting out
+                                                          Regardless of the rumors, Smidge is a terse, no-
+amongst the newer houses like faded bones. A
+                                                          nonsense type, who is one of the few people able
+cliffside cuts across the town’s northeastern edge,
+                                                          to keep the tavern’s rough-and-tumble clientele in
+creating a steep overlook where the old cathedral,
+                                                          check.
+a surviving relic of the past, still stands. The town
+is protected by palisade walls and a well-
+                                                          2. Town Hall
+provisioned guard, which has been able to keep
+external threats at bay and protect the growing           The Town Hall serves as the administrative
+population.                                               building for the local mayor of New Heldon.
+                                                          However, Mayor Rawlig has been ousted
+The following paragraphs provide a summary of             temporarily by Primus Aquilon during the
+the noteworthy places as depicted on Map A:               Crusade’s takeover of the town. Until the
+New Heldon. Each place is marked on the map               conclusion of the investigation, Aquilon has
+and appears in the adventure as part of the               commandeered the offices and kicked out Rawlig
+narrative or during a specific scene. However,            and his staff.
+New Heldon is full of other interesting areas that
+you can improvise. If the party wants to search for       Aquilon. Primus Aquilon is a general of the
+a specific type of vendor or location and you wish        Crusade and commands the detachment of troops
+to allow it, you can mark the location and create         stationed at New Heldon for now. He spearheads
+the place. From general supply stores to guild            the investigation, organizing the Crusade’s efforts
+halls, inns, potion brewers, and more, New Heldon         from the town hall. Ever cunning and distrustful,
+is a large enough town to house it all.                   no one in the town is above his suspicions.
+
+1. Apostle’s End Tavern                                   3. Stonemason Guild Hall
+The Apostle’s End is a run-down tavern serving ale        The Stonemasons Hall includes a building for
+and simple foods like dry hardtack breads and             meetings and a large courtyard for processing
+watery stews of sinewy meat and old vegetables.           mined materials. The guild runs the Dragon’s Eye
+The fare holds little appeal, but it satisfies the        Mine. However, over half the miners were lost in a
+gnawing hunger of its clientele, who often come           tragic cave-in. The surviving members were
+from the dregs of society and have little coin to         unable to clear the rubble and closed the mine,
+spare.                                                    blockading the entrance due to its instability. The
+                                                          closure has caused strife within the guild as the
+                                                          survivors bicker in the wake of the tragedy.
+
+                                                          Gorab. Gorab is the guild master of the
+                                                          Stonemasons. He is usually a trusty and
+                                                          dependable leader but has fallen into drink and
+                                                          misery after the tragic incident at the Dragon’s
+                                                          Eye mine. These days he sits in the Apostle’s End
+
+                                              Return of the Jailer                                            7
+Tavern drinking away his moody and dark                 7. Old Heldon Cathedral
+thoughts.
+                                                        The old cathedral sits atop a mountain cliff at the
+                                                        town’s northern end. Erected ages ago, it
+4. Weaponsmith Shop                                     exemplifies the more spectacular architecture of
+The local weaponsmith sells an assortment of            its time. Now in partial ruin, the local monks led
+well-crafted and reliable weapons, from swords to       by Mercereau work to study and preserve it. The
+arrows. Also, they stock precious jewelry, mostly       cathedral’s wondrous Grand Bell is still held within
+silver.                                                 its southern tower. The enormous bell is made of
+                                                        extravagantly engraved brass, and so heavy that it
+Bjorq. Bjorq is the local master weaponsmith and        can only be rung using a complex system of
+is also trained in whitesmithing. He is the only        pulleys and gears, but the bell has not been used
+artisan in town able to work with jewelry to a high     for decades and the tower has become
+degree and can be consulted for advice about any        increasingly unstable and dangerous to climb.
+silver craft or jewelry during the adventure.               A great stairway ascends the east side of the
+                                                        cliff, also built during the original town’s time ages
+5. Guardsman Barracks                                   ago. Constructed from enormous stones and
+                                                        concrete much more durable than any in the
+New Heldon’s guardsmen both police the town
+                                                        modern day, the stairs have largely survived the
+and defends it against nearby roaming horrors.
+                                                        test of time. The path takes approximately a half
+The barracks is their base of operations, holding
+                                                        hour to scale at a medium pace. Though relatively
+their offices and warehouse for storing armor,
+                                                        safe, the stairway has deteriorated over the ages,
+weapons, ammunition, and other general
+                                                        and loosened stones and gravel pose a tripping
+supplies.
+                                                        hazard for those that travel up and down.
+                                                        Travelers should be cautious in their climb, lest
+Lander. The captain of the guard, Lander,
+                                                        they slip and fall.
+generally ensures the safety of the town.
+However, he has currently been restricted in his
+authority by Aquilon and the Crusade.
+                                                        8. Monastery
+                                                        The monastery was the first building constructed
+6. Dragon’s Eye Mine                                    in New Heldon. It consists of a large chapel where
+                                                        the monks hold religious services for the town, as
+At the end of a dirt path leading through the
+                                                        well as a modest living quarter for Mercereau and
+wooded area north of New Heldon is the Dragon’s
+                                                        his monks. The monastery was built close to the
+Eye mine. It cuts into the cliffs below the old
+                                                        cathedral so that the clergy could visit each day,
+cathedral and is abundant in metals and precious
+                                                        acting as the old structure’s caretakers and
+gemstones. Run by the local Stonemasons Guild,
+                                                        preserving it for ages to come. Over the years, the
+the mine was closed recently due to a disastrous
+                                                        monks have excavated many rooms of the
+tunnel collapse. Ancient records found in the
+                                                        cathedral, recovering old religious artifacts, faded
+cathedral indicate the mine got its name after a
+                                                        records, and tomes of knowledge that survived
+massive emerald was uncovered there, described
+                                                        the ages.
+as having exquisite luster and exceptional clarity,
+leading to a legend that it belonged to a dragon
+                                                        Mercereau. Abbot Mercereau is the head of the
+that died lived in the mountain long ago. The gem
+                                                        monastery and the town’s religious figurehead
+itself has been lost to the ages.
+                                                        who has shepherded its development for many
+                                                        decades. Mercereau works with the monks to lead
+
+8                                            Return of the Jailer
+the monastery’s services as well as study the old
+cathedral and preserve its wonders for
+generations to come. Secretly, Mercereau is the
+cult leader.
+
+9. Mead Hall
+The first citizens of New Heldon apart from the
+monks were its farmers. Standing now at the very
+edge of town, their older area is referred to as
+“Farmtown” and their large mead hall is
+frequently used as a community space for
+seasonal events.
+
+10. Market
+Dozens of merchants peddle their wares, selling a
+variety of goods and equipment. The party might
+find general stores, food, and more here during
+the day.
+
+Other Areas
+You can include any other areas of your own
+creation for the party to explore as well. New
+Heldon is a relatively large town for the world of
+Doaden, and any other armor smiths, general
+stores, guild halls, purveyors of magical items, and
+more can be found here. You can use the town to
+build further adventures or as a hub for the party
+to return to after their adventures.
+
+
+
+
+                                             Return of the Jailer   9
+                 ACT 1: THE INVESTIGATION
+                n Act 1, the party will investigate a     1. Scene Description
+
+
+
+         I
+                series of ritual murders while            A script or brief description will be provided with
+                attempting to identify the leader of      information about the scene.
+                the cultist cabal. Three sacrifices
+                have already occurred, and two            2. Persons of Interest (POI)
+                more will happen during the               Non-Playable Characters (NPCs) are included in
+scenario, at the end of which the Jailer will be          the scenes, the potential suspects of the murders.
+summoned into reality, moving the narrative into          Their descriptions and backgrounds are provided.
+Act 2.
+                                                          3. Real Evidence
+Investigation Overview                                    Some scenes note physical evidence directly.
+The investigation is organized into several scenes        Others are not obviously stated, but the party may
+based on location shown on Map A: New Heldon.             conduct Intelligence (Investigation) checks to
+At each scene, players will find clues related to the     uncover them. You should reveal all clues the
+murders. This section also includes tips on running       players roll high enough to uncover, as listed in
+this adventure like a detective investigation, and        the tables for the scene.
+background notes for you to easily improvise and
+run your scenes.                                          4. Witness Interrogation
+                                                          The party may wish to interrogate NPCs for
+Scene Structure                                           further information. Each NPC’s statements are
+                                                          described in a brief, first-person perspective.
+The scene structure will guide you in playing out         However, feel free to improvise as you roleplay
+the investigation Each scene section will follow          the interaction. Keep in mind that people often
+this format:                                              misstate the truth for various reasons. They may
+    1. A short, scripted Scene Description.               be guilty, but perhaps they lied to hide their
+    2. 2. A list of Persons of Interest (POI) at the      personal matters or for other reasons unrelated to
+        scene.                                            the case.
+    3. 3. A Real Evidence table listing evidence
+        that can be found by investigation.               5. Lies
+    4. 4. A list of Witness Interrogation                 If the party thinks an NPC is lying during an
+        statements that a person of interest may          interrogation, they may make a Wisdom (Insight)
+        say if interviewed by the party.                  check contested by the NPC’s Charisma
+    5. 5. A list of Lies that the witness may make        (Deception) roll. The player should specify what
+        when being interrogated.                          they are suspicious about. For example, if they
+                                                          think an NPC is lying about where they were last
+                                                          night, they might say, “I’d like to see if Gregor is
+                                                          lying about being at the tavern last night.” This
+                                                          limits the information to only topics the party is
+                                                          suspicious about.
+                                                               Finding Truth. If the party determines an NPC
+                                                          is lying, they may make a Charisma (Intimidation),
+
+10                                             Return of the Jailer
+(Persuasion), or (Deception) check to convince the        cultists. Mercereau’s cultists serve the Tormentor
+NPC to reveal the truth. Consider which check is          Cults and pledge their unwavering loyalty to him.
+most effective based on the NPC’s personality and
+circumstances. Showing compassion, threatening,           What Are Their Aims?
+bribing, or presenting counter evidence may               The Tormentor Cults seeks to merge their deity’s
+convince one NPCS while offending another.                bizarre Prison Realm with physical reality. This
+Suggested DC for these checks is 10 (easy), 15            requires the opening of a rift, which may be
+(medium) or 20 (hard). Real cultists should always        accomplished in numerous ways. In this case,
+have a DC 20 threshold to tell the truth. However,        Mercereau wishes to open a powerful rift, capable
+though they may admit their own involvement, no           of manifesting the Prison Lord’s form in the Jailer,
+other cultist than the real leader of the cult should     and so requires a complex and extensive ritual. He
+reveal his identity – Abbot Mercereau!                    has built a Hecatomb; a gigantic stone basin
+                                                          inscribed with ancient runes and hidden it deep
+Tracking Time                                             below the earth in the catacombs below the old
+                                                          cathedral. To energize the Hecatomb, he has filled
+To simulate a detective investigation, you can
+                                                          it with scores of mutilated corpses and tortured
+track the passing hours. You can do this by starting
+                                                          victims. Next, he must complete a series of five
+the adventure at 9:00 AM, and passing time for
+                                                          ritual sacrifices, at the end of which a rift will be
+activities as follows:
+                                                          opened, allowing the corruptions of the Prison
+• Traveling to a location: 0.5 hours.
+                                                          Realm to seep through. From the rift will pour all
+• Speaking with an NPC: 0.5 hours.
+                                                          manner of corruption and hellish influence.
+• Investigating a scene: 0.5 hours.
+• Other activities: your discretion. Be sure to
+                                                          Where & When Does It Occur?
+    track non-quest related tasks such as eating,
+                                                          Mercereau discovered the catacombs hidden
+    relaxing, and sleeping as well.
+                                                          beneath the old cathedral long ago. He secretly
+                                                          constructed the Hecatomb there, and several
+Mystery Revealed                                          weeks ago a fortuitous turn of events instigated
+It is important that you have a sense of the overall      his ritual. Scores of miners working in the Dragon’s
+plot to see how suspects and evidence fit                 Eye Mine, a shaft stretching into the cliffs below
+together. You may need to improvise scenes as             the cathedral, accidentally excavated a tunnel into
+players conduct their investigation. The following        the catacombs. Mercereau’s cult took advantage
+paragraphs will summarize all the information so          of this situation by causing a cave-in and trapping
+you can keep the bigger picture in mind.                  the miners in the tunnels. Then they attacked,
+Additionally, you can find a convenient Quick-View        overpowering the miners, and capturing them
+Table summarizing the persons of interest and             before torturing and murdering them, and piling
+their locations in the section titled Appendix B:         their bodies into the Hecatomb.
+Gameplay Resources.                                           As for the ritual murders, three murders have
+                                                          already occurred at the Stonemasons Hall, the
+Who Are the Cultists?                                     Weaponsmith’s Shop, and the Guardsman
+The mastermind is none other than Abbot                   Barracks sequentially. Shortly after the
+Mercereau. The seemingly benevolent old abbot             investigation begins, the fourth murder will
+fell to corruption long ago and has secretly used         happen at the Mead Hall, and the last murder will
+his position of influence to corrupt many of the          happen in the Market. The completion of the
+young monks and initiate them into his ring of            ritual will result in the Jailer arising from the
+                                                          catacombs where the players will confront it.
+
+                                              Return of the Jailer                                          11
+Why is Mercereau Doing This?
+Mercereau has studied ancient texts for much of
+his life. In his youth he worked as a scribe,
+transcribing old texts recovered from ancient
+archeological sites. Some of these were
+blasphemous, containing dark philosophies and
+spells that opened Mercereau’s eyes to the true
+nature of the world – inherent and inevitable
+suffering. They sparked his interest in the Prison
+Realm and an insatiable thirst for more
+knowledge. The Prison Lord began to whisper
+between the realms to Mercereau, promising him
+great power and enlightenment if he completes
+the ritual and opened a great rift to the Prison
+Realm. Now finally, all of Mercereau’s
+preparations have come to fruition. He has
+constructed the Hecatomb, filled it with the
+requisite flesh materials, and need only complete
+the five blood sacrifices to thin the veil and
+achieve his goals.
+
+Final Investigation Notes
+The last notes you should keep in mind while
+running this adventure are related to creating a
+satisfying story. Investigations rely on a balance of
+hiding and revealing evidence. What happens for
+each party can vary, so improvisation is required.
+Try to make sure your players always have a clue
+to follow but allow them to deduce the truth
+themselves. You can also make up some of your
+own suspects, clues, and red herrings to make the
+story your own.
+
+Guiding Players. Your party might feel lost at
+times. Provide hints as needed so that they are
+engaged and have fun. However, the scenario will
+come to its natural end no matter what, so they
+will not miss out on the narrative in any case.
+
+
+
+
+12                                             Return of the Jailer
+Investigation Scenes                                     Keep in mind the overall narrative and use this
+                                                         Quick-View Chart as reference. It notes the scene
+Now that you know about the cult and ritual
+                                                         number, persons of interest found there, the
+sacrifices, you are ready to read the investigation
+                                                         numbered area of the map for the location, and
+scenes. The following section lists the scenes in
+                                                         brief overview about what the Person of Interest
+the order the party is most likely to experience
+                                                         may say.
+them. However, they may follow a different path.
+
+
+
+
+                                             Return of the Jailer                                       13
+14   Return of the Jailer
+Scene 1) Apostle’s End Tavern                             investigation. Pavel is also helping Mercereau to
+The party begins this scenario in the Apostle’s End       conduct the ritual murders.
+Tavern (Map A, area 1). The young scribe, Pavel,
+will approach them carrying a letter from Primus          Real Evidence
+Aquilon, commander of the Penitent Crusade                No real evidence can be found here.
+regiment stationed at New Heldon.
+                                                          Witness Statements
+Scene Description                                         The Murders. I don’t know anything about them. I
+Read the opening script in the Introduction               heard a rumor that a dark cult is causing them. I
+section of this module.                                   hope the culprits will be caught quickly.
+
+Person of Interest: Pavel
+The young scribe is a novitiate of the monastery
+and part of Mercereau’s cult. Pavel is naive and
+Mercereau has mentored him closely, using their
+close relationship to convince him that aligning
+with the Prison Lord will bring them
+enlightenment and freedom. Pavel has been
+assigned by Mercereau to assist Aquilon with any
+tasks and errands the Crusade requires. He works
+as a spy for Mercereau, serving Aquilon during the
+day and returning to the abbey at night where he
+provides Mercereau with updates on the
+                                              Return of the Jailer                                            15
+Injured Hand. My hand? Oh, you mean this? It is           Other Notes
+nothing, I am clumsy. I cut myself with a metal           At the end of this scene, Pavel will lead the party
+quill as I was taking dictations from Primus              to the Town Hall to meet with Primus Aquilon. You
+Aquilon. I am acting as his scribe during his stay.       can conduct the interrogation while they walk,
+                                                          and once they finish speaking, move on the Scene
+Why so Nervous. I’m not very brave. Primus                2. After this scene, if Pavel is alive, he can be
+Aquilon is intimidating, the threat of the Penitent       found at the Town Hall during the day and at the
+Crusade killing innocent civilians during their           Monastery at night, unless a murder occurs at that
+investigation hangs over the town, and the recent         time, in which case he would be at the murder
+murders have been terrifying. There is much to be         scene.
+afraid of these days.
+
+Lies
+Guilty. Pavel was directly involved in the killings.
+He is not good at handling stress. If confronted
+with extreme force or authority, he might reveal
+this truth, break down and cry, truly remorseful
+for his actions. However, Pavel will never give up
+the name of his leader as he genuinely believes
+Mercereau’s actions are justified. Instead, he will
+attempt to deceive the party, giving them the
+name of an innocent party such as Gorab, the
+Stonemasons Guild Master.
+
+Injured Hand. The bandages extending up into
+Pavel’s sleeve indicate a much more severe injury
+than a quill slip. Pavel was about to stab the third
+victim in the Guardsman’s Barracks when the man
+flailed out at him, sending the knife flying and
+slashing the skin on Pavel’s hand and arm.
+
+
+
+
+16                                             Return of the Jailer
+Scene 2) Town Hall                                        Person of Interest: Aquilon
+                                                          Primus Aquilon is a general in the Crusade and
+The party heads to the Town Hall after meeting
+                                                          commands the soldiers stationed at New Heldon.
+with Pavel (Map A, area 2). In the future, Pavel will
+                                                          He is sharp and fit for his age, maintaining himself
+always be in the Town Hall if they wish to speak
+                                                          with a rigorous and disciplined routine. Aquilon
+again.
+                                                          possesses a fierce intelligence and efficient
+                                                          ruthlessness. Aquilon is incredibly busy and speaks
+Scene Description
+                                                          quickly and to the point, sparing little time or
+Read the following script when the party finishes         words unless essential. He tracks the investigation
+their interrogation of Pavel or heads to the town
+                                                          but has no time to become involved in the
+hall.
+                                                          minutiae of the case and has thus hired the party.
+                                                          Aquilon can always be found in the town hall if the
+                                                          party wishes to speak again.
+
+                                                          Real Evidence
+                                                          No real evidence can be found here.
+
+
+
+
+                                              Return of the Jailer                                         17
+Witness Statements
+Investigating Murders. The Crusade is
+investigating three recent murders which have
+caused unrest in New Heldon. You will need to
+conduct an investigation and report back to me
+with what you find. We suspect the involvement
+of cultists, as the victims’ bodies were all
+mutilated and tortured, with ritual circles painted
+in blood nearby. The objective of your assignment
+is to identify the cult leader and stop whatever
+nefarious plans they have concocted.
+Unfortunately, we cannot rely on the town guard.
+They have proved inept, attempting to bury
+evidence to maintain peace, and hindering the
+investigation. I have no time to visit the scenes
+myself, and so this task falls squarely on you. As a
+reward, you will each receive a retainer of 20 gold,
+plus an additional 80 gold when the investigation
+concludes.
+
+First Victim. Her body was found eight days ago in
+the Stonemasons Hall. Unfortunately, by the time
+we arrived, the scene was already cleaned up, so
+we could not collect evidence. You might visit the
+scene to see if you can find any additional
+witnesses, or you may visit the monastery. The
+local monks handled the dead bodies, perhaps
+they can tell you more.
+
+
+
+
+18                                           Return of the Jailer
+Second Victim. He was the weaponsmith’s                 Investigation & Torture. I am giving you authority
+apprentice, found in their shop five days ago           to take any action necessary in resolving this case.
+under similar circumstances to the first victim.        You may interrogate anyone you find in your
+Again, the scene of the crime was erased before         investigation, and threaten, torture, or even kill
+we arrived. I would recommend visiting the scene        them without penalty. If you suspect someone to
+of the murder to find witnesses, or the monastery       be a cultist and do not want to get your hands
+to ask about the body.                                  dirty, notify me and we will torture them to
+                                                        extract a confession. Visit us afterwards for any
+Third Victim. He was found in the town guards’          information they share with us.
+own barracks shortly after we arrived. This is the
+only scene we have been able to preserve. My            Lies
+soldiers and I arrived in town yesterday and I sent     Aquilon does not lie and has nothing to hide.
+my men to secure the scene. I have cordoned off
+the area to preserve the evidence. As you can
+understand, I am displeased with the local guard.
+Their ineptitude has made these matters much
+worse. Moreover, the guard captain, Lander, has
+been defiant towards my soldiers. We have set an
+example of some of his men by torturing them in
+the town square, to set fear among the populace
+and encourage anyone to step forward who might
+have knowledge of the murders. I recommend you
+visit the barracks to view the body and ritual
+scene. You will likely find the guard captain,
+Lander, skulking about as well.
+
+Abbot Mercereau. You should speak with
+Mercereau when you have time. He was the one
+that reported the ritual murders to the Crusade,
+dispatching a courier to us after the body of the
+second victim was found. Mercereau has been
+pivotal in establishing New Heldon and overseeing
+its growth for many decades. He is a caretaker and
+sees to the welfare of the town. He is also a
+knowledgeable scholar. If you seek information
+about the town, he may be a vital resource. He
+also studies many old texts and documents and
+may have information about the cult. You should
+be able to find Mercereau in the old cathedral
+                                                        Other Notes
+where he oversees its preservation, or in               Pavel’s Hand. If the players ask Aquilon about
+monastery where he sleeps. Without his request          Pavel’s hand, he should tell them he doesn’t know
+for our aid, we might not have arrived in time to       how it happened. Pavel’s hand was bandaged
+stop this cult.                                         since before he took him as an errand boy.
+
+
+
+                                            Return of the Jailer                                          19
+Crusade Torture. After speaking with Aquilon, the     Ending Script. After the party finishes speaking
+party can request that the Crusade conduct            with Aquilon, read this script. It neatly summarizes
+torture sessions to extract confessions of truth      the information that they should have received
+from any suspects. As you roleplay Aquilon, have      during the meeting, as well as hints at the
+him explain the process to the party.                 potential locations the party can visit to begin
+                                                      their investigation.
+
+
+
+
+20                                         Return of the Jailer
+Scene 3) Stonemason’s Hall
+The Stonemason’s Hall (Map A, area 3). is the site
+of the first murder, which happened eight days
+ago around midnight. A recent cave-in at a nearby
+mine caused the loss of half the guild members.
+The survivors have closed the mine for now.               Person of Interest: Niles
+Disheartened and out of work, most members do             The young man is the guild apprentice, Niles. The
+not come around anymore, leaving the premises             night of the murder, Niles was present at the Hall,
+relatively empty.                                         where he met with Alonde, the daughter of the
+                                                          Stonemason guild master, Gorab’s. The couple
+Scene Description                                         were meeting for a midnight tryst. They would
+Read the following script the first time the players      often come to the hall late at night when it was
+visit this location.                                      empty, so as not to be discovered by any
+                                                          wandering eyes. On the night in question, the
+                                                          couple arrived shortly before midnight, when they
+                                                          suddenly heard three men enter the hall, dragging
+                                                          something heavy. In the dark, they could not
+                                                          make out any details, however, these were three
+                                                          cultists dragging a bound and gagged woman,
+                                                          their victim. Niles and Alonde assumed the men
+                                                          were guild members. Not wishing to be seen and
+                                                          have their tryst discovered, the young lovers
+                                                          quickly ran out.
+
+                                              Return of the Jailer                                        21
+The morning after the murder, a guardsman sent               Why is the Guild Empty? Three weeks ago, there
+by Lander came to wake Niles up from his home.               was a terrible cave-in at the Dragon’s Eye Mine.
+Niles was called in to clean the blood. By the time          The guild lost half the members in the collapse.
+he arrived, the victim’s body had been removed.              Gorab ordered the cave to be closed for now.
+He scrubbed the floors for hours with lye to                 With no work, most of the guild stay home or in
+remove the stains, and his hands are still red and           the tavern drinking.
+sore days later.
+                                                             Lies
+Real Evidence                                                Midnight Trysts. Niles is lying about not being at
+An investigation of the area or persons of interest          the hall at night. He was there at midnight to meet
+will reveal the following. Ask the party to make a           with Alonde, Gorab’s daughter for a secret tryst.
+Wisdom (Perception) check. They find all items on            Niles hides the truth because he fears Gorab will
+the following Perception Check table which they              kick him out of the guild. This may be an innocent
+roll high enough for.                                        lie, but if the players become suspicious about
+                                                             Niles and report him to Aquilon, he will be
+                                                             gruesomely tortured and die, and all the players
+                                                             will gain from this the knowledge of their love
+                                                             affair. If this happens, the party will learn quickly
+                                                             that they should consider their options carefully
+                                                             before involving the Crusade.
+
+
+
+
+Witness Statements
+First Victim. I did not see the murder. I was woken
+up the morning after by a guard, who brought me
+to the guild hall very early. The body was already
+gone when they called for me. When I arrived,
+guild master Gorab, and Captain Lander of the
+town guard were here. Lander ordered me to
+clean the blood before anyone else saw, and
+Gorab agreed. They said they didn’t want a panic
+to start. I was sound asleep the whole night
+before and was very surprised by what happened.
+I was nowhere near the area at midnight, so
+there’s no way I could know anything at all about
+the murder.
+
+Red Hands. I’ve been cleaning the floors with lie,
+to get rid of all the blood. It took days to get it all
+out, and my hands are sore and burnt.
+22                                                Return of the Jailer
+Scene 4) Weaponsmith’s Shop
+The Weaponsmith’s shop (Map A, area 4), is the
+site of the second murder. It is owned by Bjorq, a
+master craftsman who specializes in weapons and
+jewelry. He is known as a whitesmith, someone
+capable of working with silver, precious metals,
+and jewels. Bjorq usually oversees two
+journeymen and one apprentice. Unfortunately,
+the apprentice, Rost, was murdered five days ago
+in the shop.
+
+Scene Description
+Read the following script the first time the players
+visit this location.
+                                                          Person of Interest: Bjorq
+                                                          The bald man is Bjorq, the master weaponsmith
+                                                          who has owned the shop for several years. On the
+                                                          morning of the murder, Bjorq opened the shop to
+                                                          find his apprentice Rost had been murdered in a
+                                                          ritual sacrifice. Bjorq notified the guards and the
+                                                          captain, Lander, quickly came, closing the area
+                                                          and ordering the body removed. Lander stated he
+                                                          wanted to prevent the townsfolk from panicking,
+
+                                              Return of the Jailer                                         23
+so he wanted all the evidence quickly removed.              Silver Dagger. Players may recover an ornate
+Bjorq agreed as he wanted to get his business up            dagger at the crime scene of the fourth murder. If
+and running again as quickly as possible.                   they take it to Bjorq to identify it, Bjorq will
+                                                            confirm that the dagger belonged to Stonemason
+Witness Statements                                          Guild Master Gorab. Bjorq knows this for a fact
+Second Victim. I found my apprentice, Rost, in the          because Gorab hired him to make the handle,
+morning five days ago. Rost usually opens the               stating that it was a family heirloom. Bjorq crafted
+shop to prepare the coals for the furnaces before           it himself and remembers the delicate labor that
+we arrive. I arrived around 7:00 AM to find Rost            went into detailing the depicted badger, which
+impaled on a large metal spike. His body was                was Gorab’s family crest.
+covered in slash wounds and blood was dripping
+to the floor. On the floor, the blood had been
+drawn into a large circle with odd symbols around
+it. I was too stunned to do anything, but my two
+journeymen arrived next, and I sent one to fetch
+the guards. Lander, the guard captain, and a few
+of his men responded, closing the shop and
+fetching some monks from the local monastery
+who took away the body. We spent the day
+cleaning the shop and reopened the next day.
+
+Lies
+Bjorq tells the truth and has nothing to hide.
+
+Other Notes
+Silver Necklace. If the party shows Bjorq the silver
+bead found in the Guardsman’s Barracks, Bjorq
+should give them a lead. He did not make this
+piece of jewelry and doesn’t know about it
+specifically, but it appears to be a bead from a
+prayer rosary. Perhaps someone at the monastery
+can tell them more.
+
+
+
+
+24                                               Return of the Jailer
+Scene 5) Guardsman’s Barracks
+The Barracks (Map A, area 5) is the site of the
+third murder. Usually occupied by several
+guardsmen, it was empty and cordoned off by the
+Crusade after Aquilon arrived in New Heldon.
+While the Crusade was arriving, all the guards left
+the barracks to scurry about town and try to show
+a good face, leaving the building empty. During
+this time, some cultists snuck inside and
+conducted the murder.
+
+Scene Description
+Read the following script the first time the players
+visit this location.
+
+
+
+
+                                              Return of the Jailer   25
+Person of Interest: Lander
+By Aquilon’s order, only agents of the Penitent
+Crusade are allowed inside the barracks. The
+captain of the town guard, Lander, stands outside
+smoking a pipe and talking with several of his
+men. Lander is very egotistical and inept. His
+actions have hindered the investigation of the cult
+greatly, but this is out of incompetence rather
+than any spite or guilt. He ordered both the first
+and second murder scenes to be cleaned quickly
+without any proper documentation or
+investigation of the area – making it difficult to
+collect evidence. His main priority has always been
+to avoid causing a scene, to keep the town from
+panicking. He worries that once the townsfolk
+start becoming afraid, they begin to get unruly
+and question the guards and their authority. So,
+instead of resolving these issues, he has
+attempted to bury them.
+
+Real Evidence
+An investigation of the area or persons of interest
+will reveal the following. Ask the party to make a      Witness Statements
+Wisdom (Perception) check. They find all items on       First Victim. She was a pretty one. I don’t know
+the following Perception Check table which they         her name, but she was a seamstress with a stall
+roll high enough for.                                   over in the market. In the early morning, one of
+                                                        my guard patrols found the main door to the
+                                                        Stonemasons Hall ajar and went to inspect the
+                                                        area. They found the murder scene and notified
+                                                        me. I arrived with two more guards and after
+                                                        seeing the scene, I sent for both Stonemason
+                                                        Gorab since the murder was on guild grounds, and
+                                                        for Abbot Mercereau, as the monks generally
+                                                        handle our dead. When Gorab and Mercereau
+                                                        arrived, we discussed what to do next. I wanted to
+                                                        lock down the area and conduct a full
+                                                        investigation. But Gorab requested to keep the
+                                                        situation private, as the Stonemasons Guild had
+                                                        been through too much already with the cave-in
+                                                        at the Dragon’s Eye Mine. So, I agreed and let the
+                                                        monks remove the body, and we sent for a guild
+                                                        apprentice to clean the mess.
+
+
+
+26                                           Return of the Jailer
+Second Victim. He was the weaponsmith’s                     Other Notes
+apprentice. We came to the scene after a crowd              Silver Necklace. A monk named Hyle, one of the
+had already gathered. Again, I wanted to lock               cultists, was murdering the victim when the victim
+down the area and preserve the evidence for a full          struck out in defense, tearing at Hyle’s prayer
+investigation. But Bjorq, the shop owner, insisted          necklace. The silver prayer bead can be found at
+that it would be bad for business, so I ordered the         the scene. The party can gather more information
+monks remove the body and let him clean the                 about it from the master whitesmith, Bjorq, at the
+blood.                                                      Weaponsmith Shop, or spot the missing bead
+                                                            around Hyle’s neck at the monastery.
+Third Victim. I don’t know who he is. I haven't
+even been allowed into my own barracks to look.
+My guards and I were all busy at the time of the
+murder, trying to make sure things didn’t fall apart
+with the Crusade’s arrival. People get scared when
+the Crusade appears. It is not easy to handle a
+town of terrified people. Nobody was at the
+barracks at the time. From my understanding, one
+of the Crusade soldiers visited the Barracks and
+found the scene. They blocked us out afterwards,
+so we are out here.
+
+Aquilon. I don’t see why people respect him so
+much. He is arrogant and ungrateful. This
+investigation would be quicker if his solders
+cooperated with us. Aquilon complains about me
+destroying evidence, but this is my town, and my
+methods have worked for years. I have always
+kept my town safe.
+
+Lies
+Incompetence. Lander tries to play down his part
+in the loss of critical evidence. In both the first and
+second murder, he was the one who suggested
+removing the body and wiping up the blood as
+quickly as possible. He wanted to hide these
+events from the public as he does not like trouble
+and rumors spreading in his town. Now, Lander
+wants to hide his role in the critical loss of
+evidence. He does not want anyone to think he
+was the one who bumbled the investigation and
+has been chastised for his incompetence by
+Aquilon already.
+
+
+
+
+                                                Return of the Jailer                                       27
+28   Return of the Jailer
+Scene 6) Apostle’s End Tavern
+The Stonemasons Guild Master, Gorab, can be
+found in the tavern (Map A, area 1) drinking and
+heavily intoxicated at any time of day.                   Person of Interest: Gorab
+                                                          At a loss for how to manage his deteriorating guild
+Scene Description                                         and feeling responsible for the deaths of so many
+Read the following script the first time the players      of his men, Gorab drinks constantly and is in a
+return to this location after learning of Gorab’s         state of deep intoxication all the time.
+location.
+                                                          Real Evidence
+                                                          No real evidence can be found here.
+
+                                                          Witness Statements
+                                                          First Victim. I was at home when I was awakened
+                                                          by a guard sometime in the night. I don’t know
+                                                          when, but it was still very dark. I went with the
+                                                          guard to the Stonemasons Hall. It was very dark so
+                                                          I couldn’t see much, but I remember there was
+                                                          blood everywhere. I don’t know who the victim
+                                                          was, but Lander said it would be best to clean up
+                                                          the scene as quickly as possible, and I agreed with
+                                                          him. Lander said it would be best for the guild if
+                                                          the public did not find out this happened. He
+                                              Return of the Jailer                                        29
+called over the monks to take away the body, and         Other Notes
+then to fetch one of our apprentices, Niles, to          Silver Dagger. If the players confront Gorab with
+clean the blood.                                         the silver-handled dagger found at the fourth
+                                                         murder scene, he will be surprised, and say that
+Dragon’s Eye Collapse. Three weeks ago, there            he has been looking for it. The dagger was a family
+was a tunnel collapse at the Dragon’s Eye Mine.          heirloom. Its handle had worn out, so he had the
+Over half the guild were buried alive. I was not         weaponsmith, Bjorq, craft a new handle for him in
+there that day. The tunnels are too unstable and         the heraldic crest of his family, a badger.
+are not safe, so I ordered the mine to be closed.
+One miner, Dolan, survived the collapse. He says
+on the day of the accident, they excavated a new
+tunnel, and they heard voices in the dark before
+the collapse. I think Dolan has lost his mind. He
+keeps going back to the mine and trying to dig out
+the others. He thinks they might still be alive in
+there. If you want to speak with him, you can visit
+the mine.
+
+Lies
+Drunk. Gorab tries to cover up the fact that he
+was heavily intoxicated at the time of the first
+murder. He was exhausted from his burden as the
+guild leader and dealing with the aftermath of the
+disastrous cave-in. In his recounting of the events,
+Gorab remembers little specific detail and has
+almost no sense of time. He blames it on being
+tired, but he was in fact drunk. If pressed, he will
+quickly burst out in anger about it and tell the
+truth that he was drunk at the time.
+
+
+
+
+30                                            Return of the Jailer
+Scene 7) Dragon’s Eye Mine
+The Dragon’s Eye Mine (Map A, area 6),
+has been boarded up and is no longer accessible.
+However, the party can visit the area outside of
+the mine.                                                 Person of Interest: Dolan
+                                                          Dolan is a mentally distressed survivor of the cave-
+Scene Description                                         in. He keeps returning to the mine to put his ear
+Read the following script the first time the players      to the entrance and listens intently for hours at a
+come to this location.                                    time. He does not seem to have all his wits about
+                                                          him, talking in broken, disorderly sentences, and
+                                                          muttering imperceptibly under his breath.
+                                                          However, he has enough wits left about him to
+                                                          hold a broken conversation with the party. As you
+                                                          roleplay Dolan, try to capture a crazed way of
+                                                          speech that makes sense half the time and is utter
+                                                          nonsense the other half.
+
+                                                          Real Evidence
+                                                          An investigation of the area or persons of interest
+                                                          will reveal the following. Ask the party to make a
+                                                          Wisdom (Perception) check. They find all items on
+                                                          the following Perception Check table which they
+                                                          roll high enough for.
+
+                                              Return of the Jailer                                         31
+                Witness Statements
+                Cave-In. The tunnels! A rumbling! Cave-in! We
+                went deep. Deep in the dark. Very dark. Voices.
+                Voices in the dark, they call, again and again.
+                Chanting. Whispering. Voices! What were they
+                saying? They still call. Here, can you hear it?
+                Listen, listen to the rocks. Can you hear it? They
+                are in there. Still there. Got to get them out. Still
+                alive in there!
+
+                Lies
+                Deranged. Dolan tells no lies, but he is deranged
+                and has lost his mind. He really did hear voices, or
+                at least honestly believes he heard them.
+
+                Other Notes
+                Listen to the Rocks. If the players listen to the
+                rocks, they will hear nothing out of the ordinary. It
+                appears that whatever Dolan is hearing is in his
+                head. However, this is not the truth! Although
+                Dolan seems crazy, he really did hear voices in the
+                tunnels before the collapse incident. They were
+                Mercereau’s cultists performing an eerie chant
+                before they were discovered and attacked. Dolan
+                didn’t see the cultists, but he heard their chanting,
+                and still remembers their voices clearly.
+
+
+
+
+32   Return of the Jailer
+Scene 8) Old Heldon Cathedral
+Abbot Mercereau can be found hanging about the
+old cathedral (Map A, area 7) during the day or
+resting at the monastery at night. Mercereau and
+a group of monks work in the cathedral,
+preserving it and searching for any old records
+they can find.
+
+Scene Description
+Read the following script the first time the players
+come to this location.
+
+
+ You make your way up a stairway ascending                Person of Interest: Abbot Mercereau
+ the cliffs overlooking New Heldon, taking a              Mercereau is the local abbot and leader of the
+ moment to catch your breath at the plateau,              monastery. He has been pivotal in the
+ where the famous old cathedral towers above,             establishment of New Heldon over the last forty
+ the structure’s enormous walls wondrous                  years. However, he is secretly the cult leader.
+ even in their ruinous state. You make your
+ way inside through a fallen arched doorway
+                                                          Real Evidence
+ and into a spacious nave. As you step through            There is nothing to be found in this scene.
+ the grand entrance, you find the high domed
+ ceiling pocketed with holes, allowing
+
+                                              Return of the Jailer                                          33
+Witness Statements                                      Tormentor Cults. Based on the mutilation of the
+First Victim. I came to collect the body. Her name      bodies, I suspect the Tormentor Cults at hand. This
+was Yanna. She had a small shop selling garments        cult has plagued the realm for centuries, always
+in the market. She was a hard worker and always         working in the shadows. From my research, they
+devoted to her prayers. Captain Lander sent for         worship an entity known as the Prison Lord and
+us, and we removed the body per his orders. We          are all driven by some deranged madness. As for
+burned the body to purge the taint of the cult.         the purpose of their ritual, I know little. I am afraid
+                                                        I am not an expert on the occult.
+Second Victim. Like the first victim, we removed
+the body and burned it after the guards notified        Lies
+us. I did not know the boy. After the second            The Mastermind. Mercereau is the cult leader. He
+murder, I sent a letter to the Crusade requesting       should act as a kindly old man, helping the party in
+their help. I only wish I had done so sooner.           any way he can, to cover his tracks. The reason
+Perhaps we could have prevented the other               Mercereau sent the letter to the Crusade’s was
+murders.                                                because he knew word about the murders was
+                                                        spreading, and wanted to ensure he was not
+                                                        suspected. Mercereau should always act innocent
+                                                        and take the party’s accusations seriously, even if
+                                                        they suspect another monk. If a monk is revealed
+                                                        as a cultist, Mercereau should act devastated and
+                                                        surprised that the corruption could run so deep.
+
+                                                        Head of the Snake. If the players suspect
+                                                        Mercereau and report him to Aquilon before the
+                                                        conclusion of Act 1, you should craft a satisfying
+                                                        end. Perhaps they group together to confront him,
+                                                        and he gives an ominous, fanatical monologue.
+                                                        Regardless of what happens, his followers will
+                                                        take his place and ensure the ritual’s completion,
+                                                        so the story will continue.
+
+
+
+
+34                                           Return of the Jailer
+Scene 9) Monastery
+In the monastery (Map A, area 8), the party can
+find Hyle, a monk who is secretly one of the
+cultists behind the murders. The monks here can
+also direct the players to the old cathedral if they
+are looking for Mercereau.
+
+Scene Description
+Read the following script the first time the players
+come to this location.
+
+                                                          Person of Interest: Hyle
+                                                          Hyle the monk is a secret cultist. He has been at
+                                                          each murder scene. While attacking the first
+                                                          victim in the Stonemasons Hall, the victim flailed
+                                                          out at him and tore off a bead from his prayer
+                                                          rosary necklace. The blood-splattered bead can be
+                                                          found as a piece of real evidence at the scene.
+
+                                                          Real Evidence
+                                                          An investigation of the area or persons of interest
+                                                          will reveal the following. Ask the party to make a
+                                                          Wisdom (Perception) check. They find all items on
+
+                                              Return of the Jailer                                         35
+the following Perception Check table which they
+roll high enough for.
+
+
+
+
+                                                            Progressing the Murders. Acquiring this note will
+                                                            trigger the events leading to act 2. The fourth
+                                                            murder will occur the night after the party finds
+                                                            this note, and the fifth will happen at noon the
+                                                            day after. See Scene 10 for more details.
+
+Witness Statements
+Murders. Hyle should be able to inform the party
+of everything that Abbot Mercereau discusses in
+the old cathedral. If the party is looking for
+Mercereau, he can direct them to the cathedral,
+where Mercereau can usually be found taking care
+of the old structure.
+
+Lies
+Cultist. Hyle is a cultist and has assisted in all three
+murders. While attacking the third victim in the
+Guardsman’s Barracks, he flailed out at Hyle and
+tore at his silver prayer necklace, causing one of
+the links to drop to the ground. The victim’s blood
+splattered all over the necklace, and though Hyle
+cleaned it thoroughly, the bead is still missing.
+
+Other Notes
+The Necklace. Hyle should get defensive if asked
+about his necklace. If he knows the party noticed
+it, Hyle should refuse to let the party look at it
+closely, tucking it under his robes to hide it.
+
+Cult Plans. Hyle carries a parchment note in his
+pocket with the details of the next murder. Hyle
+will guard it with his life, to prevent the party from
+taking it at all costs. It can only be acquired if the
+party forcibly restrains or kills Hyle and takes it
+from him, or if they order him to be tortured by
+the Crusade. The note reads:
+36                                               Return of the Jailer
+Scene 10) Mead Hall                                         If the party heads to the mead hall before
+The large mead hall (Map A, area 9) is a gathering      12:00 AM, they may set an ambush beforehand.
+place after a long day’s work, but also serves as a     The cultists should carry out the ritual no matter
+community space for seasonal events. The hall is        what happens. In a desperate action, one cultist
+large, with several tables and a wide hearth. The       will always kill the victim with a thrust of a dagger
+roof is straw, and the walls made of simple timber.     so that the victim’s blood spills to the ground. In
+The party should visit here leading up to the           his last moments, the Cultist will draw a hasty
+fourth murder. However, depending on their              circle on the ground. The ritual will be
+investigation, they may arrive before, during, or       satisfactorily completed no matter what point it
+after the murder has taken place.                       was interrupted, so long as the victim died.
+    The sacrifice will occur at 12:00 AM in the             If the party did not make it to the mead hall by
+morning, the night after they speak to Hyle in the      12:00 AM, the ritual would have been completed
+monastery. Three cultists will sneak into the hall      fully by the time of their arrival. The party finds
+carrying a bound and gagged victim to conduct the       only the mess remaining at the scene.
+ritual. The party can learn of the location by the
+scroll carried by Hyle. Alternatively, if the party
+never went to the monastery or did not get a hold
+of the scroll, a Penitent Crusade soldier should
+come and find them around 12:30 AM, telling
+them a fourth murder victim has been found in
+the mead hall.
+
+
+
+                                            Return of the Jailer                                           37
+Scene Description
+Describe the mead hall depending on the time the        Final Murder Note. If any cultist is killed or
+party arrives. If they arrive before 12:00 AM, the      captured, he will be carrying a note regarding the
+hall is dark and empty. If they arrive at 12:00 AM      next murder. Alternatively, if the ritual is already
+to 12:30 AM they should see the three cultist           completed, you should get the note to the party
+monks in the process of murdering the victim. If        during their investigation the following day. They
+they arrive after 12:30 AM, the ritual will have        might succeed in identifying a cultist and having
+been completed and they will only find the              them tortured – in this case have that cultist
+victim’s mutilated body with a ritual circle drawn      carrying the note. Alternatively, if none of their
+below him in blood. By this time the Crusade            investigations prove fruitful, perhaps the Crusade
+would have secured the premises, and several            captures and tortures a cultist on their own and
+soldiers may be posted up around the area.              gives the party the note, which they found on the
+                                                        cultist’s body. It reads as follows.
+Person of Interest: Cultist Monks
+The three cultists are all monks. They should be
+Hyle, Pavel, and a third that the party has not seen
+yet. If Hyle or Pavel have been unmasked and
+captured or killed already, they should be
+replaced by other monks of your own creation.
+
+
+
+
+Real Evidence
+Silver Dagger. Players may recover an ornate
+silver dagger at this crime scene. Describe it
+embedded in the victim’s flesh. It has a unique
+handle shaped into a badger (this is the heraldic
+crest of Gorab the Stonemason guild master). The
+cultists stole the dagger and used it in the murder
+to frame Gorab, drawing the investigators’
+attention away from themselves. The party can
+learn more about the dagger by taking it to Bjorq
+the blacksmith, who is the only person in town
+with the expertise to work with fine silver and
+jewelry and weaponry. They can also bring it to
+Gorab for more information.
+
+38                                           Return of the Jailer
+Scene 11) Market
+Dozens of merchant stalls are set up in a small
+district of the town, the market (Map A, area 10).
+The fifth and final murder will take place here in
+broad daylight. The party can arrive before or
+during the murder but will not have control to
+stop it. Allow them to wrap up any investigations
+or interrogations and then head to the market
+area. They can search the area, attempt to set up
+an ambush, or take any other actions they wish.
+However, play out the murder scene regardless of
+what they do. Three cultists will again be working
+together.
+
+Scene Description
+If the players are in the market and on alert for
+the ritual around the time it is set to take place,
+read the following script.
+
+
+
+
+                                               Return of the Jailer   39
+Person of Interest: Cultist Monks
+The three cultists are all monks. They should be
+Hyle, Pavel, and a third that the party has not seen
+yet. If Hyle or Pavel have been unmasked and
+captured or killed already, they should be
+replaced by other monks of your own creation.
+
+
+
+
+Real Evidence
+No additional evidence can be found here.
+
+Other Notes
+Act II. This is the last scene before Act II, where
+the party will confront the fiends summoned by
+the ritual and close the rift that has opened to the
+Prison Realm deep within the catacombs below
+the old cathedral. Once this scene is complete, the
+party should rush to the cathedral, and you can
+start the next act.
+
+
+
+
+40                                           Return of the Jailer
+Return of the Jailer   41
+42   Return of the Jailer
+                             ACT 2: THE JAILER
+                  nce the players visit the fifth and      Resting. Allow the party to take short rests during
+
+
+
+     O
+                  final murder scene, Act 2 will           this act. Combat will test them to their limits, and
+                  begin. Allow them to apprehend           they will need to recuperate. Do not allow them to
+                  the three cultists by subduing or        take any long rests.
+                  killing them. Then, the party should
+                  head back to the old cathedral           Ruined Cathedral
+where the commotion is evident. Act 2 will
+                                                           As the party arrives at the ruined cathedral, they
+culminate in a showdown with the cult and the
+                                                           will be forced to confront the fiends spilling forth
+fiends they have summoned in a high stakes battle
+                                                           from the rift opened by the cultists far below in
+to close a rift to the Prison Realm which has been
+                                                           the catacombs. At one end of the cathedral is the
+opened in the catacombs below the old cathedral.
+                                                           broken grand bell, which has fallen to the ground
+When the party heads to the old cathedral, read
+                                                           as the tower collapsed. At the other end is a
+this script.
+                                                           gaping maw opened into the earth, from which
+                                                           the fiends spill, preparing to flood the town of
+                                                           New Heldon. The cathedral is represented by Map
+                                                           B: Ruined Cathedral.
+
+                                                           Map Areas
+                                                           The following areas are represented on Map B:
+                                                           Ruined Cathedral.
+
+                                                           1) Grand Entrance
+                                                           A gigantic hole has appeared, the floor collapsing
+                                                           into an utterly dark and seemingly bottomless pit.
+                                                           Fiends are crawling out of this pit as the party
+                                                           arrives.
+
+                                                           2) Gaping Maw
+                                                           The front archway to the cathedral lies in ruins.
+                                                           The party enters the map from here.
+
+                                                           3) Descending Stairway
+                                                           A collapsed wall leads to the cathedral garden,
+                                                           where a small stairwell descends into darkness.
+                                                           This stairwell can be taken to reach the next part
+                                                           of the adventure, after the encounter in the
+                                                           cathedral ends.
+
+
+
+
+                                               Return of the Jailer                                            43
+44   Return of the Jailer
+Encounter
+This encounter occurs in waves with enemies
+crawling out of the pit at the start of every third
+combat round. Place the enemies for Wave 1 on
+round 1, Wave 2 on round 4, and Wave 3 on
+round 7. If all enemies on the map are defeated,
+spawn the next wave immediately.
+
+
+
+
+                                                          Ending the Encounter. When the encounter ends,
+                                                          read this script.
+
+
+
+
+                                              Return of the Jailer                                    45
+The Descending Passage
+                                                       1) Cathedral Stairway
+The players next descend into a series of caverns
+                                                       A stairwell descends from the area above in the
+below the cathedral. Read this script when the
+                                                       cathedral garden. The party starts here.
+party makes their descent.
+                                                       2) Mine Shaft
+                                                       An old mine track is visible at the mouth of this
+                                                       tunnel entrance, from where the dragon’s eye
+                                                       miners broke into the area. The entrance is pitch
+                                                       black and silent. When the party passes by the
+                                                       area, they see the remnants of the ambushed
+                                                       miners from the Dragon’s Eye Mine collapse. Read
+                                                       this script.
+
+
+
+
+                                                       3) Descending Stairway
+                                                       A natural tunnel entrance with a stairway cut into
+                                                       the earth descends even further. This tunnel is lit
+                                                       with torches that flicker in the darkness. Faint
+                                                       chanting echoes up through this tunnel entrance.
+                                                       When the party takes this stairwell, they will reach
+The stairwell from the cathedral opens into Map
+C: Descending Passage. This natural cavern is a        the bottom of the chasm, deep in the catacombs
+                                                       below the cathedral, and reach the final
+large earthen ring with a giant pit in the center,
+                                                       confrontation of the adventure.
+continuing the gaping maw’s descent even further
+down. Deep in the chasm, even further below, a
+faint eerie glow resonates in the dark and steady
+chanting in an ancient tongue can be heard
+resonating up through the chamber.
+
+Map Areas
+The following areas are represented on Map C:
+Descending Passage.
+46                                          Return of the Jailer
+Return of the Jailer   47
+Encounter                                                 Ending the Encounter. When the encounter ends,
+                                                          read this script.
+This encounter occurs once the party reaches this
+area. Place the any fiends around the edge of the
+chasm at the center of the map, as if they have
+just crawled out of the hole. Place any humanoid
+cultists near area 3, the descending staircase, as if
+they have just come up from the lower depths to
+attack the party and prevent them from going any
+further.
+
+
+
+
+48                                             Return of the Jailer
+Hecatomb Catacombs                                       Map Areas
+In a final confrontation, the players will reach the     The following areas are represented on Map D:
+catacombs deep below the cathedral where the             Hecatomb Catacombs.
+cult’s ritual is underway. They must defeat the
+Jailer, the physical form of the Prion Lord birthed      1) Stairwell
+from its torturous realm. If the party needs to take     This stairwell descends from the descending
+a short rest, allow them to do so before heading         passage above. The party starts here.
+down the staircase. Read this script when the
+party makes their descent.                               2) Hecatomb
+                                                         The Hecatomb is a swirling pit of blood and
+                                                         viscera, filled with the many victims of the cult in
+                                                         their effort to birth the Jailer’s physical form. The
+                                                         Hecatomb acts as a rift, allowing the corruption
+                                                         and fiends from the Prison Realm to seep into
+                                                         reality. If you have a physical model of the
+                                                         Hecatomb, you can place it here.
+
+                                                         a) Blood Altars
+                                                         These stone structures punctuated by numerous
+                                                         spikes impale tortured victims of the tormentor
+                                                         cultists. Each altar rises ten feet in the air and
+                                                         provide three-quarters cover to characters hiding
+                                                         behind them. During the fight, players can hide
+                                                         behind the altars to take cover from the Jailer’s
+                                                         attacks. If the Jailer misses an attack against a
+                                                         character taking cover behind one of the altars,
+                                                         roll 1d6. On a 1 or a 2, the Jailer’s attack smashes
+                                                         the altar, destroying it and leaving a pile of rubble
+                                                         that no longer offers any cover.
+
+                                                         c) Cavern Entrances
+                                                         At the start of each round, the Jailer’s lair action
+                                                         allows it to summon several cultists. Have these
+                                                         cultists spawn into combat as if they are entering
+                                                         from these caverns.
+
+
+
+
+                                             Return of the Jailer                                           49
+50   Return of the Jailer
+Encounter                                                     and the taint will begin to recede from the area.
+                                                              Read the following script upon victory. Then,
+This encounter occurs once the party reaches this
+                                                              review the Ending the Adventure section to bring
+area. Place the Jailer at the center of the
+                                                              the scenario to a close.
+Hecatomb. Any other enemies should be placed
+anywhere near one of the altars. The Jailer has
+two statblocks to scale with the adventure
+difficulty, so make sure you use the one with the
+correct CR.
+
+
+
+
+Loot. If the party defeats the Jailer, roll 1d20. They
+find the item corresponding to the highest score
+they reach. Add a bonus to the score depending
+on the adventure difficulty.
+
+
+
+
+Ending the Encounter. When the party defeats
+the Jailer and its minions, the cult’s ritual will fail,
+
+                                                  Return of the Jailer                                        51
+52   Return of the Jailer
+Ending the Adventure
+After the Jailer’s defeat, the rift that has opened
+below New Heldon will start to fade. The dark
+energies will slowly recede, signaling the retreat of
+the Jailer’s sinister forces. Here are the next steps
+and considerations in ending the adventure or
+continuing the experience with the Tormentor
+Cults.
+
+Clearing the Corruption. With the Jailer's fall, the
+ritual effects will start to unravel. Had the party
+not defeated the cult, the Prison Realm would
+have continued to merge with reality, creating a
+bleeding-over of the dimension and allowing
+many hellish creatures from that realm to enter
+the world—a surely calamitous event.
+
+Debriefing with Aquilon. Upon returning to the
+surface, the party should report to Primus
+Aquilon. The Penitent Crusade will want a full
+account of the events that transpired. Aquilon
+should reward the party for their deeds with gold
+or a magic item of your choice. He should also
+swear the party to secrecy, demanding that they
+never speak to anyone about the corruption of
+Abbot Mercereau and his followers. Spreading
+gossip about the fallibility of the empire’s religious
+leaders is not something the Crusade takes lightly,
+and if word reaches him of their loose lips, their
+tongues will be removed, or worse.
+
+
+
+
+                                               Return of the Jailer   53
+                What’s Next?
+                The events of this adventure are but a glimpse
+                into the dark machinations of the Tormentor Cults
+                and their malevolent patron, the Prison Lord.
+                Though the party may have thwarted their plans
+                for now, the cult remains a lingering threat.
+                Aquilon hints at future missions, where you may
+                be called upon to face even greater evils and
+                uncover deeper secrets within this malevolent
+                world.
+
+                    The fun doesn’t end here! To build your own
+                campaigns using a plethora of additional cultist
+                and fiendish models, check out the Tormentor
+                Cults Faction Guide! This 5e supplement provides
+                a ton of tools, mechanics, tables, lore, and other
+                information to inspire and assist you in crafting an
+                extensive campaign featuring the Tormentor Cults
+                as a key antagonist.
+
+                   Additionally, if you’re itching to dig deeper into
+                the dark and fallen world of Doaden, check out
+                Bestiarum’s other 5E publications, including an
+                Archive of 30+ Adventures, and a host of bestiary
+                books filled with diabolical horrors.
+
+
+
+
+54   Return of the Jailer
+ Monsters & NPCs
+Monsters & NPCS
+
+
+
+
+                  Return of the Jailer   55
+ Cultist
+
+
+
+
+                       Bruiser
+
+
+
+
+56         Return of the Jailer
+                                   Cagehound
+
+
+
+
+Demagogue
+
+
+
+
+            Return of the Jailer               57
+                                    Snatcher
+
+
+
+
+     Brute Warden
+
+
+
+
+58                  Return of the Jailer
+                 Collector
+
+
+
+
+Return of the Jailer         59
+The Jailer                                              Jailer’s Lair
+                                                        Tormentor Cultists work tirelessly to construct
+The Jailer is an insidious entity that feeds on the
+                                                        Hecatombs — swirling pools filled with the gore
+powerful emotions of torment and suffering.
+                                                        and viscera of their victims, infused with powerful
+Known as the Prison Lord, it rules the twisted
+                                                        magic. These pits are used to open greater rifts to
+dimension known as the Prison Realm; a bizarre
+                                                        the Prison Realm, and able to summon forth
+plane of existence made unreality, suffused with
+                                                        powerful manifestations of fiendish beings,
+the essence of soul matter. The souls of all those
+                                                        including the Jailer – a physical form of the Prison
+who have ever been sacrificed to the Jailer are
+                                                        Lord itself. While the Jailer is within a chamber
+trapped here eternally, screaming as they forever
+                                                        containing a Hecatomb, it is considered to be in its
+relive the agonizing moments before their death.
+                                                        lair. Cultists are never far from a Hecatomb. As the
+Their tortured wails echo through the infinitely
+                                                        Jailer fights, they crawl out of every nook and
+spiraling dimension, nurturing the Jailer’s essence
+                                                        cranny, throwing themselves into the blood pit,
+for all eternity. From its throne in the Prison
+                                                        sacrificing their souls to empower and heal their
+Realm, The Jailer emanates sinister whispers into
+                                                        dark lord.
+the real world, enticing broken souls who are
+desperate enough to seek liberation from a dying
+world. This misguided lot form the Tormentor
+Cults, a devious sect engaged in heinous acts of
+torture and human sacrifice. They plot constantly
+to thin the veil between realms and grant their
+hellish master a physical form so that it may rule
+the material world. The Jailer cannot be killed, at
+least not truly. Its form might be destroyed, and
+its essence banished back to the Prison Realm, but
+the Tormentor cultists will always find a way to
+summon it anew. The Jailer does not fear death,
+for defeat is a mere setback. It knows with time it
+shall consume the world and drown all existence
+in a torrent of suffering.
+
+
+
+
+60                                           Return of the Jailer
+  The Jailer (CR 13)
+
+
+
+
+Lair Actions
+On initiative count 20 (losing initiative ties), the
+Jailer can take a lair action to cause one of the
+following effects:
+                                                         •    Subsume Flesh. Any cultist standing within
+• Call Cultists. 3 cultists join the fight, anywhere
+                                                              the Hecatomb immediately dies. The Jailer
+     within 15 to 60 feet of the Hecatomb and
+                                                              heals 1d12 hit points for each cultist killed this
+     under the Jailer’s control. These cultists will
+                                                              way.
+     never attack, using their actions only to run
+     into a blood pit and await their sacrifice,
+     hands raised in worship, ready to be
+     subsumed.
+
+
+
+
+                                             Return of the Jailer                                            61
+     The Jailer (CR 21)
+
+
+
+
+Lair Actions
+On initiative count 20 (losing initiative ties), the
+Jailer can take a lair action to cause one of the
+following effects:
+                                                         •    Subsume Flesh. Any cultist standing within
+• Call Cultists. 6 cultists join the fight, anywhere
+                                                              the Hecatomb immediately dies. The Jailer
+     within 15 to 60 feet of the Hecatomb and
+                                                              heals 1d12 hit points for each cultist killed this
+     under the Jailer’s control. These cultists will
+                                                              way.
+     never attack, using their actions only to run
+     into a blood pit and await their sacrifice,
+     hands raised in worship, ready to be
+     subsumed.
+
+
+62                                            Return of the Jailer
+ITEMS
+
+
+
+
+Return of the Jailer   63
+64   Return of the Jailer
+LICENSE                                                               represent that Your Contributions are Your original creation
+OPEN GAME LICENSE Version 1.0a                                        and/or You have sufficient rights to grant the rights conveyed by
+The following text is the property of Wizards of the Coast, Inc.      this License.
+and is Copyright 2000 Wizards of the Coast, Inc ("Wizards"). All      6.Notice of License Copyright: You must update the COPYRIGHT
+Rights Reserved.                                                      NOTICE portion of this License to include the exact text of the
+1. Definitions: (a)"Contributors" means the copyright and/or          COPYRIGHT NOTICE of any Open Game Content You are copying,
+trademark owners who have contributed Open Game Content;              modifying or distributing, and You must add the title, the
+(b)"Derivative Material" means copyrighted material including         copyright date, and the copyright holder's name to the
+derivative works and translations (including into other computer      COPYRIGHT NOTICE of any original Open Game Content you
+languages), potation, modification, correction, addition,             Distribute.
+extension, upgrade, improvement, compilation, abridgment or           7. Use of Product Identity: You agree not to Use any Product
+other form in which an existing work may be recast, transformed       Identity, including as an indication as to compatibility, except as
+or adapted; (c) "Distribute" means to reproduce, license, rent,       expressly licensed in another, independent Agreement with the
+lease, sell, broadcast, publicly display, transmit or otherwise       owner of each element of that Product Identity. You agree not to
+distribute; (d)"Open Game Content" means the game mechanic            indicate compatibility or co-adaptability with any Trademark or
+and includes the methods, procedures, processes and routines to       Registered Trademark in conjunction with a work containing
+the extent such content does not embody the Product Identity          Open Game Content except as expressly licensed in another,
+and is an enhancement over the prior art and any additional           independent Agreement with the owner of such Trademark or
+content clearly identified as Open Game Content by the                Registered Trademark. The use of any Product Identity in Open
+Contributor, and means any work covered by this License,              Game Content does not constitute a challenge to the ownership
+including translations and derivative works under copyright law,      of that Product Identity. The owner of any Product Identity used
+but specifically excludes Product Identity. (e) "Product Identity"    in Open Game Content shall retain all rights, title and interest in
+means product and product line names, logos and identifying           and to that Product Identity.
+marks including trade dress; artifacts; creatures characters;         8. Identification: If you distribute Open Game Content You must
+stories, storylines, plots, thematic elements, dialogue, incidents,   clearly indicate which portions of the work that you are
+language, artwork, symbols, designs, depictions, likenesses,          distributing are Open Game Content.
+formats, poses, concepts, themes and graphic, photographic and        9. Updating the License: Wizards or its designated Agents may
+other visual or audio representations; names and descriptions of      publish updated versions of this License. You may use any
+characters, spells, enchantments, personalities, teams, personas,     authorized version of this License to copy, modify and distribute
+likenesses and special abilities; places, locations, environments,    any Open Game Content originally distributed under any version
+creatures, equipment, magical or supernatural abilities or effects,   of this License.
+logos, symbols, or graphic designs; and any other trademark or        10. Copy of this License: You MUST include a copy of this License
+registered trademark clearly identified as Product identity by the    with every copy of the Open Game Content You Distribute.
+owner of the Product Identity, and which specifically excludes        11. Use of Contributor Credits: You may not market or advertise
+the Open Game Content; (f) "Trademark" means the logos,               the Open Game Content using the name of any Contributor
+names, mark, sign, motto, designs that are used by a Contributor      unless You have written permission from the Contributor to do
+to identify itself or its products or the associated products         so.
+contributed to the Open Game License by the Contributor (g)           12. Inability to Comply: If it is impossible for You to comply with
+"Use", "Used" or "Using" means to use, Distribute, copy, edit,        any of the terms of this License with respect to some or all of the
+format, modify, translate and otherwise create Derivative             Open Game Content due to statute, judicial order, or
+Material of Open Game Content. (h) "You" or "Your" means the          governmental regulation then You may not Use any Open Game
+licensee in terms of this agreement.                                  Material so affected.
+2. The License: This License applies to any Open Game Content         13. Termination: This License will terminate automatically if You
+that contains a notice indicating that the Open Game Content          fail to comply with all terms herein and fail to cure such breach
+may only be Used under and in terms of this License. You must         within 30 days of becoming aware of the breach. All sublicenses
+affix such a notice to any Open Game Content that you Use. No         shall survive the termination of this License.
+terms may be added to or subtracted from this License except as       14. Reformation: If any provision of this License is held to be
+described by the License itself. No other terms or conditions may     unenforceable, such provision shall be reformed only to the
+be applied to any Open Game Content distributed using this            extent necessary to make it enforceable.
+License.                                                              15. COPYRIGHT NOTICE
+3.Offer and Acceptance: By Using the Open Game Content You            Open Game License v 1.0a Copyright 2000, Wizards of the Coast,
+indicate Your acceptance of the terms of this License.                Inc.
+4. Grant and Consideration: In consideration for agreeing to use      System Reference Document 5.0 Copyright 2016, Wizards of the
+this License, the Contributors grant You a perpetual, worldwide,      Coast, Inc.; Authors Mike Mearls, Jeremy Crawford, Chris Perkins,
+royalty-free, nonexclusive license with the exact terms of this       Rodney Thompson, Peter Lee, James Wyatt, Robert J. Schwalb,
+License to Use, the Open Game Content.                                Bruce R. Cordell, Chris Sims, and Steve Townshend, based on
+5.Representation of Authority to Contribute: If You are               original material by E. Gary Gygax and Dave Arneson.
+contributing original material as Open Game Content, You              END OF LICENSE
+
+
+                                                          Return of the Jailer                                                        65
+     www.bestiarumgames.com
+
+
+          © Bestiarum Studio LLC 2024
+
+
+
+
+66              Return of the Jailer
+

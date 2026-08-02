@@ -1,0 +1,756 @@
+THE REMADE
+ THE DARK DESCENT
+
+
+  A 5e Compatible Adventure
+     Suitable for Levels 5-10
+
+
+
+
+                                1
+                        CREDITS
+Developed by:
+  Bestiarum Games
+
+Game Designer:
+  Kevin Rahman
+
+Cartography:
+  Giovani C. Fiorini
+  Alexander Dovermann
+  Katarina Popovici
+
+
+
+
+                         ON THE COVER:
+                         THE FLESHSMITH
+
+
+
+
+                         “
+                          The Fleshsmith is both mother and maker of the
+                         Remade.
+                          Sequestered away deep in her subterranean
+                         surgical theater, she is the twisted artist responsible
+                         for grafting together the horrors at her command.
+
+
+                                                                              ”
+
+
+2
+                                                           CONTENTS
+
+
+The Dark Descent ............................................ 1
+Credits............................................................... 2
+Contents ........................................................... 3
+Foreword: The World of Doaden ................ 4
+SCENARIO I: Awaken........................................ 6
+  GOAL................................................................ 6
+   REWARD ........................................................... 6
+   SETUP AND TREASURE ...................................... 6
+   ESCAPE.......................................................... 7
+   DEPLOYMENT.................................................... 8
+   SOLO PLAY ....................................................... 8
+   RPG TEXT BOX ................................................. 8
+SCENARIO II: The Cult .................................. 11
+  GOAL.............................................................. 11
+   REWARD ......................................................... 11
+   SETUP AND TREASURE .................................... 11
+   RPG TEXT BOX ............................................... 12
+SCENARIO III: Spider Den .............................. 14
+  GOAL.............................................................. 14
+   REWARD ......................................................... 14
+   SETUP AND TREASURE .................................... 14
+   DEPLOYMENT.................................................. 15
+   RPG TEXT BOX ............................................... 16
+MONSTERS ..................................................... 19
+ CAVE SPIDERS ................................................ 20
+   DARK ELF CULTIST ......................................... 21
+   DARK ELF WARRIOR ....................................... 22
+   NECRO WARRIOR............................................ 23
+   DRIDER ........................................................... 24
+   SWOLLEN ....................................................... 25
+   FLESH SMITHS DAUGHTER .............................. 26
+   DARK ELF HIGH PRIESTESS ............................. 27
+   THE FLESHSMITH............................................ 28
+   THE BROOD MOTHER ...................................... 29
+
+
+
+
+                                                                           3
+              FOREWORD: THE WORLD OF DOADEN
+
+
+
+W
+            elcome to Doaden, the dark fantasy setting of tainted lands and twisted monsters,
+            where an ever-creeping affliction corrodes the very essence of existence.
+            It is a world of decay and depravity where once-righteous men and heroes of
+            glorious purpose now struggle to survive as cults and dark gods vie with one
+another to consume the last vestiges of humanity.
+
+
+
+In Forbidden Psalm: The Tainted lands of Doaden you will find:
+
+• Three scenarios created for the fantastic monsters from Bestiarum Games;
+• Rules for monsters.
+
+These scenarios should be played in order.
+These scenarios should be played in solo or coop only.
+
+In all Scenarios the Darkness Condition is in effect.
+Each warband gets 2 free torches to use each Scenario.
+
+
+
+You will need a copy of the Forbidden Psalm Core Book to play:
+https://www.forbiddenpsalm.com/forbidden-psalm
+
+
+
+
+4
+T
+          he night is dark and quiet. The Warbands small campfire sends ashes floating into
+          the air, barely illuminating its surroundings as the looming shadows of the woods
+          suffocate the flickering light.
+
+  As they prepare to sleep, a sudden gust of air brushes across the camp.
+Their eyes dart back and forth.
+The Warband reach for their weapons, but before they have a chance to move, something
+cold pierces their necks.
+
+  In seconds, the warbands vision narrows, and their hearing dulls.
+They look amongst themselves as their breaths quicken with accelerating heartbeats.
+The Warband attempt to move but their muscles constrict against their will, bringing them all
+to their knees.
+The Warband fall to the ground as looming shadows emerge from between the trees.
+
+
+
+
+                                                                                                5
+                          SCENARIO I: AWAKEN
+
+
+
+T
+            he Warband wakes up in complete darkness to the sound of dripping water and a
+            soft, slimy sensation beneath them.
+
+          Each warband members whole body feels sore and tight, as if rigid from paralysis. As
+they slowly regain control of their arms, a member of the warband reaches out in the utter
+darkness, feeling the shape of their backpack nearby. They draw a torch from the pack and
+with great effort fumbling with a piece of flint and tinder, manage to light it.
+
+  The yellowing light pushes back the darkness, revealing the walls of a shallow pit around the
+warband. The pit is filled with corpses; humans, animals, and strange beasts that the warband
+has never seen before.
+They are in various stages of decomposition, with clear signs of blunt damage from an
+apparent fall.
+
+ Climbing out of the pit, the warband finds a cave system with a tunnel path leading forward.
+Cobwebs hang from the ceiling and the ground is strewn with small piles of bones.
+
+ Somewhere in the dark, the sound of stones falling to the ground. There is a soft hiss followed
+by fading stridulations of quickly, hard steps.
+
+
+
+GOAL
+
+    Find a way out.
+
+
+REWARD
+
+    You did not die!
+
+
+SETUP AND TREASURE
+
+ On a board 24 inches by 24 inches set up a tunnel system as shown in Map 1. Do not worry
+about being accurate a rough tunnel system marked out with string, tape or terrain will do.
+
+A1 – Body pit
+Where the warbands are deployed. Bodies can be searched here twice by each warband as
+per treasure rules.
+
+A2 – Tunnel system
+Contains 1D4+number of warbands participating, Cave spiders.
+
+6
+A3 - Bottomless hole
+When a warband approaches this read the following.
+I… I wouldn't go down there… if I were you.”
+Here is where Grik joins the warband which killed the most enemies in A2, in the case of ties roll
+off.
+Once Grik joins a warband he is controlled by that player.
+
+Grik has the following stats:
+
+Strength: -1
+Agility: 0
+Presence: 0
+Toughness: 0
+
+He is equipped with a makeshift one-handed weapon and torch.
+He has no flaws or feats.
+
+A4 – Webs
+Models must make an Agility test to make it through the webs, on a failure they lose their
+movement and are stuck. They need to as an action make a strength test to break free of the
+webs. Once a model breaks free or passes the tests, they ignore the webs for the rest of the
+scenario. If they fumble a Cave Spider spawns in the webs within 1 inch of the model that
+fumbled.
+
+A5 – Elevator (around 12 inches by 12 inches)
+Before the elevator will move a warband member in A6 must pull the leaver to remove the
+breaks for the elevator. After the breaks are removed, the elevator will begin to ascend in
+three rounds, at the end of the third round. Any models not on elevator are lost until scenario
+3. When the Elevator begins to ascend read the section titled Escape.
+
+A6 – Control room
+When the lever in this room is pulled place in A7 1x Drider and 1x Flesh smith’s Daughter.
+
+A7 - Webs
+Models must make an Agility test to make it through the webs, on a failure they lose their
+movement and are stuck. They need to as an action make a strength test to break free of the
+webs. Once a model breaks free or passes the tests, they ignore the webs for the rest of the
+scenario. If they fumble a Cave Spider spawns in the webs within 1 inch of the model that
+fumbled.
+
+
+ESCAPE
+
+When the elevator begins to ascend models can no longer leave the area marked A5. Each
+round at the end of the round, roll a D6 and on a result of a 6 the Brood Mother appears, or if 6
+rounds have passed since the elevator began to move the Brood Mother also will appear.
+                                                                                                  7
+Until then every other round at the start of the monster activation phases 1x Swollen and 1x
+Necro Warrior appears in a random corner of A5.
+The Brood Mother appears at the start of the round in which she can appear, place her in the
+centre of A5 and move all models in her way to the edges of the elevator.
+
+
+DEPLOYMENT
+
+All the warband models that are participating in this scenario should be placed in A1.
+
+
+SOLO PLAY
+
+Reduce the rounds on the elevator to a D4 and on a roll of a 4 or after 4 rounds then place
+the Brood Mother.
+
+The Scenario ends at the end of the round the Brood Mother first appeared.
+
+
+
+RPG TEXT BOX
+
+WHEN THE PARTY MEET GRIK READ:
+
+Looking back you see a hunchback figure, frail and malnourished, peering out warily from
+behind the tunnel corner. He is emaciated, his milk-white skin so translucent that you can see
+the blue veins beneath it. His hair has mostly fallen out, just a few long strands of silky gray left
+on his scalp. His form is misshapen and twisted, and it is impossible to tell his age.
+
+He steps forth, shielding his wide eyes from your torchlight with one hand.
+
+WHEN THE LIFT BEGINS TO MOVE READ:
+
+You pull the lever and the wooden platform below you begins to shake. Metal gears grind
+against one another, making a sharp whine as the machine begins a slow ascent. Looking up,
+you cannot make out the ceiling. The tunnel rises up into complete darkness.
+
+As the elevator climbs, you notice webs on the walls, growing ever thicker, and hear skittering
+about in the darkness above. You draw your weapons.
+
+Suddenly you hear a loud shriek as a mass of distorted monstrosities emerge from holes in the
+walls. They holler in a cacophony of high-pitched screeches and lunge toward you.
+
+WHEN THE BROOD MOTHER APPEARS READ:
+
+As you wipe your blades of green ichor, you look upward, finally seeing the top of the cave.
+You are so close to freedom.
+8
+But to your horror, you see a slick white mesh glistening off your torchlight, a dome of webs
+covering the entire cave and a massive shadow skittering upon it. Bulging black eyes emerge
+into the firelight followed by a gargantuan arachnid monstrosity. Huge legs ending in
+humanoid hands support the creature's massive weight.
+Its abdomen is a stitchwork of corpses and pulsating sacks dripping a foul concoction. Each
+drop sizzles as it falls to the elevator platform, eating through the wood, leaving behind
+nothing but black corrosion.
+With a howl, the thing lunges onto the elevator. The platform shudders and stalls under its
+weight.
+
+AT THE END OF THE SCENARIO READ:
+
+Grik shrieks, running from his hiding place behind a stack of chains. He yanks the elevator
+lever, sending the machine in a frantic downward fall. The giant spider loses its grip on the
+platform, hanging suspended in the tunnel above.
+
+You plummet away, slamming moments later into the ground, losing your footing and crashing
+into the wooden platform as it comes to a sudden halt.
+
+
+
+
+                                                                                                9
+MAP 1:
+
+
+
+
+10
+                         SCENARIO II: THE CULT
+
+
+
+A
+          s the warband escapes from the Brood Mother, the elevator plummets crashing
+          below. The level the warband finds itself on is the home of the dark elf cultists, the
+          Remade. The elevator locks on this level are engaged, so the elevator has become
+          stuck for now. The Warband will need to unlock it to proceed.
+
+The warband steps out into a dark tunnel. A natural rock ridge rises before them,
+approximately fifteen feet up, atop of which a wall of thick upright logs rises another fifteen
+feet to the cavern ceiling. The planks are tightly fit together with no gaps between the lumber.
+
+Directly ahead is a collapsed mine tunnel ending in a rail. A dead Necro Warrior lies on the
+ground nearby, its twisted form covered in clean slash marks. Its ichor is dry and crust.
+
+
+
+
+GOAL
+
+ Find a way out.
+
+
+REWARD
+
+ Progress towards your escape.
+
+
+SETUP AND TREASURE
+
+On a board 24 inches by 24 inches set up a tunnel system as shown in Map 2. Do not worry
+about being accurate a rough tunnel system marked out with string, tape or terrain will do.
+
+A1 – Elevator
+Where warbands are deployed.
+
+A2 – Open area and palisade
+The way to the south is blocked, a door to the north can be opened with a successful strength
+test. 2 crates here can be searched as per treasure rules.
+
+A3 – Living Quarters.
+Around a bowl filled with blood place 2x Dark Elf Cultist and 1x Dark Elf Warrior. A door leads to
+B4 that can be opened with a strength test.
+
+A4 – Living Quarters 2
+The huts here can be searched as per treasure rules.
+
+                                                                                                11
+A5 – Ramp down
+Can be descended to reach A6
+
+A6 – Ceremonial chamber
+In this room place 1 Dark Elf warrior per warband and 1 Dark Elf High Priestess. The Hole as
+shown on the map leads down into the depths, the elevator controls in this room are
+damaged, models can climb down this hole to exit this scenario.
+
+Grik at this point, if still alive, will leave the warband he is with and wait on the elevator.
+
+Ends when all warband members have climbed down the hole.
+
+
+
+RPG TEXT BOX
+
+WHEN THE PLAYERS ENTER THE CEREMONIAL CHAMBER READ:
+
+You enter on the upper ledge of a long chamber illuminated by candlelight. At the far end of
+the room is a gaping hole in the floor. A spindly female priestess stands by the hole, carrying a
+staff that resembles a twisted arachnid.
+
+She watches as a pale humanoid drags a corpse to the hole, touching it on the forehead and
+whispering something inaudibly before the other figure shoves into the hole. After a moment,
+you hear a soft squelching thud.
+
+
+
+
+12
+MAP 2:
+
+
+
+
+         13
+                     SCENARIO III: SPIDER DEN
+
+
+
+T
+          he Warband descends the eerie descending tunnel lined with layers upon layers of
+          webbing. As they reach the bottom of the hole, they drop to firm ground, finding
+          themself in a large, hollow chamber connecting to sets of branching pathways,
+          each disappearing into the darkness.
+You hear faint skittering echoing through the shadows.
+
+
+
+GOAL
+
+Free any members of the warband lost in scenario 1. Fight your way to daylight.
+
+
+REWARD
+
+Any warband that has at least 1 surviving member at the end of the scenario gains 10xp and 1
+random relic.
+
+
+SETUP AND TREASURE
+
+On a board 24 inches by 24 inches set up a tunnel system as shown in Map 3. Do not worry
+about being accurate a rough tunnel system marked out with string, tape or terrain will do.
+
+A1 – The entrance to the hole.
+Where warbands are deployed.
+
+A2 – Abandoned camp
+Place two boxes here per warband that can be searched as per treasure rules.
+
+A3 – Feeding ground
+Here the party find any warband members lost in scenario 1 along with a member of the
+Penitent Crusade. The warband members are stuck in webs along the walls and can be freed
+with a successful strength check. In this area also place 2 Cave Spiders.
+The Crusader is trapped in an Acid Cocoon. His lower body has been completely dissolved
+already and there is no way to save his life. But he can be looted as per treasure rules.
+If his cocoon is disturbed in any way, it will explode immediately and any creature within 1
+inch. must succeed on an Agility test to avoid the spray or take 1d6 Acid Damage. The
+crusader dies in the process.
+
+A4 – Birthing Chamber
+Models must make an Agility test to make it through the webs that cover this entire area. On a
+failure they lose their movement and are stuck. They need to as an action make a strength
+test to break free of the webs. Once a model breaks free or passes the tests, they ignore the
+14
+webs for the rest of the scenario. If they fumble a Cave Spider spawns in the webs within 1 inch
+of the model that fumbled.
+Warbands can avoid the web by jumping from wooden platform to wooden platform.
+Place 1 Drider in this area per warband.
+
+A5 – Fleshsmiths Throne
+When a warband member enters this area place the FleshSmith on their throne in the area
+marked A5. This creature is not hostile unless a warband member attacks it. A warband
+member who is within 1 inch of the Fleshsmith as an action is granted blood to drink (see
+Fleshsmiths gift below).
+
+‘The Fleshsmith always stays in this area, unable to move from her seat. She is surrounded by
+flesh materials that she uses in her reshaping process.
+
+When the warbands first encounters her, she will offer an alliance, giving her blood freely if
+they agree to slay the Broodmother and leave her in peace. If they agree, no other hostiles
+bar the Brood Mother will attack them for the remainder of the scenario.’
+
+If they Kill the Fleshsmith she can be searched for 2 random relics.
+This area also contains the controls for the lift. As an action a warband member can call the
+lift, which will arrive at the start of the next round. Grik is on the lift and re-joins his warband.
+
+A6 – Elevator
+Once the Elevator is called and arrived warband members can embark on the elevator. As an
+action a warband member can pull the lever on the elevator and the elevator will begin to
+ascend at the start of the next round. Any warband members left behind are killed.
+As the elevator ascends the Brood Mother appears in the middle of the elevator, the
+warbands must kill her to escape.
+
+
+
+DEPLOYMENT
+
+All warband members should be setup in A1.
+
+Scenario end when the Brood Mother is dead.
+
+FleshSmiths Gift:
+
+Models that take the FleshSmiths gift are immune to the acid damage of the Brood Mother.
+However, they take -1 Presence.
+
+
+
+
+                                                                                                        15
+RPG TEXT BOX
+
+WHEN THE PLAYERS ENTER A3 READ:
+
+A pile of corpses is stacked up at the far end of the small room. They are all naked, their
+bodies thin and emaciated, their skin leathery and tight, as if drained of all liquid.
+
+Hanging above the corpses is a greenish cocoon, wrapped tightly around a man’s body. The
+man’s head sticks out of the top, clad in the unmistakable facemask of the Penitent Crusade.
+He raises his head and whispers.
+
+“I can’t feel my legs… help me.”
+
+WHEN THE PLAYERS ENTER A4 READ:
+
+Webs cover the entire floor of the large cavern. Several cocoons dangle from the ceiling to
+hang a few feet from the ground, pulsating with a sickly green glow. They rock gently in place,
+moving back and forth and dripping ichor that sizzles into the ground.
+
+Monstrous-looking arachnids move about the place tending to the cocoons and chittering to
+each other in a strange, inhuman language.
+
+Along the left side of the cavern, a wooden column walkway rises above the webs and travels
+around the room. However, it is shattered in several areas and several of the cocoons hang
+dangerously close to the wooden planks.
+
+WHEN THE PLAYERS ENTER A5 READ:
+
+You enter a strange chamber. The floor is littered with corpses. Many are missing limbs or
+appendages, and disconnected arms, heads, and torsos lie in organized piles.
+
+Sitting in a bizarrely serene image of repose next to the body parts is an enormous form
+resembling a beautiful woman, but from her back sprout a multitude of arachnid limbs,
+lovingly rolling a body and slicing it open, extracting its intestines and inner organs.
+
+The woman turns to you as you enter the chamber, her many arms deftly unraveling the
+innards and placing the body down with the others. She speaks in a quiet, sad voice.
+“So it is you who disturb my children. Please, may we share words?”
+
+WHEN THE ELEVATOR BEGINS TO ASCEND READ:
+
+You kick the last of the spider bodies off the elevator platform, its legs shattering as it bounces
+off the rocky tunnel walls before disappearing into the darkness below.
+
+
+16
+Looking up, you see the sickly white mass of domed webbing grow larger and larger as the
+elevator climbs. Soon, you are able to make out the shadow of the Broodmother once again,
+its giant, misshapen form scuttling back and forth in a maddened, disjointed frenzy. You
+tighten your grip on your weapon.
+
+As your torchlight reaches the monster, it howls a nightmare screech, lunging onto the
+platform once again.
+
+
+
+
+                                                                                         17
+MAP 3:
+
+
+
+
+18
+                                   MONSTERS
+All monsters in Forbidden Psalm: The Tainted Lands of Doaden treat other monsters as friendly.
+All of these monsters ignore the darkness conditions and are unaffected by webs.
+
+
+
+
+                                                                                             19
+CAVE SPIDERS
+
+HP: 8
+Morale: 10
+Bite: 1D4
+Armor: 1
+
+SPECIAL:
+
+When a Cave Spider successfully bites a
+model it must make a presence test or
+become poisoned.
+
+
+
+
+20
+DARK ELF CULTIST
+
+HP: 7
+Morale: 9
+Claw 1D6/ Poison dart
+Armor: 1
+
+SPECIAL:
+
+If not within 1 inch of a model the Dark Elf
+Cultist makes a ranged attack against the
+nearest model with its poison dart, models hit
+with the dart must make a toughness test. On
+a failure they are poisoned.
+
+
+
+
+                                                 21
+DARK ELF WARRIOR
+
+HP: 14
+Morale: 10
+Sword: 1D10
+Armor: 1
+
+SPECIAL:
+
+Can attack twice per activation. Will split
+attacks, if possible, otherwise attacks the
+same target twice and provokes attacks
+back each time.
+
+
+
+
+22
+NECRO WARRIOR
+
+HP: 14
+Morale: 11
+Lunge: 1D8
+Armor: 2
+
+SPECIAL:
+
+Ignores all terrain features and can
+move on any surface.
+
+
+
+
+                                       23
+DRIDER
+
+HP: 15
+Morale: -
+Impale: 1D10
+Armor: 2
+
+SPECIAL:
+
+Any model hit by a Drider must make an
+agility test. On a failure they are impaled by
+its weapon and their movement drops to 0,
+until the Drider is killed.
+
+
+
+
+24
+SWOLLEN
+
+HP: 10
+Morale: 11
+Acid Gob (ranged): 2D6
+Armor: 0
+
+SPECIAL:
+
+If a model is within 1 inch of a Swollen it
+regurgitates web onto them, they must make
+an agility test. On a failure they lose their
+next activation. If no model is within 1 inch
+the Swollen moves towards the nearest
+enemy until it gets within 12 inches, at which
+point it stops and uses its Acid Gob Attack.
+
+
+
+
+                                                 25
+FLESH SMITHS DAUGHTER
+
+HP: 18
+Morale: 11
+Poisoned Pounce: 2D4
+Armor: 2
+
+SPECIAL:
+
+Flesh Smiths Daughters Pounce from
+one target to another. When they
+activate, they pounce 6 inches
+towards the nearest model (if they
+are within 1 inch of a model, they
+ignore it for another viable target).
+Any mode hit by them must make a
+toughness test or become
+ poisoned.
+
+
+
+
+26
+DARK ELF HIGH PRIESTESS
+
+HP: 9
+Morale: 11
+Poison spray*
+Armor: 1
+
+SPECIAL:
+
+When Dark Elf Priestess activates all models
+within 6 inches must make an agility test or
+get hit with her poison spray that deals 1D4
+damage. The Priestess never fights back in
+melee instead to hit her is a DR18.
+
+
+
+
+                                               27
+THE FLESHSMITH
+
+HP: 40
+Morale: -
+Fleshslap: 1D6
+Armor: 0
+
+SPECIAL:
+
+Whenever the Fleshsmith takes damage roll
+a D6 on a result of a 6 spawn a Flesh Smiths
+Daughter within 1 inch of the FleshSmith.
+
+
+
+
+28
+THE BROOD MOTHER
+
+HP: 38
+Morale: -
+Bite: 1D8 and Acid Splash: 1D4
+Armor:1
+
+SPECIAL:
+
+Whenever the Brood Mother activates all
+models within 2 inches must make an
+agility test on a failure, they take 1D4 acid
+damage.
+
+
+
+
+                                                29
+30
+31
+

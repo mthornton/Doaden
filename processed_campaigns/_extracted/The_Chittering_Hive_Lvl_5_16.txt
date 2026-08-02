@@ -1,0 +1,744 @@
+  THE CHITTERING HIVE
+                    Level Scaling
+                       5 – 16
+
+
+Exterminate the Hive Queen’s swarm in this easy-to-run
+                      adventure
+
+
+
+                                             Liber Obscura 016
+  “The path to redemption is a treacherous journey walked alone,
+     each step resonating with the sorrow of a thousand sins."
+
+
+
+
+                                    CREDITS
+Writer/Designer: Alexander H. Dovermann   Produced by: Bestiarum Games
+         his module can be run as a one-shot          confront the entity responsible for the torment.
+         or as part of a persistent dark fantasy      The villagers must be investigated and if they
+
+
+T        campaign using Bestiarum’s Path of
+         Penitence (PoP) system. Some
+         creatures and items are unique to
+         Bestiarum’s world. Their information
+                                                      cannot be saved must be cleansed in the
+                                                      process. This blight cannot be allowed to
+                                                      spread to any other nearby settlements.
+
+can be found at the end of the adventure.             Adventure Hooks
+                                                      Use one of these hooks to begin the adventure
+Tier II. This adventure scales in difficulty
+                                                      or write your own. A good hook will give the
+based on your party’s Average Party Level
+                                                      party a reason to delve into the hive and slay
+(APL). Use the following table to determine
+                                                      the hive queen.
+the appropriate difficulty for your party. If your
+                                                      • Dark Cult. A nearby city council urgently
+party finds the scenario too easy or hard, you
+                                                          enlists the party after hearing a strange
+can shift difficulties, even mid adventure!
+                                                          cult is close to awakening an ancient terror
+                                                          in the woods. The cult believes the hive
+ADVENTURE DIFFICULTY                                      queen will transform them, blessing them
+                                                          with a divine metamorphosis to make
+    Difficulty              APL
+                                                          them something more than human.
+    Medium                  5–7                       • Villager's Plea. The party is approached
+                                                          by a terrified villager who begs for their
+                                                          help. The villager's family has succumbed
+    Hard                    8 – 10
+                                                          to the hive's curse, and they implore the
+                                                          party to save their loved ones and the
+    Nightmare               11 – 13
+                                                          village from impending doom.
+                                                      • Queen’s Call. The party stumbles upon
+    Torment                 14 – 16
+                                                          the infected village by chance, looking for a
+                                                          place to rest or trade. While in the area,
+                                                          they begin to hear the queen’s voice,
+Adventure Introduction                                    telepathically beckoning them to seek her
+A peaceful village has fallen into despair as its         out, luring them ever deeper into her hive.
+inhabitants transform into strange, insectoid
+thralls. Compelled to seek out some strange           Path of Penitence. Any of the suggested
+calling only they can hear, the metamorphosed         hooks may be used for a PoP adventure. The
+villagers have begun to wander the area,              Penitent Crusade may assign the mission, or
+leaving behind a trail of devastation and             the party may be following a lead that they
+horror. The once-thriving community now               discovered themselves.
+collapsed and the party is called upon to                Location. The adventure can take place in
+investigate the source of this curse, traverse        any region of the Empire of Azerai.
+the perilous tunnels beneath the village, and
+
+2                                Liber Obscura 016 – The Chittering Hive
+Opening Script                                       INFECTED VILLAGE ENCOUNTER [15%]
+This scenario begins as the party is ambushed
+                                                       Difficulty     Enemies
+in the infected village, starting their encounter
+with the creatures of the hive. To begin the           Medium         3 chitin thralls, 2 walking
+adventure read this script.                                           hives and 1 locust guardian
+
+
+ A chilling wind whispers through the decaying         Hard           5 chitin thralls, 5 walking
+ streets of what was once a peaceful village.                         hives, 1 locust guardian
+ The abandoned houses stand eerily silent,
+ their doors ajar, swinging gently in a passing        Nightmare      3 chitin thralls, 2 walking
+ breeze. The air is thick with an unnerving                           hives, 1 locust guardian and 1
+ silence, broken only by the distant sound of                         razorwing
+ something skittering in the shadows –
+ perhaps a rat or a stray cat. As you cautiously       Torment        5 chitin thralls, 4 walking
+ move through the streets, a faint glint catches                      hives, 1 locust guardian and 1
+ your eye to the left. Without warning, a low,                        razorwing
+ guttural growl echoes from around the corner
+ of an adjacent building.
+     A group of grotesque, insectoid things          Map Areas
+ shambles into view, their bodies strangely
+                                                     The map of the ambush site is depicted on
+ human yet distinctly twisted with strange
+                                                     Map 1: Abandoned Village.
+ chitinous features. Their eyes, glimmering
+ black, are devoid of any recognition or sanity.
+ They move with a terrifying, unnatural agility,     1) Strange Clusters
+ their clawed hands reaching out as if driven        A cluster of fleshy cylinders lies on the ground.
+ by some malevolent will. You ready                  The party may conduct a Wisdom (Survival)
+ yourselves, preparing for the fight.                check, learning all of the following information
+                                                     based on their score.
+
+
+       INFECTED VILLAGE                                Score     Item/Information Discovered
+As the party arrives in the village, they are
+ambushed by a group of changed humans. The             10+       The clusters appear to be insectoid
+                                                                 egg sacks, but larger than any
+humans might have been the villagers or
+                                                                 normal specimen.
+perhaps cultists that worship the hive queen
+and her swarm, depending on the adventure
+hook used. After the party fends off the               15+       These eggs have recently hatched.
+attackers, they can investigate the surrounding
+area to look for resources or clues.
+
+                                Liber Obscura 016 – The Chittering Hive                                3
+                                      Map 1: Infected Village
+
+2) Ramshackle Hovel
+                                                    The handwriting on this torn page is erratic, as if
+This larger structure used to be one of the
+                                                         written in haste or by a trembling hand.
+living residences of the villagers. The party
+                                                      "Day 7 since the change began. The whispers
+can enter and search the area, finding a Torn
+                                                      grow louder each night, impossible to ignore.
+Journal Page lying containing writings of one        Her voice echoes in my mind. It's coming from
+of the deranged villagers before they               below...so close now. I can't resist much longer. I
+underwent metamorphosis. It hints at the            must visit the woodcutter and make my descent.
+hive’s location beneath the village.                Promising me great things. She is close. So close,
+    Investigation Check. Additionally, the                     so terribly, irresistibly close."
+party can conduct an Intelligence                                    Torn Journal Page
+(Investigation) check to find additional clues,
+information, and resources hidden within the
+building. They find all of the items or
+information they score high enough for on the
+following Investigation Results table.
+
+
+4                              Liber Obscura 016 – The Chittering Hive
+INVESTIGATION RESULTS                                  Hive Victim. The man was once a woodcutter,
+                                                       but now is just another one of the hive’s
+ Score     Item/Information Discovered                 victims. He is in the midst of a painful process
+                                                       of transforming into a walking hive, a vessel
+ 5+        A torn journal page,                        used by the hive to carry and give birth to the
+                                                       hive queen’s young. His transformation is too
+ 10+       The hovel contains remnants of the          far along for him to be saved. Upon his death,
+           villagers' everyday lives. Amidst the       an insect swarm emerges from his body and
+           clutter, the party finds basic              attacks the party.
+           supplies – 50 feet of hempen rope,
+           a lantern, 3 torches, and oil.
+                                                       Hidden Hatch. This dilapidated shed harbors
+                                                       a dark secret. Amidst the jumble of scattered
+ 15+       A careful search reveals a hidden           tools and broken remnants, a hidden hatch
+           compartment under a floorboard.             lies concealed, a gateway to the horrors that
+           Inside, is a pouch containing a
+                                                       lurk below. This hatch, cleverly concealed,
+           4d100 gp and a delicate, gold
+                                                       opens to reveal a shaft that descends into
+           locket worth another 100 gp.
+                                                       darkness, a direct path to the hive below. If the
+                                                       party possesses the Torn Journal Page, they
+3) Woodcutter’s Shed                                   automatically find the hatch if they search the
+                                                       shed. Otherwise, the party must succeed on a
+This dilapidated shed has an air of neglect
+                                                       DC 20 Wisdom (Perception) check to notice
+about it. It was once the woodcutter’s
+                                                       irregularities in the shed's floor and sharp
+workshop but is now defiled by the hive. The
+                                                       indents of insect feed, leading to the hidden
+far wall is covered with a sticky substance
+                                                       hatch.
+similar to the cocoons outside, where a man is
+                                                           Continuing On. When the party opens the
+in the process of changing into a walking hive.
+                                                       hidden hatch, they find a natural hole in the
+Read this script as the party enters.
+                                                       ground descending into utter darkness. The
+                                                       air wafting up is musty and carries a faint,
+ As you cautiously enter the abandoned shed,           unsettling buzz. The hole descends 30 feet
+ you find a harrowing sight. The dim room is           down and leads to the hive's infested tunnels.
+ scattered with woodcutting tools, axes, saws,         For the next section of the adventure, the
+ lumber, and other broken objects. The far             party will begin in area A of Map 2: Chittering
+ wall is covered in a silken white substance,          Hive Hexcrawl.
+ protruding from which is a man's writhing
+ torso. His body is swollen and bulbous, and
+ he shudders with each labored breath, locking
+ eyes with you as he meekly lifts his head.
+    “Kill me,” he cries in a raspy voice buzzing
+ with a strange vibrato.
+
+
+                                  Liber Obscura 016 – The Chittering Hive                             5
+        CHITTERING HIVE
+                                                     Movement
+                                                     The party can travel at a slow, normal, or fast
+In the depths beneath the infected village lies      pace. The faster they go, the higher their
+the Chittering Hive, a sprawling, subterranean       Danger Level will increase and the more likely
+labyrinth teeming with danger and the hive           they are to gain the attention of the hive’s
+queen’s ever-growing brood. This hex crawl           defenders. Additionally, perception checks to
+adventure is designed to challenge the players       avoid being ambushed will become harder the
+as they navigate the depths of the hive, fighting    faster the party moves.
+through a network of ominous tunnels and
+chambers, each fraught with peril. The               Slow Pace. If the party moves slowly, they can
+chapter is divided into two subsections, the         travel 4 hexes per 10 minutes, and their
+Hive Hexcrawl, which covers the mechanics            Danger Level increases by +3. They have
+for running this chapter, and the Map Areas,         advantage on perception checks for any
+which describe special areas of the hive. The        random events.
+party’s goal is to reach the queen and slay her,
+exterminating her brood for good.                    Normal Pace. If the party moves at a normal
+                                                     pace, they can travel 6 hexes per 10 minutes,
+Hive Hexcrawl                                        and their Danger Level increases by +4.
+
+This section covers the hexcrawl system to
+                                                     Fast Pace. If the party moves at a fast pace,
+build the party’s journey through the
+                                                     they can travel 8 hexes per 10 minutes, and
+Chittering Hive by creating randomized events
+                                                     their Danger Level increases by +5. They have
+based on the path they take and the decisions
+                                                     disadvantage on perception checks.
+they make. As the party delves into the
+darkness below the infected village, they’ll
+encounter a maze of tunnels, each presenting         Normal & Hazardous Areas
+new dangers and discoveries.                         Some traversable hexes are clear on the
+                                                     Chittering Hive Hexcrawl Map, representing
+Danger Level. Danger Level is a mechanic             normal areas, while others are marked in red,
+that will be used throughout this hexcrawl           representing hazardous areas. At the end of
+system. Various actions and activities will          each 10 minutes, check to see whether the
+increase the Danger Level the party faces. A         party is in a normal or hazardous area.
+random event check will occur every 10
+minutes, and the higher the party’s current          Normal Areas increase the Danger Level by
+Danger Level, the more likely they are to            +1.
+encounter enemies during that random event.
+After the random event check, the party’s            Hazardous Areas increase the Danger Level
+Danger Level resets to 0.                            by +3.
+
+
+
+6                               Liber Obscura 016 – The Chittering Hive
+  Map 2: Chittering Hive Hexcrawl
+
+
+
+
+Liber Obscura 016 – The Chittering Hive   7
+Event Rolls                                            LUCKY FIND TABLE
+After every 10 minutes, the GM should roll for         1d4    Lucky Find
+a random event. This should normally happen            4      Hidden Alcove. The party finds a small,
+at the end of every section of movement the                   dark alcove free of the hive’s taint.
+party makes. However, you should also make                    Resting here is safe and will not result in
+a random event roll for every 10 minutes the                  any random event rolls.
+party spends resting. They may be snooping
+                                                       3      Treasure Chest. The party finds a locked
+around the nearby area or be attacked by a
+                                                              treasure chest. The DC to pick the lock is
+patrolling group of enemies. When resting, the                10 + 1d6, and it contains 8d100 gp worth
+party will not be moving so the Danger Level                  of coins, jewels, and jewelry. If it is
+will be determined by the area they are in only.              smashed open, half the value of the
+                                                              treasure is destroyed.
+EVENT ROLL TABLE                                       2      Dead Hero. The remains of an
+1d20      Event                                               adventurer is found. If the party loots it,
+17 – 20 Lucky Find                                            roll 1d4. They find the following items:
+                                                              1. A spell scroll (4th level) of the GM’s
+13 - 16   Nothing
+                                                                   choice.
+9 – 12    Environmental encounter                             2. 1 potion of superior healing.
+8         High Alert. A disturbance is felt                   3. 6d100 gp.
+          throughout the hive sending the                     4. An uncommon magic item of the
+          defenders on high alert. For the next                    GM’s choice.
+          hour, Danger Level is increased by +1,       1      Cultist Altar. A strange altar is found. It
+          and random event roll of 8 results in a             seems to call to the party, bidding them
+          Hard Encounter.                                     without words to spill their own blood on
+6         Challenging encounter                               its surface. The first character to spill
+                                                              their own blood on the altar rolls 1d4 and
+4–5       Normal encounter                                    gains the following boon, lasting 30
+1–3       Easy encounter                                      minutes.
+                                                              1. Focus: +3 to all attack rolls, and +2
+                                                                   to their spell save DC.
+Lucky Find
+                                                              2. Power: +1d6 force damage each time
+Sometimes the party may find a special
+                                                                   they deal damage.
+treasure or location that offers respite from
+                                                              3. Dominance: advantage on all skill
+their difficulties. When the random event roll
+                                                                   checks and saving throws.
+results in a 17 – 20, roll on the following table
+                                                              4. Replenishment: regain half their
+to determine what they find.                                       missing hit points and half their
+                                                                   missing hit dice.
+
+
+
+8                                 Liber Obscura 016 – The Chittering Hive
+Environmental Encounter                               Enemy Encounters
+If the random event roll results in a 9 – 12, the     Based on the current Danger Level at the time
+party runs into an environmental encounter.           of the event roll, a result of 1 – 7 (or 8 if the
+Roll on the following table to determine what         hive is on high alert), might cause a random
+they must contend with.                               enemy encounter to occur. To see if enemies
+                                                      attack, compare the current Danger Level to
+ENVIRONMENTAL ENCOUNTER TABLE                         the roll. If the Danger Level is equal to or
+                                                      higher than the roll, an enemy encounter
+1d4    Environmental Encounter
+                                                      happens. If the Danger Level is lower than the
+4      Exploding Sacs. Pulsating bug sacks
+                                                      roll, an enemy encounter does not happen. For
+       along the tunnel wall or ceiling explode.
+                                                      example, if the Danger Level is a 5 and the
+       Each party member must make a DC 12
+                                                      event roll results in a 6, no enemy encounter
+       Dexterity saving throw to avoid the
+                                                      occurs. However, if the Danger level is a 5 and
+       splash, taking 3d6 acid damage on a
+                                                      the even roll results in a 5, an enemy
+       failure, or half as much on a success.
+                                                      encounter does occur.
+3      Cave-In. A large boulder blocks the                Enemy Combinations. To generate the
+       tunnel ahead. It can be pushed clear with      enemy encounter, use the tables on the
+       a DC 15 Strength (Athletics) check.            following pages. First, determine whether the
+       Otherwise, the party must backtrack 1d8
+                                                      encounter is Easy, Normal, or Challenging.
+       hexes to find a new path forward again.
+                                                      Then roll 1d4 and attack the party with the
+2      Death Fungi. A cluster of fungi release        noted enemies based on the adventure
+       deadly spores into the air as the party        difficulty. If you’d prefer, you can also choose
+       passes. Each party member must make a          your favorite combinations or make your own
+       DC 12 Constitution saving throw, taking        instead!
+       2d8 necrotic damage on a failure or half
+       as much on a success.
+1      Falling Stalactites. Stalactites fall from
+       the ceiling. Each party member must
+       make a DC 15 Dexterity saving throw,
+       taking 1d10 piercing damage on a failure.
+
+
+
+
+                                 Liber Obscura 016 – The Chittering Hive                             9
+EASY ENCOUNTERS
+Difficulty   1d4   Enemies
+Medium        4    8 chitin thralls and 7 walking hives
+              3    4 chitin thralls and 1 locust guardian
+              2    4 walking hives and 1 locust guardian
+              1    1 razorwing
+Hard          4    11 chitin thralls and 11 walking hives
+              3    5 chitin thralls, 5 walking hives, and 1 locust guardian
+              2    1 chitin thrall and 2 locust guardians
+              1    2 chitin thralls and 1 razorwing
+Nightmare     4    9 chitin thralls, 8 walking hives, and 1 locust guardian
+              3    5 chitin thralls, 4 walking hives, and 2 locust guardians
+              2    2 chitin thralls, 2 walking hives, 1 locust guardian, and 1 razorwing
+              1    2 razorwings
+Torment       4    7 chitin thralls, 6 walking hives, and 2 locust guardians
+              3    5 chitin thralls, 4 walking hives, and 3 locust guardians
+              2    5 chitin thralls, 4 walking hives, 1 locust guardian, and 1 razorwing
+              1    1 locust guardian and 2 razorwings
+
+NORMAL ENCOUNTERS
+Difficulty   1d4   Enemies
+Medium        4    9 chitin thralls and 8 walking hives
+              3    6 chitin thralls and 1 locust guardian
+              2    6 walking hives and 1 locust guardian
+              1    1 chitin thrall and 1 razorwing
+Hard          4    15 chitin thralls and 15 walking hives
+              3    7 chitin thralls, 6 walking hives, and 1 locust guardian
+              2    5 chitin thrall and 2 locust guardians
+              1    5 chitin thralls and 1 razorwing
+Nightmare     4    15 chitin thralls, 15 walking hives, and 1 locust guardian
+              3    6 chitin thralls, 5 walking hives, and 2 locust guardians
+              2    5 chitin thralls, 4 walking hives, 1 locust guardian, and 1 razorwing
+              1    3 chitin thralls and 2 razorwings
+Torment       4    16 chitin thralls, 15 walking hives, and 2 locust guardians
+              3    6 chitin thralls, 6 walking hives, and 3 locust guardians
+              2    6 chitin thralls, 6 walking hives, 1 locust guardian, and 1 razorwing
+              1    3 chitin thralls, 3 walking hives, 1 locust guardian and 2 razorwings
+
+
+
+
+10                           Liber Obscura 016 – The Chittering Hive
+CHALLENGING ENCOUNTERS
+Difficulty   1d4   Enemies
+Medium        4    11 chitin thralls and 11 walking hives
+              3    9 chitin thralls and 1 locust guardian
+              2    1 walking hive and 2 locust guardians
+              1    2 chitin thralls and 1 razorwing
+Hard          4    8 chitin thralls and 7 walking hives, and 1 locust guardian
+              3    5 chitin thralls, 4 walking hives, and 2 locust guardian
+              2    2 chitin thralls, 2 walking hives, 1 locust guardian, and 1 razorwing
+              1    2 razorwings
+Nightmare     4    6 chitin thralls, 5 walking hives, and 3 locust guardians
+              3    2 chitin thralls, 2 walking hives, and 4 locust guardians
+              2    4 chitin thrall, 3 walking hives, 2 locust guardians, and 1 razorwing
+              1    2 locust guardians and 2 razorwings
+Torment       4    5 chitin thrall, 5 walking hives, 3 locust guardians, and 1 razorwing
+              3    4 chitin thralls and 6 locust guardians
+              2    3 locust guardians and 2 razorwings
+              1    4 razorwings
+
+
+
+
+                             Liber Obscura 016 – The Chittering Hive                       11
+Map Areas                                               As you prepare to enter a large cavern, you
+Map 2: Chittering Hive Hexcrawl contains                halt in your tracks, hearing a loud chittering
+the following special areas. The following              and the clattering of a dozen chitinous
+subsections provide detailed descriptions,              footsteps. A patrol of the insectoids, their
+special rules, and narrative scripts to read            chitin armor clacking with each step, passes
+when the party first enters each area.                  by, headed somewhere deeper within. The
+                                                        walls of the cavern are coated with a metallic
+                                                        sheen that seems to pulsate every few
+A) Descending Ladder
+                                                        seconds as if breathing, made by the
+This rickety ladder descends into the gloomy            resonating bodies of hundreds of drone
+depths of the hive from the hidden hatch in the         soldiers. Luckily, they do not appear to have
+woodcutter’s shed (area 3 of Map 1: Infected            noticed you yet. You wait a few minutes as
+Village). The ladder creaks ominously under             the mass of insectoids swarms off into a
+the weight of the adventurers, as they                  dozen smaller tunnels branching off in all
+transition from the known world above to the            directions. This place appears to be crawling
+unknown horrors below. Read this script as              with the bugs, perhaps a place the soldiers
+the party finishes their descent.                       gather before striking out at the world above.
+                                                        You must be cautious here, lest you draw the
+                                                        attentions of their patrolling swarms.
+ As you cautiously descend the creaking
+ ladder, the air grows colder, and a faint
+ chorus of chittering begins to echo from the         Special Rule. The concentration of insects in
+ darkness below. Each step takes you deeper           this area make it more likely to encounter
+ into the bowels of the earth, where darkness         enemies. An event roll of 13 or 14 results in a
+ and danger await, before finally your feet           Normal encounter here.
+ crunch down on solid earth. Peering around,
+ you find yourself at the entrance of a lightless     C) Larval Hive
+ tunnel system.
+                                                      A grotesque nursery of sorts, this area is filled
+                                                      with pulsating egg sacks and larval insects. It's
+B) Swarming Grounds                                   damp and warm, with a palpable sense of life
+This area is alive with the constant, unnerving       teeming beneath the surface. This area is a
+buzz of insectoid activity. It serves as a staging    Hazardous Area. Read this script when the
+ground for the hive's defenders, where their          party first enters this area.
+swarms converge and build as they prepare to
+strike out at the overworld above. This area is
+a Hazardous Area. Read this script when the
+party first enters this area.
+
+
+
+
+12                               Liber Obscura 016 – The Chittering Hive
+ You step into a warm, damp chamber, your             In the heart of the hive, you find a cavern
+ senses immediately overwhelmed by the thick          filled with an eerie, foreboding silence, broken
+ humidity and warmth in the air. The walls and        only by the faint, muffled sounds of anguish.
+ ceiling glisten with pulsating egg sacks, the        Suspended throughout the chamber are
+ air resonating with the subtle squelching of         large, pulsating cocoons, each one writhing
+ countless larvae squirming within. Beneath           subtly as if in response to an unseen force.
+ your feet, the ground seems to shift slightly,       Suddenly, one of the largest cocoons
+ alive with unseen movement. This chamber             shudders violently, then bursts open, spilling
+ and the tunnels connected to it appear to be         a slick, viscous fluid onto the cavern floor.
+ a large complex of nurses, vital to the hive's       From within emerges a nascent insectoid-
+ growth. You must be cautious here, for               human hybrid. It writhes on the ground, its
+ disturbing its inhabitants could provoke a           new wings glistening and heavy, leaving a
+ swift and relentless response from the hive’s        sludge-like trail as it laboriously drags itself
+ guards attempting to protect their young.            into the shadows, still unaccustomed to its
+                                                      strange limbs. The sight is unnerving, a stark
+                                                      display of the transformation taking place
+Special Rule. The larval young of the hive are        within these cocoons - a grim fusion of
+its most protected asset besides the queen.           human and insect, born from the dark
+The hive is sensitive to any threats here. The        whispers of the hive.
+hive is always on High Alert here, the same as
+an event roll of 8.
+                                                    Special Rule. The elite insects in this area
+                                                    make it more likely to encounter difficult
+D) Ascension Grounds
+                                                    enemies. If an easy enemy encounter is
+This sinister place is where the queen's elite
+                                                    generated, make it a normal encounter
+are born, their bodies metamorphosized from
+                                                    instead. If a normal enemy encounter is
+insectoid and human physiology. Strange
+                                                    generated, make it a challenging encounter
+cultists that worship the hive come here to
+                                                    instead.
+undergo the change. Their minds overridden
+by the queen’s psychic calling, these cultists
+make the pilgrimage to the dark depths of the
+                                                    E) Queen’s Chamber
+hive to undergo this grotesque transformation.      The epicenter of the hive, this chamber is
+The area is marked by writhing cocoons and          grand and horrifying. The queen, in all her
+the muffled screams of those experiencing this      grotesque glory, resides here, constantly
+ascendant change. This area is a Hazardous          birthing the next generation of her gestating
+Area. Read this script when the party first         larvae. This chamber is represented by Map 3:
+enters this area.                                   Hive Chamber. Read this script when the
+                                                    party first enters this area.
+
+
+
+
+                               Liber Obscura 016 – The Chittering Hive                               13
+             Map 3: Hive Chamber
+
+
+
+
+14   Liber Obscura 016 – The Chittering Hive
+                                                    Loot. If the party wins the encounter, they may
+ As you step into the next chamber, you find a
+                                                    roll 4d10. Based on the cumulative roll score,
+ sight both revolting and mesmerizing.
+                                                    they find the following item. Add a bonus to
+ Dominating the room is the hive queen, a
+                                                    the cumulative roll score depending on the
+ grotesque amalgamation of insect and
+ humanoid form. Her lower body is an                adventure difficulty level.
+ enormous, soft pale mass, riddled with
+ pulsating birthing sacs. From these sacs,          LOOT TABLE
+ dozens of larvae squirm free, wet and               4d10         Item Discovered
+ wriggling, writhing with newformed life. Her
+                                                     30+          Staff of Swarming Insects
+ upper body rises, a twisted parody of the
+ human form, with multiple insectoid arms            1 – 29       nothing
+ flailing weakly and a misshapen, almost
+ humanoid torso and head. The queen's eyes,         Map Areas. The map of the queen’s chamber
+ multifaceted and unblinking, fixate on you,        is depicted on Map 3: Hive Chamber.
+ imparting an immediate sense of dread. The
+ air around her is thick with the musky scent
+                                                    1) Chamber Entrance
+ of new life and decay, the atmosphere              The party enters the chamber on a suspended
+ oppressive and heavy, as if her very presence
+                                                    walkway of natural earth.
+ taints the air you breathe.
+
+                                                    2) Earthen Platform
+Enemies. The following enemies are present          The queen and any locust guardians start on
+here.                                               this platform. Razorwings can start on the
+                                                    platform or fly anywhere on the map.
+QUEEN’S CHAMBER ENCOUNTER
+                                                    3) Sunken Pit
+Difficulty   Enemies
+                                                    Recessed areas around the earthen platform
+Medium       1 hive queen                           fall 15 feet down. The sunken areas are filled
+Hard         1 locust guardian and 1 hive           with natural toxic gasses. A creature that
+             queen                                  starts its turn in the area must make a DC 14
+Nightmare 2 locust guardians, 1 razorwing,          Constitution saving throw, taking 10 (3d7)
+          and 1 hive queen                          poison damage on a failure.
+
+Torment      2 locust guardians, 3 razorwings,
+             and 1 hive queen
+                                                    F) Escape Ladder
+                                                    Beyond the queen’s chamber, a pathway takes
+                                                    the party back up to the surface world, leading
+                                                    to a small hunter’s shed in the woods. Read
+                                                    this script as the party makes the ascent.
+
+
+
+                               Liber Obscura 016 – The Chittering Hive                          15
+                                                     once filled their minds is now silent, leaving a
+ Beyond the queen's chamber, in the dimmest
+                                                     void. As they emerge, they find themselves
+ recesses of the hive, you discover a secret
+                                                     changed, more wary of the shadows of the
+ passage. Narrow and steep, it ascends away
+                                                     world. They might carry with them a sense of
+ from the darkness, a silent path leading
+ towards freedom. As you climb, the                  unease, a constant reminder of the horrors
+ oppressive atmosphere of the hive gradually         they witnessed and overcame.
+ fades, replaced by a growing sense of hope.
+ This hidden route offers a silent escape, a way
+ back to the light of the surface world, away
+ from the suffocating depths and echoing
+ sounds of the chittering insect swarms. You
+ hope with the queen defeated, her armies will
+ wither and fade, cut off from the will of their
+ sovereign mother, though you cannot be sure
+ what will happen in the coming weeks,
+ months, or years.
+
+
+
+Ending the Adventure
+After the defeat of the hive queen, the hive's
+ominous influence begins to wane. The
+outcome of this adventure can vary depending
+on the hook that initiated the journey.
+    Dark Cult. For parties investigating the
+cult, returning with news of the hive queen's
+defeat will be met with relief and awe. The
+council, realizing the gravity of what almost
+befell them, rewards the party with a
+significant sum of gold.
+    Villager's Plea. For those who embarked
+on this quest at the behest of a desperate
+villager, returning to the village brings a
+bittersweet closure. The surviving villagers,
+though mourning their lost, celebrate the party
+as heroes who prevented a greater tragedy.
+    Queen’s Call. If the party was lured into
+the hive by the queen's telepathic call, finding
+their way back to the surface might be an
+eerie, quiet journey. The haunting voice that
+
+16                              Liber Obscura 016 – The Chittering Hive
+                                     MONSTERS & NPCS
+Chitin Thrall                                              Locust Guardian
+Medium humanoid, unaligned                                 Large monstrosity, unaligned
+Armor Class 13 (natural armor)                             Armor Class 15 (natural armor)
+Hit Points 27 (5d8 + 5)                                    Hit Points 76 (9d10 + 27)
+Speed 30 ft.                                               Speed 30 ft.
+
+  STR     DEX      CON      INT      WIS     CHA             STR     DEX      CON      INT      WIS     CHA
+   12      10       12        2       6       4               18      12       16       4        10      6
+  (+1)    (+0)     (+1)     (-4)     (-2)    (-3)            (+4)    (+1)     (+3)     (-3)     (+0)    (-2)
+Senses darkvision 60 ft., passive Perception 8             Skills Perception +2
+Languages –                                                Senses darkvision 60 ft., passive Perception 12
+Challenge 1/4 (50 XP)                                      Languages –
+                                                           Challenge 4 (1,100 XP)
+Actions
+                                                           Actions
+Multiattack. The thrall makes two attacks: one
+with its slam and one with its claw.                       Multiattack. The locust makes two attacks: one
+                                                           with its bite and one with its claws.
+Claw. Melee Weapon Attack: +2 to hit, reach 5
+ft., one target. Hit: 4 (1d8) slashing damage.             Bite. Melee Weapon Attack: +6 to hit, reach 5 ft.,
+                                                           one target. Hit: 13 (2d8 + 4) piercing damage.
+Piercer. Melee Weapon Attack: +3 to hit, reach 5
+ft., one target. Hit: 4 (1d6 + 1) piercing damage.         Claw. Melee Weapon Attack: +6 to hit, reach 5
+                                                           ft., one target. Hit: 11 (2d6 + 4) slashing
+                                                           damage.
+
+                                                           Territorial Assault (Recharge 5-6). The locust
+                                                           emits a terrifying, high-pitched shriek. Each
+                                                           enemy creature within 15 feet must succeed on a
+                                                           DC 14 Wisdom saving throw or be frightened for
+                                                           1 minute. A frightened creature can repeat the
+                                                           saving throw at the end of each of its turns,
+                                                           ending the effect on itself on a success.
+
+
+
+
+                                    Liber Obscura 016 – The Chittering Hive                                     17
+ Razorwing                                                  Walking Hive
+ Large monstrosity, unaligned                               Medium humanoid, unaligned
+ Armor Class 16 (natural armor)                             Armor Class 10
+ Hit Points 102 (12d10 + 48)                                Hit Points 18 (4d8)
+ Speed 30 ft., fly 60 ft.                                   Speed 20 ft.
+     STR    DEX     CON      INT      WIS      CHA            STR      DEX     CON       INT      WIS      CHA
+      16     18      18       12       14       10             10       8       10         2       6        4
+     (+3)   (+4)    (+4)     (+1)     (+2)     (+0)           (+0)     (-1)    (+0)      (-4)     (-2)     (-3)
+ Skills Acrobatics +7, Perception +5 Stealth +7             Senses blindsight 10 ft. (blind beyond this radius),
+ Senses darkvision 60 ft., passive Perception 15              passive Perception 8
+ Languages –                                                Languages –
+ Challenge 6 (2,300 XP)                                     Challenge 1/4 (50 XP)
+
+ Silent Assassin. The razorwing can hide as a               Living Nursery. Upon the walking hive’s death,
+ bonus action on its turn, and it has advantage             it makes a DC 10 constitution saving throw. On
+ on attack rolls against any creature it has                a success, a swarm of insects emerges from its
+ surprised.                                                 body.
+
+ Actions                                                    Actions
+ Multiattack. The razorwing makes two attacks               Claw. Melee Weapon Attack: +2 to hit, reach 5
+ with its claws.                                            ft., one target. Hit: 2 (1d4) slashing damage.
+
+ Claw. Melee Weapon Attack: +7 to hit, reach 10
+ ft., one target. Hit: 15 (2d10 + 4) slashing
+ damage.
+
+ Assassin Strike. Melee Weapon Attack: +7 to
+ hit, reach 10 ft., one creature. Hit: 20 (3d10 + 4)
+ piercing damage. If the target is a large or
+ smaller creature, it must succeed on a DC 15
+ Dexterity saving throw or become impaled. An
+ impaled creature is restrained and takes 7 (2d6)
+ piercing damage at the start of each of its turns.
+ The creature or another within 5 feet can use its
+ action to attempt a DC 15 Strength check,
+ freeing the creature on a success. If used
+ against a surprised creature and the strike lands,
+ the razorwing gains its action back.
+
+
+
+
+18                                   Liber Obscura 016 – The Chittering Hive
+Hive Queen                                                   Legendary Actions
+Gargantuan monstrosity, unaligned                            The queen can take 3 legendary actions, choosing from
+                                                             the options below. Only one legendary action option can
+Armor Class 17 (natural armor)                               be used at a time and only at the end of another
+Hit Points 189 (14d20 + 70)                                  creature's turn. The queen regains spent legendary
+Speed 10 ft.                                                 actions at the start of its turn.
+
+  STR     DEX      CON      INT      WIS      CHA            Spawn Eggs. The queen fires a cluster of eggs at a point
+   20      8        20       16       18       22               within 30 feet of her. The cluster of eggs has 14 AC
+  (+5)    (-1)     (+5)     (+3)     (+4)     (+6)              and 10 hit points. At the end of each of the Hive
+                                                                Queen’s turns, all surviving egg sacks hatch into an
+Skills Perception +8                                            insect swarm.
+Senses darkvision 60 ft., passive Perception 18              Mind Screech. Once per round, the queen can send out
+Languages telepathy 120 ft.                                     harsh a psionic screech. Each enemy creature within
+Challenge 11 (7,200 XP)                                         120 feet must make a Wisdom saving throw with DC
+                                                                equal to 10 + their total Mind Corruption, taking 10
+Legendary Resistance (3/Day). If the queen fails a              (3d6) psychic damage on a failure.
+saving throw, it can choose to succeed instead.              Mind Sheer. Once per round, the queen can target a
+                                                                creature she is aware of with at least 3 Mind
+Queen’s Influence. At the start of each of the queen’s          Corruption that is within 120 feet, assaulting its
+turns, she can force any numbers of creatures she is            mind with a powerful psionic attack. The target must
+aware of within 120 feet to make a DC 12 Intelligence           make a DC 15 Wisdom saving throw, taking 28 (8d6)
+saving throw. On a failure, they gain +1 Mind Corruption,       psionic damage on a failure.
+increasing up to 20 and lasting for the next 48 hours. The   Command Swarm (Costs 2 Actions). The queen issues
+queen’s other abilities and traits make use of Mind             a telepathic command to all swarms she controls,
+Corruption, slowly whittling away at the minds and wills        directing it to move and/or attack.
+of her foes.                                                 Dominate Mind (Costs 3 Actions). The queen targets a
+                                                                creature she is aware of within 120 feet that has at
+                                                                least 6 Mind corruption. The target must succeed on
+Actions                                                         a DC 15 Charisma saving throw or fall under the
+                                                                complete control of the queen for the next 1 minute.
+Multiattack. The queen makes two slam attacks and may           The target can repeat its saving throw at the end of
+use summon swarm.
+                                                                each of its turns.
+Slam. Melee Weapon Attack: +9 to hit, reach 10 ft., one
+target. Hit: 18 (2d12 + 5) bludgeoning damage.
+
+Force Push. The queen sends out a 15-foot cone of
+psionic energy. Enemies caught in the area must make a
+DC 15 Dexterity saving throw to avoid being struck, taking
+21 (6d6) force damage on a failure, and being pushed to
+the end of the cone.
+
+Summon Swarm. The queen summons a swarm of
+insects that appear in unoccupied spaces within 60 feet
+of her. The swarm acts under her control, following her
+telepathic commands. The swarm disperses after 1 hour
+or when reduced to 0 hit points.
+
+
+
+
+                                     Liber Obscura 016 – The Chittering Hive                                            19
+

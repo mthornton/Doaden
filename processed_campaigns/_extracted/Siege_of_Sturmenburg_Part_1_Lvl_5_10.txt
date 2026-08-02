@@ -1,0 +1,1969 @@
+SIEGE OF STÜRMENBURG
+           part I
+
+
+ A 5E Compatible Adventure
+   Suitable for Levels 5-10
+             THE WORLD OF DOADEN
+
+W     elcome to Doaden, the dark fantasy setting of tainted lands and twisted
+      monsters, where an ever-creeping affliction corrodes the very essence of
+                                  existence.
+
+ It is a world of decay and depravity where once-righteous men and heroes of
+ glorious purpose now struggle to survive as cults and dark gods vie with one
+               another to consume the last vestiges of humanity.
+
+     It is a world of death, trapped in the fading dusk of a fallen empire.
+The heroes that wander these lands are no grand adventurers to be honored in
+                              songs of minstrels.
+ For the heavy deeds and decisions these wanderers undertake invariably leave
+ them disheartened, broken, nothing more than soulless husks and shadows of
+                          their once-glorious selves.
+
+Yet as dark as Doaden may be, humanity clings to life with a stubborn tenacity,
+                    a last flickering flame within the dark.
+ A last hurrah, a final war cry that shall echo in the black abyss of eternity,
+                a momentary victory before the endless night.
+                            Credits
+
+    Developed by:
+      Bestiarum Games
+
+    Lead Game Designer:
+      Alexander Dovermann
+
+    Game Designer:
+      Giovani C. Fiorini
+
+    Graphic Design:
+      Katarina Popovici
+      Alexander Dovermann
+      Marina Jukova
+
+    Cartography:
+      Giovani C. Fiorini
+      Alexander Dovermann
+      Katarina Popovici
+      Marina Jukova
+
+                                ON THE COVER:
+                                THE CYROX
+
+                                “
+                                  Cyrox are huge, hideously malformed
+                                beasts with a single eye at the center of
+                                their forehead, leaving them with little to
+                                no peripheral vision.
+                                   These dumb, almost brainless
+                                creatures are coralled into war and used
+                                as siege weapons by the beastmen armies
+                                who keep them under chains and leashes,
+                                provoking and inciting their rage. An
+                                enraged Cyrox makes little distinction
+                                in battle between friend or foe and will
+                                stomp its way over anything that crosses
+                                its path.
+
+                                                                       .”
+4
+                                                           Contents
+CREDITS............................................................4       CHAPTER 2: INTO THE WILD...................25
+CONTENTS.......................................................5            THE NORTHERN WOODS GATE.........25
+FOREWORD: ...................................................6                   Quests & Events..........................................25
+ADVENTURE SUMMARY:
+Siege Of StÜrmenburg pt. I......................7                                Map C: Areas..............................................25
+    SCENARIO STRUCTURE......................7                                    Running the Encounter...............................26
+        Story Hook..................................................7            Map C: Northern Woods Gate....................28
+        Chapters......................................................7       EIR BE DAMMED......................................29
+        Balance........................................................7         Reaching the Dam.......................................29
+INTRODUCTION.............................................8                       Map D: Areas..............................................30
+   BACKGROUND.......................................8                            Running the Encounter...............................31
+        The North....................................................8           Map D: River Blockage..............................32
+        Persistent Rules...........................................8       CHAPTER 3: BLOOD AND FLAME...........33
+        Regional Map..............................................9         THE FALL OF TRÄZ..................................33
+      HISTORY OF STÜRMENBURG.........10                                          Map E: Areas...............................................33
+        Notable Characters....................................10                 Ending the Encounter..................................35
+        The Great Walls.........................................11               Map E: Burning Fields................................36
+        The Great Gates........................................11          EPILOGUE.......................................................37
+      LOCATIONS IN STÜRMENBURG....12                                         The Siege of Stürmenburg, Part II.37
+        District Träz..............................................12         APPENDIX A: BESTIARY............................38
+
+        District Sten..............................................13         SWARMS (CR 2).........................................40
+
+        District Stahl.............................................14            Capra Scouts...............................................40
+
+        Map A: Stürmenburg.................................15                 SOLDIERS (CR 3).......................................42
+
+CHAPTER 1: DARK OMENS.......................16                                   Capra Hunter...............................................42
+   STARTING THE ADVENTURE..........16                                            Capra Raider...............................................44
+      BLACK FOREST AMBUSH..................17                                 ELITES (CR 5)..............................................46
+        Map B: Areas............................................17               Aurox Reaver..............................................46
+        Map B: Black Forest Ambush...................18                       BOSSES (CR 10 / 12)...................................48
+      ARRIVAL AT STÜRMENBURG.......... 19                                        Cyrox..........................................................48
+        Passage Through Gate Ulf........................19                    APPENDIX B: GAMEPLAY RESOURCES....51
+        The Corpse Cart........................................19              Letter from Captain Arne............................51
+
+        The Ironworks...........................................21               Letter from Lord Lucious............................52
+     TEMPEST TAVERN................................22
+        Captain Arne.............................................22
+        Seeking the Seer........................................23
+
+                                                                                                                                                     5
+                                          Foreword
+
+       Compatibility. This adventure is intended
+    for use in conjunction with the D&D 5e Player’s   THERE IS LIGHT YET in Doaden, and
+    Handbook (PHB), Dungeon Master’s Guide            though it may seldom come in the form of
+    (DMG), and Monster Manual (MM).                   love or joy, it still shapes itself into a sem-
+                                                      blance of honor, purpose, and redemption.
+       Civilization & Trade in Doaden have
+    crumbled. Only gold, silver, and copper are              - Dreyen Solius, Journal of the World’s Ending.
+    circulated, and only at 1/10th the amount
+    suggested in D&D manuals. Magical items are
+    extraordinarily rare.
+
+       Statblocks for Bestiarum creatures are
+    included in the scenario appendix. These            Narrative Scripts. Passages in this
+    creatures will be written in bold text.             format are meant to be read aloud or
+                                                        paraphrased. They build atmosphere or
+                                                        reveal key information to the adventuring
+                                                        party.
+
+
+
+
+                                                        Recurring Rules. These passages cover
+                                                        mechanics used to resolve situations in
+                                                        the scenario. The rule will be detailed in
+                                                        this format the first time it is used, but it
+                                                        may be referenced more than once.
+
+
+
+
+                                                        Torment Mode. Adventurers in Doaden
+                                                        are designed for Normal Mode parties
+                                                        ranging from levels 5 - 7 and Torment
+                                                        Mode parties ranging from levels 8
+                                                        - 10. Torment Mode modifications to
+                                                        encounters are written in this format.
+
+
+
+
+6
+                  Adventure Summary: Siege of
+                       Stürmenburg Pt. I
+                                                      stage the defense of the city.
+
+                                                      CHAPTERS
+        ightning rips apart the sky as thunderous
+booms drown out the clash of steel upon steel.           Chapter 1: The party is ambushed by beastmen
+The night rings loud with the roars of enraged        on the way to Stürmenburg. When they arrive at
+warriors and the guttural moans dying men as          the city, they see its defenders suffering heavy
+their lifeblood soaks into the wet earth. The         losses as their morale wanes amidst the dark
+darkened sky cries, flooding the cobbled city with    tidings and cryptic omens of their seer.
+sheets of cold rain and sleet. Yet the night burns
+bright with the flames of war, as the Horn of Odr        Chapter 2: The party must use explosives to
+echoes into the black.                                free a river which the beastmen have dammed.
+   Unsheathe your sword, tighten your armor, and      Without the flowing river, the city will lose its
+brace yourselves, adventurers. For the night will     access to fresh water. On the way out of the city,
+be drowned in death.                                  the party must defend the wall against waves of
+                                                      beastmen and a cyclopean giant.
+   Sürmenburg is a war-torn fortress city
+protected by three powerful ringed walls. The            Chapter 3: As the party returns from the wilds,
+great walls of Stürmenburg have stood for             the Horn of Odr is blown, echoing throughout
+countless generations, its hardened human             the city. Flames and smoke rise from the farming
+defenders clawing every day for survival against      districts. Peasants scream as a titanic monster
+the relentless hordes of demons, men, and beasts,     breaches the walls, cracking the city open for the
+shielding the southern regions from invasion.         hordes to spill in.
+   Yet something has changed. In response to             In a desperate effort, the party must stall the
+a distressing letter sent by Stürmenburg’s city       beastmen and fight another giant to make their
+guard, the rangers have dispatched their most         way back into the city and buy time for evacuees
+capable soldiers and allies to defend the city        to retreat behind the inner walls of the city.
+against a growing beastman swarm.
+                                                      BALANCE
+Scenario Structure
+This scenario is an intense siege encounter. The         This scenario is balanced for 3-4 players, with
+story unravels as the party engages in several        Normal Mode levels 5-7, and Torment Mode
+skirmishes against beastmen hordes. Between           levels 8-10.
+encounters, the adventurers will return to the
+Tempest Tavern, a small hub where they may
+resupply before heading to again.
+   Parts. This is the first of an epic two-part
+adventure. Part II will follow during a later
+release, picking up where this scenario ends.
+
+STORY HOOK
+
+The party will be rangers or allies of the rangers,
+assigned to aid Stürmenburg defenders against
+escalating attacks by beastmen hordes. They will
+partner with Arne, captain of the city guard, to
+
+
+
+                                                                                                           7
+                                                                                                               7
+                                       Introduction
+
+
+     T
+             his section provides background             Northern Religion
+             information about Stürmenburg and
+                                                            Northerners do not prescribe to the beliefs
+             the people, culture, and history of the
+                                                         of the Azerai church. Rather, they worship a
+             area. However, most information is
+                                                         pantheon of gods associated both as people and
+             not necessary to run the scenario.
+                                                         as natural elements.
+                                                            The End Flame. Northerners revere the End
+       To begin this adventure, turn to Chapter 1.
+                                                         Flame, a great fire which they believe birthed
+                                                         the world at the beginning of time and which
+    BACKGROUND                                           will one day consume all at the end of time.
+       The following paragraphs discuss                  The name itself is paradoxical and cannot be
+    information that will be helpful to keep in mind     translated accurately, as the word for “end”
+    while reading through and running this scenario.     and “beginning” in this context are the same,
+                                                         reflecting a cyclical belief in existence.
+
+    T HE N ORTH                                          The Beastmen
+
+       The North is a sparsely populated region             Beastmen hail from the north. Historically,
+    historically inhabited by nomadic tribes. The        they warred with the barbarian tribes, but
+    people are animistic, believing in nature spirits    often spilled into the south to pillage and
+    that are contrary to the beliefs of the Church of    raid. Though the wars of old quieted down to
+    Azerai. However, their warriors are fierce and       small skirmishes and opportunistic raids for
+    the region is too craggy and cold to grow much       many generations, they have recently become
+    crop or livestock.                                   militaristic once again. More information about
+       A military campaign of the magnitude needed       the Beastmen is included in Appx. A: Bestiary.
+    to conquer the north would be costly, arduous,
+    and offer little return. For these reasons, the
+    North maintains independence from the Empire,        P ERSISTENT R ULES
+    the Church finding little benefit in extending its      The following persistent rules apply
+    reach into such inhospitable lands.                  throughout this scenario.
+
+    Gaurric Language
+                                                         Wave Combat Encounters
+       Gaurric is the dominant language in the
+    north, predating the Empire. It is spoken               Use the following rules when running wave-
+    by common folk of the area and by druids             based encounters.
+    throughout the wilds. It uses a primitive writing
+    system of runes that are easily carved into rock        Spawning: spawn enemies at the
+    or leather. The Church of Azerai considers the          beginning of their noted round, according
+    language, as well as those who speak it, to be          to any rules which may be specified.
+    barbaric and uncivilized. Important NPCs in             Initiative: if a creature spawns at the
+    the area should be able to communicate in both          beginning of the first round of combat, roll
+    Gaurric and Common, but other nonessential              its initiative as normal.
+    characters might only speak Gaurric.                    Delayed Initiative. If a creature joins the
+       A character that originates from the north           fight in any round after the first, it is added
+    or who has spent time in the wilds may have             to the end of the initiative order.
+    learned Gaurric. A Barbarian, Druid, or                 Fast Initiative. If a creature has a Dexterity
+    Ranger would be especially likely to know this          modifier of +4 or higher, it is placed at the
+    language.                                               beginning of the initiative order.
+
+8
+                                Regional Map
+
+  This month’s adventure takes place in the following marked location of the region known as the Holy
+Western Empire, also referred to as the Western Reaches.
+
+
+
+
+                                                                                                        9
+                          History of Stürmenburg
+
+
+      T
+               he fortress city of Stürmenburg is          the Church, believing that Stürmenburg suffers
+               located along the northern frontier of      by having to pay great tithes to the Empire,
+               the Empire, thus it suffers the constant    receiving little to no aid in return.
+               barbarian and beastmen attack from             Arne holds a deep hatred toward the
+               the north. Though the defenders share       Beastmen after witnessing the death of his
+     much history and culture with the northmen,           father, a previous commander of the guard,
+     they have remained loyal to the Empire after          during his youth. With a high sense of value and
+     being conquered during its expansionary years.        justice, he is a well-beloved leader among the
+        As a fortress city subjected to constant           troops, seen as courageous and as a true hero for
+     war, most townsfolk have received extensive           putting himself in harm’s way for the sake of
+     military training. The city has a large supply of     others.
+     well-trained militia in addition to its city guard,
+     which acts as a standing army.                        Gorm the Seer
+                                                              Gorm is caretaker of the local Temple of
+     N OTABLE C HARACTERS                                  the End Flame. He leads the common people
+        Several non-player characters command the          in worship and acts as spiritual advisor to Lord
+     city and its defense. The players will interact       Arminius. The people of Stürmenburg rely on
+     with these characters as the scenario progresses.     his dark and disquieting visions, distilling from
+                                                           them information about their enemies and the
+        Lord Arminius                                      future. Defenders of Stürmenburg frequently
+                                                           seek out Gorm, asking for guidance and wisdom
+        Arminius is the warden and commander of            so that they may prepare themselves spiritually
+     Stürmenburg. He was born as Harvunn, son of           for the grim fates they know they must all face
+     Sigvald, of barbaric blood, but was inducted          one day.
+     into the Imperial Auxilia as a youth and received
+     the Latrian name Arminius. During his training        Hamarhelm the Ox
+     as an imperial soldier, he excelled at martial
+                                                               Hamarhelm is an elite warrior and member of
+     combat, battlefield tactics, and logistical
+                                                           Lord Arminius’ honor guard, the Blitzvakt. He
+     planning, quickly rising through the ranks to
+                                                           is the strongest of the elite guard, large as a bear,
+     become a respected commander.
+                                                           and carries a massive black iron hammer that
+        The Empire charged Arminius with the
+                                                           would take several ordinary men to move.
+     command of Stürmenburg, hoping that his
+     military talents would ensure the survival of the
+     city’s defenses, and that his barbaric heritage       Guard Bauer
+     would ensure the people remain compliant to              Bauer is a member of the city guard. He will
+     the Empire. For the last several years, Arminius      act as escort for the party at the beginning of the
+     has indeed held the line admirably against            adventure. He is distressed as his sister has gone
+     ceaseless northern invasions, shielding the south     missing after taking part in a scouting mission
+     from danger. His people look up to him as a           earlier that day.
+     fearless warrior and skilled general.
+                                                           Administrator Varus
+     Captain Arne
+                                                              Varus is an imperial agent who ensures the
+        Arne is the leader of the city guard. He is        imperial tithe is collected from the people of
+     known for his bravery, skill in combat, and           Stürmenburg. Additionally, he ensures that the
+     sincere compassion for his fellow townsfolk.          people remain compliant to the Empire and that
+     Born in the North, he speaks both Common and          Lord Arminius acts within his authority. He is
+     Gaurric. He is mistrustful of the Empire and          disliked by all of the locals.
+10
+T HE G REAT W ALLS                                   or the retellings vary so wildly that no one can
+                                                     determine the origins of the story.
+    Stürmenburg’s most distinctive features are
+its three massive walls that form rings around
+                                                     Gates Sif, Sigrid, and Tora
+the city, towering some 15 to 20 meters into the
+air. They grow progressively taller, rising from         Along the middle wall, Sten, are three gates,
+the outermost wall to the innermost one. The         known as the Sisters. To the north is Gate
+walls were constructed thousands of years ago        Sif, the east is Gate Sigrid, and the south is
+from monolithic slabs of stone carved from the       Gate Tora. Each gate is named after a triad of
+nearby mountains. It is unclear how the massive      legendary warrior sisters who united the early
+stones were cut or transported.                      tribes of the area and conquered the surrounding
+    The walls, from outer to inner, are named        lands, making it safe for the people to grow
+Wall Träz, Wall Sten, and Wall Stahl, so             communities and turn towards agriculture and
+named in Gaurric for wood, stone, and steel,         trade rather than war.
+respectively. These names represent the most
+important materials used to construct the city’s     Gate Odr
+defenses, which the people have relied on for
+countless generations.                                  Along the innermost wall, Stahl, is a single
+                                                     gate, Gate Odr, named after the first king of
+                                                     the people, who was said to be a descendant of
+T HE G REAT G ATES                                   giants. After his wife, Tora died, Odr became
+   Cut into each of Stürmenburg’s ringed walls       king and brought the people of the land into
+are several great fortified gates. Each gate is      their most prosperous age, many hundreds of
+built like a small fortress; shielded by layers of   years before the imperial expansion.
+thick doors and iron gates, riddled with murder
+holes and machicolations, and garrisoned by
+small armies of guardsmen.
+   Each gate draws its name from a warrior of
+local lore. However, the way locals recount the
+grand deeds of these heroes, it is never clear
+whether their stories are historical accounts or
+fantastical and wildly embellished legends.
+
+Gates Bjärn and Ulf
+   Along the outer wall, Träz, is the northern
+Gate Bjärn and southern Gate Ulf, named
+after two warriors, Bear and Wolf, who died
+fighting against the invading imperial army
+during the Empire’s expansion predating the
+Golden Age.
+   It is said that the two fought back-to-back for
+seven days, holding the line against thousands
+of soldiers, each killing several hundred before
+succumbing to their wounds. The tales tell
+of Ulf, who could slay ten men with a single
+arrow, and Bjärn who, even after losing an arm
+and both eyes in combat, managed
+to slay another twenty men before
+he was finally put down.
+   It is said that in life, the two
+loved the same woman, Brynhild, but
+this affair is largely ignored in the tales,
+
+                                                                                                         11
+                         Locations in Stürmenburg
+
+
+      T
+                 he following locations in                    These lesser gates are simply referred to as the
+                 Stürmenburg are noted in Map A:              Northern and Southern Wood gates, due to their
+                 Stürmenburg.                                 proximity to the overgrown area.
+                    The city is split into three districts,
+                 each named for the outermost wall that          A4) The Northern Wood Gate
+     protects it. Therefore, from the outer to the inner         The Northern Wood Gate is one of the two
+     district, the names are District Träz, District          lesser gates built into the newer wall sections
+     Sten, and District Stahl.                                adjacent to the Lost Wood.
+
+                                                                 A5) The Southern Wood Gate
+     D ISTRICT T RÄZ                                             The Northern Wood Gate is the second of
+                                                              the two lesser gates built into the newer wall
+                                                              sections adjacent to the Lost Wood.
+        The outermost district was constructed
+     around the Eir River that runs under the walls               A6) Goat’s Belly
+     and through the area, supplying the city with an             The Goat’s Belly is both a brewery and
+     endless supply of fresh water and fish.                  dairy. They produce mead, ale, and cider, and a
+        There are bustling sections for trade and             variety of goat and cow cheese. Underneath the
+     artisanry, residential neighborhoods, fishermen,         building is a large underground cellar complex
+     craftsmen, and large areas of farmland that take         filled with barrels of alcohol and wheels of
+     advantage of the abundant water supply.                  cheese, which are used to supplement the city’s
+                                                              food supply during emergencies and sieges.
+        A1) Gate Bjärn
+        The Great Gate Bjärn guards the northern                 A7) Orchards
+     passage. It is named after the first of two                 Along the Eir river, the town cultivates a
+     legendary warriors.                                      large orchard for apples and other fruits. The
+                                                              fruits provide fresh nutrition to the city and
+        A2) Gate Ulf                                          excess fruit is turned into cider.
+        The Great Gate Ulf guards the southern
+     passage. It is named after the first of two                 A8) The Farms
+     legendary warriors.                                         Most women, children, elderly, and warriors
+                                                              no longer capable of fighting work in the fields
+        A3) The Lost Wood                                     protected by wall Träz. The large section of
+        Many generations ago, a section of the                farmland and cattle barns provide bountiful food
+     Wall Träz fell, supposedly destroyed by a                for the city to withstand endless siege warfare.
+     giant during a northman invasion. Though the             Even if the wall should fall and the farms were
+     invaders were repelled, the wall could not be            lost, the inner keep stores enough food to last
+     repaired due to the lack of modern technology.           several years before the defenders starve.
+     Two smaller walls were erected within the city,
+     blocking off the area.                                      A9) The Fattened Heifer
+        Since then, the forest has overtaken the ruins           This mead hall in the outer ring is a common
+     of the farms and buildings that once stood in the        gathering spot for peasants to eat and drink. It
+     area. The section is known as the Lost Wood              serves day-to-day as a tavern, and on special
+     due to growth and has become a hotbed for                occasions is used as a festive gathering place.
+     skirmishes as it is accessible by both the city’s
+     attackers and defenders.                                    A10) Oaksworn Inn
+        The two sections of the new wall each have               This modest inn offers travelers cheap but
+     a gate that accesses the Lost Wood, though the           clean quarters for rent as well as daily food and
+     gates are smaller than the city’s Great Gates.           rations.
+12
+   A11) Peasant’s Market                                 A18) City Guard Barracks
+   In this area, adventurers may find a variety          To retain enough skilled defenders to
+of shops including food and rations, fletcher,        withstand the constant attacks from the north,
+leatherworker, or other shops selling general         Stürmenburg relies on well-trained and
+supplies they may need.                               provisioned soldiers. The sprawling barracks
+                                                      and training ground is used to train some of the
+    A12) Fishing Huts                                 best fighters in the land.
+    Fishermen and craftsmen built their houses           The defenders especially excel at ambushes
+in this area for easy access to the Eir river. Fish   and guerilla warfare, navigating the nearby
+are plentiful and supply necessary food to the        forests and striking quickly at critical targets
+city, but due to the beastmen attacks, corpses        before retreating behind the walls.
+and torn-off limbs of missing guards tend to be
+dragged out of the river with the daily catch.           A19) Temple of the End Flame
+                                                         The Temple of the End Flame is led by the
+   A13) Svein’s Apothecary                            seer, Gorm. The heretical religious practices of
+   Svein is an elderly man who acts as the            the Stürmenburg people are tacitly overlooked
+city’s apothecary and herbalist. When times are       as their necessity in defending the Empire from
+quiet, he frequents the nearby forest to forage       the north is of paramount importance.
+for materials. Adventurers may find a variety            The End Flame. A giant pyre sits outside of
+of magical ingredients as well as a few potions       the Temple. When a defender falls in combat
+in his shop. Additionally, he stocks a few spell      and his body is recovered, he is honored by
+scrolls and other magical texts, though his           being burned here. The act symbolizes one’s
+access to such arcane knowledge is limited.           unity with the End Flame which birthed the
+                                                      world in eons past and which will one day
+   A14) Animal Farm                                   consume all of existence at the end of time.
+   This large section of farmland is primarily
+used to grow crops to feed livestock, and large          A20) Tempest Tavern
+barn complexes are used to store the animals.            This small structure acts as the main source
+                                                      of relief for the city guard. They are supplied
+D ISTRICT S TEN                                       with plentiful mead, ale, cider, and food. The
+                                                      tavern is also used as a second base of command
+                                                      by Arne. Much of its storage space has been
+   The middle district holds significant religious    repurposed to store gear and weapons for the
+and military functions, including the guard           troops, as well as medical supplies so that
+barracks, training grounds, and temple.               healers may care for the wounded soldiers.
+                                                         The Ironworks. Outside of the tavern,
+   A15) Gate Sif                                      the guard has constructed a large complex run
+   The Great Gate Sif guards the north passage        by several blacksmiths. They quickly produce
+into District Sten. It is named after the first of    standard equipment for the guard, and have
+three legendary sisters who united the once           plentifully stocked uncommon equipment.
+disparate tribes of the area.
+                                                          A21) Ivaldsons Workshop
+   A16) Gate Sigrid                                       The most highly commended blacksmith in
+   The Great Gate Sigrid guards the east              the city is owned by the Ivaldsons, Brok and
+passage into District Sten. It is named after the     Eitr. The two men are stout with prodigious
+second of three legendary sisters who united the      beards. Rumored to be part dwarf, the brothers
+once disparate tribes of the area.                    share a shop together, masterfully crafting
+                                                      weapons and armor of exquisite quality. Their
+   A17) Gate Tora                                     work is expensive but well worth the price.
+   The Great Gate Tora guards the south               As such, they are retained by Lord Arminius
+passage into District Sten. It is named after the     to stock and repair the weapons and armor for
+third of three legendary sisters who united the       elite members of the guard. They stock a variety
+once disparate tribes of the area.                    of uncommon weapons and armor, and may
+                                                                                                         13
+     occasionally have a rare item for sale.            humanity. It is a visceral reminder that no
+                                                        matter the threat, Stürmenburg stands, like the
+        A22) The Silent Vigils                          great immovable stones of their walls, against
+        Unlike their citizens, the rulers of            the dark.
+     Stürmenburg know no peace after they die.
+     Rather than being burned to join with the End         The Blitzvakt.
+     Flame, kings are entombed in special crypts
+     outside of the inner keep, so that their spirits       The Stone Keep houses the Blitzvakt,
+     may continue to defend Stürmenburg for all         Stürmenburg’s elite honor guard. Each soldier
+     eternity.                                          is highly skilled, rising through the ranks by
+                                                        legendary strength, agility, or wit, and each
+                                                        demonstrating exceptional performance in the
+     D ISTRICT S TAHL                                   field of battle. They spar outside the keep in a
+                                                        special training ground.
+
+         The innermost district holds the Stone
+     Keep; the seat of Lord Arminius. Additionally,
+     it contains large food and supply stores,
+     and sections for nobles and other important
+     dignitaries to reside, including counselors and
+     diplomats.
+
+        A23) Gate Odr
+        The final Great Gate, Odr, guards the passage
+     into District Stahl. It is named after the first
+     king of the area.
+
+        A24) The Imperial Embassy
+        Outside of the Stone Keep is the embassy
+     for the Empire, which houses the imperial
+     administrator. The administrator in charge
+     of collecting tithes from the people of
+     Stürmenburg and ensuring the subservience of
+     the people to the Empire.
+
+        A25) The Stone Keep
+        The Stone Keep is the tallest
+     structure in the city, its tower even
+     above the walls and contains the
+     residence and court of Lord Arminius.
+
+        The Horn of Odr.
+
+         On the parapet of the Stone Keep rests the
+     grand Horn of Odr, which when blown, echoes
+     with such power that it shakes the city and
+     the surrounding forests. The horn brings the
+     tides of war and is only blown in the direst of
+     circumstances, the loss of a Great Wall.
+     The last time the horn was blown was
+     when the section of Wall Träz surrounding
+     the Lost Wood was breached. The blowing
+     of the horn represents the fury and rage of
+14
+Map A: StÜrmenburg
+
+
+
+
+                     15
+                            Chapter 1: Dark Omens
+
+
+     F
+              or this adventure, the party will be
+              working on the behalf of the ranger,                As you mull over the words of Arne’s
+              Vozruk the Storm Crow. Their mission            letter, you glimpse a small fire ahead. You
+              is to aid Stürmenburg in response
+                                                              pull on the reins of your horse, bringing it
+              to a letter sent by the captain of the
+     city guard, Arne. A copy of the Letter from              to a halt. Ahead, down a short hill on the
+     Captain Arne is included in Appx. B:                     side of the road, you spy a weak campfire.
+     Gameplay Resources.                                      A man clad in armor sits in front of the
+                                                              dying flame, his back to you, propped up
+        To begin the adventure, give the party a              against a thick log.
+     copy of the letter. Each party member should be              Above, ominous clouds have begun to
+     a ranger or have ties to the rangers so that they        roil, blanketing out the dying afternoon
+     may have been sent in response to the letter.            sun and leaving the forest in shadow.
+
+     STARTING THE
+     ADVENTURE                                                This script will bring the party straight into
+                                                           their first encounter with the beastmen, an
+                                                           ambush by a small group
+        The party starts the adventure on the final leg    of raiders.
+     of the journey to Stürmenburg as the sun sets.
+     They have been traveling through the Black
+     Forest, a dense area that is difficult to navigate,
+     full of thick oak and pine trees, and choked in
+     underbrush.
+        To begin the scenario, read this script:
+
+           For the past several days, you have been
+        riding north through the Black Forest,
+        pressing on through the thick clusters
+        of pine and oak as you follow the worn
+        cobblestone road. You have been straining
+        your horses, pushing them onto the
+        fortress city of Stürmenburg. Considering
+        your pace, you should be within an hour of
+        Stürmenburg’s outer wall.
+           You must reach the city
+        quickly to aid its defenders.
+        You have been dispatched by
+        the ranger Vozruk the Storm
+        Crow after he received a letter
+        from the captain of the guard, Arne.
+        Arne’s letter was disturbing, detailing the
+        escalating assaults of beastmen hordes on
+        the city, and the portents of much darker
+        tidings to come.
+
+16
+BLACK FOREST AMBUSH                                   a DC 15 Wisdom (Perception) check. When
+                                                      standing near the scroll, the blood is obvious.
+    This encounter is represented by Map B:
+Black Forest Ambush. The beastmen have                   B2) Chopped Tree
+killed a Penitent Crusade soldier who was                A tree has been recently chopped down and
+delivering a letter to Administrator Varus. The       sections of its trunk are missing. A section of the
+beastmen have set up an ambush using the              tree was used to prop up the crusader. A trail of
+corpse as bait. They have tied his body upright       large bovine hoofprints travels back and forth
+to a log to make it look as if he is resting by the   between areas B1 and B3.
+fire. However, the beastmen have overlooked              Perception. A creature may see the prints by
+many clues that should make a traveler wary.          passing a DC 10 Wisdom (Perception) check.
+
+M AP B: A REAS                                           B3) Broken Sword
+                                                         A well-made sword lies on the ground, but it
+   The following paragraphs detail important          has been shattered, its blade is covered in blood.
+areas of Map B: Black Forest Ambush. The                 Investigation. A creature may deduce from
+party starts near the sword in area B3.               the make of the weapon that it belonged to the
+                                                      dead crusader, by passing a DC 10 Intelligence
+   B1) The Bait Trap                                  (Investigation) check.
+   In this area, the Beastmen have set up bait to
+lure in travelers and ambush them.                        B4) Thicket
+                                                          In this thicket of trees and shrubs hides a group
+   The Dying Campfire. Down a ditch on the            of beastmen. They have set the trap and will
+side of the road is a weak campfire. Its embers       attack when the party approaches the crusader or
+give off a meek glow with little light. It seems      tries to leave the area, attempting to surprise the
+the fire has not been fed in quite some time.         party.
+
+    The Penitent Crusader. The body of an                The following enemies are present here.
+armored man is seated by the fire, his back              2x Capra Scout
+against a log and facing away from the road.             1x Aurox Reaver
+The weak light does not illuminate him well, so
+it is difficult to make him out.
+    Perception. From a distance, one may                       Torment. Add: 1x Capra Hunter
+notice the man is dead by passing a DC 13
+Wisdom (Perception) check. If they succeed,
+they notice his unnatural pose, an oddly angled
+droop of his head, his body being held upright
+  by ropes, and blood spilled all over the log
+      and ground.
+          This information is also obvious when
+       standing next to him.
+
+       The Blood-Stained Scroll. A scroll
+  lies on the ground next to the crusader. It is
+ sealed with the wax stamp of the emperor and
+stained with drops of blood. The scroll contains
+the Letter from Lord Lucious, a copy of
+  which is included in Appx. B: Gameplay
+    Resources.
+        Perception. The scroll is obvious, but
+     the blood is not. From a distance, a creature
+     may be able to see the blood by passing
+
+                                                                                                              17
+     Map B: Black Forest Ambush
+
+
+
+
+18
+ARRIVAL AT                                          give the letter to Arne, who he knows requested
+                                                    aid from the Empire.
+STÜRMENBURG
+   Read the following script after the party           Beastman Threat. The beasts have indeed
+decides to continue towards Stürmenburg. They       been growing in number. However, Hamarhelm
+will arrive at the southern Great Gate, Ulf.        welcomes the challenge as he enjoys pulverizing
+                                                    capra goatmen with his hammer.
+PASSAGE THROUGH THE GATE ULF                            Ranger Mission. Hamarhelm knows
+                                                    Captain Arne is expecting a group of rangers.
+   The party will arrive at Gate Ulf, the
+                                                    If the party mentions they are with the rangers,
+southern entrance to the city. Read the following
+                                                    he will give the order to raise the portcullis and
+script.
+                                                    call a guard to escort the party to Arne at the
+                                                    Tempest Tavern.
+     The sun has set and the roiling black sky
+  pours sheets of cold rain and sleet, turning      T HE C ORPSE C ART
+  the ground to slick mud. You push onward,
+  your horses’ hoofs squelching in the                 To Continue. When the party finishes
+  sodden dirt until, drenched and shivering,        speaking with Hamarhelm, read the following
+  you finally approach the massive walls of         script.
+  Stürmenburg.
+     The outer wall, named Träz, is
+  constructed from enormous monolithic
+  stones as large as houses. The wall rises               Hamarhelm’s booming voice calls
+  far overhead, towering into the darkness.            out and the metal portcullis gates rise
+  Atop the ramparts you see large bonfires             clamoring as they clear the way to the
+  dispersed every hundred yards, illuminating          city. The giant man calls a guardsman,
+  powerful battlements and garrisons of                ordering the guard to escort you to
+  patrolling soldiers.                                 Captain Arne at the Tempest Tavern.
+     A horn sounds as you approach the great                    The guardsman nods, marching
+  Ulf Gate and its thick double doors open,            ahead of you. You follow him into the
+  revealing a cavernous archway protected              city, venturing behind the titanic walls
+  by layers of metal portcullis. A giant of            and witness the sheer extension of the
+  a man stands within, clad in hardened                city’s first ring. Houses sprawl as far as
+  leathers interspersed with steel plates. He          the eye can see, the streets are filled with
+  towers above you, hefting a wrought iron             busy peasants and marching soldiers.
+  hammer the size of a blacksmith’s anvil.             Entire sections of the city are devoted to
+  He cracks his neck as he speaks to you, his          merchants and craftsmen, and a river runs
+  voice echoing like a drum.                           through the district, surrounded by farms,
+                                                       orchards, fisheries, and cattle barns.
+          “State your business, strangers.”               Young children spar with each other
+                                                       in training yards, striking each other
+                                                       ferociously with blunted metal weapons,
+Conversation with Hamarhelm                            covered in bruises and blood. But
+   The man is Hamarhelm the Ox, a member of            underneath their bravado, you feel an
+the Lord Arminius’ honor guard, the Blitzvakt.         uneasiness. In the eyes of children and the
+In conversation, keep in mind the following            militia, and the peasants that hurry back
+topics.                                                and forth ferrying supplies and weapons,
+                                                       there is an unspoken fear that permeates
+   Letter from Lord Lucious. Hamarhelm is              the night air.
+not interested in the letter. He cares little for
+politics and prefers problems he can solve with
+his hammer. However, he will direct the party to
+                                                                                                         19
+                                                  Conversation with Guard Bauer
+        You hear a man yell and the clang of
+     a small bell. People quickly clear the          The guard escort is named Bauer. As he
+     middle of the road as a wagon laden with     continues to lead the party to the Tempest
+     corpses trundles by; carrying men and        Tavern, they may ask him questions about the
+                                                  city. Bauer might discuss the following topics.
+     women, torn apart and still clutching
+     their swords and spears, their limbs held       Beastman Threat. The beasts have been
+     together only by threads of viscera. It      attacking much more frequently and in
+     heads further into the city, toward the      astonishing numbers. They have seemingly
+     second great wall, Wall Sten, which rises    grown more intelligent overnight, laying traps
+     even higher than the first.                  and executing devious maneuvers that have
+             Your escort beckons you to follow.   thrown off the guards. The city’s casualties
+                                                  have skyrocketed, and worst of all, the city seer,
+        “Come, our path lies the same way.”       Gorm speaks of darker omens on the horizon.
+
+                                                     Gorm’s Visions. Stürmenburg’s seer,
+                                                  Gorm, has been afflicted by terrible visions
+                                                  lately, of death and destruction. He sees a great
+                                                  flame beset by darkness, enormous shadows
+                                                  lumbering in the blackness, and he hears only
+                                                  the unrelenting screams of men in the night.
+                                                  He speaks the future in riddles, but what he
+                                                  sees always comes to pass. The party may seek
+                                                  Gorm out at the Temple of the End Flame if
+                                                  they wish to speak with him.
+
+                                                     The Corpse Cart. The cart that passed by
+                                                  was laden with dead warriors from the last
+                                                  scouting party. During these times, several
+                                                  such carts are seen each day. The cart takes the
+                                                  bodies to a ritual pyre to be burned outside of
+                                                  Temple of the End Flame within the second
+                                                  wall.
+
+                                                     Bauer’s Sister. Bauer’s sister was among the
+                                                  scouts that left today, and she did not check in
+                                                  with the survivors. He is worried about her, but
+                                                  he will prefer not to discuss what bothers him at
+                                                  this time.
+
+                                                     Captain Arne. Arne is well respected among
+                                                   the townsfolk. He is smart, compassionate, and
+                                                     an effective leader. However, Arne has been
+                                                         suffering lately, seeing so many of his
+                                                            soldiers slaughtered each day. Their
+                                                                  strength, numbers, and supplies
+                                                                   are wearing thinner each day.
+
+
+
+
+20
+T HE I RONWORKS                                        Guard Bauer was worried about his sister
+                                                    and in a hurry to visit the great pyre to see if he
+   To Continue. When the party finishes             could identify her body. If the party visits the
+speaking with Bauer, they will arrive at the        party before leaving town, he will be there.
+Ironworks and the Tempest Tavern. Read the
+following script to continue.                          To Continue. When the party approaches
+                                                              Arne, advance to the next section,
+                                                          the Tempest Tavern.
+       The guard leads you on through a gate
+   in the second great wall. As you climb the
+   cobbled streets, you pass a temple, outside
+   of which a great pyre burns. The corpse
+   cart is parked outside, and two men have
+   begun unloading the bodies, or pieces
+   thereof, onto the ground nearby.
+       The guard leads you past the scene,
+   taking you along the outskirts of the third
+   and final city wall, Wall Stahl. The
+   last wall’s great ramparts tower
+   over Stürmenburg and you see a
+   great horn mounted atop of it, on
+   an elevated platform. The horn gleams
+   bronze in the firelight.
+       A moment later, the guard brings you
+   through a town square lined with dozens
+   of makeshift shops. As you pass through,
+   you see smiths and armorers working
+   tirelessly as the tireless ring of hammer on
+   steel rings loudly in the air. Bloody armor
+   with gaping holes and slashes, and broken
+   weapons are piled into heaps before being
+   shoveled into great stone furnaces to be
+   melted and reshaped anew.
+       Guards mill about in front of a large
+   two-story building, strapping on gear
+   and talking. The building’s windows are
+   alight, and you can hear raucous shouts
+   and merriment from inside.
+       Your escort takes you through the
+   front door, revealing a tavern filled with
+   drinking and feasting, but as you enter, he
+   murmurs a quick goodbye.
+       “The captain is at the end of the hall, at
+   the command table. I must take my leave.”
+       With that, the guard leaves you.
+   Across the hall, you can make out the
+   captain dressed in fine armor. He is bent
+   over a long table with several maps and
+   surrounded by soldiers. They are deep
+   in conversation, moving wooden pieces
+   around the map.
+
+                                                                                                          21
+     TEMPEST TAVERN                                           Gorm’s Visions.
+                                                              Stürmenburg’s seer, Gorm, has been afflicted
+        This area will serve as a hub for the party        by terrible visions lately. He sees a great
+     throughout this scenario. They can buy food and       flame beset by darkness, enormous shadows
+     drinks when they are here and take short rests if     lumbering through the forests, and he hears
+     needed.                                               the unrelenting screams of the citizens of
+                                                           Stürmenburg. Arne has sent several scouting
+     C APTAIN A RNE                                        parties to ascertain the nature of the threat, but
+                                                           none have returned.
+
+         Throughout this scenario, Captain Arne will          Seeking the Seer.
+     provide instructions and missions for the party.         The party may seek Gorm out at the Temple
+     Additionally, the party can order weapons,            of the End Flame if they wish to speak with
+     supplies, and other items from Arne, who will         him.
+     requisition them from the blacksmiths working
+     tirelessly in the Ironworks outside.                     Eir be Dammed
+
+        Map of the City.                                      The first mission Arne will give the players
+        When the party meets with Arne, provide            involves the beastmen who have dammed the
+     them with a copy of Map A: Stürmenburg                Eir river in the forest upstream. The river feeds
+     Map (PC).                                             into the city, and as its currents wane due to
+                                                           the blockage, the city is slowly losing access to
+        Conversation with Arne                             fresh water and fish.
+
+        When speaking with Arne for the first time,           The Blockage.
+     keep in mind the following topics.                       Arne’s scouts have gained reconnaissance
+                                                           on the dam. The beastmen have piled hundreds
+         Letter from Lord Lucious.                         of logs into the river, blocking the water flow.
+         If the players give Arne the letter they found    The blockage is dense and will take tremendous
+     during the Black Forest Ambush, Arne will be          effort to destroy. Beastmen have never shown
+     grateful. Arne previously sent several letters        such ingenuity in the past.
+     to the Empire requesting aid as the beastmen
+     threat escalated. He suspected that the Empire           The Plan.
+     and the Church of Azerai intended to leave                Arne has prepared a guard wagon with many
+     Stürmenburg’s defenders to fend for themselves.       barrels of explosives. The party is to escort the
+     The letter confirms his fears, and reveals the        wagon to upstream blockage and unload the
+     true nature of Administrator Varus, who has no        barrels at the river blockage. Once they have
+     qualms about letting the city burn.                   placed 3 barrels, a detonation should be enough
+         Courier to Lord Arminius.                         to destroy the blockage, releasing the river once
+         After reading the letter, Arne should dispatch    again. The wagon will be waiting for them in
+     a courier with the letter to Lord Aminius. Later      area A4, the Northern Woods Gate.
+     in the scenario, this act will determine in a small
+     way how Lord Arminius greets the players.                Urgency: Low.
+                                                              This first mission is not urgent, and the
+       Beastman Threat.                                    beastmen on the perimeter are currently
+       The beasts have been attacking much                 manageable. If needed, the party can take some
+     more frequently and in astonishing numbers.           time to explore the city, visit shops, visit the
+     They have seemingly grown more intelligent            seer, or take a short rest before heading out.
+     overnight, laying traps and executing devious
+     maneuvers that have thrown off the guards.               To Continue.
+     The city’s casualties are mounting rapidly, and
+     depending on the interpretations of the seer,            When the party finishes speaking with Arne,
+     Gorm’s visions, a disastrous attack is imminent.      read the following script as they leave him.
+22
+                                                      “Rise, warrior. Your loved one lies not
+      As you leave, Captain Arne turns
+                                                  in flame, but in darkness. Hope remains.”
+   towards a cohort of soldiers that had been
+   gearing up while you talked. He gives
+                                                     Bauer rises, thanking the old man
+   them a rallying speech as you depart.
+                                                  and registering you momentarily before
+                                                  leaving. The old man then turns to you,
+      “Okay, lads, listen up. You’ve survived
+                                                  drawing back his hood. In the firelight,
+   countless nights and tonight will be no
+                                                  you see his face is twisted and marred,
+   different. We defend our walls for the sake
+                                                  covered in ancient burns. One empty eye
+   of our families, our friends, and the peace
+                                                  leaks a stream of white liquid, while the
+   of our forebears. Remember, you do not
+                                                  other, faded, and lidless, stares at you.
+   have permission to die. When you return,
+                                                  He speaks, his voice hoarse.
+   drinks are on me. So go out there and give
+   ‘em hell!”                                        “And what do these strangers seek
+                                                  from our gods?
+      With the clamoring of shields, the
+   guards salute Captain Arne and march
+   out in the opposite direction.
+
+
+
+
+S EEKING T HE S EER
+
+  Before heading out on a mission, the party
+may visit the seer, Gorm, in location A19. Gorm
+oversees the burning of the bodies in the End
+Pyre, giving the dead their last rights.
+
+  If the party visits this area, read:
+
+
+
+
+        You make your way to the great pyre,
+    its flames licking hungrily at the skies,
+    giving off a great plume of smoke as it
+    devours the pile of corpses that were
+    earlier stacked on the cart.
+        Bauer, the guard who escorted you
+    to Captain Arne, kneels on the ground
+    nearby, his body hunched in defeat. An
+    old man in a ragged cloak, hood drawn
+    over his head, walks shakily towards
+    Bauer, speaking gruffly and placing a
+    wrinkled hand on his shoulder.
+
+
+
+
+                                                                                                23
+        Heroes of Ubsola                                 children as they are slaughtered in their homes.
+                                                         And in dreams he sees blood and flame.
+        Before opening the conversion with Gorm,
+     determine if the party took part in the scenario,      A Final Vision
+     Aurox: The Bloodfever. If so, Gorm will
+     recognize them.                                        To Continue. As the party leaves Gorm, he
+                                                         will have one last vision. Read this script.
+        The Festival of Light.
+        Each year, people from Stürmenburg make
+     a pilgrimage to Ubsola to participate in the               As you leave, the old man falls to his
+     ceremony known as Bal’Morra in the Guarric              knees, shaking as his one eye stares into
+     tongue, or the Festival of Light in Common.             the flames of the great pyre, his gnarled
+     They make human sacrifices to Morra, the                hands raised above his head. He speaks
+     goddess of growth and fertility. The festival           loudly, his voice suddenly reverberant
+     was recently held in the town of Ubsola during          and full.
+     the previous scenario. Gorm was present at the
+     time, watching from the crowd.                             “Tremors in the earth! Shadows
+                                                             consume the flame! Ashes! Ashes! A
+        Culture and Respect.                                 sunrise bathed in blood!”
+        If the party cut the throat of the human
+     sacrifice during the ritual, Gorm gives the part           Then, just as suddenly, the man
+     1x Potion of Superior Healing (DMG, p.188),             reverts to normal, his voice raspy and
+     admiring their respect for the northern culture.        weak once more. He looks to you as his
+                                                             body rocks.
+        Worlds Apart.
+        If the party did not cut the throat of the              “Hurry to your task. For our fates
+     human sacrifice during the ritual, Gorm will            are entwined tonight.”
+     give them nothing. He should also make a
+     scornful comment such as the following:
+                                                            After this encounter, the party can continue
+        Conversation with Gorm                           to run errands around the town. When they
+                                                         are ready, they should proceed to area A4, the
+        If the party did not complete the adventure,     Northern Woods Gate, to begin their first mission.
+     Aurox: The Bloodfever, Gorm does not                When they are ready to head to the gate, advance
+     recognize them. Once you determine how Gorm         to Chapter 2. For the next part of the adventure,
+     treats them, hold a conversation with him,          the party will journey out into the wilds.
+     keeping in mind the following topics.
+
+        The End Pyre.
+        Gorm runs the Temple of the End Flame,
+     acting as the spiritual leader for the people
+     of Stürmenburg. Each night, he oversees the
+     burning of the dead in the End Pyre, honoring
+     them by giving them their last rights.
+
+        Dark Visions.
+        If the party asks about Gorm’s dark visions,
+     he should speak about seeing beasts with
+     demonic hides, horned monsters with twisted
+     forms, and titanic shadows on the horizon,
+     lumbering giants that tear the very earth with
+     their steps, drawing ever closer to the city. In
+     the wind he hears screams of men, women, and
+24
+                     Chapter 2: Into the Wild
+
+
+W
+            hen the party is ready to undertake        Guard Bauer recognizes the party. He has been
+            their first mission, they should           stationed to guard the gate and informed to let
+            proceed to area A4, the Northern           them out with the cart of explosives. However,
+            Woods Gate. During this chapter, the       there is an incoming beastmen raiding party that
+            party will first need to clear the gate,   must be quashed before the guards can open
+then head into the forest to destroy the river         the gate. Until the attack is resolved, the gate
+dam, before coming back and finding the city           must remain closed and the cart with explosives
+besieged.                                              cannot leave. Once the beastmen are defeated,
+                                                       the guards should open the gate for the party.
+THE NORTHERN WOODS
+                                                          Bauer’s Request
+GATE
+                                                          Bauer is worried about his sister, Gerda, who
+    When the party is ready to undertake their         was sent out earlier on a scouting mission and
+first mission, they should proceed to area A4,         did not return. Bauer looked for her body among
+the Northern Woods Gate. This area is depicted         the deceased but did not see her. The seer,
+on Map C: Northern Woods Gate. The wall                Gorm, told him that she was lost in darkness.
+is about to be attacked by a beastmen raiding          Bauer thinks she is still out in the wilds and
+party.                                                 worries that she was captured or injured.
+    To start this chapter, read the following
+script:                                                   Find Gerda. Since the party is heading out
+                                                       into the forest, Bauer should beseech them to
+       You reach the Northern Woods Gate,
+                                                       keep an eye out for his sister, Gerda, and bring
+    where Arne told you to find the cart with
+                                                       her home if they find her.
+    explosives before heading out to find the
+    river dam in the forest. As you come to
+    the gate, you see Guards rushing about,            M AP C: A REAS
+    running up and down the stairs to the
+    ramparts. They carry weapons, arrows,                The following paragraphs detail the events
+    and sheathes of heavy black bolts. From            and notes for each area marked on the map.
+    above, you hear the familiar voice.
+                                                           C1) The Ballista
+            “You, rangers, up here!”                       A ballista stands on top of the wall. Beneath
+                                                       it, a turning platform allows the users to aim it
+       You see Bauer on the wall, waving               properly. Guards will operate the ballista while
+    towards you. He and several other                  the players defend the wall.
+    guards are loading a large ballista
+    perched on top of the gateway.                         The guards. At the start of combat, have
+                                                       two guards operate the ballista. They share
+                                                       the statblock of Guards (MM., p.347), but
+                                                       they should have 25 health. Designate one to
+QUESTS & EVENTS                                        be Guard Bauer. The guards will use all their
+                                                       actions each turn to operate the ballista, loading
+   Two events should happen here depending on          it, preparing it, aiming it, and firing it.
+the state of the map.
+                                                          C2) The Gate
+   Opening the Gate                                       The guards have been instructed to keep
+                                                       the gate closed unless all beastmen have been
+   When the party first approaches the gate,           cleared from the area.
+
+                                                                                                            25
+                                                          R UNNING T HE E NCOUNTER
+            Automatic Ballista: during the
+        encounter, the two guards will operate               This is a wave-based encounter and will
+        the ballista if they are alive. They should       end when all enemies or party members have
+        fire 1 ballista shot every 3 turns with the       been defeated. The enemies will target the most
+        following weapon profile.                         convenient defenders, whether it be the closest
+            Ballista. Ranged Weapon Attack: +5            party member, or climbing up the wall to attack
+        to hit, range 100/300 ft., one target. Hit:       the guards if the players are difficult to get to.
+        65 (10d12) piercing damage.                          Once you are ready to start, begin combat
+                                                          and read the following script.
+           Taking Fire. If one of the guards
+        dies, the ballista will take 6 turns to fire             A horn sounds along the wall,
+        each shot. If both guards die, it will no            followed by shouts of the guards. The
+        longer fire automatically.                           silence of the woods erupts with blood
+                                                             curdling screeches and raucous bleating.
+           Manual Ballista: if the guards die,               Lightning flashes, cutting through the
+        the players may operate it. The ballista             deluge of rain and sleet, before striking
+        requires three actions to be shot.                   a nearby giant oak tree, its ancient trunk
+           The first action is used to load the              exploding into pulp as it collapses onto
+        ballista.                                            the wall.
+           The second action is used to aim the                  The fires along the wall grow hot,
+        ballista.                                            shedding a red light onto the woods as
+           The third action fires the ballista.              beastmen rush the gate. Bauer grasps the
+                                                             handle of the ballista as he shouts to the
+                                                             enemy.
+          Operational Expertise. The ballista
+        requires training to use properly, which                    “Kill them all!”
+        the party does not have. If the party uses
+        the ballista, after each shot, roll a 1d20.
+        If the result is below 8, the ballista is            Combat Rounds. Spawn the following
+                                                          enemies.
+        jammed and will require an additional
+                                                             Round 1. Spawn:
+        action to unjam before it can be loaded
+                                                             1x Capra Scout
+        again.                                               1x Capra Raider
+
+
+        C3) Fallen Tree                                          Torment. Add: 1x Capra Hunter
+        Lightning has struck a giant oak which
+     collapsed onto the wall. Now, creatures may
+     freely climb up and down the wall area without          Round 2. Spawn:
+     penalty.                                                1x Capra Hunter
+
+        C4) Wall Section                                     Round 3. Spawn:
+        This wall section is 30 ft. high. Creatures can      1x Capra Raider
+     climb up and down the section.
+                                                             Round 4. Spawn:
+                                                             1x Capra Raider
+        C5) Lost Wood
+     The beastmen raiding party will spawn from the
+     overgrown woods anywhere along this side of
+     the map.                                                     Torment. Add: 1x Capra Hunter
+
+
+26
+    Round 5. Spawn:                                  Failing the Encounter
+    1x Capra Scout
+                                                     If the Cyrox manages to kill the guards at
+    Round 6. Spawn:                               the ballista and the party, Captain Arne and
+    1x Capra Hunter                               an additional regiment of guards will come
+                                                  to defeat it, but the defenders’ losses will be
+    Round 7. Spawn:                               severe. Afterwards, Captain Arne’s medics
+    1x Capra Raider                               will be able to heal each party member to half
+                                                  health. If needed, they may take an additional
+                                                  short rest before heading out to the dam.
+         Torment. Add: 1x Capra Reaver
+
+
+    Round 8. Spawn:
+    1x Capra Scout
+
+    Round 9. Spawn:
+    1x Capra Raider
+
+    Round 10. Read the following script.
+
+       A guardsman shouts from along
+     the wall, waving frantically toward
+     the forest.
+
+            “They have a Cyrox!”
+
+        The earth shakes as a towering monster
+     barrels out of the woods, shattering trees
+     as it crashes through the greenery. A
+     single eye in its forehead singles out the
+     guardsman that shouted the warning.
+             The creature tears a boulder from
+ц    the earth and throws it at the guardsman
+     with pinpoint precision. The unfortunate
+     man lets loose a protracted scream as he
+     is crushed, leaving nothing but red pulp
+     and debris. A man next to him yells in
+     astonishment.
+
+            “No! Wilhelm!”
+
+    Then, spawn:
+    1x Cyrox
+
+
+     Torment. use Cyrox (Torment) statblock
+
+
+
+
+                                                                                                    27
+           Map C:
+     Northern Woods Gate
+
+
+
+
+28
+EIR BE DAMMED
+                                                       You come to a clearing in the woods
+   After defending the wall, the party will be
+                                                   upriver, finding the drying riverbed
+able to continue their mission to locate the
+river dam in the forest and destroy it with the    completely blocked by piles and piles of
+explosives cart. The cart is drawn by a single     felled trees. The beastmen have clearly
+horse.                                             been industrial, tirelessly chopping
+                                                   down the logs and piling them into a
+                                                   stable dam, even going so far as to build
+R EACHING T HE D AM                                walls along the riverbed to stabilize the
+                                                   construction.
+To reach the dam, ask all players to make a            Along the riverbed, you spy a series
+Wisdom (Survival) check to determine how           of campfires and Capra patrols, though
+well they were able to navigate the wilds. Use     they do not seem to be paying much
+the results on the following table, determining    attention. Across a makeshift bridge, you
+if at least half the players managed to beat the   see a wooden ladder descending into the
+specified score or not.                            exposed riverbed, the perfect location to
+                                                   deploy your explosives.
+Survival Check Table
+
+    Score                 Outcome
+    15+      The party expertly locates the
+             dam. They take only 20 minutes
+             to find it.
+    10+      The party has some trouble
+             locating the dam. They take 40
+             minutes to find it.
+    0+       The party has serious trouble
+             navigating the wilds and locat-
+             ing the dam upriver. Their horse
+             breaks its leg as they lead it into
+             a ditch. They have to leave it
+             behind and take 1 hour to reach
+             the dam.
+
+
+
+
+   To Continue.
+
+   To begin the next encounter, tell the party
+how they performed during the navigation.
+Then, read the following script and set up
+the following encounter on Map D: River
+Blockage.
+
+
+
+
+                                                                                               29
+     M AP D: A REAS
+                                                                Torment. Add: 1x Capra Scout
+        Once the party arrives at the dam, the
+     area will be represented by Map D: River
+     Blockage. The following paragraphs detail the
+     important areas of the map.
+                                                          Items. Inside the huts, the party can find
+                                                       2x Potions of Greater Healing (DMG, p.188),
+        D1) Explosives Cart
+                                                       1d4 gold, and a Weapon +1 (DMG, p.213). You
+        The cart will be left at the edge of the
+                                                       may determine the most suitable weapon for the
+     woods, outside of the beastmen’s view. The cart
+                                                       party.
+     contains dozens of barrels of explosives.
+        The Party. All party members start in this
+                                                          Big Print. Near the camp, a huge footprint
+     area.
+                                                       can be found leading into the woods. Trees
+                                                       have been crushed beneath the stomps that this
+           Boom Barrels. A creature may spend          creature left. The footprint is much larger than
+        one action to pick up or put down the          that of a Cyrox.
+        barrel. While carrying a barrel, a
+        creature moves at half speed and cannot           D4) Northern Riverbank
+        attack or take any actions besides                This area is heavily deforested. Enemies in
+        moving.                                        the area stand about, facing further upstream.
+           If a creature ever takes damage                The following enemies are present here.
+        while holding a barrel, or if a barrel            1x Capra Scout
+        is targeted by an attack, it will begin
+        to glow. At the end of the next round, it          D5) River Blockage
+        will explode, dealing 8d6 fire damage to           Piles upon piles of thick, large trees block the
+        all creatures within 15 ft. Additionally,      river. A ladder along the cliff leads down to the
+        the loud explosion will alert any nearby       drained riverbed. The ladder and cliff is 15 ft.
+        enemies.                                       tall.
+           When climbing, creatures carrying
+        a barrel must pass a DC 12 Dexterity
+        (Acrobatics) check. On a failure, they
+                                                            Blowing the Dam: The party must carry
+        falls with the barrel and the barrel takes
+                                                         at least three barrels to the riverbed area
+        damage.
+                                                         adjacent to the piles of logs in area D5 in
+                                                         order to successfully destroy the blockage.
+        D2) Capra Hut                                    They must then explode the barrels by
+        A beastmen hut is placed here. Enemies stand     attacking them or setting them off by some
+     in front of the hut, facing the fire.               other manner that they come up with.
+        The following enemies are present here.
+        1x Capra Hunter
+
+                                                          D6) South Riverbank
+             Torment. Add: 1x Capra Scout                 This area is heavily deforested.
+
+
+        D3) Capra Camp
+        Two beastmen huts are placed here. Enemies
+     stand by the barricades, facing the fire.
+
+       The following enemies are present here.
+       1x Capra Scout
+       1x Aurox Reaver
+30
+R UNNING T HE E NCOUNTER
+   This is an open encounter. The River
+Blockage has multiple ways to be approached;
+sneakily climbing down the slippery cliffs,
+ambushing the enemies, or fighting their way
+straight through the camp.
+
+    Alerting the Capra.
+    The enemies in the various locations of the
+map will each act separately from each other.
+The party may attempt to sneak up to each
+party, executing a surprise attack against them.
+If they kill all enemies in the specific location
+before those enemies have their turn, no other
+enemies will be alerted.
+    However, if an enemy does
+have a turn, it will yell a bleating
+warning, alerting all enemies in the vicinity.
+Additionally, this will spawn 1 Capra Raider
+in area D4, and 1 Capra Raider in area D6.
+Capra will prioritize attacking the explosives
+cart unless they are hit by an attack or spell, in
+which case they will target the attacker.
+
+
+   Torment. If the Capra are alerted,
+   additionally spawn 1x Capra Hunter in
+   area D4 and 1x Capra Raider in area D6.
+
+
+
+   Defending the Cart: the cart has 60
+   health and an AC of 12.
+
+
+
+
+   After this encounter, the party must return
+to Stürmenburg, whether they succeeded or not
+in destroying the dam. If they fail to destroy it,
+the city will lose access to fresh water, but will
+be able to survive for some time by rationing
+their supplies and can attempt to destroy the
+dam later.
+   When they are ready to head to return,
+advance to Chapter 3. The city will be under
+siege and in dire need of their support.
+
+
+
+
+                                                     31
+     Map D: River Blockage
+
+
+
+
+32
+                                  Chapter 3:
+                               Blood and Flame
+
+
+ A
+            s the party returns to Stürmenburg,
+            they will find the city in a dire state.         Arne yells, thrusting his sword into
+            The Northern Woods Gate has been              the monster’s face and cleaving a scarlet
+            breached and beastmen hordes spill            gash through one of its eyes. It shrieks
+            into the city. As they approach, the          a horrific bleating cry as it grabs Arne,
+Horns of Odr will sound announcing the grim               crushing the captain in his heavy plate
+tidings to all defenders.                                 armor as easily as a straw doll. In a swift
+   The party will have to hold back the                   motion, it brings Arne’s limp torso to its
+beastmen pouring in, as well as attempt to save           gaping, jagged maw, tearing him apart
+the panicking and trapped peasants caught in the          and swallowing him before retreating
+chaos, buying time for the masses to evacuate to          into the forest.
+the inner walls. However, tonight shall mark the
+deaths of many thousands.
+
+                                                       M AP E: A REAS
+THE FALL OF TRÄZ
+                                                          The following paragraphs detail the
+   As the party returns from the wilds, read the       important areas of the next map encounter, Map
+following script:                                      E: Burning Fields.
+
+                                                         E1) The Cyrox
+       Making your way back to Stürmenburg,              A Cyrox is wreaking havoc inside of the gate.
+   you notice a thick column of black smoke            The party will have to stop it, but this time they
+   rising from the Northern Woods Gate, from           won’t have a ballista to help them.
+   which you departed. You rush forward, a               The following enemies are present here.
+   feeling of dread washing over you. As you             1x Cyrox
+   draw closer, you find the night air full of the
+   screams of common folk and split with the
+   metallic clangs of weapons. Above the din,
+                                                            Torment. use Cyrox (Torment) statblock
+   you hear the horrendous braying laughter
+   of the Capra hordes.
+       The Horns of Odr sounds loud and
+   deep, vibrating the air around you and
+   shaking the very trees of the forest with its
+                                                          E2) Beast Totem
+   deep, powerful tremors. It can only mean
+                                                          A Beast Totem is standing on top of the wall
+   one thing; the wall is lost.
+                                                       above the breached gate. The wall is 30 ft. tall
+       As you sprint to the wall, you see Captain
+                                                       and can be reached by climbing the staircase at
+   Arne atop the ramparts, surrounded by the           the bottom right corner of the map.
+   obliterated corpses of his men. A crazed
+   look has washed over his face. He stands
+   alone before a gargantuan horned beast,
+   a horribly misshapen bull-man hybrid the
+   size of a mountain. The titanic thing dwarfs
+   even the wall, having to stoop down to look
+   at the captain.
+
+
+
+                                                                                                            33
+                                                    E3) Burning Granary
+                                                    A family of peasants is trapped within
+     Beast Totem: Beast Totems have 30
+                                                 a burning granary. The party can hear their
+     Health and an AC of 12. The totem           desperate screams for help. They boarded up the
+     automatically fails any spell-saving        door when they heard the beastmen attacking
+     throws.                                     the gate. Unfortunately, the beastmen set the
+             At the start of each round, the     building on fire and the civilians are now
+     totem pulses with a fiery red glow,         trapped inside.
+     healing all beastmen allies within 50 ft.
+     by 5 Hit Points.                               Granary Door.
+                                                    The door is barred with 5 planks. Players
+                                                 may spend one action to remove or destroy one
+                                                 plank at a time.
+
+                                                    Saving the Peasants.
+                                                    Once 5 planks are removed from the door,
+                                                 the peasants are saved and they will escape,
+                                                 running away from the scene.
+
+                                                    Exploding Building.
+                                                    At the end of round 4, the granary explodes.
+                                                 Any creature within 50 ft. of the structure must
+                                                 make a DC 14 Dexterity saving throw, taking
+                                                 8d6 fire damage on a failed save or half as much
+                                                 on a success. If the peasants are still inside, they
+                                                 die immediately.
+
+
+
+
+34
+E NDING T HE E NCOUNTER                                Conversation with Hamarhelm
+
+   After defeating the Cyrox, Hamarhelm will            You can stage a brief conversation with
+assist the party as they retreat behind the second   Hamarhelm at this point or end the scenario on
+wall, Sten.                                          this cliffhanger. If they speak with Hamarhelm,
+                                                     he will inform the party that the entire outer
+   To continue, read the following script:           district Träz has been overrun with hordes of
+                                                     beastmen, and that the remaining guards are
+                                                     regrouping behind the inner defenses to prepare
+                                                     a counterattack.
+
+      As the beast falls, you look around at
+   the burning city. The streets are flooded
+   with countless silhouettes of beastmen.
+   The sounds of fighting and screams echo
+   throughout every corridor.
+      You hear a roar from the right. As you
+   turn, you see another Cyrox charging
+   towards you, barreling through a nearby
+   alley. As you draw your weapons, tired
+   and weary, dreading the inevitable, you
+   hear a ferocious human roar and see a
+   hulking figure launch itself from a nearby
+   rooftop just as the building collapses into
+   flaming shambles.
+      Hamarhelm flies through the air,
+   bringing his enormous iron hammer
+   down on the Cyclopean beast’s head
+   mid-air. The monster’s skull shutters,
+   exploding into a thousand fragments
+   as its pink brain is instantly pulverized
+   into a soupy mush. The beast collapses
+   with Hamarhelm holding
+   onto its ear, riding it
+   down to the ground
+   and calmly stepping down from its
+   now-concave forehead after it crashes
+   into the ground.
+           “Träz is lost! Fall back to wall
+   Sten!”
+
+
+
+
+                                                                                                       35
+     Map E: Burning Fields
+
+
+
+
+36
+                                       Epilogue
+
+
+ T
+         räz, has fallen. The beastmen have         SIEGE OF STÜRMENBURG
+         completely overrun the city and the
+         once-calm streets are burning to ashes.    PART II
+         Thousands have died, and thousands
+         more shall follow before the end of the       This adventure is the first of two parts. In
+night.                                              the next installment, the adventure continues
+                                                    the harrowing siege of Stürmenburg. The party
+   Yet hope is not lost. Many people remain         must fall back to the inner walls, attempting
+trapped in that area, and pockets of defenders      to save as many civilians as possible along the
+fight on in the mayhem. If not for the efforts of   way. Once united with the survivors, they will
+the party, far more would have perished already,    plan their counteroffensive, striking back at the
+and far more will perish by the end of the night.   heart of the beastmen hordes.
+
+   Though a bittersweet ending, there is much          The second part of this adventure will
+work yet to be done, and much revenge yet to        continue several quests and narratives that
+be had.                                             began in the first part of the adventure, delving
+                                                    into heroic rescues, interactions with Lord
+                                                    Arminius, and political entanglements with the
+                                                    Blitzvakt and Administrator Varus.
+
+
+
+
+                                                                                                        37
+                              Appendix A: bestiary
+
+
+     C
+              apra are generally regarded as the
+              physically weaker
+               cousins to their Aurox counterpart.
+                  Yet, what these devious creatures
+              lack in strength,
+     they gain in overwhelming numbers,
+     nimbleness, and moral depravity.
+        Their tribal societies constantly bicker and
+     war with each other, vying for power and
+     control over the hordes.
+     The Capra’s negative tendencies were once kept
+     in check by dominant Aurox chieftains who
+     were able to control their ranks through their
+     strength and natural wisdom gained through
+     their long lifespans.
+        However, in recent years, the Aurox numbers
+     have waned, and many Capra shamans and
+     warlords have usurped power once beyond their
+     grasp.
+        Lately, the goat-like creatures have increased
+     the pressure over the Stürmenburg siege,
+     coming up with devious ploys and
+     unexpected strategies, far outside their
+     normal capacity for intelligence.
+
+
+
+
+     Additional reports detail the uncontrollable
+     swelling of their ranks and hint at horrendous
+      monstrosities that have joined the
+     Capra in arms, under the banner of
+     new, mysterious leadership.
+
+
+
+
+38
+39
+      SWARMS (CR 2)
+     CAPRA SCOUTS
+
+
+               Capra Scouts roam the northern wilderness
+            of Doaden, scampering about through the trees,
+            underbrush, and rocky slopes. Chances are that
+               when one travels in the northern tundra, they
+            are free from the constant surveillance by these
+                                                devious fiends.
+                  Trained since birth, Capra Scouts are sent
+                to scavenge, observe, and report back to the
+                  tribe so that their hunters can pursue their
+                     prey. In times of war, they are corralled
+                               onto the front lines as they are
+                                  considered disposable until
+                                       they prove their worth.
+                                         Unfortunately, if they
+                                          do prove themselves
+                                         in battle, their reward
+                                           is usually a heavier
+                                             weapon and even
+                                                 more frontline
+                                                   assignments.
+
+
+
+
+40
+CAPRA SCOUT
+Medium monstrosity
+
+Armor Class: 12
+Hit Points: 27
+Speed: 30 ft.
+STR    DEX     CON INT       WIS    CHA
+
+ 11      12     12     7       11      7
+ (0)    (+1)   (+1)   (-2)    (0)    (-2)
+
+
+Senses: Darkvision 60 ft.,
+Passive Perception 10
+Languages: Beastspeak
+Challenge: 2 (450 XP)
+
+
+
+
+Nimble Escape.
+This creature can take the
+Disengage or Hide action as a bonus
+action on each of its turns.
+
+ACTIONS:					
+
+						
+Multiattack (2). This creature makes two
+attacks with the Handaxe.
+
+Handaxe. Melee Weapon Attack: +3 to
+hit, reach 5 ft., one target. Hit: 7 (1d10 +
+2) slashing damage.
+
+Spear. Ranged Weapon Attack: +4 to
+hit, range 30/60 ft., one target. Hit: 7
+
+
+
+
+                                               41
+      SOLDIERS (CR 3)
+     CAPRA HUNTERS
+
+               Capra Hunters are agile
+               sharpshooters. They closely follow
+                  behind the frontline troops in battle,
+                   raining down a hailstorm of arrows
+                   on enemy lines.
+                      Outside of war, these hunters
+                   stalk the woods near human
+                      settlements, picking off unwary
+                      folk as they forage. When the
+                      sun goes down, they quickly
+                     neutralize village watchmen from
+                 the tree line in order to clear the
+                way for the other beastmen to raid,
+               pillage, and capture food.
+
+
+
+
+42
+CAPRA HUNTER
+Medium monstrosity
+
+Armor Class: 13
+Hit Points: 33
+Speed: 30 ft.
+
+STR     DEX    CON INT       WIS    CHA
+
+ 11      16     12     10     14      7
+ (+0)   (+3)   (+1)   (+0)   (+2)   (-2)
+
+
+Senses: Darkvision 60 ft.,
+Passive Perception 12
+Languages: Beastspeak
+Challenge: 3 (700 XP)
+
+Nimble Escape. This creature can take
+the Disengage or Hide action as a bonus
+action on each of its turns.
+
+Quick Fire. This creature may spend one
+additional action to take an additional
+Bow attack action.
+
+
+
+
+ACTIONS:					
+						
+Multiattack (2). This creature makes
+two attacks.
+
+Dagger. Melee Weapon Attack: +5 to hit,
+reach 5 ft., two targets. Hit: 8 (1d10 + 3)
+piercing damage.
+
+Bow. Ranged Weapon Attack: +5 to hit,
+range 30/60 ft., one target. Hit: 7 (1d8 +
+3) piercing damage.
+
+
+
+
+                                              43
+     CAPRA RAIDERS
+
+
+             Capra Raiders are the most common
+           among the beastmen ranks. Bred for battle
+             and hungry for violence, these relentless
+             creatures inspire confidence among their
+            allies as they charge fearlessly against the
+             enemy. Most Raiders are sent to an early
+                      grave either at the edge of enemy
+                        swords or by the hands of their
+                          own kin. The beastmen know
+                           no peace and only a handful
+                           of them survive more than a
+                                     handful of winters.
+
+
+
+
+44
+CAPRA RAIDER
+Medium monstrosity
+
+Armor Class: 15
+Hit Points: 39
+Speed: 30 ft.
+
+STR     DEX    CON INT       WIS   CHA
+
+ 15      15     15      7    11     11
+ (+2)   (+2)   (+2)   (-2)   (0)   (0)
+
+Senses: Darkvision 60 ft.,
+Passive Perception 10
+Languages: Beastspeak
+Challenge: 3 (700 XP)
+
+Specialist Variations. Each Capra
+Raider is armed with either two
+melee weapons (Offensive), a melee
+weapon and a shield (Defensive), or
+a banner (Marker). Before combat,
+decide which type they are or roll 1d20.
+On 1-11, they are Offensive; On 12 - 18,
+they are Defensive. On 19 - 20, they are
+Marker.
+
+Offensive Variant. Creatures of this
+variant make one additional attack when
+taking the Multiattack action.
+
+Defensive Variant. Creatures of this
+variant gain +2 to their AC.
+
+Marker Variant. Creatures of this variant
+grant allies within 60 ft. advantage to
+attack rolls.
+
+ACTIONS:
+				
+Multiattack (2). This creature makes two
+attacks.
+
+War Axe. Melee Weapon Attack: +5 to
+hit, reach 5 ft., one target. Hit: 14
+(2d8 + 5) slashing damage.
+
+                                            45
+       ELITES (CR5)
+     AUROX REAVERS
+
+
+                    Aurox Reavers are individuals
+               who have allied themselves with Capra
+                     leaders, hoping to gain from their
+                      opportunistic relationship. When
+                  once the Capra respected the Aurox,
+                they now outnumber them a hundred
+                 to one, using their newfound powers
+                 to force the Aurox to work as slaves,
+                work beasts, and disposable warriors.
+                     Occasionally, Aurox will serve in
+                       commanding positions amongst
+                      the Capra hordes, but when they
+                        do, they tend to show the same
+                                           devious and
+                                          Machiavellian
+                                            traits of the
+                                          goatmen they
+                                     live with and once
+                                               despised.
+
+
+
+
+46
+AUROX REAVER
+
+Large monstrosity
+
+Armor Class: 15
+Hit Points: 95
+Speed: 30 ft.
+
+STR     DEX    CON INT       WIS    CHA
+
+ 18     14     18      14     16     12
+ (+4)   (+2)   (+4)   (+2)   (+3)   (+1)
+
+Saving Throws: STR +7, CON +4
+Senses: Darkvision 60 ft.,
+Passive Perception 10
+Languages: Beastspeak
+Challenge: 5 (1,800 XP)
+
+Charge. If this creature moves at least
+10 ft. straight toward a target and then
+hits it with an attack on the same
+turn, the target takes an extra 13
+(3d8) damage of the same type.
+If the target is a creature, it
+must succeed on a DC 14
+Strength saving throw or be
+knocked prone.
+
+Berserker. When
+lower than half
+health (42 Hit
+Points), this creature
+gains
+advantage on all attacks.
+
+ACTIONS:
+					
+Multiattack (2). This creature makes two
+attacks.
+
+Greataxe. Melee Weapon Attack: +7 to
+hit, reach 5 ft., one target. Hit: 23 (3d12
++ 4) slashing damage.
+
+
+                                              47
+     BOSSES (CR10/12)
+         CYROX
+
+
+                 Cyrox are huge, hideously malformed
+              beasts with a single eye at the center of
+              their forehead, leaving them with little to
+              no peripheral vision.
+
+
+
+
+                   These dumb, almost
+                  brainless creatures are corralled into
+                  war and used as siege weapons by
+                  the beastmen armies who keep them
+                   under chains and leashes, provoking
+                   and inciting their rage. An enraged
+                    Cyrox makes little distinction in
+                    battle between friend or foe and
+                    will stomp its way over anything
+                        that crosses its path.
+
+
+
+
+48
+CYROX
+Gargantuan monstrosity
+                                                 ACTIONS:
+Armor Class: 16                                  		
+Hit Points: 231                                  Slam. Melee Weapon Attack: +9 to hit,
+Speed: 50 ft.                                    reach 10 ft., one target. Hit: 20 (3d8 + 7)
+                                                 bludgeoning damage.
+STR     DEX    CON INT        WIS    CHA
+                                                 Rock (CD 3). Ranged Weapon Attack:
+ 24     16      22      8      8     7           +7 to hit, range 15/60 ft., targets all
+ (+7)   (+3)   (+6)    (-1)   (-1)   (-2)        enemies in a 15 ft. circle. Hit: 31 (4d12
+                                                 + 6) bludgeoning damage. Any creature
+Saving Throws: Str + 7, Dex +6, Con +6           damaged by the attack must make a DC
+Condition Immunities: Frightened                 16 Strength saving throw or be knocked
+Senses: Darkvision 60 ft.,                       prone.
+Passive Perception 9
+Challenge: 10 (5,900 XP)                         LEGENDARY ACTIONS:
+
+                                                 This creature can take 2 legendary actions,
+Cooldowns. The notation "Cooldown                choosing from the options below. Only
+X" means that ability may only be used           one legendary action option can be used
+once per that number of rounds. When the         at a time and only at the end of another
+ability is used, the ability is marked with a    creature's turn. This creature regains spent
+specific number. At the end of each round,       legendary actions at the start of its turn.
+all abilities on cooldown are reduced by         Stomp. Make one Slam attack.
+1. Abilities on cooldown reset once they
+reach 0, or once combat ends.                    Throw (CD 2). The Cyrox attempts to
+                                                 pick up a creature within 5 ft. and throw
+Easily Distracted. When attacked by a            it at a target point up to 20 ft. away.
+creature, the Cyrox will shift its focus and     The creature must succeed on a DC 13
+                                                 Dexterity saving throw to avoid being
+pursue its last attacker, focusing its attacks   picked up. If it fails, the creature is moved
+on it for its next turn.                         to the target point and takes 18 (2d10+7)
+                                                 fall damage. If it hits a hard wall or object
+                                                 other than the floor, it takes an extra 6
+                                                 (1d12) bludgeoning damage.
+
+
+
+
+                                                                                                 49
+     CYROX (TORMENT)
+
+     Gargantuan monstrosity
+
+                                                      ACTIONS:
+     Armor Class: 18                                  		
+     Hit Points: 280                                  Slam. Melee Weapon Attack: +9 to hit,
+     Speed: 50 ft.                                    reach 10 ft., one target. Hit: 20 (3d8 + 7)
+                                                      bludgeoning damage.
+     STR     DEX    CON INT        WIS    CHA
+                                                      Rock (CD 3). Ranged Weapon Attack:
+      24     16      22      8      8     7           +7 to hit, range 15/60 ft., targets all
+      (+7)   (+3)   (+6)    (-1)   (-1)   (-2)        enemies in a 15 ft. circle. Hit: 31 (4d12
+                                                      + 6) bludgeoning damage. Any creature
+     Saving Throws: Str + 7, Dex +6, Con +6           damaged by the attack must make a DC
+     Condition Immunities: Frightened                 16 Strength saving throw or be knocked
+     Senses: Darkvision 60 ft.,                       prone.
+     Passive Perception 9
+     Challenge: 12 (8,400 XP)                         LEGENDARY ACTIONS:
+
+                                                      This creature can take 3 legendary actions,
+     Cooldowns. The notation "Cooldown                choosing from the options below. Only
+     X" means that ability may only be used           one legendary action option can be used
+     once per that number of rounds. When the         at a time and only at the end of another
+     ability is used, the ability is marked with a    creature's turn. This creature regains spent
+     specific number. At the end of each round,       legendary actions at the start of its turn.
+     all abilities on cooldown are reduced by         Stomp. Make one Slam attack.
+     1. Abilities on cooldown reset once they
+     reach 0, or once combat ends.                    Throw (CD 2). The Cyrox attempts to
+                                                      pick up a creature within 5 ft. and throw
+     Easily Distracted. When attacked by a            it at a target point up to 20 ft. away.
+     creature, the Cyrox will shift its focus and     The creature must succeed on a DC 13
+     pursue its last attacker, focusing its attacks   Dexterity saving throw to avoid being
+                                                      picked up. If it fails, the creature is moved
+     on it for its next turn.                         to the target point and takes 23 (3d10+7)
+                                                      fall damage. If it hits a hard wall or object
+     Siege Beast. This creature deals double          other than the floor, it takes an extra 10
+     damage to objects and structures.                (1d20) bludgeoning damage.
+
+
+
+
+50
+                        Appendix B:
+                     Gameplay resources
+
+
+L   etters, texts, and other writings can be found throughout Doaden. This adventure contains
+    the following writings.
+
+                    LETTER FROM CAPTAIN ARNE
+               Provided to the party before the start of the adventure.
+
+
+
+
+                                                                                                51
+                     LETTER FROM LORD LUCIOUS
+     Found on the dead Penitent Crusade messenger in Map B: Black Forest Ambush.
+
+
+
+
+52
+

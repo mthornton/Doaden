@@ -1,0 +1,597 @@
+   GIANT'S CRADLE
+                     Level Scaling
+                        5 – 16
+
+
+ Climb the treacherous peaks of the Giant's Cradle and
+confront the ettin threat in this easy-to-run adventure
+
+
+
+                                             Liber Obscura 015
+  “The path to redemption is a treacherous journey walked alone, each step
+              resonating with the sorrow of a thousand sins."
+
+
+
+
+                                   CREDITS
+Writer/Designer: Alexander H. Dovermann   Produced by: Bestiarum Games
+         his module can be run as a one-shot           they have been becoming ever bolder and
+         or as part of a persistent dark fantasy       more aggressive, sparking fear and panic
+
+
+T        campaign using Bestiarum’s Path of
+         Penitence (PoP) system. Some
+         creatures and items are unique to
+         Bestiarum’s world. Their information
+                                                       among the populace. Adventurers are called
+                                                       upon to ascend the treacherous slopes of the
+                                                       Giant’s Cradle and end this looming threat.
+
+can be found at the end of the adventure.              Adventure Hooks
+                                                       Use one of these hooks to begin the adventure
+Tier II. This adventure scales in difficulty
+                                                       or write your own. A good hook will give the
+based on your party’s Average Party Level
+                                                       party a reason to scale the Giant’s Cradle to its
+(APL). Use the following table to determine
+                                                       peak.
+the appropriate difficulty for your party. If your
+                                                       • Shepherd’s Plea. A local shepherd pleads
+party finds the scenario too easy or hard, you
+                                                           with the adventurers for aid. His sheep
+can shift difficulties, even mid-adventure!
+                                                           have been disappearing, leaving only
+                                                           traces of their guts behind. He offers his
+ADVENTURE DIFFICULTY                                       family heirloom as a reward for
+Difficulty                 APL                             investigating and slaying whatever has
+Medium                     5–7                             been attacking his dwindling flock.
+                                                       • Lost Hikers. A group of four climbers
+Hard                       8 – 10
+                                                           were hired by a wealthy scholar to hike the
+Nightmare                  11 – 13                         peak of the Giant’s Cradle and chart out
+Torment                    14 – 16                         the land. The crew has not returned so the
+                                                           scholar asks the party to track them down,
+                                                           offering a hefty sum of gold for the return
+Adventure Introduction                                     of the crew, or in the case of their deaths,
+The once serene peaks of the Giant's Cradle                any maps they may have made of the area.
+have become a source of terror. Villages along         • Ominous Prophecy. A local druid is
+the mountain’s base speak of horrifying                    troubled by horrific visions of blood,
+encounters; livestock slaughtered, travelers               gnashing teeth, and the spirits of the
+gone missing, and giant shadows crashing                   mountain calling out for aid. She implores
+through the trees at night. Local climbers have            the party to intervene, warning of a dark
+attempted to track the monsters behind these               presence that have infested an old temple
+events, following sets of enormous footprints              near the peak of the mountain.
+up the slopes of the mountain. The climbers
+suspected ettins had moved into the area, but
+fled in terror before they could confirm their
+suspicions when they heard terrifying roars
+echoing down the frozen slopes of the
+mountain. Whatever these giant monsters are,
+2                                    Liber Obscura 015 – Giant’s Cradle
+Path of Penitence. Any of the suggested
+                                                         activity: broken branches, flattened grass,
+hooks may be used for a PoP adventure. The
+                                                         disturbed snow – as if someone, or
+Penitent Crusade may assign this mission, or
+                                                         something were here recently. You move
+the party may be following a lead that they
+                                                         forward cautiously, your eyes and ears alert
+discovered themselves.                                   for any sign of danger.
+   Location. The adventure can take place in
+any region of the Empire of Azerai, but we
+suggest you place it in the northern or western
+diocese where mountainous terrain is most
+                                                                    THE ASCENT
+prevalent.                                             Climbing the Giant's Cradle is a challenging
+                                                       task. The path is filled with treacherous
+                                                       obstacles from icy lakes to landslides, and
+Starting the Adventure
+                                                       even worse, hungry ettins patrol several points
+This scenario begins at the foot of the Giant's        along the way. To reach the summit, the party
+Cradle, an imposing, snow-capped mountain.             must brave these threats and push onward,
+The party will have to scale the mountain,             uncovering clues and evidence related to their
+facing a variety of obstacles and challenges on        adventure objectives along the way.
+the way. To begin the adventure, read the                  Giant’s Cradle. The area map of the
+following script.                                      Giant’s Cradle notes the party’s path along
+                                                       their ascent. The adventure should start early
+ As you approach the base of Giant's Cradle,           in the morning so that the party has a full day
+ you are struck by the mountain's grandeur, a          to hike to the summit. It takes 1 hour to walk
+ sight both breathtaking and intimidating. Its         between locations.
+ snow-capped peak rises high into the air, the
+ ragged ridgeline of its slopes cutting across         1) Grassy Basin
+ the skyline like bolts of lightning. It will be a
+                                                       The party starts their journey in the grassy
+ long and perilous journey to the top, but for
+                                                       basin at the foot of the mountain. Recent
+ now you must concentrate on the present –
+                                                       snows have frosted the ground, preserving
+ for you do not wish to be caught after
+                                                       evidence of ettin activity in the area. The party
+ nightfall with whatever horrors might be
+ prowling through the heights.                         should investigate to look for any tracks or
+     As you come to the grassy basin at the            signs of danger.
+ foot of the mountain, your feet crunch on a
+ thin blanket of fresh snow. A winding river           Clues. The party should conduct an
+ meanders past you from the east, draining             Intelligence (Investigation) check,
+ the glacial permafrost from the mountain’s            uncovering the clues on the following
+ steppes. Though it is peaceful here,                  Investigation Results table. They discover
+ something feels off. You spot signs of recent         everything they roll high enough to find.
+
+
+
+
+                                     Liber Obscura 015 – Giant’s Cradle                                 3
+4   Liber Obscura 015 – Giant’s Cradle
+INVESTIGATION RESULTS                                 Crossing The Lake. It takes 15 minutes to
+                                                      cross the lake. Before the party begins to
+Score Clue Found
+                                                      cross, secretly roll 1d6 for each PC to
+5+       A bloody sheep leg lies on the ground.
+                                                      determine their failure threshold. Each
+         The animal’s flesh is shredded, as if
+                                                      minute, every PC makes a DC 10 Wisdom
+         gnawed off by sharp teeth.
+                                                      (Survival) check to navigate the safest path
+10+      Preserved in hardened mud are several        across the ice. When a character reaches their
+         barefoot humanoid footprints. But            failure threshold, the ice beneath them cracks.
+         alarmingly, the prints are as large as       They must make a DC 15 Dexterity saving
+         fully grown men. The tracks headed           throw to leap to safety. On a failure, they
+         farther up the mountain.                     plunge into the frigid water, taking cold
+15+      An overturned merchant cart is half          damage based on the Frozen Lake Damage
+         covered by a snow drift. A frozen hand       table, scaling with adventure difficulty. After
+         with a fine fur-lined cuff protrudes from    the ice breaks under a character, roll a new
+         the wreckage. If pulled, the hand pops       1d6 for that character to determine a new
+         out easily, nothing remaining below the      failure threshold.
+         wrist but a bloody stump. The cart
+         holds broken pots of spices, shredded        FROZEN LAKE DAMAGE
+         rolls of colorful fabrics, and 1d4 jeweled
+         trinkets, each of which can be sold for       Difficulty          Cold Damage
+         100 gp.                                       Medium              2d6
+                                                       Hard                3d6
+
+2) Frozen Lake                                         Nightmare           5d6
+
+Following the basin is an ice-covered lake that        Torment             6d6
+spans the width of the area. The party must
+cross carefully as the ice is treacherously thin
+in places. Read this script to introduce the          3) Secluded Cave
+area.                                                 Continuing the ascent, the party discovers a
+                                                      secluded cave along the mountain’s side. The
+                                                      cave offers a brief respite from the harsh
+ You come to a vast frozen lake that blocks
+                                                      conditions outside but holds its own dangers.
+ your path forward. The icy surface, though
+                                                      If the party stops to investigate the cave and
+ solid, emits ominous cracking sounds as you
+                                                      enters, read this script.
+ step gingerly forward. Crossing this cold
+ expanse will require careful steps and keen
+ judgment to avoid a chilling plunge into the           As your eyes adjust to the dim light of the
+ frigid waters below.                                   cave, you find a gruesome scene. Torn leather
+
+
+
+
+                                    Liber Obscura 015 – Giant’s Cradle                                  5
+                                                     AREA 3 ENEMIES
+    backpacks, broken climbing gear, and
+    scraps of fabric are scattered haphazardly        Difficulty    Enemies
+    about the area. Deep claw marks scar the          Medium        3 ettin youngling
+    walls, and blood splatters paint a macabre
+                                                      Hard          5 ettin younglings
+    scene of a horrific encounter. A disturbing
+    sound echoes from the far side of the             Nightmare 7 ettin younglings
+    cavern — the wet, ripping noise of flesh          Torment       10 ettin younglings
+    being torn from bone. Looking toward the
+    sound, you see a group of hulking pale
+                                                      Lost Hikers. The ettin younglings feast on the
+    figures hunched over a body. The
+                                                      remains of one of four members of a climbing
+    creatures, resembling giant children, are
+                                                      expedition that attempted to hike the Giant’s
+    feasting on the torso of a man clad in
+                                                      Cradle. The remaining three climbers escaped
+    blood-soaked furs. The monsters seems
+                                                      but their fates are no better. The party will find
+    oblivious to your presence, engrossed in          the remaining hikers along their path.
+    their meal.
+
+                                                     Hiker’s Gear. Searching the remains of gear
+Enemies. The cave is inhabited by ettin              and equipment in the cave, the party can make
+younglings; grotesque and ravenous offspring         a Wisdom (Perception) check, uncovering all
+of the ettins living further up the mountain.        the items they roll high enough to find on the
+The party might choose to engage them or use         following Loot Check table.
+the dim light to sneak past or set up an
+ambush.                                              LOOT CHECK
+                                                      Score Clue Found
+                                                      5+        2x 50 feet of hempen rope.
+                                                      10+       A climber’s kit.
+                                                      15+       1d100 gp.
+
+
+
+                                                     4) Frozen Gorge
+                                                     Separating the lower basin from the steeper
+                                                     slopes of the mountain is a wide chasm.
+                                                     Spanning the area is a sturdy wooden bridge,
+                                                     built generations ago by the local mountain
+                                                     folk. Unfortunately, since the ettins have
+                                                     moved on to the upper slopes, the bridge is
+
+
+
+6                                  Liber Obscura 015 – Giant’s Cradle
+                              Map: Frozen Gorge
+
+now guarded by some of their tribe. Read this
+script as the party approaches the area.
+
+
+ You approach a snowy chasm crossed by an
+ old wooden bridge, its planks creaking
+ slightly in the wind. Across the bridge you
+ catch sight of a lumbering figure – a giant
+ two-headed ettin. It reaches a long, grotesque
+ arm into a large sack on its back, pulling out
+ a wriggling man wearing a full set of hiking
+ gear and wearing a leather backpack strapped
+ with climbing ropes, hammers, climbing
+ picks, and other equipment. The man
+ screams as the ettin raises him to its mouth,
+ swallowing the climber in a single gulp.
+
+
+                                  Liber Obscura 015 – Giant’s Cradle   7
+Enemies. Ettins guard the far side of the           5) Upper Slope
+bridge, ready to attack any enemies that
+                                                    The next section of the mountain is the upper
+intrude. The ettins cannot be reasoned with as
+                                                    slope, a treacherous stretch of terrain marking
+their species is brutish and horrible, viewing
+                                                    the most challenging part of the climb. Read
+humans as little more than food. The ettin has
+                                                    this script as the party comes to the area.
+just slain and eaten the second of the hiking
+expedition. In its bag are several local
+villagers, but they are already dead. For this        Leaving the chasm behind, you face the
+encounter, you can start the party on either          daunting upper slopes of the mountain.
+side of the bridge, placing the ettins to guard       There are no paths here, just an untamed
+the opposite side.                                    section of snow and rocky ledges hugging the
+                                                      steep incline. Every step must be taken with
+                                                      care to avoid slipping or causing a rockslide.
+AREA 4 ENEMIES
+                                                      The howling wind carries a biting cold that
+Difficulty   Enemies                                  chills to the bone, and the thinning air makes
+Medium       1 ettin youngling and 1 ettin            each breath a labor. In the distance, the peak
+                                                      of Giant’s Cradle looms ever closer, a silent
+Hard         2 ettins
+                                                      sentinel overseeing your perilous journey.
+Nightmare 3 ettins
+Torment      3 ettin youngling and 3 ettins
+                                                    Hiking The Slope
+                                                    While the party climbs the slope, they will be
+                                                    faced with several events and obstacles,
+                                                    representing the challenges they face for every
+                                                    10-minute section of their journey. After the
+                                                    party completes 6 events, representing 1 hour,
+                                                    they will reach the next area.
+
+                                                       Hiking Challenges. Generate a random
+                                                        event or obstacle by rolling a d8 on the
+                                                        Hiking Challenges table. The party may
+                                                          assist each other, giving advantage on
+                                                          checks where applicable. Creative
+                                                           solutions or use of gear (like pitons for
+                                                          the narrow ledge or ropes to aid in
+                                                          windy conditions) may also provide
+                                                         advantage on checks to succeed on the
+                                                        events.
+
+
+
+
+8                                 Liber Obscura 015 – Giant’s Cradle
+HIKING CHALLENGES                                    Difficulty Modifiers. The DC, number of
+                                                     damage dice rolled, and feet fallen for each
+d8    Events
+                                                     challenge increased based on the adventure
+7 – 8 Nothing happens.
+                                                     difficulty, as shown on the Difficulty Modifiers
+6     Icy Ledge. An icy ledge curves along the       table.
+      mountainside. PCs must cross carefully,
+      making a DC 15 Dexterity (Acrobatics)          DIFFICULTY MODIFIERS
+      check. Failure results in falling 10 feet.
+                                                      Difficulty        DC      Dice      Falling
+5     Blizzard. A blizzard batters the mountain
+                                                      Medium            +0      +0        + 0 ft.
+      reducing visibility. To navigate the area,
+      the party makes DC 10 Wisdom                    Hard              +1      +1        + 10 ft.
+      (Survival) checks until they succeed 2          Nightmare         +2      +2        + 20 ft.
+      times. Each time a check is made, each
+      party member takes 1d4 cold damage              Torment           +3      +3        + 30 ft.
+      from the biting frost.
+4     Hidden Crevasse. A snow-covered                Frozen Hiker. For the fifth challenge, do not
+      crevasse is hidden along the path. A DC        make a random roll. Instead, the party will
+      15 Wisdom (Perception) check is needed         come to a 50-foot-tall glacial wall. The wall is
+      to notice it, or the PC leading the group      made of ice and counts as difficult terrain. 30
+      slips in, falling 40 feet down.                feet up the wall is the dead third expedition
+3     Rockslide. A cascade of loose rocks            hiker. Her body is still attached to where she
+      tumbles down the slope. Each party             locked herself in place with clamps, and a
+      member must make a DC 10 Dexterity             rope descends from her body to the ground,
+      saving throw, taking 1d10 bludgeoning          which she was using to scale the ice. Upon
+      damage on a failure.                           closer inspect, she died from an icicle spike
+2     Crumbling Path. Part of the path gives         that pierced her heart. The party can climb the
+      way underfoot, leaving the party hanging       rope up to her body without making any
+      onto a fractured ledge. Each PC must           climbing checks. Otherwise, they must make a
+      make a DC 10 Strength saving throw to          DC 10 Strength (Athletics) each time they
+      pull themselves back up. On a failure          attempt to climb up, making no progress on a
+      they fall 20 feet.                             failure.
+                                                         Falling Ice. When the party reaches 40 feet
+1     Deepfreeze. Chilling winds sweep down
+      the slope, causing potential frostbite.        up the wall, the upper ice shelf collapse,
+      Each party member must make a DC 10            dropping large icicles down the wall. Each PC
+      Constitution saving throw. On a failure        climbing at the time must make a DC 10
+      they suffer 1d8 cold damage.                   Dexterity saving throw, taking 2d6 piercing
+                                                     damage on a failure. The DC and damage for
+                                                     this event changes based on the Difficulty
+                                                     Modifiers table.
+                                   Liber Obscura 015 – Giant’s Cradle                                9
+                                                      AREA 6 ENEMIES
+Ending The Hike. Once the party completes 6
+                                                       Difficulty    Enemies
+challenges, they will have finished the hike
+                                                       Medium        1 ettin shaman
+and reach the next area.
+                                                       Hard          1 ettin youngling and 1 ettin
+6) Temple Ruins                                                      shaman
+
+Higher up on Giant’s Cradle, nestled amidst            Nightmare 4 ettin younglings and 1 ettin
+the upper ridges of the mountain, lies an old                    shaman
+druidic temple. It was dedicated to the sky            Torment       4 ettin younglings, 1 ettin, and 1
+gods of the local people, but now stands                             ettin shaman
+defiled by the ettins. Read this script as the
+party comes to the area.
+
+
+ As you ascend through the biting cold, the
+ jagged outline of a stone structure emerges
+ through the mist. Pushing onward, you come
+ to the ruins of an old temple. Two statues of
+ twin eagles stand outside the outer doorless
+ entryway. Peering inside, you find that the
+ inner chamber has been defiled. The stone
+ walls are covered in eerie, dark symbols, and
+ the air is thick with the smell of feces. The
+ sanctity of this place has been violated. At the
+ far end of the room is a fattened female ettin
+ dressed in shamanistic regalia, drawing
+ primitive runes in thick red blood.
+
+
+Enemies. The ettin shaman conducts profane
+ritual, further corrupting the site. She has
+been corrupting the druidic temple with her ill
+magics. The encounter with the ettin shaman
+varies based on the adventure's difficulty, as
+outlined in the table below.
+
+
+
+
+10                                  Liber Obscura 015 – Giant’s Cradle
+Ending The Encounter. When the party                 The Last Hiker. The wooden rack strapped
+defeats the ettin shaman and her allies, the         with corpses is used by the ettins to preserve
+corruption of the temple will begin to fade.         their food. Unfortunately, all the captive
+Read this script.                                    humans are long dead. Most are villagers from
+                                                     the surrounding area, though a few are
+                                                     merchants or traders that were passing by the
+ Having confronted the ettin shaman in the
+                                                     lower basin. One body belongs to the last
+ corrupted temple, you feel the oppressive
+                                                     hiker, set apart by the fine leather gear and
+ energy begin to dissipate. The temple's
+                                                     climbing equipment he wears. Glinting from
+ desecration has been halted, but its scars will
+ take time to heal. You turn your attention to       his waist is a golden map case. Inside the case
+ the peak of Giant’s Cradle. The mountain’           is a detailed map of the Giant’s Cradle
+ summit is almost within reach.                      Mountain and surrounding terrain, a
+                                                     testament to his skill and determination.
+                                                         The Map. The map is highly valuable as no
+7) Snowy Summit                                      one has ever charted out the area to this
+The final ascent brings the party to the peak of     specificity before. It can be sold to a
+the Giant’s Cradle. This is the domain of the        cartographer for 700 gp.
+ettin grandsire, the most formidable of the
+ettin tribe. Read this script as the party comes     Enemies. Unfortunately, retaking the summit
+to the area.                                         will not be easy. The ettin grandsire has
+                                                     claimed the Giant’s Cradle as his tribe’s home,
+                                                     and the summit as his throne. To rid the peaks
+ As you reach the summit, a sense of                 of the ettin threat once and for all, the party
+ foreboding grips you. The air is thin, and each     must defeat him and reclaim the mountain.
+ breath feels like inhaling ice. The summit is a
+ wide plateau, offering a panoramic view of
+                                                     AREA 7 ENEMIES
+ the surrounding landscape, yet this majestic
+ sight is overshadowed by the presence of a           Difficulty    Enemies
+ colossal figure – an ettin far larger than any       Medium        1 ettin grandsire
+ you’ve faced so far. Its massive form, covered
+                                                      Hard          1 ettin and 1 ettin grandsire
+ in furs and adorned with trophies of its kills,
+ stands before you, ready to defend its               Nightmare 2 ettins and 1 ettin grandsire
+ mountainous realm. Behind the ettin is a             Torment       2 ettins, 1 ettin shaman, and 1
+ wooden rack strapped with a dozen sheep                            ettin grandsire
+ and a dozen more human corpses.
+
+
+
+
+                                   Liber Obscura 015 – Giant’s Cradle                                 11
+           Map: Snowy Summit
+
+
+
+
+12   Liber Obscura 015 – Giant’s Cradle
+                                                        Shepherd’s Plea. For the party who began
+Ending the Adventure
+                                                    their journey answering a shepherd’s plea,
+After the grandsire’s defeat, the Giant's Cradle
+                                                    returning to him with the news of their victory
+will have has been reclaimed from the ettins,
+                                                    will bring relief and gratitude. The shepherd,
+concluding the party’s challenging and heroic
+                                                    thankful for the safety of his remaining flock,
+ascent. The local villagers and climbers can
+                                                    may reward the party with an uncommon
+now safely traverse the area without fear.
+                                                    magic item or a jeweled trinket worth a small
+Depending on the adventure hook you used,
+                                                    amount of gold.
+you can determine the party’s next actions to
+                                                        Lost Hikers. If the party embarked on their
+wrap up the narrative.
+                                                    adventure to find the lost expedition, they now
+                                                    possess a detailed map and knowledge of the
+                                                    fate of the hikers. Bringing the map to the
+                                                    scholar earns them the promised reward of a
+                                                    hefty sum of gold. In this case, the scholar may
+                                                    be the only one willing to pay them the 700-gp
+                                                    value of the map.
+                                                        Ominous Prophecy. For those guided by
+                                                    the ominous prophecy of the local druid, the
+                                                    cleansing of the temple and the defeat of the
+                                                    ettin shaman hold significant spiritual
+                                                    importance. The party may help to perform a
+                                                    reconsecration ritual in the temple, or they
+                                                    might report back to the druid, who can now
+                                                    rest assured that the spirits of the mountain
+                                                    are at peace.
+
+
+
+
+                                  Liber Obscura 015 – Giant’s Cradle                             13
+                                     MONSTERS & NPCS
+
+ Ettin
+ Gargantuan giant, chaotic evil
+ Armor Class 15 (patchwork armor)
+ Hit Points 136 (13d20 + 39)
+ Speed 40 ft.
+
+     STR    DEX     CON       INT      WIS      CHA
+      20     8       16        6        10        8
+     (+5)   (-1)    (+3)      (-2)     (+0)      (-1)
+
+ Senses darkvision 60 ft., passive Perception 10
+ Languages Giant
+ Challenge 6 (2,300 XP)
+
+ Multiple Heads. The ettin has advantage on saving
+ throws against being blinded, charmed, deafened,
+ frightened, stunned, and knocked unconscious.
+
+ Actions
+ Multiattack. The ettin makes two attacks: one with its
+ greatclub and one with its stomp.
+
+ Greatclub. Melee Weapon Attack: +8 to hit, reach 10
+ ft., one target. Hit: 23 (4d8 + 5) bludgeoning damage.
+
+ Stomp. Melee Weapon Attack: +8 to hit, reach 5 ft.,
+ one target. Hit: 16 (2d10 + 5) bludgeoning damage. If
+ the target is a creature, it must succeed on a DC 16
+ Strength saving throw or be knocked prone.
+
+ Rock. Ranged Weapon Attack: +8 to hit, range
+ 60/240 ft., one target. Hit: 28 (4d10 + 6) bludgeoning
+ damage. If the target is a creature, it must succeed on
+ a DC 16 Strength saving throw or be knocked prone.
+
+
+
+
+14                                       Liber Obscura 015 – Giant’s Cradle
+                                                            Stomp. Melee Weapon Attack: +11 to hit, reach 5 ft., one
+Ettin Grandsire                                             target. Hit: 21 (3d10 + 7) bludgeoning damage. If the
+Gargantuan giant, chaotic evil                              target is a creature, it must succeed on a DC 20 Strength
+                                                            saving throw or be knocked prone.
+Armor Class 15 (patchwork armor)
+Hit Points 201 (13d20 + 65)
+                                                            Rock. Ranged Weapon Attack: +11 to hit, range 60/240
+Speed 40 ft.
+                                                            ft., one target. Hit: 34 (4d10 + 7) bludgeoning damage. If
+  STR      DEX      CON      INT      WIS      CHA          the target is a creature, it must succeed on a DC 20
+   24       10       20       8        12       14          Strength saving throw or be knocked prone.
+  (+7)     (+0)     (+5)     (-1)     (+1)     (+2)
+                                                            Legendary Actions
+Senses darkvision 60 ft., passive Perception 11
+Languages Giant                                             The ettin can take 3 legendary actions, choosing from
+Challenge 11 (7,200 XP)                                     the options below. Only one legendary action option can
+                                                            be used at a time and only at the end of another
+Multiple Heads. The ettin has advantage on saving           creature's turn. The ettin regains spent legendary
+throws against being blinded, charmed, deafened,            actions at the start of its turn.
+frightened, stunned, and knocked unconscious.
+                                                            Attack. The ettin makes one fist attack.
+Legendary Resistance (1/Day). If the ettin fails a saving   Move. The ettin moves up to half its speed.
+throw, it can choose to succeed instead.                    Roar. (Costs 2 Actions). The ettin lets out a fearsome
+                                                              roar. Each enemy creature within 30 feet of it that can
+Actions                                                       hear it must succeed on a DC 18 Wisdom saving throw
+                                                              or become frightened for 1 minute. An affected
+Multiattack. The ettin makes two attacks: one with its        creature may attempt the saving throw again at the
+greatclub and one with its stomp.                             end of each of its turns, ending the effect on a
+                                                              success.
+Fist. Melee Weapon Attack: +11 to hit, reach 5 ft., one
+target. Hit: 13 (1d12 + 7) bludgeoning damage.
+
+Greatclub. Melee Weapon Attack: +11 to hit, reach 10 ft.,
+one target. Hit: 26 (4d8 + 7) bludgeoning damage.
+
+
+
+
+                                         Liber Obscura 015 – Giant’s Cradle                                              15
+ Ettin Shaman                                                 Ettin Youngling
+ Gargantuan giant, chaotic evil                               Large giant, chaotic evil
+ Armor Class 15 (patchwork armor)                             Armor Class 13 (natural armor)
+ Hit Points 152 (16d20 + 48)                                  Hit Points 75 (10d10 + 20)
+ Speed 40 ft.                                                 Speed 30 ft.
+
+     STR    DEX     CON       INT      WIS     CHA              STR      DEX      CON       INT     WIS      CHA
+      18     10      18        10       16      14               16       8        14        6       8        6
+     (+4)   (+0)    (+4)      (+0)     (+3)    (+2)             (+3)     (-1)     (+2)      (-2)    (-1)     (-2)
+
+ Senses darkvision 60 ft., passive Perception 13              Senses darkvision 60 ft., passive Perception 10
+ Languages Giant                                              Languages understands Giant but can’t speak
+ Challenge 8 (3,900 XP)                                       Challenge 2 (450 XP)
+
+ Multiple Heads. The ettin has advantage on saving            Multiple Heads. The ettin has advantage on saving
+ throws against being blinded, charmed, deafened,             throws against being blinded, charmed, deafened,
+ frightened, stunned, and knocked unconscious.                frightened, stunned, and knocked unconscious.
+
+ Innate Spellcasting. The ettin’s innate spellcasting         Actions
+ ability is Wisdom (spell save DC 15). She can innately
+ cast the following spells, requiring no material             Multiattack. The ettin makes three attacks: one with
+                                                              its bite and two with its claws.
+ components:
+
+ At will: poison spray, resistance                            Bite. Melee Weapon Attack: +5 to hit, reach 5 ft., one
+                                                              target. Hit: 7 (1d8 + 3) piercing damage.
+ 3/day each: entangle, speak with animals
+ 2/day each: hold person, lesser restoration
+ 1/day each: call lightning, plant growth                     Claw. Melee Weapon Attack: +5 to hit, reach 5 ft., one
+                                                              target. Hit: 8 (2d4 + 3) slashing damage.
+
+ Actions
+ Multiattack. The ettin makes two greatclub attack
+ and may cast one cantrip.
+
+ Greatclub. Melee Weapon Attack: +8 to hit, reach 10
+ ft., one target. Hit: 23 (4d8 + 5) bludgeoning damage.
+
+
+
+
+16                                       Liber Obscura 015 – Giant’s Cradle
+

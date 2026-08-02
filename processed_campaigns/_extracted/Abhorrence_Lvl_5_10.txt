@@ -1,0 +1,1564 @@
+1
+        Abhorrence
+    A 5e Compatible Adventure
+         For Levels 5 – 10
+
+
+
+
+2
+                   The World of Doaden
+
+W
+    elcome to Doaden, the dark fantasy setting of tainted lands and twisted
+        monsters, where an ever-creeping affliction corrodes the very
+                            essence of existence.
+
+
+It is a world of decay and depravity where once-righteous men and heroes of
+the glorious purpose now struggle to survive as cults and dark gods vie with
+           one another to consume the last vestiges of humanity.
+
+
+    It is a world of death, trapped in the fading dusk of a fallen empire.
+The heroes that wander these lands are no grand adventurers to be honored
+                            in songs of minstrels.
+
+
+For the heavy deeds and decisions these wanderers undertake invariably leave
+them disheartened, broken, nothing more than soulless husks and shadows of
+                         their once-glorious selves.
+
+
+    Yet as dark as Doaden may be, humanity clings to life with a stubborn
+              tenacity, a last flickering flame within the dark.
+
+
+A last hurrah, a final war cry that shall echo in the black abyss of eternity,
+               a momentary victory before the endless night.
+
+
+
+
+                                                                                 3
+                            Credits
+
+    Developed by:
+      Bestiarum Games
+
+    Lead Game Designer:
+      Alexander Dovermann
+
+    Game Designer:
+      Giovani C. Fiorini
+
+    Art & Graphic Design:
+      Katarina Popovici
+      Alexander Dovermann
+      Marina Jukova
+
+    Cartography:
+      Giovani C. Fiorini
+      Alexander Dovermann
+      Katarina Popovici
+      Marina Jukova
+
+
+
+
+                                ON THE COVER:
+                                THE ABHORRENTS
+
+
+
+                                “
+                                The Abhorrent bloodline is a bestial strain of twisted beings
+                                created by Lord Nachzehrer, created from experiments with
+                                abducted humans, injecting them with various strains of
+                                vampiric blood and genetic materials, morphing them into
+                                monsters.
+
+
+
+
+                                                                                         ”
+
+
+4
+                                                                         Contents
+
+CREDITS...................................................................... 4      CHAPTER 3: DOWN THE DRAIN....................... 19
+CONTENTS................................................................. 5           The Junction............................................................. 20
+FOREWORD................................................................ 6            Map G: Areas........................................................... 20
+ADVENTURE SUMMARY: ABHORRENCE................. 7                                      Boss Encounter. ...................................................... 20
+ Scenario Structure................................................... 7              Ending the Adventure. .......................................... 21
+ Story Hook. ............................................................... 7        Encounter Map G: The Junction.......................... 21
+ Chapter Structure.................................................... 7             EPILOGUE................................................................. 22
+ Balance. ...................................................................... 7    Lord’s Laboratory.................................................. 23
+ Regional Map............................................................. 8          Monstrous Experiments. ........................................ 23
+INTRODUCTION....................................................... 9                 Ending the Scenario. ............................................. 23
+ Background................................................................ 9         Encounter Map H: Laboratory............................. 24
+ The Abhorrent Vampires. ........................................ 9                  TAKING IT FURTHER............................................ 25
+ Persistent Rules. ....................................................... 9          Building the Narrative.......................................... 26
+ Cooldowns. ................................................................ 9        The Ambush. ............................................................. 26
+ Wave Combat Encounters....................................... 9                      Sewer Exploration................................................... 26
+ Darkness..................................................................... 9      Heart of Darkness.................................................. 26
+ Mission & Rewards................................................. 10                Vampire Hunt........................................................... 26
+ Renown...................................................................... 10     APPENDIX A: BESTIARY....................................... 28
+ Map A: Sewers Layout............................................ 10                  Normal (Cr 3)........................................................... 30
+ Starting the Adventure......................................... 10                   Bloodfiend............................................................... 30
+CHAPTER 1: TRAPPED.......................................... 11                       Bloodsucker............................................................ 31
+ The Sewers................................................................ 12        Elites (Cr 5).............................................................. 32
+ Map B: Areas............................................................ 12          Bloodhound............................................................ 32
+ Sewer Corridor Encounter................................... 12                       Brute Fiend.............................................................. 33
+ Map C: Areas............................................................ 13          Champions (Cr 9)...................................................... 34
+ Encounter Map B: Sewer Corridor...................... 13                             Cryptstalker. .......................................................... 34
+ Encounter Map C: The Cistern............................. 14                         Cryptstalker Elite.................................................. 35
+ Continuing the Adventure. .................................. 14                      Abhorrent Mage. ...................................................36
+CHAPTER 2: SEWER DEPTHS.............................. 15                              Bloodghast. ............................................................37
+ Encounter Map D: Pumping Chamber.................. 16                                Bosses (Cr 12/15)...................................................... 38
+ Map D: Areas........................................................... 16           Lord Nachzehrer. .................................................. 38
+ Pumping Chamber Encounter................................ 16                         Bloodsucker Dragon. ........................................... 40
+ Map E: Areas............................................................ 17          Non-Playable characters...................................... 42
+ Encounter Map E: Monster Lair.......................... 17                           Prison Wretch........................................................ 42
+ Encounter Map F: Noxious Tunnel...................... 18                            APPENDIX B: GAMEPLAY RESOURCES.......... 43
+ Map F: Areas. ........................................................... 18         Machine Puzzle 1..................................................... 43
+ Continuing the Adventure. .................................. 18                      Machine Puzzle 2..................................................... 43
+                                                                                      Sewers Layout (PCs)................................................ 44
+                                                                                                                                                                       5
+                                                           Foreword
+
+
+      Compatibility. This adventure is intended for use in                THERE IS LIGHT YET in Doaden, and though
+    conjunction with the open license materials in the 5e Systems      it may seldom come in the form of love or joy, it still
+    Reference Document (SRD). References to materials in               shapes itself into a semblance of honor, purpose, and
+    the SRD including monsters, items, and other materials are         redemption.
+    Italicized and may be found by in the SRD, in other core books,
+    or by searching online.                                              - Dreyen Solius, Journal of the World’s Ending.
+      References to Bestiarum materials are Bolded and included
+    in the scenario appendix.
+
+
+       Gold & Items. Civilization and Trade in Doaden have
+                                                                          Narrative Scripts. Passages in this format are
+    crumbled. Only gold, silver, and copper are circulated, and only
+                                                                        meant to be read aloud or paraphrased. They build
+    at 1/10th the amount suggested in D&D manuals. Magical items
+                                                                        an atmosphere or reveal key information to the
+    are extraordinarily rare.
+                                                                        adventuring party.
+
+     Abbreviations. The following terms are abbreviated in
+    Bestiarum publications: Player Character (PC), Non-Playable
+    Character (NPC), and Game Master (GM).
+
+
+                                                                        Special Rules. These passages cover mechanics used
+                                                                        to resolve situations in the scenario. The rule will be
+                                                                        detailed in this format the first time it is used, but it
+                                                                        may be referenced more than once.
+
+
+
+
+                                                                        Torment Mode. Adventurers in Doaden are designed
+                                                                        for Normal Mode parties ranging from levels 5 - 7
+                                                                        and Torment Mode parties ranging from levels 8 - 10.
+                                                                        Torment Mode modifications to encounters are written
+                                                                        in this format.
+
+
+
+
+6
+                      Adventure Summary: Abhorrence
+T    he party is ambushed, waking up bruised
+     and battered, trapped in an extensive sewer
+     complex, below a strange and marvelous
+                                                        Chapter Structure
+
+     fortress. These are the labyrinthian passageways   Chapter 1: The party wakes up in a sewer, in utter
+below Lord Nachzehrer’s keep, a powerful vampire        darkness. As they try to find a way out, they’re
+running bizarre experiments, injecting humans with      ambushed by monstrous beings, bloodsucking fiends
+degenerate strains of vampiric disease.                 and experimental creations of Lord Nachzehrer.
+    To escape, the party has to venture deep into       To escape, the party must operate a machine in the
+the sewers in search of missing components to fix       cistern, to overflow the sewers and rise to the top of
+a complex piece of machinery. Yet adventurers           a large water chamber.
+must be wary, for danger lurks behind every corner
+in this place; as they pass through tight corridors,    Chapter 2: Unfortunately, the machine is missing
+pitch-black chambers, and noxious tunnels, where        crucial parts, which requires the party to venture into
+creeping terrors and bloodsucking monstrosities         sewer depths once again. In their explorations, they
+shamble about in the lightless junctions and dank       must navigate many foes and challenges, passing
+passageways.                                            through nests of creatures and tunnels filled with
+                                                        noxious gases.
+Scenario Structure
+                                                        Chapter 3: The party jumps down a storm drain in
+This scenario draws players into a horror-themed        search of the final component. They’re ejected into
+adventure, emphasizing exploration, puzzle solving,     the junction, an island-like chamber where all the
+and deadly encounters.                                  sewage converges. There, they find the final part
+                                                        to fix the machine, but unbeknownst to the party,
+The adventure is designed to require minimal            the place is the lair of a bloodsucking dragon. The
+preparation for a GM with any level of experience       party fights the creature in a grueling battle. Upon
+and played over a single session. Additional prompts    emerging victorious, they return to fix and machine
+are provided to expand the experience in the Taking     and ascent back to the surface.
+It Further section.
+                                                        Balance
+Story Hook
+                                                        This scenario is balanced for 3-4 players, with
+While traveling the road, the party is attacked and     Normal Mode levels 5-7, and Torment Mode levels
+knocked unconscious by an unknown creature. They        8-10.
+wake up to find themselves in a sewer system, filled
+with bloodsucking monstrosities.
+
+                                                                                                                  7
+    Regional Map
+     This month’s adventure takes place in the following marked location …
+
+
+
+
+8
+                                                       Introduction
+
+T
+      his section provides background on the locations,                lightless tunnels and chambers. At the top of the sewers are
+      factions, characters, and quests that appear in this             the lower levels of the Lord’s laboratory, where he conducts
+      scenario.                                                        experiments and creates his mutated monstrosities.
+
+
+Background                                                             Persistent Rules
+  The following information is helpful for running the scenario.         The following persistent rules apply throughout this scenario.
+
+
+The Abhorrent Vampires                                                 Cooldowns
+                                                                         Some monsters have abilities with cooldowns, limiting the
+                                                                       number of times that ability can be used. Cooldowns range
+  The Abhorrent bloodline is a bestial strain of twisted beings
+                                                                       from 1 to 6, so you can track them on a d6.
+created by Lord Nachzehrer, created from experiments with
+abducted humans, injecting them with various strains of
+vampiric blood and genetic materials, morphing them into
+monsters.
+                                                                           Cooldowns: The notation «Cooldown X» means that
+  The other vampiric bloodlines see these creatures as                     an ability may only be used once per that number of
+despicable abominations. Yet as much as they’re shunned by                 rounds. When the ability is used, the ability is marked
+the other bloodlines, Lord Nachzehrer’s creations are relied               with the specific number. At the end of each round,
+upon, building entire monstrous armies, which are used to                  all abilities on cooldown are reduced by 1. Abilities
+guard their castles and hunt for prey. The relationship between            on cooldown reset once they reach 0, or once combat
+bloodlines is tenuous and rife with political conflict, yet it is an       ends.
+alliance, nonetheless.
+
+Lord Nachzehrer                                                        Wave Combat Encounters
+  Lord Nachzehrer rules from his isolated fortress, a vast palace
+of great splendor in the times of the lost age. It was constructed       Use the following rules when running wave-based
+with wonderous knowledge of architecture and understanding             encounters.
+of technology and science that has since been lost. Such places
+are rare in this age, often remaining little more than ruins.              Spawning Waves: spawn enemies at the beginning of
+  The Lord himself was once a dominant vampire and leader                  their noted round, according to any rules which may
+of the Sanguine Court. However, over the centuries, he became              be specified.
+obsessed with power, turning towards blood infusions and
+genetic modifications. With every new infusion, his body                   Delayed Initiative: If a creature joins the fight on
+and mind changed, becoming more erratic and unstable, until                any round after the first, it is added to the end of the
+he was exiled to his isolated castle, where his experiments                initiative order.
+continue unhindered. In his exile, Lord Nachzehrer has
+grown incredibly powerful, drawing power from the strange,
+enormous beating heart which he keeps chained within his
+fortress keep, found in some devilish place only he may know.          Darkness
+                                                                         The sewers below Lord Nachzehrer’s castle are filled with a
+The Castle Sewers                                                      pervasive, magic darkness. In all maps other than Map C: The
+  This adventure takes place within the sewers below Lord              Cistern, use the following rule.
+Nachzehrer’s castle, and extensive and elaborate network of
+labyrinthian tunnels and mechanisms that is by all accounts                Pervasive Darkness: Unless specified otherwise,
+today, a technological marvel, filled with mechanical pumps                all areas of the sewers are afflicted by a magical
+and levers, gates, and drain systems.                                      darkness. The maximum light radius emitted by any
+  The place is damp and dark, the stone walkways slick with                light source is reduced to 10 ft. of bright light and an
+water, and filled with hazards like flooded rooms and collapsing           additional 10 ft. of dim light.
+maintenance structures. Worse yet, Lord Nachzehrer’s creeping                   Places marked T on the maps contain old wood,
+terrors and bloodsucking monstrosities shamble about in the                rags, and other resources to craft new torches.
+
+                                                                                                                                          9
+     Mission & Rewards                                                  Starting the Adventure
+       The party must explore the sewers in search of the missing         At the beginning of this adventure, the party is abducted by
+     components to repair the machine in the cistern, which will        Lord Nachzehrer’s minions. You can begin right away, or flush
+     enable their escape.                                               out what the party was doing prior to the adventure leading up
+                                                                        to the abduction. Proceed to Chapter 1 to begin the adventure.
+
+     Renown
+       Upon successful completion of the mission, each party
+     member will gain +1 Renown for the Templar Rangers.
+     Renown is used to acquire special benefits from various cells
+     of the Order. Lists of artifacts, resources, upgrades, and other
+     benefits offered by each cell are included in the Bestiarum 5e
+     Game Master Guide.
+                                                       Map A: Sewers Layout
+
+
+
+
+10
+Chapter 1: Trapped
+
+
+
+
+                     11
+     U
+          pon awakening, the party finds themselves in a jail cell       cistern, or area B4 when heading down towards the sewers.
+          built into the sewer systems below Lord Nachzehrer’s
+          castle. To escape, they must explore the sewers and reach
+                                                                         B2) Sewer Filth
+          the cistern, operating a machine to flood the system and
+     allow them to rise with the water up to a strange laboratory          Putrid water runs from large pipes onto the cracked slimy
+     room. However, the cistern’s water pumps are inoperable until       ground forming a knee-high pool of sludge. Sticking out of
+     they collect sets of parts scattered around the lower sewer         the water there’s a floating corpse. Various pieces of metal
+     levels.                                                             and broken, rusty gears are scattered around the area. Near the
+                                                                         upper sewer pipe, there’s 1x Copper Lever, very well adorned
+       To begin this chapter, read the following script.                 with intricate carvings. The lever is one of three components
+                                                                         required to start the machine at Map C: The Cistern, allowing
+                                                                         the players to escape.
+
+            You wake up in complete darkness to the sound of
+          dripping water. You have a large, painful rash on your         Sewer Corridor Encounter
+          entire shoulder, your skin tender and bruised, and
+          punctured by several small, sharp marks, where your              A bloated corpse floats in the water. It is swollen and
+          blood has scabbed. You feel dizzy and sick, and as you         emaciated, with milk-white skin so translucent that you can
+          try desperately to remember what has happened to               see the blue veins beneath it. It is a slumbering Bloodfiend. If
+          bring you here, your mind is only blank. It is as if the       the party disturbed it or picks up the Copper Lever, read the
+          past two days have been wiped from your memory.                following script.
+
+             A foul smell pierces your nostrils. As you slowly
+          regain awareness of your surroundings, you reach out
+          in the utter darkness, feeling the shape of a lantern                  The bloated corpse in the water stands. A grotesque
+          knocked on the slimy floor. You fumble a bit but finally            sound emits from its gaping maw, which extends,
+          manage to light it. The yellowing light barely pushes               filled with serrated teeth and a long stinger-tipped
+          back the darkness. You stand in a dirty cell with                   appendage.
+          greasy stone walls. The door to the cell is slightly ajar.
+          Looking through it, you see a long sewer corridor
+          leading forward into the darkness. Water drips from              Enemies. The following enemies are present here:
+          the ceiling and the ground has various patches of
+                                                                                  2x Bloodfiends (one at B2, and one at any B3).
+          streaming disgusting water.
+
+                                                                                       Torment. Add 1x Bloodsucker.
+
+       Equipment. The party has received 1x Lantern (with 1 hour         B3) Large Pipes
+     of oil left).
+                                                                            These pipes extend all over the sewer complex, connecting to
+                                                                         its various chambers. Monsters occasionally lurk in the depths,
+                                                                         and will ambush the party if they pass by at an inopportune
+     The Sewers                                                          time.
+        Echoing sounds of running machinery reverberate off the
+     slime-coated stone walls of the maze-like sewer complex, as
+     well as an occasional screech coming from deep within the
+     sewer’s bowels. Channels of putrid water runs through these              Sewer Attacks: Every subsequent time the party
+     dimly lit tunnels, and a foul stench is ever-present. The party          passes through Map B, roll a d20 to determine if they
+     starts at the Lock-Up in Map A: Sewers Layout (GM),                      are attacked by any creatures. Spawn the following
+     and must reach the end of the Lock-Up tunnel, there’s a path             creatures immediately as they enter, upon the
+     leading up and one leading downwards. The upper path will                following roll outcomes.
+     lead them to Map C: The Cistern, while the other leads them
+     to the Depths of the sewer. The party must reach the cistern.            1-4: 2x Bloodfiends.
+                                                                              5-8: 2x Bloodsuckers.
+                                                                              9-12: 1x Bloodfiend; 1x Bloodsucker.
+     Map B: Areas                                                             13-20: Nothing.
+       The following areas correspond to Map B: Sewer Corridor
+     The party starts at the B1. The party must pass through here to     B4) Cistern Entrance
+     reach the cistern, or to return to the sewers until they unlock a     At the other end of the sewer tunnel, a gateway leads to Map
+     hidden shortcut.                                                    C: The Cistern. The party starts in area B1 while heading up
+                                                                         towards the cistern, or area B4 when heading down towards the
+                                                                         sewers.
+     B1) Sewer Corridor
+      The party starts in area B1 while heading up towards the
+12
+Encounter Map B: Sewer Corridor
+
+
+
+
+Map C: Areas                                                         a broken glass tube, with multiple burst wires. On the lower left
+                                                                     side, there’s a hole to which the Copper Lever can be attached
+ The following areas correspond to Map C: The Cistern.               to.
+When the party enters the area, they start at C1: Sewer
+Entrance.                                                              The machine on the left has its front part open. Inside there
+                                                                     are two large copper gears on opposite sides. In the middle are
+                                                                     four rods with missing gears. When the party attaches the lever
+  Anti-magic Field. Above the cistern is the Lord’s lower            and interacts with the machine, read the following script.
+laboratory. In the laboratory is a machine that creates an anti-
+magical field that extends into the cistern. PCs can’t cast or use
+any sort of magical abilities or spells in this area.                       As you pull down the lever, the machine powers up
+                                                                          with energy for a brief moment. The platform where
+                                                                          you’re standing seems to move slightly. The pipe lid
+C1) Sewer Entrance                                                        on the wall briefly opens as a burst of water splashes
+  Coming out of the sewer entrance is the cistern, a large open           out of it.
+area, with shallow water covering parts of the floor. It contains
+                                                                            Yet, suddenly the lid closes again. A spark of
+a huge pipe lid on the wall which is holding back a tide of
+                                                                          electricity jolts from the broken glass tube beside the
+water. If released, the water can be used to flood the cistern and
+                                                                          lever, and the gears start to make a grinding noise as
+allow the party to rise.
+                                                                          smoke starts to come out of the machine. The water
+   Approximately 100 ft. above, there’s a raised area with a              level begins to lower as it flows down the drains on
+large gate from where a faint light is coming. A dim natural              the floor.
+light comes from the ceiling far above, illuminating the area.
+                                                                       Left-side Machine Puzzle. To make it functional again, the
+C2) Oil Tank                                                         party must find and replace the broken electrical charger with a
+  A metal barrel filled with oil. It can be used to replenish the    new one. Provide the party with Machine Puzzle 1 (Appx. B:
+lantern the party has found.                                         Game Resources).
+
+
+C3) Machine Platform                                                   Right-side Machine Puzzle. To make it functional again,
+  A ladder leads to a raised platform about 10 ft. from the          the party must find 4x Copper Gears and place them in the
+ground. On top of it, there’s a powered-off machine. The right       rods in the correct order. When the party gathers the four gears,
+side of the machine has a switch panel with various pressuring       provide them with Machine Puzzle 2 (PCs) (Appx. B: Game
+meters and buttons. On the upper right side of the panel, there’s    Resources).
+                                                                                                                                         13
+       Operating the Machine. Inside the walls of the sewer are               Equipment. Besides pile of timber, there’s a broken
+     various grinding gears connected to this machine. It controls a        campfire. It is still smoking, and seems to have been lit a few
+     vast tank filled with tons of gallons of water behind the cistern.     hours ago. There’s a backpack with a few items scattered
+     The platform where the machine is standing is movable, and             around the campfire. There’s 1x Potion of Healing; 1x
+     when the machine is powered up, the lid on the cistern wall will       Tinderbox; and 3x Torches made out of the same greasy wood
+     open, allowing the water to flood the cistern, thus raising the        of the pile. Inside the backpack, there are 8x Rations; 1x
+     platform to the upper level. Yet, for this to work, all parts of the   Bedroll; and 1x Waterskin.
+     machine must be in working condition.
+
+
+     C4) Pumping Chamber Shortcut
+                                                                            Continuing the Adventure
+       In the middle of the room, there’s a well, closed with a grate.      When the party goes to the sewer depths, proceed to
+     On the underside of the grate, there’s a lock that can only            Chapter 2.
+     be opened from beneath. This is a shortcut that connects the
+     cistern to Map D: Pumping Chamber.
+
+
+     T) Timber Pile
+       On top a wooden platform, there’s a pile of greasy wood and
+     rags. These can be used to make torches.
+
+
+
+
+     Encounter Map C: The Cistern
+
+
+
+
+14
+ Chapter 2:
+Sewer Depths
+
+
+
+
+               15
+     T
+        he machine in the Cistern needs another two components:
+        4x Copper Gears and 1x Electrical Charger. The items                           Torment. Add 1x Bloodsucker.
+        are spread around the sewer depths. The party must
+        explore in order to find them, heading first to Map D:           D2) Broken Machine
+     Pumping Chamber, though they may explore in any order.                The chamber walls are a greasy stone. The floor is covered
+                                                                         in bones and human remains, with old blood stains splattered
+            As you unlock the metal gates and descend the rusty          around. In a lower section, there’s a similar machine to the
+          ladder into the depths of the sewer, strange echoing           one on Map C: The Cistern. It is broken beyond repair, and
+          sounds resound from deep within the tunnel. The foul           various fungi have begun to grow over it.
+          stench of rot and decay becomes even more intrusive.
+          A few paces away from the ladder, the tunnel divides
+          into two sections; the one on the right side is closed by       Missing Component. Besides the machine, there are 3x
+          yet another metal gate, while the one on the left seems        Copper Gears in good condition.
+          to extend endlessly into darkness, with the silhouette
+          of a darkened alcove leading to an adjacent chamber.
+                                                                           Equipment. The Crusader has been killed by the creature.
+                                                                         His armor has been torn to shreds and is beyond repair. But, by
+       Closed Gates. Area E is closed by a metal gate, and requires      searching his body, the party can find 10x Bolts, and 1x Potion
+     a key found in area F to be opened. Also, between areas D and       of Greater Healing. Additionally, the Crusader is clutching in
+     E, there’s a corridor behind a closed metal gate. It doesn’t have   his hands the map of the sewer. If the party takes it, provide
+     a keyhole. It can only be opened from the other side, coming        them with Sewers Layout (PCs) in the Appx. B: Game
+     from area G: The Junction.                                          Resources.
+
+
+                                                                         D3) Cistern Shortcut
+     Map D: Areas
+                                                                          At the far end of the room, there’s a ladder that leads to the
+        The following paragraphs detail important areas of Map D:        well in Map C: The Cistern (C4).
+     Pumping Chamber When the party enters the area, they start
+     at D1: Pumping Chamber Entrance.
+                                                                           Key Item. The key to open the grate covering the well is on
+                                                                         the ground, beside the ladder.
+     D1) Chamber Entrance
+       From the main tunnel, an alcove on the side leads to a
+     pitch-black chamber. At the center of the chamber is a Penitent
+     Crusader carrying a torch, who has been attempting to find the
+     pieces to repair the cistern. As the party approaches, read the     Encounter Map D: Pumping Chamber
+     following script.
+
+
+
+             As you walk through the tunnel, you come to a
+          pitch-black chamber. You see an armored knight at
+          the center, carrying a faint torch. He notices you
+          approaching, holding his finger to the mouth of his
+          helmet, warning you to be silent. He holds up a hand,
+          fingers wide, gesturing for you to stay in place as he
+          takes a cautious step towards you, but he steps on an
+          old bone, which cracks sharply under his weight. Too
+          fast for your eyes to follow, an enormous black form
+          flies out from the darkness, colliding with the man
+          and tearing him away. The torch falls to the ground,
+          extinguishing as it falls into a puddle of water.
+
+
+
+
+     Pumping Chamber Encounter
+       Enemies. The following enemies are present here:
+       1x Cryptstalker (starting in any corner of the map).
+
+
+16
+Map E: Areas                                                            Enemies. Spawn the following enemies:
+
+ The following paragraphs detail important areas of Map E:                     1x Bloodghast (next to at E2).
+Monster Lair. When the party enters the area, they start at E1:
+Lair Entrance.
+                                                                                     Torment. Add 1x Bloodfiend.
+
+E1) Lair Entrance                                                      Missing Component. Besides the creature’s lair, there is 1x
+  Upon opening the metal gates from the main tunnel, there’s a        Copper Gear in good condition.
+long corridor. At the end of the corridor, it opens up to the large
+tunnel overlooking the storm drain. Massive, iron grate bars
+once closed the entrance to this storm drain. But now they’re           Equipment. There’s an old backpack beside the gear. It
+rusted, curling inward, bent and broken, covered in large claw        contains 1x Potion of Greater Healing; and 1x Scroll of Mass
+marks and blood splatters. The ground is covered in old blood,        Healing.
+rotten guts, and broken bones.
+                                                                      E3) Storm Drain
+E2) The Lair                                                            A rapid running stream of sewage bursts out of the huge pipes
+  Edging the storm drain there’s a pile of debris, corpses, bones     in the lower area, spilling water down the drain.
+and rotten remains. In the middle of the pile, there’s a large
+broken sewer grate. This is the lair of a Bloodghast. In front of
+the lair, there’s 1x Copper Gear. If the party interacts with the       Down the Drain. The sewage on the storm drains is not
+gear or gets within 10 ft. of the lair, read the following script.    deep. If a creature falls, it moves at half of its total speed and
+                                                                      can climb out using the ladders spread around the map.
+
+        Suddenly, a huge dented trunk jolts out of the pile
+     of debris, swinging violently from side to side. A loud
+     screeching roar echoes from the pile, as an enormous
+     malformed beast, with a gaping maw filled with gnarly
+     teeth, savagely claws itself out of the hole. Standing on
+     its claws, the creature charges at you, dripping with
+     sewage and blood from its hanging guts.
+
+
+
+
+Encounter Map E: Monster Lair
+
+
+
+
+                                                                                                                                           17
+     Map F: Areas
+                                                                                       Torment. Add 1x Bloodsucker.
+      The following paragraphs detail important areas of Map F:
+     Noxious Tunnel. When the party enters the area, they start at
+     F1: Tunnel Entrance.                                                  Noxious Gases. When the party first enters the tunnel, each
+                                                                         PC must succeed on a DC 16 Constitution saving throw or
+                                                                         become poisoned for 1 minute. A creature can repeat the saving
+     F1) Tunnel Entrance                                                 throw at the start of each of its turns. Once the effect ends, the
+       At the far-left end of the main tunnel is the left storm drain,   creature is immune to the gas for 24 hours.
+     where creatures have made it their nest. As the party enters the
+     area, read the following script.
+                                                                         F2) Pipes
+                                                                           Inside these pipes, the bloodsucking monstrosities lurk in the
+             Entering the tunnel, a thick fog takes over the             darkness. Moving through the walls, and quickly traversing the
+          fungi-filled space, with a stench that burns your eyes         tunnels.
+          and nostrils, and tightens your throat. Large pipes are
+          spread over the walls, with piles of debris and rotten
+          meat laid out across the narrow wood walkways.                 F3) Dead Crusader
+          Beneath them, you see sewage splashing violently                 The dead crusader is partner to the other that was killed at
+          from a huge pipe, flowing downward to some unknown             Map D: Pumping Chamber. Near his corpse is the key that
+          darkness within the sewer complex. As you observe              can be used to open the gates to area E: Monster Lair.
+          your surroundings, a large creature crawls out of a
+          pipe, stepping over the corpse a dead crusader. The
+          creature turns to you and emits a loud screech from            F4) Storm Drain
+          its beak-like maw. Suddenly, more screeches begin to              A rapid running stream of sewage bursts out of a huge pipe in
+          echo from the other pipes, as more monstrosities begin         the lower area, spilling the water down the drain. The sewage
+          to pour out of them.                                           on the storm drains is not deep. If a creature falls, it moves
+                                                                         at half of its total speed, and can climb out using the ladders
+                                                                         spread around the map.
+       Enemies. Spawn the following enemies:
+              1x Bloodhound (at F3)
+              2x Bloodfiends (any F2 you see fit)                        Continuing the Adventure
+                                                                         When the party jumps down one of the storm drains,
+
+     Encounter Map F: Noxious Tunnel
+
+
+
+
+18
+                         Chapter 3:
+                        Down the Drain
+proceed to Chapter 3.
+
+
+
+
+                                         19
+     O
+          ne piece is still missing to power up the machine, and with   G3) Mysterious Ruin
+          a map in hands showing the existence of a hidden chamber        A strange ruin made out of detriments and pieces of the
+          down the storm drains, the party must jump into the dark      sewer stands in the middle of the rocky formation, covered in
+          abyss. When they make the decision to do so, read the         overgrown fungi and roots. Inside it, a running machine sheds a
+     following script.                                                  dim light, emitting a faint buzzing sound.
+
+           Falling down the drains, you are swept by the filthy
+                                                                          Missing Component. The machine is the same as the one
+         sewage, thrashed around the pipe at extremes speeds,
+                                                                        in Map C: The Cistern. On a panel, there’s a metal lever, and
+         descending ever deeper into darkness. Suddenly, a
+                                                                        attached to the machine there’s a sturdy glass tube, emitting
+         glimpse of light begins to rapidly surge at the end of
+                                                                        electric discharges within itself through various wires. This is
+         the pipe, as you are ejected with force onto a rocky
+                                                                        the 1x Electric Charger needed to replace and power up the
+         formation.
+                                                                        cistern machine.
+            As you regain your footing and catch up with your
+         surroundings, you notice a faint natural light coming
+         from the top, hundreds of feet above you. The island-          Boss Encounter
+         like formation where you stand, lies amid a gapping
+         abyss. Various pipes alongside the walls spew its                When the party interacts with the machine, read the following
+         brackish water, making the pungent smell of the                script.
+         converging sewer almost unbearable as it drizzles
+         over the edges of the island. At the center there’s                   A faint echo resounds from deep down the chasm
+         a strange ruin, with a dim yellow and bluish light                  before fading to silence. A few seconds later, the sound
+         coming from it, emitting a faint buzzing sound.                     reemerges, louder and similar to a screeching roar.
+                                                                             Suddenly, an enormous shadow lunges out of the abys,
+                                                                             a gargantuan, winged beast. It opens its maw as it
+                                                                             lunges clumsily in your direction.
+     The Junction
+        The storm drains lead here, to a junction at the heart
+                                                                          Enemies. Spawn the following enemies:
+     of the expansive sewer system. All the swage converges
+     on this chamber, where the water bubbles and spurts in                      1x Bloodsucker Dragon (anywhere you see fit)
+     constant splashes, flowing down the sides of island and into
+     the surrounding abyss, falling to some unknown darkness,
+                                                                                      Torment. Use Bloodsucker Dragon
+     hundreds of feet below. The chamber is dimly lit by natural
+                                                                                      (Torment) instead.
+     light.
+
+                                                                          Ending the Encounter. When the party defeats the
+       Junction Traits. This area has the following traits:             Bloodsucker Dragon, read the following script.
+       Huge Area. The junction is an enormous space rising
+     approximately 180 ft. to the ceiling.                                     You stare at the fallen beast’s slouched, foul-
+        Dim Light. The Junction is dimly illuminated by natural              smelling corpse. A hiss escapes from the creature’s
+     light.                                                                  ripped-open chest, as it takes its last breath. A
+                                                                             blackish crimson liquid oozes from its corpse, slowly
+                                                                             dribbling to the edges of the island as it merges with
+                                                                             the foul sewage.
+     Map G: Areas
+      The following paragraphs detail important areas of Map G:
+                                                                        G4) Sewers’ Ladder
+     The Junction The party starts at G1: Junction Island.
+                                                                          At the north edge of the island, there’s a metal ladder, leading
+                                                                        40ft. up to a long corridor. At the end of the corridor is the
+     G1) Junction Island                                                metal gate that opens up to the Depths’ main tunnel.
+       The storm drains’ pipes eject its sewage on this rocky
+     formation, that stands in the middle of an endless chasm.
+                                                                           Gate Puzzle. The machine in G3 powers up the gate. There’s
+                                                                        a lever on the machine that controls the gate. If pulled while
+     G2) Sewage Falls                                                   the machine is powered up, it opens the gate and the Electric
+       The center of the island is a bit elevated, making the sewage    Charger may be removed without making it close again.
+     converge around its edges and drop into a muck of thick sludge     However, if the Electric Charger is removed before pulling
+     that counts as difficult terrain.                                  down the lever, the machine is powered off, and the gate won’t
+                                                                        open.
+20
+Ending the Adventure.
+ When the party attaches all missing components to the
+machine in Map C: The Cistern, proceed to the Epilogue.
+
+
+
+
+Encounter Map G: The Junction
+
+
+
+
+                                                          21
+     Epilogue
+
+
+
+
+22
+A
+     fter facing the lurking horrors of the sewers, the party     Enemies. Have1x Brute Fiend wake up from the rack in area
+     finally gathers all the components to fix the machine,      H2 and attack the party.
+     making their ascent back to the surface. Read the
+     following script to continue.
+                                                                               Torment. Add 1x Bloodfiend.
+
+      With all pieces in place, the machine powers up as         H3) Laboratory Exit
+    you pull down the lever. The lid on the wall slowly
+                                                                   At the end of the laboratory, a stairway leads to a trapdoor in
+    opens, as clear, blue water bursts with extreme
+                                                                 the keep’s backyard, overlooking the Rivenwald woods.
+    pressure out of the pipe. The water level begins to rise
+    rapidly, flowing down the sewer tunnel, and beginning
+    to flood the cistern. As it nears the platform where
+    you stand, it begins to rise alongside the water. A          Ending the Scenario
+    few moments later, the water flow stops, as you stand          When the party leaves the laboratory, read the following
+    adjacent to the raised area, looking at an open gate         script.
+    from where lights can be seen flickering inside.
+
+                                                                        As you step outside, you feel the faint rays of
+                                                                      sunlight hitting your face, with a cold breeze lingering
+                                                                      in the air. You stand over a small hill, overlooking
+Lord’s Laboratory                                                     a wooded area, overshadowed by the towering keep
+  The gate leads to Lord Nachzehrer’s lower laboratory. Inside        behind you. Oppressed in a strange darkness so eerily
+are various machines and open corpses on display. This is             familiar to you.
+where he conducts experiments with the primeval vampiric
+creatures and his captured victims.
+
+
+Monstrous Experiments
+   Lord Nachzehrer conducts various experiments in this room,
+stitching together bits and pieces of humans and monstrous
+creatures. The party starts at H1: Cistern Entrance.
+
+
+H1) Cistern Entrance
+ This gate leads to Map C: The Cistern.
+
+
+H2) Experiment Room
+  The laboratory has various corpses of abominable beings
+displayed around. Some of them are just slumbering, and can be
+reanimated at any moment by the scent of blood. As the party
+crosses the area, read the following script.
+
+
+       As you walk along the room, you see various
+    corpses wrapped in bloody rags, stacked on top of
+    each other over hanging beds. Various machines
+    around the room emit a buzzing sound, and ground
+    slightly shakes with the incessant movement of various
+    gears grinding beneath the floor. On top of a rack in
+    the left side of the room, a bloated, emaciated corpse
+    reeks of death and decay. It holds some traits of a
+    human being, yet disturbingly mutated, with bits of
+    other humans and unknown creatures stitched to it.
+      Suddenly, the corpse spasms, jolting its flaccid
+    limbs to the sides of the rack. A groan echoes from its
+    deformed mouth, as it slowly stands, holding falling
+    guts from his forearms as an appendage-like whip.
+
+
+
+                                                                                                                                     23
+     Encounter Map H: Laboratory
+
+
+
+
+24
+25
+     Taking it Further
+
+
+
+
+26
+B                                                                   Heart of Darkness
+     estiarum scenarios are designed to be run in one session
+     with minimal preparation. However, the following
+     suggestions will help you to craft a longer experience and        Although the party has defeated the Bloodsucking Dragon, it
+     deeper narrative.                                              won’t stay dead for long. The sword piercing the dragon’s chest
+                                                                    is a left over remain of Lord Nachzehrer’s cruel experiment.
+                                                                    He ripped off the creature’s heart, and hid it somewhere deep
+                                                                    within inside his keep, where it lies still beating, chained and
+                                                                    attached to various wires and tubes on a huge machine. While
+Building the Narrative                                              the heart is still beating, the dragon cannot be permanently
+  The following suggestions can be used to craft additional         killed, and the Lord grows ever more powerful as he draws
+encounters or build the world.                                      power from the creature’s blood, bonding himself with the
+                                                                    creature through blood magic and forcing it into servitude.
+
+
+                                                                    Vampire Hunt
+The Ambush                                                             Now that the party has seen the horrors of the abhorrent
+  Prior to the party’s capture, they were likely conducting some    vampires, they may start witnessing signs of their presence in
+other order of business. Work this adventure around another         various cities and villages. People mysteriously going missing,
+one, either before or immediately after they finished a different   strange noises echoing from sewers and caverns. You may
+scenario.                                                           create a fully-fledged adventure, where the party goes on a hunt
+                                                                    for these creatures, uncovering various clues and gathering
+                                                                    strength in order to confront Lord Nachzehrer at the end.
+
+Sewer Exploration
+  The depths of the sewers are labyrinthian and perilous, with
+various flooded areas and gas filled chambers. A damp, sunless
+place, which the foul beasts and monstrous experiments of Lord
+Nachzehrer have turned into their lair. If you’d like to craft an
+open exploration of the area, keep the following suggestions in
+mind.
+  The party may explore the tunnel at their own leisure,
+visiting the key areas in which ever order they want, and
+retreating when they deem necessary. Exploration should be
+encouraged, so most of the time in the sewer depths should be
+spent in relative calmness, building that constant fear of being
+jumped by a creature at any moment. You may create random
+encounters and add new sections to the sewer as you see fit, in
+order to create these spikes of fear.
+  Most rooms and tunnels in this area share the following traits:
+  Large Area.
+   The Depths level is a large space, rising wapproximately 40
+ft. to the ceiling, and 30 ft. in width in most tunnels.
+  Darkness.
+  All areas of the Depths are in complete darkness.
+  Damp.
+  The tunnels are mostly covered in sewage, with some flooded
+parts going up to waist height, making traversal difficult and
+unpredictable.
+  Ominous.
+   A foul stench of rot and decay litters the air, becoming
+stronger near the storm drains. Stillness and eerie silence make
+every noise echo through the tunnels, with occasional screeches
+and fading stridulations of quick, hard steps resounding from
+deep within the complex.
+
+                                                                                                                                       27
+                   Appendix A: Bestiary
+
+
+
+     T    he Abhorrent vampires are the results of Lord Nachzehrer’s
+          twisted experiments, an army of ghoulish abominations, little more
+          than monsters, rabid fiends driven by endless hunger and blood-
+     thirst with little capacity for thought or reason.
+       These monstrosities are concocted from a bestial strain of the vampir-
+     ic disease, mixed with muddled physiological derivatives. Twisted now
+     and degenerative, the lord’s servants are far flung from the more aristo-
+     cratic bloodlines of the region.
+       The lord became obsessed with power, turning towards blood infu-
+     sions and genetic modifications. His incessant quest has had irrevers-
+     ible effects on his personality and body and his wayward servants. His
+     abominable legions now dwell in underground crypts and shadowed
+     tunnels throughout Doaden, clawing to the surface at night to feast on
+     the living, a truly gruesome sight. For, unlike other vampire kin, the
+     Abhorrents have a taste for fresh flesh, frenziedly tearing off chunks
+     of meat and limbs to swallow whole as they suck down the blood and
+     marrow of their victims.
+       Lord Nachzehrer has been exiled and shunned by the rest of his vam-
+     pire kin, but in his isolation, his experiments continue, and he grows
+     stronger as he researches the still-beating heart of an ancient evil.
+
+
+
+
+28
+29
+                                                     Normal (Cr 3)
+                                                       Bloodfiend
+       Bloodfiends are Lord Nachzehrer’s twisted creations.            Bloodfiend
+     Frenzied and mindless, they are driven only by insatiable
+                                                                       Medium undead
+     hunger and instinctual need to feed.
+       Their genes are impure and their physiology degenerative,
+     created by injecting humans with a cocktail of essence based on     Armor Class: 17
+     Bloodhound blood, rather than any pure vampiric strain.             Hit Points: 76
+        Lord Nachzehrer uses these abominations to guard his crypts      Speed: 30 ft.
+     and sewers, but they often shamble out into the world to feast
+     at night.
+                                                                        STR      DEX       CON       INT      WIS        CHA
+       They reside in dark underground tunnels and crypts, clawing
+     their way to the surface to ambush unwary prey.                      14       16        18        10       12         12
+                                                                         (+2)     (+3)      (+4)       (0)     (+1)       (+1)
+
+
+                                                                         Condition Immunities: Charmed, Exhaustion, Frightened
+                                                                         Senses: Darkvision 60ft., Passive Perception 12
+                                                                         Languages: -
+                                                                         Challenge: 3 (700 XP)
+
+
+                                                                       Actions:							
+                                                                       					
+                                                                         Multiattack. This creature makes two attacks.
+
+
+                                                                        Claw. Melee Weapon Attack: +5 to hit, reach 5 ft., one target.
+                                                                       Hit: 10 (2d6 + 3) slashing damage.
+
+
+                                                                          Leach (CD 3). The Bloodfiend selects a visible living
+                                                                       creature within 5 ft. and attempts to latch onto it with its
+                                                                       bloodsucker. The target must succeed on a DC 18 Dexterity
+                                                                       saving throw. On a failure, the target takes 14 (4d6) piercing
+                                                                       damage, and the Bloodfiend latches on. While a target is latched
+                                                                       onto, it takes 7 (2d6) necrotic damage at the start of every
+                                                                       combat turn, and can’t take any actions or reactions, except to
+                                                                       attempt to break free, which costs two actions and requires a
+                                                                       successful DC 18 Strength saving throw. While the Bloodfiend
+                                                                       is latched on, it may not take any actions except to unlatch as
+                                                                       a free action. The effect ends if the Bloodfiend unlatches, dies,
+                                                                       is moved out of range of the target, is incapacitated, or if the
+                                                                       target dies.
+
+
+
+
+30
+                                                      Bloodsucker
+Bloodsucker                                                            Bloodsuckers are carrion lurkers, always in search of the
+                                                                     crimson juices running through the veins of their victims.
+Large monstrosity
+                                                                       With their elongated, dented trunks hanging from their
+                                                                     horrid, distorted faces, they dry their unfortunate prey in a
+  Armor Class: 16                                                    matter of seconds.
+  Hit Points: 76                                                      Although a quick death, it is an agonizing way to go, as the
+  Speed: 30 ft.                                                      monster cares little about easing the pain of its target.
+
+
+
+ STR       DEX       CON       INT       WIS       CHA
+   12        18        16          8       12         6
+  (+1)      (+4)      (+3)       (-1)     (+1)      (-2)
+
+
+  Condition Immunities: Blinded, Charmed, Exhaustion,
+Frightened
+  Senses: Darkvision 60 ft., Passive Perception 11
+  Languages :-
+  Challenge: 3 (700 XP)
+
+
+Actions:							
+					
+  Multiattack. This creature makes two attacks.
+
+
+  Claw. Melee Weapon Attack: +6 to hit, reach 5 ft., one
+target. Hit: 11 (2d6 + 4) slashing damage.
+
+
+  Blood Siphon (CD 6). Melee Weapon Attack. +6 to
+hit, reach 10ft., one target. Hit: 25 (6d6+4) bludgeoning
+damage. If this attack succeeds, the target must succeed
+on a DC 14 Constitution saving throw, or its hit point
+maximum is reduced by an amount equal to the damage
+taken. This reduction lasts until the target finishes a Short
+Rest. The Bloodsucker is healed for the same amount of
+damage dealt. The target dies if this effect reduces its hit point
+maximum to 0.
+
+
+
+
+                                                                                                                                     31
+                                                       Elites (Cr 5)
+                                                        Bloodhound
+       Bloodhounds are vampiric beasts, infected long ago by           Bloodhound
+     a bestial strain of the blood virus, and evolving a symbiotic
+                                                                       Large monstrosity
+     relationship with the disease over many ages.
+        The bloodhound’s senses are unmatched, able to smell trails
+                                                                         Armor Class: 17
+     of blood from up to 150 miles away and a fortnight old. They
+     are used by Lord Nachzehrer and other vampires to hunt their        Hit Points: 133
+     living prey.
+                                                                         Speed: 40 ft.
+        Bloodhound blood is considered lowly and impure, but it has
+     its uses. Lord Nachzehrer harvests it and injects it into human
+     slaves, creating hordes of Bloodfiends, fiendish humanoid         STR       DEX       CON     INT     WIS      CHA
+     mutants driven by only bloodthirst and hunger.
+                                                                         16        18        18       8     16         8
+                                                                        (+3)      (+4)      (+4)    (-1)   (+3)      (-1)
+
+
+                                                                         Condition Immunities: Blinded, Charmed, Exhaustion,
+                                                                       Frightened
+                                                                         Senses: Darkvision 60 ft., Passive Perception 13
+                                                                         Languages: -
+                                                                         Challenge: 5 (1,800 XP)
+
+
+                                                                         Blood Scent. The Bloodhound can always see all living
+                                                                           creatures that give off a scent within 90 ft.
+
+
+                                                                               Actions:						
+                                                                               						
+                                                                               Multiattack. This creature makes two attacks.
+
+
+                                                                                Claw. Melee Weapon Attack: +7 to hit, reach 10 ft.,
+                                                                       two targets. Hit: 18 (4d6 + 4) slashing damage.
+
+
+                                                                         Pulling Tongue (CD 3). As a bonus action, the Bloodhound
+                                                                       lashes out its stinger tongue, selecting one visible creature
+                                                                       within 20ft. The target must succeed on a DC 18 Dexterity
+                                                                       saving throw to dodge out of the way or take 14 (4d6) piercing
+                                                                       damage and be pulled adjacent to the Bloodhound.
+
+
+
+
+32
+                                                         Brute Fiend
+
+Brute Fiend                                                               Brute Fiends are the abominable cousins to the
+                                                                        Bloodfiends, the results of new mutagenetic tests conducted
+Large monstrosity
+                                                                        by Lord Nachzehrer.
+                                                                          They are bigger, stronger, and more resilient than their
+  Armor Class: 15
+                                                                        counterparts, though driven by the same incessant and
+  Hit Points: 162                                                       instinctual need to feed.
+  Speed: 20 ft.                                                           These shambling horrors are a grotesque sight, their internal
+                                                                        organs morphing into deadly weapons which the brute ejects
+                                                                        from its stomach to assault its prey.
+ STR      DEX       CON       INT       WIS      CHA
+   20       12        20         8       10         8
+  (+5)     (+1)      (+5)      (-1)      (0)      (-1)
+
+
+  Condition Immunities: Blinded, Charmed, Exhaustion,
+Frightened
+  Senses: Darkvision 60 ft., Passive Perception 13
+  Languages: -
+  Challenge: 5 (1,800 XP)
+
+
+  Abhorrent Regeneration. The Brute Fiend regenerates 10 hit
+points at the start of each of its turns. If it takes fire or radiant
+damage, this trait doesn’t function at the start of the next turn.
+The Brute Fiend dies only if it starts its turn with 0 hit points
+and doesn’t regenerate.
+
+
+ Noxious Gasses. Any living creature that starts its turn
+within 10 feet of the Brute Fiend must succeed on a DC 14
+Constitution saving throw or take 7 (2d6) poison damage.
+
+
+Actions:							
+						
+  Slam. Melee Weapon Attack: +8 to hit, reach 5 ft., one target.
+Hit: 12 (2d6 + 5) bludgeoning damage. If the attack succeeds,
+the target must succeed on a DC 18 Strength saving throw or be
+pushed 5 ft. back and knocked prone.
+
+
+   Blood hooks (CD 4). The Brute Fiend fires a hooked
+appendage at up to four enemy creatures within 10 ft. Each
+target must make a DC 18 Dexterity saving throw. On a failure,
+a target takes 10 (3d6) piercing damage and cannot move in any
+direction that would take it further away from the Brute Fiend.
+On its turn, a targeted creature may spend one action to attempt
+to break free from the Blood Hooks, by succeeding on a DC 18
+Strength saving throw.
+
+                                                                                                                                          33
+                                                   Champions (Cr 9)
+                                                    Cryptstalker
+       Cryptstalkers are ancient bat-like monstrosities, primeval        Cryptstalker
+     species that evolved over millennia to be the perfect ambush
+                                                                         Large monstrosity
+     predator.
+       They are ancient apex predators, whom some believe were
+                                                                           Armor Class: 17
+     once the source of the first strain of the vampiric disease.
+     Though blind, their senses are unmatched, hunting their prey          Hit Points: 126
+     swiftly and soundlessly, using a combination of echolocation
+                                                                           Speed: 40 ft., fly 80 ft.
+     and an arsenal of deadly natural weapons.
+       Though most are wild, the Abhorrents have managed to tame
+     a few of these great beasts, turning them to their will and using    STR      DEX       CON       INT      WIS      CHA
+     them to hunt down their enemies.
+                                                                            18       22        20        12      18       10
+                                                                           (+4)     (+6)      (+5)      (+1)    (+4)      (0)
+
+
+                                                                           Skill: Dex +8, Wis +8
+                                                                           Condition Immunities: Blinded, Charmed, Exhaustion,
+                                                                         Frightened
+                                                                           Senses: Blindsight 90 ft., Passive Perception 14
+                                                                           Languages: -
+                                                                           Challenge: 9 (5,000 XP)
+
+
+                                                                           Cloaked by Darkness. When the Cryptstalker is wholly
+                                                                         within dim light or darkness, attacks against it have
+                                                                         disadvantage.
+                                                                           Shadow Strike. When the Cryptstalker targets a creature
+                                                                         in dim light or darkness, its Claw attacks deal an additional 7
+                                                                         (2d6) damage.
+
+
+                                                                         Actions:						
+
+                                                                           Multiattack. This creature makes three attacks.
+                                                                           Claw. Melee Weapon Attack: +10 to hit, reach 5 ft., one
+                                                                         target. Hit: 16 (3d6 + 6) slashing damage.
+                                                                           Pounce (CD 2). As a bonus action, the Cryptstalker makes
+                                                                         a Claw attack. If the attack succeeds, and the target’s size is
+                                                                         Large or smaller, the target must make a DC 18 Strength saving
+                                                                         throw. On a failure, the creature drops any items it is holding,
+                                                                         and the Cryptstalker may drag the target up to 40 ft. away.
+                                                                           Sonic Screech (CD 3). The Cryptstalker emits a deafening
+                                                                         wave of force in a 30-foot-cone. Any non-magical lights in the
+                                                                         area are immediately extinguished. Each creature in the area
+                                                                         must make a DC 17 Constitution saving throw. On a failed
+                                                                         save, a creature takes 28 (8d6) force damage and is stunned for
+                                                                         1 minute. A stunned creature can repeat the saving throw at the
+                                                                         end of each of its turns, ending the effect on itself on a success.
+
+34
+                                              Cryptstalker Elite
+Cryptstalker Elite                                                     Cryptstalker Elites are the strongest of their bestial kin,
+                                                                     harnessed by vampire lords for their unmatched strength,
+Large monstrosity
+                                                                     dexterity, and predatory instincts.
+                                                                       The Abhorrents have managed to tame a few of these great
+  Armor Class: 19
+                                                                     beasts, binding them to their will and using them to hunt
+  Hit Points: 157                                                    down their enemies.
+  Speed: 30 ft., fly 40 ft                                             The vampires dress the beasts in thick plated armaments,
+                                                                     sacrificing their natural predatory abilities relying on
+                                                                     dexterity, but granting them increased combat prowess in
+ STR      DEX       CON       INT      WIS       CHA                 return. To their limbs are attacked sharpened metal scythes
+                                                                     and blades, making these already deadly predator into the
+   18       22        20        12      18        10
+                                                                     ultimate killing machines.
+  (+4)     (+6)      (+5)      (+1)    (+4)       (0)
+
+
+  Skill: Dex +8, Wis +8
+  Condition Immunities: Blinded, Charmed, Exhaustion,
+Frightened
+  Senses: Blindsight 90 ft., Passive Perception 14
+  Languages: -
+  Challenge: 9 (5,000 XP)
+
+
+Actions:					
+						
+  Multiattack. This creature makes three attacks.
+  Scything Claw. Melee Weapon Attack: +10
+to hit, reach 5 ft., two targets. Hit: 20 (4d6 + 6)
+slashing damage.
+   Pounce (CD 2). As a bonus action, the Cryptstalker Elite
+makes a Scything Claw attack. If the attack succeeds, and the
+target’s size is Large or smaller, the target must make a DC
+18 Strength saving throw. On a failure, the creature drops any
+items it is holding, and the Cryptstalker Elite may drag the
+target up to 40 ft. away.
+   Sonic Screech (CD 3). The Cryptstalker emits a
+deafening wave of force in a 30-foot-cone. Any non-
+magical lights in the area are immediately extinguished. Each
+creature in the area must make a DC 17 Constitution        saving
+throw. On a failed save, a creature takes 28 (8d6) force damage
+and is stunned for 1 minute. A stunned creature can repeat the
+saving throw at the end of each of its turns, ending the effect on
+itself on a success
+
+
+
+
+                                                                                                                                     35
+                                                    Abhorrent Mage
+      The Abhorrent Mage is a fearsome foe, a twisted being of          Abhorrent Mage
+     malign intents, the dark servant of Lord Nachzehrer.
+                                                                          Large Undead
+       In the shadowed halls of the lord’s great keep, this abhorrent
+     mage conducts all manner of sinister experimentation, bending        Armor Class: 16
+     the laws of science to the dark master’s will.
+                                                                          Hit Points: 115
+       It is a keeper of dark lore and knowledge, twisting together
+                                                                          Speed: 30 ft.
+     spells lost in ancient tomes, a harbinger of shadow and death.
+                                                                         STR     DEX        CON      INT      WIS      CHA
+                                                                           14      18         18       12      22        12
+                                                                          (+2)    (+4)       (+4)     (+1)    (+6)      (+1)
+
+                                                                          Skill: Dex +8, Wis +8
+                                                                          Condition Immunities: Blinded, Charmed, Exhaustion,
+                                                                        Frightened
+                                                                          Senses: Darkvision 90 ft., Passive Perception 16
+                                                                          Languages: Common, Latrian
+                                                                          Challenge: 9 (5,000 XP)
+
+                                                                          Spellcaster (DC 18, Hit +10). This creature is a spellcaster
+                                                                        with Spell Save DC and +Hit with spell attacks as indicated.
+                                                                        Spells will be noted in their Actions.
+                                                                         Quickcaster. This creature may cast a Spell with a Bonus
+                                                                        Action each turn.
+                                                                        Actions:						
+                                                                         Claw. Melee Weapon Attack: +8 to hit, reach 5 ft., one target.
+                                                                        Hit: 11 (2d6 + 4) slashing damage.
+                                                                            Necrotic Bolt (Spell). Ranged Spell Attack: +10 to hit,
+                                                                                range 120 ft., one target. Hit: 17 (5d6) necrotic
+                                                                                 damage.
+                                                                                      Blood Disgorge (CD 2). The Abhorrent Mage
+                                                                                  vomits blood in a 15-foot cone. Each enemy creature
+                                                                                  in that area must make a DC 18 Constitution saving
+                                                                                   throw. On a failed save, a creature takes 28 (8d6)
+                                                                                    necrotic damage, and it can’t regain hit points until
+                                                                                        the start of the Abhorrent Mage’s next turn. On
+                                                                                        a successful save, the creature takes half as much
+                                                                                       damage with no additional effects.
+                                                                                      Fear (Spell) (CD 4). The Abhorrent Mage
+                                                                                  releases a loud screeching wail. Each enemy
+                                                                                 creature within 30 feet of it must succeed on a DC 18
+                                                                                 Wisdom saving throw or be frightened for 1 minute. A
+                                                                         frightened creature can repeat the saving throw at the end of
+                                                                         each of its turns, ending the effect on itself on a success.
+                                                                           Necrose (Spell) (CD 6). The Abhorrent Mage targets one
+                                                                        frightened creature it can see within 30 feet of him. It extends
+                                                                        its hand and magically creates a miasma of death and disease
+                                                                        within the target. The creature must succeed on a DC 18
+                                                                        Wisdom saving or drop to 1 hit point.
+36
+                                                         Bloodghast
+Bloodghast                                                                Bloodghasts are among Lord Nachzehrer’s most despicable
+                                                                        creations. Monstrosities twisted and mutated by abominable
+Large undead
+                                                                        experimentations.
+                                                                          Their bodies are withered and strange, their legs and lower
+  Armor Class: 18
+                                                                        bodies atrophied and shredded from their bodies. Whatever
+  Hit Points: 168                                                       they were before, no one may know. They crawl swiftly now
+                                                                        on their clawed hands, tearing into their prey with sharp talons
+  Speed: 40 ft.
+                                                                        and mouths full of rows of shredding teeth.
+
+ STR      DEX       CON       INT       WIS      CHA
+   24       14        20         8       10         9
+  (+7)     (+2)      (+5)      (-1)      (0)      (-1)
+
+
+ Condition Immunities: Charmed, Exhaustion, Frightened,
+Grappled, Restrained
+  Senses: Darkvision 60ft., Passive Perception 16
+  Languages: -
+  Challenge: 9 (5,000 XP)
+
+
+   Frightful Presence. When an enemy creature first sees the
+Bloodghoul, it must succeed on a DC 18 Wisdom saving throw
+or become Frightened for 1 minute. A creature can repeat the
+saving throw at the end of each of its turns, ending the effect on
+itself on a success. If a creature’s saving throw is successful, or
+when the ability ends, the effect ends for it, and the creature is
+immune to the Mournghul’s Frightful Presence for the next 24
+hours.
+  Blood Frenzy. The Bloodghast has advantage on melee
+attacks against any creature that has half of its hit points or less.
+Actions:						
+  Multiattack. This creature makes two attacks.
+  Scythe. Melee Weapon Attack: +11 to hit, reach 10 ft., one
+target. Hit: 17 (3d6 + 7) slashing damage.
+  Sweep (CD 3). The Bloodghast makes a sweep with its
+tongue. All other creatures within 10 ft. must make a DC 18
+Dexterity saving throw, taking 21 (6d6) piercing damage on a
+failed save.
+
+
+Reactions:						
+Thrash (CD 3). In response to being hit by an attack from a
+creature within 10 ft., the Bloodghast latches its tongue onto
+its attacker and thrashes it against the ground, walls, and
+any objects nearby. The creature must succeed on a DC 16
+Dexterity saving throw to avoid being picked up. If it fails, the
+target is grappled and takes 28 (8d6) piercing damage and then
+another 28 (8d6) bludgeoning damage.
+
+                                                                                                                                           37
+                                                 Bosses (Cr 12/15)
+                                                  Lord Nachzehrer
+       Lord Nachzehrer is the ruler of the Abhorred hordes. Once         Lord Nachzehrer
+     an honored member of the Sanguine Court, his obsession with
+                                                                         Large undead
+     blood infusions and genetic modifications had irreversible
+     effects on his personality and physiology.
+                                                                           Armor Class: 18
+       He is driven incessantly to become himself the perfect form
+     of an apex predator, to emulate the perfect hunter of the night,      Hit Points: 184
+     as are the Cryptstalkers and Bloodhounds. On his insane quest,
+                                                                           Speed: 40 ft.
+     Lord Nachzehrer began to gain power by mixing his blood and
+     that of his servants with any fiendish things that stalk the dark
+                                                                          STR      DEX        CON       INT       WIS       CHA
+     corners of the world. With every new infusion, his body and
+     mind changed, becoming more erratic and unstable, until he             18       24         22        22        16        18
+     was exiled to live among his forlorn castle, far from the courts      (+4)     (+7)       (+6)      (+6)      (+3)      (+4)
+     of his former kin. There, he delves deeply into lost sciences in
+     his laboratory, where his experiments continue unhindered.
+                                                                           Saving Throws: Dex +10, Con +10, Wis + 8
+       Though a wayward lord, Nachzehrer still holds a tenuous
+     relationship with the Sanguine and other vampire bloodlines,          Condition Immunities: Blinded, Charmed, Exhaustion,
+     who value and use his creations for their own purposes but shun     Frightened, Poisoned
+     him for his deviancy otherwise, afraid of what he has become.         Senses: Darkvision 60 ft., Passive Perception 13
+     In his exile, Lord Nachzehrer has grown incredibly powerful,
+     drawing from a strange, enormous beating heart which he keeps         Languages: Common, Latrian
+     chained within his fortress keep, found in some devilish place        Challenge: 12 (8,400 XP)
+     only he may know.
+                                                                           Cloaked by Darkness. When Lord Nachzehrer is wholly
+                                                                         within dim light or darkness, attacks against him have
+                                                                         disadvantage.
+
+                                                                            Aura of Darkness. Lord Nachzehrer’s presence magically
+                                                                         darkens the area around him in a 50 ft. radius sphere. The
+                                                                         darkness spreads around corners. Enemy creatures with
+                                                                         darkvision can’t see through this darkness, and nonmagical
+                                                                         light can’t illuminate it.
+
+
+                                                                         Actions:						
+                                                                           Multiattack. This creature makes three attacks.
+                                                                           Sword. Melee Weapon Attack: +11 to hit, reach 5 ft., one
+                                                                         target. Hit: 17 (3d6 + 7) slashing damage.
+                                                                            Vampiric Bite (CD 6). Lord Nachzehrer targets a living
+                                                                         creature within 5 ft. and attempts to sink his fangs into its flesh.
+                                                                         The target must succeed on a DC 20 Dexterity saving throw
+                                                                         or take 35 (10d6) necrotic damage. The target’s hit point total
+                                                                         is reduced by this amount until its next long rest, and Lord
+                                                                         Nachzehrer regains hit points equal to that amount.
+
+                                                                         Legendary Actions:				
+                                                                         This creature can take 2 legendary actions, choosing from the
+                                                                         options below. Only one legendary action option can be used
+                                                                         at a time and only at the end of another creature’s turn. This
+                                                                         creature regains spent legendary actions at the start of its turn.
+                                                                           Vicious. Make a Sword attack.
+                                                                           Shade Step (CD 4). Teleport up to 60 ft. to an unoccupied
+                                                                         space in darkness or dim light that you can see.
+38
+                                                 Lord Nachzehrer
+Lord Nachzehrer (Torment)
+Large undead
+
+  Armor Class: 19
+  Hit Points: 207
+  Speed: 40 ft.
+
+ STR       DEX       CON        INT      WIS       CHA
+   18        26        22         22       16        18
+  (+4)      (+8)      (+6)       (+6)     (+3)      (+4)
+
+  Saving Throws: Dex +10, Con +10, Wis + 8
+  Condition Immunities: Blinded, Charmed, Exhaustion,
+Frightened, Poisoned
+  Senses: Darkvision 60 ft., Passive Perception 13
+  Languages: Common, Latrian
+  Challenge: 15 (13,000 XP)
+
+  Cloaked by Darkness. When Lord Nachzehrer is wholly
+within dim light or darkness, attacks against him have
+disadvantage.
+   Aura of Darkness. Lord Nachzehrer’s presence magically
+darkens the area around him in a 50 ft. radius sphere. The
+darkness spreads around corners. Enemy creatures with
+darkvision can’t see through this darkness, and nonmagical
+light can’t illuminate it.
+
+Actions:						
+  Multiattack. This creature makes three attacks.
+  Sword. Melee Weapon Attack: +12 to hit, reach 5 ft., one
+target. Hit: 18 (3d6 + 8) slashing damage.
+   Vampiric Bite (CD 4). Lord Nachzehrer targets a living
+creature within 5 ft. and attempt to sink his fangs into its flesh.
+The target must succeed on a DC 20 Dexterity saving throw
+or take 42 (12d6) necrotic damage. The target’s hit point total
+is reduced by this amount until its next long rest, and Lord
+Nachzehrer regains hit points equal to that amount.
+
+
+Legendary Actions:				
+   This creature can take 3 legendary actions, choosing from the
+options below. Only one legendary action option can be used
+at a time and only at the end of another creature’s turn. This
+creature regains spent legendary actions at the start of its turn.
+  Vicious. Make a Sword attack.
+  Shade Step (CD 3). Teleport up to 60 ft. to an unoccupied
+space in darkness or dim light that you can see.
+
+                                                                      39
+                                                Bloodsucker Dragon
+        The Bloodsucker Dragon is an undead monstrosity, slain by         Bloodsucker Dragon
+     Lord Nachzehrer in a faraway realm, but not before he infected
+                                                                          Gargantuan monstrosity
+     it with a specially concocted strain of his own creation.
+       Now the dragon is risen again and morphed by the corrupting
+                                                                            Armor Class: 19
+     influences of its blood gift. It lies chained below its dark
+     master’s laboratory, to be studied and tormented by the lord’s         Hit Points: 273
+     everlasting experiments.
+                                                                            Speed: 60 ft., fly 120 ft.
+       Yet of all Lord Nachzehrer’s creations, this is his most prized.
+     He keeps the dragon’s still-beating heart within his tower
+     study, where he draws from it rare and evolving bioagents             STR      DEX       CON        INT      WIS      CHA
+     and virulent anomalies, to study and implement in his future            26       18        28          8      10        12
+     designs.                                                               (+8)     (+4)      (+9)       (-1)     (0)      (+1)
+       The beast is cursed, and so long as its heart beats ever on,         Saving Throws: Str +12, Con +14, Wis + 8
+     the dragon may never truly die, rising again and again from its
+                                                                            Condition Immunities: Blinded, Charmed, Exhaustion,
+     tortures.
+                                                                          Frightened, Grappled, Poisoned, Restrained
+                                                                            Senses: Blindsight 120 ft., Passive Perception 11
+                                                                            Languages: -
+                                                                            Challenge: 12 (8,400 XP)
+
+                                                                          Actions:						
+                                                                            Multiattack. This creature makes two attacks.
+                                                                            Claw. Melee Weapon Attack: +12 to hit, reach 10 ft., Hit: 18
+                                                                          (3d6 + 8) slashing damage.
+                                                                             Blood Spew (CD 3). The Bloodsucker Dragon regurgitates
+                                                                           a bloody sludge, firing it up to 30 ft. away and striking a
+                                                                           circular area with a radius of 10 ft. All creatures within the
+                                                                               area must succeed on a DC 18 Dexterity saving throw or
+                                                                               take 28 (8d6) necrotic damage. Additionally, a creature
+                                                                               that is damaged by this ability can only move up to half of
+                                                                                    its speed on its next turn.
+
+                                                                            Legendary Actions:				
+                                                                                     This creature can take 2 legendary actions,
+                                                                                     choosing from the options below. Only one
+                                                                          legendary action option can be used at a time and only at the
+                                                                          end of another creature’s turn. This creature regains spent
+                                                                          legendary actions at the start of its turn.
+                                                                            Sting. Melee Weapon Attack: +9 to hit, reach 10 ft., one
+                                                                          target. Hit: 21 (5d6 + 4) piercing damage.
+                                                                            Tail Swipe (CD 3). The Bloodsucker Dragon spins its tail. All
+                                                                          creatures within 15 ft. of the Dragon must succeed on a DC 18
+                                                                          Dexterity saving throw, taking 14 (4d6) bludgeoning damage
+                                                                          on a failed save. Additionally, if a creature fails the save, it is
+                                                                          knocked prone.
+                                                                            Take Flight (CD 6). The Bloodsucker Dragon beats its
+                                                                          wings. Each creature within 10 ft. of it must succeed on a
+                                                                          DC 22 Dexterity saving throw or take 14 (4d6) bludgeoning
+                                                                          damage and be knocked prone. The Bloodsucker Dragon can
+                                                                          then fly up to half its flying speed.
+
+40
+                                            Bloodsucker Dragon
+Bloodsucker Dagon (Torment)
+Gargantuan monstrosity
+
+  Armor Class: 20
+  Hit Points: 312
+  Speed: 60 ft., fly 120 ft.
+
+ STR      DEX       CON        INT      WIS      CHA
+   26       18        28          8      10        12
+  (+8)     (+4)      (+9)       (-1)     (0)      (+1)
+
+  Saving Throws: Str +12, Con +14, Wis + 8
+  Condition Immunities: Blinded, Charmed, Exhaustion,
+Frightened, Grappled, Poisoned, Restrained
+  Senses: Blindsight 120 ft., Passive Perception 11
+  Languages: -
+  Challenge: 15 (13,000 XP)
+
+Actions:				
+  Multiattack. This creature makes two attacks.
+   Claw. Melee Weapon Attack: +12 to hit, reach 10
+ft., Hit: 18 (3d6 + 8) slashing damage.
+  Blood Spew (CD 3). The Bloodsucker             Dragon
+regurgitates a bloody sludge, firing it up to 30 ft. away
+and striking a circular area with a radius of 10 ft.
+All creatures within the area must succeed on
+a DC 18 Dexterity saving throw or take
+28 (8d6) necrotic damage. Additionally,       a creature that is
+damaged by this ability can only move up to half of its speed
+on its next turn.
+Legendary Actions:				
+   This creature can take 3 legendary actions, choosing from the
+options below. Only one legendary action option can be used
+at a time and only at the end of another creature’s turn. This
+creature regains spent legendary actions at the start of its turn.
+  Sting. Melee Weapon Attack: +9 to hit, reach 10 ft., one
+target. Hit: 21 (5d6 + 4) piercing damage.
+  Tail Swipe (CD 3). The Bloodsucker Dragon spins its tail. All
+creatures within 15 ft. of the Dragon must succeed on a DC 18
+Dexterity saving throw, taking 14 (4d6) bludgeoning damage
+on a failed save. Additionally, if a creature fails the save, it is
+knocked prone.
+  Take Flight (CD 6). The Bloodsucker Dragon beats its
+wings. Each creature within 10 ft. of it must succeed on a
+DC 22 Dexterity saving throw or take 14 (4d6) bludgeoning
+damage and be knocked prone. The Bloodsucker Dragon can
+then fly up to half its flying speed.
+
+                                                                      41
+                                        Non-Playable Characters
+                                            Prison Wretch
+        Prison Wretches are often heard before they are seen. These      Prison Wretch
+     squalid beings wander the corridors of Lord Nachzehrer’s
+                                                                         Medium humanoid
+     twisting dungeons and sinister laboratories, moaning in agony,
+     tied down or stumbling about in dazed confusion.
+        They were human once, long ago, though they can scarcely           Armor Class: 10
+     remember their lives before this current nightmare existence.         Hit Points: 9
+     They are abductees from the nearby towns and villages, or
+     unlucky merchants and adventurers just passing by the nearby          Speed: 20 ft.
+     roads.
+        The Lord himself and his abhorrent mage study these               STR      DEX       CON       INT     WIS       CHA
+     subjects with interest, injecting them with all manner of
+                                                                            10       10        10        10      10        10
+     needles, emptying an array of mixtures into their blood. Some
+                                                                           (+0)     (+0)      (+0)      (+0)    (+0)      (+0)
+     bubble, some burn, some seethe, and some pulse. Crimson,
+     ochre, chartreuse, and cerulean. The endless concoctions are
+     dispensed liberally, almost without rhyme nor reason, though          Senses: Passive Perception 10
+     certainly following some strict process discernable only to the
+     Lord and his assistants. The dark overseers watch with interest,      Languages: Common
+     hastily scribing copious notes in large tomes and ledgers as they     Challenge: 0 (10 XP)
+     analyze the physiological changes to these unfortunate souls.
+        Whether the wretch lives or dies, or transcends into             Actions:						
+     something new, it can be assumed that they have served some
+     greater purpose for their new dark masters.                           Strike. Melee Weapon Attack: +2 to hit, reach 5 ft., one
+                                                                         targets. Hit: 3 (1d6) bludgeoning damage.
+
+
+
+
+42
+                                           Appendix B:
+                                        Gameplay Resources
+ Letters, texts, and other writings can be found throughout Doaden. This adventure contains the following writings.
+
+
+Machine Puzzle 1
+ Provided to the party when they interact with the machine in Map C: The Cistern.
+
+
+
+
+Machine Puzzle 2
+ Provided to the party when they gather all 4x Copper Gears of the machine in Map C: The Cistern.
+
+
+
+
+                                                                                                                      43
+     Sewers Layout (PCs)
+     Provided to the party when they interact with the dead Penitent Crusader in Map D: Pumping Chamber.
+
+
+
+
+44
+Sewers Layout (PCs)
+  Provided to the party when they interact with the dead
+Penitent Crusader in Map D: Pumping Chamber.
+
+
+
+
+                                                           45
+46
+47
+48
+

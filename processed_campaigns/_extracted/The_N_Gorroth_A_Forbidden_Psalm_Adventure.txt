@@ -1,0 +1,588 @@
+The N’GORROTH
+DOOM UNDER SALTWICH
+
+
+
+A Forbidden Psalm Compatible Adventure
+                            CREDITS
+Developed by:
+      Bestiarum Games
+
+Game Designer:
+     Kevin Rahman
+
+Cartography:
+      Giovani C. Fiorini
+      Alexander Dovermann
+      Katarina Popovici
+
+
+
+
+                                ON THE COVER:
+                                SHAMBLER
+
+
+
+                                “
+                                  Shamblers are tough and hardy, morphing from
+                                the stronest and most rugged sailors and
+                                fisherfolk.
+                                  Their prodigious strength allows them to
+                                effortlessly carry their victims to their fisheries,
+                                where they gutt their bodies and haul them off for
+                                disposal in sheltered waters, where bobbing piles
+                                of rotting flesh allow the blue algae to bloom into
+                                great agricultural farms.
+
+
+                                                                                ”
+
+                                                                                   1
+                                                                  CONTENTS
+CREDITS ........................................................... 1                 GOAL ............................................................. 11
+CONTENTS ...................................................... 2                     REWARD ........................................................ 11
+FOREWORD: THE WORLD OF DOADEN
+                                                                                      SETUP AND TREASURE .................................. 11
+.............................................................................. 3
+SCENARIO I: THE ABBEY ............................ 5                                  DEPLOYMENT................................................ 12
+    GOAL................................................................ 5            THREATS ....................................................... 12
+    REWARD........................................................... 5               SOLO PLAY .................................................... 12
+    SETUP AND TREASURE..................................... 5                         RPG TEXT BOX ............................................ 12
+    DEPLOYMENT .................................................. 5                      When the party arrive read: ....................... 12
+    THREATS .......................................................... 6                 When the players kill the N’Gorroth Giant
+    SOLO PLAY ...................................................... 6                   read: ........................................................... 12
+
+    RPG TEXT BOX ............................................... 6                       When the Players enter H4 read: ............... 12
+
+       When the party arrive read:.......................... 6                           When the Players kill the Priest read: ....... 13
+
+       When the party makes it into the chapel                                           Map 3......................................................... 14
+       read:.............................................................. 6       MONSTERS ................................................... 15
+       Map 1 ........................................................... 7          FISHERFOLK.................................................. 16
+
+SCENARIO II: FISHY BUSINESS ................ 8                                           Special: ...................................................... 16
+  GOAL................................................................ 8              STRANGLER ................................................... 18
+    REWARD........................................................... 8                  Special: ...................................................... 18
+    SETUP AND TREASURE..................................... 8                         SHAMBLER .................................................... 20
+    DEPLOYMENT .................................................. 8                      Special: ...................................................... 20
+    THREATS .......................................................... 9              ABYSSAL PASTOR.......................................... 22
+    SOLO PLAY ...................................................... 9                   Special: ...................................................... 22
+    RPG TEXT BOX ............................................... 9                    ABYSSAL HIGH PRIEST ................................. 24
+       When the party arrive read:.......................... 9                           Special: ...................................................... 24
+       Map 2 ......................................................... 10             N’GORROTH GIANT ...................................... 26
+SCENARIO III: TO THE DEPTHS ............. 11                                             Special: ...................................................... 26
+
+
+
+
+2
+                                FOREWORD:
+                           THE WORLD OF DOADEN
+
+
+
+
+W
+             elcome to Doaden, the dark fantasy setting of tainted lands and twisted monsters, where
+             an ever-creeping affliction corrodes the very essence of existence. It is a world of decay
+             and depravity where once-righteous men and heroes of glorious purpose now struggle to
+             survive as cults and dark gods vie with one another to consume the last vestiges of
+             humanity.
+
+In Forbidden Psalm: The Tainted lands of Doaden you will find:
+
+• Three scenarios created for the fantastic monsters from Bestiarum Games;
+• Rules for monsters.
+
+ These scenarios should be played in order.
+ These scenarios should be played in solo or coop only.
+
+You will need a copy of the Forbidden Psalm Core Book
+to play:
+https://www.forbiddenpsalm.com/forbidden-psalm
+
+
+
+
+                                                                                                          3
+S
+           omething sinister lurks below the seaside town of Saltwich. Laurent Gilmiere, a cleric of the
+           Church of Azerai and arcane researcher, was staying at the local inn while researching a
+           source of powerful magical emanations. The Church has not heard from him in several
+           months and fears the worst.
+             What happened to Gilmiere, and what disquieting nightmares had he found reflecting in the
+depths of Saltwich’s dark waters?
+  Your warband will investigate the disappearance, uncovering his strange and maddening tale.
+
+  Your warband have been hired by the Church of Azerai to track down a cleric, a middle-aged man by
+the name of Laurent Gilmiere. Gilmiere was an accomplished scholar and arcane researcher, having
+made a number of recent discoveries on the source energies of magic.
+  Father Armitage, his mentor, explained to you that Gilmiere was last traveling south to follow a trail of
+powerful emanations that he had discovered. Gilmiere was usually diligent about keeping in touch,
+providing regular updates about his work.
+  However, the last letter they received from him arrived several months ago. Father Armitage fears the
+worst as the silence is alarmingly uncharacteristic of him. It should not be difficult to identify Gilmiere.
+
+  He wears the yellow robes of the Azerai scholars and a silver pendant hangs around
+his neck in the shape of a gull, a seabird that once adorned his family’s crest before he joined the priory.
+In exchange for returning Gilmiere safely to the church, or confirming his fate, Father Armitage has
+promised you each 15 gold.
+
+  You have been traveling along the southerly roads for weeks. Once the grand roots of the old empire,
+they are now nothing more than cracked cobblestones and withered dirt. After days without
+encountering a single traveler, you come to a small seaside hamlet, a collection of lichen-crusted shacks
+that descend from a ridge down to the shore. Perched high above on a nearby cliff sits a lonely abbey, its
+walls cracked and crumbling.
+
+  You head towards the Inn to see if anyone is there to help you in your investigation. The rotting wood
+inn is filled with dusty tables and chairs. Taking a seat, you see a cauldron bubbling over a small
+hearthfire along the far wall, filled with an oozing gray sludge that gives off a slightly sour aroma. In the
+far corner of the room, a narrow staircase leads upward.
+  Next to it, a hunched man sits at a counter, on top of which lies a small envelope bearing the red wax
+seal of the Church of Azerai. The man watches you warily, but shuffles over as you sit. He moves with
+an uneven gait, his swollen feet squelching on the wood floor. He is bald with a narrow head and
+bulging eyes, and his skin gives off a sickly pale sheen.
+  As he approaches, you are overwhelmed by an intense fishy odor.
+
+    Dealing with him you find a note that leads you to Forlorn Abbey to continue your investigation.
+
+
+
+
+4
+                              SCENARIO I: THE ABBEY
+
+
+
+y
+          ou descend a gravel ridge into the lower levels of Saltwich, finding the houses in much
+          the same derelict state; made of warped planks nailed haphazardly at slanted angles.
+          The cobbled road is slick with saltwater and strewn with strands of seaweed.
+           You step off the road into a small graveyard when a sudden clang fills the air; the discordant
+          peeling of a large bell.
+            You look to the source of the sound, finding a stone chapel at the far end of the graveyard.
+At the top of the bell tower, a drunkard who you previously saw on your way into town flails about,
+ringing the bell madly and yelling to the sea.
+
+ “See me! See me! Come and get me!”
+
+  With each ring, a screeching shiver shoots up your spine and rattles your skull, stabbing like sharp
+daggers into your forehead. From the town, you hear wailing shrieks as angered men and tentacled
+monstrosities begin to emerge from the squalid shacks.
+  Turning towards the chapel, you find a wide broken window that has been boarded up by loose
+wooden planks and rusted nails.
+
+GOAL
+
+  The warband must break down the boarded window in area D2 that leads to the chapel interior and
+stop the Drunkard from ringing the bells.
+
+REWARD
+
+ You did not die!
+
+SETUP AND TREASURE
+
+ Set up as shown in Map 1.
+  Each square is 1 inch by 1 inch. In area D2 you should place walls to represent the Chapel, with at
+least 1 window.
+  A model within 1 inch of the Wall can make a Strength test DR12 to remove a plank that blocks their
+way into the Chapel.
+  When 8 Planks have been removed the warband can leave the board via D2.
+
+DEPLOYMENT
+
+ All the warband models that are participating in this scenario should be placed in D1.
+
+
+
+                                                                                                         5
+THREATS
+
+ In D3 (randomize which D3) you should at the start of the scenario place 1 Fisherfolk and 1 Strangler.
+On each round at the start of the monster activation phase you should place another 2 Fisherfolk.
+
+SOLO PLAY
+
+As above but do not spawn Fisherfolk on Odd Rounds and only 6 planks need to be removed.
+
+Battle ends when all warband members are dead or off of the board.
+
+RPG TEXT BOX
+
+When the party arrive read:
+
+  Screams echo through the streets as the swarm of monstrous villagers begins to swell.
+  They pour from their houses and shamble towards the chapel, drawing forth hooks and knives,
+enraged by the ringing bell.
+  You frantically yank the last wooden panel from the window and jump through the sill, into the
+darkened mass hall of the chapel.
+
+When the party makes it into the chapel read:
+
+  You look around the musty chapel.
+  To your left, at the far end of the hall is a sturdy door leading to the inner sanctum.
+  Across from you, past rows of shattered pews, is a boarded window like the one you broke in from.
+  At the end of the hall to your right is an enormous wooden double-door entrance secured by a thick
+iron bar lock.
+  Breaking it down you silence the bells. While in the chapel your party sees visions they cannot explain,
+endless horrors.
+  But for now, some peace.
+  As suddenly as they came, the degenerate swarm of villagers disperses, returning to their darkened
+alleyways.
+  Looking to the ground, you find a crumpled note.
+
+
+
+
+6
+Map 1
+
+
+
+
+        7
+                         SCENARIO II: FISHY BUSINESS
+
+
+
+
+T
+           he note your warband found leads you to the fishery where you will need to acquire a boat to
+           take to the Sunken Temple or the Luminous Grotto.
+           You see a long warehouse along the edge of the beach.
+           The wide building is constructed from planks of shoddy, rotting wood, and the floor is a
+           mossy cobblestone.
+           Sets of large footprints laced with faintly glowing blue algae lead into the fishery from the
+shore.
+  A villager stands at the front door, pacing back and forth. Inside of the warehouse, you see several
+small rowboats stacked along the walls.
+  They look to have been used recently, still dripping water.
+  Along their undersides are clusters of the same glowing blue algae.
+  At the other end of the warehouse, you can make out a large figure sliding a cleaver through the belly
+of a dead man, slicing him open with one clean cut and allowing his entrails to fall to the ground.
+  A ladder rests on the side of the building, leading to a small roof.
+  Get in kill those in your way and get a boat as quickly as you can.
+
+GOAL
+
+Kill the creatures and get a boat.
+
+REWARD
+
+A boat to make your way to the Sunken Temple or the Luminous Grotto.
+
+SETUP AND TREASURE
+
+    Your party has entered the fishery via the roof tops.
+    The board should be set up as in Map 2.
+    Each square is 1 inch by 1 inch.
+    Fisherfolk should be placed in the area below G1.
+    A Shambler should be placed in G4. In G5 Place two bodies that may be searched for a random item.
+
+DEPLOYMENT
+
+ Warbands should deploy in G2 area.
+ Warbands will need to navigate down the walls into G4, to do so they must pass an Agility test or fall.
+ Falling models take 1d4 damage.
+
+
+
+
+8
+THREATS
+
+ 1 Shambler should be placed in G4 and 2 Fisherfolk in G1.
+ Drawn to the sound of combat on round 3 and 5 another 2 Fisherfolk will arrive via G1.
+
+SOLO PLAY
+
+Only spawn 1 Fisherfolk on rounds 3 and 5.
+
+Ends when all enemies are slain.
+
+RPG TEXT BOX
+
+When the party arrive read:
+
+
+You see the boat that you need here but it is well
+guarded by hideous creatures.
+Better make quick work before more hear you
+and come.
+
+
+
+
+                                                                                          9
+Map 2
+
+
+
+
+10
+                       SCENARIO III: TO THE DEPTHS
+
+
+
+Y
+        ou row out to a smooth black spire that rises above the waves, noticing that the dark
+        contours of the temple descend down into the abyssal depths of the sea.
+        Drawing near, you find the water lapping at a small circular chamber, no larger than a garden
+        gazebo.
+        You tie the boat to a pillar and step inside, finding the place empty.
+        The gusting wind whistles quietly through the room as sea birds caw above.
+You are about to leave when you hear something.
+  A subtle whisper or just a foreboding feeling, you are unsure, calling you down, down into the black
+abyss below.
+
+  Rowing out to the glowing area below the Saltwich cliffside, you find the entrance to a cave partially
+filled with seawater.
+  Paddling inside, you find the tunnels are illuminated by glowing blue algae, which explodes in all
+directions, covering the walls and saturating the water surface.
+
+  The cave tunnel extends for some time before ending at a small beach.
+  You tie your boat to a dry pillar of coral and prepare to venture deeper into the narrowing tunnel.
+Many tracks in the sand lead back and forth around a bend to the right. Straight ahead, the tunnel opens
+into a wide cavern, from which you hear slow, lumbering footsteps that shake the rocky ground with
+each step.
+
+GOAL
+
+Kill the N’Gorroth Giant and discover what happened to Gilmiere.
+
+REWARD
+
+ The warband that slays the N’Gorroth Giant gains 10 XP, each participating warband gains 15 gold.
+ For killing the Pastor or Priest the warband gains another 5xp per one killed.
+
+
+
+SETUP AND TREASURE
+
+ The room should be setup as shown in Map 3, each square is 1 inch by 1 inch.
+ H1 is the deployment area. H2 contains 4 corpses that can be looted.
+ H3 Is where the N’Gorroth Giant resides and H4 contains 1 Abyssal High Priest and 1 Abyssal Pastor.
+ Between areas H3 and H4 is a drop that warbands cannot descent until the Giant is slain.
+ The whole area is considered to have partial darkness.
+
+
+
+
+                                                                                                         11
+DEPLOYMENT
+
+ All warband members should be setup in H1.
+
+THREATS
+
+As described above.
+
+SOLO PLAY
+
+Only the Priest is present in H4.
+
+Scenario end when either the warband or enemies are all dead.
+
+RPG TEXT BOX
+
+When the party arrive read:
+
+  Lumbering about the center of the enormous cavern is a monstrosity of abhorrent proportions.
+  It is a giant humanoid shape, but its face is a bulbous glob of pulsating flesh, riddled with staring,
+milky eyes.
+ Large sacs on its neck heave slowly as it breathes.
+  Elongated tentacles hang from this body, slinking about on the floor behind it, feeling the contours of
+the cavern walls and leaving behind trails of sickly mucus.
+ It paces back and forth, dragging a barnacled brass bell along the ground behind it
+
+When the players kill the N’Gorroth Giant read:
+
+ The behemoth abomination falls to the ground, its tentacles flailing as the bell clatters against the cold,
+hard floor.
+ It sputters and gasps, writhing in anguish until its strange guttural shrieks die down, and it stills.
+ The black poisonous clouds evaporate slowly, and the eyes covering the wall of the cave disappear,
+revealing a marble gateway constructed in an ancient architecture you have never seen before.
+
+When the Players enter H4 read:
+
+  You pass through an ancient archway, jumping down into a shallow, rocky pit of water that rises to
+your ankles.
+  A hunched figure stands before you with the stretched facade of a human face pulling around its head
+like a tight mask. It wears the robes of an Azerai priest, and around its neck dangles a silver pendant of
+a gull in flight.
+
+
+12
+ The thing turns, its gaping mouth wide as it fixates on you with black, unseeing eyes. It
+points to you as it speaks.
+ “Do.You.See?”
+
+When the Players kill the Priest read:
+
+You realise that the man you killed was in fact Gilmiere.
+He must have been driven mad here and taken part in this strange cult.
+
+
+
+
+                                                                                             13
+Map 3
+
+
+
+
+14
+                                        MONSTERS
+All monsters in Forbidden Psalm: The Tainted Lands of Doaden treat other monsters as friendly.
+
+
+
+
+                                                                                                 15
+FISHERFOLK
+
+HP: 8
+Morale: 10
+Snarled Hook: 1D8
+Armor: 1
+
+Special:
+
+ When a Fisherfolk drops to 0HP it makes a
+DR12 Toughness test.
+ On a success replace it with a Strangler.
+
+
+
+
+16
+Fisherfolk
+
+
+
+        17
+STRANGLER
+
+HP: 12
+Morale: -
+Grasping Tentacles: 1D6
+Armor: 0
+
+Special:
+
+  Models cannot leave combat with the Strangler.
+  At the start of the monster activation phase each
+model within 1 inch of a Strangler takes 1
+damage that is not negated by armor.
+
+
+
+
+18
+Strangler
+
+
+
+       19
+SHAMBLER
+
+HP: 25
+Morale: -
+Cleaving Smash: 1D6
+Armor: 2
+
+Special:
+
+  Shambler reduces the first hit it takes to 1
+damage each round.
+
+
+
+
+20
+Shambler
+
+
+      21
+ABYSSAL PASTOR
+
+HP: 18
+Morale: 10
+Chilling Hook: 1D8
+Armor: 1
+
+Special:
+
+ Any model within 12 inches of the Pastor on
+their turn first must pass a presence test.
+
+                                                    .
+ On a failure they are considered to have failed
+a morale check.
+
+ However instead of fleeing, roll to determine
+what they do after which they end their
+activation.
+1. They move and attack nearest model.
+2. They stand still and drop their weapon.
+3. They cut themselves taking 2 damage ignoring
+armor.
+4. They act as normal. This save is repeated each
+round until they pass a Presence test (which is
+retaken each round until they pass).
+
+
+
+
+22
+Abyssal Pastor
+
+            23
+ABYSSAL HIGH PRIEST
+
+HP: 25
+Morale: 11
+Fanged Els: 1D8
+Armor: 1
+
+Special:
+
+  Each model within 12 inches of the Abyssal High Priest and in line of sight of it must pass a Presence
+test at the start of the monster activation phase.
+ On a failure they take 1D4 damage.
+
+
+
+
+24
+Abyssal High Priest
+
+                 25
+N’GORROTH GIANT
+
+HP: 35
+Morale: -
+Tentacles: 1D10
+Armor: 2
+
+Special:
+
+  When the Giant drops to half hp it releases a
+toxic cloud of gas.
+  Any model within 12 inches of it must make a
+toughness test or become poisoned.
+
+ Ignores darkness and partial darkness negative
+modifiers.
+
+
+
+
+26
+N’Gorroth Giant
+
+
+             27
+

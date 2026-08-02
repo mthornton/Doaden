@@ -1,0 +1,1978 @@
+TORMENTOR CULTS
+ FACTION GUIDE
+
+
+
+
+    LEVELS: 5 – 16
+  “The path to redemption is a treacherous journey walked alone,
+     each step resonating with the sorrow of a thousand sins."
+
+
+
+
+CREDITS
+Produced by: Bestiarum Games                                        Photography & Writing: Marcus Harland
+
+Writer/Designer: Alexander H. Dovermann                             Graphics: Marcus Harland, Katarina Popovici
+
+Art Direction: Alexei Popovici                                      Concept Art: Danil Tumanov
+
+                                                                    Additional imagery produced using AI.
+
+
+
+Ownership and Copyright
+This product is compliant with the Open Game License and is suitable for use with the 5th Edition rules system.
+Product Identity: The following items are hereby identified as Product Identity, as defined in the Open Game License version
+1.0a, Section 1(e) and are not Open Content:
+
+All trademarks, registered trademarks, proper names (characters, deities, etc.) dialogue, plots, storylines, locations, characters,
+illustrations, and trade dress. (Elements that have previously been designated as Open Game Content or are in the public
+domain are included in this declaration.)
+
+Open Content: Except for material designated as Product Identity (see above), the game mechanics of this game product are
+Open Game Content, as defined in the Open Game License version 1.0a Section 1(d). No portion of this work other than the
+material designated as Open Game Content may be reproduced in any form without written permission.
+
+Whispers of Torment: A Tormentor Cults Adventure © 2024 Bestiarum Studio LLC
+Return of the Jailer: A Tormentor Cults Adventure © 2024 Bestiarum Studio LLC
+Tormentor Cults: Faction Guide © 2024 Bestiarum Studio LLC
+
+Reference to copyright material in no way constitutes a challenge to the respective copyright holder of that material. Bestiarum
+Games, Bestiarum Miniatures, Tormentor Cults, the Tormentor Cults Logo, and the Bestiarum Logo are trademarks of
+Bestiarum Studio LLC
+CONTENTS
+Introduction ........................................................... 3            Snatcher ...................................................... 75
+    Faction Background ........................................... 4               Collector Entities ............................................. 76
+       Beliefs and Practices ...................................... 5                 Cage Hound ................................................. 77
+       Cult’s Influence .............................................. 6              Collector ...................................................... 78
+    Crafting a Campaign .......................................... 9                  The Faded .................................................... 79
+       1. Introducing the Cult ................................... 9                  The Jailer ..................................................... 81
+       2. Escalating the Plot ................................... 11                  Wailing Leviathan ........................................ 85
+       3. Final Confrontation .................................. 13             Tormentor Cult Artifacts ..................................... 89
+Tormentor Cult Forces ......................................... 19                    Uncommon Items ........................................ 90
+       Enemy Types ................................................ 19                Rare Items ................................................... 94
+    Adherents of the Cult ...................................... 21                   Very Rare Items ........................................... 97
+       Bruiser ......................................................... 22           Legendary Items .......................................... 99
+       Cultist ........................................................... 23   Unique NPCs ...................................................... 101
+       Demagogue.................................................. 24                 Burdun, the Lone Prisoner ........................ 102
+       Herald of Agony ........................................... 25                 The Brute ................................................... 104
+       Tribune Carcerus ......................................... 29
+       Torment Knight ............................................ 32
+    Harbingers ....................................................... 34
+       Gameplay Mechanics .................................. 35
+       The Court of Three ...................................... 37
+       The Confined ............................................... 41
+       The Oubliette ............................................... 45
+       The Punishment ........................................... 49
+       The Sentenced ............................................. 53
+       The Stockade ............................................... 57
+    The Ascendants ............................................... 61
+       Brute Warden .............................................. 62
+       The Caged .................................................... 63
+       Old Shacklegut ............................................. 67
+       Snatcherlord ................................................ 71
+
+
+2                                                           Tormentor Cults Faction Guide
+INTRODUCTION
+This 5e supplement provides inspiration,
+suggestions, and mechanics for Game
+Masters (GM) to build a harrowing campaign
+using the Tormentor Cults models from
+Bestiarum Miniatures. In these pages, you
+will find lore and statblocks for the cult’s
+many members, as well as the unique
+approaches and of their leaders. Additional
+lair maps, items, and more will allow you to
+craft unforgettable adventures that test the
+mettle and morality of your players, leaving
+a lasting impact on their experience of the
+World of Doaden.
+
+
+
+
+                                       Tormentor Cults Faction Guide   3
+              The Tormentor Cults
+   In the darkest corners of Doaden, a seed of corruption takes root, a whispered collective of shadowed
+figures meeting in the darkest underbellies of towns and cities to commit atrocious acts of inhumanity,
+leaving in their wake mutilated corpses of their tortured victims. Dedicated to the explication of agony,
+this seed would grow over the centuries to become the Tormentor Cults, a secretive collective bound by
+their worship of a malevolent entity known as the Prison Lord. Their dark lord resides not in our world but
+in the extraplanar Prison Realm—a domain writhing with the psychic energies of agony and despair. The
+cults serve as the earthly heralds of this dreadful realm, committed to a macabre agenda of merging their
+lord's domain with our reality.
+
+   The origins of the Tormentor Cults can be traced back to the immediate aftermath of the Cataclysm, a
+disastrous event that shattered the very fabric of the world and left Doaden reeling in fear and
+uncertainty.
+
+   In these desperate times, the Prison Lord’s whispers cut through the chaos, promising power through
+pain and retribution against oppressors. These whispers found eager ears among the disenfranchised and
+downtrodden — those crushed under the weight of a ceaselessly hostile world, and those who wished
+simply to see the lands burn and to revel in chaos and anarchy. The objectives of the Tormentor Cults are
+as insidious as they are catastrophic. Driven by the belief that truth can only be achieved through
+suffering, they seek to thin the veil between our world and the Prison Realm.
+
+   Through blood-soaked rituals and unholy pacts, they summon forth abominations and spread
+corruption as they attempt to bring about a convergence of our world and the realm of suffering. This
+apocalyptic vision drives the cults to commit acts of terror and violence, destabilizing the already fragile
+order of Doaden in preparation for their dark lord's ascension.
+
+
+
+
+4                                        Tormentor Cults Faction Guide
+vv                   Beliefs and Practices
+                       At the heart of the cult’s insidious influence lies
+                     a twisted creed centered on the glorification of
+                     suffering. They seek dominion through suffering
+                     and the infliction of torment – both on oneself and
+                     on others. In the throes of agony, both physical and
+                     mental, the veil between the material world and
+                     the Prison Realm thins, allowing for communion
+                     with their dark master.
+
+                       By orchestrating grotesque scenes of torture and
+                     mutilation, they seek to replicate the conditions of
+                     the Prison Realm, making their dark lord's influence
+                     more palpable in the material world.
+
+                       The screams of their victims are offered up as
+                     solemn prayers of worship, appeasing their dark
+                     lord’s appetite for agony and violence. These
+                     sacrificial rituals, if grand enough and charged with
+                     powerful arcane energies, begin to corrode the veil
+                     between worlds, bringing the Prison Realm into
+                     reality.
+
+
+                     The aim of the Tormentor Cults is the convergence
+                     of the material world with the Prison Realm,
+                     creating a singular plane of existence governed by
+                     the Prison Lord and fully subjugated by his will. This
+                     catastrophic vision is the driving force behind their
+                     most heinous acts, as they believe that only
+                     through the total merging of realms can true order
+                     be achieved — an order based on the universal
+                     dominion of chaos and suffering. Central to the
+                     cults’ practices are their rituals, which range from
+                     blood offerings to grotesque ceremonies involving
+                     human sacrifice. These rituals are designed to open
+                     rifts between worlds, allowing the horrors of the
+                     Prison Realm to seep into Doaden. Each ritual is
+                     both a spiritual act and a strategic move, aimed at
+                     destabilizing the region and expanding the cults'
+                     influence.
+
+
+
+
+     Tormentor Cults Faction Guide                                       5
+Cult’s Influence
+                                                           The Tormentor Cults' rituals have a tangible effect
+  The spread of the cult takes roots like a malignant      on the physical world. Areas frequently used for
+cancer in even the most holy of cities, swaying            their dark rites often exhibit signs of blight—crops
+wayward minds to its cause through a combination           wither, wildlife flees, and the very soil seems to
+of coercion and seduction.                                 sour.
+                                                              More disturbingly, in places where the veil
+  Charismatic disciples, known as Demagogues,              between the material world and the Prison Realm
+infiltrate society, preaching the necessity of             is thin, the landscape begins to reflect the desolate
+embracing torment and the power of one’s own               and tortured nature of the Prison Realm itself.
+agony, often targeting the vulnerable or those who         Forests become twisted labyrinths of thorns, rivers
+have suffered great injustices.                            run black with unknown depths, and the air might
+  These sermons are crafted to resonate with those         hang heavy with the stench of decay.
+who feel disenfranchised, offering a sense of                  These cursed lands become beacons for dark
+purpose and power in a world that has otherwise            creatures and cult sanctuaries, transforming them
+abandoned them. The cults capitalize on unrest,            into regions of torment and despair.
+using it as fertile ground to spread their doctrine
+and influence. From bustling urban centers to
+remote rural outposts, their tendrils of control
+extend, exploiting both the weak and the wicked.
+  As their influence grows, the cults strategically
+expand to other regions, leaving a trail of
+corruption and decay that marks their passage
+across the land. Over time, a population may be
+swayed towards the corruption of the cults, falling
+away from the path of righteousness and into the
+clutches of the Prison Lord.
+
+  The activities of the Tormentor Cults create deep
+societal disruptions. Their rituals and violent acts
+foster an atmosphere of fear and paranoia, which
+permeates the communities they infiltrate. Over
+time, this sustained terror can lead to outright
+chaos and societal breakdown as people turn
+against one another in fear of cult infiltration or out
+of desperation. These societal fractures are ideal
+for the cults, as they thrive in and propagate
+further chaos, which in turn facilitates their dark
+objectives.
+
+
+
+
+6                                          Tormentor Cults Faction Guide
+                Leaders
+                The shadowy orchestrators behind the relentless
+                advance of the Tormentor Cults are the Harbingers,
+                master tacticians and strategic leaders who direct
+                the cults’ most sinister agendas. These formidable
+                figures are the dark generals of their ranks, each
+                imbued with the Jailer's insidious will and a
+                profound understanding of the dark magic that
+                binds the material world to the Prison Realm.
+                Where a typical cultist attack might be marked by
+                chaotic savagery and wild rites, the presence of a
+                Harbinger signals a shift towards meticulous
+                cruelty and terrifying precision.
+
+                   Their operations are not merely local
+                disturbances but regional threats, as they deploy
+                coordinated assaults that combine brutal efficiency
+                with arcane potency. Under the command of a
+                Harbinger, the cults execute large-scale rituals and
+                strategic strikes that significantly erode the barriers
+                between worlds, bringing Doaden ever closer to a
+                catastrophic convergence with the Prison Realm.
+                Each Harbinger's influence is a palpable shadow
+                over the land they control, turning what were once
+                isolated incidents of horror into orchestrated
+                campaigns of fear and subjugation, marking them
+                as one of the most formidable enemies behind the
+                cult’s sinister machinations.
+
+
+
+
+Tormentor Cults Faction Guide                                        7
+                    Getting Started
+                      An experienced game master should find this
+                    trove of tools and mechanics perfect for inspiring
+                    and building their own campaign using the cults.
+                    However, a newer game master might enjoy
+                    running some of Bestiarum’s easy-to-run prepared
+                    adventures, which provide all the narrative, maps,
+                    scripts, encounters, and more to quickly dive into
+                    and experience the World of Doaden.
+
+                       If you are not yet comfortable crafting your
+                    own campaigns, looking for narrative inspiration,
+                    or a meticulously prepared adventure to run at
+                    your table, we encourage you to read Whispers of
+                    Torment and Return of the Jailer – these modules
+                    are carefully prepared to demonstrate a
+                    Tormentor Cult experience, with balanced
+                    encounters and narrative design. Additionally, you
+                    might wish to check out Bestiarum’s adventure
+                    catalogue, which includes scores of adventures,
+                    showcasing all of the strange and deadly factions
+                    that can be found scattered around the fallen
+                    World of Doaden.
+
+                        All these adventures are great starting points
+                    for any new game master, but the ones included
+                    in the starter pack are especially so!
+                        Find out more at
+                    https://www.bestiarumgames.com/games
+
+
+
+
+8   Tormentor Cults Faction Guide
+Crafting a Campaign                                           3. Final Confrontation. In this section, you
+                                                                 will learn how to build a final confrontation
+The Tormentor Cults are a compelling antagonist
+                                                                 for your party to defeat the cultists behind
+for any 5e campaign, bringing a blood-curdling
+                                                                 the plot.
+sense of suspense and horror to your table. This
+                                                              4. Loot, Rewards, & NPCs. In this section, you
+section provides tools and mechanics to weave
+                                                                 will find a list of thematic magic items for
+their dark influence seamlessly into your
+                                                                 your players to use, as well as suggestions
+adventures. Here, we detail how to use the cult's
+                                                                 on how to distribute them. No good
+sinister agenda to enhance your storytelling, create
+                                                                 campaign is made without a feeling of
+tension, and deliver memorable gaming
+                                                                 accomplishment!
+experiences. The aim is to furnish GMs with flexible
+tools and suggestions to help enrich the narrative
+and thematic depth of your adventure.                    1. Introducing the Cult
+    All the tools and examples provided are              To effectively introduce the Tormentor Cults into
+designed to be convenient aids for you to craft your     your campaign, start by crafting an adventure hook
+own cult adventure. As your party investigates,          that entrenches the party in a confrontation with
+unravels the cult plans, and defeats the many            or investigation of the cult. To set the stage of the
+devious antagonists behind the scenes, you will be       adventure, you can roll on the following Adventure
+able to craft a satisfying narrative campaign, filled    Hooks table. You can also pick your favorite or
+with unique stories, grudges and memorable               design your own. You know your players best, so
+experiences. The enemies and monsters range              you should choose the hook that resonates most
+from lowly cultists to nearly immortal godlike           with them or is most likely to get them invested in
+entities from beyond reality – unshakable forces of      uncovering the plot of your story. Alternatively,
+evil that only the most heroic of parties may defeat.    you can choose a hook designed around the
+This breadth of foes can be used to challenge            Harbinger leading the cult (See page 32).
+parties all the way from level 1 to 20.
+    We hope that these tools will spark your own
+ideas as well, helping you to draw inspiration and
+create your very own detailed and personalized
+experiences for your players. To design a satisfying
+experience, read through the following sections
+which offer ideas and guidance on crafting your
+Tormentor Cult adventure or campaign.
+    Considering these sections as you prepare for
+your game session will help you to design a dark
+and thematic experience that highlights all the
+cult’s most heinous hallmarks.
+
+    1. Introducing the Cult. In this section, you
+       will learn how to craft compelling
+       adventure hooks and plot devices to tie the
+       cult into your adventures.
+    2. Escalating the Plot. In this section, you will
+       learn how to advance the narrative by
+       designing intriguing cult schemes and
+       leaders.
+                                         Tormentor Cults Faction Guide                                      9
+10   Tormentor Cults Faction Guide
+2. Escalating the Plot                                          the party may confront one or more of the
+                                                                most powerful fiends from the Prison Realm.
+As the adventure progresses, you can add ritual            •    Torment Unleashed. For the full Tormentor
+signs to keep the party on their toes. To flesh out             Cult experience, all 6 Harbingers should be
+the cult’s motives, you can select a Harbinger and              confronted, in various regions and cities. The
+consider how that character might push forward                  most powerful fiends should also be
+their cultists even further. Harbingers are powerful            confronted, challenging with party with all the
+leaders of the cult, each with unique motivations               Tormentor Cults have to offer.
+and modus operandi. Considering their objectives
+will ensure a different experience each time the           The Harbinger. To develop the cult, select a
+party runs into the cult.                                  Harbinger who pulls the strings. Harbingers have
+                                                           unique statblocks, methodologies, and powers
+Ritual Signs. As the party investigates, unveil some       detailed in the Tormentor Cult Forces chapter.
+signs of the cult’s activities on the Ritual Signs         They have significant resources at their disposal,
+table. Begin with subtle signs; mysterious                 including loyal cultists, summoned fiends, and
+disappearances, unsettling dreams among                    arcane artifacts. Their influence should be felt not
+townsfolk, or signs of ritualistic symbols appearing       just in overt actions but in subtle manipulations of
+in unexpected places. As the players dive deeper,          politics and society. Try to align the Harbinger’s
+they can uncover the true extent of the cult               personal goals with the overarching plot of the
+operations, leading to more direct confrontations          campaign, such as opening a major rift, conducting
+and challenges. You can make these as simple or            a significant sacrificial rite, or bringing an ancient
+complex as you wish, designing adventures to               prophecy to fruition. The six possible Harbingers of
+showcase the cult’s devious actions and revealing          the cult are:
+more about them with each discovery. A small-
+scale operation may only have a few signs, while a              1.   The Court of Three
+large-scale operation may have many more.                       2.   The Confined
+                                                                3.   The Oubliette
+•   One Shot. For a short one-shot encounter, use               4.   The Sentenced
+    just 1 sign. This works well for a small cult               5.   The Stockade
+    cloister that hasn’t taken root yet. In these               6.   The Punishment
+    cases, at the end of the adventure the party
+    might fight a small band of cultists or perhaps
+    a few weaker fiends.
+•   Standard Adventure. For a normal length
+    adventure, consider 2 to 3 signs. This works
+    well for a cult infestation that has begun to
+    take root but is in its early stages. At the end of
+    the experience, the party may confront a force
+    of powerful cultist and fiends. In these cases, a
+    Harbinger is likely behind the cult.
+•   Campaign. For a multi-adventure campaign
+    use multiple adventure hooks to introduce
+    each adventure. Likely a Harbinger is behind
+    each adventure. At the end of the experience,
+
+
+                                           Tormentor Cults Faction Guide                                      11
+12   Tormentor Cults Faction Guide
+3. Final Confrontation                                       In a longer campaign, the cult may operate
+                                                          multiple strongholds, each serving a different
+                                                          purpose such as recruitment, ritual sacrifices, or
+As the party’s investigation comes to a close, the        interdimensional communication. These sites
+confrontation with the Tormentor Cults should             might contain smaller rifts to the Prison Realm,
+escalate in intensity and stakes. The final               leading up to the main rift at the primary
+confrontation is not merely a battle but a dramatic       stronghold, with each location offering an
+conclusion that could potentially alter the reality of    opportunity to craft a dark and deadly dungeon. In
+the world itself.                                         general, each Harbinger in the campaign should
+                                                          have their own stronghold, creating a unique
+Cult Strongholds. The strongholds of the                  experience each time the party defeats one of the
+Tormentor Cults are the epicenters of their dark          faces of the cult.
+activities and potential stages for your campaign’s
+climactic ending. This location should be                 Final Battle. No adventure is complete without a
+strategically chosen to reflect the cult's relative       final climactic fight with a terrifying villain. Tied into
+power and aesthetic. Consider diverse settings            closing the rift, the party should confront a terrible
+such as a cursed fortress, an abandoned dungeon,          evil. For a low-level adventure, this might be a
+an insane asylum, or ancient ruins hidden away in         follower of the cult, such as a Demagogue blessed
+an old forest. This location that the party discovers     by a Harbinger. For a tougher threat, it may be the
+provides a unique opportunity for atmospheric             Harbinger by themselves or commanding a room
+storytelling and gameplay challenges. Incorporate         full of fiends and cultists. And for the hardest fights
+atmospheric details that heighten the eerie and           of all, the party may be forced to confront the
+malevolent ambiance. This could include unsettling        legendary hellish foes which the cult has managed
+statues, blood-stained altars, and areas corrupted        to summon from the Prison Realm. The statblocks
+by dark magic that present environmental                  and descriptions of all potential enemies are
+challenges to the players.                                included in the following chapter, Tormentor Cult
+    Beyond physical guards and traps, these               Forces. You can find inspiration for your final boss
+strongholds might be protected by arcane wards            by looking at the Harbingers and legendary foes,
+that cause madness or despair, or puzzles that            and then plan out the adventure experience from
+must be solved under the pressure of ongoing              there! Use the following Boss Suggestion table for
+attacks. You might design elements like walls that        ideas about which enemies the party should
+whisper secrets, floors that seem to breathe, and         confront at the end of the adventure based on their
+statues that watch the party’s every move. These          level range. The larger your party size and the
+features should unsettle and challenge the players,       higher the party’s level, the more allies the boss
+making them feel the oppressive power of the cult.        should have during that final confrontation to
+However, they should all share one thing in               balance the scales of the fight. Harbingers are not
+common – tons of blood and gore and sacrificed            strong by themselves, but their support abilities
+victims all over the walls and floors. Impaled on         make them incredibly fearsome the more
+long spikes with blood dripping to the floor, hung        henchmen they have with them. Remember, in a
+from chains with their skin flayed, tied to chairs        longer campaign the party may even face multiple
+with their skulls cut open and horror frozen on their     enemies that escalate in difficulty as they level up!
+faces – these macabre human decorations should            Monsters marked with an asterisk (*) on this table
+abound throughout the cult’s final lair, giving the       are legendary, and include lair mechanics and
+party a glimpse of the cult’s dark aesthetic.             maps.
+
+
+                                          Tormentor Cults Faction Guide                                          13
+                                                          serve as preliminary challenges where the party
+                                                          learns about the cult's ultimate plan, while larger
+                                                          rifts progressively grow in danger, culminating in
+                                                          the major rift which threatens to merge the realms.
+                                                          During the adventure, the party might discover
+                                                          mechanics for how the rift can be closed, involving
+                                                          complex rituals, battles to disrupt the cult's
+                                                          activities, or quests to retrieve items necessary for
+                                                          sealing such a rift.
+
+
+
+
+Progressive Rifts. The goal of the cult is always to
+open a rift to the Prison Realm. Weaker bands of
+cultists open small rifts that affect only the
+immediate area and are only powerful enough to
+bring forth a handful of lesser fiends, while more
+organized bands open devastating rifts that corrupt
+entire cities or regions and draw forth godlike
+entities from beyond. This brings a unique flavor to
+each adventure depending on how large the cult
+operation is. The greater the rift, the more of the
+Prison Realm will bleed over to reality, causing
+horrifying physical and psychological effects on any
+parties that manage to enter the area. As the cult's
+ritual nears completion, the effects on reality
+become more pronounced and dangerous. This
+progressive alteration of the environment serves to
+heighten tension and stakes as the party
+approaches the final battle. Use the Progressive
+Rifts table to determine how serious these effects
+are, or as inspiration to create your own. The table
+includes a description of the rift’s effects on the
+area as well as a suggestion for the effects that you
+may roll, which make it difficult for the party to
+invade the area. The party should roll for these
+effects periodically as stated in the table.
+    In a short adventure, the cult should open a
+Minor Rift, while in a longer campaign, each
+stronghold found should experience a higher level
+of the rifts. This escalation mimics the size of the
+rift that the cult was able to open. Minor rifts might
+14                                        Tormentor Cults Faction Guide
+Tormentor Cults Faction Guide   15
+16   Tormentor Cults Faction Guide
+4. Loot, Rewards, & NPCs
+To create a sense of accomplishment and                 Unique NPCs. Introducing unique NPCs can add
+progression, rewarding players with thematic            depth and intrigue to the campaign. The Lone
+items tied to the Tormentor Cults can enhance           Prisoner and his companion, the Brute, are a
+their engagement and provide powerful tools for         traveling pair of characters who can offer quests,
+their journey. These items, whether found in the        provide valuable information, or serve as tenuous
+aftermath of a harrowing battle or bestowed by a        allies and merchants. Their backgrounds are
+grateful NPC, serve as tangible evidence of the         steeped in mystery, and their ambiguous alignment
+party's growing prowess and influence.                  allows them to interact with the party in various
+    Cult-themed artifacts range from simple yet         ways. They can be used to kick off a quest or as a
+sinister items to incredibly powerful relics infused    chance for the party to purchase or earn some
+with dark magic. GMs are encouraged to distribute       additional magic items! For more information
+these items at their discretion, using them to          about them, refer to the Unique NPCs section.
+highlight key moments in the campaign. It’s
+suggested that uncommon items are granted after
+encounters with lesser cultists, rare items are
+awarded upon defeating more significant threats
+or completing substantial quests, and legendary
+items are reserved for the most epic
+confrontations, such as those with legendary
+bosses. A boss with no allies might drop a lesser
+item, while that same boss with many allies might
+drop a more powerful item.
+
+Distributing Items. We suggest you distribute an
+item as a reward when the party defeats enemies
+of these CR levels.
+• Uncommon: Awarded for encounters with CR 1-
+  5+ enemies.
+• Rare: Awarded for encounters with CR 6-11+
+  enemies.
+• Very Rare: Awarded for encounters with CR 11-
+  21+ enemies.
+• Legendary: Awarded for encounters with CR 17+
+  enemies.
+
+For a comprehensive list of items, refer to the
+sections Tormentor Artifacts section.
+
+
+
+
+                                        Tormentor Cults Faction Guide                                   17
+18   Tormentor Cults Faction Guide
+TORMENTOR CULT FORCES
+The Tormentor Cults are not just a collection of          The Ascendents.
+depraved individuals but a well-organized force           At the heart of the cults' terror are the ascendents,
+with a singular, malevolent purpose.                      once-mortals that have been changed into fiendish
+   This chapter delves into the sinister array of         beings by the will of the Prison Lord. They return as
+enemies that form the Prison Lord’s arsenal,              changed things, barely holding onto slivers of their
+ranging from the lowest acolytes to the mightiest         souls, now serving as monstrous enforcers of their
+foes from the depths of the Prison Realm.                 dark lord. In their madness, they have become
+   Here, you will find details of each enemy type,        much more powerful, gaining incredible strength at
+complete with stat blocks, tactical roles, and            the cost of their sanity and will.
+narrative suggestions to bring these adversaries to
+life in your adventures.                                  Collector Entities.
+                                                          The collectors are alien entities that originate from
+Enemy Types                                               the Prison Realm, strange and horrifying things
+                                                          from beyond the ken of mortal kind. To behold the
+                                                          Collectors is to glimpse the true essence of the
+Adherents of the Cult.                                    Prison Realm—a mindless and indifferent predator
+The backbone of the Tormentor Cults, the cultists         whose singular purpose is to consume and thrive.
+and their ilk, are driven by their unwavering faith in    These are some of the most powerful entities in the
+the Jailer. These individuals come from all walks of      Prison Lord’s arsenal.
+life, united by a shared belief in the power of
+suffering. From lowly acolytes to devious                 Each of these forces plays a pivotal role in the cult's
+Demagogues, each member plays a vital role in the         activities, from the spreading of influence and fear
+cult’s insidious operations. They infiltrate              among the populace to the performance of
+communities, spread their dark doctrines, and             apocalyptic rituals that can bring about the end of
+perform unspeakable rituals to summon the Jailer's        the world.
+minions.                                                  As the Game Master, you have at your disposal a
+                                                          diverse and terrifying array of adversaries to
+Harbingers.                                               challenge your players, making each encounter a
+Leading the cults are the Harbingers. These sinister      narrative-rich experience that drives your
+leaders have undergone rituals that grant them            campaign's tension and drama. Choose your forces
+terrifying powers and an unwavering connection to         wisely, scale their threat to suit the narrative arc,
+the Jailer. Each Harbinger has their own unique           and prepare to unleash the full fury of the
+methodology and sinister goals. They command              Tormentor Cults upon your unsuspecting
+their followers with an iron fist, driving them to        adventurers.
+ever greater acts of depravity.
+
+
+
+
+                                          Tormentor Cults Faction Guide                                       19
+20   Tormentor Cults Faction Guide
+Adherents of the Cult
+ The mortal followers of the Tormentor Cults are the backbone of the Jailer's dark army, driven by a
+fanatical belief in the power of suffering. These individuals come from all walks of life, drawn together by
+their shared devotion to the Prison Lord and his promise of a new world order through pain and torment.
+The cultists believe that through the infliction of suffering, they can thin the veil between the material
+world and the Prison Realm, bringing their dark lord's realm into reality.
+
+Cultists are typically encountered in small cells or larger groups, depending on their mission. They are
+deeply embedded in the societies they seek to corrupt, often posing as ordinary citizens by day and
+performing dark rituals by night. Their presence is marked by subtle signs of corruption—strange symbols,
+eerie chants, and unexplained disappearances. In their hideouts, cultists surround themselves with
+macabre artifacts and twisted remnants of their rituals, creating an atmosphere of dread and unease.
+
+In towns and cities, cult adherents can be encountered subtly influencing local politics, spreading rumors,
+or recruiting new members in dark alleyways. They might run seemingly benign establishments that serve
+as fronts for their nefarious activities. In the wilderness or rural areas, they might conduct rituals in
+secluded groves or ancient ruins, often targeting isolated communities and exploiting local fear and
+superstition to further their dark agenda.
+
+
+
+
+                                         Tormentor Cults Faction Guide                                   21
+Bruiser                                                       Bruiser
+
+The bruisers are the hardened enforcers of the
+Tormentor Cults, distinguishable by their more
+menacing demeanor and sinister tendencies.
+
+These zealots have undergone rigorous and often
+torturous rites to prove their dedication, emerging
+as fanatically loyal and unflinchingly cruel.
+
+Armed with brutish and cruel great weapons, the
+zealots are feared as much for their ability to inflict
+pain, as their delight in doing so.
+
+
+
+
+22                                         Tormentor Cults Faction Guide
+Cultist                                                 Cultist
+
+
+Devoted followers of the Tormentor Cults, marked
+by their unwavering zeal in worshipping fiends
+from the prison realm. Their appearance is often
+ragged yet sinister, their eyes burning with
+madness and torn robes adorned with unsettling
+symbols.
+
+
+
+
+                                     Tormentor Cults Faction Guide   23
+Demagogue                                                     Demagogue
+
+Leading their congregations, the Demagogues of
+the Tormentor Cults direct their adherents to
+further the will of their dark lord. Singularly
+blessed, it is the Demagogues who hear the
+whispers of the Jailer, sequestered in his far away
+realm.
+  The Demagogues drive the cults into actioning
+their master’s dark goals, without their presence,
+the cult would be leaderless, and unable to hear
+and interpret their Lord’s command. Should they
+be slain, the rest of the cult shall eventually fall to
+catatonic madness, lest another rise to hear the
+Jailer’s whispers.
+
+
+
+
+24                                         Tormentor Cults Faction Guide
+Herald of Agony
+                                                         Lair Actions
+The herald is a formidable servant of the Jailer,
+                                                         On initiative count 20 (losing initiative ties), the
+imbued with dark energies and tasked with
+                                                         herald can take a lair action to cause one of the
+ensuring the completion of sinister rituals to open
+                                                         following effects:
+rifts between the prison realm and reality.
+                                                         • Necrotic Pulse. The herald emits a pulse of
+Appearing as a ghastly figure, draped in tattered
+                                                              necrotic energy. Each enemy creature within
+robes that barely conceal its mutilated form, the
+                                                              30 feet of the herald must make a DC 16
+Herald exudes an aura of despair and torment.
+                                                              Constitution saving throw, taking 18 (4d8)
+Their eyes, glowing with a malevolent red light,
+                                                              necrotic damage on a failed save, or half as
+seek out the suffering and fear of its victims, which
+                                                              much damage on a successful one.
+the Herald uses to fuel their own malefic powers.
+                                                         • Shadowy Chains. Shadows coalesce into chains
+                                                              to grapple and restrain up to two creatures
+Herald of Agony’s Lair
+                                                              within 60 feet of the herald. Affected creatures
+The herald is drawn to sites of significant religious
+                                                              must succeed on a DC 16 Strength saving throw
+or sacred importance that have been corrupted by
+                                                              or be restrained until the end of their next turn.
+hypocrisy, brutality, and moral decay. It makes its
+lair in these places, once hallowed grounds that
+have become twisted by the herald’s nefarious
+activities. Churches, temples, or sanctuaries that
+once echoed with prayers and hope but now
+resound with the cries of the tormented
+and the echoes of desecration are ideal lairs
+for the herald. The perversion of their once
+sacred purpose with the current horror they host
+makes these sites particularly potent for the
+herald’s rituals. These locations serve as perfect
+conduits for the herald's rituals, enabling easier
+access to the dark energies needed to bridge the
+mortal world with the Prison Lord’s realm.
+
+
+
+
+                                         Tormentor Cults Faction Guide                                       25
+26   Tormentor Cults Faction Guide
+Herald of Agony
+
+
+
+
+                  Tormentor Cults Faction Guide   27
+28   Tormentor Cults Faction Guide
+Tribune Carcerus
+                                                            Lair Actions
+Tribune Carcerus is the fearsome battlemaster of
+                                                            On initiative count 20 (losing initiative ties),
+the Tormentor Cults, a strategic genius whose fall
+                                                            Tribune Carcerus can take a lair action to cause one
+from grace has made him into a pernicious thorn in
+                                                            of the following effects. Tribune Carcerus cannot
+the Empire’s flank. Once a revered leader within
+                                                            use the same lair action twice in a row.
+the Penitent Crusade, Carcerus has used his
+                                                            • Call Reinforcements. 1d4+2 Cultists appear in
+military acumen to transform the cult's disparate
+                                                                unoccupied spaces within 60 feet of Carcerus,
+followers into a cohesive and deadly force. His
+                                                                ready to join the fray.
+presence on the battlefield has led to some of the
+                                                            • Activate Traps. Hidden traps within the lair are
+Crusade's most humiliating defeats, as he
+                                                                triggered. All creatures within a 15-foot square
+combines his intimate knowledge of the Empire's
+                                                                that Carcerus can see must make a DC 18
+tactics with the ruthless brutality of the Tormentor
+                                                                Dexterity saving throw, taking 18 (4d8) piercing
+Cults.
+                                                                damage on a failed save, or half as much
+    Carcerus is a towering figure, clad in heavy
+                                                                damage on a successful one.
+armor that bears the scars of countless battles. His
+right hand wields a massive greatsword, while his                             • Commanding             Presence.
+left is equipped with metal claws, nailed to his                                  Carcerus's presence inspires
+fingers to serve as a cruel weapon of close combat.                               up to two of his allies. within
+His eyes burn with a dark zeal, reflecting his                                    60 feet of him to gain
+unwavering dedication to the Prison Lord. Carcerus                                advantage on attack rolls and
+is a master tactician, always several steps ahead of                              saving throws until the start
+his enemies, and his presence alone can turn the                                  of their next turn.
+tide of battle.
+
+Tribune Carcerus’ Lair
+Tribune Carcerus often commands from a fortified
+stronghold, typically a captured fortress or an
+ancient, abandoned military outpost. These lairs
+are heavily defended, with layers of traps,
+fortifications, and loyal cultists ready to lay down
+their lives for their leader. The lair is both a military
+base and a place of dark worship, filled with the
+sounds of drilling soldiers and the eerie chants of
+rituals.
+
+
+
+
+                                            Tormentor Cults Faction Guide                                     29
+30   Tormentor Cults Faction Guide
+Tribune Carcerus
+
+
+
+
+                   Tormentor Cults Faction Guide   31
+32   Tormentor Cults Faction Guide
+Torment Knight                                               Torment Knight
+
+The Torment Knight is a fearsome adversary,
+embodying the relentless and merciless nature of
+the Prison Realm's guardians. Clad in heavy, dark
+armor and wielding a massive maul forged from
+grafted iron bars, the Torment Knight is a towering
+figure of dread and power.
+They are straightforward in their tactics, using their
+brute strength and heavy armor to wade into the
+thick of battle, and strike fear into their enemies
+with their Aura of Despair, making it difficult for
+foes to stand their ground. In combat, they focus
+on smashing through the front lines with
+devastating blows and disrupting groups of
+enemies with their shatter attacks.
+
+
+
+
+                                          Tormentor Cults Faction Guide       33
+34   Tormentor Cults Faction Guide
+Harbingers                                                description includes their own tactics, stronghold
+                                                          preferences, and a special cult brand, giving each a
+The Harbingers are formidable leaders, once-
+                                                          distinctive flavor and gameplay mechanics to make
+cultists whose journeys brought them too close to
+                                                          their encounters unique. You can also consider the
+their dark god. Through their undying devotion to
+                                                          CR of each leader to determine which is an
+the Prison Lord, they have been chosen, each
+                                                          appropriate enemy for your party’s current level.
+making a sacred pilgrimage to the Prison Realm to
+receive their deity’s blighted blessings. In that vile
+realm, roiling with primordial torment and agony,         Tactics
+each has undergone tortures both physical and             Harbingers employ unique methodologies in their
+mental, their bodies and minds shattered a                pursuit of the Prison Lord’s goals. These
+thousand times and stitched back together into a          methodologies influence how the cult operates
+twisted champion of the cult. The Harbingers are          under their command. Understanding the
+not just commanders but embodiments of the                Harbinger's methodology will help you create
+cult's darkest aspects, wielding unique powers and        unique and thematic encounters that reflect their
+abilities granted by the Prison Realm.                    influence. Tactics extend to both combat and non-
+    Harbingers are distinguished by their unique          combat approaches, from their predilection
+methodologies and terrifying capabilities. They           towards subtlety or overt rituals, or use of tactics
+lead with a mix of charisma, fear, and supernatural       or brute force. Each Harbinger demonstrates a
+prowess, ensuring absolute loyalty from their             unique personality and tactical approach to
+followers. Their presence in any region is a sure         achieving their goals, keeping the party on their
+sign of escalating danger, as they push their cultists    toes each time they face-off against a new foe.
+to greater acts of depravity and violence. Each
+Harbinger's approach is reflected in their                Stronghold
+specialized abilities, which they use to manipulate,      The stronghold of each Harbinger is a reflection of
+control, and destroy those who oppose them. The           their power and identity. Harbingers choose their
+influence of the Harbingers extends far beyond            strongholds and shape them to their liking. These
+their immediate followers, shaping the strategies         locations are heavily fortified and filled with traps,
+and goals of the cult cells under their command.          dark enchantments, and the Harbinger’s most loyal
+                                                          followers. The choice and design of each
+Gameplay Mechanics                                        stronghold is yours to make, but you can use the
+                                                          suggestions of the Harbinger’s ideals and methods
+In a campaign, Harbingers serve as major                  to make it reflect them in a way that pushes
+antagonists, providing climactic challenges and           forward the environment and narrative further. At
+confrontations for the party to overcome. Each            the end of an adventure, as the party is
+Harbinger should be encountered in their fortified        approaching the final confrontation, they may be
+stronghold, during significant cult rituals, or as the    forced to infiltrate this stronghold, delving into it to
+masterminds behind widespread conspiracies.               reach the Harbinger. As the party invades the
+Each brings a distinct flavor to the campaign,            stronghold, they will learn just as much about their
+requiring players to adapt their strategies to            foe as when they finally confront them, as each
+counter their specific powers and tactics. When           trap, defense, or enemy stationed there may tell a
+planning your campaign, decide which of the               little more about the Harbinger’s ideology and
+Harbingers is behind the cult group’s activities and      strategic approach as well.
+consider their unique approach, allowing it to
+influence how their cultists act. Each Harbinger
+
+
+                                          Tormentor Cults Faction Guide                                        35
+Cult Brand
+
+One of the most distinctive features of the Harbingers is their ability to mark their favored cultists with a
+unique brand. This brand not only signifies the cultist’s favored status but also imbues them with special
+powers that reflect the Harbinger’s own abilities and combat style. These brands are typically granted to
+the cult's lieutenants, such as a head demagogue or bruiser, enhancing their effectiveness and making
+them a much more formidable opponent. No more than one cultist should bear the brand in each
+encounter, and only a handful of cultists in the Harbinger’s entire following should bear the brand.
+
+
+
+
+36                                       Tormentor Cults Faction Guide
+The Court of Three
+                                                          Tactics
+Once revered as arcane oracles with the gift of
+                                                          The Court of Three operates with a blend of
+second sight, the Three Sisters found themselves
+                                                          foresight, cunning, and calculated brutality. Their
+ensnared in the clutches of a Tormentor Cult raid
+                                                          dual nature as both seers and avengers influences
+that ravaged their small Templum. Among the
+                                                          their tactics significantly. They prefer to
+captured priesthood, their exceptional talents
+                                                          manipulate events from the shadows, using their
+singled them out, marking them for a fate far
+                                                          predictive abilities to stay one step ahead of their
+darker than any they could have foreseen.
+                                                          enemies. Their cultists act in secrecy, often posing
+   As the Cult's bloodied ritual reached its zenith,
+                                                          as influential members of society, such as
+the sisters were cast into the depths of the Prison
+                                                          diplomats or advisors, to infiltrate and destabilize
+Realm, deemed fit offerings for the realm's
+                                                          their targets from within.
+hungering entities. Yet, even amidst the blasted
+                                                              The Court of Three’s approach to combat is
+expanse of that nightmarish domain, their innate
+                                                          methodical and strategic. They often set elaborate
+abilities persisted. Through the tempestuous dust
+                                                          traps and ambushes, using their knowledge of
+storms and lurking predators, their visions pierced
+                                                          future events to position their forces
+the veil, guiding them through the labyrinthine
+                                                          advantageously. Cultists under their command
+truths hidden within the Prison Realm's confines.
+                                                          leave behind public and gruesome displays of their
+After what felt like eons, they discovered a glimmer
+                                                          victims, using fear as a weapon to sow discord and
+of escape, a path leading back to the world they
+                                                          panic among the populace. A campaign
+once knew.
+                                                          highlighting the Court of Three would involve
+   Emerging back through the bloodied Hecatomb,
+                                                          uncovering hidden plots, foiling intricate schemes,
+they returned to the very moment of their sacrifice,
+                                                          and facing the chilling realization that the sisters
+though not as the meek oracles once were. The
+                                                          often know the players' next moves before they
+harrowing ordeal had fused their essences into a
+                                                          make them.
+singular entity, bound by a symbiotic fusion of
+sororal love and potent arcane madness.
+   Standing amidst the remnants of the Cult's
+sacrificial rites, the Three Sisters gazed upon those
+who had slain them with a newfound clarity. With
+voices intertwined in a chorus of righteous fury,
+they proclaimed themselves the Court of Three,
+dispensers of judgement upon those who had
+wronged them. And with a gesture born of both
+vengeance and liberation, they cast their terrible
+verdict upon the cultists, delivering retribution long
+overdue.
+
+
+
+
+                                          Tormentor Cults Faction Guide                                    37
+38   Tormentor Cults Faction Guide
+Stronghold                                              Brand
+The stronghold of the Court of Three should reflect     The brand of the Court of Three is magically
+their arcane interests and their desire for hidden      scorched into the bearer’s forehead, granting these
+knowledge. They are likely to inhabit places filled     favored cultists enhanced perception and tactical
+with esoteric lore and arcane secrets, such as          acumen, and gifting the ability to anticipate and
+ancient libraries, abandoned temples, or                counter their enemy’s actions. Their enhanced
+labyrinthine complexes filled with forbidden            abilities make them dangerous in both direct
+tomes. These locations are heavily guarded by both      confrontations and strategic planning, allowing
+mundane traps and magical wards designed to             them to foresee and counter the party’s every
+disorient and incapacitate intruders, a place           move.
+designed to be a test of both the mind and body,        • Enhanced Senses. The branded cultist gains
+challenging players to overcome both physical and            advantage on Perception checks and cannot be
+intellectual obstacles.                                      surprised. They also gain a +10 bonus to their
+                                                             initiative roll.
+                                                        • Foretelling. At the start of combat, the
+                                                             branded cultist rolls two d20s. The branded
+                                                             cultist can replace any attack roll, saving throw,
+                                                             or ability check made by themselves or a
+                                                             creature they can see with one of these
+                                                             foretold rolls. Each foretold roll can be used
+                                                             only once.
+                                                        • Psychic Resilience. The branded cultist is
+                                                             immune to being charmed or frightened and is
+                                                             immune to psychic damage.
+
+
+
+
+                                        Tormentor Cults Faction Guide                                       39
+     Court of Three
+
+
+
+
+40                    Tormentor Cults Faction Guide
+The Confined
+                                                         Tactics
+A broken mind still has its uses, and the Confined is    The Confined fights with brute abandon, using his
+most certainly a useful part of the Cult Collective.     immense strength and dark enhancements to
+The Confined is suffused with his Dark Master’s          overwhelm his foes. He charges headlong into
+strength, his very body containing a portion of the      battle, swinging his massive great axe with
+Prison Realm itself. The incessant anguished wails       devastating force. His cultists, inspired by his
+of that realm echo through his broken mind,              ferocity, employ hit-and-run tactics, emerging from
+leaving only a broken and rabid core of violence.        the shadows to strike and then retreating before
+The Confined fights with brute abandon, lacking          they can be countered. The Confined’s presence
+much of the subtlety of his peers, his presence is       signals a campaign sown with chaos and terror,
+marked by frenzied and violent cult activity. His        where his followers commit acts of gruesome
+subjects seem to appear from the shadows in              violence to spread fear and disorder. His strategy
+sudden waves to carve a bloody swathe through a          relies on brute force and sheer intimidation,
+bustling market or city square before disappearing       making him a terrifying force to contend with.
+again from whence they came.
+    The Confined is an enigma, a twisted and
+grotesque figure whose very existence seems to
+defy natural order. Once human, his body now
+bears the marks of countless tortures and dark
+transformations. His flesh is fused with metal
+prison bars, a cruel and painful augmentation that
+enhances his durability and power.
+    Cloaked in a tattered black garment
+that barely conceals the protrusions on his
+back, the Confined is a formidable and
+terrifying presence.
+    His mind is fractured, driven by the
+incessant wails of the Prison Realm
+that echo through his thoughts,
+leaving behind only a rabid core of
+violence and rage.
+
+
+
+
+                                         Tormentor Cults Faction Guide                                   41
+42   Tormentor Cults Faction Guide
+Stronghold                                              Brand
+The Confined’s stronghold should reflect its brutal     The Confined brands his most loyal followers with
+nature and role as a maddened Warchief. His lairs       a mark that enhances their resilience and ferocity.
+are fortresses of pain, places where the screams of     This brand, carved with jagged blades across their
+the tormented echo through the halls. These             torso, grants them the strength to withstand
+strongholds are filled with torture devices, cages,     tremendous pain and the power to unleash it upon
+and cells where his victims are held in perpetual       their enemies.
+agony. Traps are designed to maim and capture           • Enhanced Endurance. The branded cultist
+rather than kill outright, ensuring a steady supply         gains resistance to bludgeoning, piercing, and
+of suffering for the Confined to draw power from.           slashing damage.
+                                                        • Rage of the Tormented. Once per short rest,
+                                                            the branded cultist can enter a rage that grants
+                                                            them advantage on all attack rolls and
+                                                            increases their movement speed by 10 feet for
+                                                            1 minute.
+                                                        • Unyielding Will. The branded cultist is immune
+                                                            to being frightened and gains advantage on
+                                                            saving throws against being charmed.
+
+
+
+
+                                        Tormentor Cults Faction Guide                                    43
+     The CONFINED
+
+
+
+
+44                  Tormentor Cults Faction Guide
+The Oubliette
+The Oubliette is a haunting figure, a shadow of
+torment who was once a master of infiltration and
+subterfuge. His transformation into a harbinger of
+the Tormentor Cults has left him bound within a
+confining gibbet, a cruel cage that encases his body
+in iron restraints, leaving only his limbs free.
+Despite this restriction, he moves with a
+preternatural grace, a testament to his agility and
+resilience. The gibbet, a symbol of his suffering, has
+become his weapon, enhancing his ability to inflict
+pain and misery. With a pair of wickedly sharp
+scimitars, he dances through the battlefield, a blur
+of steel and agony.
+    Like the whispering draft of air that offers only
+painful memory for the incarcerated, the Oubliette
+is a terror despite its subtlety. Leading his cult from
+the shadows, this roguish lieutenant engages in a
+shadow war of trickery, theft and assassination.
+The brutal murder of a Magistrate in their home,
+the theft of the entire town guard’s wages, or
+strange and devious traps, left at the site of a
+sacrifice; these are the tools by which the Oubliette
+sows discord and suffering in praise of his dark
+masters.
+
+Tactics
+The Oubliette fights with the cunning and precision
+of a rogue. He is a master of assassinations,
+ambushes, and guerrilla tactics, striking swiftly and
+disappearing before his enemies can react. His
+cultists mimic his approach, using the shadows to
+their advantage, setting traps, and employing hit-
+and-run tactics or deploying poisons in the right
+time and place to eliminate key targets. They often
+leave behind gruesome displays of their victims, a
+signature of the Oubliette's influence, to spread
+fear and uncertainty. A campaign featuring the
+Oubliette would involve uncovering hidden
+threats, avoiding deadly traps, and facing a foe who
+finds ways to strike back when the party least
+expects.
+
+
+
+                                           Tormentor Cults Faction Guide   45
+46   Tormentor Cults Faction Guide
+Stronghold                                              Brand
+The stronghold of the Oubliette should be a             The Oubliette brands his most loyal followers with
+labyrinthine network of hidden passages and             a mark that enhances their agility and stealth. This
+secret chambers. These lairs are filled with traps      brand, sliced onto the back of their left hand with
+designed to maim and disorient intruders,               sharpened daggers, grants them the ability to move
+reflecting the Oubliette's penchant for pain and        unseen and strike with deadly precision.
+suffering. The walls are adorned with twisted           • Shadow Stalker. The branded cultist has
+symbols and the remains of past victims, creating           advantage on stealth and perception checks.
+an atmosphere of dread and paranoia. The                • Evasion. The branded cultist has advantage on
+stronghold is a place of constant danger, where             Dexterity saving throws and takes no damage
+every step could trigger a deadly trap or bring the         on a successful save that normally deals half
+players face-to-face with the Oubliette's cultists.         damage.
+                                                        • Sneak Attack. Once per turn, the branded
+                                                            cultist deals an extra 14 (4d6) damage when it
+                                                            hits a target with a weapon attack and has
+                                                            advantage on the attack roll, or when the
+                                                            target is within 5 feet of an ally of the branded
+                                                            cultist that isn't incapacitated and the branded
+                                                            cultist doesn't have disadvantage on the attack
+                                                            roll.
+
+
+
+
+                                        Tormentor Cults Faction Guide                                     47
+     The Oubliette
+
+
+
+
+48                   Tormentor Cults Faction Guide
+The Punishment
+                                     Tactics
+                                     The Punishment's tactics revolve around her
+                                     obsession with fire and destruction. She is an
+                                     arsonist at heart, using her burning scimitars to
+                                     ignite her surroundings and sow chaos. Her attacks
+                                     are wild and unpredictable, making her a
+                                     formidable and terrifying opponent. She often
+                                     targets populated areas, burning inns and homes
+                                     with people still inside, creating distractions and
+                                     spreading fear.
+                                        In combat, the Punishment is fast and
+                                     relentless. She strikes quickly and moves
+                                     erratically, making her hard to pin down. Her
+                                     frenzied attacks and fiery aura can overwhelm her
+                                     enemies, leaving them scorched and disoriented. A
+                                     campaign featuring the Punishment would involve
+                                     dealing with the widespread fires she sets and the
+                                     chaos she creates, in towns, forcing players to
+                                     constantly adapt to her unpredictable nature.
+                 …
+
+
+
+
+                     Tormentor Cults Faction Guide                                   49
+50   Tormentor Cults Faction Guide
+Stronghold                                              Brand
+The stronghold of the Punishment is a place of          The Punishment brands her most loyal followers
+chaos and flames, reflecting her fiery obsession.       with a mark that enhances their fiery abilities and
+She could inhabit a burned-out ruin, an old             resilience to fire. This mark, seared across their
+foundry, or a forest constantly ablaze. Her lair is     backs with a hot-iron brand, grants them abilities
+filled with the remnants of her destructive             that reflect her own frenzied and destructive
+campaigns—charred bodies, blackened ruins, and          nature.
+the lingering smell of smoke and ash.                   • Fiery Aura. The branded cultist is surrounded
+     The stronghold is a hazardous environment,              by an aura of flame. Any creature that starts its
+with fires burning uncontrollably and traps                  turn within 5 feet of the branded cultist takes
+designed to ignite intruders. The air is thick with          1d6 fire damage.
+smoke, making it difficult to see and breathe.          • Fire Resistance. The branded cultist has
+Cultists loyal to the Punishment fan the flames,             resistance to fire damage.
+spreading fire and chaos wherever they go. The lair     • Frenzied Attack. The branded cultist can make
+is a test of endurance and resourcefulness,                  an additional melee attack as a bonus action.
+challenging players to navigate through the inferno
+and confront the Punishment in her element.
+
+
+
+
+                                        Tormentor Cults Faction Guide                                      51
+     The Punishment
+
+
+
+
+52                    Tormentor Cults Faction Guide
+The Sentence
+There is none more zealous than the convert, and               Public displays of their fanaticism, such as self-
+in the case of The Sentence, this truth holds              flagellation and human sacrifices, are common, all
+firmest. Once a devout religious leader of the             orchestrated to instill fear and obedience in those
+common faith, his dissatisfaction with the                 who witness them.
+obedience of his flock led him to seek darker
+powers. The allure of the Tormentor Cults, with               A campaign featuring The Sentence would
+their promise of absolute power and control                involve countering his insidious influence, breaking
+through suffering, was too great to resist.                the hold he has over his followers, and ultimately
+                                                           confronting his fanatical zeal.
+  Embracing the dark doctrines of the Prison Lord,
+The Sentence transformed from a humble priest
+into a harbinger of pain and fanaticism.
+
+     Now, speaking with absolute authority and
+possessed of an almost otherworldly charisma, The
+Sentence wields his faith as a weapon. His sermons,
+filled with twisted interpretations of holy texts,
+incite his followers to acts of extreme devotion and
+violence. Whether he is whipping his subjects into
+a zealous frenzy, hurling them into combat with
+suicidal fervor, or spreading his insidious influence
+among the vulnerable, The Sentence’s indirect
+influence is as deadly as his direct actions.
+
+Tactics
+
+The Sentence is a master manipulator, using his
+charisma and authority to incite his followers to
+acts of zealotry and sacrifice. In battle, he prefers
+to stay back, using his spells and abilities to support
+and empower his cultists. His presence turns a
+group of cultists into a dangerous, fanatical mob
+willing to die for their cause.
+
+  The Sentence’s tactics involve a combination of
+direct combat spells and auras that boost the
+abilities of his followers, making them more
+dangerous and harder to kill.
+
+   His cultists act with fervor, driven by his
+sermons to spread chaos and fear. They infiltrate
+communities, spreading the cult's influence
+through preaching and subversion.
+
+                                           Tormentor Cults Faction Guide                                      53
+54   Tormentor Cults Faction Guide
+Stronghold                                              Brand
+The stronghold of The Sentence is a perversion of a     The Sentence brands his most loyal followers with
+religious sanctuary, twisted to serve the dark          a mark that amplifies their fanaticism and
+purposes of the Tormentor Cults. It could be an         resilience. This brand, a twisted symbol of
+ancient cathedral corrupted with dark magic, a          corrupted faith, is meticulously tattooed with
+monastery where the monks have been turned into         blooded ink across their throat, granting them
+fanatic cultists, or a secluded temple in the           abilities that make them more dangerous in
+wilderness, hidden from prying eyes.                    combat and harder to kill.
+    The stronghold is filled with symbols of            • Fanatical Fervor. The branded cultist gains 5
+corrupted faith, blood-stained altars, and the               temporary hit points at the start of each of
+echoes of frenzied prayers. Traps and wards                  their turns.
+protect the inner sanctum, where The Sentence           • Zealous Might. The branded cultist deals an
+delivers his sermons and performs dark rituals. The          extra 1d6 radiant damage with their attacks or
+atmosphere is oppressive, filled with the sense of a         spells.
+once-holy place now dedicated to the glorification      • Unholy Nova. When the branded cultist is
+of pain and suffering.                                       slain, they explode in a ball of eldritch energy.
+                                                             All creatures within 10 feet must make a DC 14
+                                                             Dexterity saving throw, taking 1d8 force
+                                                             damage on a failure or half as much on a
+                                                             success.
+
+
+
+
+                                        Tormentor Cults Faction Guide                                      55
+     The Sentence
+
+
+
+
+56                  Tormentor Cults Faction Guide
+The Stockade
+                                                             In combat, the Stockade prefers to hold the line,
+Once an august lieutenant amongst the ranks of           using her shield to absorb damage and her mace to
+the Penitent Crusade, the Stockade has turned her        deliver crushing blows. Her presence inspires her
+military acumen to the service of a darker master.       cultists to fight with renewed vigor and discipline,
+                                                         turning even a ragtag group into a formidable
+   Her transition from a respected military              fighting force. A campaign featuring the Stockade
+commander to a harbinger of the Tormentor Cults          would involve facing well-coordinated cultist
+was driven by a desire for absolute control and a        attacks, elaborate ambushes, and fortified
+dissatisfaction with the rigid hierarchy of the          strongholds designed to wear down and
+Crusade. Now, she serves the Prison Lord with the        outmaneuver the players.
+same unyielding discipline, bringing a level of
+organization and strategy rarely seen among the
+otherwise chaotic cultists.
+
+   The Stockade is a formidable figure, clad in
+heavy plate armor reinforced with leather
+straps, giving her the appearance of an
+unstoppable juggernaut. Her shield, a
+massive slab shaped like a prison door,
+symbolizes her role as a warden of pain and
+suffering. With a mace in hand, she leads her
+cultists with an iron fist, turning them into a
+disciplined force capable of executing
+complex strategies and devastating attacks.
+
+Tactics
+
+The Stockade fights with the drilled efficiency of a
+military commander. Her tactics involve
+misdirection, pincer movements, and tactical
+restraint, utilizing her cultists as pawns in her
+strategic games. She excels in defensive warfare,
+using her formidable shield to block attacks and
+protect her followers while they position
+themselves for counterattacks.
+
+
+
+
+                                         Tormentor Cults Faction Guide                                     57
+58   Tormentor Cults Faction Guide
+Stronghold                                                Brand
+The stronghold of the Stockade is a fortress of pain      The Stockade brands her most loyal followers with
+and suffering, designed with military precision and       a mark that enhances their resilience and combat
+fortified against any assault. It could be a converted    prowess. This brand, flayed into the meat of their
+military outpost, a heavily fortified dungeon, or an      chests, grants them abilities that make them more
+ancient castle repurposed to serve her dark master.       effective in battle and harder to defeat.
+The stronghold is a place of strict discipline and        • Iron Will. The branded cultist gains immunity
+order, with cultists patrolling the halls and training        to being charmed, frightened, or stunned.
+in the courtyards. Traps and defenses are                 • Unyielding Defense. The branded cultist can
+strategically placed to funnel intruders into kill            use a reaction to impose disadvantage on an
+zones, while the walls are lined with the remains of          attack roll made against an ally within 5 feet.
+those who dared to oppose the Stockade. The               • Relentless Assault. The branded cultist deals
+atmosphere is one of oppressive authority, where              an extra 1d6 bludgeoning damage with their
+every sound echoes with the clanking of armor and             melee attacks and can make an additional
+the distant cries of the tormented.                           attack as a bonus action if they hit with their
+                                                              first attack.
+
+
+
+
+                                          Tormentor Cults Faction Guide                                   59
+     The Stockade
+
+
+
+
+60                  Tormentor Cults Faction Guide
+The Ascendants
+While most mortals are cast into the Prison Realm unwillingly, the Tormentor Cultists aspire to tread upon
+the accursed ground of that infernal plane. Through the culmination of their dark rituals, this opportunity
+is granted. Stepping into the Hecatomb’s roiling pools of blood, they are drawn into that nightmarish
+reality, where they are blessed with the maddening majesty of their Lord’s kingdom. While most never
+return, some are cast back through the Hecatomb, suffused with their master’s energy. These individuals
+are changed, ascended, becoming beings of both worlds and direct conduits to their master’s predatory
+will. Though these Ascendants are capable of communication, their remaining spark of mortal essence is
+trapped within a labyrinth of madness, borne from witnessing eons of dark secrets and terrible suffering
+within the Prison Realm. Consorting with these beings risks a similar fate.
+
+The Ascendants return as nightmarish embodiments of the Prison Lord’s will, cruel servants and
+instruments of terror, twisted reflections of the suffering and torment that permeates the realm beyond.
+
+Summoned through blood-soaked rituals and sacrificial offerings, these creatures spread chaos and fear
+wherever they go, dragging more souls into the Jailer's grasp. Ascendants vary in form and function and
+are often summoned to guard key locations, hunt down enemies of the cult, or enforce the cult’s will
+during major rituals. Their presence is always a sign of doom and mere sight of these fiends can drive
+mortals to madness, their forms so horrifying that they defy natural comprehension.
+
+In gameplay, the fiends serve as formidable adversaries
+for the players. They can be encountered in various
+settings, from cult strongholds to remote ritual sites. Their
+abilities and tactics vary, providing unique challenges and
+requiring the players to adapt their strategies.
+
+The Brute Wardens might act as
+powerful guardians, while Snatchers
+add an element of horror, capturing
+and tormenting victims in ways that
+reflect the Jailer's cruel dominion.
+
+
+
+
+                                          Tormentor Cults Faction Guide                                 61
+Brute Warden
+                                                            Brute Warden
+Amongst the guards and jailers who man the
+myriad prisons and stockades across Doaden, there
+are those who enthusiastically conduct their work
+for the simple delight of inflicting their brute
+strength and power over those who cannot fight
+back.
+  Bullies, abusers and monsters all, they lend sharp
+credence to the belief that mankind is beyond
+saving. It is no surprise that amongst the ranks of
+the Jailer’s Ascendant subjects, the same cruel
+motivations exist and are indeed lauded by the
+realm’s master…
+
+
+
+
+62                                       Tormentor Cults Faction Guide
+The Caged
+                                                               feet must succeed on a DC 20 Dexterity saving
+The Caged is a grotesque and towering entity, a                throw or be grappled and restrained by chains
+physical embodiment of the torment and                         (escape DC 20).
+imprisonment that defines the Prison Realm. It            •    Soul Drain. The Caged chooses one creature it
+stands as a nightmarish figure, its lanky frame                can see within 60 feet that is grappled by its
+bound with iron chains and cages that fuse with its            chains or trapped in its cage. The creature must
+very flesh. Its face, twisted in perpetual agony,              make a DC 20 Constitution saving throw, taking
+reveals the endless suffering it has endured and               27 (6d8) necrotic damage on a failed save, or
+seeks to impose on others. One of its hands is                 half as much damage on a successful one. The
+replaced by a massive cage, capable of imprisoning             Caged heals for the amount of damage dealt.
+unfortunate souls, while the other has been               •    Horrifying Wail. The Caged releases a psychic
+grafted with heavy hooked chains, which it uses to             wail. All enemy creatures within 60 feet of it
+capture and drag its victims. The Caged exists to              that can hear it must make a DC 18 Wisdom
+serve the Prison Lord by capturing mortals and                 saving throw. On a failure, a creature 17 (5d6)
+dragging them back to the Prison Realm, where                  psychic damage and becomes badly shaken,
+they will suffer for eternity. It is driven by a               gaining disadvantage on all attack rolls until the
+relentless desire to ensnare and torment, seeing               end of its next turn. On a success, a creature
+every encounter as an opportunity to expand its                takes half as much damage and is not shaken.
+master’s domain. Its mere presence in the material
+world is a sign of doom, as its anguished wails bring
+the Prison Realm's horrors to those it encounters.
+
+The Lair of The Caged
+The Lair of the Caged is a terrifying and oppressive
+environment, often an ancient dungeon or a
+forsaken prison where the echoes of past torments
+still linger. The walls are lined with chains and
+cages, many of which contain the remains of
+previous victims. This lair is designed to trap and
+torture intruders, reflecting the Caged’s twisted
+purpose. The environment is dark and suffocating,
+filled with the sounds of clinking chains and distant,
+agonized wails, forcing players to navigate carefully
+as they confront this monstrous guardian.
+
+Lair Actions
+On initiative count 20 (losing initiative ties), the
+Caged can take a lair action to cause one of the
+following effects. The same effect cannot be
+chosen two times in a row.
+• Call Chains. Chains sprout from the walls, floor,
+     or ceiling and attempt to grapple creatures.
+     Each creature of the Caged's choice within 60
+
+
+                                          Tormentor Cults Faction Guide                                       63
+64   Tormentor Cults Faction Guide
+The Caged
+
+
+
+
+            Tormentor Cults Faction Guide   65
+66   Tormentor Cults Faction Guide
+Old Shacklegut
+                                                        Lair Actions
+Old Shacklegut looms like a nightmare from the          On initiative count 20 (losing initiative ties), Old
+darkest depths of the Prison Realm. A monstrous         Shacklegut can take a lair action to cause one of the
+amalgamation of flesh and metal, this giant             following effects. Old Shacklegut cannot use the
+creature crawls on multiple legs, each step             same lair action twice in a row.
+accompanied by the eerie clank of chains and the
+                                                        • Arcane Barrage. Old Shacklegut fires its
+squeal of metal against metal. Its swollen
+                                                             cannons in a 60-foot cone. Each creature in
+abdomen, reminiscent of a bloated spider, is
+                                                             that area must make a DC 18 Dexterity saving
+twisted with cages, spikes, and other implements
+                                                             throw, taking 27 (6d8) fire damage on a failed
+of torment, hinting at the unspeakable horrors it
+                                                             save, or half as much damage on a successful
+has inflicted upon its victims and itself.
+                                                             one.
+   One of the most striking features of Old
+                                                        • Arcane Explosion. Old Shacklegut causes an
+Shacklegut is the nest of cannons that protrude
+                                                             explosion in an area. Each creature in a 20-foot
+from its grotesque form. These cannons, fused
+                                                             radius sphere centered on a point Old
+crudely with their flesh, serve as both weapons of
+                                                             Shacklegut can see within 120 feet must make
+destruction and instruments of terror. With a single
+                                                             a DC 18 Dexterity saving throw, taking 18 (4d8)
+command, Old Shacklegut can unleash a
+                                                             force damage on a failed save, or half as much
+devastating barrage of arcane firepower upon its
+                                                             damage on a successful one. The area becomes
+enemies, leaving naught but devastation in its
+                                                             difficult terrain.
+wake.
+                                                        • Toxic Fumes. Old Shacklegut releases a cloud
+   Once a mortal cultist, Old Shacklegut's origins
+                                                             of toxic gas. Each creature within 30 feet of Old
+are shrouded in betrayal and madness. Some
+                                                             Shacklegut must make a DC 18 Constitution
+whisper that it was once an artillery master of the
+                                                             saving throw or be poisoned until the end of
+Penitent Crusade who turned traitor, while others
+                                                             their next turn. Creatures that succeed on the
+believe it to be an Allstein Engineer lost to the
+                                                             saving throw are immune to this effect for 24
+depths of insanity. Regardless of its past, Old
+                                                             hours.
+Shacklegut now serves as a fearsome war machine
+for the Tormentor Cults, its allegiance pledged to
+the dark forces that have granted it ascendance.
+
+The Lair of the Old Shacklegut
+Old Shacklegut makes its lair in the heart of
+corrupted wastelands or within the bowels of
+massive, derelict arcane ruins.
+  These places are filled with the
+remnants of ancient machinery,
+twisted metal, and pools of
+poisonous waste. The air is thick with
+the stench of sulfur and burnt metal,
+and the constant screech of its metal
+bands scraping across each other
+creates a jarring soundtrack to the
+lair's atmosphere.
+
+
+                                        Tormentor Cults Faction Guide                                      67
+68   Tormentor Cults Faction Guide
+Old Shacklegut
+
+
+
+
+                 Tormentor Cults Faction Guide   69
+70   Tormentor Cults Faction Guide
+The Snatcherlord
+                                                         Snatcherlord’s Lair
+Some say he was the Prison Lord’s first adherent,        The Snatcherlord makes its lair in dark, labyrinthine
+far away and long ago at the height of the Old           catacombs or ancient, abandoned fortresses.
+Empire’s power. Some attendant or Vizier,                These locations are filled with shadowy corners,
+possessed of a scheming nature and lust for control      hidden traps, and echoes of past atrocities. The
+which soon descended into obsession; it was this         oppressive atmosphere within these lairs is
+that brought him under the Prison Lord’s dark            palpable, with whispers of torment and the stench
+influence. Though his name has faded into                of decay pervading the air.
+obscurity, the legend of the Snatcherlord persists in
+folktales passed down through generations—a              Lair Actions
+cautionary tale warning against the perils of greed      On initiative count 20 (losing initiative ties), the
+and the futility of trying to control a world            Snatcherlord can take a lair action to cause one of
+indifferent to the desires of mortals.                   the following effects:
+    Far more than a mere bedtime story to frighten
+                                                         • Summon Shadows. The Snatcherlord conjures
+children, the Snatcherlord is chief among the
+                                                             shadowy tendrils that grasp at its enemies.
+Prison Lord’s emissaries to the Tormentor Cults of
+                                                             Each creature within 20 feet of a point the
+Doaden. Swollen with dark energies, the entity
+                                                             Snatcherlord can see within 60 feet must
+towers many times over a mortal human, its sinewy
+                                                             succeed on a DC 17 Strength saving throw or be
+limbs pulsating with formidable strength. While the
+                                                             restrained by the shadows until the end of the
+Snatcherlord prefers to wield its influence from the
+                                                             Snatcherlord’s next turn.
+shadows, orchestrating legions of devotees into
+                                                         • Whispers of Dread. The Snatcherlord whispers
+battle, it is a formidable adversary when provoked,
+                                                             dark incantations. Each creature within 30 feet
+capable of leaping great distances and striking with
+                                                             of the Snatcherlord must make a DC 17
+swift and lethal precision using its cruel whip and
+                                                             Wisdom saving throw or be frightened until the
+sceptre.
+                                                             end of its next turn.
+    Through its ties to Doaden, and perhaps
+                                                         • Shadow Step. The Snatcherlord can teleport to
+through other, more arcane means now lost to
+                                                             any unoccupied space within 60 feet that it can
+memory in the aftermath of the Cataclysm, the
+                                                             see, leaving a swirling cloud of darkness in its
+Snatcherlord manifests itself more readily than
+                                                             wake and at its new location. These areas take
+other Ascendant beings. Over the centuries since
+                                                             up a 25-foot cubic space and become heavily
+the Cataclysm, the Snatcherlord has asserted its
+                                                             obscured to anyone outside of the cloud until
+dominion over numerous Cults, ruling directly over
+                                                             the end of the round.
+them for decades and inflicting unspeakable
+horrors upon Doaden, ensuring that its name
+echoes throughout the realm in dread.
+
+
+
+
+                                         Tormentor Cults Faction Guide                                     71
+72   Tormentor Cults Faction Guide
+Snatcherlord
+
+
+
+
+               Tormentor Cults Faction Guide   73
+74   Tormentor Cults Faction Guide
+Snatcher                                                  Snatcher
+
+Adherents of the Snatcherlord’s frantic desire for
+mastery and lust for control of those around them,
+the Snatchers were once men before being
+changed in the dark magics of the Hecatomb.
+
+Those whose avarice is deemed worthy of the
+Snatcherlord’s attention emerge from the bloody
+pool as lanky, creeping characters, greedily
+snatching victims with their Mancatchers.
+
+
+
+
+                                       Tormentor Cults Faction Guide   75
+Collector Entities
+ While the Ascendant beings of the Tormentor Cult still bear vestiges of their lost humanity, those entities
+wholly confined within the Prison Realm are utterly alien to the human mind. Known as ‘Collectors,’ they
+encompass a bewildering array of forms and characteristics.
+  The Collectors are integral to the peculiar ecology of the Prison Realm, serving as agents in the relentless
+consumption of anguish. Any unfortunate souls sacrificed and cast into the Prison Realm inevitably
+become fodder for these strange entities.
+
+  Despite their diversity, the behavior of Collector entities is uniformly instinctual. They are not beholden
+to the intelligence of higher beings, instead possessing an insectile drive that more closely mirrors the
+denizens of some rotting log than some mighty demonic court - to feast upon and process matter for
+unthinking infinity.
+  To behold the Collectors is to glimpse the true essence of the Prison Realm—a mindless and indifferent
+predator whose singular purpose is to consume and thrive.
+
+
+
+
+76                                        Tormentor Cults Faction Guide
+Cage Hound                                                 Cage hound
+
+Cage Hounds are frenzied quadrupeds, encased in
+agony and bristling with vicious, rusted spikes.
+Roaming in packs reminiscent of wolves, they play
+a crucial role in the gruesome ecology of the
+Prison Realm.
+
+Unlike most Collector Entities, which often require
+significant coercion to breach the Veil and traverse
+into our realm, Cage Hounds exhibit an innate
+hunting instinct that compels them to readily
+manifest through the charnel ooze of the
+Hecatomb.
+
+Once here, a Cage Hound eagerly assumes the roles
+of faithful guard dog and war beast for the
+Tormentor Cults. Their preternatural tracking
+abilities enable them to swiftly home in on the
+scent of potential sacrifices for their dark master.
+
+
+
+
+                                        Tormentor Cults Faction Guide   77
+Collector                                                     Collector
+
+The Collector is a nightmarish creature from the
+prison realm, an eerie and unsettling presence with
+its long, stilt-like legs and a body that seems built
+for a singular, sinister purpose. It moves with a
+disturbing, otherworldly grace, towering over its
+surroundings. Its limbs, unnaturally elongated and
+thin, end in sharp, claw-like appendages, perfect
+for snatching and impaling victims.
+The Collector is not just a predator; it is a harvester
+of souls, capturing its prey to be stored in its
+twisted guts. In this living prison cell, the victims
+are subject to an endless, agonizing digestion, their
+pain fueling the creature and its extraplanar home.
+
+
+
+
+78                                         Tormentor Cults Faction Guide
+The Faded                                                   Faded
+
+Though not Collector Entities themselves, the
+Faded play a pivotal role in the intricate ecosystem
+of the Prison Realm, serving as the sustenance
+upon which it thrives.
+
+Those sacrificed by the Tormentor Cults find their
+souls hurled through the tumultuous void into the
+chilling embrace of the Prison Realm. Here, they
+endure an eternity of torment, their agonies
+harvested by the countless Collector Entities and
+assimilated into the very fabric of the realm itself.
+
+Any remnants of a Faded's former personality are
+shrouded by a haze of detachment and madness.
+Clinging too tightly to their past memories
+becomes an unbearable burden in the face of
+unending suffering in this dark domain.
+
+
+
+
+                                         Tormentor Cults Faction Guide   79
+80   Tormentor Cults Faction Guide
+The Jailer
+   Among the most formidable subjects of the Prison Lord, the Jailer embodies the essence of abject
+terror and insatiable greed that permeates the grim expanse of its realm. It reigns supreme within its
+domain, the Fortress of Anguish—a macabre labyrinth of iron-barred cells teeming with agonised screams.
+The souls of those sacrificed to the Jailer are forever trapped here, their tormented cries echoing endlessly
+through the spiralling halls, fuelling the entity's essence for eternity.
+         To even just entreat with the Jailer is a momentous blessing for the zealous followers of the
+Tormentor Creed. Its cryptic and violent messages, transmitted through the veil, are meticulously
+deciphered by deranged mystics and translated into dreadful directives for the Tormentor Cults. These
+orders disseminate slowly across the myriad Cult cells throughout Doaden, igniting waves of violence and
+terror that further nourish the Jailer and its dark master.
+
+At the apex of their power, when the Tormentor Cults manage to rupture a significant tear between
+Doaden and the Prison Realm, they may draw the attention of the Jailer itself. Emerging from a pool of
+blood and viscera, the Jailer manifests as a titanic force of violence—a living avatar of the Tormentor Cult’s
+dark creed.
+What ensues after such a summoning is an orgiastic rampage of violence and destruction. Driven by an
+insatiable hunger for fresh souls, the Jailer bursts forth from its dank lair, demolishing stone walls and
+shattering wooden palisades in its relentless pursuit of prey. Only the most formidable heroes or entire
+brigades of the Penitent Crusade have been recorded to confront and subdue the horror, casting it back
+into the dread realm from whence it came.
+
+
+
+
+                                         Tormentor Cults Faction Guide                                     81
+Jailer’s Lair
+Tormentor Cultists work tirelessly to construct
+Hecatombs — swirling pools filled with the gore           The Jailer may also be equipped with a special soul-
+and viscera of their victims, infused with powerful       rending blade. In this case, its CR is increased to 23
+magic. These pits are used to open greater rifts to       (50,000 XP) and it replaces its multiattack, whip attack,
+                                                          and sweeping whip actions with the following actions
+the Prison Realm, and able to summon forth
+                                                          and legendary action:
+powerful manifestations of fiendish beings,
+including the Jailer – a physical embodiment of the
+Prison Lord itself. While the Jailer is within a
+chamber containing a Hecatomb, it is considered to
+be in its lair. Cultists are never far from a
+Hecatomb. As the Jailer fights, they crawl out of
+every nook and cranny, throwing themselves into
+the blood pit, sacrificing their souls to empower
+and heal their dark lord.
+
+Lair Actions
+On initiative count 20 (losing initiative ties), the
+Jailer can take a lair action to cause one of the
+following effects:
+• Call Cultists. 6 cultists join the fight, anywhere
+     within 15 to 60 feet of the Hecatomb and under
+     the Jailer’s control. These cultists will never
+     attack, using their actions only to run into a
+     blood pit and await their sacrifice, hands raised
+     in worship, ready to be subsumed.
+• Subsume Flesh. Any cultist standing within the
+     Hecatomb immediately dies. The Jailer heals
+     1d12 hit points for each cultist killed this way.
+
+
+
+
+82                                        Tormentor Cults Faction Guide
+The Jailer (CR 21)
+
+
+
+
+                     Tormentor Cults Faction Guide   83
+84   Tormentor Cults Faction Guide
+Wailing Leviathan
+                                                           Lair Actions
+The Wailing Leviathan stands as a colossal
+                                                           On initiative count 20 (losing initiative ties), the
+embodiment of anguish, a Collector entity of such
+                                                           Wailing Leviathan can take a lair action to cause
+magnitude that it harbors countless hundreds of
+                                                           one of the following effects. It cannot use the same
+broken souls within its hull-guts, with hundreds
+                                                           lair action twice in a row.
+more suffusing its massive limbs. The haunting
+                                                           • Fearful Wail. The Wailing Leviathan releases a
+chorus that emanates from these pitiful shades is
+                                                                haunting wail that affects all creatures in a 120-
+what lends the Wailing Leviathan its name.
+                                                                foot cone. Each creature in the area must
+     Supported by immense, trunk-like legs, its
+                                                                succeed on a DC 24 Wisdom saving throw or
+gargantuan form resembles a walking fortress
+                                                                become frightened and gain disadvantage on
+crafted from the shattered remnants of a mighty
+                                                                all ranged attack rolls and Perception checks
+seafaring vessel.
+                                                                relying on sight until the end of its next turn.
+     Functioning as a mobile prison, the leviathan's
+                                                           • Agonizing Wail. The Wailing Leviathan
+hollow body is filled with victims, echoing with the
+                                                                unleashes forth a torrent of wailing, causing
+anguished cries of the damned and the clangor of
+                                                                psychic disturbances in a 60-foot radius around
+its infernal construction.
+                                                                it. Each other creature in the area must
+     To summon this behemoth into the mortal
+                                                                succeed on a DC 24 Wisdom saving throw or
+realm would take a ritual of such terrible anguish
+                                                                take 35 (10d6) psychic damage.
+that it does not bear considering, and the chaos
+and damage the Leviathan’s manifestation would
+cause would certainly be the stuff of legend.
+
+Wailing Leviathan’s Lair
+The Wailing Leviathan wanders the
+wastelands,     amidst     ruins     and
+wreckages of the past. The area is
+suffused with a chilling mist, and the
+wails of tormented souls can be heard
+echoing through the fog.
+The environment is hazardous,
+with      collapsing     structures,
+treacherous footing, and the
+constant threat of attacks from
+lesser fiends.
+
+
+
+
+                                           Tormentor Cults Faction Guide                                       85
+86   Tormentor Cults Faction Guide
+Wailing Leviathan
+
+
+
+
+                    Tormentor Cults Faction Guide   87
+88   Tormentor Cults Faction Guide
+TORMENTOR ARTIFACTS
+Cult-flavored artifacts provide tangible rewards that draw players deeper into the dark mystique of the
+Tormentor Cults. These items range from common trinkets to powerful legendary relics, each imbued
+with the malevolent essence of the cult. You should distribute these artifacts at your discretion, but we
+suggest rewarding players after significant encounters with a Harbinger or other major cult figure.
+Alternatively, the party may be able to purchase them for a Burden, the lone prisoner.
+
+
+
+
+                                        Tormentor Cults Faction Guide                                 89
+Uncommon Items
+
+
+
+
+90               Tormentor Cults Faction Guide
+Tormentor Cults Faction Guide   91
+92   Tormentor Cults Faction Guide
+Tormentor Cults Faction Guide   93
+Rare Items
+
+
+
+
+94           Tormentor Cults Faction Guide
+Tormentor Cults Faction Guide   95
+96   Tormentor Cults Faction Guide
+Very Rare Items
+
+
+
+
+                  Tormentor Cults Faction Guide   97
+98   Tormentor Cults Faction Guide
+Legendary Items
+
+
+
+
+                  Tormentor Cults Faction Guide   99
+100   Tormentor Cults Faction Guide
+UNIQUE NPCS
+  Two unique NPCs can be added to a campaign to          trove and a source of unique magical items for the
+add some depth and cultish flavor to the party’s         players.
+social encounters.
+                                                             The connection between the two is one of
+   The Lone Prisoner and his companion, the Brute,       survival and necessity.
+are a traveling pair who can offer quests, provide           The Lone Prisoner, despite his fractured mind,
+valuable information, or serve as allies and             leads the pair’s actions, guiding the Brute with a
+merchants. The Lone Prisoner and the Brute have          mix of desperation and cunning. The Brute, devoid
+endured much suffering and torment, their wills          of independent thought, follows and protects the
+not entirely shackled to the Prison Lord, allowing       Lone Prisoner, their bond forged in the shared
+them a semblance of free will.                           suffering of the Prison Realm. Together, they
+                                                         navigate the world, seeking solace, revenge, or
+   This ambiguous alignment makes them complex           perhaps a way to finally break free from their
+characters who can interact with the party in            tormented existence.
+various ways. They are not driven by the same
+fanatical devotion as the other cultists, and their         These NPCs can be used in various ways to
+experiences have left them with a unique                 enrich your campaign. The Lone Prisoner, with his
+perspective on the cult and its dark lord.               eerie knowledge and unsettling presence, can
+                                                         provide quests, offer cryptic advice, or even sell
+   The Lone Prisoner is a pitiful figure, a once-        cult-flavored artifacts pulled from the Brute's cage.
+cultist who has been broken and remade multiple          This dynamic duo adds a layer of mystery and
+times within the Prison Realm. His mind is               interaction that can lead to memorable encounters
+fragmented, speaking with many voices of the             and plot twists.
+souls trapped within him.
+   Despite his unsettling appearance and eerie
+behavior, he is not aggressive and can provide
+valuable information, guidance, and even quests to
+the players. His motivations are driven by a strange
+quest of his own, often leading him into the dark
+catacombs and hidden places where the cult
+operates.
+
+    The Brute, on the other hand, is a massive,
+mindless servant who follows the Lone Prisoner,
+bearing a cage on his back that serves as a portal to
+the Prison Realm. He is fiercely protective of the
+Lone Prisoner and will defend him with brute force.
+    The Brute is primarily a follower, acting on the
+Prisoner’s commands and ensuring his safety. From
+within his cage, he can pull all manner of strange
+items and artifacts, making him a mobile treasure
+
+
+
+                                         Tormentor Cults Faction Guide                                    101
+102   Tormentor Cults Faction Guide
+Burdun, the Lone Prisoner                                    Lone Prisoner
+
+
+Burdun, the Lone Prisoner is a mysterious and
+pitiable figure, a cultist who has lost his way in the
+labyrinthine Tormentor Creed.
+
+He speaks with many voices, suggesting multiple
+souls trapped within his tortured mind. Despite his
+unsettling appearance, he is not aggressive and can
+be a valuable source of information or assistance.
+
+
+
+
+                                          Tormentor Cults Faction Guide      103
+The Brute                                                   The Brute
+
+
+The Brute is a massive, mindless servant who
+follows the Lone Prisoner, bearing a cage on his
+back that serves as a portal to the Prison Realm.
+
+From within this cage, the Brute can pull all manner
+of strange items and artifacts. He is fiercely
+protective of the Lone Prisoner and will defend him
+with brute force.
+
+
+
+
+104                                      Tormentor Cults Faction Guide
+Tormentor Cults Faction Guide   105
+     LICENSE                                                            represent that Your Contributions are Your original creation
+     OPEN GAME LICENSE Version 1.0a                                     and/or You have sufficient rights to grant the rights conveyed by
+     The following text is the property of Wizards of the Coast, Inc.   this License.
+and is Copyright 2000 Wizards of the Coast, Inc ("Wizards"). All             6.Notice of License Copyright: You must update the
+Rights Reserved.                                                        COPYRIGHT NOTICE portion of this License to include the exact
+     1. Definitions: (a)"Contributors" means the copyright and/or       text of the COPYRIGHT NOTICE of any Open Game Content You are
+trademark owners who have contributed Open Game Content;                copying, modifying or distributing, and You must add the title, the
+(b)"Derivative Material" means copyrighted material including           copyright date, and the copyright holder's name to the
+derivative works and translations (including into other computer        COPYRIGHT NOTICE of any original Open Game Content you
+languages), potation, modification, correction, addition,               Distribute.
+extension, upgrade, improvement, compilation, abridgment or                  7. Use of Product Identity: You agree not to Use any Product
+other form in which an existing work may be recast, transformed         Identity, including as an indication as to compatibility, except as
+or adapted; (c) "Distribute" means to reproduce, license, rent,         expressly licensed in another, independent Agreement with the
+lease, sell, broadcast, publicly display, transmit or otherwise         owner of each element of that Product Identity. You agree not to
+distribute; (d)"Open Game Content" means the game mechanic              indicate compatibility or co-adaptability with any Trademark or
+and includes the methods, procedures, processes and routines to         Registered Trademark in conjunction with a work containing Open
+the extent such content does not embody the Product Identity and        Game Content except as expressly licensed in another,
+is an enhancement over the prior art and any additional content         independent Agreement with the owner of such Trademark or
+clearly identified as Open Game Content by the Contributor, and         Registered Trademark. The use of any Product Identity in Open
+means any work covered by this License, including translations          Game Content does not constitute a challenge to the ownership
+and derivative works under copyright law, but specifically excludes     of that Product Identity. The owner of any Product Identity used
+Product Identity. (e) "Product Identity" means product and              in Open Game Content shall retain all rights, title and interest in
+product line names, logos and identifying marks including trade         and to that Product Identity.
+dress; artifacts; creatures characters; stories, storylines, plots,          8. Identification: If you distribute Open Game Content You
+thematic elements, dialogue, incidents, language, artwork,              must clearly indicate which portions of the work that you are
+symbols, designs, depictions, likenesses, formats, poses, concepts,     distributing are Open Game Content.
+themes and graphic, photographic and other visual or audio                   9. Updating the License: Wizards or its designated Agents may
+representations; names and descriptions of characters, spells,          publish updated versions of this License. You may use any
+enchantments, personalities, teams, personas, likenesses and            authorized version of this License to copy, modify and distribute
+special abilities; places, locations, environments, creatures,          any Open Game Content originally distributed under any version
+equipment, magical or supernatural abilities or effects, logos,         of this License.
+symbols, or graphic designs; and any other trademark or                      10. Copy of this License: You MUST include a copy of this
+registered trademark clearly identified as Product identity by the      License with every copy of the Open Game Content You Distribute.
+owner of the Product Identity, and which specifically excludes the           11. Use of Contributor Credits: You may not market or
+Open Game Content; (f) "Trademark" means the logos, names,              advertise the Open Game Content using the name of any
+mark, sign, motto, designs that are used by a Contributor to            Contributor unless You have written permission from the
+identify itself or its products or the associated products              Contributor to do so.
+contributed to the Open Game License by the Contributor (g)                  12. Inability to Comply: If it is impossible for You to comply
+"Use", "Used" or "Using" means to use, Distribute, copy, edit,          with any of the terms of this License with respect to some or all of
+format, modify, translate and otherwise create Derivative               the Open Game Content due to statute, judicial order, or
+Material of Open Game Content. (h) "You" or "Your" means the            governmental regulation then You may not Use any Open Game
+licensee in terms of this agreement.                                    Material so affected.
+     2. The License: This License applies to any Open Game Content           13. Termination: This License will terminate automatically if
+that contains a notice indicating that the Open Game Content may        You fail to comply with all terms herein and fail to cure such breach
+only be Used under and in terms of this License. You must affix         within 30 days of becoming aware of the breach. All sublicenses
+such a notice to any Open Game Content that you Use. No terms           shall survive the termination of this License.
+may be added to or subtracted from this License except as                    14. Reformation: If any provision of this License is held to be
+described by the License itself. No other terms or conditions may       unenforceable, such provision shall be reformed only to the extent
+be applied to any Open Game Content distributed using this              necessary to make it enforceable.
+License.                                                                     15. COPYRIGHT NOTICE Open Game License v 1.0a Copyright
+     3.Offer and Acceptance: By Using the Open Game Content You         2000, Wizards of the Coast, Inc.
+indicate Your acceptance of the terms of this License.                       System Reference Document 5.0 Copyright 2016, Wizards of
+     4. Grant and Consideration: In consideration for agreeing to       the Coast, Inc.; Authors Mike Mearls, Jeremy Crawford, Chris
+use this License, the Contributors grant You a perpetual,               Perkins, Rodney Thompson, Peter Lee, James Wyatt, Robert J.
+worldwide, royalty-free, nonexclusive license with the exact terms      Schwalb, Bruce R. Cordell, Chris Sims, and Steve Townshend,
+of this License to Use, the Open Game Content.                          based on original material by E. Gary Gygax and Dave Arneson.
+     5.Representation of Authority to Contribute: If You are            END OF LICENSE
+contributing original material as Open Game Content, You
+
+
+106                                                   Tormentor Cults Faction Guide
+www.bestiarumgames.com
+    © Bestiarum Studio LLC 2024
+
+
+
+
+      Tormentor Cults Faction Guide   107
+

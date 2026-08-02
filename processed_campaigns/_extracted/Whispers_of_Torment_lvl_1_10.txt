@@ -1,0 +1,920 @@
+  “The path to redemption is a treacherous journey walked alone,
+     each step resonating with the sorrow of a thousand sins."
+
+
+
+
+                                                   CREDITS
+Writer/Designer: Alexander H. Dovermann                             Layout & Photography: Marcus Harland
+
+Art Direction: Alexei Popovici                                      Produced by: Bestiarum Games
+
+Graphic Design: Iustinian Iacomachi                                 Additional imagery produced using AI.
+
+
+
+Ownership and Copyright
+This product is compliant with the Open Game License and is suitable for use with the 5th Edition rules system.
+Product Identity: The following items are hereby identified as Product Identity, as defined in the Open Game License version
+1.0a, Section 1(e) and are not Open Content:
+
+All trademarks, registered trademarks, proper names (characters, deities, etc.) dialogue, plots, storylines, locations, characters,
+illustrations, and trade dress. (Elements that have previously been designated as Open Game Content or are in the public
+domain are included in this declaration.)
+
+Open Content: Except for material designated as Product Identity (see above), the game mechanics of this game product are
+Open Game Content, as defined in the Open Game License version 1.0a Section 1(d). No portion of this work other than the
+material designated as Open Game Content may be reproduced in any form without written permission.
+
+Whispers of Torment: A Tormentor Cults Adventure © 2024 Bestiarum Studio LLC
+Return of the Jailer: A Tormentor Cults Adventure © 2024 Bestiarum Studio LLC
+Tormentor Cults: Faction Guide © 2024 Bestiarum Studio LLC
+
+Reference to copyright material in no way constitutes a challenge to the respective copyright holder of that material. Bestiarum
+Games, Bestiarum Miniatures, Tormentor Cults, the Tormentor Cults Logo, and the Bestiarum Logo are trademarks of
+Bestiarum Studio LLC
+                                       FOREWORD
+                 elcome dear adventurer! This           Adventure Difficulty
+
+
+    W
+                 horrifying 5e module, Whispers of
+                                                        The encounters in this module scale in difficulty
+                 Torment, takes the party on a
+                                                        based on the party’s Average Party Level (APL). To
+                 terrifying journey through the cult-
+                                                        find the correct difficulty, determine your party’s
+                 infested St. Pyotr’s Sanitorium.
+                                                        APL and use the correlating difficulty level on the
+                 Before the cult’s arrival, the
+                                                        following table for each designed encounter.
+caretakers of this place harbored many dark
+secrets of their own, conducting deranged
+experiments on their subjects in the name of
+medical research. As the party fights through the
+halls of this forsaken place, they will bear witness
+to its great atrocities, both old and new. Secret
+laboratories are filled with discarded corpses of
+the sanitorium’s subjects, while the halls crawl
+with cultists and eldritch abominations brought
+forth from the sinister realm of their dark lord.
+    The entire facility is under the influence of the
+cult’s dark ritual magics, which are drawing the
+prison realm into reality, a twisting nightmare no      *If the encounters are too easy for your party, you
+mortal was meant to see. The party must race            can adjust the difficulty by adding a few more
+against time as their sanity wanes, defeating the       enemies! Doing so is useful if your party has more
+cult before time runs out. Will they manage to          than 5 players, is on the higher level of the APL
+escape the horrific sanitorium alive, or will they      range, or highly skilled.
+become the next victims of the Tormentor Cults?
+                                                        The Path of Penitence
+                                                        This short scenario can be run as a one-shot
+                                                        adventure or built into a longer campaign using
+                                                        Bestiarum’s Path of Penitence (PoP) system. The
+                                                        PoP system brings the dark world of Doaden to
+                                                        life, creating a persistent world for your party to
+                                                        explore and providing the tools to string together
+                                                        all Bestiarum’s adventure modules into one
+                                                        satisfying campaign. You can join the Crusade and
+                                                        learn more about the campaign system here:
+                                                        https://www.bestiarumgames.com/
+
+
+
+
+2                                             Whispers of Torment
+                                  INTRODUCTION
+                 aint Pyotr’s Sanitorium, once a         The Tormentor Cults. The sanitorium was overrun
+
+
+
+      S
+                 respected institution dedicated to      a few months ago by a devious group of cultists,
+                 the advancement of medicine and         the Tormentor Cults. They worship the Prison
+                 the treatment of the infirm, now        Lord, a malevolent entity from beyond our reality
+                 lies desecrated, overtaken by the       that feasts on anguish and torment. These cultists,
+                 vile Tormentor Cults. Set a few         drawn to sites of atrocious inhumanity like moths
+days journey from the nearest township, this             to flame, use the psychic energies of torturous
+isolated place stands outwardly as a testament to        suffering to fuel their rituals, seeking to open
+the altruistic practice of medicine, though this         gates to their master’s realm. The cult has
+façade hides the darker dealings of its caretakers       overtaken the sanitorium and are torturing the
+who conducted secret and tortuous experiments            priests and surviving patients, culling their lives in
+on their patients.                                       service of this dark goal.
+    A few months ago, a group of cultists, drawn
+by the suffering of this place, invaded the
+sanitorium and are performing a dark ritual that
+threatens to merge their eldritch realm with our
+reality. The party’s task is daunting: infiltrate the
+sanitorium, disrupt the ritual, and restore order
+before the cult’s influence irrevocably alters the
+fabric of existence.
+
+Adventure Background
+The following information is for the GM to
+understand the adventure. The party should not
+know this information beforehand.
+
+Sanitorium's Past. The sanitorium is dedicated to
+St. Pyotr, a renowned healer whose skills seemed
+touched by divinity. The facility, however, houses
+a dark secret. Under the stewardship of head
+priest Ignatius, the priests running the institution
+conducted dark experiments on their subjects,
+using the facilities as a macabre laboratory for
+their medical experiments. Ignatius, obsessed with
+understanding the inherent corruption in mortal
+beings, sanctioned horrific experiments—breaking
+the minds of his subjects and dissecting their still-
+living bodies to uncover the dark secrets coursing
+through their veins. The evidence of these
+                                                                        St. Pyotr’s Sanitorium
+atrocities can still be found in hidden laboratories
+and chambers in the building.
+
+                                              Whispers of Torment                                            3
+Madness Rolls. The Prison Realm has begun to
+bleed into the sanitorium already, causing horrific
+visions and effects on those who intrude. Hallways
+stretch into impossible geometries, shadows
+flicker with spectral forms, and the air is thick with
+the screams of the damned. At certain points of
+the story, the party will make a Madness Roll after
+being exposed to a particularly horrific sight or
+phenomenon. In these cases, ask all party
+members to make a DC10 Wisdom saving throw,
+and on a failure, have them roll once on the
+following Long-Term Madness table.
+
+
+
+
+4                                             Whispers of Torment
+                                                       Opening Script
+Adventure Hooks
+                                                       To start the adventure read this script.
+Use one of the following adventure hooks to begin
+this scenario or create your own.
+
+•   Lost Refuge. While lost in the dense woods
+    nearby, the party stumbles upon the
+    sanitorium. Seeking shelter from an
+    impending storm, they soon realize that the
+    true danger lies within the walls of this
+    forsaken asylum.
+
+•   A Cry for Help. The party encounters a
+    survivor from the sanitorium, a gibbering
+    madman who speaks in riddles and
+    prophecies. His tales of horror and whispers of
+    madness lead the adventurers to the
+    threshold of the institution.
+
+•   Path of Penitence. Sent by the Penitent
+    Crusade, the party is tasked with investigating
+    a surge of dark energy emanating from the
+    sanitorium. This mission ties directly into the
+    Path of Penitence campaign system.
+
+
+
+
+                                            Whispers of Torment                                   5
+6   Whispers of Torment
+                                      ADVENTURE
+                he party begins on the front steps      A2) Vestibule
+
+
+     T
+                of the sanitorium. They must
+                                                        The first room is the vestibule, at the center of
+                navigate the building and foil the
+                                                        which stands a statue of Saint Pyotr, the
+                cult’s ritual, uncovering the
+                                                        namesake of the sanitorium. If the party inspects
+                institution’s dark past as they
+                                                        the placard, read this script.
+                explore. The sanitorium is split into
+three levels as shown on the included map. Level
+A is the ground floor. Level B is the upper floor.
+Level C is the underground dungeons.
+
+
+
+
+                                                        History Check. After inspecting the statute, the
+                                                        party may make an Intelligence (History) check to
+                                                        see if they know anything else about St. Pyotr. The
+                                                        character that performs the check knows all the
+                                                        information on the following History Check table
+Level A (Ground Floor)                                  which they roll high enough to unveil.
+The following areas correspond to level A, the
+ground floor. The party starts in area A1. outside
+of the sanatorium main entrance.
+
+A1) Main Entrance
+A short stairway ascends the building’s main
+entrance. The door is unlocked. When the party
+enters, read this script.
+
+
+
+
+                                             Whispers of Torment                                            7
+8   Whispers of Torment
+A3) Main Hallway                                        Investigation Check. Ask the party to make a DC
+                                                        10 Intelligence (Investigation) check. On a success,
+This hallway serves as the central artery of the
+                                                        they can tell from some moldy bread and rotten
+ground floor, connecting rooms A2, A4, and A8, as
+                                                        fruit that the food is a few months old. It appears
+well as leading to the outside cloister garden at
+                                                        the sanitorium’s life was suddenly interrupted
+A7. Read this script as the party enters.
+                                                        around that time.
+
+                                                        A5) Pantry
+                                                        The pantry is a compact room tucked away behind
+                                                        the dining hall. Many of the food supplies stored
+                                                        here have spoiled or been consumed by pests.
+                                                        Amidst the clutter, a narrow staircase descends
+                                                        into the darkness, leading to area C1, the
+                                                        undercroft.
+
+                                                        Perception Check. Ask the party to make a
+                                                        Wisdom (Perception) check to search for useful
+A4) Dining Room                                         items amidst the abandoned supplies. They find all
+                                                        items on the following Perception Check table
+The dining room lies in quiet decay. Long tables        which they roll high enough for.
+stretch the length of the hall, each set with plates
+and cutlery, the remnants of meals long since
+abandoned. Over time, the food has rotted away,
+leaving only desiccated scraps and the pungent
+odor of decay. Read this script as the party enters.
+
+
+
+
+                                             Whispers of Torment                                           9
+A6) Kitchen                                           Madness Roll. The sight of the rats eating the
+                                                      priest has disturbed the party’s sanity. Ask the
+The kitchen is a chaotic mess. Pots and pans are
+                                                      party to make a Madness Roll (DC 10 Wisdom
+strewn about. Utensils litter the floor, and broken
+                                                      saving throw) and refer to the Introduction
+crockery is scattered across the stained tiles. One
+                                                      section for the results.
+of the priests was working here when the cults
+slaughtered him and left his corpse behind. Read
+                                                      Investigation Check. The party can investigate the
+this script as the party enters.
+                                                      body for clues. If they succeed on a DC 10
+                                                      Intelligence (Investigation) check, they find several
+                                                      deep slash wounds on the body, as if cut by a
+                                                      bladed weapon. A slash across his throat is the
+                                                      likely cause of death.
+
+
+
+
+10                                          Whispers of Torment
+A7) The Cloister Garden                                  Trapdoor. There is a locked trapdoor in the
+                                                         garden, which descends to area C2, the Body
+The outdoor garden was once a calming area, but
+                                                         Disposal Pit. A staircase behind the door leads
+it has fallen into disrepair since the cult took over
+                                                         down a small shaft, which the caretakers used as a
+and is overgrown from neglect. Read this script as
+                                                         maintenance shaft to remove bodies from the pit.
+the party enters the area.
+                                                         The pit hasn’t been emptied in many months and
+                                                         is full of mutilated corpses, evidence of the
+                                                         priests’ horrific research projects. Like the rest of
+                                                         the locked doors throughout the sanitorium, the
+                                                         trapdoor can be opened with a DC 15 Dexterity
+                                                         (Sleight of Hands) check using thieves’ tools.
+                                                         Otherwise, it can be unlocked with the Keyring
+                                                         found on Father Ignatius’s body in area B7.
+
+
+
+
+Encounter. The following enemies are present
+here patrolling the courtyard. They should attack
+the party on sight.
+
+
+
+
+                                              Whispers of Torment                                          11
+12   Whispers of Torment
+A8) Cult Chapel                                         Final Encounter
+                                                        The chapel, once the heart of the sanitorium, has
+The chapel was a place of worship where the             been transformed into a nexus for the cult’s dark
+caretakers would gather each day for prayer and
+                                                        ritual. Inside, the Herald of Agony has been
+to indoctrinate their subjects for hours with holy
+                                                        opening a rift to the Prison Lord’s dimension,
+litanies, attempting to heal their sicknesses with      merging the building into a state of twisted
+devotions. Now the chapel is overtaken by the           madness. When the party enters, read this script.
+cultists who use it for their dark rituals. When the
+party approaches, read this script.
+
+
+
+
+Special Door. The main door is locked, but you
+should not allow the party to pick it. The only way
+to open this door is with the Keyring in area B7.
+
+
+
+
+                                             Whispers of Torment                                       13
+14   Whispers of Torment
+Encounter. The following enemies are present
+here. You can use Map B: Cult Chapel to represent
+the area. Place the enemies around the altar or in
+a semi-circle below it. The party should be placed
+along the bottom edge of the map, at the
+opposite end from the altar. The pews can be
+climbed over but count as difficult terrain, costing
+twice the normal movement to scale. The Herald
+of Agony uses two statblocks for this encounter, a
+CR 3 version for lower levels and a CR 9 version for
+higher levels. The room counts as the herald’s lair.   Ending the Encounter. When the party defeats
+                                                       the Herald of Agony and his minions, the ritual’s
+                                                       taint will begin to recede from the area. Review
+                                                       the Ending the Adventure section to bring the
+                                                       scenario to a close. Before concluding the
+                                                       adventure, the party should be allowed to
+                                                       continue to explore any remaining rooms in the
+                                                       sanitorium, in particular the hidden laboratory
+                                                       and body pit in areas C2 and C3 if they have not
+                                                       done so already.
+
+
+
+
+Loot. If the party defeats the Herald of Agony, roll
+1d20. They find the item corresponding to the
+highest score they reach. Add a bonus to the score
+depending on the adventure difficulty.
+
+
+
+
+                                            Whispers of Torment                                        15
+16   Whispers of Torment
+A9) South Belfry (Ground Floor)                        Climbing the Tower. The tower is difficult as the
+                                                       only unstable handholds are broken sections of
+The southern tower, standing 70 feet tall, is one of
+                                                       scaffolding that still protrude from the wall. A PC
+two mirrored towers, each containing a belfry.
+                                                       may attempt to climb the tower by making a DC
+Unfortunately, the wooden stairway that ascend
+                                                       20 Dexterity (Acrobatics) check. On a failure, they
+the tower has collapsed, making it difficult to
+                                                       slip and fall. Roll 1d6 and they fall a total of 10
+climb. A safer route may be taken by finding the
+                                                       times the result in feet, taking 1d6 bludgeoning
+northern tower in area A10. If the party enters
+                                                       damage for every 10 feet fallen. For parties of APL
+the tower from the ground floor, read the
+                                                       2 or lower, reduce the character to 0 hit points
+following script. Otherwise, if they enter the
+                                                       but do not kill them outright if they lose all their
+tower for the first time from the second floor,
+                                                       hit points from this fall. If the party does manage
+they see the priest’s body already hanging. The
+                                                       to climb the tower, they make it to area B2.
+priest is one of the caretakers, a victim of the
+cult’s violence.
+                                                       A10) North Belfry (Ground Floor)
+                                                       The north tower mirrors the southern one,
+                                                       standing 70 feet tall with a belfry at the top. An
+                                                       intact wooden stairway ascends the tower,
+                                                       rotating several times around the chamber as it
+                                                       ascends to the top floor, area B1.
+
+
+
+
+                                            Whispers of Torment                                             17
+A11) Pyotr’s Alcove                                 Hidden Stairway. Like the rest of the locked doors
+                                                    throughout the sanitorium, the sarcophagus can
+This chamber is a small, secluded room of worship
+                                                    be opened with a DC 15 Dexterity (Sleight of
+dedicated to Saint Pyotr. Dominating the space is
+                                                    Hands) check using thieves’ tools or unlocked with
+When the party enters the area, read this script.
+                                                    the Keyring found on Father Preston’s body in
+                                                    area B7. If the sarcophagus is unlocked, its heavy
+                                                    stone lid can be opened, revealing a secret
+                                                    stairway descending to the hidden laboratory,
+                                                    area C3. The laboratory contains evidence of vile
+                                                    experimentation by the priestly caretakers of the
+                                                    Sanitorium, along with the remains of many of
+                                                    their victim subjects.
+
+                                                    A12) Vestry
+                                                    The vestry was a storeroom for the religious
+                                                    paraphernalia and garments used by the priestly
+                                                    caretakers. The small room is lined with wooden
+                                                    cabinets and shelves, which hold an array of
+                                                    clerical robes, chalices, and other sacred items, all
+                                                    covered in a thick layer of dust.
+
+                                                    Perception Check. If the party searches the room
+                                                    for valuables, they should make a DC 10 Wisdom
+                                                    (Perception) check. On a success, the party finds
+                                                    1d4 several silver chalices and religious items,
+                                                    worth 15 gp each.
+
+
+
+
+18                                        Whispers of Torment
+Whispers of Torment   19
+LEVEL B (UPPER Floor)
+The following areas correspond to Level B (Upper
+Floor).
+
+B1) North Belfry (Upper Floor)
+The North Belfry on the upper floor is a high,
+narrow chamber that houses one of the
+sanitorium's twin bells. The bell housed here,
+although dust-covered and silent, remains intact
+and poised high above in the tower. The wooden
+framework supporting the bell is sturdy. Large,
+arched windows, though grimy, still hold their
+glass, filtering the outside light into a somber
+illumination within the chamber.
+
+B2) South Belfry (Upper Floor)
+The South Belfry on the upper floor is a high,
+narrow chamber that houses the sanitorium's
+second bell. Review area A9 to see what the party
+can see looking down towards the bottom of the
+tower. If they enter this area before A9, the victim
+priest will have already been killed and his body
+will be hanging from the bell.
+
+B3) Upper Hallway
+The upper hallway links to all the other rooms on
+the floor. The passage is lined with faded paint
+and the floorboards creak ominously underfoot,
+betraying the age of the building. As the party
+enters, they will begin to see some of the physical
+effects of the Prison Realm creeping over into real
+space. Strange illusions and corruption have
+begun to spread in the area.
+
+
+
+
+20                                           Whispers of Torment
+B4) Patient Cells
+This section of the sanitorium was dedicated to
+holding the caretakers’ many deranged subjects.
+The corridor is lined with small cells, their barred
+doors rusted and creaking. Most are empty, the
+patients either slain by the priests in the process
+of dissecting them for medical research or
+sacrificed in dark rituals by the cultists. However,
+one disheveled occupant remains, lost to his own
+madness. His twisted psyche was easily influenced
+by the Prison Lord’s magics which now seep into
+the sanitorium. The cult, seeing his madness, have
+left him here alive, a kindred soul in suffering. As
+the party comes to the patient, he will lose himself
+entirely to the cult’s madness in a gruesome
+display of self-mutilation. Read this script as the
+party enters.
+
+
+
+
+Madness Roll. The sight of the deranged patient
+clawing at his own face has disturbed the party’s
+sanity. Ask the party to make a Madness Roll (DC
+10 Wisdom saving throw) and refer to the
+Introduction section for the results.
+
+
+                                            Whispers of Torment   21
+B5) Caretaker Dormitory                                B6) Library
+The dormitory once served as living quarters for       The library, once a repository of knowledge and
+the priestly staff who maintained and ran the          sanctuary for study, now presents a scene of utter
+sanitorium. The room contains several small beds,      devastation. The tortured body a few of the
+each paired with a wooden chest at the foot. The       patients have been impaled on spikes here. Read
+bedding is tattered and dusty, untouched for           this script when the party enters.
+months since the cult took over, and personal
+belongings are scattered as if left in a hurry. Read
+this script as the party enters.
+
+
+
+
+Perception Check. As the party investigates the
+dormitory, allow them to make a Wisdom
+(Perception) check to search for useful items          Perception Check. As the party investigates the
+amidst the priests’ belongings. They find all items    dormitory, allow them to make a DC 10 Wisdom
+on the following Perception Check table which          (Perception) check to search for useful items in
+they roll high enough for.                             the library. On a success, they find a spell scroll of
+                                                       the level in the following Perception Check table.
+                                                       The spell written on the scroll is up to you, but you
+                                                       can use the suggestions included on the table if
+                                                       you wish.
+
+
+
+
+22                                           Whispers of Torment
+B7) Ignatius’ Office                                     Ignatius’ Journal. The blood-soaked book near the
+                                                         priest’s body is his journal. It hints at what the
+This room, once the administrative heart of the
+                                                         clergy were doing here, and a way to access the
+sanitorium, is now filled with victims of the cult
+                                                         hidden laboratory in area C3.
+including Father Ignatius himself. When the party
+enters, read this script.
+
+
+
+
+Encounter. The following enemies are present
+here. They should attack the party on sight.
+
+
+
+
+Key Ring. The party can take the keys from
+Ignatius’ robes. It is a heavy keyring with a key to
+every door in the facility. With these in hand, the
+party can open any door around the sanitorium,
+allowing them to access any areas they may not
+have been able to earlier.
+
+
+
+                                              Whispers of Torment                                       23
+24   Whispers of Torment
+LEVEL C (Dungeons)                                     Investigation Check. If the party investigates the
+                                                       wall between area C1 and C2, allow them to make
+The following areas correspond to Level C
+                                                       an Intelligence (Investigation) check to search for
+(Dungeons).
+                                                       anything suspicious. On a success, they find an old
+                                                       empty torch sconce on the wall which, when
+C1) Undercroft                                         pulled, causes a small stone door to slide away
+The undercroft is accessible by a stairway from the    from the wall, granting access to area C2. This
+pantry in area A5 and serves as a storage room for     secret passage can only be opened from the C1
+the sanitorium’s supplies.                             side and cannot be opened from the C2 side.
+The room is cluttered with old furniture and
+broken crates, and the walls are damp and
+covered in mildew. The smell of rotting flesh
+permeates the area, hinting at the mound of
+corpses hiding behind the stone wall in area C2.
+Describe this smell vividly to the party, as well as
+the direction it is coming from.
+
+
+                                            Whispers of Torment                                         25
+C2) Body Disposal Pit
+This grim chamber, deep beneath the sanitorium,
+serves as the final resting place for countless
+unfortunate souls. The pit is a dark, cavernous
+space, its air thick with the stench of death and
+decay. The ground is uneven, covered in a horrific
+mound of decomposing corpses. Each body shows
+signs of dissection or mutilation, a testament to
+the gruesome experiments that were conducted
+above. The area is accessible by a staircase         Nexus of Suffering. The body pit is a terrible
+descending from behind the trap door in area A7,     concentration of suffering made real, a great
+a secret entrance in area C1, or an earthen chute    atrocity the likes of which draws the attention of
+from area C3. When the party enters, read this       the Prison Lord and his Tormentor Cults. The
+script.                                              lingering essence of this inhumanity feeds into the
+                                                     cultists’ rituals above, creating a powerful ley
+                                                     energy that psychically feeds into the Prison
+                                                     Realm, allowing the Prison Lord to grow stronger.
+                                                     If the party uses detect magic here, they can sense
+                                                     the faint energies emanating from the bodies, and
+                                                     a DC 15 Intelligence (Arcana) check reveals that
+                                                     this type of magic can be used to fuel nefarious
+                                                     cult rituals.
+
+
+
+
+26                                         Whispers of Torment
+C3) Hidden Laboratory                                  Medical Notes. If the party investigates the
+                                                       parchment papers by the body, they find a set of
+Accessible by a hidden staircase below St. Pyotr's
+                                                       medical notes regarding the research and twisted
+sarcophagus in area A11, this secret room was
+                                                       experiments conducted by the sanatorium
+once the core of the sanitorium's darkest
+                                                       caretakers upon their unwilling patients. This
+activities, where the caretakers would dissect
+                                                       collection of medical experiments document
+their subjects in the name of scientific research.
+                                                       Father Ignatius and his staff’s inhumane treatment
+When the party enters the room, read this script.
+                                                       of their subjects, dissecting and mutilating them,
+                                                       often still alive, in the name of medical
+                                                       advancement. These heinous acts, and the
+                                                       suffering of their patients, is what drew the
+                                                       attention of the Tormentor Cultists, and led to the
+                                                       cult takeover of the facilities in service to their
+                                                       Prison Lord, the Jailer.
+                                                           What this research points to is a terrifying
+                                                       reality in the world of Doaden. Corruption is a real
+                                                       and physical phenomenon, and inescapable
+                                                       plague that infects and grows within every mortal
+                                                       from their inception to their death. Though the
+                                                       corruption is not fully understood, it is inevitable
+                                                       and inescapable, a blight that grows in the soil,
+                                                       dusts the air, and accumulates in the flesh of all
+                                                       living beings. Much is yet to be learned about this
+                                                       blight, a mystery to be unraveled another day.
+
+                                                       Sealed Sarcophagus. The sarcophagus in area A11
+                                                       can only be unlocked and opened from above. If
+                                                       the party has not already unlocked the
+                                                       sarcophagus, they will have to go back and find
+Earthen Chute. The party can use the chute in the      another way out.
+room to descend to area C2, sliding all the way
+down. They fall 10 feet at the end, taking 1d6
+falling damage. Characters can descend the chute
+without having to pass any checks, but to ascend
+they must succeed on a DC 15 Acrobatics check. If
+the party has not already explored area C3,
+describe an overwhelming stench of rotten flesh
+as they approach the chute, hinting at the mound
+of decomposing bodies that have been dumped
+there.
+
+
+
+
+                                            Whispers of Torment                                         27
+28   Whispers of Torment
+Ending the Adventure                                    No Escape. The adventurers are bound to the fate
+                                                        of the sanitorium until the herald of agony is truly
+After the herald of agony's defeat, the thick veil of
+                                                        defeated. Should they choose to flee before
+corruption that has been suffocating the
+                                                        accomplishing this task, their minds will continue
+sanitorium will begin to dissolve. The dark
+                                                        to fray, plagued by worsening insanities. These
+energies will slowly recede, signaling the retreat of
+                                                        symptoms are harbingers of their unresolved ties
+the Jailer’s sinister forces at work. Here are the
+                                                        to the cult's ritual, pulling them inexorably back to
+next steps and considerations in ending the
+                                                        the sanitorium to confront the darkness they left
+adventure or continuing the experience with the
+                                                        behind. Their insanities should not heal, and you
+Tormentor Cults.
+                                                        may in fact ask them to roll for new insanities if
+                                                        they still need an additional push to get back and
+Clearing the Corruption. With the herald's fall, the
+                                                        resolve the adventure.
+ritual effects that warped the sanitorium start to
+unravel. The madness and the creeping blight and
+strange illusions that the party found while
+exploring the sanitorium will begin to fade and
+revert to normal in 1d4 days. Had the parties not
+defeated the cult, the Prison Realm would
+continue to merge with reality creating a bleeding-
+over of the dimension and allowing many demonic
+creatures from that realm to enter the world, a
+surely calamitous event.
+
+                                             Whispers of Torment                                          29
+               What’s Next?
+               The events of this adventure, Whispers of
+               Torment, are but an introduction to the torrid
+               affairs of the Tormentor Cults and their dark
+               patron, the Prison Lord. This adventure merely
+               scratches the surface of the potential horrors and
+               challenges.
+
+                        A second module, Return of the Jailer,
+               escalates the narrative, thrusting the party into a
+               direct confrontation with a physical manifestation
+               of the Prison Lord in a climactic, multi-phase boss
+               fight. The Tormentor Cults Kickstarter Campaign
+               expands the cults even more, with a plethora of
+               monsters, villains, and twisted entities to enrich
+               your dark fantasy settings.
+
+                       The Faction Guide offers extensive
+               resources for creating immersive, chilling
+               adventures in this malevolent universe along with
+               background lore and text. Dive deep into the
+               Tormentor Cults, and let your creativity bring to
+               life new tales of horror in the world of Doaden!
+
+
+
+
+30   Whispers of Torment
+Monsters & NPCs
+
+
+
+
+      Whispers of Torment   31
+     Cultist
+
+
+
+
+                          Bruiser
+
+
+
+
+32             Whispers of Torment
+Demagogue
+
+
+
+
+                        Cagehound
+
+
+
+
+            Whispers of Torment     33
+     Brute Warden
+
+
+
+
+                                  Snatcher
+
+
+
+
+34                  Whispers of Torment
+Herald of Agony                                          screaming faces, and the air thick with the stench
+                                                         of blood and decay. Dark fissures will open in the
+The herald is a formidable servant of the Jailer,        earth to pulse with an eerie glow, releasing
+imbued with dark energies and tasked with                whispers of anguish that chill the soul. Yet even
+ensuring the completion of sinister rituals to open      before the ritual’s completion, in this lair, the
+rifts between the prison realm and reality.              boundaries between the mortal world and the
+Manifesting as a ghastly figure, draped in tattered      prison realm thin, allowing the Herald to draw
+robes that barely conceal its mutilated form, the        upon the Jailer's power directly, enhancing its
+herald exudes an aura of despair and torment. Its        abilities and making it a terror to confront in its
+eyes, glowing with a malevolent red light, seek out      domain.
+the suffering and fear of its victims, which it uses         The herald may infest other places as well. It is
+to fuel its own malefic powers.                          drawn to sites of significant religious or sacred
+                                                         importance that have been corrupted by
+                                                         hypocrisy, brutality, and moral decay. Such places,
+                                                         once hallowed grounds, become focal points for
+                                                         the herald’s nefarious activities. Churches,
+                                                         temples, or sanctuaries that once echoed with
+                                                         prayers and hope but now resound with the cries
+                                                         of the tormented and the echoes of desecration
+                                                         are ideal lairs for the herald. The perversion of
+Herald of Agony’s Lair                                   their once sacred purpose with the current horror
+For this adventure, the herald’s lair is St. Pyotr’s     they host makes these sites particularly potent for
+Sanitorium, which has been twisted by dark magic         the herald’s rituals. These locations serve as
+into a horrific reflection of the Prison Lord’s realm.   perfect conduits for the herald's rituals, enabling
+If the herald’s ritual is complete, the bleeding-over    easier access to the dark energies needed to
+of the realm in the sanitorium becomes                   bridge the mortal world with the Prison Lord’s
+indistinguishable from his dark master’s realm.          realm.
+The walls will become strange and etched with
+
+                                              Whispers of Torment                                          35
+     Herald of Agony (CR 3)
+
+
+
+
+Lair Actions
+On initiative count 20 (losing initiative ties), the
+herald can take a lair action to cause one of the
+following effects:
+                                                        •    Shadowy Chains. Shadows coalesce into
+• Necrotic Pulse. The herald emits a pulse of
+                                                             chains to grapple and restrain up to two
+     necrotic energy. Each enemy creature within
+                                                             creatures within 60 feet of the herald.
+     30 feet of the herald must make a DC 13
+                                                             Affected creatures must succeed on a DC 13
+     Constitution saving throw, taking 4 (1d8)
+                                                             Strength saving throw or be restrained until
+     necrotic damage on a failed save, or half as
+                                                             the end of their next turn.
+     much damage on a successful one.
+
+
+
+
+36                                            Whispers of Torment
+  Herald of Agony (CR 9)
+
+
+
+
+Lair Actions
+On initiative count 20 (losing initiative ties), the
+herald can take a lair action to cause one of the
+                                                         •   Shadowy Chains. Shadows coalesce into
+following effects:
+                                                             chains to grapple and restrain up to two
+• Necrotic Pulse. The herald emits a pulse of
+                                                             creatures within 60 feet of the herald.
+     necrotic energy. Each enemy creature within
+                                                             Affected creatures must succeed on a DC 16
+     30 feet of the herald must make a DC 16
+                                                             Strength saving throw or be restrained until
+     Constitution saving throw, taking 18 (4d8)
+                                                             the end of their next turn
+     necrotic damage on a failed save, or half as
+     much damage on a successful one.
+
+
+
+
+                                              Whispers of Torment                                           37
+     ITEMS
+
+
+
+
+38   Whispers of Torment
+Whispers of Torment   39
+LICENSE                                                               represent that Your Contributions are Your original creation
+OPEN GAME LICENSE Version 1.0a                                        and/or You have sufficient rights to grant the rights conveyed by
+The following text is the property of Wizards of the Coast, Inc.      this License.
+and is Copyright 2000 Wizards of the Coast, Inc ("Wizards"). All      6.Notice of License Copyright: You must update the COPYRIGHT
+Rights Reserved.                                                      NOTICE portion of this License to include the exact text of the
+1. Definitions: (a)"Contributors" means the copyright and/or          COPYRIGHT NOTICE of any Open Game Content You are copying,
+trademark owners who have contributed Open Game Content;              modifying or distributing, and You must add the title, the
+(b)"Derivative Material" means copyrighted material including         copyright date, and the copyright holder's name to the
+derivative works and translations (including into other computer      COPYRIGHT NOTICE of any original Open Game Content you
+languages), potation, modification, correction, addition,             Distribute.
+extension, upgrade, improvement, compilation, abridgment or           7. Use of Product Identity: You agree not to Use any Product
+other form in which an existing work may be recast, transformed       Identity, including as an indication as to compatibility, except as
+or adapted; (c) "Distribute" means to reproduce, license, rent,       expressly licensed in another, independent Agreement with the
+lease, sell, broadcast, publicly display, transmit or otherwise       owner of each element of that Product Identity. You agree not to
+distribute; (d)"Open Game Content" means the game mechanic            indicate compatibility or co-adaptability with any Trademark or
+and includes the methods, procedures, processes and routines to       Registered Trademark in conjunction with a work containing
+the extent such content does not embody the Product Identity          Open Game Content except as expressly licensed in another,
+and is an enhancement over the prior art and any additional           independent Agreement with the owner of such Trademark or
+content clearly identified as Open Game Content by the                Registered Trademark. The use of any Product Identity in Open
+Contributor, and means any work covered by this License,              Game Content does not constitute a challenge to the ownership
+including translations and derivative works under copyright law,      of that Product Identity. The owner of any Product Identity used
+but specifically excludes Product Identity. (e) "Product Identity"    in Open Game Content shall retain all rights, title and interest in
+means product and product line names, logos and identifying           and to that Product Identity.
+marks including trade dress; artifacts; creatures characters;         8. Identification: If you distribute Open Game Content You must
+stories, storylines, plots, thematic elements, dialogue, incidents,   clearly indicate which portions of the work that you are
+language, artwork, symbols, designs, depictions, likenesses,          distributing are Open Game Content.
+formats, poses, concepts, themes and graphic, photographic and        9. Updating the License: Wizards or its designated Agents may
+other visual or audio representations; names and descriptions of      publish updated versions of this License. You may use any
+characters, spells, enchantments, personalities, teams, personas,     authorized version of this License to copy, modify and distribute
+likenesses and special abilities; places, locations, environments,    any Open Game Content originally distributed under any version
+creatures, equipment, magical or supernatural abilities or effects,   of this License.
+logos, symbols, or graphic designs; and any other trademark or        10. Copy of this License: You MUST include a copy of this License
+registered trademark clearly identified as Product identity by the    with every copy of the Open Game Content You Distribute.
+owner of the Product Identity, and which specifically excludes        11. Use of Contributor Credits: You may not market or advertise
+the Open Game Content; (f) "Trademark" means the logos,               the Open Game Content using the name of any Contributor
+names, mark, sign, motto, designs that are used by a Contributor      unless You have written permission from the Contributor to do
+to identify itself or its products or the associated products         so.
+contributed to the Open Game License by the Contributor (g)           12. Inability to Comply: If it is impossible for You to comply with
+"Use", "Used" or "Using" means to use, Distribute, copy, edit,        any of the terms of this License with respect to some or all of the
+format, modify, translate and otherwise create Derivative             Open Game Content due to statute, judicial order, or
+Material of Open Game Content. (h) "You" or "Your" means the          governmental regulation then You may not Use any Open Game
+licensee in terms of this agreement.                                  Material so affected.
+2. The License: This License applies to any Open Game Content         13. Termination: This License will terminate automatically if You
+that contains a notice indicating that the Open Game Content          fail to comply with all terms herein and fail to cure such breach
+may only be Used under and in terms of this License. You must         within 30 days of becoming aware of the breach. All sublicenses
+affix such a notice to any Open Game Content that you Use. No         shall survive the termination of this License.
+terms may be added to or subtracted from this License except as       14. Reformation: If any provision of this License is held to be
+described by the License itself. No other terms or conditions may     unenforceable, such provision shall be reformed only to the
+be applied to any Open Game Content distributed using this            extent necessary to make it enforceable.
+License.                                                              15. COPYRIGHT NOTICE
+3.Offer and Acceptance: By Using the Open Game Content You            Open Game License v 1.0a Copyright 2000, Wizards of the Coast,
+indicate Your acceptance of the terms of this License.                Inc.
+4. Grant and Consideration: In consideration for agreeing to use      System Reference Document 5.0 Copyright 2016, Wizards of the
+this License, the Contributors grant You a perpetual, worldwide,      Coast, Inc.; Authors Mike Mearls, Jeremy Crawford, Chris Perkins,
+royalty-free, nonexclusive license with the exact terms of this       Rodney Thompson, Peter Lee, James Wyatt, Robert J. Schwalb,
+License to Use, the Open Game Content.                                Bruce R. Cordell, Chris Sims, and Steve Townshend, based on
+5.Representation of Authority to Contribute: If You are               original material by E. Gary Gygax and Dave Arneson.
+contributing original material as Open Game Content, You              END OF LICENSE
+
+
+40                                                        Whispers of Torment
+www.bestiarumgames.com
+
+
+     © Bestiarum Studio LLC 2024
+
+
+
+
+           Whispers of Torment     41
+

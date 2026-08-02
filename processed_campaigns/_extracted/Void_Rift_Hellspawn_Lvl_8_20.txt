@@ -1,0 +1,392 @@
+             VOID RIFT
+                    HELLSPAWN
+                   LEVEL SCALING
+                      8 – 20
+
+ENTER A RIFT TO HELL AND REPEL A DEMONIC INCURSION IN
+    THIS EASY-TO-RUN ADVENTURE + EPIC BOSS LAIR
+
+
+
+                                           Liber Obscura 005
+  “The path to redemption is a treacherous journey walked alone,
+     each step resonating with the sorrow of a thousand sins."
+
+
+
+
+                                    CREDITS
+Writer/Designer: Alexander H. Dovermann   Produced by: Bestiarum Games
+          his module can be run as a one-shot        the party’s mettle is about to be tested like
+          or as part of a persistent dark fantasy    never before. They must enter the portal to
+
+
+T         campaign using Bestiarum’s Path of
+          Penitence (PoP) system. Creatures
+          and items marked with an asterisk (*)
+          are new. Their information can be
+                                                     defeat the demonic leader of this hellish
+                                                     incursion and seal the rift.
+
+
+                                                     Adventure Hooks
+found at the end of the adventure.
+                                                     The adventure kicks off as the party enters the
+                                                     hellish void rift. To build the narrative further,
+Tier III. This adventure scales in difficulty
+                                                     consider beginning earlier with the party
+based on your party’s Average Party Level
+                                                     coming to the town and fending off waves of
+(APL). Use the following table to determine
+                                                     demons before entering the portal. They might
+the appropriate difficulty for your party. If your
+                                                     have stumbled upon the scene of devastation
+party finds the scenario too easy or hard, you
+                                                     or are responding to an urgent call for aid.
+can shift difficulties, even mid adventure!
+                                                     Perhaps they encountered a gravely wounded
+                                                     survivor on the road who told them about the
+ADVENTURE DIFFICULTY                                 void rift before passing away. Or perhaps a
+                                                     saintly spirit or celestial being communicates
+    Difficulty              APL
+                                                     with the party's cleric or paladin in a vision,
+    Hard                    8 – 10                   urging them to visit the town and seal the rift.
+
+
+    Nightmare               11 – 13                  Opening Script
+                                                     To start the adventure read this script.
+    Torment                 14 – 16
+                                                       The air grows hot and thick as you approach
+    Hell                    17 – 20                    the void rift. The sky is a swirling mass of
+                                                       flame, punctuated by flashes of unnatural
+                                                       light. Screams echo in the wind, and dark
+Adventure Introduction                                 shapes shift in the portal’s vortex. The ground
+The town of Matrielle has been overwhelmed             trembles beneath your feet as the rift pulses.
+by an onslaught of demonic forces. A void rift             You brace yourselves as you step forward,
+engulfed in hellish flame hovers ominously             crossing the threshold into the void. The
+above the town square. From this burning               world around you shifts, replaced by a scene
+portal, relentless waves of demons pour forth.         of utter desolation. The sky above swirls with
+Townsfolk cry out in fear and desperation as           burning storm clouds. The ground is a
+they are ruthlessly slaughtered, their lives           scorched, barren wasteland. You stand on the
+ravaged by the fiendish invaders. The air is           precipice of a desolation, a readying
+thick with ash, smoke, and the cries of the            yourselves to face the horrors of this hellish
+                                                       realm head-on.
+doomed. Embroiled within this dire situation,
+
+2                               Liber Obscura 005 – Void Rift: Hellspawn
+Liber Obscura 005 – Void Rift: Hellspawn   3
+                THE RIFT
+                                                       2) Rift Portal
+                                                       The portal into the void rift remains open. If
+The portal opens to a hellish reality from             the party finds themselves losing the battle for
+which a powerful rift entity, a hulking pit            the rift, they can retreat by escaping back
+lord*, stages its brutal demonic assault               through the portal and try their assault again
+against the Material Plane. The air reeks of           another time.
+smoldering brimstone, sulfur, and ash. The
+landscape is a tormented, barren wasteland –           3) Blood Shrine
+a vast expanse scarred and fractured by
+                                                       The Blood Shrine is constructed from an
+unceasing infernal fires. Overhead, the sky
+                                                       obsidian-like rock adorned with cruel, jagged
+churns with turbulent storm clouds, a fiery
+                                                       edges. A basin at its core holds a pool of fresh
+inferno casting an omnipresent, haunting glow
+                                                       blood. This blood seems to emanate from the
+over the land. The party emerges into this
+                                                       shrine itself, trickling continuously down into
+realm on a floating platform suspended over
+                                                       the large, foreboding basin. The shrine exudes
+the hellish expanse. Here, they must make
+                                                       an eerie, unholy magical aura.
+their stand against the relentless waves of
+demonic adversaries.
+                                                       Arcana Check. A PC that examines the Blood
+                                                       Shrine can make a DC 15 Intelligence
+Closing the Rift. Rifts are held open by a
+                                                       (Arcana) check. On a success, they know how
+powerful entity, in this case the pit lord that
+                                                       to activate it and the general negative effects
+leads the demonic incursion into reality. Once
+                                                       one will receive by using it.
+the leader is slain, the portal will destabilize
+and seal by itself. To lure out the rift entity,
+                                                       Using the Shrine. A PC can use the Blood
+their minions must be slaughtered. To see if a
+                                                       Shrine by touching it when not in combat.
+PC knows this information, they may make a
+                                                       Doing so grants the user an instant short rest.
+DC 20 Intelligence (Arcana) check.
+                                                       A PC can use the shrine any number of times,
+                                                       but each time they do, they gain 1 level of Soul
+1) Floating Platform                                   Corruption, which lasts for 24 hours. If a PC
+The party stages their defense on a floating           uses the shrine while under the effects of Soul
+platform overlooking the hellish landscape.            Corruption, they experiences a negative effect
+Any creature that falls from the platform,             described on the following Soul Corruption
+unless it can fly or hover, is lost to this hellish    table, based on the level of corruption they are
+realm. Several columns are scattered about             experiencing.
+the platform, offering places to hide or take
+cover.
+
+
+
+
+4                                 Liber Obscura 005 – Void Rift: Hellspawn
+SOUL CORRUPTION TABLE                                Wave 1
+ Level     Soul Corruption Effect                      Difficulty          Enemies
+
+    1      A persistent feeling of unease, but         Hard                3 hellhounds
+           no other ill effects.
+                                                       Nightmare           3 hellhounds
+   2       Roll once on the long-term                                      1 hellfiend*
+           madness table.
+                                                       Torment             5 hellhounds
+   3+      Roll twice on the long-term                                     1 hellfiend*
+           madness table and once on the
+           indefinite madness table.                   Hell                7 hellhounds
+                                                                           1 hellfiend*
+
+Encounter Waves
+Before you begin combat give the party a
+moment to get their bearing and explore the
+area. They should have a basic understanding
+of the geography and points of interest in the
+combat area, as well as a brief moment to
+discuss tactics before the fight starts.
+    When the party is ready, spawn the
+enemies listed in the Wave 1 Enemies section.
+During this encounter, several waves of
+enemies will attack the party. After each wave
+is defeated, give the party a minute to
+reposition or activate the blood shrine before
+starting the next wave.
+
+Spawning Enemies. When you spawn
+enemies, place them around the map, crawling
+up onto the combat area from the edge of the
+platform, flying down from the hellish skies, or
+entering in any other way you think is the most
+cinematic!
+
+
+
+
+                                Liber Obscura 005 – Void Rift: Hellspawn                  5
+Wave 2                                         Wave 3
+    Difficulty   Enemies                         Difficulty          Enemies
+
+    Hard         1 hellhound                     Hard                1 hellfiend*
+                 2 hellfiends*                                       1 hellfiend ascendant*
+
+    Nightmare    2 hellhounds                    Nightmare           1 hellhound
+                 3 hellfiends*                                       2 hellfiends*
+                                                                     1 hellfiend ascendant*
+    Torment      4 hellhounds
+                 3 hellfiends*                   Torment             1 hellhound
+                                                                     2 hellfiends*
+    Hell         5 hellhounds                                        2 hellfiend ascendants*
+                 5 hellfiends*
+                                                 Hell                3 hellhounds
+                                                                     3 hellfiends*
+                                                                     2 hellfiend ascendants*
+
+
+
+
+6                         Liber Obscura 005 – Void Rift: Hellspawn
+Wave 4                                             Ending the Adventure
+For the fourth wave, spawn 1 pit lord* as the      Upon defeating the pit lord, the demonic
+encounter boss. This boss is designed with         energies wane, causing the rift to destabilize
+phases that increase its CR and make it an         rapidly and seal behind the party as they leave.
+appropriate challenge for each adventure           With their mission successful, the party can
+difficulty.                                        rest, regroup, and plan their next move in the
+                                                   continuous battle against the forces of evil.
+
+
+
+
+                              Liber Obscura 005 – Void Rift: Hellspawn                           7
+                                     MONSTERS & NPCS
+    Hellfiend                                                Hellfiend Ascendant
+    Medium fiend (devil), lawful evil                        Large fiend (devil), lawful evil
+    Armor Class 16 (natural armor)                           Armor Class 18 (natural armor, shield)
+    Hit Points 105 (14d8 + 42)                               Hit Points 136 (16d10 + 48)
+    Speed 30 ft.                                             Speed 30 ft., fly 45 ft.
+
+      STR      DEX    CON     INT     WIS    CHA               STR     DEX      CON    INT      WIS    CHA
+       16       18     16      12      14     14                16      20       16     14       14     16
+      (+3)     (+4)   (+3)    (+1)    (+2)   (+2)              (+3)    (+5)     (+3)   (+2)     (+2)   (+3)
+
+    Saving Throws Str +6, Dex +7, Wis +5, Cha +5             Saving Throws Str +7, Dex +9, Wis +6, Cha +7
+    Damage Immunities fire, poison                           Damage Immunities fire, poison
+    Condition Immunities poisoned                            Condition Immunities poisoned
+    Senses darkvision 120 ft., passive Perception 12         Senses darkvision 120 ft., passive Perception 12
+    Languages Infernal                                       Languages Infernal
+    Challenge 5 (1,800 XP)                                   Challenge 9 (5,000 XP)
+
+    Devil's Sight. Magical darkness doesn't impede           Devil's Sight. Magical darkness doesn't impede
+    the devil's darkvision.                                  the devil's darkvision.
+
+
+    Actions:                                                 Actions:
+    Multiattack. This creatures makes two melee              Multiattack. This creatures makes two melee
+    attacks.                                                 attacks and may use Slaughter Flame.
+
+    Scimitar. Melee Weapon Attack: +7 to hit, reach          Scimitar. Melee Weapon Attack: +9 to hit, reach
+    5 ft., one target. Hit: 7 (1d6 + 4) slashing             5 ft., one target. Hit: 12 (2d6 + 5) slashing
+    damage, plus 10 (3d6) fire damage.                       damage, plus 10 (3d6) fire damage.
+
+                                                             Slaughter Flame. Ranged Spell Attack: +5 to hit,
+                                                             range 150 ft., one target. Hit: 7 (2d6) fire
+                                                             damage and 7 (2d6) necrotic damage. On a hit,
+                                                             the target is cursed for the next 6 seconds,
+                                                             making attacks against it critical hits on a
+                                                             natural 15 or higher.
+
+
+
+
+8                                    Liber Obscura 005 – Void Rift: Hellspawn
+Pit Lord
+                                                     Phase II – Torment + (CR 22 / 41,000 XP)
+Pit lords make their lairs in a hellish plane,
+                                                     When the pit lord is reduced to 0 hit points for
+amidst rivers of fire and mountains of blood
+                                                     the first time in a combat encounter, the
+and bone. Their realms are steeped in fear and
+                                                     following happens.
+suffering. This dreadful hell reality acts as a
+                                                     • Hit Points. It is restored to full hit points.
+staging ground for incursions into the Material
+                                                     • Assault. The legendary action cost of
+Plane. Through rifts in reality, they lead their
+                                                         Assault is reduced to 4.
+demonic hordes on an unending assault
+against the mortal realm, their ambition and
+thirst for carnage knowing no bounds.
+                                                     Phase III – Hell (CR 25 / 75,000 XP)
+                                                     Use the Phase II Torment + boss rules. Then,
+                                                     when the boss is reduced to 0 hit points for
+Lair Actions                                         the first time in phase II, the following
+On initiative count 20 (losing initiative ties),     additional effects happen.
+the pit lord can take a lair action to cause one     • Hit Points. It is restored to half hit points.
+of the following effects:                            • Flame Geyser. The fire damage caused by
+• Dreadful Gaze: The pit lord chooses one                flame geysers increased to 35 (10d6).
+    creature it can see within 120 feet of it.           Additionally, the pit lord can use its lair
+    The chosen creature must succeed on a                actions to create one new flame geyser
+    DC 18 Wisdom saving throw or become                  each round.
+    frightened until initiative count 20 on the
+    next round. A creature that succeeds on          Combat Tactics
+    the saving throw gains advantage on
+                                                     A pit lord is a horrifying foe to behold. It uses
+    saving throws against Dreadful Gaze for
+                                                     its superior strength and speed to corner its
+    the next 24 hours.
+                                                     foes, charging in close and unleashing deadly
+                                                     strings of attacks against its target. It uses its
+Boss Phases:                                         tail to knock down enemies, reducing their
+This boss has phases that increase its CR. You       mobility and opening them to follow-up
+should run the phases for the appropriate            attacks. Its pair of weapons is a dreadful
+adventure difficulty to challenge parties with       combination, its flaming axe dealing high
+higher APL.                                          damage while its poisoned sword prevents
+                                                     wounded foes from healing.
+Phase II – Nightmare (CR 20 / 25,000 XP)                 Flame Geysers. Pit fiends fight on their
+When the pit lord is reduced to 0 hit points for     own terms, quickly turning every square foot
+the first time in a combat encounter, the            of a battleground into a potential deathtrap. Its
+following happens.                                   Flame Geyser ability creates a persistent area
+• Hit Points. It is restored to half hit points.     of flame, which deals significant damage to
+• Flame Geyser. The damage of Flame                  opponents and forces them to constantly
+    Geyser is increased to 21 (6d6)                  move, limiting their tactical options. Over
+                                Liber Obscura 005 – Void Rift: Hellspawn                             9
+time, as the battlefield becomes saturated with      BOSS LOOT TABLE
+these geysers, safe spaces start to disappear,
+tightening the noose around the pit lord’s prey.       4d10         Item Discovered
+   Assault. The pit lord also uses its Assault
+ability strategically. It takes flight and moves       36 +         Pit Lord’s Greataxe* (very rare)
+quickly across the battlefield, closing gaps and
+allowing it to switch targets and strike out at        31 – 35      Soul of Flame* (rare)
+vulnerable or high-value enemies with ease.
+Given its resistance to damage, the pit lord           1 – 30       Nothing
+can afford to engage in close quarters combat
+without too much concern for its own well-
+being. The Assault ability is not only a
+formidable attack but a psychological tool,
+keeping enemies on edge, as they must always
+be ready for the pit lord to swoop down and
+attack.
+
+
+Boss Loot
+If the party defeats the boss, they may
+collectively roll 4d10s. Based on the
+cumulative roll score, they find the item
+corresponding to the highest score they reach.
+Add a bonus to the cumulative roll score
+depending on the adventure difficulty level.
+
+
+ Difficulty                Loot Roll Bonus
+
+ Hard                      +0
+
+ Nightmare                 +1
+
+ Torment                   +2
+
+ Hell                      +3
+
+
+
+
+10                              Liber Obscura 005 – Void Rift: Hellspawn
+Pit Lord                                                  Scimitar. Melee Weapon Attack: +12 to hit,
+Gargantuan fiend (devil), lawful evil                     reach 10 ft., one target. Hit: 21 (4d6 + 7)
+                                                          slashing damage. The target must succeed on
+Armor Class 17 (natural armor)                            a DC 18 Constitution saving throw or become
+Hit Points 264 (16d20 + 96)                               poisoned. While poisoned in this way, the
+Speed 30 ft., fly 60 ft.                                  target can't regain hit points. The poisoned
+                                                          target can repeat the saving throw at the end
+ STR     DEX     CON      INT     WIS     CHA
+                                                          of each of its turns, ending the effect on itself
+  24      14      22       16      16      20
+                                                          on a success.
+ (+7)    (+2)    (+6)     (+3)    (+3)    (+5)
+
+Saving Throws Dex +7, Con +11, Wis +8, Cha +10            Tail. Melee Weapon Attack: +12 to hit, reach
+Damage Resistances cold; bludgeoning, piercing,           20 ft., one target. Hit: 16 (2d8 + 7)
+and slashing from nonmagical attacks that aren't          bludgeoning damage. The target must
+silvered                                                  succeed on a DC 17 Strength saving throw. On
+Damage Immunities fire, poison                            a failure, the pit lord can knock the target
+Condition Immunities poisoned                             prone or knock it directly backwards 10 feet.
+Senses truesight 120 ft., passive Perception 13
+Languages Infernal, Telepathy 120 ft.                     Legendary Actions:
+Challenge 16 (15,000 XP)
+                                                          This creature can take 3 legendary actions,
+Magic Resistance. This creature has advantage             choosing from the options below. Only one
+on saving throws against spells and other magical         legendary action option can be used at a time
+effects.                                                  and only at the end of another creature's turn.
+                                                          This creature regains spent legendary actions
+Blood for Blood. Whenever this creature takes             at the start of its turn.
+damage, the legendary action cost of its next               Flame Geyser (Costs 3 Actions). The pit
+Assault is reduced by 1, to a minimum of 0.               lord creates a geyser of flame at a location it
+                                                          can see within 120 feet of it. The geyser spews
+Actions:                                                  flame in a 20-foot cube and lasts for 15
+                                                          minutes. Any creature that starts its turn in or
+Multiattack. This creatures makes two attacks:            moves through the geyser takes 17 (5d6) fire
+one attack with its Battleaxe or Scimitar, and one        damage.
+with its tail.                                              Assault (Costs 6 Actions). The pit lord may
+                                                          fly up to 45 feet and then may make one attack
+Battleaxe. Melee Weapon Attack: +12 to hit, reach         with any of its weapons.
+10 ft., one target. Hit: 25 (4d8 + 7) slashing
+damage plus 10 (3d6) fire damage.
+
+
+
+
+                                 Liber Obscura 005 – Void Rift: Hellspawn                                     11
+                   ITEMS
+
+
+
+
+12   Liber Obscura 005 – Void Rift: Hellspawn
+

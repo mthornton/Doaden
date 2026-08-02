@@ -1,0 +1,708 @@
+ECHOES OF THE SERAPHIM
+                     Level Scaling
+                        8 – 20
+
+
+Face the haunting cries of the celestial seraphim in this
+     easy-to-run adventure + epic lair boss fight
+
+
+
+                                               Liber Obscura 010
+  “The path to redemption is a treacherous journey walked alone,
+     each step resonating with the sorrow of a thousand sins."
+
+
+
+
+                                    CREDITS
+Writer/Designer: Alexander H. Dovermann   Produced by: Bestiarum Games
+          his module can be run as a one-shot        blight. The party must delve into the cathedral
+          or as part of a persistent dark fantasy    and unveil its mysteries to cleanse whatever
+
+
+T         campaign using Bestiarum’s Path of
+          Penitence (PoP) system. Creatures
+          and items marked with an asterisk (*)
+          are new. Their information can be
+                                                     foulness has taken hold here.
+
+                                                     GM Information. At the heart of the cathedral
+                                                     lies its greatest secret and most terrible curse:
+found at the end of the adventure.                   a chained seraph. This alien being of such
+                                                     overwhelming presence, is so profound that
+Tier III. This adventure scales in difficulty        mortals who witness it are mentally and
+based on your party’s Average Party Level            spiritually broken, their sanity eroding
+(APL). Use the following table to determine          instantaneously. A millennia ago, this seraph
+the appropriate difficulty for your party. If your   descended from the heavens to pass judgment
+party finds the scenario too easy or hard, you       upon humanity, turning nearly everyone within
+can shift difficulties, even mid adventure!          the cathedral into lifeless stone.
+                                                         Long ago, an army of devas, guardians of
+ADVENTURE DIFFICULTY                                 the celestial balance, saw the seraph’s descent
+                                                     and attacked it, recognized it as an immense
+    Difficulty              APL                      danger to the world's equilibrium. They
+                                                     imprisoned it in the cathedral for eternity, and
+    Hard                    8 – 10                   now circle invisibly above, ever watchful,
+                                                     guarding the cathedral’s twin bell towers. If
+    Nightmare               11 – 13                  both bells were to ring, their resonance would
+                                                     shatter the chains binding the seraph and
+    Torment                 14 – 16                  release it upon the world once more.
+                                                         Those few humans who witnessed the
+    Hell                    17 – 20                  seraph’s descent and were immune to its
+                                                     effects, became fervent zealots. Already
+                                                     teetering on the brink of madness, and blind
+Adventure Introduction                               with unwavering faith, they interpreted the
+The Cathedral of Echoes, once a beacon of            seraph's actions as divine will, and over time,
+holiness, now stands forsaken in a desolate          they formed the Cult of Dogma, their sole
+realm. Its magnificent architecture and once-        purpose to free the seraph and unleash its
+hallowed grounds lie in ruin, and throughout         judgment upon the entire world.
+its cavernous halls, ethereal whispers believed
+to be the cries of celestial seraphim, resonate.     Starting the Adventure
+Few who venture inside return, and those who         To begin this adventure, the party should have
+do emerge broken, weeping half-crazed pleas          some understanding of the information
+for their souls. This place, once considered the     provided in the Adventure Introduction section
+holiest of places, is now regarded as a cursed       general text but should have limited or no
+2                              Liber Obscura 010 – Echoes of the Seraphim
+knowledge of the GM specific information.            Opening Script
+They should aim to free the cathedral from the
+                                                     To start the adventure read this script.
+clutches of whatever powerful being is housed
+within, but not fully understand the task set
+before them. Perhaps they’ve heard stories of          As you approach the Cathedral of Echoes, you
+a fallen angel, or a devil chained within. While       find the once-glorious structure standing
+no tale should reveal the entirety of the              defiantly against the ravages of time, its
+cathedral's secrets, they may hint at some             spires piercing the sky like silent sentinels,
+clues within; petrified statues of the former          ivory-hued bell towers glinting off the golden
+parishioners, or a dark cult that operates             light of the setting sun. The bleak and
+inside, their goals mysterious and unknown.            desolate landscape around the divine
+                                                       structure only amplifies its sheer presence,
+                                                       giving it the feeling of a haunted spectacle, a
+Suggested Hooks:                                       lonely relic of a bygone era. The towering
+To begin the adventure, you can use one of
+                                                       entrance doors, intricately gilded with scenes
+these suggested hooks or write your own.
+                                                       of holy rapture, hang slightly ajar, hinting at
+• A nearby city council urgently enlists the
+                                                       the shadowed interior beyond.
+    party after hearing the cult is close to               As you prepare to enter, you hear the
+    awakening an ancient terror within the             faintest echo of an ethereal lamentation, an
+    cathedral.                                         otherworldly melody that whispers into the
+• The party runs into conflict with the Cult           recesses of your very soul. An apprehension
+    of Dogma. On a slain cultist they find a           creeps into your mind. Your heartbeat
+    cryptic note indicating a "divine being"           quickens and you feel a suffocating fear settle
+    which they seek to unchain and pass                into your lungs, a primal anxiety that makes it
+    judgment upon the world.                           difficult to breathe. You fight to suppress your
+• A party member has recurring dreams                  instincts and prepare to head inside.
+    pointing to the cathedral's looming threat
+    and believes the party is destined to face it.
+
+Path of Penitence. If you are running a PoP
+campaign, any of these hooks may be used to
+kick off the adventure. The Penitent Crusade
+may have taken an interest in these affairs and
+assigned this mission, or the party may be
+following leads out of their own volition.
+    Location. The adventure can take place in
+any of the dioceses of the Azerain Empire,
+though it will most naturally take place in the
+West or South where grand cathedrals are
+most prominent.
+
+                               Liber Obscura 010 – Echoes of the Seraphim                                 3
+4   Liber Obscura 010 – Echoes of the Seraphim
+  CATHEDRAL OF ECHOES                                    Scattered about the ground is discarded
+                                                      cultish paraphernalia — tarnished silver
+The Cathedral of Echoes is the focal point of         chalices with dried crimson residue,
+an ever-raging war between the sacred and             ceremonial robes embroidered with a
+profane, a battlefield between heavenly deva          yellow eye, incense burners emanating a
+imprisoning the seraph and the Cult of Dogma          lingering sulfurous aroma, and crudely
+fighting to free it. Signs of the struggle are        inscribed ritualistic runes on fragmented
+evident, with traces of the cult's activities in      parchment — hints at a recent ceremony.
+the lower areas of the cathedral and the deva
+circling above, guarding the bell towers to
+prevent the anyone from ringing them.               1a) Left Fountain
+                                                    At the far end of the gallery, on the left, is a
+Map Areas                                           ruined fountain, its once-filled basin now dry
+The map of the Cathedral of Echoes is               and empty. Smeared across its stones in dried
+represented by the following areas.                 blood is a cryptic message: "When twin bells
+                                                    toll, heaven’s chains will break, and judgment
+                                                    be delivered upon the wicked." The ominous
+1) Main Gallery
+                                                    message warns of the cult's plans and hints
+Upon entering the cathedral, the vast expanse       about how to free the seraph.
+of the main gallery stretches before the party.
+Read this script.
+
+
+ You enter into the cathedral, stepping into a
+ magnificent chamber with vaulted ceiling
+ reaching into the heavens above. Stretched
+ across the marble ground are rows upon
+ rows of ancient wooden pews, worn by the
+ weight of countless prayers. They face
+ forward in organized lines to a grand chapel
+ at the end of the hall.
+     The once vibrant stained-glass windows
+ lining the cathedral’s grand walls have
+ become dull, their luminance choked by
+ centuries of neglect. Golden light, hued pink
+ and green and crimson by the old panels of
+ glass, still manages to filter in through the
+ accumulation of dust and cobwebs.
+
+
+
+
+                              Liber Obscura 010 – Echoes of the Seraphim                           5
+1b) Right Fountain                                      Before you is a celestial being radiating an
+This fountain on the right side of the gallery          immense, natural power. Its form is bound in
+mirrors the left. Another message is scrawled           stasis by giant, heaven-forged rings, rotating,
+here, also written in blood: "Hearts of sin shall       and interlocking in an intricate dance. Its
+turn to stone in the gaze of the holy." This            presence is both magnificent and terrifying,
+cryptic phrase serves as a warning, hinting at          an enormous mass of frozen limbs
+the petrifying power of the seraph’s eye                surrounding a singular, piercing eye. Though
+cherub minions.                                         its body is frozen, the giant eye still turns in
+                                                        its socket, watching you as you make your
+                                                        way around the room, bearing down upon
+                                                        your soul with the weight of countless
+                                                        millennia.
+
+
+                                                      The Seraph. The seraph is an otherworldly
+                                                      being so strange and so alien that it is hardly
+                                                      comprehensible to mortals. While imprisoned,
+                                                      it is immune to all damage or effects. I can
+                                                      speak telepathically in any language, yet it will
+                                                      refrain from doing so. It has existed for
+                                                      millennia and shall exist for eternity after.
+                                                      Even when its physical form is destroyed, it
+                                                      shall return once more, perhaps months from
+                                                      now or perhaps eons. The passing of ages and
+                                                      the group of mortals that is the party, is of
+                                                      absolutely no consequence to it, and it regards
+2) Chapel of the Seraph                               them as one may regard a small insect. It will
+As the party steps through an ornate archway,         not deign to communicate with the party and
+they find themselves in a chapel where the            seeks only to pass judgment on mortal kind,
+imprisoned seraph is housed. Read this script         bringing about the ruin of all.
+as they enter.
+                                                      Freeing the Seraph
+    As you enter the cathedral’s main chapel, the     To free the seraph, the party must ring the
+    ethereal lamentations grow stronger, echoing      cathedral’s two bells, one housed in the left
+    throughout the forlorn halls and raising the      bell tower (area 4) and the other in the right
+    hairs on your body. You nearly drop to your       (area 6). The clue written by cultists in area
+    knees as you enter the chapel, overcome by a      1a, hints as much. However, the belfries are
+    vision so awesome you can barely stand.           protected by armies of deva that seek to
+                                                      prevent anyone from freeing the seraph.
+
+6                               Liber Obscura 010 – Echoes of the Seraphim
+3) Left Sacristy                                     The Bell. This bell tower contains one of the
+                                                     two bells that must be rung to unbind the
+This sacristy is a small room. The heavy scent
+                                                     seraph in the cathedral below.
+of incense hangs in the air, melding with the
+fainter undertone of old books and parchment.
+Researching tomes and ancient texts within
+are some members of the Cult of Dogma. The
+                                                       Ringing the Bells
+party may surprise them as they are busy               The party must ring two bells, one in each of
+                                                       the bell towers in areas 4 and 6, to free the
+delving into ancient records to find clues of
+                                                       seraph before they can fight it.
+magic or weapons to use in the fight against
+the devas imprisoning the seraph.
+                                                       First Bell Tower
+CULT ENCOUNTER (LEFT SACRISTY)                         Read this script as the party finishes
+                                                       ascending their first bell tower, whether it is
+ Difficulty     Enemies                                the right or left.
+
+ Hard           1 knight and 1 mage
+                                                         You finish climbing the winding stairs of
+                                                         the bell tower, circling the countless times
+ Nightmare      2 knights and 1 mage
+                                                         before coming at last to a grand belfry. A
+                                                         great bronze bell stands in silent vigil,
+ Torment        2 knights and 2 mages                    hanging at the center of the tower, its
+                                                         surface a canvas of intricate symbols of
+ Hell           3 knights and 3 mages                    devotion and faith, now masked by layers
+                                                         of grime and tarnish.
+                                                             Through arched windows is a
+Cathedral Keys. One of the enemies here
+                                                         breathtaking view outside. The world
+should carry a set of keys which can be used to          below has fallen away into miniscule
+unlock any of the locked doors throughout the            detail. Rugged hills rolling into jagged
+cathedral. The party may steal the keys or kill          valleys, scattered specks of villages and
+the cultists to take the keys from them.                 towns, all small enough to cuff in the
+                                                         palm of your hand. Yet something odd
+4) Left Bell Tower                                       captures your eye. In the skies high
+A long spiraling staircase winds its way                 above, mysterious silvery shimmers catch
+                                                         the golden light of the sun, dancing
+upwards three hundred feet, an exhausting
+                                                         gracefully in mesmerizing patterns, a
+physical hurdle to scale. Yet at the top is the
+                                                         ballet of twinkling silver weaving in and
+first of the cathedral’s twin belfries, and one of
+                                                         out of one another. Yet what such a
+the bells which must be rung to free the
+                                                         spectacle may be, you have no idea.
+seraph below.
+
+
+
+                               Liber Obscura 010 – Echoes of the Seraphim                                7
+    When the first bell is rung, read this script.        Second Bell
+    Then, run a combat encounter at the top of
+                                                          To ring the second bell, the party should not
+    the bell tower, a narrow and confined space,
+                                                          cross over outside of the cathedral’s exterior.
+    elevated hundreds of feet in the air, with a
+                                                          If they attempt to do so, more guardians
+    number of celestial guardians attacking the
+                                                          should continue to materialize and attack
+    party depending on the adventure difficulty.
+                                                          them until they are forced back to retreat.
+                                                          Instead, the party should be encouraged to
+     As the resonant toll of the bell rings               find a path to the second bell within the
+     throughout the cathedral, the golden                 cathedral, such as through the undercroft
+     sunlight of the sky shifts. The silvery              stairs (area 8), the secret wall in the right
+     threads dancing in the air sparkle and               sacristy (area 5), or by clever magical means.
+     whirl, creating a mesmerizing spectacle,                 Bell Guardians. The second bell should be
+     almost as if the very heavens are                    guarded by the same number and types of
+     responding.                                          enemies faced at the first bell. However, this
+         From these shimmering slivers, a                 time the celestial guardians will be ready and
+     being forms — a strange, ethereal form               waiting for the party, to prevent them from
+     stepping forth as if from thin air. It is a          ringing the second bell.
+     twisted angel, a radiant guardian of the                 The Seraph. When the second bell is rung,
+     unknowable heavens. Stepping forward, it             the seraph will be freed. Read this script, then
+     pitches its wings back, drawing a                    proceed to the next chapter, the Seraph Boss
+     gleaming weapon as it dives forward to               Encounter.
+     strike. "Stop!" it commands, its voice
+     resonating with divine authority, "You
+                                                            As the haunting peal of the second bell
+     know not what it is you do!"
+                                                            fills the cathedral, a profound stillness
+                                                            settles over the place. From the depths
+    BELL ENCOUNTER                                          under you, a low rumble grows. The
+                                                            ground vibrates suddenly, the very walls
+     Difficulty      Enemies                                of the cathedral shaking as a shockwave
+                                                            of energy erupts from the structure below.
+     Hard            1 deva                                      The air is filled with a hundred shrieks
+                                                            as the mass of shimmering slivers
+     Nightmare       1 planetar                             materializes into their angelic forms, the
+                                                            winged bodies of countless guardians
+                                                            falling from the air, their bodies crumpled
+     Torment         2 devas
+                                                            and broken, their lifeless corpses raining
+                                                            down upon the grounds below. You shake
+     Hell            1 deva and 1 planetar
+                                                            with horror and the understanding that
+
+
+
+
+8                                 Liber Obscura 010 – Echoes of the Seraphim
+                                                     The layout of the room mirrors the left
+   the imprisoned seraph below is no longer          sacristy, with the exception that there is no
+   bound, its chains broken by the ringing of        door leading to a bell tower where one may be
+   the bells. You must put an end to it or try,      expected. Instead, there is a simple stone wall.
+   for all existence hangs in the balance.           If the party has explored area 4, they may
+                                                     become suspicious as the layout suggests that
+                                                     there would be a door in this room leading to
+5) Right Sacristy                                    that bell tower, driving them to investigate
+                                                     closer.
+This sacristy is set behind a locked metal
+                                                         The room is filled with crates marked with
+door. The door can be opened automatically
+                                                     the cult’s yellow eye. The party may conduct
+by using the keys found on the cultist in area
+                                                     an Intelligence (Investigation) check to
+3, picked by using thieves’ tools and a making
+                                                     search for supplies or clues, finding all results
+a DC 15 Dexterity check, or smashed open by
+                                                     they roll high enough to score on the Sacristy
+making a DC 20 Strength check.
+                                                     Investigation Results table.
+
+
+
+
+                               Liber Obscura 010 – Echoes of the Seraphim                            9
+SACRISTY INVESTIGATION RESULTS                      iris of angels.” Written by the Cult of Dogma,
+                                                    this is clue hints at the petrifying power of the
+ Score     Item/Information Discovered              seraph’s cherubim minions.
+
+ 25+       A section of the wall is less worn
+           than the rest. A closer look reveals
+           a concealed doorway. It can be
+           smashed in with a DC 20 Strength
+           check, revealing a secret door the
+           right bell tower, area 6.
+
+ 15+       1d4 potions of superior healing are
+           found stored away in various
+           wooden crates.
+
+ 10+       40d100 gp is found stored away in
+           various leather pouches.
+
+
+6) Right Bell Tower
+This bell tower is a mirror of the left bell        8) Undercroft Stairs
+tower, area 4. However, it is only accessible by
+                                                    Mirroring the chapel of reflection is another
+an undercroft passage starting in area 8, or a
+                                                    small room, a narrow and dimly lit chamber
+hidden door in the right sacristy area 5.
+                                                    locked behind a solid metal door. The door
+                                                    can be opened automatically by using the keys
+Ringing the Bell. This bell tower contains one
+                                                    found on the cultist in area 3, picked by using
+of the two bells that must be rung to unbind
+                                                    thieves’ tools and a making a DC 15 Dexterity
+the seraph in the cathedral below. To review
+                                                    check, or smashed open by making a DC 20
+what happens when the bells are rung, read
+                                                    Strength check.
+the Ringing the Bells rules detailed earlier.
+                                                       The room is empty, save for a stairwell in
+                                                    the floor that descends down into darkness.
+7) Chapel of Reflection                             The stairwell serves as the entrance to a long
+This small room is a place of calm and              undercroft passage that spans the entirety of
+introspection. A series of elegantly crafted        the cathedral’s underbelly. As the party
+mirrors line the walls, each one reflecting the     descends the stairs, read this script.
+images of the party back to themselves. Across
+the surfaces of the mirrors, a pictogram of an
+open eye painted in yellow, and a message has
+been scrawled in blood: "Judgment rests in the
+
+10                            Liber Obscura 010 – Echoes of the Seraphim
+                                                    Combat Area. The undercroft tunnel is 30
+ Descending the stairwell, an oppressive
+                                                    feet wide and cluttered with debris and
+ darkness envelops you. At the bottom of the
+                                                    obstacles. Crates and barrels painted with the
+ stairs, you find a long corridor stretching
+                                                    yellow eye emblem of the Cult of Dogma are
+ onwards, cluttered with crates and boxes.
+ Each bearing a pictogram of a yellow eye           piled high against the walls. The tunnel is also
+ painted in yellow.                                 filled with stone statues of various people,
+     Walking cautiously ahead, an eerie sight       forever frozen in moments of horror and
+ begins to unfold. Throughout the corridor are      despair, a grim testament to the seraph’s
+ row upon row of stone statues. Men, women,         original descent from the heavens. A few eye
+ children—all frozen in palpable horror. Eyes       cherubs flit about, servants of the seraph and
+ wide, some desperately attempting to cover         supporting the cultists. These cherubs are
+ their faces, others clawing at their eyes as if    grotesque, large eyeballs with wings, always
+ trying to rid themselves of a vision too           watching, ready to turn their enemies to stone
+ horrible to bear.                                  with a haunting gaze or blast them with beams
+     Your reflection on these horrors is cut        of radiant energy.
+ short. From the shadows, several cultists              After the Fight. The party can continue
+ lunge forward, their blades glinting. Behind       through the underground passage, emerging
+ them, you hear a soft flutter of feathers as a     from the undercroft into the cathedral’s right
+ large eyeball on wings emerges from the            bell tower, area 6.
+ darkness behind them. One of the cultists
+ cackles maniacally, "Open your eyes!"
+
+
+UNDERCROFT ENCOUNTER
+ Difficulty     Enemies
+
+ Hard           1 eye cherub*, 1 knight, and 1
+                mage
+
+ Nightmare      2 eye cherubs*, 3 knights, and
+                1 mage
+
+ Torment        2 eye cherubs*, 4 knights, and
+                1 mage
+
+ Hell           3 eye cherubs*, 6 knights, and
+                2 mages
+
+
+
+
+                              Liber Obscura 010 – Echoes of the Seraphim                         11
+SERAPH BOSS ENCOUNTER Encounter Map                 The map of the Chapel of the Seraph is
+Once the party rings the two bells, the seraph      represented by the following areas.
+will be free. The next time the party returns to
+the main chapel area 2, it will be waiting for
+                                                    1) Lower Level
+them, beginning an intense boss fight. Read
+this script as the party returns.                   The ground floor is scattered with remnants of
+                                                    the seraph’s shattered prison and its altar,
+                                                    which may grant half cover.
+ In the main chapel, you see metal remnants
+ of the seraph’s prison, scattered about the        2) Upper Level
+ ground. Upon the altar where it was once
+ bound, it has been freed, now rising — a           Perched 45 feet above, the mezzanine offers
+ grotesque mass of arms spiraling around a          an elevated platform above the ground, and
+ singular, enormous eye that rotates to focus       may allow the party to split up, ensuring they
+ on you. The whispered divine lamentation           are not all within reach of the seraph’s attacks,
+ echoing through your soul grow into a              though they may be more easily picked off by
+ crescendo. Every instinct urges you to flee,       eye cherubs during the fight.
+ but you hold fast and prepare for the fight.
+
+
+
+
+12                            Liber Obscura 010 – Echoes of the Seraphim
+Liber Obscura 010 – Echoes of the Seraphim   13
+Encounter Mechanics                                LOOT TABLE
+One seraph should start the fight atop the           4d10         Item Discovered
+central altar in area 1 where it was once held
+prisoner. It can stay on the ground or climb to      32+          Cherub Eye Charm* (very rare)
+the upper level but should aim to maximize its
+attacks by positioning itself and striking where     1 – 27       Nothing
+it will deal the most damage, relying on the
+eye cherubs that it can summon to disable
+critical party members.                            Ending the Adventure
+    Cherub Spawning. For this fight, the
+                                                   After the enemies are defeated, the party will
+cherubs can enter the battle per the seraph’s
+                                                   have slain the seraphim and it will no longer
+ability mechanics, or you can have them enter
+                                                   haunt this world, at least not in their lifetimes.
+through the open doors on the upper area 2 or
+                                                   They may take a well-deserved rest, knowing a
+anywhere else it may be a cinematic and
+                                                   great evil has been uprooted from the world.
+interesting place to spawn, creating hazardous
+                                                   Perhaps they will have made new enemies in
+locations for the party throughout the map.
+                                                   the Cult of Dogma, who will have seen their
+The more places the cherubs filter in from, the
+                                                   actions as sacrilegious, harming their most
+more the party must stay on their toes and
+                                                   sacred deity. The cult would stop at nothing to
+work together to handle the threat.
+                                                   have their revenge or find a way to bring their
+                                                   seraph idol back to life.
+Loot. If the party is victorious, they may roll
+4d10. Based on the cumulative roll score, they
+find the item corresponding to the highest
+score they reach. Add a bonus to the
+cumulative roll score depending on the
+adventure difficulty level.
+
+
+ Difficulty                Loot Roll Bonus
+
+ Hard                      +0
+
+ Nightmare                 +1
+
+ Torment                   +2
+
+ Hell                      +3
+
+
+
+
+14                           Liber Obscura 010 – Echoes of the Seraphim
+                                     MONSTERS & NPCS
+                                                         Eye Cherub
+Eye Cherub                                               The eye cherub is a nightmarish creature, an
+Small celestial, lawful neutral
+                                                         abomination of the heavens as horrendous as
+Armor Class 13 (natural armor)                           the devils that emerge from the hells below. Its
+Hit Points 38 (7d6 + 14)                                 slow movement and diminutive form belays a
+Speed fly 20 ft.
+                                                         hidden threat. The unwavering gaze from its
+  STR     DEX      CON     INT       WIS    CHA          piercing iris has the ability to petrify victims,
+    6      14       14        6       12      8          and to emit a radiant beam, scorching those
+   (-2)   (+2)     (+2)     (-4)     (+1)    (-1)        unfortunate enough to be caught in its path.
+Skills Perception +5                                     Though manageable in small numbers, eye
+Damage Resistances radiant                               cherubs are a force to be reckoned with when
+Condition Immunities petrified                           they flock together in large numbers.
+Senses darkvision 60 ft., passive Perception 15
+Languages –
+Challenge 1 (200 XP)
+
+Immutable Form. The eye cherub is immune to
+any spell or effect that would alter its form.
+
+
+Actions:
+Petrifying Iris. The eye cherub targets one
+creature it can see, and which can see it, within 30
+feet. The creature must make a DC 11 Constitution
+saving throw. On a failed save, the creature
+magically turns to stone and is petrified. It may
+repeat the saving throw at the end of each of its
+turns. On a success, the effect ends. If a creature
+is brought to 0 hit points while affected, it
+permanently becomes a stone statue, and the
+effect of the petrification cannot be undone.
+
+Radiant Beam. The eye cherub emits a beam of
+radiant energy in a 30-foot line that is 5 feet wide.
+Each creature in that line must make a DC 13
+Dexterity saving throw, taking 10 (3d6) radiant
+damage on a failed save, or half as much damage
+on a successful one.
+
+
+
+                                   Liber Obscura 010 – Echoes of the Seraphim                          15
+Seraphim
+A seraph's lair is always found in sanctified
+                                                    BOSS PHASES
+places, often grand cathedrals, basilicas, or         Difficulty     Phases
+ancient holy grounds. However, these sites
+bear the scars of the seraph's descent from the       Hard           Phase 1
+heavens — a violent purging of sin, leaving
+behind a landscape marked by charred                  Nightmare      Phases 1, 1.5
+remains, scorched earth, or petrified bodies of
+the condemned. Such places are not so much            Torment        Phase 1, 2
+sanctuaries of worship as they are grim
+reminders of cruel inhumanity of heaven’s
+                                                      Hell           Phase 1, 2, 3
+wrathful judgment.
+
+
+Lair Actions                                        Phase 1.5 (CR 20 / 25,000 XP)
+                                                    When the seraph is reduced to 0 hit points the
+On initiative count 20 (losing initiative ties),
+                                                    following happens. This effect cannot happen
+the seraph can take a lair action to cause one
+                                                    more than once per day.
+of the following effects:
+                                                    • Hit Points. It is restored to half hit points.
+• Divine Lamentation: The seraph can
+                                                    • Divine Requiem. The seraph’s Divine
+    choose any number of creatures within
+                                                        Lamentation lair action now increases the
+    250 feet to be affected by a song of divine
+                                                        strength of the song by +2.
+    judgment that surrounds it; a whispering
+                                                    • Legendary Actions. The seraph can take
+    lamentation that grows and swells,
+                                                        4 legendary actions per round.
+    piercing through the very soul. When
+    combat begins, the strength of the song
+    starts at 1. Each time this lair action is      Phase 2 (CR 22 / 41,000 XP)
+    used, the strength of the song increases by     When the seraph is reduced to 0 hit points the
+                                                    following happens. This effect cannot happen
+    +1 and then all affected creatures must
+    make a Wisdom saving throw with DC              more than once per day.
+    equal to the strength of the song. On a         • Hit Points. It is restored to full hit points.
+                                                    • Divine Requiem. The seraph’s Divine
+    failure, they gain 1 level of exhaustion.
+                                                        Lamentation lair action now increases the
+                                                        strength of the song by +2.
+Boss Phases
+                                                    • Legendary Actions. The seraph can take
+This boss has phases that increase its CR. You          4 legendary actions per round.
+should run the phases for the appropriate
+adventure difficulty based on the following
+Boss Phases table. “Phase 1” refers to the
+normal monster statblock and lair actions as
+written.
+
+16                            Liber Obscura 010 – Echoes of the Seraphim
+Phase 3 (CR 25 / 75,000 XP)                         using its abilities and positioning to find some
+When the seraph is reduced to 0 hit points the      protection or control incoming damage. Its
+following happens. This effect cannot happen        approach to combat is methodical, employing
+more than once per day.                             its Divine Lamentation lair action and
+• Hit Points. It is restored to half hit points.    cherubim to wear down foes over time. Its
+• Divine Requiem. The seraph’s Divine               objective is to outlast and outmaneuver its
+    Lamentation lair action now increases the       adversaries rather than overpower them.
+    strength of the song by +3.
+• Legendary Actions. The seraph can take
+    5 legendary actions per round.
+
+
+Combat Tactics
+The seraph, while formidable in combat, has
+relatively low damage capabilities. It relies
+heavily on its high defenses and resilience,
+attempting to drag out battles until its Divine
+Lamentation exhausts its enemies to death or
+its cherubim flock grows into a deadly mass.
+As more and more cherubs swarm into
+combat, parties that are unable to stem their
+tides will quickly succumb to their petrifying
+gaze, losing their critical combat actions as
+their key members are turned to stone and
+taken out of the fight.
+    The seraph uses its innate spellcasting
+abilities strategically to bolster its defenses
+and manipulate the battlefield. It seeks to
+protect itself with spells like shield of faith,
+while using command to isolate or hinder key
+threats, or force them to open their eyes and
+make themselves vulnerable to its cherubs’
+petrifying gaze. The seraph is difficult to pin
+down due to its ability to use thunderwave or
+freedom of movement followed by additional
+movement from its Rush ability.
+    The seraph is not afraid of anything and
+will not run. It will engage in melee combat,
+but it will not expose itself to undue risk.
+Instead, it will maintain a calculated offense,
+
+                              Liber Obscura 010 – Echoes of the Seraphim                          17
+                                                          At will: bless, command, guiding bolt, shield of
+ Seraph                                                   faith, thunderwave
+ Huge celestial, lawful neutral                           2/day each: freedom of movement, hold person
+ Armor Class 18 (natural armor)                           1/day each: dominate person, dispel magic
+ Hit Points 243 (18d12 + 126)
+ Speed 40 ft., climb 40 ft.                               Magic Resistance. The seraph has advantage on
+                                                          saving throws against spells and other magical
+     STR    DEX    CON      INT      WIS      CHA         effects.
+      22     16     24        18      20       22
+     (+6)   (+3)   (+7)      (+4)    (+5)     (+6)
+                                                          Actions
+ Saving Throws Con +12, Wis +10, Cha +11
+                                                          Fist. Melee Weapon Attack: +11 to hit, reach 10 ft.,
+ Skills Perception +10
+                                                          one target. Hit: 22 (3d10 +6) bludgeoning damage
+ Damage Immunities radiant; bludgeoning,
+                                                          plus 9 (2d8) radiant damage.
+ piercing, and slashing from nonmagical attacks
+ Condition Immunities charmed, exhaustion,
+ frightened, paralyzed, petrified                         Legendary Actions
+ Senses truesight 120 ft., passive Perception 20          The seraph can take 3 legendary actions, choosing
+ Languages all, telepathy 120 ft.                         from the options below. Only one legendary action
+ Challenge 16 (15,000 XP)                                 option can be used at a time and only at the end of
+                                                          another creature's turn. The seraph regains spent
+ Angelic Weapons. The seraph’s weapon attacks are
+                                                          legendary actions at the start of its turn.
+ magical. When the seraph hits with any weapon,
+ the weapon deals an extra 2d8 radiant damage
+                                                          Rush. The seraph moves up to its speed.
+ (included in the attack).
+                                                          Quick Cast. As a reaction, the seraph casts any of
+                                                             its available spells.
+ Commander of Heaven. At the end of each of its
+                                                          Call Cherub (Costs 2 Actions). The seraph
+ turns, the seraph can summon one eye cherub to
+                                                             summons two eye cherubs to aid it in combat.
+ aid it in combat. These cherubs appear in an
+                                                             These cherubs appear in an unoccupied space
+ unoccupied space within 60 ft. of the seraph and
+                                                             within 60 ft. of the seraph and act on its
+ act on its initiative. There is no limit to how many
+                                                             initiative. There is no limit to how many eye
+ eye cherubs the seraph may summon.
+                                                             cherubs the seraph may summon.
+                                                          Flurry (Costs 2 Actions). The seraph makes one
+ Immutable Form. The seraph is immune to any
+                                                             attack with disadvantage against any number of
+ spell or effect that would alter its form.
+                                                             creatures within range of its weapon.
+ Innate Spellcasting. The seraph's spellcasting
+ ability is Charisma (spell save DC 19, +11 to hit with
+ spell attacks). It can innately cast the following
+ spells, requiring no material components:
+
+
+
+
+18                                  Liber Obscura 010 – Echoes of the Seraphim
+               ITEMS
+
+
+
+
+Liber Obscura 010 – Echoes of the Seraphim   19
+

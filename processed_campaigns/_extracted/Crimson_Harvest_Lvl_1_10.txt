@@ -1,0 +1,564 @@
+          CRIMSON HARVEST
+                       Level Scaling
+                           1 – 10
+
+
+Uncover the sinister schemes behind the doors of Bloomshade
+         Monastery in this easy-to-run adventure
+
+
+
+                                               Liber Obscura 014
+  “The path to redemption is a treacherous journey walked alone, each step
+              resonating with the sorrow of a thousand sins."
+
+
+
+
+                                    CREDITS
+Writer/Designer: Alexander H. Dovermann   Produced by: Bestiarum Games
+         his module can be run as a one-shot            Adventure Hooks
+         or as part of a persistent dark fantasy
+                                                        Use one of these hooks to begin the adventure
+
+T        campaign using Bestiarum’s Path of
+         Penitence (PoP) system. Some
+         creatures and items are unique to
+         Bestiarum’s world. Their information
+                                                        or write your own. A good hook will give the
+                                                        party a reason to explore the Bloomshade
+                                                        Monastery. They may suspect the corrupting
+                                                        nature of the crimson fruit beforehand, or only
+can be found at the end of the adventure.
+                                                        realize the horror upon their investigation.
+                                                        • Sinister Invitation: The party receives an
+Tier I. This adventure scales in difficulty
+                                                            invitation to attend the Bloomshade
+based on your party’s Average Party Level
+                                                            harvest festival to revel in the bounties of
+(APL). Use the following table to determine
+                                                            the land before the onset of the cold and
+the appropriate difficulty for your party. If your
+                                                            harsh winter months ahead.
+party finds the scenario too easy or hard, you
+                                                        • Desperate Plea: A former monk of the
+can shift difficulties, even mid-adventure!
+                                                            monastery managed to escape before
+                                                            falling to corruption. He seeks the party’s
+ADVENTURE DIFFICULTY                                        help to free his brothers from the dark
+ Difficulty                 APL                             influence which has gripped their minds
+ Beginner                   1–2                             and suspects the corruption is related a
+                                                            shipment of strange red fruit they recently
+ Easy                       3–4
+                                                            received from the Crimson Grove Abbey.
+ Medium                     5–7                         • Arcane Research: A magical scholar is
+ Hard                       8 – 10                          studying an odd crimson fruit that holds
+                                                            corruptive magical properties. The scholar
+                                                            has learned that Bloomshade Monastery
+Adventure Introduction                                      has been distributing a soup-like substance
+The Bloomshade Monastery has recently                       made from the fruit, and tasks the party
+fallen to corruption. Its clergy have been                  with investigating and retrieving a fresh
+affected by a mysterious shipment of crimson                specimen of the fruit for further study.
+fruit they received from the Crimson Grove
+Abbey. The monastery holds an annual                    Path of Penitence. If you are running a PoP
+harvest festival to share what few bounties the         campaign, any of the suggested hooks may be
+land provides with the local commoners, who             used for the adventure. The Penitent Crusade
+would otherwise starve through the winter.              may assign this mission, or the party may be
+Yet this year the festival’s normal staples of          following leads of their own volition.
+corn and wheat have been replaced by                        Location. The adventure can take place in
+ambrosia, a pulpy soup made from the flesh of           any region of the Empire of Azerai, but we
+the crimson fruit, in a sinister scheme to              suggest you place it in the western diocese
+spread their corruption.                                where old abbeys and monasteries are most
+
+
+2                                    Liber Obscura 014 – Crimson Harvest
+common, or the northern diocese where
+                                                          "Children," he intones, his voice filled with
+winters are harshest.
+                                                       fervor, "today, we share the bounty that has
+                                                       graced our humble monastery. Drink the
+Starting the Adventure                                 nectar of life and be nourished by this gift of
+This adventure starts as the party arrives at          ambrosia! Eat until you are full and satisfied!"
+the Bloomshade Monastery during the harvest               With a flourish, the man strikes open the
+festival. However, you can start earlier to            spout of the oak casket. A dizzyingly sweet
+incorporate the adventure hook and build the           aroma fills the air as crimson sludge bursts
+narrative. To begin the adventure read this            forth, erupting like a fountain and spraying
+script.                                                the stage. The monks hurriedly draw forth
+                                                       buckets, filling them to the brim with thick,
+                                                       aromatic liquid and handing them over to the
+ As you arrive at the modest grounds of the            crowd. An eager cheer rises from the
+ Bloomshade Monastery, you find a sparse               peasants as they clamor to partake, hungrily
+ gathering of ragged peasants, the stench of           gulping down the mysterious substance.
+ their soiled rags filling the air. Their sunken
+ eyes are filled with a mix of hope and
+
+                                                             HARVEST FESTIVAL
+ desperation as they congregate in loose
+ clusters, their breath just visible in the chill
+ autumnal breeze.                                     The Bloomshade harvest festival has begun.
+     In front of the crowd is a wooden stage          As part of the ceremony, participants are
+ upon which sits an enormous oak casket               expected to consume the offered ambrosia—a
+ banded with thick golden rings. Standing             concoction made from the corrupting crimson
+ around the barrel are a group of monks in
+                                                      fruit. Give the party a moment to take in the
+ dirt-brown cloaks, their faces and bodies
+                                                      scene. As the peasants hungrily suck down the
+ obscured by layers of ragged fabric. They
+                                                      thick slosh, a bucket might make its way
+ chant in a low, rhythmic drone.
+                                                      towards the party, giving them a chance to
+     As the crowd settles, the largest of the
+                                                      take it and eat or inspect the substance.
+ cloaked clergy steps forward. Though
+                                                          The party must decide whether to partake
+ obscured beneath layers of heavy linens, his
+ rotund body and trunk-like appendages make           in the ritual or abstain, a choice that will have
+ it clear that he has not known hunger for            immediate and dire consequences. The monks
+ many seasons. Sickly white jowls peek out            at Bloomshade are adamant that all guests
+ from the shadows cast by his hood, as his            should share in their “blessed” bounty. The
+ beady eyes glint beneath a ragged cowl.              adventurers’ choice may lead to either a subtle
+ Raising a hand, he silences the chanting and         infiltration or a brazen conflict.
+ the grounds fall into an unsettling quiet.
+                                                      Offered Ambrosia. If the party does not
+                                                      voluntarily drink the ambrosia by themselves,
+                                                      read this script.
+
+                                   Liber Obscura 014 – Crimson Harvest                                    3
+                                                       CRIMSON DECAY EFFECTS
+    The large man’s eyes scan the crowd intently,       Fails                    Effects
+    scrutinizing the frenzied scene of the feast,
+    before coming to rest where you linger              1         A persistent, mild nausea sets in.
+    refusing to participate.
+       "You there," he commands, pointing
+                                                        2         The skin becomes wan and pale,
+    directly toward your group, "will you not
+                                                                  and a bothersome itching begins to
+    share in this succulent bounty?”
+                                                                  affect the entire body.
+       One of the smaller monks quickly fills a
+    bucket and with a striding pace that suggests
+    both eagerness and urgency, approaches,             3         The character becomes dizzy and
+    extending the receptacle to you. As you peer                  unstable. They have disadvantage on
+    inside, you see chunks of pulpy fruit sloshing                Strength and Dexterity checks and
+    about the crimson liquid as a dizzying                        saving throws.
+    sweetness assaults your nostrils. Looking
+    about, you find the expectant eyes of the           4         Unnatural tumorous growths begin
+    entire gathering now resting upon you,                        to appear all over their body.
+    waiting for you to drink.
+                                                        5         The character’s skin begins to swell
+                                                                  and cravings for more ambrosia or
+Drinking the Ambrosia                                             crimson fruit set in.
+The ambrosia contains magical energy which
+corrupts the body and mind. Upon ingestion
+                                                        6         An obsessive compulsion to feed on
+and each 24 hours thereafter for the next 14                      more crimson fruit takes over the
+days, characters must make a DC 10                                mind. The character has
+Constitution saving throw. Each failure                           disadvantage on Wisdom and
+progresses their corruption, with physical and                    Intelligence checks and saving
+mental consequences detailed on the Crimson                       throws.
+Decay Effects table.
+   Consuming crimson fruit or ambrosia will             7         The character’s appendages swell
+cause the Bloomshade monks to believe the                         into bulbous proportions.
+party has joined their ranks, thus allowing the
+party to infiltrate the monastery more easily.          8         The character falls under the GM's
+However, if enemies in the monastery are                          control. If left alone, they will seek
+alerted to the party sneaking around acting                       out the Crimson Grove Abbey on
+suspiciously, they will still become hostile and                  what they believe to be a holy
+attack.                                                           pilgrimage, to join the ranks of new
+                                                                  acolytes.
+
+
+
+4                                   Liber Obscura 014 – Crimson Harvest
+Halting the Corruption. Purging the body of         HARVEST FESTIVAL ENEMIES
+the crimson fruit can halt the progression of
+                                                     Difficulty   Enemies
+the corruption. This may be accomplished by
+                                                     Beginner     3 grove parishioners
+inducing vomiting or otherwise physically
+extracting it.                                       Easy         8 grove parishioners
+                                                     Medium       5 grove parishioners and 1 grove
+Reversing the Corruption. The Crimson                             pastor
+Grove Abbey is located a few days’ journey
+                                                     Hard         5 grove parishioners, 1 chalice
+from Bloomshade. If a character under the
+                                                                  matron, and 1 grove pastor
+effects of crimson fruit corruption makes a
+pilgrimage there and joins the ranks of
+acolytes, they will be indoctrinated, and the       Next Steps
+physical and mental effects of corruption           The party’s next steps will be to infiltrate the
+become permanent. To reverse the corruption,        monastery and investigate its dark secrets. If
+the party must seek a powerful cure before          they all drank the ambrosia, the monastery’s
+then. This may involve a quest to find a rare       inhabitants will not be openly hostile, but will
+ingredient, a blessing from a high cleric, or a     become hostile if they see the party snooping
+powerful spell such as Greater Restoration.         around suspiciously. Any character who has
+                                                    not drunk the ambrosia will be treated with
+                                                    open hostility.
+Refusing the Ambrosia
+If the party refuses to drink the ambrosia, the
+crowd turns against them, considering their
+refusal a desecration of their sacred rite,
+resulting in a combat encounter.
+
+
+
+
+                                 Liber Obscura 014 – Crimson Harvest                                   5
+                                                   corruption stemming from the mysterious
+    BLOOMSHADE MONASTERY                           crimson fruit. Unfortunately, the clergy have
+                                                   been fully corrupted and are beyond salvation.
+Bloomshade Monastery was once a beacon of
+tranquility for the local region. However, it      As the party explores the monastery, they will
+now harbors a dark secret, its halls tainted by    find clues about the nature of the corruption
+
+
+
+
+6                               Liber Obscura 014 – Crimson Harvest
+and alarming evidence of how deep the              2) Dining Hall
+crimson decay has spread.
+                                                   The dining hall lies in disarray. Long tables
+                                                   stretch across the room, their surfaces laden
+1) Entrance Hall                                   with decaying meals untouched and wilting. In
+The entrance hall is in shambles. Tattered         the gloom, a small cadre of kitchen staff move
+banners hang from the arched ceiling and the       with eerie silence, diligently preparing more of
+air smells of a faint sweetness, the lingering     the ambrosia concoction, which they fill into
+scent of crimson fruit. Parishioners can be        large barrels for future distribution.
+seen shuffling about, performing menial tasks
+with a mindless devotion, their gazes vacant       AREA 2 ENEMIES
+and unsettling. One of the enemies carries an
+                                                    Difficulty   Enemies
+old note detailing their fall to madness, which
+                                                    Beginner     3 grove parishioners
+the party should find if they defeat them.
+                                                    Easy         3 grove parishioners and 1
+                                                                 chalice matron
+AREA 1 ENEMIES
+                                                    Medium       4 grove parishioner and 3 chalice
+ Difficulty   Enemies
+                                                                 matrons
+ Beginner     4 grove parishioners
+                                                    Hard         6 grove parishioner and 4
+ Easy         10 grove parishioners                              chalice matrons
+ Medium       13 grove parishioners
+ Hard         15 grove parishioners
+
+
+
+
+              Handout A: Old Note
+
+                                Liber Obscura 014 – Crimson Harvest                              7
+3) Kitchen                                            4) Dormitory
+At the back of the dining hall is a small kitchen     The dormitory is amess. The beds are
+where an iron cauldron filled with crimson            unmade, while prayer beads, religious texts,
+ambrosia simmers gently over a fire. Lying on         and other personal items lie carelessly
+a nearby preparation table is a stained leather       discarded throughout the area. The lack of
+journal containing writings of the monastery’s        order suggests an abrupt disruption in daily
+head cook, documenting her notes on cooking           life, as if sleep and peace were suddenly
+the crimson fruit. The head cook stands by the        forsaken. The party should conduct an
+cauldron, stirring gently and paying attention        Intelligence (Investigation) check to search
+to its careful preparation.                           the room for discarded resources, uncovering
+                                                      all the information on the Investigation Check
+AREA 3 ENEMIES                                        Results table for which they roll high enough.
+ Difficulty     Enemies
+                                                      INVESTIGATION CHECK RESULTS
+ Beginner       1 chalice matron
+ Easy           1 chalice matron                       Score      Information Deduced
+ Medium         1 chalice matron
+                                                       5+         Healing Potions. A hidden
+ Hard           1 chalice matron                                  compartment under one of the
+                                                                  beds hides a small cache of 1d4
+                                                                  potions of healing.
+
+                                                       10+        Sacks of Coin. Several small
+                                                                  pouches throughout the room
+                                                                  contain a total of 1d100 sp and
+                                                                  1d100 gp.
+
+                                                       15+        Small Chest. A small locked
+                                                                  wooden chest contains 1d4 jeweled
+                                                                  idols worth 75 gp each. The chest
+                                                                  can be picked open by making a
+                                                                  DC 15 Dexterity (Sleight of Hand)
+                                                                  check using thieves’ tools.
+                                                                  Smashing the chest destroys the
+                                                                  idols inside, making them lose half
+              Handout B: Cook’s Journal                           their value.
+
+
+
+
+8                                  Liber Obscura 014 – Crimson Harvest
+5) Library
+In this quiet library, dusty shelves hold
+countless volumes of religious texts, historical
+chronicles, and philosophical treatises. At a
+small desk, recent activity suggests that
+someone sought to understand, or perhaps
+even combat, the crimson fruit’s corruption.
+The party can attempt an Intelligence
+(Investigation) check to search for insights
+into the crimson fruit, uncovering all the
+information on the Investigation Check
+Results table for which they roll high enough.
+
+INVESTIGATION CHECK RESULTS
+                                                               Handout C: Research Notes
+ Score     Information Deduced
+                                                     6) Abbot’s Quarters
+ 5+        Research Notes. A scientific
+           volume on the desk details the            The Abbot's Quarters are still meticulously
+           crimson fruit and its effects on the      organized, with every book, scroll, and piece of
+           body and mind, as well as a small,        furniture in its proper place. The organization
+           dog-eared journal documenting the         suggests the abbot may still hold dominion
+           monastery's descent into madness,         over his mind, unlike the lower minions
+           hinting that answers might be             experiencing the crimson fruit’s corruption.
+           found in the catacombs below.             When the party enters the room, the abbot will
+                                                     be present and prepared to attack any
+ 10+       Spell Scroll. A useful spell scroll is    intruders who he suspects are digging into his
+           tucked away in one of the shelves.        secrets. The abbot is the grove pastor in this
+           Roll 1d6, the level of spell recorded     encounter.
+           on the scroll is as follows. It can be
+           any spell of the GM’s choosing.
+               • 1 – 3: cantrip
+               • 4 – 5: level 1
+               • 6: level 2
+
+
+
+
+                                  Liber Obscura 014 – Crimson Harvest                              9
+AREA 6 ENEMIES                                       Loot. If the party defeats the Abbot, they may
+                                                     roll 4d10. Based on the cumulative roll score,
+ Difficulty    Enemies
+                                                     they find the item corresponding to the highest
+ Beginner      1 grove pastor
+                                                     score they reach. Add a bonus to the
+ Easy          4 grove parishioner, 1 chalice        cumulative roll score depending on the
+               matron, and 1 grove pastor            adventure difficulty level.
+ Medium        1 chalice matron, 1 grove pastor,
+               and 1 bile guardian                    Difficulty               Loot Roll Bonus
+ Hard          6 grove parishioner, 2 chalice         Beginner                 +0
+               matrons, 1 grove pastor, and 1         Easy                     +1
+               bile guardian
+                                                      Medium                   +2
+                                                      Hard                     +3
+Abbot’s Key. In the abbot’s pocket is a key
+which unlocks Area 8, the Underground
+Chamber. The party might pick his pockets,           LOOT TABLE
+slay him, or trick him to take the key.               4d10         Item Discovered
+                                                      28+          brooch of shielding (uncommon)
+Abbot’s Correspondence. Among the papers
+on the Abbot's desk, there are several scrolls        1 – 27       nothing
+and letters between the Abbot and an
+unknown correspondent, hinting at his
+involvement with the crimson fruit corruption.
+
+
+
+
+        Handout D: Abbot’s Correspondence
+
+10                                Liber Obscura 014 – Crimson Harvest
+     Map: Abbot’s Quarters
+
+
+
+
+Liber Obscura 014 – Crimson Harvest   11
+7) Bell Tower                                      8) Underground Chamber
+The bell tower stands silent. A solemn             A foreboding locked door lies at the back of
+stairway spirals to the summit, ending in a        the monastery. The door can be opened with a
+room that is starkly barren save for a figure      key found on the Abbot in Area 6, or by
+slumped against the far wall. Here lies Brother    succeeding on a DC 20 Dexterity (Sleight of
+Marrus, the monk whose desperate search for        Hand) check using thieves’ tools. Behind the
+a cure led him to the catacombs and back, his      door, a narrow stairway descends steeply into
+journey etched in the frantic scribbles and        the earth, opening into a vast cavern where the
+scattered notes that surround his withered         air is thick with a dizzying sweetness and the
+form. In his lap rests a final entry, a single     earth beneath the party's feet feels unnaturally
+sheet of parchment upon which he records his       warm, as if heated by an unseen geological
+final resignation, his despair outlining the       phenomenon. The chamber is a made of a
+grim truth he uncovered. There are no signs of     crude stone construction, though the floor is
+violence, only the overwhelming evidence of a      bare earth. Moss clings to the walls, thriving
+spirit broken by truth and a body claimed by       on a pervasive dampness in the air.
+the very corruption he sought to prevent.             At the heart of this chamber is a
+                                                   subterranean grove, an unholy orchard of
+                                                   crimson fruit trees. Rows of the trees thrive
+                                                   here even in the absence of sunlight. Their
+                                                   clawing branches are laden and heavy with the
+                                                   strange fruit, which has shriveled leathery skin
+                                                   and hardened ridges that resemble noses,
+                                                   teeth, and other facial features. It seems the
+                                                   monastery above has become nothing more
+                                                   than a vessel for spreading the corruption of
+                                                   this deep-rooted evil.
+
+
+
+
+        Handout E: Marrus’ Resignation
+
+
+
+
+12                              Liber Obscura 014 – Crimson Harvest
+    Map: Subterranean Grove
+                   Enemies. Scattered throughout the grove are
+                   its caretakers, their bodies twisted and
+                   gnarled, mirroring the trees they cared for.
+
+                   AREA 8 ENEMIES
+                    Difficulty   Enemies
+                    Beginner     7 grove parishioners
+                    Easy         5 grove parishioner and 1 grove
+                                 pastor
+                    Medium       1 grove pastor and 1 bile
+                                 guardian
+                    Hard         2 bile guardians
+
+
+
+
+Liber Obscura 014 – Crimson Harvest                                13
+                                                   Crimson Grove Abbey. Though reference is
+Ending the Adventure
+                                                   made to the sinister abbey from where the
+When the party reaches the underground
+                                                   crimson fruit originates, it is not a part of this
+chamber, the scope of the monastery’s
+                                                   adventure. If you continue adventuring and
+influence will be revealed. Evidence of such a
+                                                   want to develop this location for your own
+bountiful harvest of crimson fruit suggests that
+                                                   stories, you can determine a location for this
+not only the monastery’s inhabitants have
+                                                   place and continue the adventure!
+become corrupted, but shortly the entire
+region’s peasants will begin to experience its
+effects if they have not feasted already. Yet
+today, only one action remains in their control
+– they must decide what to do with the grove
+of trees. Their actions are their own, but some
+suggestions are to harvest the fruit for further
+study, destroy the grove and stop the
+corruption at its source, or find a way to
+contain it, preventing its spread to the
+innocent.
+    If you are running the Sinister Invitation
+adventure prompt, the party will likely be
+motivated to find a cure once they begin to
+experience the effects of the crimson fruit
+corruption on their bodies and mind.
+    If you are running the Desperate Plea
+adventure prompt, the former monk of
+Bloomshade who managed to escape might be
+interested to learn that Brother Marrus also
+managed to escape its effects, dying in dignity
+while searching for a cure. This will bring
+some peace to his heart.
+    If you are running the Arcane Research
+prompt, the party would want to collect some
+of the fruit from Area 8, the Underground
+Chamber, to deliver for further research.
+Perhaps the scholar who retained their
+services can find a way to counteract the
+effects of the fruit’s corruption upon their
+bodies so long as they have not joined the
+ranks of the Crimson Abbey.
+
+
+14                              Liber Obscura 014 – Crimson Harvest
+                                       MONSTERS & NPCS
+
+Bile Guardian                                                Chalice Matron
+Large humanoid, chaotic evil                                 Normal humanoid, chaotic evil
+Armor Class 16 (plate armor)                                 Armor Class 12 (leather armor)
+Hit Points 138 (12d10 + 72)                                  Hit Points 38 (7d8 + 7)
+Speed 30 ft.                                                 Speed 30 ft.
+
+  STR      DEX      CON       INT       WIS      CHA           STR       DEX      CON       INT       WIS         CHA
+   22       10       22        8         12       10            10        12       12        12        14          14
+  (+6)     (+0)     (+6)      (-1)      (+1)     (+0)          (+0)      (+1)     (+1)      (+1)      (+2)        (+2)
+
+Skills Athletics +9, Intimidation +3                         Skills Religion +3, Medicine +4
+Senses darkvision 60 ft., passive Perception 11              Senses darkvision 60 ft., passive Perception 12
+Languages understands Common but can’t speak                 Languages Common
+Challenge 7 (2,900 XP)                                       Challenge 2 (450 XP)
+
+Guardian Stance. At any time, the guardian can use           Crimson Corruption. This creature has advantage on
+its reaction to change its stance, raising or lowering       saving throws against being charmed, frightened, or
+its pillar arm to shield itself or attack. When lowered,     poisoned.
+the guardian can use its pillar smash ability. While
+raised, the guardian gains +2 AC but cannot use its          Spellcasting. The chalice matron is a 3rd-level
+pillar smash ability.                                        spellcaster. Her spellcasting ability is Wisdom (spell
+                                                             save DC 12, +4 to hit with spell attacks). She has the
+Crimson Corruption. This creature has advantage on           following cleric spells prepared:
+saving throws against being charmed, frightened, or
+poisoned.                                                    Cantrips (at will): guidance, sacred flame,
+                                                               thaumaturgy
+Actions                                                      1st level (4 slots): command, detect magic, identify,
+                                                               shield of faith
+Multiattack. The guardian makes two greatsword               2nd level (2 slots): lesser restoration, spiritual
+attacks and may use pillar smash.                              weapon
+Greatsword. Melee Weapon Attack: +9 to hit, reach
+10 ft., one target. Hit: 20 (4d6 + 6) slashing damage.       Actions
+                                                             Corruptive Touch. Melee Spell Attack: +4 to hit,
+Pillar Smash (Recharge 5 – 6). The guardian slams            reach 5 ft., one creature. Hit: 14 (4d6) necrotic
+the ground with its heavy pillar arm. All other              damage, and the target must succeed on a DC 14
+creatures within 5 ft. must make a DC 11 Dexterity           Constitution saving throw or their Constitution score
+saving throw, taking 18 (2d8 + 6) bludgeoning                is reduced by -1. This affect stacks any number of
+damage on a failure or half as much on a success. All        times and lasts until the target takes a long rest. If a
+damaged creatures must succeed on a DC 17                    creature’s Constitution score is reduced to 0, it dies
+Strength saving throw or be knocked prone. The               immediately.
+guardian may only use this ability if its arm is lowered
+
+
+
+
+                                        Liber Obscura 014 – Crimson Harvest                                              15
+ Grove Parishioner                                          Grove Pastor
+ Normal humanoid, chaotic evil                              Large humanoid, chaotic evil
+ Armor Class 13 (leather armor)                             Armor Class 13 (natural armor)
+ Hit Points 16 (3d8 + 3)                                    Hit Points 95 (10d10 + 40)
+ Speed 20 ft.                                               Speed 20 ft.
+
+      STR    DEX    CON      INT      WIS      CHA            STR      DEX     CON       INT      WIS      CHA
+       10     14     12       10       10       6              16       8       18        14       12       16
+     (-+0)   (+2)   (+1)     (+0)     (+0)     (-2)           (+3)     (-1)    (+4)      (+2)     (+1)     (+3)
+
+ Senses darkvision 60 ft., passive Perception 10            Skills Religion +4, Intimidation +5
+ Damage Resistances poison                                  Senses darkvision 60 ft., passive Perception 11
+ Languages Common                                           Languages Common, one other language
+ Challenge 1/8 (25 XP)                                      Challenge 3 (700 XP)
+
+ Crimson Corruption. This creature has advantage on         Crimson Corruption. This creature has advantage on
+ saving throws against being charmed, frightened, or        saving throws against being charmed, frightened, or
+ poisoned.                                                  poisoned.
+
+ Actions                                                    Innate Spellcasting. The pastor’s innate spellcasting
+                                                            ability is Charisma (spell save DC 13). He can innately
+ Dagger. Melee Weapon Attack: +4 to hit, reach 5 ft.,       cast the following spells, requiring no material
+ one target. Hit: 4 (1d4 + 2) piercing damage.              components:
+                                                            At will: guidance, thaumaturgy, sacred flame
+                                                            1/day each: bless, sanctuary
+
+                                                            Actions
+                                                            Mace. Melee Weapon Attack: +5 to hit, reach 5 ft., one
+                                                            target. Hit: 17 (4d6 + 3) bludgeoning damage.
+
+                                                            Reactions
+                                                            Word of Obeyance (Recharge 6). When an enemy
+                                                            creature that can see and hear the pastor is about to
+                                                            use an action, the pastor may issue a twisted
+                                                            command. That enemy must succeed on a DC 13
+                                                            Wisdom saving throw or be compelled to forgo their
+                                                            action and move up to half their speed in a direction
+                                                            dictated by the pastor before immediately ending
+                                                            their turn.
+
+
+
+
+16                                     Liber Obscura 014 – Crimson Harvest
+

@@ -1,0 +1,1979 @@
+THE REMADE
+ THE DARK DESCENT
+
+
+  A 5e Compatible Adventure
+     Suitable for Levels 5-10
+
+
+
+
+                                1
+                        CREDITS
+Developed by:
+  Bestiarum Games
+
+Lead Game Designer:
+  Alexander Dovermann
+
+Game Designer:
+  Giovani C. Fiorini
+
+Graphic Design:
+  Katarina Popovici
+  Alexander Dovermann
+
+Cartography:
+  Giovani C. Fiorini
+  Alexander Dovermann
+  Katarina Popovici
+
+
+
+
+                        ON THE COVER:
+                        THE FLESHSMITH
+
+
+
+
+                        “
+                         The Fleshsmith is both mother and maker of the
+                        Remade.
+                         Sequestered away deep in her subterranean
+                        surgical theater, she is the twisted artist responsible
+                        for grafting together the horrors at her command.
+
+
+                                                                             ”
+
+
+2
+                                                                            CONTENTS
+The Dark Descent ............................................ 1                                    LOWER LEVEL: BACKGROUND .........................23
+Credits............................................................... 2                               Meeting the Fleshsmith ............................................23
+Contents ........................................................... 3
+Foreword: The World of Doaden ................ 4                                                       Acid Cocoons ...........................................................23
+Adventure Summary: The Dark Descent ...... 5                                                           Map D: Infested Mine Lower Level ........................24
+  SCENARIO STRUCTURE ..................................... 5
+                                                                                                   MAP D: AREAS.................................................25
+       Story Hook .................................................................... 5
+                                                                                                       D1) The Landing ........................................................25
+       Chapters ...................................................................... 5
+                                                                                                       D2) Abandoned Camp ...........................................25
+       Balance ........................................................................ 5
+                                                                                                       D3) Feeding Ground ................................................25
+Introduction .................................................... 6
+                                                                                                       D4) Birthing Chambers .............................................26
+  BACKGROUND INFORMATION............................. 6
+                                                                                                       D5) Fleshsmith’s Throne ............................................26
+       The Infested Mine ....................................................... 6
+                                                                                                       D6) Elevator Access..................................................27
+       The Necro Spiders & Remade ............................ 7
+                                                                                                   THE FINAL ASCENT .........................................28
+Chapter 1: A Revival in Darkness ................. 9
+  MIDDLE LEVEL BACKGROUND ........................... 9                                                The Broodmother Fight .............................................28
+
+       Grik, the Lone Survivor ............................................... 9                       Defeating the Broodmother ...................................28
+
+       Reviving the Party....................................................... 9              Epilogue ...........................................................29
+                                                                                                  ENDING THE SCENARIO....................................29
+       Map A: Infested Mine Middle Level ...................... 11
+                                                                                                       Grik’s Death ...............................................................29
+   MAP A: AREAS ................................................ 12
+                                                                                                       The Path to New Heldon ..........................................29
+       A1) Body Pit ............................................................... 12
+                                                                                                Appendix A: Bestiary .......................................30
+       A2) Tunnel Intersection ............................................ 12
+                                                                                                Swarms (Cr 2) .................................................32
+       A3) Bottomless Hole ................................................. 12                   CAVE SPIDER ..................................................32
+       A4) Infested Section ................................................. 12                   DARK ELF CULTIST ..........................................34
+       A5) Minor Nest ........................................................... 13               NECRO SERVITOR ...........................................36
+
+       A6) Elevator Control Room ..................................... 14                       Soldiers (Cr 3)................................................38
+                                                                                                  DARK ELF WARRIOR ........................................38
+       A7) Elevator Access ................................................. 14
+                                                                                                   NECRO WARRIOR ............................................40
+   ELEVATOR AMBUSH ........................................ 15
+                                                                                                   DRIDER ...........................................................42
+       Map B: Mining Elevator ........................................... 16
+                                                                                                   SWOLLEN .......................................................44
+       Ending the Encounter .............................................. 18                   Elites (Cr 5) .....................................................46
+Chapter 2: The Cult of the Spider.............. 19                                                FLESHSMITH’S DAUGHTERS .............................46
+  UPPER LEVEL: BACKGROUND .......................... 19                                            DARK ELF HIGH PRIESTESS .............................48
+       Unlocking the Elevator ............................................ 19                   Commanders (Cr 7) ........................................50
+       Grik .............................................................................. 19    FLESHSMITH, THE............................................50
+                                                                                                   FLESHSMITH’S TRIUMVIRATE ............................52
+       Map C: Infested Mine Upper Level ....................... 20
+                                                                                                ...........................................................................53
+   MAP C: AREAS ................................................ 21
+                                                                                                Bosses (Cr 10 / 12) .......................................54
+       C1) Elevator Access ................................................. 21                     THE BROODMOTHER .......................................54
+       C2) Living Quarter 1 ................................................. 21                Appendix B: Treasures ...................................57
+       C3) Living Quarter 2 ................................................. 21                  ITEMS ..............................................................57
+                                                                                                       Blood of the Maker ...................................................57
+       C4) Ceremonial Chamber...................................... 22
+       The Descent............................................................... 22
+Chapter 3: The Spider’s Den ........................ 23
+
+                                                                                                                                                                                   3
+                FOREWORD: THE WORLD OF DOADEN
+
+
+
+W
+             elcome to Doaden, the dark                 Civilization & Trade in Doaden have
+             fantasy setting of tainted lands         crumbled. Only gold, silver, and copper are
+             and twisted monsters, where an           circulated, and only at 1/10th the amount
+             ever-creeping affliction corrodes        suggested in D&D manuals. Magical items
+the very essence of existence. It is a world of       are extraordinarily rare.
+decay and depravity where once-righteous
+men and heroes of glorious purpose now                  Statblocks for Bestiarum creatures are
+struggle to survive as cults and dark gods vie        included in the scenario appendix. These
+with one another to consume the last                  creatures will be written in bold text.
+vestiges of humanity.
+   Doaden is filled with horrific scenarios and
+impossible decisions. Players will have their
+                                                       Narrative Scripts. Passages in this format
+morals challenged, and often no outcome
+                                                       are meant to be read aloud or
+will feel “good” or “just”. The heavy decisions
+                                                       paraphrased. They build atmosphere or
+these heroes make often leaves them
+disheartened, and it is important that players         reveal key information to the adventuring
+prepare themselves for this setting before             party.
+starting any adventure through the realm.
+
+  Hope. Yet as dark as Doaden may be, it is
+important that your players, as human
+                                                       Recurring Rules. These passages cover
+beings, are able to find respite from the
+darkness. Light may be found even in the               mechanics used to resolve situations in the
+darkest of places, and you should alleviate            scenario. The rule will be detailed in this
+the mood at the table if you notice your               format the first time it is used, but it may be
+players have trouble adjusting.                        referenced more than once.
+
+
+
+
+ THERE IS LIGHT YET in Doaden, and though it
+ may seldom come in the form of love or joy,
+                                                       Torment Mode. Adventurers in Doaden are
+ it still shapes itself into a semblance of honor,
+ purpose, and redemption.                              designed for Normal Mode parties ranging
+                                                       from levels 5 - 7 and Torment Mode parties
+    - Dreyen Solius, Journal of the World’s Ending.
+                                                       ranging from levels 8 - 10. Torment Mode
+                                                       modifications to encounters are written in
+                                                       this format.
+  Compatibility. This adventure is intended
+for use in conjunction with the D&D 5e
+Player’s Handbook (PHB), Dungeon Master’s
+Guide (DMG), and Monster Manual (MM).
+
+
+
+4
+        ADVENTURE SUMMARY: THE DARK DESCENT
+
+
+
+S
+           kittering horrors and hybrid            CHAPTERS
+           monstrosities inhabit the lightless
+           places below Doaden’s surface.          Chapter 1. The party wakes on a pile of
+           Subterranean caverns are infested       bodies deep in a lightless mine. They meet
+with things so horrifying that we can only         Grik, a strange survivor who knows how to
+pray they never see the light of day.              operate an old elevator to return to the
+   In these dark places, these lightless realms    surface. But escape is not so easy. The
+of the Necro Spiders, the Broodmother reigns       rattling contraption draws the attention of
+supreme. A nightmare monstrosity, her              spider swarms and the Broodmother, a giant
+chittering swarms spill forth from every           monstrosity, attacks, overpowering the party
+earthen orifice, every tunnel opening or           and preventing their escape.
+darkened pit, or from the bodies of the
+unfortunate travelers that delve too far           Chapter 2. The party escapes the
+below the surface.                                 Broodmother, plummeting back into the
+   Be wary adventurer, keep your eyes open         depths. To hatch a new escape plan, they
+and ears sharp, lest you become the next           must fight their way through ranks of spider-
+meal for those things that dwell in the dark.      worshiping, dark elf cultists.
+
+SCENARIO STRUCTURE                                 Chapter 3. Unfortunately, options for escape
+                                                   are running thin. The only hope is to descend
+This is a dungeon-crawling adventure taking        to the lowest levels of the mine; the chamber
+place entirely within an infested three-level      of the Fleshsmith, a strange being who
+mine.                                              reshapes the fallen into hideous monstrosities.
+                                                   Her blood grants superhuman reflexes and
+STORY HOOK                                         agility, allowing the drinker to dance around
+                                                   the Broodmother’s acid attacks. Drinking the
+One night, as the party camps in a darkened        blood is a gruesome act, but an act that
+woodland, they are ambushed by unknown             must be done.
+assailants, struck by unseen weapons and
+lose consciousness.                                BALANCE
+   When they wake, the party find
+themselves in an abandoned mine infested           This scenario is balanced for 3-4 players, with
+by dark elves and arachnid monsters. They          Normal Mode levels 5-7, and Torment Mode
+must learn to operate an old platform              levels 8-10.
+elevator to escape and return to the open
+air. But first, they must descend into the
+lightless depths where unknown horrors lurk.
+   This story hook may be used before, after,
+or even during another adventure,
+interrupting their journey until they find a way
+to escape.
+                                                                                                   5
+                                    INTRODUCTION
+
+
+
+T
+                                                  History of the Mine
+          he scenario begins with the party
+          being ambushed by unknown               Decades ago, this was an active mine on
+          assailants. When they wake up, they     the outskirts of the town New Heldon.
+          find themselves in an abandoned         However, one fateful day, the miners dug
+          mine infested with spider               into a Cave Arachnid burrow. Giant spiders
+monstrosities and dark elf cultists. To escape,   spilled forth, swarming through the mine and
+they must navigate the shadowy tunnels and        eating all of the miners, all except one lone
+learn to operate an old elevator, all while       survivor, a man named Grik, who has turned
+fending off the dark horrors and twisted          strange from his many years of isolation.
+nightmares that descend upon them.
+
+                                                  The Elevator
+BACKGROUND INFORMATION
+                                                  An elevator shaft connects the three levels
+The following paragraphs discuss information      of the mine and is the only way to reach the
+that will be helpful to keep in mind while        surface. The elevator is pivotal to this
+reading through and running this scenario.        scenario. The rules for operating the elevator
+                                                  are as follows.
+THE INFESTED MINE
+                                                  Platform Lever. The elevator has a lever on its
+The mine in this scenario is occupied by a        platform that makes the elevator ascend or
+group of dark elf cultists and strange spider-    descend.
+hybrid monstrosities. It has three levels, each
+of which are connected by an elevator              Platform Lever. Cranking the Platform
+shaft.                                             Lever to the right makes it rise. Cranking it
+   The Upper Level of the mine is occupied
+                                                   to the left makes it descend.
+by dark elf cultists known as the Remade.
+The cult captures victims above-ground and
+delivers them to the Fleshsmith’s spiders         Control Console. Additionally, a control
+below.                                            console is placed on each level of the mine,
+   The Middle Level is a halfway point            which can lock the elevator in place or call it
+between the cultists and the spiders in the       to the level.
+lower caverns. The cultists drop their victims
+down a hole into this level, after which the       Console Right Lever. When the lever on
+spiders take the victims to the lower depths       the right is pulling it down, it engages a
+of the cave.                                       lock on the level. If the elevator is on the
+   The Lower Level is the heart of the             level or travels downward to this level, it
+Fleshsmith’s spider nest and where she
+                                                   will become stuck until the lever is
+resides along with her spider monstrosities,
+                                                   disengaged.
+constantly stitching together her children to
+bring them back to life.
+
+
+6
+ Console Left Lever. When the lever on the           More information about the Necro Spiders
+ left is pulled down, it calls the elevator to     and Remade and is included in Appx. A:
+ the level, unless the elevator is locked on       Bestiary.
+ another level.
+                                                   The Broodmother
+Master Console. The control console on the
+                                                   The Broodmother blocks the elevator's path
+lowest level of the mine is special and acts as
+                                                   to the surface. Her giant dome webs form a
+a master control for the elevator.
+                                                   canopy over the whole mine. She was once
+                                                   the queen of the Remade but has become
+ Master Console. The master control                irreparably twisted over countless reshaping,
+ console acts similarly to the other control       now nothing more than a prowling monster.
+ consoles. However, it has the ability to              As the old hive queen, the rest of the
+ override all other consoles. The lever on         Necro Spiders continue to serve her. Her
+ the right, when used, engages or                  swarms are constantly at odds with the
+ disengages the locks on all levels.               surviving Remade.
+
+
+                                                   The Fleshsmith
+THE NECRO SPIDERS & REMADE
+                                                   The Fleshsmith was the Broodmother’s
+Years after the infestation of the mine, a
+                                                   priestess and aide in the past, but now tries
+group of dark elves moved into the mine.
+                                                   to take control of the spider colony to save it
+They formed a strange, unnatural symbiotic
+                                                   from her madness. She will gladly help the
+relationship with the cave spiders.
+                                                   party if it means slaying the Broodmother
+   Fearing the extinction of their race, the elf
+                                                   and allowing her Remade, who she refers to
+cult, calling themselves the Remade, turned
+                                                   as her children, to live in peace.
+to the forbidden art of flesh shaping. When a
+Remade dies, their remains are taken to the
+Fleshsmith, a priestess who stitches them          Wave Combat Encounters
+back together, replacing any missing limbs or
+organs with parts from spiders and other           Use the following rules when running wave-
+humanoids.                                         based encounters during this scenario.
+   The stitched bodies are then wrapped in
+strange, acidic cocoons which meld the              Spawning Waves. Spawn enemies at the
+flesh and souls together, birthing a creature       beginning of their noted round, according
+that is neither an elf nor a spider, but            to any rules which may be specified.
+something more.                                        Initiative. If an enemy spawns at the
+   Over time, individuals lose themselves as
+                                                    beginning of the first round of combat, roll
+they are reshaped again and again, their
+                                                    its initiative as normal.
+bodies turning ever more monstrous and their
+                                                       Delayed Initiative. If an enemy joins the
+minds becoming crazed and bestial. In their
+twisted form, they lose all sense of identity       fight on any round after the first, it is added
+and turn against those they once knew, now          to the end of the initiative order.
+known as Necro Spiders.                                Fast Initiative. If an enemy has a
+                                                    Dexterity modifier of +4 or higher, it is
+
+                                                                                                      7
+    placed at the beginning of the initiative      After reading this script, the party will wake in
+    order instead.                                 area A1 of the Infested Mine Middle Level
+                                                   map. Turn to Chapter 1 to continue.
+
+Starting the Adventure
+
+Start this scenario by determining what the
+players had been doing prior to this
+adventure. Completing any adventure or
+mission, or simply wandering from one place
+to another, will work. The nearest town is New
+Heldon, so this location would make a good
+link to the story.
+
+To begin this adventure, read this script:
+
+
+    The night is dark and quiet. Your small
+    campfire sends ashes floating into the air,
+    barely illuminating its surroundings as the
+    looming shadows of the woods suffocate
+    the flickering light.
+       As you prepare to sleep, a sudden gust
+    of air brushes across the camp. Your eyes
+    dart back and forth, and you think you see
+    movement in the bushes. You are about to
+    reach for your weapon, but before you
+    have a chance to move, something cold
+    pierces your neck, sending a sharp pain
+    echoing through your body.
+       In seconds, your vision narrows, and
+    your hearing dulls. Your breath quickens
+    with your accelerating heartbeat. You
+    attempt to move but your muscles
+    constrict against your will, bringing you to
+    your knees. You watch with blurred vision
+    as your comrades fall to the ground one
+    after another and looming shadows
+    emerge from between the trees. One of
+    the shadows stops and turns to you,
+    approaching you swiftly. But before you
+    can identify it, the world fades to black.
+
+
+
+8
+               CHAPTER 1: A REVIVAL IN DARKNESS
+
+
+
+U
+                                                    Remade. Grik knows some weird people live
+          pon awakening, the party finds            in the upper level of the mine. They throw
+          themselves deep in an abandoned           bodies of animals and people down into the
+          three-level mine. They begin on the       pit in area A1. The bodies are taken away by
+          middle level. However, they have          nasty spider things and stuffed into cocoons.
+          no way to gauge how deep they             After some time, the cocoons hatch into
+are.                                                even more nasty spider things.
+
+
+MIDDLE LEVEL BACKGROUND                             The Hole. The heart of the spider nest is down
+                                                    the hole in A3. It is a terrifying place and
+This middle level of the mine was used to           should be avoided at all costs. Grik will never
+transfer materials from the lower to the upper      go down here willingly.
+level. Now, it serves as a dumping ground for
+offerings made by dark elf cultists to their        REVIVING THE PARTY
+Fleshsmith.
+                                                    To continue the adventure, read this script:
+GRIK, THE LONE SURVIVOR
+                                                     You wake up in complete darkness to the
+The players may find Grik in area A2. Grik is        sound of dripping water and a soft, slimy
+friendly and wishes to help the party with           sensation beneath you.
+information, hoping to escape as well. Use              Your whole body feels sore and your
+Grik to provide information about the mines          muscles tight, as if rigid from paralysis. As
+and elevator. Grik himself hides and does not
+                                                     you slowly regain control of your arms, you
+fight. However, he should stay near the party
+                                                     reach out in the utter darkness, feeling the
+in case they have questions or want
+                                                     shape of your backpack nearby. You
+someone to talk to.
+                                                     draw a torch from the pack and with
+Grik’s Background. Grik was a miner in the           great effort fumbling with a piece of flint
+cave decades ago, he was cut off from the            and tinder, manage to light it.
+surface and has been living inside the cave             The yellowing light pushes back the
+since the spider infestation, scavenging             darkness, revealing the walls of a shallow
+meat from the corpses that the dark elf              pit around you. The pit is filled with corpses;
+cultists throw to the spiders. He will prefer not    humans, animals, and strange beasts that
+to go into detail about this gruesome                you have never seen before. They are in
+necessity.
+                                                     various stages of decomposition, with
+                                                     clear signs of blunt damage from an
+The Elevator. Grik knows the elevator is the
+                                                     apparent fall.
+only way to escape. He should direct the
+                                                        Climbing out of the pit, you find a cave
+party to area A7 and to control console at
+area A6.                                             system with a tunnel path leading forward.
+                                                     Cobwebs hang from the ceiling and the
+                                                     ground is strewn with small piles of bones.
+                                                                                                       9
+     Somewhere in the dark, you hear a
+ stone fall to the ground. There is a soft hiss
+ followed by fading stridulations of quickly,
+ hard steps.
+
+
+After reading the script, proceed to area A1
+of Map A: Infested Mine Middle Level.
+
+
+
+
+10
+MAP A: INFESTED MINE MIDDLE LEVEL
+
+
+
+
+                                    11
+                                                    You approach a wide hole in the ground,
+MAP A: AREAS                                        approximately 20 ft. across. You glance
+                                                    down as you hold out your torch. The walls
+The following paragraphs detail the                 of the hole are engulfed in several layers
+explorable areas of the mine’s middle level,        of slick white webs that thicken as the hole
+in which the party awakens.
+                                                    descends until it disappears into utter
+                                                    darkness.
+A1) BODY PIT
+                                                       Suddenly, you hear a shaky voice
+                                                    behind you.
+The party wakes in this area, the dumping pit
+of living offerings. The pit lies beneath a hole
+in the upper levels, on Map C: Infested Mine           “I… I wouldn't go down there… if I were
+Upper Level, area C2. Dark elf cultists in the      you.”
+upper level drop captured people and
+beasts down the hole and into the pit. The          Looking back you see a hunchback figure,
+party, taken as offerings in the ambush, were       frail and malnourished, peering out warily
+dumped down the hole to give to the spiders         from behind the tunnel corner. He is
+below.                                              emaciated, his milk-white skin so
+                                                    translucent that you can see the blue
+A2) TUNNEL INTERSECTION                             veins beneath it. His hair has mostly fallen
+                                                    out, just a few long strands of silky gray left
+Bones litter the ground in this area. If a          on his scalp. His form is misshapen and
+creature steps on them, several Cave Spiders
+                                                    twisted, and it is impossible to tell his age.
+lurking nearby will be alerted and attack.
+                                                       He steps forth, shielding his wide eyes
+                                                    from your torchlight with one hand.
+Enemies. If the spiders are alerted, spawn the
+following enemies near the party:
+    2x Cave Spiders                                Conversation with Grik
+
+ Torment. Add the following enemies:               The strange man is Grik. The party should
+     1x Swollen                                    speak with him now. Review his background
+                                                   and conversation notes in the Middle Level:
+                                                   Background section.
+A3) BOTTOMLESS HOLE
+                                                   A4) INFESTED SECTION
+There is a hole with a large wooden beam
+above it. A rope can be tied to the beam to
+                                                   This passageway is covered with webs, if any
+descend. A 50 ft. drop leads to the lower
+                                                   creature touches the webs, spiders will feel
+level, the heart of the Fleshsmith’s spider
+                                                   the tremors and attack.
+nest. In this area, the party is approached by
+                                                      Several broken wooden columns form a
+Grik, the lone survivor of the mine infestation.
+                                                   walkway to the other side over the webs.
+                                                   However, the wood is shattered, and
+Script. As the party approaches, read:
+                                                   creatures must carefully jump over the planks
+                                                   to avoid alerting the spiders.
+
+12
+                                                  Torment. Add the following enemies:
+Script. As the party approaches, read:
+                                                     1x Swollen
+
+ The tunnel here, including the floor, walls,
+                                                 A5) MINOR NEST
+ and ceiling, are slick with white webs.
+ Looking up, you see several twisted spider
+                                                 This area is a minor nesting ground for Cave
+ monstrosities on the ceiling. Their bodies
+                                                 Spider hatchlings.
+ are still, folded into resting positions, and
+ they do not seem to notice you or your          Script. As the party approaches, read:
+ torchlight.
+ Looking for a way to cross the webbing
+                                                  Thick cobwebs cover a cramped, lightless
+ without touching it, you see that several
+                                                  chamber. Clutches of silky, skull-sized
+ wooden support beams have fallen over a
+                                                  round eggs pulsate in darkness. You can
+ section of the webs. However, the timbers
+                                                  see a small opening at the other end of
+ have shattered, leaving a gap of several
+                                                  the room.
+ feet between the planks.
+
+                                                 Accessing area A6. The party can safely
+Crossing the Webs. A creature may walk           access area A6 through a locked door to
+onto the fallen wooden supports and jump         the side. However, to pass through this door,
+across the webs. However, they must              the party must succeed on a DC 15 Dexterity
+succeed on a DC 10 Dexterity (Acrobatics)        (Lockpick) check or smash it down with a DC
+check to cross safely. If a creature fails, it   18 Strength check.
+touches the webs and alerts the spiders.           If they fail, they must travel through the
+   If all party members successfully cross the   nest. If the webs are disturbed, they
+webs without disturbing them, skip to the        immediately hatch, spawning a wave of
+next area.                                       small spiderlings. Any creature within 10 ft. of
+                                                 the web is bitten by baby spiderlings, taking
+If a creature fails, read:                       3d4 poison damage, but the spiderlings
+                                                 move on into the darkness.
+ You fumble and touch the web, sending a
+ vibrating wave through the silky material.      If the eggs are disturbed, read:
+ You hear an inhuman screech as a                 A ripple runs through the web.
+ grotesque thing launches itself from the         There is a string of crackling, popping sounds
+                                                  followed by quick scuttling of hard appendages on
+ ceiling at you, a withered amalgamation
+                                                  the rock.
+ of humanoid and arachnid forms.                  A swarm of tiny spiderlings surges forth from under
+                                                  the webs, covering the floor and walls in an ebbing
+                                                  wave of tiny black bodies.
+Enemies. If the webs are disturbed, spawn
+                                                  They crawl up your boots and drop down from the
+the following enemies near the party:
+                                                  ceiling, stinging you with sharp fangs, their million
+   1x Drider                                      black eyes glistening in the torchlight as you
+   1x Fleshsmith’s Daughter                       frantically swat them away.
+                                                  But as quickly as they came, the swarm disappears
+                                                  past you and into the darkness.
+
+                                                                                                          13
+A6) ELEVATOR CONTROL ROOM
+
+This room contains the elevator controls.
+   Using the Elevator. The elevator is currently on this level and is locked in place. The party
+must unlock the elevator, then enter the elevator and pull the lever on the elevator platform
+to ascend.
+   Supply table. A table with old mining supplies lies in the corner of the room. The table has
+three torches, one 50 ft. piece of rope, and an empty backpack. However, if you would like to
+provide basic items to the party, you may place them in the backpack.
+
+
+
+A7) ELEVATOR ACCESS
+
+The elevator has thick metal chains attached to it on all sides. These chains are connected to
+engines that raise or lower the elevator up. However, they work automatically and do not
+need the party to interact with them.
+  Ascending. A lever on the elevator platform may be pulled to control it and make it go up.
+However, the elevator locks are engaged at the start of the scenario. Before it will work, the
+elevator must be unlocked from area A6.
+
+
+
+
+14
+ELEVATOR AMBUSH
+
+Once the lever on the elevator platform is engaged, it will begin to ascend to the top of the
+mine. This begins an ambush encounter as swarms of spiders climb onto the elevator platform.
+
+Script. Once the elevator starts rising, read this script and behind the encounter:
+
+
+ You pull the lever and the wooden platform below you begins to shake. Metal gears grind
+ against one another, making a sharp whine as the machine begins a slow ascent. Looking
+ up, you cannot make out the ceiling. The tunnel rises up into complete darkness.
+    As the elevator climbs, you notice webs on the walls, growing ever thicker, and hear
+ skittering about in the darkness above. You draw your weapons.
+    Suddenly you hear a loud shriek as a mass of distorted monstrosities emerge from holes in
+ the walls. They holler in a cacophony of high-pitched screeches and lunge toward you.
+
+
+Then, proceed to spawn the following waves.
+
+
+
+
+                                                                                                15
+MAP B: MINING ELEVATOR
+
+
+
+
+16
+Combat Rounds. Begin combat and spawn            Script. Begin by reading this script:
+the following enemies on the noted rounds.
+                                                  As you wipe your blades of green ichor,
+Round 1. Spawn:
+                                                  you look upward, finally seeing the top of
+ 1x Necro Warrior
+                                                  the cave. You are so close to freedom.
+ 1x Necro Servitor
+                                                     But to your horror, you see a slick white
+                                                  mesh glistening off your torchlight, a dome
+ Torment. Add the following enemies:
+                                                  of webs covering the entire cave and a
+    1x Necro Servitor
+                                                  massive shadow skittering upon it. Bulging
+                                                  black eyes emerge into the firelight
+Round 3. Read this script:                        followed by a gargantuan arachnid
+                                                  monstrosity. Huge legs ending in humanoid
+ Dust and stones tumble onto the elevator         hands support the creature's massive
+ as a gurgling screech echoes in the dark.        weight.
+ A chittering arachnid launches itself from          Its abdomen is a stitchwork of corpses
+ the tunnel above, clattering onto the            and pulsating sacks dripping a foul
+ platform, its swollen abdomen pulsating,         concoction. Each drop sizzles as it falls to
+ and its gaping maw dripping foul green           the elevator platform, eating through the
+ saliva.                                          wood, leaving behind nothing but black
+                                                  corrosion.
+Then, spawn:                                         With a howl, the thing lunges onto the
+  2x Swollen                                      elevator. The platform shudders and stalls
+                                                  under its weight.
+ Torment. Add the following enemies:
+    1x Necro Warrior                             Then, spawn:
+                                                   1x Broodmother
+
+Round 5. Spawn:
+ 1x Swollen                                       Torment. Use the Broodmother (Torment)
+ 1x Necro Warrior                                 statblock.
+
+
+ Torment. Add the following enemies:
+    1x Swollen
+
+
+Round 8. The Broodmother will now attack,
+but she is too strong for the party to handle.
+Use this round to introduce her as a primary
+enemy and showcase her attack pattern.
+However, before the fight develops further,
+the elevator will plunge downward, and the
+party will escape.
+
+
+                                                                                                 17
+ENDING THE ENCOUNTER
+
+After spawning the Broodmother, play out
+the first round of combat. Demonstrate her
+attacks and abilities, especially Acid Spray.
+Later, the party will find an item that counters
+this ability, so it will be good for them to see it
+now.
+
+At the end of the round, Grik will pull the
+elevator lever, forcing it to descend and
+separating the party from the monster. Read
+this script to continue:
+
+
+ Grik shrieks, running from his hiding place
+ behind a stack of chains. He yanks the
+ elevator lever, sending the machine in a
+ frantic downward fall. The giant spider
+ loses its grip on the platform, hanging
+ suspended in the tunnel above.
+     You plummet away, slamming moments
+ later into the ground, losing your footing
+ and crashing into the wooden platform as
+ it comes to a sudden halt.
+
+
+The party has arrived on the upper levels of
+the mine. Proceed to area C1 of Map C:
+Infested Mine Upper Level.
+
+
+
+
+18
+              CHAPTER 2: THE CULT OF THE SPIDER
+                                                  been smashed by a small landslide and is no
+
+
+
+
+A
+                                                  longer operational.
+           s the party escapes from the             The master control console in the lowest
+           Broodmother, the elevator              level of the mine will be the only way to
+           plummets, crashing into the upper      unlock the elevator. However, the party will
+           level of the mine. This level is the   only be aware that the master console is the
+home of the dark elf cultists, the Remade.        only hope after finding the broken console
+The elevator locks on this level were             on this level.
+engaged before the scenario, so the
+elevator has become stuck for now. The            GRIK
+party will need to unlock it to proceed.
+                                                  Grik pulled the platform lever to save
+UPPER LEVEL: BACKGROUND                           everyone from the Broodmother. You might
+                                                  hold a short conversation with Grik before
+The upper level of the mine is used by the        proceeding to provide the following
+Remade cultists as their lair. The Remade         information about his thoughts.
+dark elves are those who still retain most of        The elevator is the only hope. Grik does not
+their physical form and minds.                    know any other way to reach the surface.
+   On this level, they perform rituals and        He has searched many times but found no
+prepare offerings to the Fleshsmith, dropping     other way out. The Remade cultists seem to
+bodies they capture from the world above          have their own way to the surface, but he
+down a hole in area C4. The bodies fall to        has never found it.
+area A1 and are harvested by the                     The control console on this level should
+Fleshsmith’s spiders.                             unlock the elevator. It is in the same relative
+   The Broodmother’s crazed spiders scurry        location as the one on the middle level (Grik
+into the upper level from time to time, so the    is not aware that the console on this level
+Remade must fend them off regularly. Signs        has been destroyed).
+of old skirmishes and dead spiders litter the        The Broodmother is a terrifying monster. Grik
+area. A few of the Fleshsmith’s spider hybrids    has seen her before, but didn’t know that
+ascend to this level to support the cultists.     she now makes her nest at the top of the
+                                                  cave.
+UNLOCKING THE ELEVATOR                            Dark Potions. Grik has seen the Remade
+                                                  cultists fighting the Broodmother before. They
+The elevator control on this level was set to     drink dark potions which turn their blood
+the lock position, so as the elevator             black and allow them to move with
+descended to this level, it became locked         superhuman agility, dancing around the
+into place. The party must unlock it to           Broodmother and her Necro Spiders with
+continue.                                         ease and avoiding her acid attacks. If they
+  The elevator control console on this level is   can find some of the potions, they may be
+in the same relative location as it was in the    able to defeat the monster.
+previous level. The party will likely start by
+searching for it. However, the console has
+                                                                                                19
+MAP C: INFESTED MINE UPPER LEVEL
+
+
+
+
+20
+MAP C: AREAS                                         Directly ahead is a collapsed mine
+                                                  tunnel ending in a rail. A dead Necro
+The following paragraphs detail the               Warrior lies on the ground nearby, its
+explorable areas of the mine’s upper level,       twisted form covered in clean slash marks.
+Map C: Infested Mines Upper Level (GM).           Its ichor is dry and crusty, and its carapace
+                                                  is brittle, apparently slain several days ago.
+All rooms on this map share the following            To the left is a wall with a closed door.
+traits.
+  Cavernous Ceiling. The mine level is a large
+space rising approximately 30 ft. to the         C2) LIVING QUARTER 1
+ceiling.
+  Rocky Ridges. Many areas of this map           This room is a Remade living quarter. In the
+have large rock ridges that rise from the        corner is a small hut with nothing valuable
+ground. The ridges are 15 ft. tall.              inside.
+  Wooden Walls. Many areas of this map are         The Blood Bowl. In the center of the room is
+separated by large wooden palisades. The         a stone bowl carved atop a stalagmite. The
+palisades are complete barriers that rise from   bowl is filled with fresh blood which the
+the floor to the ceiling, A creature cannot      Remade cultists drink for sustenance.
+see through or pass through them.                  Door to C3. Along the upper area of the
+                                                 room, a ridge ascends to area C3. An open
+C1) ELEVATOR ACCESS                              wooden door connects C2 to C3.
+
+                                                 Enemies. The following enemies are in this
+The party begins here. The elevator is locked
+                                                 room:
+in place and cannot move until the party
+                                                   2x Dark Elf Cultist
+finds a way to unlock it.
+                                                   1x Dark Elf Warrior
+  Wooden Palisades block the party in all
+directions except for a wooden door leading
+to area C2. The door is closed but may be         Torment. Add the following enemies:
+opened by any creature.                              1x Drider
+  Resting Area. The room adjacent to the
+elevator is empty and quiet, allowing the
+                                                 C3) LIVING QUARTER 2
+party to take a rest.
+
+                                                 Remade huts line the walls of this raised
+When the party leaves the elevator, read:
+                                                 area.
+
+ You step out into a dark tunnel. A natural      Enemies. The following enemies are present
+ rock ridge rises before you, approximately      here.
+ fifteen feet up, atop of which a wall of         2x Dark Elf Cultist
+ thick upright logs rises another fifteen feet    1x Drider
+ to the cavern ceiling. The planks are tightly
+ fit together with no gaps between the            Torment. Replace the Drider with:
+ lumber.                                             1x Fleshsmith’s Daughter
+
+
+
+                                                                                                 21
+Items. Inside the tents is nothing useful.           Torment. Add the following enemies:
+However, on a wooden table outside of the
+                                                        1x Dark Elf Cultist
+tents are 2x Potions of Greater Healing
+(DMG. 188) and 1d8 gold.
+                                                    When combat begins, read this script:
+C4) CEREMONIAL CHAMBER                               The priestess hisses at you, reaching into
+                                                     her cloak and withdrawing a vial of dark
+The Remade hold ceremonies in this room              liquid. She murmurs a quick prayer as she
+led by the Dark Elf High Priestess. The party        downs the thick black substance.
+enters the room on an upper ridge, initially
+hidden from any enemies in the room
+                                                        “Blood of the Maker, give me
+  The Sacrifice Pit. In the center of the room is
+                                                     quickness.”
+a large hole in the floor with blood smears
+along the floor leading to it. The hole drops
+to area A1. The party was thrown through this       The Dark Elf High Priestess drinks a bottle of
+pit at the start of the adventure.                  the Blood of the Maker as the fight starts. The
+  The Elevator Console. There was once an           item is detailed in Appendix B: Gameplay
+elevator console in this room Unfortunately, it     Resources.
+was destroyed in a rockslide some time ago            During the fight, use the High Priestess to
+and is no longer operational. The party must        showcase the item’s effects by using her
+find another way to unlock the elevator.            reaction to dodge away from the first
+                                                    successful attack or area of effect ability
+Script. As the players enter the room, read:        used against her.
+
+
+ You enter on the upper ledge of a long             THE DESCENT
+ chamber illuminated by candlelight. At
+                                                    Since the elevator console in area C4 was
+ the far end of the room is a gaping hole in
+                                                    destroyed, the party’s only option is to reach
+ the floor. A spindly female priestess stands
+                                                    the master control terminal. Grik can direct
+ by the hole, carrying a staff that resembles
+                                                    them back to down, but is too scared to go
+ a twisted arachnid.                                with them, opting to stay on the elevator
+     She watches as a pale humanoid drags           platform instead.
+ a corpse to the hole, touching it on the              The Hole in area A3 descends for 50 ft. A
+ forehead and whispering something                  rope can be attached to the beam above
+ inaudibly before the other figure shoves           the hole and then the party can scale down
+ into the hole. After a moment, you hear a          the rope, arriving in area D1. The descent is
+ soft squelching thud.                              eerie as the walls are covered in layer upon
+                                                    layer of thick webs that grow thicker as the
+                                                    hole descends.
+Enemies. The following enemies are in this
+room:
+  1x Dark Elf Warrior
+  1x Dark Elf High Priestess (adjacent to the
+hole in the floor)
+
+
+22
+                     CHAPTER 3: THE SPIDER’S DEN
+
+
+
+D
+            Escending to the lowest level of     shadows, reporting to her all of the party’s
+          the cave, the party will find          activities. She will offer up her blood freely if
+          themselves in the heart of the         the party agrees to leave her in peace and
+          Fleshsmith’s nest. The party has two   slay the Broodmother. Once the hive queen,
+          objectives to accomplish on this       the Broodmother has become a mindless
+          level to escape.                       monster after too much reshaping. Now
+                                                 preying on her own kind, she must be
+First, the party must reach the master           removed so that the nest can live in peace.
+elevator control console in area D5. There,        Death Matters Not. Though the party has
+they can unlock the elevator on all levels       slain many of the Fleshsmith’s spiders and
+and call the elevator to the level.              cultists over their adventure, their deaths
+                                                 matter little. The Fleshsmith will be able to
+Second, the party must obtain the                stitch them back together and rebirth them.
+Fleshsmith’s blood, either by allying with her   However, if the Fleshsmith dies, the colony
+or killing her. They will face the Broodmother   and Remade will eventually die without her.
+again when they try to escape. Ingesting the
+Fleshsmith’s blood grants the ability to dodge   ACID COCOONS
+away from her attacks and acids, giving
+them an edge in the fight.                       Spread throughout this level are several
+                                                 greenish cocoons that hang from the ceiling.
+LOWER LEVEL: BACKGROUND                          They are stuffed with stitched bodies and
+                                                 injected with a soupy acid that is necessary
+This lowest level is the heart of the            for the reshaping process. If the cocoons are
+Fleshsmith’s spider nest.                        disturbed, they burst, spraying acid in the
+                                                 area.
+MEETING THE FLESHSMITH
+                                                  Bursting Cocoons. Whenever a creature
+The Fleshsmith resides in area D5, unable to      comes within 5 ft. of an Acid Cocoon, it
+move from her seat as her legs have               bursts. Any creature within 10 ft. must
+atrophied long ago. Her physical form is          make a DC 12 Dexterity saving throw to try
+weighed down by the many large arachnid           to avoid the acid. On a failure, it is struck
+appendages that sprout from her back. Her
+                                                  by the acid and takes 2d6 acid damage.
+hybrid arms are useful for dexterous, precise,
+                                                     Web Walk. Creatures with the Web
+surgical activities, but cannot support her
+                                                  Walker ability do not trigger the cocoons
+weight. So, she remains in place, continually
+stitching together new beings from the flesh      bursting but can still take damage from
+of the fallen and placing them into cocoons       the acid.
+to be reborn.
+  A Strange Alliance. By the time the party
+finds the Fleshsmith, she will have learned of
+their strength and mission to return to the
+surface. Her servants have watched from the
+                                                                                                  23
+MAP D: INFESTED MINE LOWER LEVEL
+
+
+
+
+24
+MAP D: AREAS                                     its abdomen, moaning as they glance
+                                                 about with blind eyes.
+The following paragraphs detail the
+explorable areas of the mine’s lower level,     Enemies. The following enemies are in this
+Map D: Infested Mines Lower Level (GM).         room:
+                                                   1x Fleshsmith’s Triumvirate
+D1) THE LANDING
+                                                 Torment. Add the following enemies:
+The party begins Chapter 3 here. Read this
+                                                    1x Cave Spider
+script to continue the scenario.
+
+                                                Items. The following items can be found in
+ You descend down the eerie descending
+                                                this room.
+ tunnel lined with layers upon layers of
+                                                   Supply table. On a wooden table along
+ webbing. As you reach the bottom of the        the wall, there is a Lamp and x3 Oil Flasks.
+ hole, you drop to firm ground, find yourself      Chest. In a chest between some old tents,
+ in a large, hollow chamber connecting to       there is one Armor +1 (DMG, p.152). You may
+ sets of branching pathways, each               determine the exact item to suit the party.
+ disappearing into the darkness. You hear
+ faint skittering echoing through the           D3) FEEDING GROUND
+ shadows.
+                                                In this room, the spiders bring bodies to feed
+                                                upon their flesh. Drained corpses litter the
+D2) ABANDONED CAMP
+                                                floor.
+
+This room is an abandoned mining camp. As
+                                                Script. As the party approaches, read:
+the party approaches, read:
+
+                                                 A pile of corpses is stacked up at the far
+ You see a large cavern. The walls are lined
+                                                 end of the small room. They are all naked,
+ with wooden tables, scattered mining
+                                                 their bodies thin and emaciated, their skin
+ tools, and a few torn tents. You can make
+                                                 leathery and tight, as if drained of all
+ out a wooden chest between two of the
+                                                 liquid.
+ tents at the far end of the wall.
+                                                    Hanging above the corpses is a
+   You are about to enter when you see a
+                                                 greenish cocoon, wrapped tightly around
+ large shadow lumbering about the center
+                                                 a man’s body. The man’s head sticks out
+ of the room. As it moves, the sound of
+                                                 of the top, clad in the unmistakable
+ scraping metal pierces your ears and you
+                                                 facemask of the Penitent Crusade. He
+ see a trail of sparks on the ground. A
+                                                 raises his head and whispers.
+ heavily armored spider monstrosity paces
+ back and forth dragging an enormous
+                                                    “I can’t feel my legs… help me.”
+ blade along the stone floor. Several
+ humanoid beings are stitched together on
+                                                Freeing the Crusader. The Crusader is
+                                                trapped in an Acid Cocoon. His lower body
+                                                                                               25
+has been completely dissolved already and          Birthing Chamber Encounter
+there is no way to save his life.
+  If his cocoon is disturbed in any way, it will   If the party touches the webs in this area,
+explode immediately and any creature               begin combat and spawn the following
+within 10ft. must succeed on a DC 12               enemies.
+Dexterity saving throw to avoid the spray or
+take 2d6 Acid Damage. The crusader dies in         Round 1. Spawn:
+the process.                                        1x Drider
+                                                    1x Cave Spider
+D4) BIRTHING CHAMBERS
+                                                    Torment. Add the following enemies:
+The ground in this room is covered in webs
+                                                       1x Cave Spider
+and considered difficult terrain. Stepping
+anywhere on the web will attract the
+attention of nearby spiders.
+                                                   Round 3. Spawn:
+Script. As the party approaches, read:              1x Fleshsmith’s Daughter
+
+
+ Webs cover the entire floor of the large           Torment. Add the following enemies:
+ cavern. Several cocoons dangle from the               1x Cave Spider
+ ceiling to hang a few feet from the
+ ground, pulsating with a sickly green glow.       D5) FLESHSMITH’S THRONE
+ They rock gently in place, moving back
+ and forth and dripping ichor that sizzles         The Fleshsmith always stays in this area,
+ into the ground.                                  unable to move from her seat. She is
+     Monstrous-looking arachnids move              surrounded by flesh materials that she uses in
+ about the place tending to the cocoons            her reshaping process.
+ and chittering to each other in a strange,          When the party first encounters her, she will
+ inhuman language.                                 offer an alliance, giving her blood freely if
+                                                   they agree to slay the Broodmother and
+     Along the left side of the cavern, a
+                                                   leave her in peace. If they agree, none of
+ wooden column walkway rises above the
+                                                   the Remade will attack them for the
+ webs and travels around the room.
+                                                   remainder of the scenario.
+ However, it is shattered in several areas
+ and several of the cocoons hang                   Script. When the party enters the room, read:
+ dangerously close to the wooden planks.
+
+                                                    You enter a strange chamber. The floor is
+Crossing the Webs. A creature may jump              littered with corpses. Many are missing
+safely across each gap in the wooden                limbs or appendages, and disconnected
+walkway by making a successful DC 6
+                                                    arms, heads, and torsos lie in organized
+Dexterity (Acrobatics) check. On a failure,
+                                                    piles.
+the creature lands on the webbed area and
+                                                       Sitting in a bizarrely serene image of
+triggers the Birthing Chamber Encounter.
+                                                    repose next to the body parts is an
+
+26
+ enormous form resembling a beautiful
+ woman, but from her back sprout a               Elevator Controls
+ multitude of arachnid limbs, lovingly rolling
+ a body and slicing it open, extracting its      The master control terminal for the elevator is
+ intestines and inner organs.                    in this room and intact, and the party may
+    The woman turns to you as you enter          use it to unlock the elevator and call it down
+ the chamber, her many arms deftly               to this level.
+ unraveling the innards and placing the
+ body down with the others. She speaks in        D6) ELEVATOR ACCESS
+ a quiet, sad voice.
+                                                 The elevator access point on this level is the
+                                                 lowest section of the elevator. Beneath the
+    “So it is you who disturb my children.
+                                                 platform area, one can make out a
+ Please, may we share words?”
+                                                 mechanical area filled with large gears
+                                                 that pull the elevator chain as they turn,
+Conversation with the Fleshsmith                 making it rise or fall. The elevator is still on the
+                                                 upper level, so to access it on this level, the
+The players may now converse with the            party must both unlock the elevator and call
+Fleshsmith or attack. If they speak with her,    it to the level.
+keep in mind the following topics.                  Grik should have remained on the elevator
+  Remade and Necro Spiders. The Fleshsmith       platform above, so he should be on it when
+will freely answer questions about the Necro     it descends to the party.
+Spiders, Remade, or reshaping process.
+  The Broodmother. The Remade suffer
+greatly under the constant attacks of the
+Broodmother. Twisted in both form and mind
+by countless reshaping processes, the old
+queen is now little more than a predatory
+monster. The Fleshsmith wants her dead so
+that her children are safe.
+
+
+Acquiring the Blood
+
+If the party agrees to slay the Broodmother
+and leave the Fleshsmith in peace, she will
+cut off one of her own spider limbs, allowing
+her dark blood to flow freely from the
+wound. The party may drink from the stream
+of thick, blackish liquid that spills from the
+appendage. Each that drinks the blood
+gains a Blood of the Maker item as included
+in Appendix B: Gameplay Resources.
+    Alternatively, the party may hack off a
+limb by force or kill her to take her blood.
+
+                                                                                                   27
+THE FINAL ASCENT
+                                                 Torment. Add the following enemies:
+Once the party unlocks the elevator, boards        1x Swollen
+it, and pulls the lever on the platform to
+make it ascend, they will face the final boss
+                                                Round X. The round after all enemies are
+battle with the Broodmother.
+                                                defeated, read:
+
+THE BROODMOTHER FIGHT
+                                                 You kick the last of the spider bodies off
+Script. When the elevator is activated, read:    the elevator platform, its legs shattering as
+                                                 it bounces off the rocky tunnel walls
+                                                 before disappearing into the darkness
+ The wooden platform begins to rattle. The
+                                                 below.
+ heavy gears churn as the contraption
+                                                   Looking up, you see the sickly white
+ begins its slow ascent once more. As the
+                                                 mass of domed webbing grow larger and
+ elevator climbs, the tunnel walls begin
+                                                 larger as the elevator climbs. Soon, you
+ once again to thicken with sticky webbing
+                                                 are able to make out the shadow of the
+ and the sounds of carapace legs clicking
+                                                 Broodmother once again, its giant,
+ on stone echoes through the dark. You
+                                                 misshapen form scuttling back and forth in
+ draw your weapons, knowing what must
+                                                 a maddened, disjointed frenzy. You
+ be done.
+                                                 tighten your grip on your weapon.
+     Grik looks about nervously before hiding
+                                                   As your torchlight reaches the monster,
+ behind a thick coil of chains.
+                                                 it howls a nightmare screech, lunging onto
+                                                 the platform once again.
+Combat Rounds: Begin combat and spawn
+the following enemies on the noted rounds.
+                                                Then, spawn:
+Round 1. Spawn:                                   1x Broodmother
+ 1x Necro Warrior
+                                                 Torment. Use the Broodmother (Torment)
+ Torment. Add the following enemies:             statblock.
+     1x Swollen
+                                                DEFEATING THE BROODMOTHER
+Round 3. Spawn:
+ 1x Swollen                                     After the Broodmother is slain, the party may
+                                                loot it. There should still be a few moments
+                                                before the elevator reaches the surface.
+ Torment. Add the following enemies:
+                                                   Loot. When the Broodmother is slain, she
+     1x Necro Warrior
+                                                will drop a Weapon +2 (DMG., p.213). You
+                                                may determine the weapon based on the
+Round 5. Spawn:                                 party.
+ 1x Swollen
+ 1x Necro Warrior
+
+28
+                                               EPILOGUE
+
+
+
+A
+                                                      hands clutch his belly. His limbs shake and
+         fter defeating the Broodmother,              he collapses into the grass, his hands
+         the elevator will ascend to the              falling away to reveal a gaping hole
+         surface. Grik follows the party as           surrounded by corroded, blackened flesh.
+         they leave. However, unknown to              His eyes roll back as his body gently
+them, he has been fatally injured during the
+                                                      shudders. Then, he is still
+fight.
+
+
+ENDING THE SCENARIO                                  GRIK’S DEATH
+
+To end the scenario, describe Grik’s death           There is no way to save Grik. He was struck
+scene, which occurs as the party returns to          by the Broodmother’s flailing stinger during
+the world above. Read this script:                   the fight. His body could not handle the
+                                                     toxins but at least he made it to the sun one
+                                                     last time.
+ The elevator creeks as it continues to rise,
+                                                       GM Note: If the Fleshsmith is still alive, the
+ the wooden platform now slick with blood            players might take Grik’s body to her to be
+ and ichor. The machine breaks free from             remade. Otherwise, he is gone forever.
+ the thick white webbing, steadily rising to
+ the surface.                                        THE PATH TO NEW HELDON
+    You fixate on a tiny pinprick of light high
+ above. At first just the size of a hair, it grows   The town of New Heldon is nearby. An hour's
+ larger and larger until it fills the entire         journey along the small dirt path will take the
+ chamber with soft white rays. The elevator          party to a main road in the open, and a few
+ comes to rest at a small landing. The               hours along the road will take the party to
+ entrance to the cave is just a few feet             the New Heldon where they can rest,
+ away.                                               restock, and recover from their experiences.
+                                                        You can treat this town as a medium sized
+    Stepping out into the morning air, you
+                                                     town with a variety of goods and services
+ find grass, trees, and a peaceful
+                                                     that the party may need. A town map and
+ woodland quiet. A thin dirt patch runs
+                                                     premade resources are included in the
+ along the ground and out of sight. A wave           adventure from the Penitent Crusade I
+ of relief washes over you as the sun                release, Indictum Dominius: the Cleansing of
+ touches your skin. As you gather yourself, a        New Heldon.
+ meek voice mumbles from behind.
+
+
+    “I…I feel…”
+
+
+ Looking back, you see Grik step forth from
+ the cave. Something is wrong. His steps are
+ unsteady and his wide eyes unfocused. His
+
+                                                                                                    29
+                            APPENDIX A: BESTIARY
+
+
+
+F
+          earing the extinction of their race, dark elf cultists, now known as the Remade, turned
+          to the forbidden art of flesh shaping. The Fleshsmith stitches together the bodies of the
+          fallen, using genetic material from the cave spiders, beasts, and other humanoids to
+          replace any missing limbs or organs. For the Remade, the reshaping process has
+become a way of achieving immortality, though the side effects that corrode the mind and
+twist the form are more than most would sacrifice.
+        Over time, as this process is repeated, the individual loses more and more of
+themselves, their bodies turning ever more monstrous and their minds becoming crazed.
+In their twisted form, they are known as the Necro Spiders.
+
+
+
+
+30
+31
+                                SWARMS (CR 2)
+
+CAVE SPIDER
+
+Cave Spiders are found throughout the deep places of Doaden, fast and deadly beasts
+adept at hunting any prey of any size that are unfortunate enough to enter their caves.
+  It was obsession with the Cave Arachne that first drove the Remade to intermix their
+genetics. Obsessed with what they perceived as the perfect biological form, they searched
+for ways to attain their agility and natural toxins.
+
+
+
+
+32
+CAVE SPIDER
+Medium beast
+
+Armor Class 11
+Hit Points 38
+Speed 30 ft.
+
+ STR    DEX      CON    INT     WIS     CHA
+  11     18       12       4     11        4
+  (0)   (+4)     (+1)    (-3)    (0)     (-3)
+
+Senses darkvision 60 ft., passive Perception
+10
+Challenge 2 (450 XP)
+
+Spider Climb. This creature can climb
+difficult surfaces, including upside down on
+ceilings, without needing to make an
+ability check.
+
+Web Walker. This creature ignores
+movement restrictions caused by
+webbing.
+
+
+ACTIONS:
+Bite. Melee Weapon Attack: +5 to hit,
+reach 5 ft., one target. Hit: 7 (2d8 + 3)
+piercing damage and 9 (2d8) poison
+damage.
+
+Web (1/Day). As a bonus
+action, this creature throws
+a web at a target within 30
+ft. The target must make a
+DC 12 Dexterity saving
+throw or is restrained by
+webbing. As an action, the
+restrained target or their
+adjacent ally can make a
+DC 12 Strength check to
+escape.
+
+
+
+
+                                                33
+DARK ELF CULTIST
+
+Dark Elf Cultists are nimble hunters, utilizing toxins extracted from the subterranean arachnids
+to paralyze their prey. Though they retain their minds and much of their bodies, many of them
+have lost limbs which the Fleshsmith has replaced with insectoid parts.
+   Yet among the Remade, these changes are considered only to be improvements,
+enhancing their natural agility and strength.
+
+
+
+
+34
+DARK ELF CULTIST
+Medium humanoid
+
+Armor Class 14
+Hit Points 27
+Speed 40 ft.
+
+ STR     DEX     CON    INT     WIS    CHA
+   13     16      10      12     14     10
+  (+1)   (+3)    (+0)    (+1)   (+2)   (+0)
+
+Senses darkvision 60 ft., passive Perception
+12
+Languages Common
+Challenge 2 (450 XP)
+
+
+
+ACTIONS:
+Multiattack (2). This creature makes two
+attacks.
+
+Claw. Melee Weapon Attack. +5 to hit,
+reach 5 ft., one target. Hit: 13 (2d10 +2)
+slashing damage.
+
+Paralyzing Dart (1/Day). Ranged Weapon
+Attack: +5 to hit, range 30/60 ft., one
+target. Hit: 3 (1d6) poison damage. If
+successful, the target becomes paralyzed
+for 1 turn.
+
+REACTIONS:
+Evade. In response to an attack or
+area effect ability, this creature may
+move up to 10 ft. in any direction. If
+the movement takes the creature out
+of range of the attack or area of the
+effect, this creature takes no damage
+from that attack or effect. This
+movement draws no opportunity
+attacks.
+
+
+
+
+                                               35
+NECRO SERVITOR
+
+Necro Servitors are the most common of the twisted form. The vast majority of the Remade
+become this grotesque and reformed being after countless reshaping processes, as their
+original genetic blueprint deteriorates over time.
+  Though awkward and shambling, Necro Servitors can be turned to all manner of tasks; from
+brutal melee, to tunneling, or carrying corpses. They serve their mad queen wordlessly, as if
+there were invisible link between them and their master.
+
+
+
+
+36
+NECRO SERVITOR
+Medium abomination
+
+Armor Class 12
+Hit Points 40
+Speed 30 ft.
+
+ STR     DEX     CON    INT     WIS     CHA
+   14     14      14       5     11        8
+  (+2)   (+2)    (+2)    (-3)   (+0)     (-1)
+
+Senses darkvision 60 ft., passive Perception
+10
+Languages Common
+Challenge 2 (450 XP)
+
+Spider Climb. Can climb difficult surfaces,
+including upside down on ceilings, without
+needing to make an ability check.
+
+Web Walker. Ignores movement restrictions
+caused by webbing.
+
+ACTIONS:
+Multiattack (2). This creature makes two
+attacks.
+
+Claw. Melee Weapon Attack: +5 to hit,
+reach 5 ft., one target. Hit: 14 (2d10 + 3)
+slashing damage.
+
+
+
+
+                                                37
+                                  SOLDIERS (CR 3)
+
+DARK ELF WARRIOR
+
+Dark Elf Warriors are generally male. Like the cultists, they retain much of their physical bodies
+and most, if not all their minds. Yet many are grafted with twisted limbs or physical features
+that form natural armor or weapons.
+
+
+
+
+38
+DARK ELF WARRIOR
+Medium humanoid
+
+Armor Class 13
+Hit Points 88
+Speed 30 ft.
+
+ STR     DEX     CON    INT     WIS    CHA
+   14     16      15      12     14     10
+  (+2)   (+3)    (+2)    (+1)   (+2)    (0)
+
+Senses darkvision 60 ft., passive Perception
+10
+Languages Common
+Challenge 3 (700 XP)
+
+
+ACTIONS:
+Multiattack (2). This creature makes two
+attacks.
+
+Cleave. Melee Weapon Attack: +4 to hit,
+reach 5 ft., two targets. Hit: 11 (2d8 + 2)
+slashing damage.
+
+
+
+
+                                              39
+NECRO WARRIOR
+
+Necro Warriors, like the servitors, have become so twisted over the years that they have lost
+their forms and minds, falling to the bestial intellect of their spliced arachnid genetics. They are
+the front-line soldiers of the Broodmother, spilling forth from the dark orifices of subterranean
+caverns to attack and kill all they find and carrying it back their queen so that she may feast
+upon the bounty of unending flesh.
+
+
+
+
+40
+NECRO WARRIOR
+Large abomination
+
+Armor Class 13
+Hit Points 88
+Speed 30 ft.
+
+ STR     DEX     CON    INT     WIS     CHA
+   18     16      16      10     18        7
+  (+4)   (+3)    (+3)    (+0)   (+4)     (-2)
+
+Senses darkvision 60 ft., passive Perception
+10
+Languages Understands Common but
+doesn’t speak
+Challenge 3 (700 XP)
+
+Spider Climb. Can climb difficult surfaces,
+including upside down on ceilings, without
+needing to make an ability check.
+
+Web Walker. Ignores movement restrictions
+caused by webbing.
+
+ACTIONS:
+Multiattack (2). This creature makes two
+attacks.
+
+Lunge. Melee Weapon Attack: +6 to hit,
+reach 10 ft., one targets. Hit: 13 (2d8 + 4)
+piercing damage.
+
+
+Cleave. Melee Weapon Attack: +6 to hit,
+reach 5 ft., two targets. Hit: 11 (2d6 + 4)
+slashing damage.
+
+
+
+
+                                                41
+DRIDER
+
+Driders are the first of the more twisted forms serving the Fleshsmith. Brutally efficient in their
+attacks, they are capable warriors and ambushers. They go forth whenever needed, heeding
+their mother’s direction, and protecting the Remade from the Broodmother’s attacks.
+
+
+
+
+42
+DRIDER
+Large abomination
+
+Armor Class 14
+Hit Points 92
+Speed 30 ft.
+
+ STR     DEX     CON     INT     WIS    CHA
+   14     18      16       12     14     10
+  (+2)   (+4)    (+3)     (+1)   (+2)    (0)
+
+Senses darkvision 60 ft., passive Perception
+12
+Languages Common
+Challenge 3 (700 XP)
+
+Spider Climb. Can climb difficult surfaces,
+including upside down on ceilings, without
+needing to make an ability check.
+
+Web Walker. Ignores movement restrictions
+caused by webbing.
+
+ACTIONS:
+Multiattack (2). The Drider makes one
+Impale attack and one Pirouette attack.
+
+Impale. Melee Weapon Attack:
++6 to hit, reach 15 ft., one target.
+Hit: 17 (3d8 + 4) piercing
+damage.
+
+Pirouette. Melee
+Weapon Attack: +6 to
+hit, reach 5 ft., three
+targets.
+ Hit: 13 (2d8 + 4) slashing
+damage.
+
+
+
+
+                                               43
+SWOLLEN
+
+The Swollen play a vital role in both the Remade society and in the Broodmother’s hive. They
+are most adept at capturing live specimens for their Fleshsmith mistress.
+  Driven to stuff themselves full of loose scraps of flesh and tendon, the inner workings of their
+bellies twist and tie this foul matter to form great messy nets and webs, which they regurgitate
+and layer around the deep tunnels. Their glands also produce copious amounts of digestive
+acids which are used in the reshaping process, and which can be spat out at enemies to eat
+away at flesh and armor.
+
+
+
+
+44
+SWOLLEN
+Large abomination                              ACTIONS:
+Armor Class 14
+Hit Points 52                                  Multiattack (2). This creature makes two
+Speed 10 ft.                                   attacks.
+
+ STR     DEX     CON    INT     WIS    CHA     Regurgitate Webs Melee Weapon Attack: +4 to
+   14     11      12       6     14       8    hit, reach 15 ft., one target. Hit: 5 (1d8 + 2)
+  (+2)   (+0)    (+1)    (-2)   (+2)    (-1)   necrotic damage. If the attack is successful,
+                                               the target must succeed on a DC 12 Dexterity
+Senses darkvision 60 ft., passive Perception
+12                                             saving throw or be restrained for one turn.
+Challenge 3 (700 XP)
+                                               Acid Gob. Tanged Weapon Attack: +3 to hit,
+Spider Climb. Can climb difficult surfaces,    reach 30/60 ft., two targets. Hit: 17 (5d6) acid
+including upside down on ceilings, without     damage. This action cannot be used if there is
+needing to make an ability check.
+                                               an enemy adjacent to this creature.
+Web Walker. Ignores movement restrictions
+caused by webbing.
+
+
+
+
+                                                                                             45
+                                   ELITES (CR 5)
+
+FLESHSMITH’S DAUGHTERS
+
+The Fleshsmith’s Daughters are honed assassins. Agile and lithesome predators, they are a
+horrifying and unique addition to the Remade ranks.
+  Darting through their cavernous domains with terrifying ease, these predatory monstrosities
+fell their prey in moments, striking from shadows above with cruel talons before once again
+disappearing into the gloom.
+
+
+
+
+46
+FLESHSMITH’S DAUGHTERS
+Large abomination
+
+Armor Class 16
+Hit Points 128
+Speed 30 ft.
+
+ STR     DEX     CON    INT    WIS     CHA
+   16     20      18      10    16      12
+  (+3)   (+5)    (+4)    (0)   (+3)    (+1)
+
+Senses darkvision 60 ft., passive Perception
+13
+Languages Common
+Challenge 5 (1,800 XP)
+
+Spider Climb. Can climb difficult surfaces,
+including upside down on ceilings, without
+needing to make an ability check.
+
+Web Walker. Ignores movement restrictions
+caused by webbing.
+
+ACTIONS:
+Multiattack (3). This Fleshsmith’s Daughter
+makes one Pounce attack and two Thrash
+attacks.
+
+Thrash Melee Weapon Attack: +6 to hit,
+reach 5 ft., two targets. Hit: 7 (1d8 + 3)
+slashing damage.
+
+Poisoned Pounce. Select a
+target within 20 ft. and pounces
+on it, moving adjacent to the
+target. This does not draw
+opportunity attacks. The target
+must succeed on a DC 12
+Dexterity saving throw or take 14
+(4d6) poison damage and then
+must succeed on a DC 12
+Constitution saving throw or
+become poisoned for 2 turns.
+
+
+
+
+                                               47
+DARK ELF HIGH PRIESTESS
+
+The Dark Elf High Priestess is the Fleshsmith’s handmaiden. She leads the Remade dark elves
+who still
+retain most of their natural form, assigning them to missions to return to the surface world and
+capture flesh material, and directing them in dark rituals of deliverance, where the bodies of
+the captured and fallen are brought to the Fleshsmith’s chambers.
+   In intimate ceremonies, she too collects the blood of the Fleshsmith, mother to all the
+Remade, and brings it to her followers so that they may drink it. In sharing the blood of their
+mother, they gain extended agility and dexterity, useful in the fight against the Broodmother’s
+servants.
+
+
+
+
+48
+DARK ELF HIGH PRIESTESS                        ACTIONS:
+Medium humanoid                                Staff. Melee Weapon Attack: +7 to hit,
+                                               reach 5 ft., one target. Hit: 2 (1d6 -1)
+Armor Class 14                                 bludgeoning damage, or 3 (1d8 - 1)
+Hit Points 45                                  bludgeoning damage if used with two
+Speed 30 ft.                                   hands.
+
+ STR     DEX     CON    INT     WIS    CHA     Poison Spray (Spell). Spray noxious poison
+    9     14      10      16     16     14     at a visible creature see within 10 ft. The
+  (-1)   (+2)    (+0)    (+3)   (+3)   (+2)    target must succeed on a Constitution
+                                               saving throw or take 6 (1d12) poison
+Senses darkvision 60 ft., passive Perception   damage.
+13
+Languages Common                                Magic Missile II (Spell) (CD
+Challenge 5 (1,800 XP)                          2). Create four glowing darts
+                                                of magical force. Each dart
+Spellcaster (DC 14, Hit +6). This creature is a hits a visible creature within
+spellcaster with Spell Save DC and +Hit         120 ft. Each dart deals 1d4 +
+with spell attacks as indicated. Spells will    1 force damage to its target.
+be noted in their Actions.                      The darts all strike
+                                                simultaneously and can be
+Quickcaster. This creature may cast one         directed at one creature or
+spell with a Bonus Action each turn.            several.
+
+Cooldowns. The notation "CD X" means           Shield (Spell) (CD 4). An
+that ability may only be used once per         invisible barrier of magical
+that number of rounds. When the ability is     force appears and protects
+used, the ability is marked with a specific    you. Until the start of your
+number. At the end of each round, all          next turn, you have a +5
+abilities on cooldown are reduced by 1.        bonus to AC.
+Abilities on cooldown reset once they
+reach 0, or once combat ends.                  Mass Healing Word (Spell)
+                                               (CD 4). Up to six visible
+                                               creatures of your choice
+                                               within 60 ft. regain hit points
+                                               equal to 1d4 + 5. This spell
+                                               has no effect on undead or
+                                               constructs.
+
+
+
+
+                                                                                             49
+                            COMMANDERS (CR 7)
+
+FLESHSMITH, THE
+
+The Fleshsmith is both mother and maker of the Remade. Sequestered away deep in her
+subterranean surgical theater, she is the twisted artist responsible for grafting together the
+horrors at her command.
+  Centuries have passed since madness drove her from her place of learning and out into the
+wilds. In her eternal quest to perfect her form, she has left in her wake a trail of torment and
+death normally reserved for the most vicious of Warlords. The unfortunate folks who are
+dragged into her deep lair are laid upon by her tools, and their harvested limbs and organs
+are used to shape the next generation of her children.
+  However, as any good mother, she loves her creation with a tender fidelity, pained and
+saddened whenever one should fall, buy joyful for the opportunity to give them life once
+more.
+
+
+
+
+50
+FLESHSMITH
+Gargantuan abomination
+
+Armor Class 12
+Hit Points 300
+Speed 0 ft.
+
+ STR     DEX     CON    INT     WIS     CHA
+   12     10      14      18     22      18
+  (+1)   (+0)    (+2)    (+4)   (+6)    (+4)
+
+Saving Throws Con +2, Wis +6, Int +4
+Senses darkvision 60 ft., passive Perception
+16
+Challenge 7 (2,900 XP)
+
+Spellcaster (DC 17, Hit +9). This creature is a
+spellcaster with Spell Save DC and +Hit
+with spell attacks as indicated. Spells will
+be noted in their Actions.
+
+Cooldowns. The notation "CD X" means
+that ability may only be used once per
+that number of rounds. When the ability is
+used, the ability is marked with a specific
+number. At the end of each round, all
+abilities on cooldown are reduced by 1.
+Abilities on cooldown reset once they
+reach 0, or once combat ends.
+
+ACTIONS:
+Push. Melee Weapon Attack: +4 to hit,
+reach 5 ft, one target. Hit: 4 (1d6 + 1)
+bludgeoning damage. If the attack is
+successful, the target is pushed 5 ft. away.
+
+Life Weaver (Spell) (CD 6). Heal
+yourself or any other creature
+within 60 ft. for 39 (6d12) hit
+points.
+
+
+
+
+                                                  51
+FLESHSMITH’S TRIUMVIRATE
+
+The Triumvirate is the finest of the Fleshsmith’s creations. A master of battle, the Triumvirate slays
+any foe that dares intrude on his mother’s sacred birthing chambers.
+  While much of her Remade are twisted and barely recognizable flesh-things, the Triumvirate
+stands out as a unique creation. The Fleshsmith has sought to combine the greatest of warriors
+together, generals and lieutenants, their merged minds and additional limbs allow them to
+share their strength and combat experience.
+
+
+
+
+52
+FLESHSMITH’S TRIUMVIRATE
+Huge abomination
+
+Armor Class 18
+Hit Points 174
+Speed 40 ft.
+
+ STR     DEX     CON     INT     WIS     CHA
+   20     18      20       10     26      14
+  (+5)   (+4)    (+5)     (+0)   (+3)    (+2)
+
+Senses darkvision 60 ft., passive Perception
+13
+Challenge 7 (2,900 XP)
+
+Spider Climb. Can climb difficult surfaces,
+including upside down on ceilings, without
+needing to make an ability check.
+
+Web Walker. Ignores movement restrictions
+caused by webbing.
+
+Cooldowns. The notation "CD X" means
+that ability may only be used once per
+that number of rounds. When the ability is
+used, the ability is marked with a specific
+number. At the end of each round, all
+abilities on cooldown are reduced by 1.
+Abilities on cooldown reset once they
+reach 0, or once combat ends.
+
+ACTIONS:
+Multiattack (2). The Fleshsmith’s Triumvirate
+makes two attacks
+
+Cleave. Melee Weapon Attack: +8 to hit,
+reach 10 ft., two targets. Hit: 15 (3d6 + 5)
+slashing damage.
+
+Sunder (CD 3). Melee Weapon Attack: +8
+to hit, reach 10 ft., one targets. Hit: 12 (2d6
++ 5) Piercing damage. If successful, the
+target’s AC is reduced by 3 and its
+movement is reduced by 10 ft. for 5
+minutes. This effect is cumulative up to
+two times.
+
+
+
+
+                                                  53
+                          BOSSES (CR 10 / 12)
+
+THE BROODMOTHER
+
+The Broodmother was once the queen of the Remade but has become irreparably twisted
+over countless reshapings. Now nothing more than a prowling monster, she and her swarms
+block prey on all, even the Remade. As the old hive queen, the rest of the Necro Spiders
+continue to serve her, gravitating towards her through some invisible connection.
+  Her swarms are constantly at odds with the surviving Remade, attacking and ambushing
+them in darkened subterranean tunnels.
+
+
+
+
+54
+ BROODMOTHER
+ Gargantuan monstrosity                            LEGENDARY ACTIONS:
+                                                   This creature can take 2 legendary actions,
+ Armor Class 16                                    choosing from the options below. Only one
+ Hit Points 231                                    legendary action option can be used at a
+ Speed 45 ft.                                      time and only at the end of another
+                                                   creature's turn. This creature regains spent
+  STR     DEX     CON    INT     WIS    CHA        legendary actions at the start of its turn.
+    22     20      22       8     12       7
+   (+6)   (+5)    (+6)    (-1)   (+1)    (-2)      Lash. Make one Leg Strike attack.
+
+ Saving Throws Dex +5, Str, +6, Con +6             Acid Spray (Costs 2 Actions). The
+ Damage Immunities Poison, Acid                    Broodmother fires out five globes of acid
+ Condition Immunities Poisoned, Frightened         from its body up to 60 ft. Each globe
+ Senses darkvision 60 ft., passive Perception      strikes a point on the ground within
+ 11                                                range, creating an acid pool within a
+ Challenge 10 (5,900 XP)                           circle from that point with a 5 ft. radius.
+                                                   Any creature in the area when the
+ Spider Climb. Can climb difficult surfaces,       globe strikes takes 21 (6d6) acid
+ including upside down on ceilings, without        damage. Additionally, any creature
+ needing to make an ability check.                 that touches an acid pool on its own
+                                                   turn takes 14 (4d6) acid damage.
+ Web Walker. Ignores movement restrictions         The acid pools last until the
+ caused by webbing.                                Broodmother’s next turn.
+
+ Cooldowns. The notation "CD X" means
+ that ability may only be used once per
+ that number of rounds. When the ability is
+ used, the ability is marked with a specific
+ number. At the end of each round, all
+ abilities on cooldown are reduced by 1.
+ Abilities on cooldown reset once they
+ reach 0, or once combat ends.
+
+
+
+ACTIONS:
+Multiattack (2). This creature makes two
+attacks.
+Leg Strike. Melee Weapon Attack: +9 to hit,
+reach 10 ft., one target. Hit: 8 (1d6 + 5)
+bludgeoning damage.
+
+Bite (CD 2). Melee Weapon Attack: +11 to
+hit, reach 10 ft., one target. Hit: 13 (2d6 + 6)
+piercing damage. If successful, the target
+makes a DC 14 Constitution saving throw,
+taking 14 (4d6) poison damage on a success
+or half as much on a failure.
+
+
+                                                                                                  55
+     BROODMOTHER (TORMENT)                          ACTIONS:
+     Gargantuan monstrosity
+                                                    Multiattack (2). This creature makes two
+     Armor Class 17                                 attacks.
+     Hit Points 247
+     Speed 45 ft.                                   Leg Strike. Melee Weapon Attack: +9 to
+                                                    hit, reach 10 ft., one target. Hit: 12 (2d6 + 5)
+      STR     DEX     CON    INT     WIS    CHA     bludgeoning damage.
+        22     20      22       8     12       7
+       (+6)   (+5)    (+6)    (-1)   (+1)    (-2)   Bite (CD 2). Melee Weapon Attack: +11 to
+                                                    hit, reach 10 ft., one target. Hit: 16 (3d6 + 6)
+     Saving Throws Dex +5, Str, +6, Con +6          piercing damage. If successful, the target
+     Damage Immunities Poison, Acid                 makes a DC 16 Constitution saving throw,
+     Condition Immunities Poisoned, Frightened      taking 17 (5d6) poison damage on a
+     Senses darkvision 60 ft., passive Perception   success or half as much on a failure.
+     11
+     Challenge 12 (8,400 XP)                        LEGENDARY ACTIONS:
+     Spider Climb. Can climb difficult surfaces,    This creature can take 2 legendary
+     including upside down on ceilings, without     actions, choosing from the options below.
+     needing to make an ability check.              Only one legendary action option can be
+                                                    used at a time and only at the end of
+     Web Walker. Ignores movement restrictions      another creature's turn. This creature
+     caused by webbing.                             regains spent legendary actions at the
+                                                    start of its turn.
+     Cooldowns. The notation "CD X" means
+     that ability may only be used once per         Lash. Make one Leg Strike attack.
+     that number of rounds. When the ability is
+     used, the ability is marked with a specific    Acid Spray (Costs 2 Actions). The
+     number. At the end of each round, all          Broodmother fires out five globes of acid
+     abilities on cooldown are reduced by 1.        from its body up to 60 ft. Each globe strikes
+     Abilities on cooldown reset once they          a point on the ground within range,
+     reach 0, or once combat ends.                  creating an acid pool within a circle from
+                                                    that point with a 5 ft. radius. Any creature
+                                                    in the area when the globe strikes takes 24
+                                                    (7d6) acid damage. Additionally, any
+                                                    creature that touches an acid pool on its
+                                                    own turn takes 17 (5d6) acid damage. The
+                                                    acid pools last until the Broodmother’s next
+                                                    turn.
+
+
+
+
+56
+                         APPENDIX B: TREASURES
+
+
+
+T
+         he following items and magical artifacts can be found in this adventure.
+
+
+
+
+ITEMS
+
+The magic items described here, if they are found, can play significant roles in the adventure.
+
+
+
+BLOOD OF THE MAKER
+
+Poison, Legendary (Ingested)
+
+This viscous black liquid tastes of bile. When consumed, it quickens the body’s reactions,
+granting the imbiber the Evade reaction. The effects of this poison last for 30 minutes and it
+must be consumed within 12 hours of harvest, or it becomes inert.
+  Evade (Reaction). In response to an attack or area effect ability, this creature may move up
+to 10 ft. in any direction. If the movement takes the creature out of range of the attack or
+area of the effect, the creature takes no damage from that attack or effect. The movement
+draws no opportunity attacks.
+
+
+
+
+                                                                                              57
+

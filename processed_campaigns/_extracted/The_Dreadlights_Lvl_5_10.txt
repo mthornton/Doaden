@@ -1,0 +1,1605 @@
+1
+    THE DREADLIGHTS
+
+     A 5E Compatible Adventure
+      For Levels 5 – 7, or 8 - 10
+
+
+
+
+2
+          THE WORLD OF DOADEN
+
+
+W
+       elcome to Doaden, the dark fantasy setting of tainted
+                        lands and twisted
+       monsters, where an ever-creeping affliction corrodes
+                   the very essence of existence.
+
+It is a world of decay and depravity where once-righteous men
+and heroes of glorious purpose now struggle to survive as cults
+and dark gods vie with one another to consume the last vestiges
+                         of humanity.
+
+It is a world of death, trapped in the fading dusk of a fallen
+                            empire.
+The heroes that wander these lands are no grand adventurers
+              to be honored in songs of minstrels.
+For the heavy deeds and decisions these wanderers undertake
+invariably leave them disheartened, broken, nothing more than
+   soulless husks and shadows of their once-glorious selves.
+
+Yet as dark as Doaden may be, humanity clings to life with a
+                      stubborn tenacity,
+           a last flickering flame within the dark.
+A last hurrah, a final war cry that shall echo in the black
+                       abyss of eternity,
+        a momentary victory before the endless night.
+
+
+
+
+                                                                  3
+                            CREDITS
+    Developed by:
+      Bestiarum Games
+
+    Lead Game Designer:
+      Alexander Dovermann
+
+    Game Designer:
+     Giovani C. Fiorini
+
+    Graphic Design:
+     Katarina Popovici
+     Alexander Dovermann
+     Marina Jukova
+
+    Cartography:
+      Giovani C. Fiorini
+      Alexander Dovermann
+      Katarina Popovici
+
+
+                               ON THE COVER:
+
+                               THE DEADMIRE
+
+                               “     The Deadmire is a marshand that stretches
+                               across the center of the Western Reaches, making
+                               it difficultt to travel from the north of the region
+                               to the south. The peaty bogs here are clogged
+                               with cadavers, nameless masses of soliders and
+                               serfs, victims to the wars of ancient kings that
+                               quarreled with one another unceasingly in the
+                               days of yore. Their reanimated corpses roam
+                               through flooded farmsteads and ruins of ancient
+                               battlefields, seeking to pull them down to drown
+                               amidst the fetid pools and strangling reeds.
+                                  Will you cross these lands with your soul
+                               intact?
+                                  Just remember ... don’t look into the lights.
+
+                                                                              ʼʼ
+4
+                                             CONTENTS
+CREDITS.....................................................4    CONTINUING THE ADVENTURE.......19
+CONTENTS................................................5        CHAPTER 3: Deadman’s Fear. ..............20
+FOREWORD..............................................6           Desperate Escape....................................21
+ADVENTURE SUMMARY: THE                                            Running the Encounter.........................21
+DREADLIGHTS.........................................7             Ending the Encounter...........................22
+ Scenrio Structure....................................7          EPILOGUE...............................................23
+ Story Hook...............................................7       The Black Fortress...............................23
+ Chapter Structure..................................7             Rewards...................................................23
+ Balance.....................................................7   TAKING IT FURTHER...........................24
+ Regional Map...........................................8        Building The Narrative...........................24
+ Deadmire Map...........................................8         Journey through the Deadmire...........24
+INTRODUCTION......................................9               The Hangman’s Tree..............................24
+ Background...............................................9       Hrodr’s Castle......................................25
+ The Deadmire...........................................9         Chapel of Sorrows................................25
+ The Dreadlights......................................9           Imperial Opinions...................................25
+ The Vias Umbrae......................................9          APPENDIX A: BESTIARY......................27
+ The Harrow Viaduct...............................9               SWARMS (CR 2)....................................28
+ The Vias Umbrae......................................9           The Restless...........................................28
+ Lunden, the Engineer............................10               Deadwalker Archer..............................30
+ Peristent Rules....................................... 11        SOLDIERS (CR 3)..................................32
+ Cooldowns.............................................. 11       Deadwalker Soldier..............................32
+ Wave Combat Encounters..................... 11                   ELITE (CR 5)..........................................34
+ Dreadlights............................................ 11       Deadwalker Batterer...........................34
+ Mission & Rewards...............................12               Dread Horsemen....................................36
+ Renown....................................................12     COMMANDERS (CR 7)........................38
+ Other Rewards.......................................12           Dread Necromancer..............................38
+ STARTING THE ADVENTURE...........12                              BOSSES (CR 10/12)................................40
+CHAPTER 1: The Dreadlights..............13                        Corpse Cart............................................40
+ The Sodden Road....................................14            Hrodr, the Cripple................................44
+ Map A: Areas. ........................................14        NON-PLAYABLE CHARACTERS........48
+ Running the Encounter. .......................15                 Lunden, Genius Engineer......................48
+ Ending the Encounter. .........................15               APPENDIX B:
+CHAPTER 2: The Old Village..............16                       ITEMS & ARTEFACTS..........................50
+ The Old Village.....................................17           The Sprengstoff......................................50
+ Map B: Areas..........................................17        APPENDIX C:
+ Running the Encounter.........................18
+                                                                 LETTERS & WRITINGS........................51
+ Ending the Encounter...........................19
+                                                                   Lunden’s Supply List..............................51
+ STARTING THE ADVENTURE
+
+                                                                                                                                 5
+                                           FOREWORD
+
+     Compatibility.
+
+
+                                                            Narrative Scripts. Passages in this
+      This adventure is intended for use in conjunction
+                                                            format are meant to be read aloud or
+    with the open license materials in the 5e Systems
+    Reference Document (SRD). References to                 paraphrased. They build atmosphere or
+    materials in the SRD including monsters, items,         reveal key information to the adventuring
+    and other materials are Italicized and may be found     party.
+    by in the SRD, in other core books, or searching
+    online.
+
+      References to Bestiarum materials are Bolded
+    and included in the scenario appendix.                  Special Rules. These passages cover
+                                                            mechanics used to resolve situations in
+                                                            the scenario. The rule will be detailed in
+                                                            this format the first time it is used, but it
+                                                            may be referenced more than once.
+     Gold & Items.
+
+
+     Civilization and Trade in Doaden have crumbled.
+                                                            Torment Mode. Adventurers in Doaden
+      Only gold, silver, and copper are circulated,         are designed for Normal Mode parties
+    and only at 1/10th the amount suggested in D&D          ranging from levels 5 - 7 and Torment
+    manuals.                                                Mode parties ranging from levels 8
+     Magical items are extraordinarily rare.                - 10. Torment Mode modifications to
+                                                            encounters are written in this format.
+
+
+
+     Abbreviations.
+
+
+     The following terms are abbreviated in Bestiarum       THERE IS LIGHT YET in Doaden, and
+    publications:                                         though it may seldom come in the form of love
+                                                          or joy, it still shapes itself into a semblance of
+     Player Character (PC);                               honor, purpose, and redemption.
+
+     Non-Playable Character (NPC);                         - Dreyen Solius, Journal of the World’s
+                                                          Ending.
+     Game Master (GM).
+
+
+
+
+6
+7
+         WESTERN REACHES MAP
+    THE RESTLESS
+
+
+
+
+             The Restless are a common sight in
+           the Deadmire.
+             Unlucky civilians that were
+           slaughtered at the whims of one lord
+           or another, their bodies were casually
+           discarded on the ground or left to
+           hang on trees by the hundred. Now,
+           these soulless husks know no rest.
+             They are driven by insatiable hunger
+           to feed on the flesh of the living, in
+           a futile attempt to feed their hollow
+           souls.
+
+
+
+
+8
+                                 INTRODUCTION
+
+
+
+T
+           his section provides background on          The Dreadlights
+         the locations, factions, characters, and
+         quests that appear in this scenario.            In the deepest bogs and fens of the Deadmire
+                                                       dance clusters of green firefly lights known as the
+                                                       dreadlights. These strange luminescent specks
+                                                       glide and swirl, pulsating gently with a soft glow,
+BACKGROUND                                             luring victims into shifting quagmires that give
+  The following information is helpful for running     way underfoot, sucking them down to suffocate
+the scenario.                                          below knotted grasses and twisted reeds. Nobody
+                                                       knows what the dreadlights are, but tales say they
+                                                       are spirits of the lost, disquieted dead that suffered
+                                                       here long ago, cursing all who travel here to join
+THE DEADMIRE                                           their fate.
+  The Deadmire is a marshland that stretches
+across the Western Reaches, making it difficult to
+travel from the north to the south of the region,      The Vias Umbrae
+or vice versa. Legends say that long ago, before it
+was conquered by Old Empire, the region was a            The Vias Umbrae is a large basalt road that runs
+pastoral land of farms and fertile plains. But war     through the Deadmire. Built by the Old Empire
+changes things.                                        after it conquered the Western Reaches, it is now
+                                                       maintained by the Penitent Crusade, who use it
+  For centuries, the scattered kingdoms of the age     to carry supplies to the Black Fortress, and so it
+fought one another, sending their legions to fight     is safer than the rest of the Deadmire. Along the
+and die upon the plains to satisfy the whims of        road are several landmarks that allow travelers
+their lords. Tales say that the crimson lifeblood of   to gauge their location. One should always stay
+these soldiers soaked into the earth, saturating the   close to the road, for the further one strays, the
+soil until it could hold no more, overflowing and      more likely they are to encounter the horrors of
+drowning the land in a blighted marshland.             the Deadmire.
+  The peasants that inhabited the land fared
+no better. Caught amidst the brimstone rain of
+catapults and clashing waves of iron pikes, their      The Harrow Viaduct
+towns were pillaged and burned. They were hung
+from trees by the hundred or slaughtered like pigs       The Harrow Viaduct is a large bridge that
+and disposed of on the sides of the road, at the       crosses the treacherous and otherwise impassable
+hands of one forgotten lord after another.             Blackwater River. The bridge is an important
+                                                       marker and lies approximately a half day’s
+  Today, the place is a cursed mire that stretches     journey from the northern edge of the Deadmire.
+on for many miles, requiring a week’s journey          It is a welcome sight that signifies an end to the
+to traverse. Though the truth of such legends          journey. Unfortunately, the bridge has collapsed,
+is uncertain, those who have traveled the mire         and the party cannot use it for now. They will be
+whisper of rotten soldiers rising from the muck,       forced to follow the byways into the deeper mire
+and eerie lights that glimmer above its placid         instead.
+black waters.
+
+
+
+                                                                                                                9
+     LUNDEN, THE ENGINEER
+       Lunden is a genius engineer that studied in Allstein for years. The Penitent Crusade has urgent need
+     of him at the Black Fortress, their stronghold that stands against the evils of the Ashen Wastes. The
+     party must escort Lunden through the Deadmire to the Black Fortress. Everything that happens at the
+     Black Fortress is highly classified and not even Lunden knows what they need him for.
+
+
+                                                          THE BLASTEN-VAGEN
+                                                            Lunden drives a strange, horseless carriage
+                                                          he calls the “Blasten-Vagen.” It is pulled by a
+                                                          metal machine that eats coal and breathes fire.
+                                                          The design is his own, and just one of his many
+                                                          inventions. The carriage is laden with 10 large
+                                                          Precious Crates, each is a wooden box that
+                                                          weighs approximately 25 pounds and is packed
+                                                          full of his schematics, blueprints, mechanisms,
+                                                          and inventions. These boxes contain the sum of
+                                                          Lunden’s life work. He would be heartbroken to
+                                                          lose them or his precious Blasten-Vagen.
+
+
+
+
+10
+PERSISTENT RULES                                    Dreadlights
+  The following persistent rules apply throughout
+this scenario.                                        Dreadlights play a role in this adventure’s map-
+                                                    based encounters. Each dreadlight starts Dim but
+                                                    may Pulse brightly. Use the following rules to run
+COOLDOWNS                                           the dreadlights.
+
+  Some monsters have an abilities with
+cooldowns, limiting the number of times that             Dim Lights. When a dreadlight is Dim,
+ability can be used. Cooldowns range from 1 to 6,        it does not have any special effect. All
+so you can track them on a d6.                           dreadlights begin in a dim state.
+
+
+
+
+     Cooldowns. The notation “Cooldown
+     X” means that an ability may only be
+     used once per that number of rounds.                  Pulsing Lights. Every third combat
+     When the ability is used, the ability is            round, or 18 seconds of character
+     marked with the specific number. At                 time, randomly select a dreadlight.
+     the end of each round, all abilities on             The dreadlight will pulse brightly for a
+     cooldown are reduced by 1. Abilities                moment. The closest PC within 60 ft. of
+     on cooldown reset once they reach 0,                that dreadlight must succeed on a DC
+     or once combat ends.                                18 Wisdom saving throw. On a failure,
+                                                         they are charmed, falling into a trance-
+                                                         like state. While charmed, a creature
+                                                         will make one Move Action each turn
+                                                         to calmly walk towards the center
+                                                         of the dreadlight, taking no other
+Wave Combat Encounters                                   actions that round. The enchantment
+                                                         is magical and creatures that are blind
+Use the following rules when running wave-based
+                                                         are immune to it.
+encounters.
+                                                           Breaking the Trance. Whenever an
+                                                         enchanted creature takes damage, they
+     Spawning Waves: spawn enemies at
+                                                         may reroll their Wisdom saving throw.
+     the beginning of their noted round,
+                                                            Helping Hands. Allies may attempt
+     according to any rules which may be
+                                                         to grapple, restrain, or otherwise
+     specified.
+                                                         interfere with an enchanted creature.
+                                                         Enchanted creatures will use their
+                                                         second action to try to contest such
+     Delayed Initiative. If a creature joins             actions to reach the dreadlight
+     the fight on any round after the first,                Join the Dead. Deadmire enemies
+     it is added to the end of the initiative            will ignore enchanted creatures unless
+     order.                                              they are the only targetable creatures
+                                                         on the map, prioritizing non-enchanted
+                                                         creatures first
+
+
+
+                                                                                                         11
+                                                                                                          11
+     MISSION & REWARDS                                     STARTING THE ADVENTURE
+
+
+       The party’s mission is to escort Lunden, a            To begin the adventure, describe the party’s
+     genius engineer, through the Deadmire and to          journey through the Deadmire.
+     the Black Fortress, the stronghold of the Penitent
+     Crusade.                                                 It is a bleak and sullen place. The only signs
+                                                           of civilization are the crumbling ruins of ancient
+       Lunden drives a strange, horseless carriage he      towns that once dotted the land, slowly sinky into
+     calls the Blasten-Vagen, a metal machine that eats    peaty black waters. The ground is slick with muck
+     coal and breathes fire.                               and tangling reeds, and the thick air is saturated
+                                                           with the fumes of rot and mold.
+                                                             The party will have been traveling for
+     RENOWN                                                approximately one week with Lunden and his
+                                                           Blasten-Vagen, when they come to the Harrow
+                                                           Bridge.
+      This mission is assigned by the Templar                The bridge is a landmark that signals travelers
+     Rangers, the dominant Order cell in the Western       are a half day’s journey out of the Deadmire.
+     Reaches.                                              Unfortunately, it has collapsed, and they will have
+       Upon successful completion of the mission,          to take a byway to continue.
+     each party member will gain +1 Renown for the           Additional prompts are included in the Taking
+     Templar Rangers.                                      it Further section at the end of the scenario to
+      Renown is used to acquire special benefits from      build a longer experience.
+     various cells of the Order.
+      Lists of artifacts, resources, upgrades, and other
+     benefits offered by each cell are included in the
+     Bestiarum 5e Game Master Guide.
+
+
+
+     OTHER REWARDS
+
+
+      Lunden has additionally pledged a reward of 25
+     gold for his safe delivery.
+      Depending on how well the party does, they
+     may gain some or all of the reward.
+      For each Precious Crate the party loses in the
+     Deadmire, subtract 1 gold from the reward.
+       If the Blasten-Vagen is destroyed, subtract an
+     additional 10 gold from the reward.
+      If Lunden dies, they receive none of the reward.
+
+
+12
+   CHAPTER 1:
+THE DREADLIGHTS
+
+
+
+
+                  13
+                  13
+     D
+               isaster! As the party takes a byway       THE SODDEN ROAD
+               to find an alternate crossing over the
+               Blackwater River, the Blasten-Vagen         This section is depicted by Map A: Sodden
+               runs through a ditch, taking heavy        Road. This is a wave-based encounter. The
+     damage to its wheel and engine and becoming.        party must survive as risen dead spawn from the
+     immobilized. But worse, the dead begin to rise      waters. The dreadlights will occasionally pulse,
+     from the nearby marshes and the eerie dreadlights   enchanting the nearest party member and drawing
+     begin to flicker.                                   them off to drown in the water.
+       The party must hold off the dead and try to
+     survive.
+
+
+       To begin this encounter, read the following
+     script.
+
+
+
+
+           The Blasten-Vagen’s engine churns,
+         expelling a thick plume of smoke as it
+         propels the carriage through the bleak
+         landscape. Lunden peers out a window,
+         holding tight to a brass steering wheel.
+           Suddenly, you hear a rending metallic
+         screech. You are thrown to the ground
+         as the wagon lurches to a violent halt.
+         Pulling yourself upright, you step outside
+         with Lunden to assess the damage, your
+         boots sinking into the wet earth. As he
+         lights a small oil lamp to get a better
+                                                         MAP A: AREAS
+         view, you hear a deep growl.
+           Turning swiftly, you see a dozen               The following areas correspond to Map A:
+         shadows rising from the black waters
+         nearby. As they shamble into the firelight,     Sodden Road. The party starts around area A1.
+         you see corpses in rags and ruined armor.
+         They look at you with sunken, eyeless           A1) The Blasten-Vagen
+         faces, their arms clawing the air as their
+         rotten teeth gnash.                              The party starts here, surrounding the wagon.
+           Above the waters is a strange glow, a
+         cluster of dancing specks of green light.       A2) Dreadlights
+         As you peer into them, you hear an airy,
+         disembodied melody. A soothing warmth             There are five dreadlights around the map.
+         spreads over your skin. Lunden shouts           To randomly select a light, you can roll a d10,
+         you as he draws his pistol, “Don’t look at      assigning one light to pulse on 1-2, 3-4, 5-6, 7-8,
+         ze lights!”                                     and 9-10.
+
+
+
+14
+Running the Encounter                                  Ending the Encounter
+
+  Begin combat immediately. Lunden should                At the end of round 11, the dreadlights fade and
+climb on top of the Blasten-Vagen. From here, he       disappear. The party can finish off any remaining
+can make a ranged attack once per round or help        enemies.
+the party where needed. But let the party handle         Lunden will need fifteen minutes to run
+most of the encounter themselves.                      diagnostics tests before repairing the damage to
+                                                       the Blasten-Vagen. There is an abandoned village
+Combat Rounds                                          visible in the distance. When Lunden finishes his
+  Spawn the following enemies on each combat           tests, he will write down a list of supplies, asking
+round. Spawn them anywhere on the map,                 the party to visit the village to search for them. In
+shambling out of the water onto solid ground.          the meantime, Lunden will begin repairs. Since
+                                                       the dreadlights are gone, he will be safe and will
+Round 1. Spawn 2x Restless.                            not need any protection.
+                                                         To repair the Blasten-Vagen, Lunden needs
+        Torment. Add 1x Deadwalker Soldier.            one Long Metal Rod, one Bellows, one Wagon
+                                                       Wheel, and one Wooden Bucket.
+Round 2. Spawn 1x Restless.
+         Torment. Add 1x Deadwalker Soldier.
+                                                        Lunden’s Supply List
+Round 4. Spawn 1x Deadwalker Archer.
+
+         Torment. Add 1x Deadwalker Batterer.
+Round 6. Spawn 1x Restless.
+
+Round 8. Spawn 1x Restless and 1x
+
+Deadwalker Archer.
+
+
+
+
+ Dreadlights over Deep Water
+
+  Most of the water in the map is shallow water
+and counts as difficult terrain. However, when a
+PC reaches a dreadlight, they sink into a hidden
+pocket of deep water. Creatures enchanted by the
+dreadlights cannot swim or hold their breath, so
+each turn they start in these pockets of deep water,   CONTINUING THE ADVENTURE
+they drown, taking 6d6 until it is reduced to 0.
+When it reaches 0, it must begin rolling its death      When the party is ready, proceed to Chapter 2.
+saving throws.
+
+
+
+
+                                                                                                               15
+       CHAPTER 2:
+     THE OLD VILLAGE
+
+
+
+
+16
+A
+         pproximately one mile from the               THE OLD VILLAGE
+         damaged Blasten-Vagen is an abandoned
+         village. Here, the party may scavenge         The following areas correspond to Map B: The
+         about to gather supplies for Lunden.         Old Village. The party starts around area B1.
+  To begin this encounter, read the following
+                                                       MAP B: AREAS
+script.
+     You make your way along the sodden road
+   for some time until you see the outline of a         The following paragraphs detail important areas
+   crumbling town, its ruined structures sinking      of Map B: Old Village.
+   into the soft ground and black waters. A
+   moss-covered signpost names the place as
+   Sloughfen.                                         B1) Ruined Townhouse
+     As you approach, a gust of wind blows,
+   spinning a weathervane on a nearby roof.
+   The weathervane lets out a sharp creak as the
+                                                        The party enters the village in this area by the
+   long metal arrow turns to point south. Risen       road. A house and a watermill stand next the path.
+   corpses on the roof growl as they reach feebly     Both are two stories, with a 15 ft. tall first story
+   towards the source of the sound.                   and a 30 ft. tall second story. Both of the second
+     Coming to the town gate, you see more            stories are small, circular areas that take up only
+   of the strange swirling lights. An eerie,          half the area of the first story.
+   disjointed melody rings throughout the dirt          Between the roofs of the first stories is a
+   streets. The sound emanates from the top           makeshift wooden plank that acts as a bridge. A
+   of a large stone tower, its ramparts lit by a
+                                                      wooden ladder rests on the side of the watermill
+   brilliant glow that pulses with the dreadlights.
+   Atop the tower, a crooked, pale figure hunches
+                                                      near the road, rising to the first story.
+   over a strange instrument made of a thousand
+   bones.
+
+
+
+
+                                                                                                             17
+     Enemies. On top of the first story roof of the         Objective Item (Wooden Bucket).
+     house is 1x Deadwalker Soldier. On top of the           At the bottom of the well is a large wooden
+     second story roof of the house are 2x Deadwalker       bucket but the party will have to deal with the
+     Archers.                                               Deadwalker Batterer to get it.
+
+              Torment. Add 1x Deadwalker Soldier on         B4) Broken Cart
+              the first story roof of the watermill.
+                                                              In this area is an old, broken wagon and a
+                                                            nearby graveyard. The wagon has one good wheel
+       Objective Item (Large Metal Rod).                    that would be suitable for the Blasten-Vagen.
+        On top of the second story roof is a metal
+     weathervane. It is designed with a long metal          Enemies. 2x Restless are on top of the cart.
+     arrow that can be repurposed for Lunden’s use.         Additionally, 1x Restless is pinned to the ground
+                                                            beneath the cart but can shake itself free if it sees
+      B2) Blacksmith                                        an enemy. With a DC 16 Wisdom (Perception)
+                                                            check, a character may notice the Restless under
+       In this area is a rundown blacksmith shop. A         the cart before it comes out.
+     fallen tree has collapsed onto its roof, which can
+     be climbed. In the front yard is a smelter.
+                                                                     Torment. Add 2x Restless near the
+                                                                     graveyard.
+      Enemies. In the yard by the smelter is 1x
+     Deadwalker Batterer.
+                                                            Objective Item (Wagon Wheel).
+             Torment. Add 1x Deadwalker Archer on
+                                                              The party can take one of the wagon’s wheels
+             the roof of the blacksmith shop.
+                                                            for Lunden.
+
+      Objective Item (Bellows).                             B5) Dread Necromancer’s Tower
+      On the ground by the smelter is a bellows.
+                                                              On a small hill is a stone tower. The tower is
+     B3) Gallows                                            45 ft. tall. A sturdy, reinforced door blocks the
+                                                            entrance of the tower. It may be picked by passing
+       In this area is an old gallows platform. A 50 ft.    a DC 20 Dexterity check while using Thieves’
+     rope in good condition lies on the ground nearby.      Tools. A winding stone staircase leads to the top
+     It was used to measure and cut sections for            of the tower.
+     hangings.                                                At the top of the tower, a sinister necromancer
+       Near the gallows is a large well. The well is ten-   plays a strange instrument made of bone. As he
+     foot wide and 50 ft. deep. The well’s pulley still     plays, the instrument emits a similar glow to
+     has a rope attached, but the rope has frayed and       the dreadlights, but significantly stronger. The
+     torn. The well bucket has fallen to the bottom.        instrument connects the necromancer’s senses
+                                                            to the dreadlights throughout the Deadmire. The
+     Enemies. Next to the Gallows is 1x Dread               necromancer is preoccupied with his instrument
+     Horseman and 1x Deadwalker Soldier. Stuck              and won’t notice the party in the town.
+     in the bottom of the well is 1x Deadwalker               However, if a living creature touches a
+     Batterer.                                              dreadlight on this map, the necromancer will see
+                                                            them and attack.
+              Torment. Add 1x Deadwalker Soldier
+              near the Gallows.
+
+
+
+
+18
+Enemies. On top of the tower is 1x Dread              CONTINUING THE ADVENTURE
+Necromancer.
+                                                       When the party is ready, proceed to Chapter 3.
+B6) The Dreadlights
+                                                          As you touch the eerie dreadlight, the
+  There are three dreadlights around the map.           music echoing throughout the village
+To randomly select a light, you can roll a d6,          suddenly stops. The lights in the area
+assigning one light to pulse on 1-2, 3-4, and 5-6.      pulse intensely and vanish.
+                                                          The hunched figure on the tower turns,
+Running the Encounter                                   revealing an eyeless face. It’s decaying
+                                                        maw opens, letting out a bloodcurdling
+ The Old Village has many alleyways and places          screech as it points a pale finger at you.
+to be explored. The party starts on the road near
+area B1.
+
+Lunden’s Supplies
+
+  In this encounter, the party must find the
+needed parts to fix Blasten-Vagen. In area B1,
+they can take the Large Metal Rod from the
+weathervane. In area B2, they can find the
+Bellows in the yard. In area B3, they can find the
+Wooden Bucket at the bottom of the well. In area
+B4, they can find the Wagon Wheel attached to
+the wagon.
+
+Dreadlight Sight
+
+  If any living creature touches a dreadlight on
+this map, the Dread Necromancer in area B5
+will see them as his senses are connected to the
+lights. If this happens, read the following script
+and make it attack the party.
+
+Killing the Necromancer.
+
+  If the party defeats the , the dreadlights in the
+area disappear.
+
+
+Ending the Encounter
+
+  When the party has gathered Lunden’s
+materials, they may return to the Blasten-Vagen
+from the way they came.
+
+
+
+
+                                                                                                        19
+       CHAPTER 3:
+     DEADMAN’S FEAR
+
+
+
+
+20
+W
+            hen the party returns to Lunden with
+            the supplies, it will take him an hour          The thing is a humanoid monstrosity,
+            to make all of the repairs. Lunden will       an amalgamation of wood, flesh, and
+            use the Large Metal Rod to replace            bone. It runs with an uneven gait, its
+a bent axle and the Wagon Wheel to replace a              long, slender arms and legs swinging
+broken wheel.                                             chaotically as it sprints towards you,
+  The damage to the engine can’t be repaired              pushing a hellish carriage. It plucks
+without a proper workshop, but Lunden plans               risen soldiers from its path, hurling them
+to use the Bellows to manually stoke the engine           onto the cart and impaling them on rows
+flame. This should supercharge the combustion,            of ribcage spike that line its carriage
+compensating for the damage to the engine, but            bed.
+potentially making for a bumpy ride.
+  The Bucket was not necessary, but Lunden            Running the Encounter
+expects the supercharged engine to make the
+carriage jerk about as it blasts through the            At the start of the chase sequence, the Corpse
+marshland. People may get nauseous, and he            Cart is 50 ft. behind the Blasten-Vagen. Have the
+would rather have them throw up into the bucket       party roll initiative, then place the Corpse Cart
+than onto the floor of his beloved Blasten-Vagen.     last on the initiative order.
+                                                        The chase will last for 8 rounds, at the end of
+                                                      which, the Blasten-Vagen breaks free from the
+DESPERATE ESCAPE                                      mucky byways and returns to the Vias Umbrae
+                                                      Road, blasting forward on stable ground once
+  The final encounter for the party is a desperate    more and escaping the monster.
+chase sequence. As the repaired Blasten-Vagen
+starts up, its damaged engines emit a loud noise      Party Actions
+that draws out a Corpse Cart, chasing them as            Each round the PCs may take actions to increase
+they make their escape.                               the gap between the Blasten-Vagen and the
+  To start this chapter, read the following script.   Corpse Cart.
+                                                      Attacks. PCs may attack with one of their
+                                                      weapons, spells, or abilities. Each successful
+                                                      action slows the Corpse Cart, pushing it back 5
+                                                      ft. However, PCs have disadvantage on any such
+                                                      actions as the Blasten-Vagen is moving rapidly
+                                                      and jerking about.
+      With the Blasten-Vagen fixed, you board
+                                                      The Bellows. As an action, a PC may pump
+    the carriage, grabbing a handlebar to
+                                                      the Bellows, stoking the engine and jolting the
+    hold yourself steady. Lunden looks to you
+                                                      Blasten-Vagen forward, increasing the distance
+    and nods as he pulls a brass-knobbed
+                                                      from the Corpse Cart by 15 ft. The Bellows may
+    lever. The engine roars to life with a
+                                                      only be used once per round, and whenever it is
+    bellowing explosion, spitting flames and
+                                                      used, all PCs must make a DC 12 Constitution
+    embers into the darkness.
+                                                      saving throw. On a failure, they become nauseous
+      As the wagon jolts forward, a
+                                                      and throw up, losing all actions on their next turn.
+    nightmarish wail rings out from a cluster
+                                                      Precious Crates. The party may use an action
+    of nearby willows. A massive bone-white
+                                                      to dump one of Lunden’s Precious Crates onto
+    thing bursts forth, towering over the trees
+                                                      the road, hindering the Corpse Cart and pushing
+    and snapping them as it gives chase.
+                                                      it back 5 ft. There are 10 Precious Crates in the
+                                                      Blasten-Vagen.
+
+
+                                                                                                             21
+     Corpse Cart Actions                                   now fight the Corpse Cart on foot. Determine if
+       During the encounter, the Corpse Cart does not      you would like Lunden to be in the fight or if you
+     take damage, so the only important trait is its AC.   would like the PCs to fight on their own. Lunden
+     On each of its turns, the Corpse Cart moves 25        can fight or be knocked unconscious and revived
+     ft. closer to the Blasten-Vagen. If the Corpse Cart   after the fight.
+     ends within 0 ft. of the Blasten-Vagen, it may                  Torment. Use the Corpse Cart (Torment)
+                                                                     statblock.
+     make one attack with its long arms, dealing one
+     automatic Hit to the Blasten-Vagen.                   Successfully Escaping
+              Torment. Use the Corpse Cart (Torment)         At the end of 8 rounds, the Blasten-Vagen
+              statblock.                                   makes it back to the Vias Umbrae Road. On stable
+                                                           and paved ground once more, it blasts forward,
+       Lunden’s Actions
+                                                           leaving the Corpse Cart far behind. Falling into
+       Lunden will be focused on driving the Blasten-      the distance, the Corpse Cart turns back and
+     Vagen, so he can’t help the party. However, you       vanishes into the mire.
+     can use him to make suggestions such as using the
+     Bellows if the Corpse Cart is getting too close or    Ending the Encounter
+     dropping Precious Cargo boxes (although he will
+     be sad about each box lost).                           However the encounter ends, proceed to the
+       For Small Parties. If the party has three PCs       Epilogue.
+     or fewer, they will have a disadvantage in this
+     encounter. In this case, allow Lunden to make one
+     attack per round.
+       Hitting the Blasten-Vagen
+       The Blasten-Vagen can take three Hits, suffering
+     greatly from each strike from the Corpse Cart.
+     After each hit, describe the severe damage caused
+     by the blows.
+       On the fourth Hit, the Blasten-Vagen is
+     completely destroyed. Lunden and the party
+     are thrown to the ground amidst the burning
+     wreckage of the vehicle. Each PC takes 2d6
+     bludgeoning damage from the fall. The party must
+
+
+
+
+22
+                                         EPILOGUE
+
+
+D
+          eath is a constant in the bleak swamps        REWARDS
+          of the Deadmire.
+          If Lunden dies at any point, their quest
+                                                        Renown.
+          will result in failure, and they must
+                                                         If Lunden survived, the party will gain +1
+escape from the region on their own. They would
+                                                        Renown with the Templar Rangers.
+not be able to repair or operate the Blasten-Vagen
+without a trained engineer.
+                                                        Gold.
+  If the party successfully protects Lunden, they
+                                                          If Lunden survived, he will pay them 5 gold for
+can finish escorting him out of the Deadmire and
+                                                        his life. Additionally, he will pay them 10 gold if
+to the Black Fortress.
+                                                        the Blasten-Vagen survived, and 1 gold for each
+                                                        Precious Crate that he still has.
+THE BLACK FORTRESS
+  The Black Fortress is an enormous stronghold          Special Rewards.
+with towering walls that reach to the north and           If Lunden survived, regardless of what he lost,
+south, stretching the length of a mountain pass         he will appreciate the party for saving him from
+heading into the region known as the Ashen              the horrors of the Deadmire. He will gift them the
+Wastes.                                                 Sprengstoff, his unique pistol weapon invention.
+  The fortress itself is highly restricted, but there   In the future, he may become a friend and ally,
+is a Penitent Crusade encampment outside of the         lending his expertise to the party.
+fortress where the party can interact and meet
+with officers and soldiers. From there, Lunden
+will continue on to the fortress while the party
+must take their leave.
+  However, the party may find food and supplies
+in the camp, as well as healers that may take
+care of any wounds they received during their
+adventure.
+
+
+
+
+                                                                                                              23
+                                           TAKING IT
+                                            FURTHER
+
+
+     T
+             his scenario is designed to be run in one     Generally, fewer risen dead are seen on the
+             session and require minimal preparation.    Vias Umbrae Road, but the threat always exists.
+             However, the following suggestions will     Unfortunately, travelers are often forced to
+             help you to craft a longer experience for   diverge from the road for one reason or another,
+     your players in the grim world of Doaden if you     taking them through the deeper and more
+     wish.                                               dangerous bogs and fens of the Deadmire.
+
+     BUILDING THE NARRATIVE                              The Hangman’s Tree
+       The following suggestions can be used to craft
+     additional encounters.                                Along the Vias Umbrae Road are several
+                                                         landmarks which travelers use to gauge their
+                                                         distance into the mire.
+     Journey Through The Deadmire
+                                                           The Hangman’s Tree lies directly in the middle
+                                                         of the journey. It is an eerie thing with dead
+       This adventure takes place in one day, but the
+                                                         branches and tangled roots. During the times of
+     journey through the Deadmire typically takes one
+                                                         warring kingdoms, throngs of peasants were hung
+     week under the best of circumstances.
+                                                         from its sturdy boughs, at times by the hundred.
+       You can use the Deadmire Map included in
+                                                           On the darkest of nights, it is said that you may
+     the adventure to generate your own encounters.
+                                                         still see their corpses hanging from the cursed
+     Prompts for some landmarks are suggested, but
+                                                         thing, swaying in the wind.
+     you can create your own stories as well.
+
+
+
+
+24
+Hrodr’s Castle                                        Imperial Opinions
+
+  There are many lost castles and fortresses in the     The Holy Empire’s strict laws and imperialist
+deep parts of the Deadmire, slowly sinking into       doctrines are the source of much strife around the
+the muck.                                             world.
+  Tales tell of a strange one-eyed giant that lives     However, servants of the Empire hold their God
+in one of them, coming up from the dungeons to        Emperor in the highest regard.
+crawl about the moonlit courtyard at night.             They view the story of the Deadmire as a
+  Explorers of this castle might even find some       cautionary tale, an example of the destructive
+possessions or clues about his monster’s past.        outcomes of decentralized power, as weak,
+                                                      squabbling kings are left to bicker with one
+                                                      another, senselessly spilling the blood of their own
+                                                      people, with no benefit or purpose to anyone.
+                                                         It was the God Emperor and his conquering
+                                                      armies that united the world and allowed people to
+                                                      rise above such senselessness.
+
+
+
+
+Chapel of Sorrows
+
+  Deep in the Deadmire are many lost villages,
+towns, and even cities, overrun with choking
+reeds and half-covered in peaty bog water.
+  In one of these lost places lies the Chapel of
+Sorrows, from which travelers have claimed to
+emit the loud and piercing wails of the dead,
+screaming in agony as if they were being burned
+alive.
+  The building itself is an eerie sight, a charred
+structure with boarded-up windows and doors.
+
+
+
+
+                                                                                                             25
+26
+                                    APPENDIX A:
+                                     BESTIARY
+
+
+F
+          or centuries, before the Empire, the
+          scattered kingdoms of the Western
+          Reaches fought one another in ceaseless
+          wars, sending their legions to fight and
+die upon the plains to satisfy the whims of their
+lords.
+  Tales say that the crimson lifeblood of these
+soldiers soaked into the earth, saturating the soil
+until it could hold no more, overflowing and
+drowning the plains in a blighted marshland.
+  Today, the place is cursed. Though the truth of
+such legends is uncertain, those who travel here
+whisper of rotten soldiers rising from the muck
+and eerie lights that glimmer above placid black
+waters in the deeper mire.
+  Trapped in an everlasting cycle of agony
+and torment, the damned souls here shamble
+aimlessly about in peaty bogs and mucky
+quagmires.
+  Driven by a need to satiate their soulless husks
+of bodies, they are drawn to feed on all forms of
+life. Though decrepit and eyeless, they are able to
+identify prey, through some strange paranormal
+sense.
+
+
+
+
+                                                      27
+     SWARMS (CR 2)
+      THE RESTLESS
+
+
+
+
+                The Restless are a common sight in the Deadmire.
+                 Unlucky civilians that were slaughtered at the
+           whims of one lord or another, their bodies were
+           casually discarded on the ground or left to hang on
+           trees by the hundred.
+              Now, these soulless husks know no rest.
+              They are driven by insatiable hunger to feed on the
+           flesh of the living, in a futile attempt to satiate their
+           hollow souls.
+
+
+
+
+28
+RESTLESS
+Medium undead
+
+Armor Class: 15
+Hit Points: 67
+Speed: 40 ft.
+
+
+STR     DEX CON            INT WIS         CHA
+ 12       10        16       4        8       4
+(+1)     (+0)     (+3)     (-3)    (-1)     (-3)
+
+
+Damage Immunities: Poison
+Condition Immunities: Poisoned
+Senses: Blindsight 20 ft.,
+Passive Perception 9
+Languages: -
+Challenge: 2 (450 XP)
+
+
+Undead Fortitude. If damage reduces this creature
+to 0 hit points, it must make a Constitution saving
+throw with a DC equal to 5 + the damage taken,
+unless the damage is radiant or from a critical hit.
+On a success, this creature drops to 1 hit point
+instead.
+Decrepit Senses. This creature can only see and
+hear up to 40 feet.
+Flesh Driven. If this creature sees or hears a living
+creature, it will be able to continue to sense that
+living creature for the next 24 hours, regardless of
+distance.
+Pack Tactics. This creature has advantage on attack
+rolls if at least one of its allies is within 5 feet of the
+target, and the ally isn’t incapacitated.
+
+ACTIONS:
+Multiattack. This creature makes two attacks.
+
+Claw. Melee Weapon Attack: +3 to hit, reach 5 ft.,
+one target. Hit: 8 (2d6 + 1) slashing damage.
+
+
+                                                              29
+     DEADWALKER
+       ARCHERS
+
+
+
+
+             Deadwalker Archers prowl the Deadmire,
+          clutching bows and arrows.
+             Though nothing more than shambling wretches,
+          their withering limbs are still strong enough to hit
+          their targets.
+
+
+
+
+30
+DEADWALKER ARCHER
+Medium undead
+
+Armor Class: 15
+Hit Points: 60
+Speed: 30 ft.
+
+
+STR    DEX CON          INT WIS        CHA
+ 10      12       16      4       8      4
+(+0)    (+2)     (+2)   (-3)    (-1)   (-3)
+
+
+Damage Immunities: Poison
+Condition Immunities: Poisoned
+Senses: Blindsight 20 ft.,
+Passive Perception 9
+Languages: -
+Challenge: 2 (450 XP)
+
+
+Undead Fortitude. If damage reduces this creature
+to 0 hit points, it must make a Constitution saving
+throw with a DC equal to 5 + the damage taken,
+unless the damage is radiant or from a critical hit.
+On a success, this creature drops to 1 hit point
+instead.
+Decrepit Senses. This creature can only see and
+hear up to 40 feet.
+Flesh Driven. If this creature sees or hears a living
+creature, it will be able to continue to sense that
+living creature for the next 24 hours, regardless of
+distance.
+
+ACTIONS:
+Multiattack. This creature makes two attacks.
+
+Rusted Dirk. Melee Weapon Attack: +4 to hit,
+reach 5 ft., one target. Hit: 4 (1d6 + 1) piercing
+damage.
+
+Shortbow. Ranged Weapon Attack: +4 to hit, range
+80/320 ft., one target. Hit: 9 (2d6 + 2) piercing
+damage.
+
+                                                        31
+     SOLDIERS (CR 3)
+      DEADWALKER
+        SOLDIERS
+
+
+
+
+                Deadwalker Soldiers are those who fought and
+             died in the Deadmire long ago.
+                As legend holds, legion after legion spilled
+             their dark blood here, soaking into the earth and
+             saturating the soils until the earth could hold no
+             more, overflowing into a sickened marshland.
+                Even in the afterlife, their shambling corpses
+             cling to their weapons, mindlessly seeking to kill.
+
+
+
+
+32
+DEADWALKER SOLDIER
+Medium undead
+
+Armor Class: 16
+Hit Points: 82
+Speed: 30 ft.
+
+
+STR    DEX CON          INT WIS        CHA
+ 14      14      16      7       10       7
+(+2)    (+2)     (+3)   (-2)    (+0)    (-2)
+
+
+Damage Resistances: Poison
+Condition Immunities: Poisoned
+Senses: Blindsight 20 ft.,
+Passive Perception 10
+Languages: -
+Challenge: 3 (700 XP)
+
+
+Undead Fortitude. If damage reduces
+this creature to 0 hit points, it must make
+a Constitution saving throw with a DC
+equal to 5 + the damage taken, unless the
+damage is radiant or from a critical hit.
+On a success, this creature drops to 1
+hit point instead.
+Decrepit Senses. This creature can
+only see and hear up to 40 feet.
+Flesh Driven. If this creature sees or hears a living
+creature, it will be able to continue to sense that
+living creature for the next 24 hours, regardless of
+distance.
+
+ACTIONS:
+Multiattack. This creature makes two attacks.
+
+Rusted Dirk. Melee Weapon Attack: +5 to hit,
+reach 5 ft., one target. Hit: 12 (3d6 + 2) slashing
+damage.
+
+
+
+
+                                                        33
+     ELITE (CR 5)
+     DEADWALKER
+      BATTERERS
+
+
+
+              Batterers are monstrous brutes, covered in plate
+           armor and wielding massive bludgeons, they were
+           used to smash through the front lines of enemy
+           regiments.
+              Though slow and mindless, these creatures have
+            the strength to shatter their victims with a single
+              blow of their spiked mauls.
+
+
+
+
+34
+DEADWALKER BATTERERS
+Large undead
+
+Armor Class: 16
+Hit Points: 142
+Speed: 20 ft.
+
+
+STR    DEX CON          INT WIS        CHA
+ 18      12      18      7       7       7
+(+4)    (+1)    (+4)    (-2)    (-2)   (-2)
+
+
+Damage Resistances: Poison
+Condition Immunities: Poisoned
+Senses: Blindsight 20 ft.,
+Passive Perception 8
+Languages: -
+Challenge: 5 (1,800 XP)
+
+
+Undead Fortitude. If damage reduces this creature
+to 0 hit points, it must make a Constitution saving
+throw with a DC equal to 5 + the damage taken,
+unless the damage is radiant or from a critical hit.
+On a success, this creature drops to 1 hit point
+instead.
+Decrepit Senses. This creature can only see and
+hear up to 40 feet.
+Flesh Driven. If this creature sees or hears a living
+creature, it will be able to continue to sense that
+living creature for the next 24 hours, regardless of
+distance.
+
+ACTIONS:
+Multiattack. This creature makes two attacks.
+
+Smash. Melee Weapon Attack: +7 to hit, reach 5 ft.,
+one target. Hit: 14 (3d6 + 4) bludgeoning damage.
+
+Obliterate (Cooldown 4). Make four Smash attacks
+against the same target. On each attack, add 1d6
+piercing damage.
+
+
+                                                        35
+       ELITE (CR 5)
+     DREAD HORSEMEN
+
+                The Dread Horsemen were a much-feared
+             cavalry that was trained to crash relentlessly
+             through the flanks of any opposing armies.
+                They have fallen from their place of prestige,
+             their pale, sickened mares carrying them like
+             deathly specters into combat once more.
+                Still lingering to memories of war, these
+             battle-scarred veterans charge fearlessly into the
+             fray once more.
+
+
+
+
+36
+DREAD HORSEMEN                                              damage.
+                                                            Thrust. Melee Weapon Attack: +6 to hit, reach 10
+Large undead
+                                                            ft., one target. Hit: 14 (3d6 + 3) piercing damage.
+
+Armor Class: 16
+Hit Points: 110
+Speed: 60 ft.
+
+STR     DEX CON           INT WIS         CHA
+ 16      16        16      9        12       7
+(+3)     (+3)     (+3)    (-1)    (+1)     (-2)
+
+Damage Resistances: Poison
+Condition Immunities: Poisoned,
+Senses: Blindsight 20 ft.,
+Passive Perception 11
+Languages: -
+Challenge: 5 (1,800 XP)
+
+
+Undead Fortitude. If damage reduces this
+creature to 0 hit points, it must make a
+Constitution saving throw with a DC equal
+to 5 + the damage taken, unless the damage
+is radiant or from a critical hit. On a success,
+this creature drops to 1 hit point instead.
+Decrepit Senses. This creature can only see and
+hear up to 40 feet.
+Flesh Driven. If this creature sees or hears a living
+creature, it will be able to continue to sense that
+living creature for the next 24 hours, regardless of
+distance.
+Dread Charge. If this creature moves at least 20ft.
+straight toward a target, its first Thrust attack against
+that target in the same turn has an additional +4 to
+hit and deals an additional 4d6 piercing damage.
+Additionally, if the Thrust attack succeeds, the
+target must succeed on a DC 14 Strength saving
+throw or be knocked prone.
+
+ACTIONS:
+Multiattack. This creature makes two attacks.
+Cleave. Melee Weapon Attack: +6 to hit, reach
+5 ft., two targets. Hit: 11 (2d6 + 3) slashing
+
+                                                                                                                  37
+     COMMANDERS (CR 7)
+         DREAD
+      NECROMANCER
+
+
+
+                   The Dread Necromancer is a fiendish
+                entity that retains some intelligence and an
+                inexplicable control over both the shambling
+                dead and the eerie dreadlights that shine in
+                the deepest parts of the Deadmire.
+                     Whomever this dark entity was in life
+                     is unknown, but with its grasp on dark
+                       and arcane powers, some believe it was
+                        once a counselor or battle wizard to a
+                        long-forgotten king.
+
+
+
+
+38
+DREAD NECROMANCER                                      Necromancer teleports up to 80ft. to an unoccupied
+                                                       space that it can see. Any creature within 5 ft. of
+Medium undead                                          the cloud is attacked by the insects, taking 7 (2d6)
+                                                       poison damage.
+
+Armor Class: 14                                        Agony (Spell) (Cooldown 5). The air around the
+Hit Points: 82                                         Dread Necromancer is filled with haunting screams
+Speed: 30 ft.                                          of pain and suffering. All creatures within 30ft.
+                                                       must succeed on a Wisdom saving throw, taking
+STR    DEX CON         INT WIS        CHA              28 (8d6) psychic damage on a failure or half as
+                                                       much on a success.
+ 9       10      16      10     20       7
+(-1)   (+0)     (+3)   (+0)    (+5)    (-2)            Raise Dead (Spell) (Cooldown 6). Revive any
+                                                       undead creature. The creature returns with half its
+Damage Resistances: Poison                             maximum Hit Points.
+Condition Immunities: Poisoned,
+                                                       Mark of Hunger (Spell) (Cooldown
+Senses: Blindsight 20 ft.,                             6). Target a living creature within
+Passive Perception 15                                  120 ft. All undead creatures within
+Languages: -                                           80 ft. of the target can sense it.
+Challenge: 7 (2,900 XP)
+
+
+Undead Fortitude. If damage reduces this creature
+to 0 hit points, it must make a Constitution saving
+throw with a DC equal to 5 + the damage taken,
+unless the damage is radiant or from a critical hit.
+On a success, this creature drops to 1 hit point
+instead.
+Spellcaster (DC 16, Hit +8). This creature is a
+spellcaster with Spell Save DC and +Hit with spell
+attacks as indicated. Spells will be noted in their
+Actions.
+Quickcaster. This creature may cast Decay with a
+Bonus Action each turn.
+
+ACTIONS:
+Claw. Melee Weapon Attack: +3 to hit, reach 5 ft.,
+one target. Hit: 2 (1d6-1) slashing damage.
+
+Decay (Spell). Extend your hand toward a creature
+you can see within 20 ft. The target’s body begins
+to decay from the inside out. The creature must
+succeed on a Constitution saving throw or take 14
+(4d6) necrotic damage.
+
+Putrid Step (Spell) (Cooldown 3). Disappearing
+into a cloud of flies and mosquito, the Dread
+
+                                                                                                              39
+                               BOSSES (CR 10/12)
+                                  CORPSE CART
+
+
+        The Corpse Cart is a dreaded thing, plodding through the Deadmire as it plucks the bodies of the
+     dead and the living alike.
+        It’s unknown how this creature came to be, but those lucky enough to survive an encounter with it
+     compare it to the corpse carts in the days of war, piled high with the bodies of the dead.
+
+
+
+
+40
+CORPSE CART                                             ACTIONS:
+
+Gargantuan undead                                       Slam. Melee Weapon Attack: +9 to hit, reach 10 ft.,
+                                                        one target. Hit: 15 (3d6 + 5) bludgeoning damage.
+
+Armor Class: 12                                         Run-over (Cooldown 3). The Corpse Cart lunges
+Hit Points: 277                                         50 ft. in any direction. All creatures in its path
+                                                        must succeed on a DC 14 Dexterity saving throw
+Speed: 50 ft.                                           to jump out of the way. On a failure, they take 21
+STR    DEX CON          INT WIS        CHA              (6d6) bludgeoning damage. If they take damage,
+                                                        they must succeed on a DC 14 Strength saving
+ 21      17      25      6      11       11             throw or be knocked prone.
+(+5)    (+3)    (+7)    (-2)    (+0)    (+0)
+                                                        Corpse Bomb (Cooldown 4). The Corpse Cart
+Saving Throws: Str + 4, Wis +4, Cha +4                  throws a putrid corpse at a point within 90 ft which
+                                                        explodes upon impact. All creatures within a 10 ft.
+Damage Resistances: Poison
+                                                        radius must make a DC 16 Dexterity saving throw
+Condition Immunities: Poisoned, Charmed,                to dodge out of the way, taking 28 (8d6) poison
+Frightened                                              damage on a success or half as much on a failure.
+Senses: Blindsight 90 ft., Passive Perception 7
+Challenge: 10 (5,900 XP)                                REACTIONS:
+
+                                                        Cadaverous Interception. The Corpse Cart throws
+Undead Fortitude. If damage reduces this creature       a corpse to intercept a missile attack, adding 5 to its
+to 0 hit points, it must make a Constitution saving     AC against one ranged or spell attack that would hit
+throw with a DC equal to 5 + the damage taken,          it. To do so, the Corpse Cart must see the attacker.
+unless the damage is radiant or from a critical hit.
+               On a success, this creature drops to 1   LEGENDARY ACTIONS:
+                    hit point instead.
+                                                        This creature can take 2 legendary actions, choosing
+                                                        from the options below. Only one legendary action
+                                                        option can be used at a time and only at the end of
+                                                        another creature’s turn. This creature regains spent
+                                                        legendary actions at the start of its turn.
+
+                                                        Flog. Make one Slam attack.
+
+
+
+
+                                                                                                                  41
+                                     CORPSE CART
+
+     CORPSE CART (TORMENT)                                  ACTIONS:
+
+     Gargantuan undead                                      Slam. Melee Weapon Attack: +10 to hit, reach
+                                                            10 ft., one target. Hit: 16 (3d6 + 6) bludgeoning
+                                                            damage.
+     Armor Class: 14
+     Hit Points: 292                                        Run-over (Cooldown 3). The Corpse Cart lunges
+                                                            50 ft. in any direction. All creatures in its path
+     Speed: 50 ft.                                          must succeed on a DC 14 Dexterity saving throw
+                                                            to jump out of the way. On a failure, they take 28
+     STR    DEX CON         INT WIS        CHA              (8d6) bludgeoning damage. If they take damage,
+      23      21      27      6      11       11            they must succeed on a DC 14 Strength saving
+                                                            throw or be knocked prone.
+     (+6)    (+6)    (+9)    (-2)   (+0)    (+0)
+                                                            Corpse Bomb (Cooldown 4). The Corpse Cart
+     Saving Throws: Str + 5, Wis +5, Cha +5                 throws a putrid corpse at a point within 90 ft which
+     Damage Resistances: Poison                             explodes upon impact. All creatures within a 10 ft.
+                                                            radius must make a DC 16 Dexterity saving throw
+     Condition Immunities: Poisoned, Charmed,
+     Frightened                                             to dodge out of the way, taking 35 (10d6) poison
+                                                            damage on a success or half as much on a failure.
+     Senses: Blindsight 90 ft., Passive Perception 7
+     Challenge: 12 (8,400 XP)                               REACTIONS:
+
+                                                            Cadaverous Interception. The Corpse Cart throws
+     Undead Fortitude. If damage reduces this creature      a corpse to intercept a missile attack, adding 8 to its
+     to 0 hit points, it must make a Constitution saving    AC against one ranged or spell attack that would hit
+     throw with a DC equal to 5 + the damage taken,         it. To do so, the Corpse Cart must see the attacker.
+     unless the damage is radiant or from a critical hit.
+     On a success, this creature drops to 1 hit point       LEGENDARY ACTIONS:
+     instead.
+                                                            This creature can take 2 legendary actions, choosing
+                                                            from the options below. Only one legendary action
+                                                            option can be used at a time and only at the end of
+                                                            another creature’s turn. This creature regains spent
+                                                            legendary actions at the start of its turn.
+
+                                                            Flog. Make one Slam attack.
+
+
+
+
+42
+43
+       HRODR,
+     THE CRIPPLE
+
+
+            Hrodr appears to be an undead giant,
+            a mindless, one-eyed wretched thing,
+            plagued by an endless list of maladies.
+            Tales conflict about what Hrodr was in
+            life.
+            Some say it was a giant from the
+            North, captured by a king and forced
+            into servitude as a war machine when
+            it was injured beyond healing. Others
+            say it was a circus beast, mocked and
+                  ridiculed for the entertainment
+                     of royal guests. Still others say
+                     it was the twisted, malformed
+                     offspring of a wicked lord, who
+            hid it the dungeons to keep it secret
+            from the world out of shame and spite.
+            One thing is clear.
+            Whatever Hrodr was in life, it lives
+            now in eternal suffering, its broken
+            and malformed legs tied to a shoddy
+            wooden cart, while its crumpled hands
+               are tied down with heavy stone bricks.
+
+
+
+
+44
+HRODR, THE CRIPPLE                                      LEGENDARY ACTIONS:
+
+Huge undead                                             This creature can take 2 legendary actions, choosing
+                                                        from the options below. Only one legendary action
+                                                        option can be used at a time and only at the end of
+Armor Class: 13                                         another creature’s turn. This creature regains spent
+Hit Points: 247                                         legendary actions at the start of its turn.
+Speed: 10 ft.
+                                                        Slam! Make one Slam attack.
+
+STR    DEX CON          INT WIS        CHA
+ 20      5       22      5      2        2
+(+5)    (-3)    (+6)    (-3)   (-4)    (-4)
+
+
+Damage Resistances: Poison
+Condition Immunities: Poisoned
+Senses: Darkvision 60 ft., Passive Perception 11
+Languages: -
+Challenge: 10 (5,900 XP)
+
+
+Undead Fortitude. If damage reduces this creature
+to 0 hit points, it must make a Constitution saving
+throw with a DC equal to 5 + the damage taken,
+unless the damage is radiant or from a critical hit.
+On a success, this creature drops to 1 hit point
+instead.
+
+ACTIONS:
+Slam. Melee Weapon Attack: +10 to hit, reach
+10 ft., one target. Hit: 19 (4d6 + 5) bludgeoning
+damage.
+
+Crushing Charge (Cooldown 4). Hrodr charges
+50 ft. in any direction. All creatures in its path
+must succeed on a DC 14 Dexterity saving throw
+to jump out of the way. On a failure, they take 14
+(4d6) bludgeoning damage and are stunned until
+the end of their next round.
+
+Hrodr’s Embrace (Cooldown 6). Hrodr attempts
+to picks up and hug a target within 10 ft. attempting
+to grappling them. If Hrodr succeeds, the target
+takes 35 (10d6) bludgeoning damage.
+
+
+
+                                                                                                               45
+                                            HRODR,
+                                          THE CRIPPLE
+
+     HRODR, THE CRIPPLE                                     ACTIONS:
+
+     (TORMENT)                                              Slam. Melee Weapon Attack: 9 to hit, reach 10 ft.,
+                                                            one target. Hit: 22 (5d6 + 5) bludgeoning damage.
+     Huge undead
+                                                            Crushing Charge (Cooldown 4). Hrodr charges
+     Armor Class: 14                                        50 ft. in any direction. All creatures in its path
+                                                            must succeed on a DC 16 Dexterity saving throw
+     Hit Points: 262
+                                                            to jump out of the way. On a failure, they take 21
+     Speed: 15 ft.                                          (6d6) bludgeoning damage and are stunned until
+                                                            the end of their next round.
+     STR    DEX CON         INT WIS        CHA
+                                                            Hrodr’s Embrace (Cooldown 6). Hrodr attempts to
+      23      7      23       5      2       2              picks up and hug a target within 10 ft. attempting to
+     (+6)    (-2)    (+7)   (-3)   (-4)    (-4)             grappling them. If Hrodr succeeds, the target takes
+                                                            49 (14d6) bludgeoning damage.
+
+     Damage Resistances: Poison
+                                                            LEGENDARY ACTIONS:
+     Condition Immunities: Poisoned
+     Senses: Darkvision 60 ft., Passive Perception 11       This creature can take 3 legendary actions, choosing
+     Languages: -                                           from the options below. Only one legendary action
+                                                            option can be used at a time and only at the end of
+     Challenge: 12 (8,400 XP)                               another creature’s turn. This creature regains spent
+                                                            legendary actions at the start of its turn.
+     Undead Fortitude. If damage reduces this creature
+     to 0 hit points, it must make a Constitution saving    Slam! Make one Slam attack.
+     throw with a DC equal to 5 + the damage taken,
+     unless the damage is radiant or from a critical hit.
+     On a success, this creature drops to 1 hit point
+     instead.
+
+
+
+
+46
+47
+                                   NON-PLAYABLE
+                                    CHARACTERS
+
+
+     LUNDEN, GENIUS ENGINEER
+       Lunden is a genius engineer that studied in Allstein for years. He is credited for many important
+     inventions like the Blasten-Vagen and his strange gun, the Sprengstoff.
+       His inventions and derivates of his work are used by the Empire to foster progress in the
+     realms of architecture, travel, and war.
+
+
+
+
+48
+LUNDEN, GENIUS ENGINEER
+Medium human
+
+Armor Class: 12
+Hit Points: 18
+Speed: 30 ft.
+
+
+STR    DEX CON         INT WIS       CHA
+ 8      12      10      22     14      14
+(-1)   (+1)    (+0)    (+6)   (+2)     (+2)
+
+
+Skills: History +3, Investigation +3
+Senses: Blindsight 20 ft., Passive Perception 9
+Languages: Common, Latrian
+Challenge: 2 (450 XP)
+
+
+Master Engineer. Lunden can spend 24 hours
+studying any non-magical mechanism and have a
+full understanding of how it operates.
+
+Logician. Lunden has advantage on Wisdom
+saving throws.
+
+ACTIONS:
+
+The Sprengstoff. Ranged Weapon Attack: +9 to
+hit, range 30/90 ft., one target. Hit: 14 (2d6 + 7)
+piercing damage.
+
+
+
+
+                                                      49
+                                    APPENDIX B:
+                                ITEMS & ARTEFACTS
+
+
+
+      Many powerful items and artefacts can be found scattered throughout Doaden. The party can acquire
+     the following items in this adventure.
+
+     THE SPRENGSTOFF
+
+        Weapon (pistol), very rare (requires attunement by a creature with at least 16 Intelligence)
+
+       Lunden’s pistol is crafted with a polished mahogany handle and inset with an elaborate array of brass
+     mechanisms and glass lenses. It is a complex machine that requires great intellect to operate.
+
+        You gain +2 bonus to attack and damage rolls made with this magic weapon. Additionally, the
+     weapon uses Intelligence modifiers instead of Dexterity. While attuned, you are automatically proficient
+     with pistols.
+
+
+
+
+50
+                            APPENDIX C:
+                         LETTERS & WRITINGS
+
+
+
+ Letters, texts, and other writings can be found throughout Doaden. This adventure contains the
+following writings.
+
+ Provided to the party after the Sodden Road Encounter.
+
+
+
+
+                                                                                                  51
+52
+53
+54
+55
+56
+

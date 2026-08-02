@@ -1,0 +1,1560 @@
+1
+    SIEGE OF STÜRMENBURG
+                part II
+
+
+     A 5E Compatible Adventure
+    Suitable for Levels 5-7 or 8-10
+
+
+
+
+2
+             THE WORLD OF DOADEN
+
+W
+      elcome to Doaden, the dark fantasy setting of tainted lands and twisted
+      monsters, where an ever-creeping affliction corrodes the very essence of
+                                  existence.
+
+ It is a world of decay and depravity where once-righteous men and heroes of
+ glorious purpose now struggle to survive as cults and dark gods vie with one
+               another to consume the last vestiges of humanity.
+
+     It is a world of death, trapped in the fading dusk of a fallen empire.
+The heroes that wander these lands are no grand adventurers to be honored in
+                              songs of minstrels.
+ For the heavy deeds and decisions these wanderers undertake invariably leave
+ them disheartened, broken, nothing more than soulless husks and shadows of
+                          their once-glorious selves.
+
+Yet as dark as Doaden may be, humanity clings to life with a stubborn tenacity,
+                    a last flickering flame within the dark.
+ A last hurrah, a final war cry that shall echo in the black abyss of eternity,
+                a momentary victory before the endless night.
+
+
+
+
+                                                                                  3
+                            Credits
+    Developed by:
+      Bestiarum Games
+
+    Lead Game Designer:
+      Alexander Dovermann
+
+    Game Designer:
+      Giovani C. Fiorini
+
+    Graphic Design:
+      Marina Jukova
+      Katarina Popovici
+      Daria Pushka
+      Alexander Dovermann
+
+    Cartography:
+      Daria Pushka
+      Giovani C. Fiorini
+      Alexander Dovermann
+      Katarina Popovici
+
+
+
+                                ON THE COVER:
+                                FIRE & DEATH
+
+
+
+
+                                “
+                                   Fire & death!
+                                   The Beastmen hordes have breached the walls
+                                of Stürmenburg, pillaging and burning as they
+                                swarm the city. Will you rise against the befouled
+                                hordes and cut the head of the beast, or will you
+                                fall beneath their hooves, trampled to death, your
+                                last gasps for air drowned out by their bleating
+                                laughs?
+
+
+                                                                            .”
+4
+                                                          Contents
+CREDITS............................................................4             CITY STREETS ENCOUNTER.............18
+CONTENTS.......................................................5                 Map B: Areas..............................................18
+   All You Need to Play Adventure..........6
+                                                                                 Running the Encounter...............................19
+FOREWORD: ...................................................8
+  ADVENTURE SUMMARY:                                                             Encounter Map B: Old village....................19
+  Siege Of StÜrmenburg pt. II.............9
+   SCENARIO STRUCTURE.....................9
+                                                                           CHAPTER 3: HEAD OF THE GOAT.........20
+      Story Hook....................................................9       THE ULF GATE ENCOUNTER..............21
+      Chapter Structure..........................................9               Map C: Areas..............................................21
+      Balance..........................................................9         Running the Encounter...............................22
+   REGIONAL MAP....................................10                      EPILOGUE......................................................25
+INTRODUCTION........................................... 11                  The Final Choice...................................25
+    BACKGROUND.................................... 11
+                                                                              Rewards......................................................25
+        StÜrmenburg......................................11
+                                                                           TAKING IT FURTHER.................................26
+        Administrator Varus..................................11
+        Tensions with the Empire..........................11                  APPENDIX A: BESTIARY...........................28
+        Lord Aminius............................................11            SWARMS (CR 2).........................................30
+      MISSION & REWARDS .........................11                              Boargores....................................................30
+        Renown.....................................................12            Gorehounds.................................................32
+      PERSISTENT RULES.............................12                         SOLDIERS (CR 3)......................................34
+        Wave Combat Encounters ........................12                        Capra Herd Keepers....................................34
+      STARTING THE ADVENTURE..........13                                         Capra Marauders.........................................36
+      The War Meeting ..............................12                        ELITES (CR 5)............................................38
+      Uldibad the Rune Priest ...............12                                  Armogores...................................................38
+      Administrator Varus ......................12                               Aurox Battlesmiths.....................................40
+                                                                              COMMANDERDS (CR 7).........................42
+CHAPTER 1: COUNTERSTRIKE..............14
+                                                                                 Dreadgore....................................................42
+   WALL TRÄZ ENCOUNTER................15
+                                                                                 Gorehound Chariot......................................44
+        Map A: Areas............................................15
+                                                                                 Graybane the Bloodcaller...........................46
+        Running the Encounter.............................15
+                                                                                 Grimscar the Beastlord...............................48
+        Encounter Map A: WALL TRÄZ.............16
+                                                                              BOSSES (CR 10 / 12)...................................50
+                                                                                  Ghorox......................................................50
+CHAPTER 2: COWARDS & CRAVENS....17
+                                                                                  Ghorox (Torment).....................................52
+
+
+                                                                                                                                                   5
+6
+7
+                                            Foreword
+
+       Compatibility. This adventure is intended for
+    use in conjunction open license materials in the      THERE IS LIGHT YET in Doaden, and
+    5e Systems Reference Document (SRD).                  though it may seldom come in the form of
+       References to materials in the SRD including       love or joy, it still shapes itself into a sem-
+    monsters, items, and other materials are Italicized   blance of honor, purpose, and redemption.
+    and may be found by in the SRD, in other core
+    books, or searching online.                                  - Dreyen Solius, Journal of the World’s Ending.
+       References to Bestiarum materials are Bolded
+    and included in the scenario appendix.
+
+
+       Gold & Items. Civ ilization and Trade in
+    Doaden have crumbled. Only gold, silver, and           Narrative Scripts. Passages in this
+    copper are circulated, and only at 1/10th the          format are meant to be read aloud or
+    amount suggested in D&D manuals. Magical               paraphrased. They build atmosphere or
+    items are extraordinarily rare.                        reveal key information to the adventuring
+                                                           party.
+      Abbreviations. The following terms are
+    abbreviated in Bestiarum publications: Player
+    Character (PC), Non-Playable Character (NPC),
+    Game Master (GM).
+
+
+                                                           Recurring Rules. These passages cover
+                                                           mechanics used to resolve situations in
+                                                           the scenario. The rule will be detailed in
+                                                           this format the first time it is used, but it
+                                                           may be referenced more than once.
+
+
+
+
+                                                          Torment Mode. Adventurers in Doaden
+                                                          are designed for Normal Mode parties
+                                                          ranging from levels 5 - 7 and Torment
+                                                          Mode parties ranging from levels 8
+                                                          - 10. Torment Mode modifications to
+                                                          encounters are written in this format.
+
+
+
+
+8
+                 Adventure Summary: Siege of
+                      Stürmenburg Pt. I
+                                                      STORY HOOK
+
+                                                      The party will be rangers or allies of the rangers,
+                                                      assigned to aid Stürmenburg defenders against
+                                                      escalating attacks by beastmen hordes. They will
+                                                      partner with Arne, captain of the city guard, to
+                                                      stage the defense of the city.
+
+                                                      CHAPTERS
+ightning rips apart the sky as thunderous booms
+drown out the clash of steel upon steel. The night       Chapter 1: The party is ambushed by beastmen
+rings loud with the roars of enraged warriors and     on the way to Stürmenburg. When they arrive at
+the guttural moans dying men as their lifeblood       the city, they see its defenders suffering heavy
+soaks into the wet earth. The darkened sky cries,     losses as their morale wanes amidst the dark
+flooding the cobbled city with sheets of cold         tidings and cryptic omens of their seer.
+rain and sleet. Yet the night burns bright with the
+flames of war, as the Horn of Odr echoes into the        Chapter 2: The party must use explosives to
+black.                                                free a river which the beastmen have dammed.
+   Unsheathe your sword, tighten your armor, and      Without the flowing river, the city will lose its
+brace yourselves, adventurers. For the night will     access to fresh water. On the way out of the city,
+be drowned in death.                                  the party must defend the wall against waves of
+                                                      beastmen and a cyclopean giant.
+   Sürmenburg is a war-torn fortress city
+protected by three powerful ringed walls. The            Chapter 3: As the party returns from the wilds,
+great walls of Stürmenburg have stood for             the Horn of Odr is blown, echoing throughout
+countless generations, its hardened human             the city. Flames and smoke rise from the farming
+defenders clawing every day for survival against      districts. Peasants scream as a titanic monster
+the relentless hordes of demons, men, and beasts,     breaches the walls, cracking the city open for the
+shielding the southern regions from invasion.         hordes to spill in.
+   Yet something has changed. In response to             In a desperate effort, the party must stall the
+a distressing letter sent by Stürmenburg’s city       beastmen and fight another giant to make their
+guard, the rangers have dispatched their most         way back into the city and buy time for evacuees
+capable soldiers and allies to defend the city        to retreat behind the inner walls of the city.
+against a growing beastman swarm.
+                                                      BALANCE
+Scenario Structure
+This scenario is an intense siege encounter. The         This scenario is balanced for 3-4 players, with
+story unravels as the party engages in several        Normal Mode levels 5-7, and Torment Mode
+skirmishes against beastmen hordes. Between           levels 8-10.
+encounters, the adventurers will return to the
+Tempest Tavern, a small hub where they may
+resupply before heading to again.
+   Parts. This is the first of an epic two-part
+adventure. Part II will follow during a later
+release, picking up where this scenario ends.
+
+                                                                                                            9
+             Regional Map
+
+     This month’s adventure takes place in Stürmenburg.
+
+
+
+
+10
+                                     Introduction
+
+
+T
+         his section provides background on the
+         locations, factions, characters, and quests   Administrator Varus
+         that appear in this scenario.
+                                                          To maintain control over Stürmenburg, the
+           To begin this adventure, turn to            Empire requires has installed an ambassador
+         Chapter 1.                                    who collects the imperial tithe and reports on the
+                                                       city’s actions. Administrator Varus currently holds
+                                                       this title. He looks down at Stürmenburg people,
+BACKGROUND                                             considering them savages and beneath him. He is
+   The general background information for this         disliked by all of the locals. However, if anything
+scenario is included in the previous adventure,        were to happen to him, it would result in a full-
+Siege of Stürmenburg Pt. I. However, there are         scale invasion by the Empire.
+a few additional sections to help run this scenario.
+                                                       Lord Aminius
+
+STÜRMENBURG                                               Arminius is the leader of Stürmenburg. He
+                                                       was taken as a political hostage in his youth and
+    The fortress city of Stürmenburg is located        trained as a soldier in the Imperial Auxilia. He
+along the northern frontier of the Empire. It has a    showed remarkable talent, quickly becoming a
+large supply of well-trained militia in addition to    commander. Now, the Empire has installed him
+its city guard, which acts as a standing army. Full    as warden of the city, hoping his military prowess
+details of the locations, characters, and history of   will continue to shield the Empire from northern
+the city are included in the previous adventure,       threats, and that his barbaric heritage will ensure
+Siege of Stürmenburg Pt. I.                            the people remain complaint to the Empire.
+
+Tensions with the Empire                                  Arminius is held in the highest esteem by his
+    The balance of peace between the Empire and        people, fighting shoulder to shoulder with them,
+Stürmenburg is delicate. Stürmenburg shares            and proving his effectiveness. What the Empire
+culture with the north but has remained loyal          does not know is that Lord Arminius has always
+to the Empire since it was conquered ages ago.         held a hidden disdain for the Empire for what
+Sturmenburg is allowed a degree of autonomy as         they have done to him and his people. For now, he
+the walled city acts as a bulwark for the Empire,      keeps the peace, but if a good opportunity arose,
+shielding it from northern attackers. However, the     he would rebel against the Empire. However,
+imperial lords despise this independence and the       always a shrewd diplomat, he does not voice this
+Church of Azerai considers them heretics for their     opinion publicly.
+religious beliefs.
+    On the other hand, the people of Stürmenburg       MISSION & REWARDS
+die every day to protect the southern empire.
+Paying a toll in blood, they suffer constantly to
+                                                         The party’s mission is to defend Stürmenburg
+defend against northern invasion, receiving little
+                                                       and its people. They will be sent on a variety of
+in return. Additionally, the Empire collects a
+                                                       missions to defend the city against the Beastmen.
+heavy tithe, straining their supplies and resources.
+Many citizens grumble about their dissatisfaction
+with this arrangement and believe they would be
+better off without the Empire.
+
+                                                                                                             11
+     RENOWN                                                WAVE COMBAT ENCOUNTERS
+        This mission is assigned by the Templar               Use the following rules when running wave-
+     Rangers, the dominant Order cell in the Western       based encounters.
+     Reaches. Upon successful completion of the
+     mission, each party member will gain +1 Renown
+     for the Templar Rangers. Renown is used to                 Spawning Waves. When generating
+     acquire special benefits from various cells of the      enemies on a specific round, spawn them at
+     Order. Lists of artifacts, resources, upgrades, and     the start of that round.
+     other benefits offered by each cell are included in
+     the Bestiarum 5e Game Master Guide.
+                                                                 Delayed Initiative. If a creature joins the
+                                                             fight on any round after the first, it is added
+     TAKING IT FURTHER                                       to the end of the initiative order.
+
+         This scenario is structured to be played in one
+     session. However, additional prompts are included
+     in the Taking it Further section to build a longer
+     experience.
+
+
+     PERSISTENT RULES
+        The following persistent rules apply
+     throughout this scenario.
+
+
+     Cooldowns
+        Some monsters have abilities with cooldowns,
+     limiting the frequency that ability can be used.
+     Cooldowns range from 1 to 6, so you can track
+     them on a d6.
+
+
+
+           Cooldowns. The notation "Cooldown X"
+       means that an ability may only be used once
+       per that number of rounds. When the ability
+       is used, the ability is marked with the specific
+       number. At the end of each round, all abilities
+       on cooldown are reduced by 1. Abilities on
+       cooldown reset once they reach 0, or once
+       combat ends.
+
+
+
+
+12
+STARTING THE ADVENTURE                                Uldibad the Rune Priest
+  This scenario picks up immediately after the           Uldibad is a Rune Priest, a magician that casts
+adventure Siege of Stürmenburg Pt. I.                 spells by invoking powerful runestones. He is an
+                                                      honored member of the Blitzvakt.
+   The western section of the wall Träz has
+fallen and Beastmen hordes spill into the city.           Before the party heads back into battle,
+The defenders have fallen back behind the city’s      Uldibad should cast a powerful restorative spell
+second wall, Sten, to regroup and prepare the         on the party with one of his runes, granting the
+counterattack. Lord Arminius is now in full           benefits of a Long Rest in just a short moment.
+command, issuing direct orders the city guard,
+militia, and his elite Blitzvakt warriors.
+
+The War Meeting                                       Administrator Varus
+   To start this scenario, hold a meeting between        Varus is a coward, caring only for his own
+the party and Arminius. Arminius will know of         safety. He has demanded to be escorted from the
+the party already, as he has been informed of their   city so that he can escape to safety. For diplomatic
+deeds by the guard.                                   reasons, Lord Arminius must prioritize Varus’
+                                                      demands.
+                                                        However, before Varus can leave the city, the
+The First Mission                                     walls and gate must be secured. Therefore, for
+   Lord Arminius will send the party on a series      now, their interests align.
+of critical missions to retake the city.
+   The first mission is to fight along the ramparts
+of Wall Träz. If the walls can be secured, it will
+stop the influx of Beastmen into the city. The
+party will clear out the wall in one direction,
+while the Blitzvakt will move in the opposite
+direction, forming a pincer maneuver that will
+meet again at Gate Bjärn to the north.
+    Once both groups have reached the gate,
+the ramparts will be secured and the remaining
+Beastmen inside of the city can be dealt with
+more easily.
+
+
+
+
+                                                                                                             13
+     Chapter 1: Counterstrike
+
+
+
+
+14
+F
+        irst, the party must fight along Wall Träz   WALL TRÄZ ENCOUNTER
+        to recapture it.
+        They must reach Gate Bjärn and retake,       This encounter is depicted by Map A: Wall Träz.
+        at which point they should be met by
+                                                     Map A: Areas
+        the Blitzvakt, who were traveling in the
+opposite direction around the wall.                      The following areas correspond to Map A:
+                                                     Wall Träz. When using the map, consider that it
+   To begin this encounter, read the following       is broken into six equal sections. The party starts
+script.                                              around the flaming brazier in area A1.
+
+                                                        A1) Section 1
+                                                        There is a great brazier and a set of barricades.
+       You fight your way through the                The party starts anywhere in the area behind the
+   outer district to the wall. The despoiled         barricades.
+   goat-men block your way at every turn,
+   causing mayhem in the streets as they                A2) Section 2
+   attack the townsfolk and light their                 There are two ten-foot-tall piles of debris with
+   homes on fire. You cut them down one              a platform on top and ladder allowing access to
+   after another, clearing the way to Wall           the platform. On the ground is 1x Gorehound.
+   Träz.                                             On one of the platforms is 1x Capra Hunter.
+       Eventually, you reach a long stone            On the other platform is an additional 1x Capra
+   stairway that ascends the great wall.             Herd Keeper.
+   Ascending the steps, you hear a bleat
+   from above, dodging to the side just in                      Torment. Add 1x Capra Scout on the
+   time to avoid the swing from a Capra’s                       ground.
+   axe.
+       You shove the beast off the stairs,               A3) Section 3
+   sending it hurdling down to splatter                  There are two siege towers that have connected
+   upon the cobbled streets below. Coming            to the wall. On one of the siege towers are 1x
+   to the top of the rampart, you find a             Capra Scout and 1x Capra Marauder.
+   great blazing brazier.
+       In the distance, you can make out                         Torment. Add 1x Capra Scout on the
+   the gatehouse for the Bjärn Gate, but to                      other tower.
+   reach it, you will need to cut your way
+   through swathes of Beastmen that have                A4) Section 4
+   overrun the wall. All around, you hear               In this section is a collapsed area of wall.
+   the clashes of weapons as the battle              The closest section is 15 feet across. Characters
+   rages furiously along the walls.                  can perform a long jump to make it across. The
+                                                     collapsed area is sloped, so if a character does not
+                                                     manage to make it all the way across, they fall 10
+                                                     feet and can grab a foothold in the rubble on the
+                                                     far side of the wall, then climb back up to get to
+                                                     the ramparts again on the other side.
+                                                             At the end of this section is also a fifteen-
+                                                     foot-tall pile of debris with a platform on top and
+                                                     ladder allowing access to the platform. On the
+                                                         platform is 1x Capra Hunter.
+
+
+
+                                                                                                             15
+        A5) Section 5                                        Hamarhelm and Uldibad, as well as several
+        In this section are two siege towers. On one of   other members of the Blitzvakt have arrived.
+     the siege towers are 1x Gorehound and 1x Capra       Uldibad used one of his runestones to call down
+     Marauder.                                            a blast of lightning and annihilating the enemy.
+                Torment. Add 2x Capra Scouts on the       He should additionally case Mass Cure Wounds,
+                other tower.                              on the party, restoring them slightly for their next
+                                                          fight.
+        A6) Section 6                                        If the party struggles during this encounter,
+        In this section is the wooden gate allowing       Uldibad can arrive earlier to save them.
+     access to the Bjärn Gatehouse.
+                                                          CONTINUING THE ADVENTURE
+     RUNNING THE ENCOUNTER
+                                                              When the party is ready, they should return
+        To begin the encounter, generate only map         to Arminius and begin the second mission. The
+     areas A1 and A2, keeping the rest hidden.            mission in Chapter 2: Cowards & Cravens will
+     Whenever a party member sets foot in a new area,     start an escort mission to bring Varus to safety
+     generate the next area of the map. So, when a        and lead to a fight with the Beastlord leader of the
+     party member sets foot in area A2, generate area     invading hordes.
+                                                              However, before starting this encounter,
+     A3. Continue this process until all areas have
+                                                          Arminius should inform the party about the Great
+     been generated.
+                                                          Ulf Gate. It cannot be opened by any mere mortal.
+     ENDING THE ENCOUNTER                                 It is secured by two enormous chains that are so
+                                                          heavy that they must each be pulled by a team
+        Once the party has cleared all the enemies        of twelve normal men. Not even Hamarhelm can
+     from all map areas and reached the gate in area      open the door on his own.
+     A6, read this script to end the encounter.                At the same time Arminius sends the party
+            As you fight your way towards the             to escort Varus to the Great Ulf Gate, he will
+         Bjärn Gatehouse, bloodied and tired, you         dispatch Uldibad and a regiment of guards to
+         look up to see a full formation of Capra         secure and hold the gate, and to open it when they
+         archers in the upper tower, bleating             arrive.
+         and gloating at you. They train a dozen
+         arrows on you, preparing to let loose
+         their bows for the kill.                            Taking it Further
+            But suddenly, a blinding white flash             If you would like to extend the adventure by
+         erupts from the sky above, streaking             adding your own objectives or prompts from the
+         downward from a twisting vortex of
+         blackened clouds.                                Taking it Further section, you should add them
+            Lightning crashes down on the enemy,          here, before the party begins to escort Varus out of
+         sending bricks and timbers flying about          the city. In this case, you should extend the siege
+         and leaving nothing behind but charred           over multiple days. If this is the case, allow the
+         bones and ash.                                   party at least one long rest.
+            Uldibad steps forward from the
+         steaming wreckage, carrying large stone
+         slab carved with a glowing blue rune.            ENCOUNTER MAP A: WALL TRÄZ
+
+
+
+
+16
+   Chapter 2:
+Coward & Craven
+
+
+
+
+                  17
+     O
+               nce wall Träz is secured, no more           CITY STREETS ENCOUNTER
+               Beastmen can flood into the city. The
+                                                             The following areas correspond to Map B:
+               next priority is to escort Varus through
+                                                           City Streets The party starts around area B1.
+               the city and out of the southern Gate
+               Ulf and to safety.
+        As the party is escorting Varus through the        Map B: Areas
+     chaotic streets, they find a bonfire in an alleyway
+                                                              The following paragraphs detail important
+     and around it, several captive humans held in
+                                                           areas of Map B: City Streets.
+     cages. The party manages to free the six captives,
+     but as they do, waves of Beastmen approach,
+     pinning them down in the alleyway.                       B1) Captives and Bonfire
+        The party must find a way to escape.                  In the center of the alley is a bonfire and cages.
+            To begin this encounter, read the              Five captives should be huddled in a circle here
+     following script.                                     and Varus should be at the center of them so that
+                                                           they shield him. The players can be scattered
+                                                           anywhere around the center area.
+
+
+                                                              B2) Alley Entrances
+             You escort Varus through the war-
+         torn city, sneaking from cover to cover.             On the left and right side of the map are
+                                                           entrances to the alley. They are filled with
+         Varus trails along behind, glancing
+                                                           Beastmen patrols, so it is impossible to escape
+         about anxiously as he steps gingerly              through them. During this encounter, enemies will
+         over the body of a dead soldier. A look of        spawn at either of these locations.
+         repugnance washes over his face as he
+         mutters aloud, “Savages.”
+             Suddenly, you hear cries from a nearby           B3) Blocked Escape Route
+         alley. Turning to investigate, you find              In this area is a carriage and piles of debris. To
+         several pen-like cages with people held           escape, the party must clear the debris.
+         inside. Before them is a great bonfire.
+         What the Beastmen plan for them, you
+         can only dread. Rushing over, you break           RUNNING THE ENCOUNTER
+         the locks to the cages but as the townsfolk          The Old Village has many alleyways and
+         step out and thank you, you hear a roar.          places to be explored. The party starts on the road
+             Several Beastmen rush towards you             near area B1.
+         from the left and right, pinning you down
+         in the narrow alleyway. A goatmen charges
+                                                              Clearing the Blockage
+         toward Varus, slashing out with a blood-
+         slickened cleaver. Varus quickly shoves              The pile of debris in area B3 counts as having
+         one of the townsfolk in its way, stepping         12 Durability. A creature can spend one action to
+         back to safety as the man is sliced apart.        pull off or smash some debris, in which case it
+         Varus points a crooked finger at you as he        must succeed on a DC 15 Strength check. If they
+                                                           succeed, the barrier loses 1 Durability. Once it is
+         screams, “Protect me!”
+                                                           reduced to 0, the remaining pile collapses and the
+                                                           party can escape.
+
+
+18
+   Spawning Enemies                                   ENCOUNTER MAP B: CITY STREETS
+   At the beginning of combat, roll twice on the
+following random enemy spawn table.
+   Then, on each subsequent round, roll once to
+spawn an additional enemy, randomly deciding
+which end of the alley they spawn from.
+   If an Armogor spawns, do not spawn an
+enemy on the following round.
+
+             Spawn one additional Armogor at
+             the start of combat.
+
+
+   d20          Enemy Spawned
+   1-4          2x Capra Scout
+   5-7          1x Capra Hunter
+   8 - 10       1x Boargore
+   11 - 13      1x Gorehound
+   14 - 16      1x Capra Herd Keeper
+   17 - 19      1x Capra Marauder
+   20           1x Armogor
+
+
+   Protecting Varus
+   The spawned enemies will move to attack
+the townsfolk, killing one townsfolk
+automatically on their turn if they reach
+them. If all townsfolk are dead, they will
+target and kill Varus instead. But, if the
+enemy takes damage from any party member,
+they will fight the party instead. Also, if a party
+member is directly between the enemy and the
+villagers, the enemy fight the party instead of
+targeting the villagers.
+
+
+ENDING THE ENCOUNTER
+   When the party manages to clear the blockage,
+they escape from the area.
+
+
+CONTINUING THE ADVENTURE
+  When the party is ready, proceed to Chapter 3.
+
+
+                                                                                      19
+        Chapter 3:
+     Head of the Goat
+
+
+
+
+20
+A
+          fter escaping from the alley, the
+          party reaches the Ulf Gate. But before          You come finally to the main road, a
+          they can escape, the warlord of the          long highway that leads to the great Ulf
+          Beastmen, Grimscar, enters the fray,         Gate.
+          cutting down Uldibad and challenging            Uldibad dances about before the great
+them to a duel.                                        gate, firing spurts of fire and lighting from
+   To begin the encounter, read this script.           his hands as he disintegrates goatmen left
+                                                       and right. Around him are a dozen corpses
+                                                       of guardsmen
+         The flames grow higher, engulfing the
+                                                          A sudden bleating cry cuts through
+     city and filling the sky with billowing
+                                                       the night. A large goatman wearing
+     clouds of smoke. You push onward to
+                                                       heavy amor jumps down from a nearby
+     the Ulf Gate, choking on the acrid, ash-
+                                                       rooftop. His plate armor is adorned with
+     filled air.
+                                                       human skulls and severed heads. With a
+         War rages all around, the sounds of
+                                                       swipe of a spike greataxe, slices Uldibad
+     clashing weapons and screams of the
+                                                       across chest, dropping the rune priest to
+     dying echoing throughout the night.
+                                                       the ground. Bleating cheers of the rabid
+         As you run, you glimpse the
+                                                       horde echo through the night.
+     mountainous Hamarhelm in the
+                                                          The Beastlord looks to you. Raising his
+     distance. He stands waist deep in
+                                                       bloody axe, he points at you as he begins
+     Beastmen corpses, his iron warhammer
+                                                       to circle left and right.
+     matted with layers of pulverized flesh
+     and scraps of fur. Covered in bloody
+     gashes and sweat, his skin shines bronze
+     in the firelight. He shouts a bellowing       THE ULF GATE ENCOUNTER
+     war cry as he charges off, barreling into       The following areas correspond to Map C:
+     an oncoming horde.                            The Ulf Gate The party starts around area C1.
+         Pushing onward, you pass three
+     guardsmen standing together with
+     shields raised. A demonic centaur-like        Map C: Areas
+     beast charges forth, swinging a battleaxe        The following paragraphs detail important
+     and slicing the heads off two of the men      areas of Map C: The Ulf Gate.
+     before swiping at the last with a set of
+     clawed hooves.                                   C1) Uldibad’s Body
+         A sudden trumpet sounds and
+                                                      The party starts around this area. Uldibad lies
+     Arminius charges from around a corner,        on the floor before the statue of a great warrior.
+     dressed in blood-splattered armor             He has been mortally wounded, though he still
+     and mounted on an enormous destrier.          clings to life. He cannot be healed by any means.
+     Accompanied by a retinue of cavalry,
+     he brings a halberd down on the
+                                                      C2) The Gate
+     demonic beast, cleaving into its torso,
+                                                      The Ulf Gate cannot be opened until after
+     its intestines spilling to the ground as
+                                                   the fight. On the steps is 1x Grimscar the
+     its body collapses. Arminius shouts a         Beastlord.
+     command to his men before they charge
+     away.                                                    Torment. Add 1x Capra Herd Keeper.
+
+
+                                                                                                        21
+     RUNNING THE ENCOUNTER
+      The party must defeat Grimscar. Varus hides in the distance safely until the encounter ends.
+
+
+     ENDING THE ENCOUNTER
+      Once all enemies are slain, the encounter is completed.
+
+
+     CONTINUING THE ADVENTURE
+      When the party is ready, proceed to the Epilogue.
+
+
+
+
+                               ENCOUNTER MAP C: THE ULF GATE
+
+
+
+
+22
+23
+24
+                                          Epilogue
+
+
+G
+           rimscar's fall means the remaining
+           Beastmen in the city will begin to lose
+           morale and route.                                 The rune priest shudders for a
+           With few ways out of the city for              moment as his blood spurts forth from
+           the beasts to take, the Defenders              his jugular, and then falls still.
+           of Stürmenburg will be able to                    Hamarhelm lets loose a cry of pure
+methodically slay the remaining attackers within          rage and pain. He clasps Varus’ head
+their walls.                                              in both hands, squeezing them together.
+       However, Varus cannot escape through the           Varus screeches out, his eyes bulging
+Ulf Gate. The guards sent to open the gate were           from their sockets and blood leaking
+defeated by Grimscar and his Beastmen. Now,               from his nostrils, his face turning
+Varus would need to find another gate, and he is          purple from the pressure.
+impatient to do so.                                          “Stop him!” he cries in desperation.
+   Hamarhelm arrives at the scene, and he
+demands that Hamarhelm and the party
+immediately take him to safety. However,
+Hamarhelm must first see to Uldibad.
+   vigate, full of thick oak and pine trees, and
+choked in underbrush.                                THE FINAL CHOICE
+      The Beastlord falls to the ground, its            The party has a moment to decide how to
+   eyes rolling back into its skull. Turning to      handle this situation. They may try to intervene
+   Uldibad, you see Hamarhelm approaching            to save Varus, or to step back and let the scene
+   and kneeling down by the rune priest. The         unfold. Hamarhelm is acting on pure rage and
+   wound is fatal. A slash across the chest          instinct. If left alone, he will explode Varus’ head
+   and abdomen. Uldibad will die, though it          as easily as one might a tomato.
+   will be slow and painful.                                 However, the party may choose to
+      Varus, seeing Hamarhelm approach,              intervene by trying to convince Hamarhelm to
+   steps out from behind a pile of crates
+                                                     stop or coming up with a physical way to stop
+   where he had been hiding during the fight.
+   He speaks quickly and anxiously, “Hurry,          him. Leave this choice to the party. If they wish to
+   take me to safety before more beasts              stop him, let them stop him. If they would rather
+   arrive!”                                          see Varus die, let it be so. However, they must
+           Hamarhelm replies calmly, “No             keep in mind that Varus’ death will inevitably
+   brother of mine shall pass alone. I must          plunge the land into civil war with the Empire.
+   stay.”
+      Varus grunts in frustration, swinging
+   about and pointing at Hamarhelm and you,          REWARDS
+   “This man is as good as dead! I command
+                                                        Renown. Regardless of what happened to
+   you all! Take me to another gate! Now!”
+      Yet again Hamarhelm refuses, turning           Varus, if the party proved effective at defending
+   his attention back to his dying friend, “I        Stürmenburg from the Beastmen, they party gain
+   stay!”                                            +1 Renown with the Templar Rangers.
+      A look of anger washes over Varus. In
+   an instant, he draws a dagger from his
+   waist sash and plunges it into Uldibad’s
+   throat, spitting out, “There’s no use
+   waiting for the dead!”
+                                                                                                            25
+                                    Taking it Further
+
+
+      T
+               his scenario is designed to be run               Revenge for Arne
+               in one session and require minimal
+                                                                 In the first scenario, Captain Arne was slain
+               preparation. However, the following
+                                                             by a Ghorox, one of the towering beasts that had
+               suggestions will help you to craft a
+                                                             a hand in breaching Wall Träz. Arne managed to
+               longer experience for your players in
+                                                             fend it off, sending it back into the forest. But if
+     the grim world of Doaden if you wish.
+                                                             it returns to attack the city, it will make a worthy
+                                                             challenge for the party’s mission.
+     BUILDING THE NARRATIVE
+       The following suggestions can be used to craft           Goat Behind the Goat
+     additional encounters.
+                                                                 Although Grimscar leads the beastmen horde,
+                                                             he is not particularly smart, and was being fully
+     DIPLOMATIC RELATIONS                                    manipulated by Graybane the Bloodcaller.
+                                                             Graybane is an incredibly powerful shaman,
+        Each character in this story has a complex           having made secret pacts with demons to establish
+     relationship with the others. At the center of          dominance and grow his magical powers. He
+     the party’s experience is Varus who represents          is the head of the Bloodbrand Cult and is the
+     everything negative about the Empire. Varus looks       true reason why the Beastmen have been able to
+     down on the Stürmenburg people, considering             mobilize into an army, as well as the reason why
+     them savages and having little regard for their         many of the Beastmen are exhibiting demonic
+     lives. His opinions were made clear in the letter to    mutations. He observes the siege from the nearby
+     Lord Lucious in the first scenario.                     forest, conducting strange and gruesome rituals.
+            Consider showing short interactions              If the party fights him, make sure he has a few
+     between Varus and Arminius, to further develop          guards to protect him as he unleashes his dark
+     Varus’ character and to demonstrate the delicate        magics upon the party.
+     diplomatic relation between Stürmenburg and the
+     Empire.
+                                                                Hungry Piggies
+                                                                The much-feared Dreadgore stalks the edge
+     EXTENDING THE SIEGE                                     of the battlefield and the forest. At any time, it is
+        The scenario is structured as if it took place       liable to charge out at the party, seeking to maim
+     during the same night, and to be run in one             and eat them. This demon boar is a nightmarish
+     session. However, you can extend the adventure          thing and can easily end up slaying a party
+     by considering many additional missions for the         member or two if they are unprepared.
+     party, to strike at key Beastmen targets. In this
+     case, the siege should last more than one day, and
+     the party should have at least one opportunity for
+     a long rest. Ideally, these additional scenarios will
+     be placed between Chapters 1 and 2, or at the end
+     of the scenario. The following ideas can be used
+     for missions.
+
+
+
+26
+27
+                                  Appendix A: bestiary
+
+
+        T
+                 he Beastmen are mutant beings,
+                 appearing part human and part wild
+                 animal.
+                   They form great marauding tribes
+     of many hideous species, from the Capra goatmen
+     to minotaur Aurox, to the giant and one-eyed
+     Cyrox, and many more hideous kinds.
+        Capra are generally regarded as the physically
+     weaker cousins to their Aurox counterpart. Yet,
+     what these devious creatures lack in strength, they
+     gain in overwhelming numbers, nimbleness, and
+     moral depravity. Their tribal societies constantly
+     bicker and war with each other, vying for power
+     and control over the hordes.
+        The Capra’s negative tendencies were once
+     kept in check by dominant Aurox chieftains
+     who were able to control their ranks through
+     their strength and natural wisdom gained
+     through their long lifespans.
+        However, in recent years, the Aurox
+     numbers have waned, and many Capra
+     shamans and warlords have usurped power
+     once beyond their grasp.
+        Lately, the goat-
+     like creatures
+     have increased the
+     pressure over the
+     Stürmenburg siege,
+     coming up with devious
+     ploys and unexpected
+     strategies, far outside their normal
+     capacity for intelligence.
+        Additional reports detail the
+     uncontrollable swelling of their ranks and
+     hint at horrendous monstrosities that have joined
+     the Capra in arms, under the banner of new,
+     mysterious, leadership.
+
+
+
+
+28
+29
+                                  SWARMS (CR 2)
+                                  BOARGORES
+
+
+        Boargores are enormous beasts driven purely by their voracious appetite. They can eat
+     as many as 10 men at a time, before their bellies are filled and they are satiated.
+        These opportunistic scavengers wander the battlefields, tearing limbs from dead sol-
+     diers and suckling at their rotting intestines.
+       Though they prefer an easy meal, they have no qualm hunting man or other prey
+     should the opportunity arise.
+
+
+
+
+30
+BOARGORE                        Charge. If the Boargore moves at least
+                                20 feet straight toward a target and then
+Large beast                     hits it with a tusk attack on the same turn,
+                                the target takes an extra 7 (2d6) slashing
+                                damage. If the target is a creature, it must
+Armor Class: 12                 succeed on a DC 13 Strength saving throw
+Hit Points: 42                  or be knocked prone.
+Speed: 40 ft.
+
+STR DEX CON INT WIS CHA         Thick Skin. The Boargore takes -2 damage
+ 17   10   16   2    7   5      from all sources.
+(+3) (+0) (+3) (-4) (-2) (-3)
+                                ACTIONS:						
+                                						
+Senses: Passive Perception 8    Tusk. Melee Weapon Attack: +5 to hit,
+Languages: -                    reach 5 ft., one target. Hit: 10 (2d6 + 3)
+Challenge: 2 (450 XP)           slashing damage.
+
+
+
+
+                                                                               31
+     GOREHOUNDS
+
+
+         Gorehounds are large, horrifically mutated creatures,
+      resembling boar, hound, and demon all at once.
+         Their packs enter a rabid fury, rampaging through the
+      encampments of men in search of food.
+                When not enough scraps are found, they turn
+                to men, ripping apart the armor of soldiers
+                  with their jagged teeth and tusks as easily as
+                    a knife through bread, to chew on the soft,
+                     moist flesh beneath.
+                         Many are the stories of their terrifying
+                      black, empty glinting eyes peering from
+                        the tree line as they prey upon a lone
+                         patrolman, or merchant caravan,
+                           traveling in the woods at night,
+                             shivering for their dear life at the
+                                 sound of their baleful howling
+                                   in the distance.
+                                       These predatory beasts
+                                      have an insatiable hunger
+                                         for flesh and dreaded
+                                          ferocity, which the
+                                          Beastmen put to great
+                                         use in their war parties.
+                                          The beastmen
+                                     deliberately rear these
+                     vicious attack beasts, training them for
+                     battle, or as guardians for their lairs,
+                    though their savage nature can never be
+                   truly tamed.
+
+
+
+
+32
+GOREHOUND                           Keen Hearing and Smell. This creature
+                                    has advantage on Wisdom (Perception)
+Large beast                         checks that rely on hearing or smell.
+
+
+Armor Class: 14                     Ambusher. Whenever this creature enters
+Hit Points: 37                      combat, it immediately takes a free turn.
+Speed: 50 ft.
+                                    ACTIONS:						
+STR DEX CON INT WIS CHA             						
+ 17   15   15   3   12   7          Multiattack. This creature makes two
+(+3) (+2) (+2) (-4) (+1) (-2)       attacks.
+
+                                    Bite. Melee Weapon Attack: +5 to hit,
+Skills: Perception +3, Stealth +4   reach 5 ft., one target. 10 (2d6 + 3)
+Senses: Passive Perception 13       piercing damage. If the target is a creature,
+Languages: -                        it must succeed on a DC 13 Strength
+Challenge: 2 (450 XP)               saving throw or be knocked prone.
+
+
+
+
+                                                                                    33
+       SOLDIERS (CR 3)
+     CAPRA HERD KEEPER
+
+                      Capra Herd Keepers are shamans and
+             spiritual leaders to the Beastmen. They have no
+             need to defend themselves from other members
+                of the tribe, for none would dare raise a hoof
+                   or paw against them, not even their feared
+                                                      Beastlord.
+                                Once the herds are gathered for
+                        battle, the shamans sound the horns of
+                         chaos and lead their fellow beastmen
+                      in a frenzied state of pure bestial vigor,
+                          their blood-curdling braying audible
+                               for miles away, striking fear and
+                           desperation in the hearts of those in
+                                                      their path.
+
+
+
+
+34
+CAPRA HERD KEEPER                            Spellcaster (DC 12, Hit +4). This creature
+                                             is a spellcaster with Spell Save DC and
+                                             +Hit with spell attacks as indicated. Spells
+Medium monstrosity                           will be noted in their Actions.
+                                             Ambusher. Whenever this creature enters
+                                             combat, it immediately takes a free turn.
+Armor Class: 14
+Hit Points: 27                               ACTIONS:						
+Speed: 30 ft.                                						
+                                             Staff. Melee Weapon Attack: +5 to hit,
+STR DEX CON INT WIS CHA
+                                             reach 5 ft., one target. Hit: 6 (1d6 + 3)
+ 10   16   13   12  15    11
+                                             bludgeoning damage.
+(+0) (+3) (+1) (+1) (+2) (+0)
+                                             Flamebolt (Spell). Hurl a bolt of flame at
+Senses: Darkvision 60 ft., Passive           a creature or object within 120 ft. On a hit,
+ Perception 14                               the target takes 7 (2d6) fire damage.
+   Languages: Beastspeak                     Beast Mending (Spell) (Cooldown
+    Challenge: 3 (700 XP)                    2). Target a creature within 60 ft. That
+                                             creature regains 3 (1d6) + the target’s
+     Spellcaster (DC 12, Hit +4). This
+                                             Constitution                  modifier in hit
+      creature is a spellcaster with Spell
+                                             points.
+      Save DC and +Hit with spell attacks
+    as indicated. Spells will be noted in
+    their Actions.
+
+
+
+
+                                                                                             35
+     CAPRA MARAUDER
+
+
+
+
+                               Capra Marauders are
+                             the strongest of the goat-
+                             kin, blessed with a mighty
+                             constitution and raw physical
+                           strength that is rare among
+                     their kind.
+                      They enforce their superiority upon
+                other lesser Capra, following in the same
+            steps of their prejudiced culture, often with
+             random acts of excessive violence.
+                 These specimens march at the front
+              ranks of the Beastmen war parties,
+              bleating loudly and reveling in the
+            brutality and violence of bloodshed.
+
+
+
+
+36
+CAPRA MARAUDER
+
+Medium monstrosity
+
+Armor Class: 16
+Hit Points: 60
+Speed: 30 ft.
+
+STR DEX CON INT WIS CHA
+ 16   12   16   7    11   11
+(+3) (+1) (+3) (-2) (+0) (0)
+
+Senses: Darkvision 60 ft., Passive
+Perception 14
+Languages: Beastspeak
+Challenge: 3 (700 XP)
+
+ACTIONS:
+
+
+Multiattack. This creature makes two
+attacks.
+
+Battleaxe. Melee Weapon Attack: +5 to hit,
+reach 5 ft., one target. Hit: 13 (3d6 + 3)
+slashing damage.
+
+Headbutt (Cooldown 3). Melee Weapon
+Attack: +5 to hit, reach 30 ft., one target.
+Hit: 24 (6d6 + 3). The Capra Marauder
+moves adjacent to the target. If the attack
+succeeds, the target is knocked prone.
+
+
+
+
+                                               37
+     ELITES (CR5)
+     ARMOGOR
+
+
+                          Armogors are twisted
+                       Centaur beings, their war
+                     parties rampage through
+                   the grassy plains and valleys,
+                 preferring the open battlefield
+                    to the dense and difficult to
+                     maneuver woods. These
+                      demonic beasts have the
+                      brutality of mind which
+                     matches the clumsy power
+                   of their muscular bodies. They
+                are bestial, snarling creatures
+              with a feral cunning, though their
+             equine features come to an end
+               in monstrous claws instead of
+                 hooves.
+
+
+
+
+38
+ARMOGOR
+
+Large monstrosity
+Armor Class: 16
+Hit Points: 104
+Speed: 60 ft.
+
+STR DEX CON INT WIS CHA
+ 18   16   18   7    7   11
+(+4) (+3) (+4) (-2) (-2) (+0)
+
+Senses: Darkvision 120 ft., Passive
+Perception 8
+Languages: Beastspeak
+Challenge: 5 (1,800 XP)
+
+Demonic Charge. If this creature
+moves at least 20ft. straight toward
+a target, its first Claw attack
+against that target in the same
+turn deals an additional 14
+(4d6) piercing damage. If at
+least one of this creature’s
+allies is within 5 ft. of the         target
+and that ally isn’t incapacitated, and the
+attack is successful, the target is knocked
+prone.
+
+ACTIONS:
+
+Multiattack. This creature makes three
+attacks: two with its Claw and one with its
+Cleave.
+
+Claw. Melee Weapon Attack: +7 to hit,
+reach 5 ft., one target. Hit: 11 (2d6 + 4)
+piercing damage.
+
+Cleave. Melee Weapon Attack: +7 to hit,
+reach 5 ft., up to two targets.
+Hit: 14 (3d6 + 4) slashing damage.
+                                               39
+     AUROX BATTLESMITHS
+
+
+                 Aurox Battlesmiths work in pairs,
+              having learned the rudimentary skills of
+               reshaping steel and other metals.
+                    One carries a large stone slab which
+                   it uses as both a weapon and an
+                             anvil, while the other carries
+                                  weapons of war which
+                                      it uses also as its
+                                          smithing tools.
+                                               Though they
+                                             are unable
+                                            to make any
+                           equipment from scratch, these
+                          smiths are able to reshape
+                        pillaged gear acquired by raiding
+                     parties, heating and pounding the
+                pieces to fit the wide range of needs and
+              Beastmen physiques.
+                     The smiths might be called
+              unrefined, often imitating only the basest
+              of techniques. For instance, they are seen
+              hammering away with axes as often as
+              the hammer, only able to comprehend
+              the visual motion of the act, and not the
+              subtler purpose of a sharp versus flat
+              object.
+                 However, this failure of distinction
+              belies an important truth. For the Aurox,
+               both tools are equally adept at killing,
+                which is all that truly matters.
+
+
+
+
+40
+AUROX BATTLESMITH
+
+Large monstrosity
+Armor Class: 17
+Hit Points: 123
+Speed: 35 ft.
+
+STR DEX CON INT WIS CHA
+ 18   12   18   11   15  12
+(+4) (+1) (+4) (+0) (+2) (+1)
+
+Senses: Darkvision 60ft., Passive
+Perception 12
+Languages: Beastspeak
+Challenge: 5 (1,800 XP)
+
+Variants. The Battlesmith may carry an
+Anvilstone or Smithing Axes, but not both.
+
+
+ACTIONS:
+
+Multiattack. This creature makes two
+attacks with the Anvilstone or three attacks
+with the Smithing Axes.
+
+Anvilstone. Melee Weapon Attack:+7 to
+hit, reach 10 ft., one target.
+Hit: 25 (6d6 + 4) bludgeoning damage. All
+targets within 5 feet must succeed on a DC
+14 Strength saving throw or be knocked
+prone.
+
+Smithing Axes. Melee Weapon Attack: +7
+to hit, reach 5 ft., one target. Hit: 14
+(3d6 + 4) slashing damage.
+
+
+
+
+                                               41
+                               COMMANDERS (CR 7)
+                                    DREADGORE
+
+       Dreadgore is a strange thing, a mutant abomination of the Gorehounds.
+        Some demonic fever has increased its size tremendously, much to the delight of its
+     masters. Its breath stinks of a thousand festering corpses, and its hundred-eyed stare is
+     the last thing many unfortunate Northmen see before being gutted and ripped to shreds.
+        Dreadgore is a festering plague, its teeth as sharp as razors and its horned tusks as
+     deadly as iron swords. It is surprisingly agile, as fast as it is strong, charging through
+     enemy lines by itself and inflicting devasting casualties to the tune of a full cavalry
+     regiment.
+       Wherever it treads, this beast leaves a trail of mangled bodies for the rest of the
+     Gorehound herds to feast upon.
+
+
+
+
+42
+DREADGORE                                      Keen Hearing and Smell. This creature
+                                               has advantage on Wisdom (Perception)
+Huge beast
+                                               checks that rely on hearing or smell.
+Armor Class: 16
+Hit Points: 172                                No More Worries. If a creature is reduced
+Speed: 60 ft.                                  to 0 health by Dreadgore, the target dies
+                                               automatically. On Dreadgore’s next turn, it
+STR DEX CON INT WIS CHA                        may spend one action to eat the remnants
+ 21   21   21   7    10   7                    of the creature, regaining hit points equal
+(+5) (+5) (+5) (-2) (+0) (-2)                  to that creature’s hit point maximum.
+
+Skills: Perception +6, Stealth +6
+Senses: Darkvision 120 ft., Passive            ACTIONS:
+Perception 16
+Languages: -                                   Multiattack. TThis creature makes two
+Challenge: 7 (2,900 XP)                        attacks.
+                                               Tusk. Melee Weapon Attack: +8 to hit,
+Charge. TIf this creature moves at least       reach 5 ft., one target. Hit: 15 (3d6 + 5)
+20 feet straight toward a target and then      slashing damage.
+hits it with a tusk attack on the same turn,
+the target takes an extra 21 (6d6) slashing    Necrotic Bite (Cooldown 3). Melee
+damage. If the target is a creature, it must   Weapon Attack: +8 to hit, reach 5 ft., one
+succeed on a DC 13 Strength saving throw       target. Hit: 15 (3d6 + 5) necrotic damage.
+or be knocked prone.                           If the attack is successful, the target must
+Thick Skin. This creature takes -3 damage      succeed on a DC 17 Constitution saving
+from all sources.                              throw. On a failure, the target becomes
+                                               poisoned for five minutes. Additionally,
+Ambusher. Whenever this creature enters        its hit point maximum is reduced by the
+combat, it immediately takes a free turn.                 amount of damage taken until it
+                                                             takes a long rest.
+
+
+
+
+                                                                                              43
+                     GOREHOUND CHARIOT
+
+
+
+
+        Gorehound Chariots are ramshackle constructions, built from heavy pieces of
+     lumber and bones.
+        The brute strength and ferocity of the nasty tempered Gorehounds that draw these
+     chariots far outmatch that of mere horses.
+        In battle, the Gorehound Chariots crush the enemy at breakneck speed, driving
+     through their ranks with unstoppable force, though they are prone to entering feeding
+     rampages in the midst of combat.
+
+
+
+
+44
+GOREHOUND                            Run Over. When the Gorehound Chariot
+                                     moves, it must move at least 15 ft. in the
+CHARIOT                              same direction, and can only turn up to 90
+                                     degrees at a time. Each time it moves of
+Gargantuan construct                 any other creature, that creature must make
+                                     a DC 16 Dexterity saving throw, taking
+Armor Class: 18                      6d6 bludgeoning damage on a failure or
+Hit Points: 201                      half as much on a success.
+Speed: 120 ft.
+
+STR DEX CON INT WIS CHA
+ 18   18   18   11  11   12
+(+4) (+4) (+4) (+0) (+0) (+1)
+
+
+Senses: Darkvision 60 ft., Passive
+Perception 10
+Languages: -
+Challenge: 7 (2,900 XP)
+
+
+
+
+                                                                                   45
+        GRAYBANE
+     THE BLOODCALLER
+
+
+            Graybane the Bloodcaller is a powerful
+          sorcerer, head of the Capra Herd Keepers.
+             A devoted child of darkness, he has allied
+          himself with demons, bringing the taint of
+          that ilk to seep into the Beastmen tribes.
+             He is gifted with great demonic energies.
+            A palpable miasma of hellish sorcery
+          surrounds him, as he walks among the
+          twisted innards of the poor bastards that
+          writhed at his passing before meeting their
+          end under the hoofs of the dreaded herd.
+                       With patience and a cunning
+               mind at odds with the normal
+               headstrong nature of his dreaded race,
+                Graybane retains the highest post
+          among the beastmen hierarchy.
+            Although his name is yet to be feared by
+          those who live towards the south, he is feared
+          by all Northmen as an omen and harbinger of
+          death.
+
+
+
+
+46
+GRAYBANE THE                                   against a creature afflicted by the Blood
+                                                Hex, all creatures afflicted by a Blood
+BLOODCALLER                                      Hex take 1d6 necrotic damage, and you
+Medium monstrosity                                        heal for half the damage dealt.
+                                                           Bloodbound (Spell)
+Armor Class: 16                                             (Cooldown 4).
+Hit Points: 112                                             Select two targets that are
+Speed: 30 ft.                                               afflicted by
+                                                              the Blood Hex.
+STR DEX CON INT WIS CHA                                       They cannot        move
+ 12   16   16   7    18   21                                more than 10          feet
+(+1) (+3) (+3) (-2) (+4) (+5)                              away from      each      other.
+Senses: Darkvision 160 ft., Passive
+Perception 14
+Languages: Beastspeak
+Challenge: 7 (2,900 XP)
+
+Spellcaster (DC 16, Hit +8). This creature
+is a spellcaster with Spell Save DC and
++Hit with spell attacks as indicated. Spells
+will be noted in their Actions.Thick Skin.
+This creature takes -3 damage from all
+sources.
+Quickcaster. This creature cast one spell
+with a Bonus Action each turn.
+
+ACTIONS:
+
+Staff. Melee Weapon Attack: +4 to hit,
+reach 5 ft., one target. Hit: 4 (1d6 + 1)
+bludgeoning damage.
+Chaos Bolt (Spell). Hurl a bolt of chaos
+energy at a creature or object within 120
+ft. On a hit, the target takes 7 (2d6) fire
+damage and 7 (2d6) force damage.
+Blood Hex (Spell) (Cooldown 1). Place
+a curse on a creature that you can see
+within 90 feet for the next 5 minutes. Until
+the curse ends, whenever you make
+a successful attack or spell attack
+                                                                                             47
+       GRIMSCAR
+     THE BEASTLORD
+
+
+          Grimscar the Beastlord is the warlord of the
+             largest tribe of Beastmen the North has ever
+            seen.
+                               There have been many
+                                beastlords who have united
+                                tribes into feeble herds, but
+                               none has ever accomplished
+                   what Grimscar has among his kind, for he
+                   possesses one thing that all others have
+                  lacked …ambition.
+            Behind his sheer bestial will to behead and
+         collect the skulls of fallen enemies, Grimscar fights
+        for more than scavenged food and supplies. Spurned
+                on by the whispers of his great shaman
+                Graybane, he seeks to create a bestial empire
+               to rival that of man, and envisions himself
+               upon the throne.
+             Through diplomacy, trickery, and
+          demonstrative force of will, he has followed
+          Graybane’s suggestions to the word, managing to
+            unite the Capra, Aurox, Centaurs, and even the
+             mighty Cyrox and Ghorox, an unheard-of feat
+            hitherto thought impossible.
+
+
+
+
+48
+GRIMSCAR THE
+BEASTLORD
+Medium monstrosity
+Armor Class:20
+Hit Points: 144
+Speed: 30 ft.
+
+STR DEX CON INT WIS CHA
+ 18   18   18   7    16   18
+(+4) (+4) (+4) (-2) (+3) (+4)
+
+
+Senses: Darkvision 60 ft., Passive
+Perception 13
+Languages: Beastspeak
+Challenge: 3 (700XP)
+
+Beastmaster (Cooldown 4). When
+combat begins, spawn two Gorehounds
+adjacent to Grimscar and place this ability
+on cooldown. At the start of each round of
+combat after the first, if this ability is not
+on cooldown, roll 1d6. On a 1 – 3, spawn
+a Gorehound adjacent to Grimscar and on
+a 4 – 6, spawn a Boargore instead. Then,
+place this ability on cooldown again.
+
+
+ACTIONS:
+
+Multiattack. This creature makes two
+attacks..
+Battleaxe. Melee Weapon Attack: +7 to hit,
+reach 5 ft., one target. Hit: 14 (3d6 + 4)
+slashing damage.
+
+
+
+
+                                                 49
+     BOSSES (CR10/12)
+       GHOROX
+
+
+                Ghorox are gargantuan beasts, most
+             often the size of Cyrox, but often growing
+             up to twice their size, and exhibiting
+             extreme physical         mutation.
+                                       As such, they
+                                   now tower as large
+                                 as the legendary giants
+                             of the north and are used
+                   as unstoppable war machines of the
+                 beastmen tribes.
+                  It is well known that these monstrous
+                 brutes are so blood driven by a sheer
+                      rage that even one Ghorox can
+                         decimate an entire tribe in a
+                        single frenzied bloodlust outburst,
+                       and the rest of the Beastmen must
+                     be careful not to catch its attention.
+                           It is only the most gifted Herd
+                              Keepers who can control
+                               and guide a Ghorox's
+                                 relentless brutality and
+                                  focus them against the
+                                     ranks of the enemy.
+
+
+
+
+50
+GHOROX                                         LEGENDARY ACTIONS: 		
+                                               				
+                                               This creature can take 2 legendary actions,
+Gargantuan monstrosity                         choosing from the options below. Only
+                                               one legendary action option can be used
+Armor Class:12
+                                               at a time and only at the end of another
+Hit Points:280
+                                               creature's turn. This creature regains spent
+Speed: 60 ft.
+                                               legendary actions at the start of its turn.
+STR DEX CON INT WIS CHA
+ 24   17   24   4    4   11                    Pick Up. Attempt to Grapple a
+(+6) (+3) (+6) (-3) (-3) (+0)                  creature within 10 ft.
+
+                                               Eat. Make a Bite attack against a
+Condition Immunities: Charmed,                 creature you are grappling. If this
+Frightened, Grappled, Incapacitated,           action reduces the creature to 0 hit
+Paralyzed, Petrified, Prone, Restrained,       points, swallow the creature. If the
+Stunned                                        creature is swallowed, it automatically
+Senses: Blindsight 90 ft., Passive             fails each death saving throw it makes.
+Perception 7
+Challenge: 11 (7,200 XP)
+
+
+ACTIONS:
+
+Multiattack. This creature makes
+four attacks: three Slams and one Cleave.
+Slam. Melee Weapon Attack: +10 to hit,
+reach 10 ft., one target. Hit: 16 (3d6 + 6)
+bludgeoning damage.
+Cleave. Melee Weapon Attack: +10 to hit,
+reach 10 ft., two targets. Hit: 16 (3d6 + 6)
+slashing damage.
+Bite. Melee Weapon Attack: +10 to
+hit, reach 5 ft., one target. Hit: 13
+(2d6 + 6) piercing damage.
+
+
+
+
+                                                                                              51
+     GHOROX                                         LEGENDARY ACTIONS: 		
+                                                    				
+     (TORMENT)                                      This creature can take 3 legendary actions,
+                                                    choosing from the options below. Only
+     Gargantuan monstrosity                         one legendary action option can be used
+                                                    at a time and only at the end of another
+     Armor Class:12                                 creature's turn. This creature regains spent
+     Hit Points:314                                 legendary actions at the start of its turn.
+     Speed: 60 ft.
+                                                    Pick Up. Attempt to Grapple a creature
+     STR DEX CON INT WIS CHA                        within 10 ft.
+      24   17   28   4    4   11
+     (+6) (+3) (+8) (-3) (-3) (+0)                  Eat. Make a Bite attack against a creature
+                                                    you are grappling. If this action reduces
+                                                    the creature to 0 hit points, swallow the
+     Condition Immunities: Charmed,                 creature. If the creature is swallowed,
+     Frightened, Grappled, Incapacitated,           it automatically fails each death saving
+     Paralyzed, Petrified, Prone, Restrained,       throw it makes.
+     Stunned
+     Senses: Blindsight 90 ft., Passive
+     Perception 7
+     Challenge: 15 (13,000 XP)
+
+
+     ACTIONS:
+
+     Multiattack. This creature makes four
+     attacks: three Slams and one Cleave.
+     Slam. Melee Weapon Attack: +12 to hit,
+     reach 10 ft., one target. Hit: 16 (3d6 + 6)
+     Cleave. Melee Weapon Attack: +10 to hit,
+     reach 10 ft., two targets. Hit: 16 (3d6 + 6)
+     slashing damage.
+     Bite. Melee Weapon Attack: +10 to hit,
+     reach 5 ft., one target. Hit: 13 (2d6 + 6)
+     piercing damage.
+
+
+
+
+52
+53
+54
+55
+56
+57
+58
+

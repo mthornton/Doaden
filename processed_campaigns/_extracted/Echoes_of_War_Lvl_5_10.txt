@@ -1,0 +1,1433 @@
+1
+    ECHOES OF WAR Pt. I
+
+     A 5e Compatible Adventure
+          For Levels 5 – 10
+
+
+
+
+2
+          THE WORLD OF DOADEN
+
+
+
+W
+             elcome to Doaden, the dark fantasy setting of tainted
+             lands and twisted monsters, where an ever-creeping
+               affliction corrodes the very essence of existence.
+
+
+             It is a world of decay and depravity where once-
+righteous men and heroes of the glorious purpose now struggle to
+survive as cults and dark gods vie with one another to consume
+                   the last vestiges of humanity.
+
+
+It is a world of death, trapped in the fading dusk of a fallen empire.
+The heroes that wander these lands are no grand adventurers to
+                  be honored in songs of minstrels.
+For the heavy deeds and decisions these wanderers undertake
+invariably leave them disheartened, broken, nothing more than
+     soulless husks and shadows of their once-glorious selves.
+Yet as dark as Doaden may be, humanity clings to life with a
+     stubborn tenacity, a last flickering flame within the dark.
+A last hurrah, a final war cry that shall echo in the black abyss
+     of eternity, a momentary victory before the endless night.
+
+
+
+
+                                                                         3
+                            Credits
+
+    Developed by:
+     Bestiarum Games
+
+    Lead Game Designer:
+     Alexander Dovermann
+
+    Game Designer:
+     Giovani C. Fiorini
+
+    Art & Graphic Design:
+     Marina Jukova
+     Alexander Dovermann
+     Katarina Popovici
+
+    Cartography:
+     Giovani C. Fiorini
+     Alexander Dovermann
+     Marina Jukova
+
+
+                                ON THE COVER:
+
+                                HARVESTER
+
+
+
+
+                                “
+                                The heart of the Old Empire is dead, de-
+                                stroyed ages ago in a cataclysmic detonation
+                                of magical energies.
+                                   Now, it is a desolate wastes, scattered with
+                                ruins and covered in ash, drowned in arcane
+                                dust storms, and overrun by the Eternal
+                                Legions, an army that once conquered the
+                                world in the name of the Emperor.
+
+                                                                      .”
+
+4
+                                  Contents
+
+CREDITS                             4   CHAPTER 3:                          22
+CONTENTS                            5   FORBIDDEN KNOWLEDGE                 22
+FOREWORD                            6    Forgotten Depths                   23
+ Scenario Structure                 7    The Fall                           23
+ Story Hook                         7    Map C: Areas                       23
+ Chapter Structure                  7    Encounter Map C: Forgotten Depths 24
+ Adventure Parts I & II             7    Running the Encounter              25
+ Balance                            7    Ending the Encounter               25
+ADVENTURE SUMMARY:                  7    Encounter Map D: The Immortal Tomb 26
+                                         Map E: Hall of Bones               27
+ECHOES OF WAR                       7
+                                         Ending the Adventure               27
+ Regional Map                       8
+                                         Encounter Map E: Hall of Bones     27
+ Background                         9
+                                        EPILOGUE                            28
+ The Ashen Wastes                   9
+                                         Eternal Legion Part II             29
+INTRODUCTION                        9
+                                         Abandoning the Mission             29
+ The Black Fortress                10
+                                        TAKING IT FURTHER                   30
+ The Cathedral of Bones            10
+                                         Building the Narrative             31
+ Persistent Rules                  11
+                                         Journey through the Ashen Wastes   31
+ Cooldowns                         11
+                                         Inhospitable Place                 31
+ Wave Combat Encounters            11
+                                         Bone Harvesters                    31
+ Mission & Rewards                 11
+                                         Lunden, the Engineer               31
+ Renown                            11
+ Starting the Adventure            11   APPENDIX A: BESTIARY                32
+CHAPTER 1:                         12   Soldiers (Cr 3)                     34
+THE CATHEDRAL OF BONES             12    Immortals                          34
+ Cathedral of Bones                13    Immortal Flagbearer                36
+ Map A: Areas                      13   Elites (Cr 5)                       38
+ Encounter Map A:                  14    Immortal Lieutenant                38
+ The Cathedral of Bones            14    Harvesters                         40
+ Continuing the Adventure          14
+                                         Skeleton Ball                      42
+CHAPTER 2: ASH & BONES             16
+                                        Commanders (Cr 7)                   44
+ The Catacombs                     17
+ Map B: Areas                      17    Ossificators                       44
+ Continuing the Adventure          20   Bosses (Cr 11/14)                   46
+ Encounter Map B: The Catacombs    20    Siege Breaker                      46
+
+
+                                                                                 5
+                                            Foreword
+
+
+       Compatibility. This adventure is intended for use
+    in conjunction with the open license materials in the   THERE IS LIGHT YET in Doaden, and though it
+    5e Systems Reference Document (SRD). References         may seldom come in the form of love or joy, it still
+    to materials in the SRD including monsters, items,      shapes itself into a semblance of honor, purpose, and
+    and other materials are Italicized and may be found     redemption.
+    by in the SRD, in other core books, or by searching
+                                                                    - Dreyen Solius, Journal of the World’s Ending.
+    online.
+       References to Bestiarum materials are Bolded and
+    included in the scenario appendix.
+
+
+                                                                 Narrative Scripts. Passages in
+       Gold & Items. Civilization and Trade in Doaden
+                                                               this format are meant to be read
+    have crumbled. Only gold, silver, and copper are
+    circulated, and only at 1/10th the amount suggested        aloud or paraphrased. They build an
+    in D&D manuals. Magical items are extraordinarily          atmosphere or reveal key information
+    rare.                                                      to the adventuring party.
+
+
+      Abbreviations. The following terms are
+    abbreviated in Bestiarum publications: Player
+    Character (PC), Non-Playable Character (NPC), and            Special Rules. These passages cover
+    Game Master (GM).                                          mechanics used to resolve situations in
+                                                               the scenario. The rule will be detailed
+                                                               in this format the first time it is used,
+                                                               but it may be referenced more than
+                                                               once.
+
+
+
+                                                                 Torment Mode. Adventurers in
+                                                               Doaden are designed for Normal
+                                                               Mode parties ranging from levels 5 - 7
+                                                               and Torment Mode parties ranging
+                                                               from levels 8 - 10. Torment Mode
+                                                               modifications to encounters are written
+                                                               in this format.
+
+
+
+
+6
+                             Adventure Summary:
+                               Echoes of War
+
+
+
+
+    The heart of the Old Empire is dead, destroyed           Chapter Structure
+ages ago in a cataclysmic detonation of magical
+energies. Now, it is a desolate wastes, scattered with       Chapter 1: The party travels for days until they
+ruins and covered in ash, drowned in arcane dust          arrive at the remains of the ruined Cathedral of
+storms, and overrun by the Eternal Legions, an army       Bones. They investigate the shadowed hallways,
+that once conquered the world in the name of the          following the trail of dead Crusaders that leads them
+Emperor. Risen now as skeletal warriors, these elite      into the catacombs.
+soldiers have been mutated by the constant barrage
+of magical radiation that bombards the region, their         Chapter 2: Descending into the catacombs,
+bones growing into chitinous, carapace-like armor,        the party must fight through bleak galleries and
+and becoming an even greater force in death than in       chambers guarded by legions of skeletal warriors and
+life.                                                     undying priestesses, all while witnessing the horrific
+    Now, the Emperor’s own army threatens to spill        end that the lost Crusaders faced at the hands of the
+out into the greater Doaden, to lay conquest once         restless undead.
+more to the world of the living. Their endless ranks
+surge against the walls of the Black Fortress, the last      Chapter 3: After facing the horrors in the
+bastion of man that holds them back. But here there       catacombs, the party descends into the forbidden
+can be no victory. It is only a matter of time before     depths. There they are confronted with one final
+the legions shatter the last line of defense and bring    challenge, fending off hordes of skeletons as they
+the end of the world.                                     make their escape, before witnessing the true power
+                                                          of the Eternal Legions.
+
+   Scenario Structure
+                                                             Adventure Parts I & II
+    This scenario is designed to be a very challenging
+dungeon crawl adventure. Parties may not be able to          This adventure is the first of two parts. In the next
+complete it and may be forced to retreat. The Eternal     installment, the adventure continues where this one
+Legion is an extremely powerful foe and not all may       leaves off, with the party staging a defense against
+rise to the challenge. The adventure is structured for    waves of advanced legion armies.
+one session, but additional prompts are provided to
+expand the experience into a multi-session adventure         Balance
+in the Taking It Further section.                            This scenario is balanced for 3-4 players, with
+                                                          Normal Mode levels 5-7, and Torment Mode levels
+   Story Hook                                             8-10.
+   The Black Fortress has lost contact with twenty
+Penitent Crusaders stationed at the Cathedral
+of Bones excavation site. The party is sent to
+investigate and must travel into the dreaded Ashen
+Wastes to uncover the truth about their sudden
+disappearance.
+                                                                                                                     7
+    Regional Map
+     This month’s adventure takes place in the Rustwind Pass.
+
+
+
+
+8
+                                      Introduction
+
+
+ T
+             his section provides background on            very power of the sun itself, and the Emperor used
+             the locations, factions, characters, and      it to dictate peace among the his many subjugated
+             quests that appear in this scenario.          kingdoms, threatening absolute obliteration should
+                                                           any vassal stepped out of line. For many generations,
+                                                           the threat worked, ushering in a time of unmatched
+Background                                                 progress, for none could rebel in the light of such
+                                                           raw, devastating power. Yet one day, the weapon was
+   The following information is helpful for running        unleashed where it was housed, in the heart of the
+the scenario.                                              Empire itself.
+                                                              Today, all of life in Doaden still reels from the
+                                                           devastation, suffering under a persistent corruption
+The Ashen Wastes                                           and spreading deterioration that leaches into the
+   The Ashen Wastes were once a fertile land, the          soil and the air, slowly consuming the world. The
+beating heart of the Old Empire, mankind’s greatest        annals of history are unclear about the cause of the
+civilization. Now nothing remains but a sterile desert     detonation, and many kingdoms point the blame at
+of shifting dunes and the crumbling ruins of the past.     one another.
+The entire region, the size of a large continent, was
+destroyed by the cataclysmic detonation of a magical
+weapon.
+                                                           The Eternal Legions
+   The harsh landscape is buffeted by magical dust
+storms roiling with chaotic energy. Those caught              The Eternal Legions were the Emperor’s chosen,
+within suffer nauseating sickness, blistering skin, or     their ranks drawn from those born in the Valley of
+death. The few communities that make their home            the Sun, the birthplace of the Emperor himself, a
+around the outskirts of the area are cursed. If they       harsh and unforgiving land that brewed warriors of
+are not sterile, their offspring are born withered         unrivaled strength and mental will. These warriors
+and prone to a wide range of maladies. Most are            were born into the forges of combat. Taught never
+misshapen in form, sprouting grotesque mutations           to retreat nor surrender, to kill or be killed, to fight
+such as third arms or eyes, or dozens of rows of           through pain and fatal wounds that would leave any
+teeth. The mortality rates among these people are          other man debilitated. Taught that fear is the only
+high, many born with congenital heart and organ            weakness. Taught that fear is death, for fear eats the
+defects, and they are shunned by the rest of the           mind and dulls the senses.
+world.                                                         With the unstoppable legions behind him, the
+   Travel here is dangerous, and few expeditions           Emperor brought conquest to the world of Doaden,
+have managed to penetrate more than a few dozen            felling one great nation after another and growing
+miles into the land before being rebuffed. Yet the         the greatest civilization the world has ever known.
+promise of lost relics and knowledge from the past         But war never changes, and a nation built on blood
+draws the Church of Azerai ever on, in a constant bid      is doomed to die in the same way it was birthed, in
+to penetrate the outer shell and into the inner regions,   brutality and suffering.
+to reach the great cities of old.                             Today, the remnants of the Empire live on,
+                                                           confined to the lands that were once known as the
+The Weapon                                                 Western Reaches, now renamed the Holy Western
+                                                           Empire. The progeny of the Empire is under constant
+   The weapon of devastation was developed in              threat of annihilation by those very soldiers that
+secret by the Church of Azerai under the watchful          established their nation, risen now by strange
+gaze of the Emperor. It was said to harness the
+                                                                                                                      9
+     magics, their bones mutated by the energies of the       a center for the devout and faithful to commune
+     Ashen Wastes, to form carapace-like armor that is        in their prayers for the old Emperor. Beneath the
+     stronger than steel. These skeletal warriors slaughter   surface, are hidden catacombs, extensive galleries,
+     all in their wake, taking their bones and sifting        and chambers where the bones of old priestesses,
+     through the dusty wastes with great harvesters to        bishops, heroes, and other figures of importance to
+     collect the buried bones of the fallen to swell their    the Old Empire were buried.
+     ranks.
+                                                                 Among the heroes interred here was the feared
+                                                              general that stood at the forefront of the Emperor’s
+     Rustwind Pass                                            armies, General Kourrakas. The Legion has attacked
+        This adventure takes place in a small region of the   the location to revive him and add this once-great
+     Ashen Wastes that abuts the Black Fortress, called       leader into their ranks.
+     Rustwind Pass, a once a lush valley fed by multiple         The party has arrived too late, as he now has
+     hearty rivers. However, following the Calamity,          left the cathedral and walks among the army of
+     the rivers have evaporated along with all signs          the dead. However, many of the Legion’s soldiers
+     of life. Now, the very earth is ruined, becoming a       and priestesses still lurk within the depths of the
+     coarse and rust-like sand. The region gets its name      Cathedral, continuing their endless work as they
+     from the frequent storms which billow through            gather the remaining bones in the location to add
+     the area, gathering the sand which tears through         them to their stockpiles.
+     the air like millions of articles of sandpaper,
+     easily corroding any exposed metal armor and
+     weapons.
+
+     The Black Fortress
+        To stem the threat of the Eternal Legions, the
+     Penitent Crusade mans the Black Fortress, a large
+     bastion with sprawling walls, and heavily defended
+     towers and outposts.
+         This fortress spans the length of the
+     border between the Western Reaches and the
+     Ashen Wastes, keeping the evils of the Wastes out.
+     Yet the Eternal Legions grow ever stronger, their
+     numbers swelling by the day, and the immortal
+     warriors rising again and again. It is clear to the
+     generals that it will be only a matter of time before
+     the Crusade is defeated, and when the day comes,
+     there will be nothing left to stop the apocalypse.
+        To prevent the spread of fear about the
+     inevitability of the end, the operations of the Black
+     Fortress, and any information of what lies beyond, is
+     kept highly confidential. The general population has
+     no idea about what lies beyond the Black Fortress,
+     other than a desolate wasteland and the remnants of
+     the Old Empire.
+
+     The Cathedral of Bones
+        The main part of this adventure takes place in
+     a long-lost cathedral, an old place of adoration,
+10
+Persistent Rules                                          items must be used with caution as they’ll face
+                                                          verwming odds during this adventure.
+   The following persistent rules apply throughout
+this scenario.                                            Renown
+                                                             This mission is assigned by the Templar Rangers,
+Cooldowns                                                 the dominant Order cell in the Western Reaches.
+                                                          Upon successful completion of the mission, each
+   Some monsters have an ability with cooldowns,          party member will gain +1 Renown for the Templar
+limiting the number of times that ability can be used.    Rangers. Renown is used to acquire special benefits
+Cooldowns range from 1 to 6, so you can track them        from various cells of the Order. Lists of artifacts,
+on a d6.                                                  resources, upgrades, and other benefits offered by
+                                                          each cell are included in the Bestiarum 5e Game
+     Cooldowns. The notation «Cooldown                    Master Guide.
+   X» means that an ability may only be used
+   once per that number of rounds. When the               Starting the Adventure
+   ability is used, the ability is marked with the
+   specific number. At the end of each round,                Before heading out from the Black Fortress, hold
+                                                          a meeting with Vozruk the Stormcrow, who provides
+   all abilities on cooldown are reduced by 1.
+                                                          the coordinates of the Cathedral of Bones and gives
+   Abilities on cooldown reset once they reach
+                                                          the party their pre-mission provisions. Vozruk should
+   0, or once combat ends.                                warn the party that the journey will be perilous
+                                                          and the dangers unlike any they have encountered
+                                                          before. Additionally, at risk of execution, they must
+Wave Combat Encounters                                    never speak publicly about what they see beyond the
+   Use the following rules when running wave-based        walls when they return to the Holy Western Empire,
+encounters.                                               as this is a strictly confidential military operation.
+                                                             Before leaving to traverse the desolate landscape
+     Spawning Waves: spawn enemies at the                 of the Ashen Wastes, the party might purchase
+   beginning of their noted round, according              additional supplies. The Black Fortress houses
+   to any rules which may be specified.                   various merchants, blacksmiths, and apothecaries,
+                                                          ranging from standard quality, at somewhat
+     Delayed Initiative. If a creature joins the          accessible prices, to the very best crafted materials,
+   fight on any round after the first, it is added        at very steep prices.
+   to the end of the initiative order.
+
+
+Mission & Rewards
+   The party must to travel into the Ashen Wastes,
+in order to investigate the fate of the lost Crusader
+unity, finding all 20 of them either dead or alive, and
+recovering their badges of war.
+   The journey is a perilous one, and in exchange for
+their efforts, the party will be rewarded with 1 gold
+piece for each recovered badge.
+
+
+   Provisions. Additionally, before deployment, the
+party is provided with 30 rations, 2x Scrolls of Mass
+Heal, and 8x Potions of Greater Healing. These
+                                                                                                                   11
+           Chapter 1:
+     The Cathedral of Bones
+
+
+
+
+12
+T
+           he party travels into the Ashen Wastes,       Map A: Areas
+           heading deep into the Rustwind Pass.
+           After a few days they arrive at the ruined       The following areas correspond to Map A:
+           Cathedral of Bones. To begin this chap-       Cathedral of Bones. Each grid square on the map
+           ter, read the following script.               corresponds to an area of 10 ft. by 10 ft. The party
+                                                         starts around area A1.
+     You have been traveling through the
+   Ashen Wastes for several days, a desolate             A1) Cathedral Interior
+   landscape of sifting red-orange dust and
+                                                            The once-magnificent cathedral walls are covered
+   strange rocky formations.
+                                                         in rust, ash, and dust, and lined with countless
+     Your skin is dried and cracked, and your            pillars. High hollow windows follow the full
+   clothes covered in coarse dust that chafes            extension of the walls from where faded sunlight
+   and scrapes at you. Your throat is dry and            dimly illuminates the interior. Dozens of alcoves
+                                                         occupy the space between these hollow windows,
+   your voice hoarse, your body urges you to
+                                                         and within each stands the towering remains of
+   drink, but you must ration your water, as
+                                                         broken statues. Large crates are spread throughout
+   nothing but desolation lies beyond the walls          the hall, containing bones, old ceramics, and mining
+   of the Black Fortress.                                equipment. They are marked with the symbol of the
+     On the horizon, a gathering dust storm              Penitent Crusade, three equidistant rings set inside
+                                                         of one larger ring, and joined at their focus by one
+   blots out the sky, crackling with blue-green
+                                                         smaller ring. Nearby them are some fresh bloody
+   arcs of energy. It has been a source of dread
+                                                         corpses of dead Penitent Crusaders.
+   for you, seeing it approach every closer,
+   but you find yourself in luck as you come                At the end of the hallway, row upon row of
+   upon the remains of the lost cathedral. The           ruined pews lead up to a raised dais, where stands
+   dark ruin stands before you, a massive                an old squat altar. On the pews and littering the
+   pinnacle rising from the earth. Its soaring           floor are various empty, ashen silhouettes of people
+                                                         in positions of prayer, as if the people disappeared
+   cracked pillars, somehow still supporting
+                                                         and left behind only their shadows. An Intelligence
+   the ancient place, are surrounded by the
+                                                         (Arcana) check of DC 14 reveals that these people
+   remains of old bell towers. Its walls are             were destroyed by some powerful magical energy.
+   marred by hollow gaps where once stained-             An Intelligence (History) check of DC 18 reveals
+   glass windows would have been.                        that these are the remnants of people who were
+                                                         present during the cataclysmic blast that destroyed
+     A dry wind penetrates the dark interior,
+                                                         the world ages ago.
+   echoing as it passes through like a
+   whispered song of a spectral choir. At the               Objective Item. 3x Penitent Crusader corpses.
+   very front of the cathedral, massive oaken            Their bodies are eviscerated, and their bones
+   doors open inward to a long bleak hallway.            missing, leaving only husks of bloodied flesh,
+                                                         broken armor, and weapons.
+                                                            Dusty Tracks. If the party investigates, they
+                                                         may pass a DC 16 Intelligence (Perception) check
+Cathedral of Bones                                       to discover dozens of faint dusty footprints headed
+                                                         towards area A3. The prints are the size of men, but
+   The party must delve into the depths of the           the contact points with the ground are thin and sharp,
+cathedral’s catacombs, following the trail of boneless   as if fleshless.
+corpses of the dead Crusaders in order to discover
+what led them to their fate.
+
+
+
+                                                                                                                  13
+     A2) Cloister Garden                                     A4) Spiraling Stairway
+        The ashen covered garden lies in ruins. Various          At the center of this chamber there’s a large circle
+     petrified bodies now litter the place. At the center    carved onto the ground with a keyhole in the middle.
+     of the garden, a petrified priest stands out from the   If the golden key from the priest in A3 is used here,
+     others surrounded by four skeletal soldiers. Around     the carved circle twists and descends into a spiral
+     the priest’s neck is a golden key.                      downward staircase. Read the following script as the
+                                                             stairs are unlocked.
+     Cloister Garden Encounter
+                                                                   As the key turns, the ground shakes with
+         Two of the four soldiers are Immortals, and one
+                                                                 a loud noise of rusty metal gridding. The
+     is an Immortal Flagbearer. If the key necklace is
+                                                                 carved circle on the ground begins to twist.
+     disturbed, or if the soldiers are damaged in any way,
+     read the following script.                                  Steps dislodge from the circle, descending
+                                                                 one after another, slowly turning into a spi-
+                                                                 ral staircase leading to the darkened depths
+                                                                 below.
+          Suddenly, the petrified body of the priest
+        crumbles into dust, as the ashen-skeleton
+        soldiers spring to life, readying their spears       Continuing the Adventure
+        and shields.
+                                                               When the party descends the stairs, proceed to
+                                                             Chapter 2
+        Enemies. Then spawn the following enemies:
+       1x Immortal Flagbearer (marked with a flag on
+                                                             Encounter Map A:
+     map A).                                                 The Cathedral of Bones
+       2x Immortals (marked with swords on
+     map A).
+        Key Item. The golden key on the priest’s
+     petrified body unlocks the stairs in A4.
+
+     A3) The Grand Lift
+         This room houses the grand lift that
+     descends into the catacombs. Unfortunately,
+     the platform is stuck on a deeper level of the
+     cathedral, leaving only a massive circular
+     pit where the lift should have been. Around
+     the pit are more corpses of dead Crusaders.
+     Over the gateway leading to the lift, there’s
+     an inscription in Latrian. If a PC understands
+     Latrian, they can read the inscription It says:
+     “Thee who enter be warned that thy kind is
+     trespassing into the land of those who are
+     gone, for this is the realm of the dead.”
+         Objective Item. 2x Penitent Crusaders
+     corpses. They’re eviscerated, and boneless,
+     their blood oozing through the sides of the
+     pit.
+14
+15
+      Chapter 2:
+     Ash & Bones
+
+
+
+
+16
+D
+            escending into the catacombs, the
+            party’s progress is held back by yet              Skeleton Balls: throughout the catacombs
+            another locked stairway. This lock              the party will be faced against various
+            requires                                        Skeleton Balls. These Skeleton Balls possess
+   With only one of the required keys in hand, they         are bound to the nearest Ossificators in the
+must fight their way through the skeleton infested          catacombs, which is also specified in the
+galleries in search of the other keys, while stumbling      text. When the bound Ossificator is killed,
+upon more dead Crusaders. To begin this chapter,            the Skeleton Ball is destroyed. On the map,
+read the following script.                                  Skeleton Balls are marked with a symbol of
+                                                            an Engine, and the Ossificators are marked
+     As you descend the stairway, the                       with a symbol of a crossed skull, with
+   stonework becomes more cracked and                       numbers ranging from I to III (markings on
+   sedimentary, slowly turning into intricately             Map B: Catacombs).
+   carved marble, stuffed with bones and
+   heavy layers of dust.
+                                                         Map B: Areas
+     The stairs eventually come to a sudden
+   end, as you step on yet another carved                   The following paragraphs detail important areas
+   circle that, instead of only one keyhole              of Map B: The Catacombs. Each grid square on the
+                                                         map corresponds to an area of 10 ft. by 10 ft. The
+   locking it in place, other three are spread
+                                                         party starts at B1.
+   evenly across it. On an archway leading to
+   an adjacent chamber an inscription carved
+   in Latrian that calls your attention. A single
+                                                            Open Encounters. Several enemy units are
+   word written in the same way, both in the             spread throughout the map in different encounters,
+   more formal version of the language, and              yet not all of them stand close to each other. When
+   the plebeian, very much spoken version                specified as an Open Encounter, place the units
+   across the reaches: “Death”.                          on the map as you see fit, according to the party’s
+                                                         progression and actions.
+
+The Catacombs
+                                                         B1) Atrium Cubicula
+    The catacombs are a series of subterranean
+galleries with recesses for various tombs carved            Opening off to the catacombs is the Atrium
+for figures of importance to the Old Empire. The         Cubicula. A single chamber that’s connected to the
+galleries of the catacombs extend deep through           spiral stairway that leads both up to A) Cathedral
+the bowels of the Ashen Wastes, and as one delves        of Bones, and down to C) Forgotten Depths. Over
+deeper, the environment begins to the turn sour and      the archway leading to this chamber there’s an
+decrepit. Marble replaced with rotten dirt and dust      inscription. If a PC understands Latrian, they can
+filled with bones.                                       read the inscription. It reads: “All men must die. But
+                                                         death cannot kill their immortal names.”
+   Key Items. The stairway that progresses deeper
+downwards is locked by four locks. Each lock must
+the unlocked with a different golden key. The key
+                                                            Checkpoint. This room is a safe place to for
+the party has in hands fit one of the locks, yet the
+                                                         the party to take a short rest (marked with a camp
+other three keys were each given to an old priestess
+                                                         symbol in area B1).
+of Azerai and are still being held by them, though
+they have risen as Ossificators. These priestesses
+are the 3x Ossificators spread around this level of
+the catacombs, and upon being defeated, they’ll drop        Objective Item. 1x Penitent Crusader corpse
+their keys.                                              can be found beside a ruined fireplace. His boneless
+                                                                                                                  17
+     body is stuck to the wall by hundreds of bone shards,     Enemies. The following enemies are present here:
+     the chest cavity ripped open with entrails hanging.
+                                                                1x Ossificator (marked with a crossed skull in
+                                                             area B2).
+     B2) The Great Gallery
+        This tunneled structure accommodates many              1x Immortal (marked with a sword in area B2).
+     burial tombs of old priestess of Azerai. Their tombs
+     are all carved into alcoves alongside the walls, with                 Torment. Add 1x Immortal.
+     skulls littering the intricate carvings and fissures
+     around them. At the end of the corridor before the         Key Item. Upon killing the Ossificator, it will
+     gallery there’s a locked, sturdy iron door. This door   crumble to ashes. Amid its remains will be 1x golden
+     can only be opened from the other side (marked          key.
+     with a gateway symbol in the intersecting corridor
+     between B1, B2 and B5)                                  B3) The Sisters’ Burial
+                                                                The chamber is decorated with intricately detailed
+     Great Gallery Open Encounter                            columns that hold the adorned vaulted ceiling. Yet,
+        As the party progress through the Great Gallery,     due to the dust and the erosion caused by the passing
+     various enemies will be waiting for them. When they     of time, the paintings and carvings are all faded and
+     enter the room, read the following script.              gray. Around the room are dozens of hollow tombs,
+                                                             with countless bones spread all over the floor.
+
+          The long-darkened corridor seems to extend
+        endlessly. Thousands of skulls stare silently        Sisters’ Burial Encounter
+        from recesses, embedded into the wall. Alcoves
+                                                                When the party enters the room, read the
+        at regular intervals contain the ruined stone        following script.
+        tombs of long-forgotten figures. The staleness
+        that lingers in the air of the silent gallery is
+                                                                  As you enter the bone-littered room, the
+        soon broken by a sickly raspy voice that comes
+                                                                ground trembles as a majestic figure of
+        from deep within the corridor, accompanied
+                                                                skeleton, bearing purple-glowing scythes,
+        by the sound of bones cracking throughout the
+                                                                raise its bony hands toward you. You see the
+        gallery.
+                                                                bones on the ground cracking and turning
+                                                                as they merge together, forming a grasping
+        Enemies. The following enemies are present here:        clawed cage around you, while undead sol-
+       1x Skeleton Ball (marked with an engine in area          diers begin to rise all over the room.
+     B2 – Connected to Ossificator I).
+                                                                Dexterity. With a DC 18 saving throw the PCs
+        1x Immortal Flagbearer (marked with a flag in        may be able to jump out of the cage before it fully
+     area B2).                                               forms.
+        4x Immortals (marked with swords in area B2).
+
+                  Torment. Add 1x Immortal                     Enemies. The following enemies are present here:
+                 Lieutenant.                                   1x Harvester (marked with a bow in area B3).
+
+        The First Key Bearer Encounter                          1x Immortal Flagbearer (marked with a flag in
+                                                             area B3).
+         At the end of B1, there’s a large chamber filled
+     with hundreds of bones. Ossificator I is performing        1x Immortals (marked with swords in area B3).
+     a ritual here, raising the skeletons of old warriors
+     from their graves.
+18
+              Torment. Add 1x Immortal.                  the bodies of the high priestess and bishops of the
+                                                         Church of Azerai. The walls have intricately adorned
+                                                         carvings, although also faded and crumbling.
+   Relics of Old. Inside the tombs are relics from
+the Old Empire. There is a Weapon +1. You may               Arcosolia Tombs Open Encounter
+determine the exact nature of the item to suit the          Enemies. The following enemies are present here:
+party. With a Perception Check DC 18, the PCs may
+also find 1x Ruby, that can be sold later for 5 gold.      1x Skeleton Ball (marked with an engine in area
+                                                         B4 – Connected to Ossificator II).
+                                                            2x Harvesters (marked with bows in area B4).
+   Objective Item. In the path leading the lift
+are several broken-down barricades. 4x Penitent            3x Immortals (marked with swords in area B4,
+Crusaders boneless corpses are impaled over them,        and interesting room between B4 and B5).
+their blood and guts spilled all over the walls.
+
+                                                                       Torment. Add 1x Immortal
+    Grand Lift Shortcut. At the right side of the                     Lieutenant.
+room, a corridor leads to the empty shaft of the grand
+lift. Around the shaft are a few crates and barrels.     The Second Key Bearer Encounter
+Inside them the party can find 3x Potions of Greater        In a crypt at the end of B4 is Ossificator II, the
+Healing. At the other side of the lift shaft there’s a   second key bearer. Just like the first, it is performing
+door that leads back to B1.                              some kind of ritual, reanimating the skeletal remains
+                                                         of warriors of the Old Empire.
+Ambush Encounter
+                                                            Enemies. The following enemies are present here:
+   The corridor leading to the B4 is a long and
+very constricted one, filled with bones and petrified       1x Ossificator (marked with a crossed skull, near
+skeletons all over the walls. When the party reaches     area B4).
+the middle of the corridor, some of these skeletons         1x Immortal Flagbearer (marked with swords,
+will spring to life and surround them.                   near area B4).
+
+
+   Wisdom (Perception). With a DC 18 check or                          Torment. Add 1x Immortal.
+a passive Perception of the same value, PCs may
+                                                            Key Item. By defeating this Ossificator, it will
+notice the ashen skeletons of the Immortals sticking
+                                                         drop 1x golden key.
+out of the walls.
+   Enemies. The following enemies are present here:      B5) Gladius Gallery
+   1x Immortal Lieutenant (marked with a fist, in the       A series of corridors where the mummified
+intersection between areas B3 and B4).                   corpses of the very best soldiers of the Old Empire
+                                                         were buried.
+   3x Immortals (marked with swords in the
+intersection between areas B3 and B4).
+                                                         Gladius Gallery Open Encounter
+
+             Torment. Add 1x Immortal                       Enemies. The following enemies are present here:
+            Flagbearer.                                     1x Immortal Lieutenant (marked with a fist in
+                                                         area B5).
+B4) Arcosolia Tombs
+  This section of the catacombs was used to store           1x Immortal Flagbearer (marked with a flag in
+                                                         area B5).
+                                                                                                                    19
+       1x Skeleton Ball (marked with an engine in area                 Torment. Add 1x Immortal
+     B5 – Connected Ossificator III).                                 Flagbearer.
+       2x Harvesters (marked with bows in area B5).
+       6x Immortals (marked with swords in area B5).         Key Item. Defeating this Ossificator will grant
+                                                          the party 1x golden key. With all key bearers
+                                                          defeated, and with all keys in hand, the party may
+                  Torment. Add 1x Harvester.              unlock the stairway in B1.
+
+     The Third Key Bearer Encounter                          Galleries Shortcut. The iron door at the end of
+                                                          a corridor adjacent to this room leads back to the
+       At the end of B5, in a secluded chamber is         gallery near B1.
+     Ossificator III, the final key bearer.
+
+                                                          Continuing the Adventure
+       Enemies. The following enemies are present here:
+                                                             When the party unlocks the stairs and descends,
+        1x Ossificator (marked with a crossed skull in    proceed to Chapter 3.
+     area B5).
+       1x Harvester (marked with a bow in area B5).
+
+
+     Encounter Map B: The Catacombs
+
+
+
+
+20
+21
+          Chapter 3:
+     Forbidden Knowledge
+
+
+
+
+22
+A
+             fter facing the horrors in the                  Suddenly, a loud cracking echoes
+             catacombs, the party descends even            throughout the chamber. The skeletal
+             deeper. Blocked by yet another lock,          monolith crumbles to dust as the ground
+             they walk into a large chamber, when          trembles. The floor collapses beneath your
+             the ground suddenly collapses, sending        feet as you plummet into darkness. Your fall
+them plummeting down into the forbidden depths.            is long, but broken as you crash safely into
+There they find the fate of the remaining lost             a pile of bones, the old material shattering
+Crusaders. Yet, in order to escape, the party must         and turning into dust, softening your fall.
+fend off against hordes of immortal skeletons, before      You rise with only a few scratches, over
+coming face to face with the Siege Breaker, a              what can only be described as mass grave.
+devastating war machine constructed by the Eternal
+Legions.
+                                                        Map C: Areas
+                                                           The following paragraphs detail important areas
+Forgotten Depths                                        of Map C: Forgotten Depths. Each grid square on
+   Deep within the foundations of the Cathedral,        the map corresponds to a space of 10 ft. by 10 ft. The
+those who held little to no importance to the Old       party starts around area C1.
+Empire had their corpses thrown without ceremony
+into the darkness, where countless forgotten
+remains lie piled up on top of each other in massive    C1) Mass Grave
+mountains of ash and bones.                                Countless, massive piles of bones slumped
+                                                        together, littering the whole chamber. Not even the
+                                                        ground can be seen, completely covered dust and
+The Fall                                                bone remains.
+   As the party descends the spiral stairs, they           Too Deep. A collapsed bridge stands at the left
+reach another carved circle. This time without any      end of the chamber. It descends seemingly infinitely
+keyholes. At the side of the stairs, a hallway leads    into darkness, showcasing the true extent of the
+to an adjacent chamber, where white flickering          forgotten depths.
+lights can be seen. Inside the room there’s a strange
+monolithic statue made out of amalgamated bones,
+surrounded by stone statues of the Old Empire.          C2) The Immortal Tomb
+Torches bearing white flames are strung all over the       A huge chamber supported by massive pillars
+walls, illuminating the whole chamber.                  made out of skulls and bones, the ground almost
+   Objective Item. By passing the statues and           completely covered with a dark, sedimentary dirt and
+approaching the monolith, there’s 1x Penitent           ash.
+Crusader flayed husk, strung by its viscera, with
+open arms and only its helmet covering its face. The
+bones missing, ripped through the muscles. As the       C3) The Grand Lift
+party recovers his badge, read the following script.        The Grand Lift platform stands here, in a chamber
+                                                        lit by never ending white-flamed torches. Yet, the
+                                                        way to the lift is blocked by a huge blockage of
+                                                        bones.
+                                                           Activating the Lift. The lift works with arcane
+                                                        magic. It does not need levers to be controlled,
+                                                        only the strength of the user’s mind. If one wants to
+                                                        ascend or descend to a certain level, so they will by
+                                                        only stepping over its platform.
+
+                                                                                                                 23
+     Encounter Map C: Forgotten Depths
+
+
+
+
+24
+Map D: The Immortal Tomb                                     Suddenly, the walls begin to shake as if hit
+   The following paragraphs detail important areas         by an earthquake. Ash and dust fall from the
+of Map D: The Immortal Tomb. The party starts              ceiling above, as you notice the huge piles
+around D2.                                                 of bones beginning to move. With a sudden
+                                                           burst, dozens of skeletal hands reach out of
+                                                           the pile, as ashen skeletons claw their way
+D1) Bones Piles                                            out, rushing at you with weapons in hand.
+  Huge piles of bones, ash, and discarded amor and
+weapons spread all over the chamber.
+                                                          Combat Rounds
+
+D2) Dead Crusaders                                         Spawn the following enemies on the following
+                                                        combat rounds. Spawn them on any of the D1) Bone
+  At the center of the chamber lies a forgotten grave   Piles spread around the map.
+and many dead Penitent Crusaders.
+                                                          Round 1. Spawn 3x Immortals.
+
+   Objective Item. 9x Penitent Crusader corpses are
+spread around the chamber. Their bodies are crushed                  Torment. Add 1x Immortal.
+into various pieces. And just like the others, the
+bones ripped from their bodies. These bear the last
+remaining badges meant to be recovered.                   Round 2. Spawn 1x Immortal Lieutenant.
+
+                                                                     Torment. Add 1x Immortal
+D3) Old Hero’s Tomb                                                 Flagbearer.
+    Sculpted on the wall watching there’s a massive        Round 4. Spawn 1x Immortal Flagbearer, and
+face-like sarcophagus. The mouth of the sarcophagus     1x Immortal.
+is broken open, leading to a vacant chamber.
+Around the sides of the face, there’s an inscription                 Torment. Add 1x Immortal.
+in Latrian. If a PC understands Latrian, it can read
+the inscriptions. It reads: “Here lies Kourrakas the
+Unyielding, Decimator of Worlds.”                         Round 6. Spawn 1x Harvester.
+
+                                                                     Torment. Add 1x Harvester.
+D4) Blockage of Bones
+   Alongside the wall of the chamber, there’s a
+massive pile of bones. Thin strips of white light can     Round 8. Spawn 1x Ossificator.
+be seen coming from behind it, but the pile is too
+massive to be dismantled in a short period of time.                  Torment. Add 1x Immortal
+                                                                    Lieutenant.
+
+Running the Encounter
+                                                        Ending the Encounter
+   As soon as the party recovers the badges, begin
+the encounter by reading the following script.             At the end of the round 9, D4) Blockage of Bones
+                                                        leading to C3 will collapse, allowing the party to
+                                                        escape. Once they’re on the lift and think about
+                                                        going upwards read the following script.
+
+
+                                                                                                              25
+         As you look around for anything to make         The lift rises through a long passage, the party
+       the lift ascend, you see the hundreds of        should have at least fifteen minutes to take a short
+                                                       rest and to tend to their wounds before they reach the
+       skeletal soldiers tumbling on top of each
+                                                       surface.
+       other, rushing toward you. The carvings
+       around the lift begin to glow with a whitish-
+       yellow light. As the undead shamble forth
+       towards you, reach the lift, it suddenly
+       springs into motion and rapidly ascends.
+         The skeletons fall away from the platform
+       shattering themselves into countless pieces
+       as you ascend back to the surface.
+
+
+
+
+     Encounter Map D: The Immortal Tomb
+
+
+
+
+26
+Map E: Hall of Bones                                                    Torment. Use Siege Breaker
+                                                                       (Torment) Instead.
+   Once the party returns to the surface, a massive
+creature will burst through the gates of the Cathedral.
+To begin the encounter, read the following script.        E2) Crumbling Pillars
+                                                             Around the nave are 6 large pillars that support
+                                                          the ceiling. Whenever the Siege Breaker uses a
+     As you walk out of the lift, the whole
+                                                          Lunge attack and ends up hitting a pillar, it begins to
+   structure trembles as the earth continues
+                                                          crack. After 1 round, the pillar will fall and crumble.
+   shakes, even worse now. Debris fall from               Any creature within 10ft of it must make a DC 18
+   the ceiling all around you. Suddenly, a                Dexterity saving throw, taking 24 (7d6) bludgeoning
+   massive construct of stone and bones lunges            damage on a failure, or half as much damage on a
+   through the cathedral doorway, shattering              success.
+   shattering pillars and walls with its hulking
+   body.
+                                                          Ending the Adventure
+                                                             When the party defeats the Siege Breaker, and
+E1) The Nave                                              leaves the cathedral, proceed to the Epilogue.
+   Enemies. The following enemies are present here:
+       1x Siege Breaker (around E1).
+
+Encounter Map E: Hall of Bones
+
+
+
+
+                                                                                                                    27
+     Epilogue
+
+
+
+
+28
+A
+             s the party leaves the Cathedral, they         Abandoning the Mission
+             take one final look back, only to bear
+             witness to a horrific sight that will soon         If the party at any moment decide to
+             be marching towards all living beings.          abandon the mission and retreat to the Black
+             As the party leaves the Cathedral of            Fortress, the sight of the Eternal Legion’s army
+Bones, read the following script.                            (Epilogue) should still happen, as the party
+                                                             will still be caught in the storm while making
+                                                            their return, and end up at the Penitent Crusade
+                                                            outpost, where the second part of this adventure
+      As you leave through the collapsed gates
+                                                            will take place.
+    of the dark cathedral, you take one final
+    look back at the raging dust storm that’s
+    coming to you, closer now than ever. In
+    the ashen dust storm, you see hundreds
+    of thousands of skeletal legionaries, pale
+    riders on bony steeds, flying creatures,
+    hulking statuesque monstrosities – the
+    epitome of perfect weapons of war –, and
+    standing tall among the army of the dead,
+    is the menacing figure of a huge, many-
+    limbed skeleton, wearing a faded cape
+    attached to an intricately carved armor,
+    bearing massive swords in his multiple
+    arms, watching you with a hollow stare that
+    penetrates deep within your soul.
+        You run, leaving the place behind, as
+    large amounts of skeletons pour out of the
+    Cathedral, yet just like the army behind
+    them, they all just stand there, watching as
+    you fade in the distance.
+
+
+Eternal Legion Part II
+    This adventure is the first of two parts. In the next
+installment, the adventure continues the harrowing
+journey through the Ashen Wastes. The party is
+caught by the dust storm as they’re on their back
+to the Black Fortress. None can survive in such
+conditions for long, being exposed to extreme levels
+of magical energies that corrode and sicken the
+body. Luckily, they stumble upon a Penitent Crusade
+Outpost where they take shelter. Yet, the Eternal
+Legion army is hot on their heels, and will arrive
+at the outpost in two days, giving the party few
+precious moments to recover from their wounds and
+prepare the outpost for the imminent assault.
+
+
+
+                                                                                                                29
+     Taking it Further
+
+
+
+
+30
+T
+            his scenario is designed to be run in one   The ground is covered with shifting sands; the dust
+            session and require minimal preparation.    particles of the destroyed world. On their way to the
+            However, the following suggestions will     Cathedral of Bones, the party may be caught beneath
+            help you to craft a longer experience for   the roiling clouds that blanket the sky and the strong
+            your players in the grim world of Doaden    windstorms that batter the region with concentrated
+if you wish.                                            magical radiation, being forced to take shelter in
+                                                        some old ruins or cave formations. The land itself is
+                                                        morphed, a surreal reflection of reality, a reminder of
+Building the Narrative                                  what it once was.
+
+  The following suggestions can be used to craft
+additional encounters.                                  Bone Harvesters
+                                                           On their journey the party may see amid the
+Journey through the Ashen Wastes                        rolling storms giant machines traversing the Ashen
+                                                        Wastes, trawling the dusty earth and scooping up
+   The journey through the Ashen Wastes is perilous     troves of ancient buried bones, trailed by hundreds
+and full of dangers, yet, also filled with wonder and   of legionary guards that protect it.
+unbelievable sights caused by the ever presence of
+the chaotic energy that fills the region. Here are a    Lunden, the Engineer
+few sights that the party may pass by as they head         If the party has played through the Deadmire
+towards to the cathedral, and may wish to explore.      adventure, they may stumble onto Lunden in the
+                                                        Black Fortress. If so, Lunden may talk a bit about
+                                                        the purpose of the fortress, his job in fortifying the
+Inhospitable Place                                      walls, and also warn the party about the high risks
+                                                        of venturing into the Ashen Wastes. Maybe even
+   The Ashen Wastes are a desolate and harsh
+                                                        providing them with an additional Potion of Greater
+region. The lands are still afflicted by the powerful
+                                                        Healing.
+magical fallout that annihilated the Old Empire.
+
+
+
+
+                                                                                                                  31
+                            Appendix A:
+                             Bestiary
+
+
+
+
+     T
+                  he Eternal Legions were the Emperor’s chosen, their ranks
+                  drawn from those born in the Valley of the Sun, the birthplace of
+                  the Emperor himself, a harsh and unforgiving land that brewed
+                  warriors of unrivaled strength and mental will.
+                  These warriors were born into the forges of combat. Taught never
+     to retreat nor surrender, to kill or be killed, to fight through pain and fatal
+     wounds that would leave any other man debilitated. Taught that fear is the
+     only weakness. Taught that fear is death, for fear eats the mind and dulls the
+     senses.
+       Now, these once unstoppable warriors have been risen by the chaotic and
+     volatile magics of the Ashen Wastes, their bones mutated to form carapace-
+     like armor that is stronger than steel. These skeletal warriors slaughter all in
+
+
+
+
+32
+33
+                                   Soldiers (Cr 3)
+                                     Immortals
+
+         The Immortals were feared warriors, formed from the regiments of the of strongest fighters this
+     world has ever known. Born in the harsh and unrelenting Valley of the Sun, they were forged in the
+     fires of combat since childhood. Taught never to retreat nor surrender, to kill or be killed, to fight
+     through pain and fatal wounds that would leave any other man debilitated. Taught that fear is the only
+     weakness. Taught that fear is death, for fear eats the mind and dulls the senses.
+           In their life, the Immortals conquered the world, acquiring their name due to the fact that they
+     were nearly impossible to kill, forming brutal shield walls that were near impenetrable. It was common
+     for battles to end without a single death in their ranks, even though their regiments charged straight
+     into the front lines of combat. Now, their name has taken a different meaning, as they have risen from
+     the dust, an unstoppable and unkillable army that threatens the world once again.
+
+
+
+
+34
+IMMORTAL                                           Shield Wall. If this creature is standing within 5 ft.
+                                                   of another Immortal, its AC is increased by +1. This
+Medium undead                                      effect stacks up to two times.
+
+Armor Class: 18                                    Actions:
+Hit Points: 52
+Speed: 30 ft.                                      Multiattack. This creature makes two attacks.
+
+STR     DEX    CON INT       WIS     CHA
+                                                   Spear. Melee Weapon Attack: +5 to hit, reach 5 ft.,
+ 16      14      18     10     12      14          one target. Hit: 12 (3d6 + 2) piercing damage.
+ (+3)   (+2)    (+4)   (0)    (+1)    (+2)
+
+
+Damage Resistances: Poison
+Condition Immunities: Charmed, Frightened,
+Exhaustion, Poisoned
+Senses: Darkvision 60 ft., Passive Perception 11
+Languages: Understands Latrian But Can’t Speak
+Challenge: 3 (700 XP)
+
+
+
+
+                                                                                                            35
+     Immortal Flagbearer
+
+
+                    Immortals Flagbearers inspired the legions
+                of Emperor in the heat of combat. Bearing the
+                mark of the old Empire, these soldiers stood
+                tall atop the piles of bodies left by their fellow
+                brothers in arms, as they shouted words of
+                encouragement that caused fear and despair in the
+                hearts of the enemy.
+                    Now in death, these immortal legionnaires still
+                carry the banners of war, under the sigil and name
+                of another conquering, and feared leader. Their
+                Eternal Mother of the Ashen Wastes.
+
+
+
+
+36
+IMMORTAL                                           Inspire Attack. All Immortals within 30 ft. of this
+                                                   creature gain advantage on their attack rolls as long
+FLAGBEARER                                         as the creature is alive.
+
+Medium undead                                      Actions:
+                                                   Multiattack. This creature makes two attacks.
+Armor Class: 16
+Hit Points: 52                                     Spear. Melee Weapon Attack: +5 to hit, reach 5 ft.,
+Speed: 30 ft.                                      one target. Hit: 12 (3d6 + 2) slashing damage.
+
+STR     DEX    CON INT       WIS     CHA
+
+ 16      14      18     10     12      14
+ (+3)   (+2)    (+4)   (0)    (+1)    (+2)
+
+
+Damage Resistances: Poison
+Condition Immunities: Charmed, Frightened,
+Exhaustion, Poisoned
+Senses: Darkvision 60 ft., Passive Perception 11
+Languages: Understands Latrian But Can’t Speak
+Challenge: 3 (700 XP)
+
+
+
+
+                                                                                                           37
+         Elites (Cr 5)
+     Immortal Lieutenant
+
+
+
+
+                   Immortal Lieutenants were renowned for
+               their utter discipline on the battlefield, both
+               in their usage of incredibly coordinated large
+               unit phalanx formations, and because of their
+               unbreakable courage, and fearlessness, in the face
+               of overwhelming odds, even to the point of death.
+                   And even so, the afterlife seems to have only
+               strengthened their sheer power of will and conquest
+               induced abilities.
+
+
+
+
+38
+IMMORTAL
+LIEUTENANT
+Medium undead
+
+Armor Class: 18
+Hit Points: 142
+Speed: 30 ft.
+STR     DEX     CON INT         WIS     CHA
+
+ 16       16      18      12      14      16
+ (+3)    (+3)    (+4)    (+1)    (+2)    (+3)
+
+
+Damage Resistances: Poison
+Condition Immunities: Charmed, Frightened,
+Exhaustion, Poisoned
+Senses: Darkvision 60 ft., Passive Perception 11
+Languages: Understands Latrian But Can’t Speak
+Challenge: 5 (1,800 XP)
+
+
+Shield Wall. If this creature is standing within 5 ft.
+of another Immortal, its AC is increased by +1. This
+effect stacks up to two times.
+
+Actions:
+
+Multiattack. This creature makes three attacks.
+
+Spear. Melee Weapon Attack: +5 to hit, reach 5 ft.,
+one target. Hit: 12 (3d6 + 3) slashing damage.
+
+
+Reactions:
+
+Advance Order (CD 4). At the start of this creature’s
+turn, it may issue an order to advance in unison.
+Each Immortal within 60 ft. may make one free
+movement action up to half of its total speed.
+
+
+
+
+                                                         39
+     Harvesters
+
+
+              Harvesters were once battle priestesses of
+           the Church of Azerai. Striding into combat along
+           with the Emperor’s army, they once called divine
+           wrath and flame upon the enemy.
+              Now, they are twisted, changed, and mutated,
+           imbued by the powers of the Ashen Wastes and
+           able to control and shift the energy.
+              They channel this new power to manipulate
+           bone, assisting the great Ossificators in shaping
+           new soldiers, and using their great war-scythes to
+           harvest the souls of their foes.
+
+
+
+
+40
+HARVESTER                                               Bone Cage (Spell) (CD 4). Creates a cage of bones
+                                                        with a 5 ft. radius for 2 rounds. Creatures trapped
+                                                        within cannot leave the area until the spell ends,
+Medium undead                                           unless by magical means. With a DC 18 Dexterity
+                                                        saving throw a creature may escape the cage before
+Armor Class: 18                                         it fully forms.Each Immortal within 60 ft. may make
+Hit Points: 102                                         one free movement action up to half of its total speed.
+Speed: 30 ft.
+STR     DEX     CON INT        WIS     CHA
+
+ 14      20       18     16      16      14
+ (+2)   (+5)     (+4)   (+3)    (+3)    (+2)
+
+Damage Resistances: Poison
+Condition Immunities: Charmed, Frightened,
+Exhaustion, Poisoned
+Senses: Darkvision 60 ft., Passive Perception 11
+Languages: Understands Latrian But Can’t Speak
+Challenge: 5 (1,800 XP)
+
+Spellcaster (DC 14, Hit +6). This creature is a
+spellcaster with Spell Save DC and +Hit with spell
+attacks as indicated. Spells will be noted in their
+Actions.
+Quickcaster. This creature may cast a Spell with a
+Bonus Action each turn.
+
+Actions:
+Multiattack. This creature makes two attacks.
+Scythe. Melee Weapon Attack: +7 to hit, reach 10
+ft., one target. Hit: 15 (3d6 + 5) slashing damage.
+Reap (Spell) (CD 2). Empower your next Scythe
+attack with dark energy. Its damage type turns to
+necrotic, and if the attack succeeds, the target must
+succeed on a DC 14 Charisma saving throw or its hit
+point maximum is reduced by an amount equal to the
+damage taken. This reduction lasts until the target
+finishes a Long Rest, and the Harvester is healed for
+the amount of damage dealt. The target dies if this
+effect reduces its hit point maximum to 0.
+
+
+
+
+                                                                                                                  41
+                                Skeleton Ball
+
+
+
+       Skeleton Balls are massive clusters of animated skeletons, held together by magic and
+     physical momentum.
+        This hive-mind of corpses rolls about, the skeletons on top reaching their bony hands
+     out and altering the direction of the ball while those on the bottom are crushed into dust.
+       Any unfortunate creature that is too slow to escape such an odd hazard is obliterated
+     under the weight of the cackling phenomenon.
+
+
+
+
+42
+SKELETON BALL                                     Senses: Darkvision 60 ft., Passive Perception 10
+                                                  Languages: Understands Latrian But Can’t Speak
+                                                  Challenge: 5 (1,800 XP)
+Large construct
+
+Armor Class: 14                                   Crush. The Skeleton Ball can only move in one
+Hit Points: 115                                   direction per turn. Each time it moves over another
+Speed: 120 ft.                                    creature, that creature must make a DC 18 Dexterity
+                                                  saving throw, taking 28 (8d6) bludgeoning damage
+STR    DEX     CON INT        WIS    CHA          on a failure or half as much on a success.
+
+ 26      14      22     10     10     10
+(+8)    (+2)    (+6)   (0)    (0)     (0)
+
+Damage Resistances: Poison, Bludgeoning,
+Piercing, and Slashing from nonmagical attacks.
+Condition Immunities: Charmed, Frightened,
+Grappled, Exhaustion, Poisoned, Restrained,
+Stunned.
+
+
+
+
+                                                                                                        43
+     Commanders (Cr 7)
+       Ossificators
+
+
+
+                 Ossificators were once the witch-priestesses of
+              the Azerai, blessed with unfathomable powers and
+              commanding the widespread respect and obedience
+              of the people of the Empire. Like the Harvesters,
+              they have become changed by the mutagenic
+              energies of the Ashen Wastes.
+                 Risen as monstrous beings, they barely resemble
+              humans anymore, their abdomens twisted and
+              elongated with many legs and chitinous bone
+              plates.
+                 Yet their powers have increased to match
+              these mutations, capable of melding and shaping
+              bones and life essence and using their abilities to
+              continually swell the ranks of their legions, under
+              the undying will of the Eternal Mother.
+
+
+
+
+44
+OSSIFICATOR
+Medium undead
+
+Armor Class: 18
+Hit Points: 114
+Speed: 30 ft.
+STR     DEX     CON INT         WIS     CHA
+
+ 12       14      18      18     22     18
+(+1)     (+2)    (+4)    (+4)   (+6)    (+4)
+
+Damage Resistances: Poison.
+Condition Immunities: Charmed, Frightened,
+Exhaustion, Poisoned.
+Senses: Darkvision 60 ft., Passive Perception 16
+Languages: Latrian
+Challenge: 7 (2,900 XP)
+
+
+Spellcaster (DC 17, Hit +9). This creature is a
+spellcaster with Spell Save DC and +Hit with spell
+attacks as indicated. Spells will be noted in their
+Actions.
+Quickcaster. This creature may cast a Spell with
+a Bonus Action each turn.
+
+
+Actions:
+
+Claw. Melee Weapon Attack: +4 to hit, reach 10
+ft., one target. Hit: 12 (3d6 + 2) slashing damage.
+Boneshards (Spell) (CD 1). A blast of sharp bones
+erupts from your hands. Each enemy creature in a
+30 ft cone must make a Dexterity saving throw or
+take (8d6) piercing damage on a failed save, or half
+as much damage on a successful one. If a creature is
+trapped within a Bone Cage it automatically fails the
+saving throw.
+Bone Shield (Spell) (CD 5). Form a bone barrier
+around yourself. For the next two rounds, you have a
++5 bonus to your AC.
+Raise Dead (Spell) (CD 6). Revive any
+undead creature. The creature returns with
+full Hit Points.
+
+                                                        45
+                               Bosses (Cr 11/14)
+                                Siege Breaker
+
+       Siege Breakers are monstrous constructs, formed through the melding of vast troves of bones dug
+     up by strange harvesting combines that trawl through the dust of the Ashen Wastes.
+       These giants are shaped and reshaped, forged by a dozen Ossificators and carefully constructed to
+     be nearly impervious to damage.
+       When they arrive on the battlefield, they obliterate foes with powerful blows, and smash through
+     stone and steel structures with ease, allowing the legions to spill in and overtake any defended
+     position.
+
+
+
+
+46
+SIEGE BREAKER                                          Legendary Actions:
+                                                       This creature can take 2 legendary actions, choosing
+Huge construct                                         from the options below. Only one legendary action
+                                                       option can be used at a time and only at the end of
+Armor Class: 16                                        another creature’s turn. This creature regains spent
+                                                       legendary actions at the start of its turn.
+Hit Points: 162
+Speed: 60 ft.
+                                                       Punish. Make a Tusk or Slam attack.
+STR     DEX     CON INT       WIS     CHA
+                                                       Pillar (CD 3). The Siege Breaker pulls a pillar from
+ 24      12      25     10      10     10              its back and slams it to the ground. All creatures
+(+7)    (+1)    (+7)    (0)     (0)    (0)             within 15 ft. of the Siege Breaker must make a DC
+                                                       16 Dexterity saving throw or take 35 (8d6).
+Saving Throws : Str + 10, Con +10.
+Damage Resistances : Poison; Bludgeoning,
+Piercing, and Slashing From Nonmagical Attacks
+Condition Immunities: Charmed, Frightened,
+Exhaustion, Poisoned.
+Senses: Darkvision 60 ft., Passive Perception 10
+Languages: Latrian
+Challenge: 11 (7,200 XP)
+
+
+
+Actions:
+Smash. Melee Weapon Attack: +9 to hit, reach
+10 ft., one target. Hit: 17 (3d6 + 7) bludgeoning
+damage.
+Tusk. Melee Weapon Attack: +9 to hit, reach 15 ft.,
+one target. Hit: 14 (2d6 + 7) piercing damage.
+Siege Break (CD 3). The Siege Breaker lunges 60
+ft. in any direction. All creatures in its path must
+succeed on a DC 18 Dexterity saving throw to jump
+out of the way. On a failure, they take 24 (6d6)
+bludgeoning damage, and on a success, they take
+half as much. If they take damage, they must succeed
+on a DC 16 Strength saving throw or be knocked
+prone.
+
+
+
+
+                                                                                                              47
+     SIEGE BREAKER                                      Actions:
+     (TORMENT)                                          Smash. Melee Weapon Attack: +9 to hit, reach
+                                                        10 ft., one target. Hit: 17 (3d6 + 7) bludgeoning
+     Huge construct                                     damage.
+                                                        Tusk. Melee Weapon Attack: +9 to hit, reach 15 ft.,
+     Armor Class: 16                                    one target. Hit: 14 (2d6 + 7) piercing damage.
+     Hit Points: 202                                    Siege Break (CD 3). The Siege Breaker lunges
+     Speed: 60 ft.                                      60 ft. in any direction. All creatures in its path
+                                                        must succeed on a DC 18 Dexterity saving throw
+     STR    DEX     CON INT        WIS    CHA           to jump out of the way. On a failure, they take 24
+                                                        (6d6) bludgeoning damage, and on a success, they
+      24      12      25     10     10     10           take half as much. If they take damage, they must
+     (+7)    (+1)    (+7)    (0)    (0)    (0)          succeed on a DC 16 Strength saving throw or be
+                                                        knocked prone.
+     Saving Throws : Str + 10, Con +10.
+     Damage Resistances : Poison; Bludgeoning,          Legendary Actions:
+     Piercing, and Slashing From Nonmagical Attacks     This creature can take 3 legendary actions,
+     Condition Immunities: Charmed, Frightened,         choosing from the options below. Only one
+     Exhaustion, Poisoned.                              legendary action option can be used at a time and
+     Senses: Darkvision 60 ft., Passive Perception 10   only at the end of another creature’s turn. This
+     Languages: Latrian                                 creature regains spent legendary actions at the
+     Challenge: 14 (7,200 XP)
+                                                        start of its turn.
+
+                                                        Punish. Make a Tusk or Slam attack.
+
+                                                        Pillar (CD 3). The Siege Breaker pulls a pillar
+                                                        from its back and slams it to the ground. All
+                                                        creatures within 15 ft. of the Siege Breaker must
+                                                        make a DC 16 Dexterity saving throw or take 35
+                                                        (8d6).
+
+
+
+
+48
+49
+50
+51
+52
+53
+54
+55
+

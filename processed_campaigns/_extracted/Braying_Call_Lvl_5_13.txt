@@ -1,0 +1,1105 @@
+1
+    Braying Call
+    A 5e Compatible Adventure
+         For Levels 5 – 13
+
+
+
+
+2
+         The World of Doaden
+Welcome to Doaden, the dark fantasy setting of tainted lands and twisted
+     monsters, where an ever-creeping affliction corrodes the very
+                         essence of existence.
+
+It is a world of decay and depravity where once-righteous men and heroes of
+   the glorious purpose now struggle to survive as cults and dark gods vie
+          with one another to consume the last vestiges of humanity.
+
+    It is a world of death, trapped in the fading dusk of a fallen empire.
+The heroes that wander these lands are no grand adventurers to be honored
+                             in songs of minstrels.
+
+For the heavy deeds and decisions these wanderers undertake invariably leave
+them disheartened, broken, nothing more than soulless husks and shadows of
+                        their once-glorious selves.
+
+    Yet as dark as Doaden may be, humanity clings to life with a stubborn
+              tenacity, a last flickering flame within the dark.
+
+A last hurrah, a final war cry that shall echo in the black abyss of eternity,
+               a momentary victory before the endless night.
+
+
+
+
+                                                                                 3
+                            Credits
+
+    Developed by:
+      Bestiarum Games
+
+    Director:
+      Alexander Dovermann
+
+    Writer/Designer:
+     Giovani C. Fiorini
+
+    Art & Graphic Design:
+      Alexander Dovermann
+      Marina Jukova
+
+    Cartography:
+      Giovani C. Fiorini
+      Marina Jukova
+
+
+
+                                ON THE COVER
+                                BRAYING CALL
+
+
+
+                                “  I hear her blessed voice. Even as I write I can hear her,
+                                braying at the forest’s edge.
+                                   She was old when the land was young.
+                                   She is the rebirth and the death.
+                                   The beginning and the end.
+                                   Light and Dark.
+                                   Yes… Yes…
+                                   She will make me see.
+                                   She will make all of us see…
+                                And SET US FREE
+
+
+                                                                                       ”
+
+
+4
+                                                        Contents
+
+
+Credits.......................................................4    Appendix A :.............................................19
+Contents....................................................5       Monsters and NPCs............................20
+Foreword..................................................6         Weak (Cr 1)...........................................21
+  Running the Adventure....................................6          Domovoy..........................................................21
+  Adventure Summary..........................................7        Old Blacksmith.............................................22
+  Adventure Hooks..............................................7      Mendicant Friar............................................23
+  Homebrew Campaigns.......................................7          Mad Woodcutter..........................................24
+  Bestiarum Campaign..........................................7       Crazed Scyther.............................................25
+Introduction.............................................7           Normal (Cr 3).......................................26
+  Encounter 1: Essenvald...................................9          Kikimora.........................................................26
+  Running the Encounter...................................9           Village Hag....................................................27
+The Adventure..........................................9             Hard (Cr 5)...........................................28
+  Map A: Essenvald Village.............................10             Chort....................................................28
+  Ending the Encounter...................................13          Elite (Cr 7)............................................29
+  Encounter 2: Monster Hunt........................14                 Bies........................................................29
+  Running the Encounter.................................14           Archon (Cr 21).....................................30
+  Map B: Bleating Woods.................................14            Baphomet.............................................30
+  Ending the Encounter...................................15
+  Encounter 3: Baphomet Calls.....................16
+  Running the Encounter.................................16
+  Map C: Baphomet’s Lair................................16
+  Ending the Encounter...................................16
+Taking it Further...................................18
+  Purging the Villagers...................................18
+  Black Forest Encounters.............................18
+
+
+
+
+                                                                                                                                            5
+                                                        Foreword
+
+    W
+            elcome to Bestiarum’s grimdark world setting of             and can enjoy the most challenging and dynamic encounters,
+            Doaden. This land is fallen, a shattered domain where       and exclusive content for Damnation Mode. If you include
+            darkness threatens to consume the last vestiges of          your own adventures in between monthly scenarios, consider
+            humanity. The Holy Empire fights to survive in an age       leveling your party quicker.
+    of darkness, bereft of their God Emperor, and beset on all sides
+    by rabid beasts, dark cults, and powerful demonic entities.         Gold & Items. Civilization and Trade in Doaden have
+                                                                        crumbled. Only gold, silver, and copper are circulated, and only
+                                                                        at 1/10th the amount suggested in D&D manuals.
+    Running the Adventure
+    Bestiarum scenarios are easy to run and quick to prepare. They      Narrative Scripts. Some passages are meant to be read
+    generally last one long, or two short sessions. But if you’d        aloud or paraphrased. They build atmosphere or reveal key
+    like to delve further into our dark world, look at the Taking It    information to the adventuring party.
+    Further and Bestiary sections for inspiration on creating your
+    own adventures. The horrors of Doaden are truly endless and
+    we hope your experience becomes as much your own as it is               Narrative Scripts are written in this format!
+    ours.
+
+    Party Size. Monthly scenarios are designed for party sizes of 4
+    to 6 players.                                                       Special Rules. Some passages cover mechanics that should be
+                                                                        used for the specific scenario or encounter.
+    Difficulty Modes. Monthly scenarios are made for player levels
+    5 through 13. Each module has a scaling difficulty so your
+    group can enjoy adventures in any order. Difficulty modes are           Special Rules are written in this format the first time
+    Normal, Torment, and Damnation, each corresponds to its                 they are used, but they may be referenced more than
+    own level bracket. As your party levels up, advance them to             once.
+    higher difficulty modes. You can also adjust monster health
+    and damage if the encounters are too hard or easy for your          References. References to materials in the 5e core rules and
+    particular party.                                                   Systems Reference Document are Italicized. References to
+    Monster encounters will be listed with different colored text       unique Bestiarum materials, such as items and monsters, are
+    and separated by slashes for the specific difficulty mode as        written in Bold.
+    Normal / Torment / Damnation. Only use the monsters listed
+    for one specific mode, do not include monsters listed from other    Abbreviations. The following terms are abbreviated in
+    modes. For example, 1x Cultist / 2x Cultists / 2x Cultist and       Bestiarum publications:
+    1x Demon Lord. This indicates that on Normal mode, the party        PC - Player Character
+    will face one cultist. On Torment, they face two cultists. And on   NPC - Non-Playable Character
+    Damnation, they face two cultists and one demon lord.               GM - Game Master
+    DC & Damage Scaling. The DC to pass skill checks and
+    the damage taken from traps and environmental factors also             THERE IS LIGHT YET in Doaden, and
+    increases based on the difficulty mode. The scaled DC and              though it may seldom come in the form of love
+    scaled damage will be listed with different colored text and           or joy, it still shapes itself into a semblance of
+    separated by slashes for Normal / Torment / Damnation. For
+    example, A creature may walk over a section of spiked ground
+                                                                           honor, purpose, and redemption.
+    without taking damage by passing a Dexterity (Acrobatics)
+    check with DC 14 / 16 / 18 but takes 1d6 / 1d8 / 1d10 piercing                  - Dreyen Solius, Journal of the World’s
+    damage on a failure.                                                                                           Ending.
+
+    Leveling. PCs gain levels by completing scenarios. From
+    levels 5 to 8, they gain one level for every 2 adventures. From
+    levels 9 to 13, they gain one level for every 3 adventures. The
+    maximum level is 13, but parties continue to acquire gear
+6
+                                                   Introduction
+
+T                                                                    Homebrew Campaigns
+     he village is lost, my lords. The folk have been taken by
+     madness. They grow increasingly erratic and hostile             If you are running this scenario as a one-shot or part of a
+     to my presence. I suspect they practice the olden ways          homebrew campaign, pick one of the following prompts or
+     secretively in their hidden hovels, worshipping some            make your own. You can change the underlying premise for the
+earthen evil in the woods. It drives them. It calls them. I can      adventure to serve your game.
+almost see it sometimes, a shifting shadow between the trees.
+On the darkest nights, I hear it, calling, braying, always
+bleating, bleating, bleating. Oh, please make it stop! I beg of
+                                                                     Monster Hunt
+                                                                     Instead of investigating the village, the party is tasked with
+you, my lords, you must marshal the Crusade. This place, these
+                                                                     tracking down a powerful monster that has been corrupting the
+people, must be purged before it is too late.
+                                                                     local villagers. Pick out the Bies that the party will hunt at the
+                                                                     end of the adventure or choose your own!
+In this scenario, the party must investigate the strange
+happenings around Essenvald, an old village hidden away in
+the southern Black Forest. As the townsfolk slide into madness,      Lost and Ambushed
+the party must confront the culprit and put an end to its reign of   Instead of investigating the village, the party becomes lost
+terror before its influence spreads any further and it begins to     while traveling through the woods, being ambushed by a
+corrupt any more surrounding villages.                               creature that lurks in the forest and seeking refuge in the local
+                                                                     village that, unbeknownst to them, has been corrupted by the
+                                                                     creature’s wicked power. They must kill the creature before
+Adventure Summary                                                    they can escape from the area.
+The scenario begins as the party investigates the isolated village
+of Essenvald, where the people have succumbed to a strange           Bestiarum Campaign
+madness. In secret, the villagers are practicing dark magic,         Strange happenings have been occurring in the Black Forest.
+worshipping a sinister creature lurking in the surrounding           Reports of passersby and imperial agents indicate that caravans
+forest. The closer the party gets to uncovering the truth, the       have gone missing, foul creatures are lurking about, and a dark
+more hostile the villagers become, making their investigations       chanting is echoing from deep within the forest. A mendicant
+increasingly perilous.                                               friar who recently settled there has requested the Penitent
+    Following the trail of clues, the party finds a wicked hag       Crusade’s help in ending this madness. The Crusade has
+at the center of the village’s corruption. After slaying her,        determined that an investigation is necessary to prevent any
+loud braying echoes from the depths of the forest, driving the       further corruption. The party will be sent by the Crusade to
+villagers to a frenzied state and forcing the party to fight for     investigate and end whatever evils they uncover.
+their lives.
+    Having survived the attack, the party plunges into the forest    Penitent Rewards. If you are running an official Bestiarum
+on the hunt for the creature, an evil Bies, dodging through the      campaign, each PC should be awarded for completing this
+mist and avoiding several hazards as they follow the bleating        mission successfully. Each penitent will have 5 / 7 / 10 years
+call, coming face to face with the monstrous creature, a             removed from their sentence, and the team should collectively
+demonic sheep-like entity, and engaging in desperate battle.         have 800 / 1,600 / 5,000 gold awarded to the team fund.
+
+
+Adventure Hooks
+The following story hooks quickly engage the party with the
+adventure. If you are running an official Bestiarum campaign,
+use the Bestiarum Campaign hook. Otherwise, pick any of the
+Homebrew Campaigns hooks and adapt the scenario for your
+table.
+
+
+
+
+                                                                                                                                          7
+8
+                                           The Adventure
+
+Encounter 1: Essenvald                                            Running the Encounter
+The party begins by investigating the village of Essenvald, a     The party may investigate Essenvald in any order they wish.
+small, isolated community that lies within the southern section   Use the following rules for the duration of this encounter.
+of the Black Forest. Essenvald was once a healthy and peaceful
+community. However, in recent years, the people have become
+                                                                       Hostile Behavior. The villagers are of no help. They
+withdrawn and aggressive. Unknown to outsiders, they have
+                                                                       are distant and unresponsive, muttering amongst
+fallen to the olden ways, now worshipping a dark entity in the
+                                                                       themselves. They should become increasingly hostile,
+forest. Read the following script to begin the encounter. Then,
+                                                                       bearing their weapons, or glaring at the party as the
+allow the party to freely investigate the village.
+                                                                       investigation progresses. Specific rules for villagers
+                                                                       are provided in their map sections. If any villager
+    As you approach the village, the thick forest opens up             is attacked or antagonized, all villagers become
+    to a clearing. You hear distant chanting and guttural              aggressive towards the party immediately.
+    human voices. As you get closer, you see through a
+    hazy mist that the villagers are gathered around a                 Obscuring Mist. A hazy fog lingers in the air around
+    bonfire, their twisted bodies silhouetted against the              Essenvald. The visibility outdoors is shortened to 100 ft.
+    flickering flames. The village is a desolate place. The
+    cottages are old and worn, and their walls caked with              Oil Barrels. Throughout the area are oil barrels marked
+    grime and moss. The dirt roads are rutted and pitted.              with an O. They have AC 8 and 8 Hit Points. If hit by
+    Beyond the gathered villagers, you see an old chapel.              any source of fire damage, the barrel explodes. All
+    Its windows boarded, though its belltower still stands             creatures within 20 feet suffer 21 (6d6) fire damage and
+    tall.                                                              10 (3d6) force damage from the blast.
+
+
+
+
+                                                     Map A: Essenvald Village
+                                                                                                                                    9
+     Map A: Essenvald Village                                                 First Floor. Filling most of the ground floor is a large
+                                                                          grindstone. The floor is dirty and filled with loose straw and rat
+     The following areas correspond to Map A: Essenvald Village.
+                                                                          droppings, though little else.
+     The party starts near A1.
+                                                                              Second Floor. The second floor has a few sacks of flour
+                                                                          spread around it. Most have been soiled by dampness or torn
+     A1) Front Gate                                                       open by rats.
+     The entrance to the village is surrounded by a spiked wooden             Third Floor. The third floor is where the actual mill is
+     palisade that is 20 feet tall with an elevated platform behind it.   located, with wooden gears and shafts spinning slowly. A small
+     The gate in the center of the wall is open and anyone can walk       window provides a view of the surrounding area. A simple
+     in and out, though a fallen tree covered in moss has collapsed       bed and cooking area occupy the space on the third floor. One
+     there, makes it difficult to enter or leave. A creature attempting   Crazed Scyther stands near the cooking area, stirring a foul-
+     to climb over the tree must pass a DC 10 / 12 / 14 Dexterity         smelling broth, with the rotten lamb head sticking out of the
+     (Acrobatics) check, or fall to the ground, ending its current        pot. She is muttering and whispering to herself and ignores the
+     action. A worn wooden sign stating “Essenvald” in jagged             presence of the party, even if questioned.
+     letters is hammered atop the gate. A pair of ladders along the
+     wall lead up to the second floor of area A2 or the thatched roof     Clue Letter. The following letter is clearly visible on the
+     of area A3.                                                          bed on the third floor, a clue about the sinister nature of
+                                                                          the happenings in Essenvald. If the PCs haven’t provoked
+     A2) Old Windmill                                                     the woman and interact with the letter, read the following
+     An old windmill stands near the front gate. The structure is         description and have the Crazed Scyther attack the party.
+     dilapidated, with rotten wooden beams placed on its thatch                As you read the letter, the woman suddenly turns to
+     roof. It stands approximately 45 feet tall.                               you, hatred filling her eyes. She reaches for a rusted
+                                                                               scythe leaning against the wall, waving the crude tool
+     Windmill Interior. The interior of the windmill is cramped                in the air as she shouts out in a high pitched voice, a
+     and dusty. The windmill is three stories tall, though each floor          single word
+     is quite bare and simple. One vertical ladder leads from the
+                                                                               “Leave!”
+     ground floor to the elevated platforms making up the seconds
+     and third stories.
+
+
+
+
+                                                          Clue Note: Found in Windmill
+10
+A3) Rundown Cottage                                                   Enemy Behavior. The villagers are completely entranced
+A rundown cottage sits on the opposite end of the Old Windmill        by the flames. They pay no attention to the party’s approach.
+along the front gate of the village. It has a ground-level            However, if the party attempts to interact with them, or interacts
+entrance, though it has been boarded up completely with thick         with any of the clues in this area, they become erratic as they
+planks of wood. The door can be ripped open With a DC 14              snap out of their trance. Their eyes roll back into their heads
+/ 16 / 18 Strength check or smashed open by a bludgeoning             as they speak in a language that is unintelligible, screaming
+weapon. If attacked, it has an AC of 10 and 10 health. The roof       toward the party, and alerting the villagers in A3, A5, and A6.
+is made of old, decaying thatch with various holes and gaps.          These villagers should then come out and gather alongside the
+If a creature attempts to walk on the roof, it must succeed on a      others in A4. Bearing crude weapons, antagonizing the party,
+DC 16 / 18 / 20 Dexterity saving throw, or fall into the cottage’s    but still not harming them.
+interior, taking 10 (3d6) bludgeoning damage.
+                                                                      Burning Clues. Large piles of clothes, rags, dolls, and broken-
+Enemy Behavior. If the party fails the Strength check or              down furniture are scattered beside the bonfire. Many of these
+calls too much attention by hacking at the boarded entrance,          belongings don’t match the outfit of the villagers, and much of
+and if they still haven’t angered the mad villagers in A4,            the furniture is somewhat luxurious items sold by merchants
+those villagers will stop their chanting and turn their attention     in grand cities. Near these items, there’s a cart with crude
+toward the party. While still not aggressive, they begin to arm       weapons. Beside the cart, there are two barrels filled with oil.
+themselves with crude farming tools before starting to growl
+and mimic braying sounds of goats.                                    Bones. With a passive score, or DC 14 / 16 / 18 Wisdom
+                                                                      (Perception) check, one can see both animal and human bones
+Cottage Interior. The interior of the cottage is large and dimly      scattered around the bonfire. It’s possible to even make out the
+lit. The wooden floorboards are creaky, and large patches of          carbonized remains of a human body, strapped onto a burning
+mold grow in the corners. The thatched roof is missing in             log at the very center of the blinding blazes.
+several places. The walls are stained with age and neglect, and
+water drips from the rafters. The only furniture is a dilapidated     Runestone. If a PC touches the runestone, they are hit by a
+table with a few rusted knives and forks on it and a few broken       vivid vision. In this case, read the following script.
+chairs. In one corner, there is a large pile of straw and blankets.
+                                                                           As you touch the runestone, your mind is struck by a
+Human Remains. In the same corner, there’s a pile of tattered
+and bloodied clothes, mixed with mushy, fleshy remains. A                  vision like a dream. You are in a forest glade, the air
+putrid smell of decay fills the air, attracting swarms of flies            filled with laughter, screams, and a deafening braying.
+that buzz around it. A child’s doll lies abandoned in the pile, its        A blazing fire erupts at the center of the glade and
+face smeared with dark red stains. A successful DC 14 / 16 / 18            shadows dance around it, morphing into a monstrous
+Wisdom (Medicine) check reveals the nature of the remains.                 sheep-headed figure. The thing stands amid a group of
+                                                                           crazed peasants, dancing naked in the mud. Some bow
+                                                                           and crawl to the creature, kissing its pulsating belly.
+A4) Village Square                                                         Suddenly a baby’s cries split the air as a mishappen
+A large bonfire burns at the center of the village. Two Mad
+                                                                           sheep burst from between the creature’s legs. With
+Woodcutters stand around it, dressed in tattered rags. They
+                                                                           a roar-like bleating, the vision retreats and you find
+dance around the fire in a trance-like state. A dead tree looms
+over the bonfire, with bones and rags dangling from its twisted            yourself back in the village, looking at the stone.
+branches. Beneath the tree stands a large runestone, covered in
+various symbols and runic drawings. One symbol stands out;
+                                                                      A5) Old Chapel
+a circular design with jagged lines radiating outward. As the
+                                                                      The old chapel is made with a mix of thatch, moldy stone,
+party approaches, and if they still haven’t angered the villagers
+                                                                      and rotting wood. It stands beside the dead tree overlooking
+present here, read the following script.
+                                                                      the bonfire in area A4. The walls are covered in vines and ivy.
+                                                                      The entrance is marked by a rotten wooden door. A bell tower
+     As you draw nearer to the bonfire, you see that the              on top of the chapel leans precariously to one side. The bells
+     villagers’ eyes are wide and manic, their movements              themselves are rusty and silent.
+     erratic and unpredictable as their bodies contort in
+     ways that seem inhuman. Their dance is frenzied. The             Chapel Interior. The chapel is dimly lit by candles. The pews
+     more they dance around the flames, the more their                are covered in dust and cobwebs. The air is heavy and still,
+     chanting grows louder and feverish at the intense heat           filled with the scent of old wood and musty books. Near the
+     and the overpowering scent of burning flesh that fills           entrance, a ladder leads to the top of the bell tower. At the end
+     the air. The flames shed light onto a large carved stone         of the nave, there’s a weathered altar with a silver bowl resting
+     beside the fire, its drawings and symbols seemingly              on top. Leaning against the walls are various bookshelves filled
+     pulsating with the light.                                        with dusty tomes.
+
+
+                                                                                                                                           11
+                     Chapel Interior
+
+
+
+
+12   Clue Note: Found in on Mendicant Friar in Chapel
+Chapel Encounter. A tall Mendicant Friar is kneeling in front       A7) Village Hag’s Hut
+of the altar. He is muttering in a strange language, grasping       At the far end of the village lies a secluded hut. Its windows are
+firmly onto a torn-apart book in his hands. A large woman, the      boarded up, and the wooden door is locked tight. The door is
+Village Hag, is behind the altar, and beside her, a little green    an object with AC 15 and 11 Hit Points. It can also be opened
+creature, one Domovoy, is sitting on the floor. The Village         with a DC 14 / 16 / 18 Strength (Athletics) or Dexterity (Sleight
+Hag is stirring a viscous crimson liquid inside the bowl as the     of Hand) check using lockpicking tools. Bird skulls and human
+Domovoy hands her various ingredients from his sack.                bones hang from ropes that encircle the entire structure. The
+    You can use the Chapel Interior map for this event. The         thatch roof looks old and worn, with patches of moss growing
+Mendicant Friar and Village Hag may fight, but the Domovoy          in the crevices. A strange aroma emanates from the hut, a mix
+should run away. When the party approaches, read the                of rotting vegetation and burning wood.
+following script and start the event.
+                                                                    Hut Interior. The hut is dimly lit by a fading fireplace. The
+                                                                    air is heavy with the smell of burning herbs, and the walls are
+     As you approach, the little green creature sitting
+                                                                    adorned with strange symbols and markings similar to the ones
+     beside the woman perks up and exclaims, “Oh, oh,               on the runestone in A4. The place is cluttered with dusty tomes,
+     we have company!” before snapping its fingers and              bones, and jars filled with unidentifiable liquids. The Village
+     vanishing into a cloud of smoke. The woman cackles             Hag is not here, she is in area A5.
+     wickedly, and suddenly the heavy wooden door behind
+     you locks with a loud click. The air becomes thick, and
+     the room is filled with muttered whispers. The bulky,          A8) Forest Path
+                                                                    The dirt path leading into the forest is lined with carved stones
+     tall man rises from his kneeling position and reaches
+                                                                    and rocks, etched with strange symbols reminiscent of those
+     for the mace at his belt, letting out a blood-curdling
+                                                                    found on the runestone in A4. Skulls and bones hang from
+     roar as he charges toward you.
+                                                                    ropes as the path winds deeper into the woods. The forest is
+                                                                    dense, and visibility becomes even more limited due to the
+Clue Letter. A torn-out page stained with ink can be found          mist that becomes denser as one goes deeper. If the party enters
+in the Mendicant Friar’s robe pockets. If he is slain, the letter   the woods at any moment during Encounter 1, proceed to
+should fall to the ground.                                          Encounter 2.
+
+
+A6) Ruined Barn                                                     Ending the Encounter
+The barn is a dilapidated structure with a thatched roof. It        When the party defeats the Village Hag in A5, a loud roar-like
+stands near the edge of the village. The walls are home to          bleating echoes from the woods. Before they can investigate, if
+cobwebs, holes, and rodents. A ladder leaning against the           there are still any villagers alive, they all rally at the church to
+front wall leads to a window on the upper level. The gates are      hunt down the party. In this case, read the following script.
+completely ajar, with a nauseating stench of decay and the
+incessant buzzing of flies comes from inside.
+                                                                         As the hag drops to the ground, a loud roar-like
+Barn Interior. The light begins to fade only 10 feet inside the          bleating bellows from deep within the dark woods
+barn, becoming dimly lit for another 5 feet and turning into             outside. As it fades away, you begin to hear the
+complete darkness. There is an overwhelming stench of decay              villagers outside screaming, howling, and poorly
+that is almost unbearable lingering in the air. The ground is            mimicking the braying call. A faint wailing starts to
+slick with a mixture of blood and entrails, and the walls are            grow louder, as something heavy begins to pound
+lined with hooks and chains, some of them still holding the              against the still-locked door.
+mutilated remains of animals and humans. Piles of rotting
+meat are scattered around the floor, attracting swarms of flies
+and other insects. The buzzing sound grows louder and more          Encounter. The maddened villagers pounding against the
+intense, almost deafening.                                          door will be able to break it down in one combat round. It is
+    Enemy Behavior. A faint wailing can be heard coming from        up to the party to find a way to escape or stay and confront the
+the far end of the barn. With a passive score or DC 14 / 16 / 18    madded crowd. Either way, when the party ventures into the
+Wisdom (Perception) check, one can see from afar the figure of      woods, proceed to Encounter 2.
+a Old Blacksmith huddled in the corner, gnawing at a bloodied
+dead rat in his hands. If approached, his wails turn into a poor
+mimicry of bleats, as he rises, hitting his hammer against the
+floor and walls, kicking pieces and flesh and excrement toward
+the party. If the villagers are still not angered, the commotion
+will alert the ones in A4, prompting them to arm themselves
+and rush toward the barn to confront the party.
+
+
+                                                                                                                                           13
+     Encounter 2: Monster Hunt                                                Controlling the Bies. The Bies stalks the trees. It
+                                                                              starts in B5, and changes places every 5 minutes.
+     For this encounter, the party investigates a dark forest haunted         When it changes places, it moves 60 ft. to a different
+     by demonic goat-like creatures and a nest of Kikimoras.
+                                                                              location of your choosing and stays another 5
+     The party must proceed with caution as dangers lurk around
+                                                                              minutes before moving again. The Bies is attracted
+     every corner. When the party ventures into the trees, read the
+                                                                              to noises and can hear from anywhere in the woods.
+     following script.
+                                                                              If attracted by a noise, it must immediately move
+                                                                              towards its location, moving 30 ft. every 6 seconds
+          As you venture into the misty woods, the dense canopy               (or, 1 combat round). The Bies knows the exact
+          of twisted and gnarled trees blocks out most of the                 location of the where the noise is coming from. If the
+          light, casting eerie shadows upon the damp ground                   Bies stumbles upon the party, it immediately engages
+          covered in a thick layer of decomposing vegetation.                 in combat, attempting a surprise attack. The Bies
+          Suddenly, a deer jumps out of the brush a few feet                  stays engaged in combat for 3 rounds. At the start
+          away from you, snapping twigs and vines snaking                     of its 4th turn, it always disengages and runs away,
+          across the floor, causing rustling sounds that echo                 attempting to ambush the party again at a later time.
+          unnaturally loud throughout the woods. It freezes,
+          staring wide-eyed at you. Just then, a bleating roar                Bleating. The Bies’ bleating is very loud and can be
+          echoes from the mist, and heavy, fast stomping can be               heard up to 120 feet away. The Bies bleats once every
+          heard coming toward the deer. Trees start to break and              2 minutes. A creature that hears its bleating once is
+          fall as the sound gets louder and closer. Suddenly, a               able to pinpoint the direction from which it came.
+          giant behemoth of a creature dashes out of the woods,               If the Bies doesn’t move during the next 2 minutes
+          biting onto the deer and carrying its corpse in its                 interval and the creature hears it again, the creature
+          mouth as it dashes back into the deep forest, vanishing             is able to pinpoint the exact location of the Bies, in
+          through the brush and mist.                                         which case, place the Bies on the map, revealing its
+                                                                              location. If the party does not reach the Bies before it
+                                                                              moves, hide it again and place it in a new location.
+     Running the Encounter
+     The woods surrounding the village are hazardous. A labyrinth             Noises. A creature can hear any loud noise from a
+     of twisted trees that leave it in complete dim light, rustling of        120 ft. range. Various vines and twisted twigs are
+     leaves and snapping of twigs echo in the distance, a dense mist          spread throughout the map. These vines are marked
+     covers steep falls and hills, and the ground itself is covered in        with a V. When a creature walks over an area taken
+     rotting vegetation, making footing uneven and treacherous.               by vines, the vines snap, producing a loud noise that
+         Sounds & Tracking. The creature the party is hunting                 echoes through the mist. Besides vines, foul creatures
+     is a Bies. It is constantly on the move through the woods,               inhabit the woods. Engaging in combat also produces
+     and just like the party is hunting it, it is hunting them. As the        loud noises. Once combat ends, the noise caused by it
+     party ventures through the woods, the Bies will occasionally             immediately stops.
+     emit a loud bleating. The sound should lead the party to the
+     Bies’ location, allowing them to get a jump on the creature.
+     But, as said before, the Bies is also hunting them, and every       Map B: Bleating Woods
+     noise caused by the party will attract it, leaving them open to     The following areas correspond to Map B: Bleating Woods.
+     devastating surprise attacks.                                       The party starts in B1.
+         Enemies Behavior. Besides the environment, foul creatures
+     lurk in the woods. They hide in the shadows, sneak through
+     the mist, and camouflage themselves among the trees. As the         B1) Forest Entrance
+     party hunts the Bies, they may stumble upon these creatures,        The dirt path that leads from the village to the forest is flanked
+     triggering unexpected encounters that will also attract the Bies.   by gnarled trees and overgrown bushes. The party starts here.
+     Detailed guides on the creatures’ behaviors are provided in each
+     section.                                                            B2) Kikimora’s Den
+                                                                         The den is a large, rounded structure made out of twisted
+     Special Rules. Use the following rules to run this encounter.       branches, thorned vines, excrement, and dirt. The entrance
+                                                                         is hidden beneath a thick, overgrown canopy of vines, and a
+                                                                         stench of rot and decay emanates from within. The ground
+          Strange Mist. A magical mist obscures the forest. It           surrounding the den is littered with bones and covered in blood
+          cannot be dispelled. Visibility here is shortened to 30        stains that can also be seen on the branches and vines that make
+          feet.                                                          up the structure. With a DC 12 / 14 / 16 Wisdom (Medicine)
+                                                                         check is possible to determine that these are human bones.
+                                                                         Some are old, and some are fresh, still covered in bits of rotting
+                                                                         flesh.
+14
+   Enemy Behavior. 1x Kikimora / 2x Kikimoras / 3x                  B5) Bies’ Feeding Ground
+Kikimoras are hiding in one of the bushes surrounding the den.      The Bies’ feeding ground is littered with numerous bones,
+The Kikimora can be noticed with a successful DC 16 / 18 / 20       blood stains, and viscera. The smell of decay and death lingers
+Wisdom (Perception) check. They will attack any creature that       in the air. With a DC 14 / 16 / 18 Intelligence (Investigation)
+approaches its den or is within reach.                              check, a creature can find 1x / 1x / 2x Potion of Superior
+                                                                    Healing.
+B3) Forest Overlook
+The overlook is located on the edge of a gorge overlooking a        Ending the Encounter
+valley in the woods. Three large rocks are arranged in a triangle
+                                                                    Once the party defeats the Bies, read the following script to end
+shape on the overlook, with a runestone placed on top of the
+                                                                    the adventure. The party has dispelled the evil in the forest and
+largest rock. The largest rock at the back stands over 20 ft.
+                                                                    may return with the mission completed!
+tall. The other two rocks are both 15 ft. tall. Blood, bones, and
+viscera are scattered all over the ground. With a DC 14 / 16 / 18
+Wisdom (Medicine) check is possible to determine that these              The deformed goat creature falls to the ground with a
+are human bones, just like the ones found in B2, although these          heavy thud. Its multiple eyes go glassy, with a mixture
+are crushed and broken as if stomped by something.                       of thick blood and black ooze drizzling from its mouth.
+     Enemy Behavior. 1x Chort is standing on top of the largest          The forest goes dead silent as the mist suddenly begins
+rock. It emits a strange braying chanting while smearing blood           to clear, revealing the full extent of the corrupted
+and a white, viscous liquid over the runestone.                          nature that has befallen the area. Trees twisted and
+                                                                         gnarled; their branches caked in a thick layer of
+B4) Hanging Tree                                                         black slime. The ground is covered in rot and decay,
+A large, gnarled tree stands in the middle of the valley. Its            with bones and viscera scattered everywhere. Yet the
+branches are adorned with cages containing skeletons and                 forest seems to whisper a sigh of relief, as the heart of
+rotting corpses. Old stones and pillars surround it. A runestone         corruption begins to leave the soil.
+stands nearby. The stone seems to bleed with a viscous blackish
+and crimson liquid and pulsate with a strange magical energy.
+A DC 16 / 18 / 20 Intelligence (Arcana) check reveals that the
+magic emanates from both within the runestone and someplace
+else, outside this realm.
+
+
+
+
+                                                                                                                                        15
+                                                     Map B: Bleating Woods
+     Encounter 3: Baphomet Calls                                          Map C: Baphomet’s Lair
+     This third encounter is an optional, modular boss fight that you     The following areas correspond to Map C: Demon’s Lair. The
+     can use to continue the adventure after the party defeats the        party starts in C1
+     Bies or can plug directly into any homebrew campaign. This
+     modular boss fight that can be plugged into any situation taking     C1) Runestone Portal
+     place in a dark, demented forest!                                    The runestone stands in the center of a stone circle, surrounded
+         Warning! This fight is very difficult and should only be         by flickering candles. Carved onto the surface of the runestone
+     used for groups of level 13 or higher depending on skill level       is the same bloody symbol that started to glow at the end of the
+     and party composition! If you are running the official Bestiarum     previous encounter, but they are no longer glowing with the
+     campaign, only groups on Damnation difficulty should engage          same crimson light.
+     in this encounter.
+                                                                          C2), C3), C4) Demon Altars
+     Running the Encounter                                                Three altars are perched atop huge rock formations that stretch
+     In most cases, during Encounter 2, the party will find the           up to 30 feet tall. The altars are adorned with various sigils
+     glowing runestone in area B4. After clearing out the Bies, if        and symbols etched deeply into the stone. Various candles
+     you’d like to use this boss encounter, have the party feel drawn     and braziers are encrusted around the altars. 1x Baphomet is
+     back to the runestone. Upon their return, it is glowing a vibrant    standing on an altar C4 to start.
+     red. If they touch the stone, teleport them to Baphomet’s lair           The rock formations on which the altars are perched are
+     and read the following script.                                       all cracked and in a fragile state. They are objects with AC 17
+                                                                          and 30 Hit Points. They are immune to cold, fire, lightning,
+                                                                          necrotic, poison, psychic, and radiant damage. Resistant
+          As you touch the glowing runestone, the world around            to piercing and slashing damage. And vulnerable to acid,
+          you turns pitch black. The world and sounds of nature           bludgeoning, force, and thunder damage. Once a rock formation
+          are torn apart by a deafening, screeching braying               is destroyed, it crumbles and becomes difficult terrain, and the
+          as a red mist begins to swirl around you. Shadows               altar perched on top falls to the ground.
+          dance in a crazed frenzy, intertwining with the mist
+          and shaping around a clearing. The surrounding
+                                                                          Ending the Encounter
+          trees morph impossibly large into a solid wall of thick
+          timber trunks. Three massive rock formations erupt              If the party defeats Baphomet, read the following script.
+          from the ground as a grotesque altar takes shape. A
+          monstrous sheep-headed creature stands at the center                 The creature lets out a deafening screech as it
+          of the phenomenon. It bellows and bleats as it holds                 collapses to the ground with a sickening thud. With
+          its rounded belly with one of its many paws. The                     its fall, the world around you slowly turns dark once
+          creature points at you with elongated, bony fingers. As              more as the demon’s death seems to reverberate
+          it holds up an open hand, you see a glowing red iris                 through the mist. The chirping of birds and howling
+          at the center of the palm staring at you with a baleful              winds steadily reappear as the shadows start to
+          crimson wrath.                                                       retreat, revealing once more the forest of Essenvald
+                                                                               around you. You stand back at the top of the wicker
+     Baphomet. Baphomet is a pregnant sheep-like demon. Due to                 tree, with the runestone crumbled to pieces at your
+     its constant birthing condition, it avoids physical confrontation,        feet. The creature’s corpse has vanished, leaving
+     moving slowly, but with surprising strength, leaping high and             only a deformed, bony claw with a pulsating crimson
+     far from one elevated altar to another. From its altars, it hurls         eyeball jutting out of its palm before that too fates into
+     blood moats, rotting remains of its stillborn children, and               nothingness.
+     necrotic viscera toward the party. From time to time, Baphomet
+     also gives birth to a child during battle, using it to aid in the
+     fight.
+
+     Special Rules. Use the following rules to run this encounter.
+
+
+          Oil Barrels. Throughout the area are oil barrels
+          marked with an O. They have AC 8 and 8 Hit Points.
+          If hit by any source of fire damage, the barrel
+          explodes. All creatures within 20 feet suffer 21 (6d6)
+          fire damage and 10 (3d6) force damage from the
+          blast.
+
+16
+Map C: Baphomet’s Lair
+
+
+
+
+                         17
+                                                 Taking it Further
+
+
+
+
+     B
+           estiarum scenarios are designed to be easy and quick             Black Forest Encounters
+           to prepare. The structured encounters can be run in
+                                                                            The Black Forest is an expansive and nearly impenetrable
+           one session. However, this Taking it Further section
+                                                                            forest, its breadth stretching from the Holy Empire all the way
+           provides further prompts and information to inspire you to
+                                                                            to the northern realms of Thule. Its trees had grown tall already
+     build upon the core adventure or create homebrew adventures.
+                                                                            when the world was young, and it is said that many of the trees
+     As you design and improvise, your party’s journeys in Doaden
+                                                                            are thousands of years old. Many of the past generations of
+     will become uniquely their own.
+                                                                            folk that lived here believed that the place has a spirit of its
+                                                                            own, and that ancient nature spirits still dwell in the unexplored
+     Purging the Villagers                                                  vastness.
+     Despite the creature’s defeat, its dark influence still lingers over       Many threats reside in the Black Forest, and you can fit
+     Essenvald as the corrupted villagers remain. Their minds are           many horror encounters within the area. From creeping spiders
+     unfortunately beyond repair. If any of the villagers remain in         to devilish cults, avenging tree-spirits to barbaric beastmen,
+     the town and the party returns, you may make it clear that there       wood-land witches to goblinoid nightmares, these forested
+     is no salvation for the poor folk. The party must decide what to       lands are so dense that you can design any such encounters
+     do with them.                                                          within them. To expand upon this adventure, you might create
+         Upon the party’s return, the villagers now wander the              encounters for the party’s journey to Essenvald as they navigate
+     streets, their eyes glazed over with madness as they beg for           the Black Forest, or a series of encounters as they attempt to
+     the return of their wicked deity. They wail and cry and attack         navigate their way back out of the forest and into more civilized
+     the party on sight. Remnants of the creature’s influence are           lands.
+     everywhere in the village. The walls of buildings are adorned
+     with twisted symbols and bloody sigils.
+         Crusader Business. If the party was sent here by the
+     Crusade as part of an official campaign, they may have been
+     explicitly instructed to purge the village if the corruption was
+     uncurable. In this case, the party will have no choice but to
+     slaughter the maddened villagers.
+18
+                            Appendix A:
+
+
+This appendix details the monsters and NPCs that appear in this adventure in addition
+to many more from Bestiarum’s monthly release that you can use as inspiration for your
+own adventures! Monsters are organized by Challenge Rating (CR), from weakest to
+strongest, and then alphabetically.
+
+
+
+
+                                                                                         19
+                     Monsters and NPCs
+
+     Challenge Ratings. Enemies and NPCs range from difficulty levels Weak (CR 1),
+     Normal (CR 3), Hard (CR 5), Elite (CR 7), Champion (CR 10), Legendary (CR 15),
+     and Archon (CR 21).
+
+
+
+
+20
+                                                  Weak (Cr 1)
+
+Domovoy                                                           Domovoy
+Small fiend (demon), chaotic neutral                              Domovoys are mischievous devils often employed by witches
+                                                                  for small tasks such as fetching ingredients or assisting in
+Armor Class: 11 (natural armor)                                   preparing spells and potions. Some of the older communities of
+Hit Points: 10 (3d4 + 3)                                          Doaden revere these little impish creatures, leaving out small
+Speed: 30 ft., hover 60 ft.                                       bowls of food or alcohol on their hearths, believing that the
+                                                                  Domovoy will bless their households, or curse them if they
+ STR      DEX       CON       INT      WIS        CHA             should be offended.
+   12       12        12        12       12         12
+  (+1)     (+1)      (+1)      (+1)     (+1)       (+1)
+
+Senses: truesight 30 ft., Passive Perception 11
+Languages: All
+Challenge: 1 (200 XP)
+Actions:						
+Claw. Melee Weapon Attack: +3 to hit, reach 5 ft., one target.
+Hit: 3 (1d4 + 1) slashing damage.
+
+Teleport. The Domovoy can teleport up to 1 mile to any place it
+has previously seen.
+
+Invisibility. The Domovoy magically turns invisible until it
+attacks or until its concentration ends (as if concentrating
+on a spell). Any equipment the Domovoy wears or carries is
+invisible with it.
+
+
+
+
+                                                                                                                                   21
+                                                      Weak (Cr 1)
+
+     Old Blacksmith                                                      Old Blacksmith
+     Aa towering man with wild eyes, this poor sot was once a            Medium humanoid (human), chaotic evil
+     skilled laborer. Hearing the call of madness, he has become
+     feral, losing his mind to a dark horror in the forest. Like a       Armor Class: 11
+     cornered beast, he lashes out with his smithing hammer, a           Hit Points: 52 (8d8 + 16)
+     bulky iron sledge requiring two hands to hold. He charges at        Speed: 30 ft.
+     any who dare to approach him, his screams devolving into a
+     poor imitation of bleats as he unleashes his fury. He fights with    STR       DEX       CON       INT        WIS       CHA
+     a savage, unrelenting ferocity, with little regard for his own
+     safety.                                                                14        12        14        10         10        10
+         Corrupted Villagers. Territorial and unwelcoming to               (+2)      (+1)      (+2)      (+0)       (+0)      (+0)
+     outsiders, the maddened villagers of Essenvald kidnap or
+     attack anyone that enters their land, corrupted through their       Senses: Passive Perception 10
+     worship of the olden deity in the woods. Though they are            Languages: Common
+     not particularly intelligent, they have primal cunning and          Challenge: 1 (200 XP)
+     are able to work together in packs, using their numbers to
+     overpower their victims. The same holds true for all such           Brutal Melee. This creature’s attacks with melee weapons
+     small and isolated communities spread throughout           the      deal one extra die of their damage (included in the attack).
+     northern regions of the Holy Empire. For in                         Additionally, they score a Critical Hit on a natural 18 or higher.
+     these backwater parts, many dark entities still
+     hold sway in the local lands, drawing in and                        Pack Tactics. This creature has advantage on an attack roll
+      corrupting those who enter their domain.                           against an enemy if at least one of its allies is within 5 feet of
+                                                                         the enemy and the ally isn’t incapacitated.
+                                                                         Actions:
+                                                                          Multiattack. This creature makes two attacks.
+
+                                                                               Maul. Melee Weapon Attack: +4 to hit, reach 5 ft., one
+                                                                               target. Hit: 12 (3d6 + 2) bludgeoning damage.
+
+
+
+
+22
+                                                Weak (Cr 1)
+
+Mendicant Friar                                                    Mendicant Friar
+Medium humanoid (human), any alignment                             The mendicant clergy travel the lands of Holy Empire, living
+                                                                   among the most impoverished communities. They walk far and
+Armor Class: 10                                                    wide to preach the sermons of the Azerai faith to the common
+Hit Points: 52 (8d8 + 16)                                          folk, relying on alms and the goodwill of those they meet to
+Speed: 30 ft.                                                      survive.
+                                                                       The story of the friar who visited the town of Essenvald
+ STR      DEX       CON       INT      WIS       CHA               is a sad tale. Originally visiting to bring the holy word to the
+                                                                   isolated villages in the area, he become twisted and corrupted
+   10       10        14        12       14        12              by the evils that dwelt in the nearby woods, the same evils that
+  (+0)     (+0)      (+2)      (+1)     (+2)      (+1)             the village folks worshipped in secret. Yet though his mind
+                                                                   and soul have become corrupted, he still wields the powers of
+Skills: Medicine + 4, Persuasion +3, Religion +3                   the light to heal and soothe his now-twisted allies, and to burn
+Senses: Passive Perception 12                                      away his enemies.
+Languages: Common, Latrian
+Challenge: 3 (700 XP)
+
+Spellcasting. This creature is a 5th-level spellcaster. Its
+spellcasting ability is Wisdom (spell save DC 12, +4 to hit with
+spell attacks). This creature has the following spells prepared:
+   Cantrips (at will): sacred flame, guidance
+   1st level (3 slots): bless, guiding bolt
+   2nd level (2 slots): prayer of healing
+Actions:					
+Club. Melee Weapon Attack: +4 to hit, reach 5 ft., one target.
+Hit: 4 (1d4 + 2) bludgeoning damage.
+
+
+
+
+                                                                                                                                      23
+                                                    Weak (Cr 1)
+
+     Mad Woodcutter                                                    Mad Woodcutter
+     The Mad Woodcutter was once a normal man, but                     Medium humanoid (human), chaotic evil
+     transformed into twisted, violent being under the influence
+     of the corruptions in the nearby woods. His eyes burn with a      Armor Class: 12
+     crazed intensity, and his mouth is twisted into a savage snarl.   Hit Points: 45 (7d8 + 14)
+     He carries with him his axe for chopping wood, though now he      Speed: 30 ft.
+     uses it more frequently to chop heads.
+                                                                        STR       DEX       CON       INT        WIS       CHA
+                                                                          14        14        14        10         10        10
+                                                                         (+2)      (+2)      (+2)      (+0)       (+0)      (+0)
+
+                                                                       Senses: Passive Perception 10
+                                                                       Languages: Common
+                                                                       Challenge: 1 (200 XP)
+
+                                                                       Pack Tactics. This creature has advantage on an attack roll
+                                                                       against an enemy if at least one of its allies is within 5 feet of
+                                                                       the enemy and the ally isn’t incapacitated.
+                                                                       Actions:					
+                                                                       Multiattack. This creature makes two attacks.
+
+                                                                       Greataxe. Melee Weapon Attack: +4 to hit, reach 5 ft., one
+                                                                       target. Hit: 8 (1d12 + 2) slashing damage.
+
+
+
+
+24
+                                                  Weak (Cr 1)
+
+Crazed Scyther                                                     Crazed Scyther
+Medium humanoid (human), chaotic evil                              Once a docile peaceful farmer, the Crazed
+                                                                   Scyther has fallen to corruption. Now, she uses
+Armor Class: 12                                                    her harvesting scythe to reap the flesh of any outsider
+Hit Points: 39 (6d8 + 8)                                           that wanders into her derelict community. Corruption is,
+Speed: 30 ft.                                                      unfortunately, a common event, especially in the dark and
+                                                                   isolated corners of the world of Doaden. In most cases, there is
+ STR      DEX       CON       INT       WIS       CHA              no cure, and the villagers must simply be purged for the greater
+                                                                   good of the Empire.
+   12       14        12        10        10        10
+  (+1)     (+2)      (+1)      (+0)      (+0)      (+0)
+
+Senses: Passive Perception 10
+Languages: Common
+Challenge: 1 (200 XP)
+
+Pack Tactics. This creature has advantage on an
+attack roll against an enemy if at least one of
+its allies is within 5 feet of the enemy and
+the ally isn’t incapacitated.
+Actions:				
+Multiattack. This creature makes three attacks.
+
+Scythe. Melee Weapon Attack: +4 to hit, reach 5 ft., one target.
+Hit: 7 (2d10 + 2) slashing damage
+
+
+
+
+                                                                                                                                      25
+                                                   Normal (Cr 3)
+
+     Kikimora                                                            Kikimora
+     The Kikimora emerges as a haunting embodiment of fear.              Medium monstrosity, chaotic evil
+     Their twisted forms and decaying flesh reflect the terrors
+     within. They prey upon the desperate and lost, reveling in
+                                                                         Armor Class: 13
+     torment and suffering. Encounter with a Kikimora is a chilling
+                                                                         Hit Points: 60 (8d8 + 24)
+     ordeal, their sinister laughter signaling the descent into
+                                                                         Speed: 30 ft.
+     darkness. Sharp teeth line its mouth, and its saliva is deadly
+     poisonous, causing paralysis and even death. Adventurers can
+     often determine when they are close to a Kikimora’s nest by          STR      DEX       CON       INT       WIS       CHA
+     the horrid smell of excrement, rotting vegetation, and festering       14       16        16        10        14        10
+     meat spoils that make up the creature’s home.                         (+2)     (+3)      (+3)      (+0)      (+2)      (+0)
+     The Kikimora is a patient predator, camouflaging itself amid
+     the brushes, waiting for unsuspecting prey to pass by. Once it      Skills: Stealth +6, Perception +4
+     pounces, it strikes with ferocity and tenacity, its jaws clamping   Senses: Passive Perception 14
+     down on its victim and injecting them with its toxic venom          Languages: -
+     before dragging their paralyzed corpses into their dens to          Challenge: 3 (700 XP)
+     be eaten alive.
+                                                                         Evasive. Attack rolls made against this creature have
+                                                                         disadvantage if it can see the attacker, and it has advantage on
+                                                                         Dexterity saving throws. These benefits are lost if this creature
+                                                                         is incapacitated, or its speed is reduced.
+
+                                                                         Actions:					
+                                                                         Multiattack. This creature makes two Claw attacks and may
+                                                                         use its Paralyzing Bite.
+
+                                                                         Claw. Melee Weapon Attack: +5 to hit, reach 5 ft., one target.
+                                                                         Hit: 7 (1d6 + 4) slashing damage.
+
+                                                                                 Paralyzing Bite (Recharge 3-6). Lunge up to 10 feet
+                                                                                 toward a creature and attempt to bite it. The creature
+                                                                             must succeed on a DC 16 Dexterity saving throw to dodge
+                                                                         or take 7 (1d6+4) piercing damage and be paralyzed until the
+                                                                         end of its next turn.
+
+
+
+
+26
+                                              Normal (Cr 3)
+
+Village Hag                                                        Village Hag
+Medium humanoid (human), any evil alignment                        Hags are old crones, humanoid but twisted by the dark spirits of
+                                                                   the earth. They are powerful spellcasters devoted to the worship
+                                                                   of the earthen spirits that once proliferated throughout the
+Armor Class: 10 (16 with barkskin)
+                                                                   less civilized regions of Doaden. Hags are grotesque in shape,
+Hit Points: 90 (12d8 + 20)
+                                                                   their warty flesh sagging and rotten teeth snarling. Generally,
+Speed: 30 ft.
+                                                                   hags generally take interest in small, isolated communities,
+                                                                   approaching and offering services as healers, but slowly
+ STR     DEX       CON       INT      WIS      CHA                 corrupting the common folk to bring them under the influence
+   14      10        16        12      16        14                of whatever dark entities the hags serve.
+  (+1)    (+0)      (+3)      (+1)    (+3)      (+2)               Hags delight in cursing their enemies with plagues and
+                                                                   diseases, bad luck, and other terrors. Few who cross a hag’s
+Senses: Darkvision 60 ft., Passive Perception 13                   path come away unscathed, and those who do often find
+Languages: Common                                                  themselves plagued by nightmares and haunted by their
+Challenge; 3 (700 XP)                                              cackling laughter.
+
+Innate Spellcasting. This creature’s innate spellcasting ability
+is its Wisdom (spell save DC 12, +4 to hit with spell attacks).
+It can innately cast the following spells, requiring no material
+components:
+     At Will: poison spray, vicious mockery
+     2/day each: barkskin, hex
+     1/day each: bestow curse, counterspell
+
+Actions:					
+Fists. Melee Weapon Attack: +3 to hit, reach 5 ft., one target.
+Hit: 3 (1d4 + 1) bludgeoning damage.
+
+
+
+
+                                                                                                                                      27
+                                                                                                                                      27
+                                                      Hard (Cr 5)
+
+     Chort                                                                Chort
+     Born from the twisted nightmares of ancient evils, this twisted      Medium monstrosity, chaotic evil
+     goat-like demon is covered in coarse, matted fur, and from its
+     deformed skull sprout twisted, bestial horns. It is a virile beast
+                                                                          Armor Class: 16 (natural armor)
+     with an insatiable carnal appetite, and Baphomet takes it as her
+                                                                          Hit Points: 85 (10d8 + 48)
+     consort, to spawn a string of never-ending evils into the wicked
+                                                                          Speed: 30 ft.
+     world. The Chort is a skilled hunter and fighter, capable of
+     leaping great distances and delivering powerful strikes with its
+     deadly weapon.                                                        STR      DEX       CON       INT       WIS        CHA
+                                                                             16       16        18          8       14         12
+                                                                            (+3)     (+3)      (+4)       (-1)     (+2)       (+1)
+
+                                                                          Senses: Darkvision 60 ft., Passive Perception 12
+                                                                          Languages: -
+                                                                          Challenge: 5 (1,800 XP)
+
+                                                                          Brutal Melee. This creature’s attacks with melee weapons
+                                                                          deal one extra die of their damage (included in the attack).
+                                                                          Additionally, they score a Critical Hit on a natural 18 or higher.
+
+                                                                            Nimble Leap. Once per turn as a bonus action, the Chort
+                                                                            may jump up to 20 feet in any direction without triggering
+                                                                            an opportunity attack.
+
+                                                                          Actions:						
+                                                                          Multiattack. This creature makes two attacks.
+
+                                                                          Great Cleaver. Melee Weapon Attack: +6 to hit, reach 5 ft., one
+                                                                          target. Hit: 16 (2d12 + 3) slashing damage.
+
+
+
+
+28
+                                                   Elite (Cr 7)
+
+Bies                                                                 Bies
+Large monstrosity, chaotic evil                                      Bies are among the worst of the fiendish offspring of
+                                                                     Baphomet, personifying the corruption of evil upon the natural
+Armor Class: 16 (natural armor)                                      world. These beasts are solitary hunters, stalking their victims
+Hit Points: 147 (14d10 + 90)                                         with ruthless determination. Their razor-sharp claws and
+Speed: 45 ft.                                                        jagged teeth are stained with the blood of countless fallen foes.
+                                                                     Legends speak of their insatiable hunger, as they consume flesh
+ STR       DEX        CON       INT      WIS       CHA               and bone, leaving nothing but carnage in their wake. These
+                                                                     monstrous creatures possess an uncanny resilience, shrugging
+   20        16         20         8       14        8               off wounds that would fell lesser beings. Their leathery hides
+  (+5)      (+3)       (+5)       (-2)    (+2)      (-2)             are thick and impenetrable, protecting against all but the
+                                                                     most powerful attacks. The mere sight of a Bies is enough to
+Damage Resistances: Bludgeoning, Piercing, and Slashing              strike terror into the hearts of even the most valiant warriors.
+from nonmagical attacks                                              The Bies fight with little finesse, charging straight at their
+Senses: Darkvision 60 ft., passive Perception 12                     opponents to knock them to the ground before biting, kicking,
+Languages: -                                                         and striking with their hooves.
+Challenge: 7 (2,900 XP)
+
+Brutal Melee. This creature’s attacks with melee weapons
+deal one extra die of their damage (included in the attack).
+Additionally, they score a Critical Hit on a natural 18 or higher.
+
+Charge. If this creature moves at least 15 ft. towards a
+target, its next attack against that target on the same turn has
+advantage. On a hit, the target must make a DC 18 saving
+throw or be knocked prone.
+
+Actions:			
+Multiattack. This creature makes two attacks.
+
+Bite. Melee Weapon Attack: +8 to
+hit, reach 5 ft., one target. Hit: 21
+(3d10 + 5) piercing damage.
+
+Trample (Recharge 5-6). The Bies
+trample the earth. All enemies within 5
+feet must succeed on a DC 18 Dexterity
+saving throw to attempt to jump out of
+the way, taking 22 (5d6 + 5) damage on a
+failure.
+
+
+
+
+                                                                                                                                         29
+                                                  Archon (Cr 21)
+                  “I am the beginning and the end. Death and Rebirth.”
+     Baphomet                                                                 Corruptor. Baphomet’s mere presence can have a
+                                                                          corrupting influence on the environment around it. Its dark
+     Baphomet is a powerful and immortal demonic entity, the              energy taints the earth, water, and air, causing plants and
+     mother of evils. This enormous horned deity holds power over         animals to mutate and become twisted. In the primeval
+     nature and fertility and is a great elder spirit, born long before   forests and swamps where Baphomet dwells, the trees grow
+     the civilizations of man. It is worshiped by dark sects, cults,      unnaturally dense, tall, and twisted, the waters turn fetid and
+     hags, and witch covens who seek to gain its favor and harness        poisonous. As for the settlements that surround its territory,
+     its power for their own nefarious purposes.                          Baphomet’s influence spreads like a disease, infecting the
+         Broodmare. Baphomet is in a constant state of birthing,          minds of the people with madness and despair. The people
+     giving birth to grotesque, devilish creatures that spread terror     become fearful and paranoid, turning on each other and
+     and darkness wherever they go, often living in secluded              eventually succumbing to the dark influence of the demon. The
+     places in the forest or swamps surrounding settlements under         inhabitants of these settlements are often found performing
+     Baphomet’s influence. Every once in a while, Baphomet gives          depraved rituals and sacrifices, all in service to Baphomet.
+                                             birth to a Chort, which
+                                                is seen as a symbol
+                                                 of depravity and         Baphomet’s Lair
+                                                          worshipped by   Baphomet’s lair is always located in a clearing amid an
+                                                          the followers   overbearingly dark forest, surrounded by impossibly tall trees
+                                                         of Baphomet.     and completely shrouded in mist. The vegetation in the area is
+                                                                          rotten and dead, and the air is thick with the pungent smell of
+                                                                          decay.
+
+
+                                                                          Lair Actions
+                                                                          On initiative count 20 (losing initiative ties), Baphomet takes a
+                                                                          lair action to cause one of the following effects.
+                                                                              • Strange Mist. Magical mist spreads throughout the whole
+                                                                          lair for 1 turn (or 6 seconds). All enemy creatures caught inside
+                                                                          the mist have their maximum sight reduced to 30 ft.
+                                                                             • Wicked Brood (Recharge 5-6). Baphomet gives birth to
+                                                                          1x Kikimora within 5 feet of it and under its control.
+
+
+                                                                          Regional Effects
+                                                                          The region containing Baphomet’s lair is warped by its magic,
+                                                                          creating one or more of the following effects:
+                                                                               Rot and Decay. Plant life within 10 miles of the lair grows
+                                                                          twisted and gnarled. The vegetation rots, a strange magical mist
+                                                                          takes hold of the place, and the terrain starts to decay as foul
+                                                                          monstrosities are attracted to the area.
+                                                                                      Instinctive Fear. Beasts within 10 miles of the lair
+                                                                                 become frightened and disoriented, as though constantly
+                                                                                 under threat of being hunted.
+                                                                               Offspring of Evil. When Baphomet’s body is destroyed,
+                                                                          its soul lingers. In 6 days, its soul attaches to the womb of a
+                                                                          pregnant woman or sheep within 66 miles, which will give
+                                                                          birth instead to a new body for Baphomet and die in child
+                                                                          labor. Baphomet will reach full maturity in another 666 days.
+
+30
+Baphomet                                                             Foul Play. Make a Blood Mote attack.
+Huge fiend (devil), chaotic evil                                     Prepare Leap. Baphomet recharges her Leaping Stomp.
+                                                                     Sign of the Beast (Recharge 6). Target a creature that you
+Armor Class 16 (natural armor)                                       can see within 120 ft. The creature must succeed on a DC 21
+Hit Points 225 (18d12 + 108)                                         Wisdom saving throw or be cursed until the end of its next
+Speed 30 ft.                                                         turn. While cursed, the creature is under your control and takes
+                                                                     2 (1d4) necrotic damage at the start of every combat turn. At
+ STR      DEX       CON       INT       WIS       CHA                the end of the creature’s next turn, the curse is lifted, and the
+   22       22        22        22        22        22               creature regains control of itself. There is no way to dispel this
+  (+6)     (+6)      (+6)      (+6)      (+6)      (+6)              curse.
+
+Saving Throws Int +13, Wis +13, Cha + 13
+Skills Arcana + 13, Deception +13, History +13, Persuasion
++13
+Damage Resistances Bludgeoning, Piercing, and Slashing
+from Nonmagical Attacks
+Damage Immunities necrotic, poison
+Condition Immunities charmed, frightened, poisoned
+Senses truesight 120 ft., passive Perception 16
+Languages All
+Challenge 21 (33,000 XP)
+
+Legendary Resistance (3/Day). If this creature fails a saving
+throw, it can choose to succeed instead.
+Spellcasting. This creature is an 18th-level spellcaster. Its
+spellcasting ability is Charisma (spell save DC 21, +13 to hit
+with spell attacks). It has the following warlock spells prepared:
+    1st level (4 slots): charm person, hellish rebuke, hex
+    2nd level (3 slots): hold person, ray of enfeeblement
+    3rd level (3 slots): counterspell, dispel magic, fear
+    4th level (3 slots): blight, banishment
+    5th level (3 slots): dream, scrying
+    6th level (1 slot): circle of death, mass suggestion
+    7th level (1 slot): finger of death
+    8th level (1 slot): power word stun
+    9th level (1 slot): power word: kill
+Actions:
+Multiattack. Baphomet makes three Claw attacks.
+Claw. Melee Weapon Attack: +13 to hit, reach 10 ft., one target.
+Hit: 13 (2d6 + 6) slashing damage.
+Blood Mote. Ranged Spell Attack: +13 to hit, range 160 ft., one
+target. Hit: 21 (6d6) necrotic damage.
+Leaping Stomp (Recharge 5-6). Baphomet leaps 60 feet in
+any direction. If the space is occupied by any creatures large
+or smaller, those creatures are pushed to an adjacent space of
+Baphomet and must succeed on a DC 18 Dexterity
+saving throw, taking take 27 (6d6+6) bludgeoning
+damage and being knocked prone on a failure.
+Legendary Actions:
+This creature can take 3 legendary actions, choosing
+from the options below. Only one legendary action
+option can be used at a time and only at the end of
+another creature’s turn. It regains legendary actions at
+the start of its turn.
+                                                                                                                                          31
+32
+33
+34
+35
+36
+37
+38
+39
+

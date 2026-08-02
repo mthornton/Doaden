@@ -1,0 +1,386 @@
+                               The Tainted Lands of Doaden
+
+INTRODUCTION
+
+  Welcome to Doaden, the dark fantasy setting of tainted lands and twisted monsters, where an ever-creeping
+affliction corrodes the very essence of existence. It is a world of decay and depravity where once- righteous
+men and heroes of glorious purpose now struggle to survive as cults and dark gods vie with one another to
+consume the last vestiges of humanity.
+In Forbidden Psalm: The Tainted lands of Doaden you will find:
+
+• Three scenarios created for the fantastic monsters from Bestiarum Games;
+• Rules for monsters.
+
+ These scenarios should be played in order.
+ These scenarios should be played in solo or coop only.
+
+You will need a copy of the Forbidden Psalm Core Book to play.
+https://www.forbiddenpsalm.com/forbidden-psalm
+
+
+
+
+  Beastmen are the ancient species that have walked the wilds long before the coming of man.
+Following a contentious history with the early nomadic northmen that shared their territory, they have
+learned to exist in nature far from the dominion of man, where they may avoid conflict.
+  However, in recent years there has been an alarming escalation in the encounters with these beasts.
+Survivors describe attacks by feral bullmen overtaken by a savage rage, rabid beasts ambushing caravans
+and slaughtering villages, leaving behind nothing but corpses and demolished structures.
+  Unknown to the humans, the Beastmen tribes are suffering, their clans plagued by myriad issues.
+  Food grows scarce as corruption spreads deep into their plains and forests.
+  A wasting sickness has culminated over many generations, causing widespread infertility and decimating
+their young populations.
+  Worst of all, a new infection, the Bloodfever, spreads among their numbers, causing the infected to become
+feral, succumbing to a blinding rage that leads to a devastating loss of mental control and eventual death.
+  A team of rangers has traveled north to investigate the reports of these attacks but have not been heard
+from in over a week.
+
+
+
+
+                                                                                                                1
+SCENARIO 1:
+The Ritual
+  After a long week following faded forest trails and mountain paths, you finally come to the town of Ubsola.
+You see the folk bustling about, stacking wood into a great pile at the edge of town and erecting six large
+wooden stakes around it. An elderly man in yellow robes stand by, supporting himself with a gnarled cane and
+directing them about.
+  Though it is not yet evening, some of the townsfolk appear intoxicated, stumbling about and slurring their
+speech. Belligerent singing rings through the air, interspersed by the grunts and moans of passionate fornication.
+
+  You make your way to the Longhouse, past clusters of thatched-roof huts and up a short rise to the wide
+wooden structure. Entering through an open doorway, you find servants inside busily setting rows of long
+tables, arranging pitchers of ale and piling platters with breads, cheeses, and roasted meats. At the end of the
+hall is a large wooden throne. A burly man with a shorty graying beard and dressed in layers of fine animal
+hides stands next to the throne, drinking from a horn in his hand. He converses with a few armored men, patting
+one on the shoulder and laughing with them before the men take their leave, passing you as they head outside.
+Spotting you, the man greets you jovially.
+  The Longhouse fills with raucous shouts music as you feast on platters of roasted meats, thick stews, cheeses,
+and buttered root vegetables. Servants bustle about, refilling pitchers of potent mead, a slur of honey and spice
+that warms your belly and goes straight to the head. Yngvald the burly man stands to his feet, his face ruddy
+from merriment. He slams a fist on the table and raises his horn in the air, shouting above the din as the hall
+quiets to listen.
+
+“Friends!
+Let us give thanks for Morra’s bounty.
+Let us honor her sustenance, even in these dark times.
+Let us remember those we have lost; our family, to the wills of the gods, for today, we honor them.
+Before we proceed, please, raise your drinks to our new friends, brave souls who seek to end the plague that
+descends upon our lands.
+Let the blessings of Morra shine upon them as well!”
+
+  A rhythmic drumbeat grows outside and slowly overtakes the humdrum of festivities. A young priest in
+yellow robes steps into the hall with head bowed. Wordlessly, he kneels to the ground, scraping a handful of dirt
+across his face, before heading back outside. The feasters grow hushed, standing to follow behind him in
+silence, forming a large crowd as they funnel out of the Longhouse. You follow the crowds to the edge of town
+where they had been busy earlier erecting the pile of timber encircled by wooden stakes.
+
+  The logs have been lit, creating a great bonfire which blossoms like a red carnation, its fiery petals tearing
+through the darkness. Six men are now bound to the wooden stakes that circle the fire. To the left of each man
+stands a priest in yellow robes. The crowd slowly fills the space surrounding the great fire, encircling the men.
+The High Priest watches on as villagers step forward; four women and an elderly man, each wordlessly taking
+their place in front of a bound man. However, no one steps forward for the last one. The High Priest then turns
+his gaze to you, raising an open hand and beckoning you forward towards the last bound man.
+
+
+                                                                                                                    2
+Goal:
+Take part in the ritual and defeat the ambush.
+
+Reward:
+If you choose to slit the man’s throat at the sacrifice the warband member who took part gets the sacrificial
+dagger weapon [1D6, Agility, Cruel and critical cause bleeding].
+For each civilian saved a participating warband gains 1xp.
+
+Setup and Treasure:
+  Set up the map as shown. Each square is 1 inch by 1 inch.
+  Around the fire as shown in the map place 5 sacrifices, and a priest model. In a line. In front of which place
+civilians who are participating in the ritual. In front of one of the sacrifices choose one member of each
+participating warband to be placed in front of their sacrifice. (Place 1 less civilian if two warbands are
+participating).
+  At the start of round 1 the civilians will slit the throats of the sacrifices and push them into the fire. Your
+warband member must make a choice slit the throat or not. If they do not the sacrifice is pushed into the fire by
+the priest at the end of round 1.
+  6 Civilians should also be placed in the crowd area. Civilians cower in fear.
+
+ Deployment:
+All the warband models that are participating in this scenario should be placed in the crowd they watch the
+ceremony.
+
+Threats:
+At the start of round 2 two Aurox Warriors and Bloodfevered Brute spawn on random board edges.
+At start of round 3 one more Aurox Warrior joins the fight.
+Round 4 another Aurox Warrior. Round 5 A 1x Rockgut Raider appears.
+On Round 6 2 more Aurox Warriors appear.
+Enemies will target civilians if they are the closer models. Civilians have 6HP.
+
+Solo Play
+As above but do not spawn the Aurox warrior on round 3 and round 6 only one more Aurox Warrior appears.
+Battle ends at the end of turn 8.
+
+RPG text box:
+
+When the ritual begins read:
+ As you hesitate, the bound man before you whispers out with a laborious breath.
+“Please.”
+Even in his heavily drugged state, you can sense a fear, a desperation within him.
+The priest places the knife in your hands.
+                                                                                                                    3
+When the sacrifice is made read:
+
+ The crowd has become withdrawn; quiet and contemplative in their demeanor.
+ As you leave the ceremony, a loud scream cuts through the dark from somewhere ahead.
+ Then another to the left, and another to the right. People begin to run, forming a chaotic stampede.
+ Through the din you hear loud, bestial grunts and a rugged, gutteral roar.
+
+
+
+
+                                                                                                        4
+SCENARIO 2:
+Fresh Meat
+  With the ambush defeated you discover the corpse of one of the missing rangers tied to the mount of the foul
+beasts. In his pocket a letter and map detailing the lair of these hideous creatures.
+ The village offers you a great reward to slay the beasts.
+
+Goal:
+Fight your way into the lair.
+
+Reward:
+Each warband participating will gain 20 gold.
+The warband that frees Malcor can hire him for free as a mercenary.
+
+Setup and Treasure:
+  This scenario takes place inside a cave system as shown in the map for scenario 2.
+Inside the cave next to the weapons the party will have to fight its way through 2 Aurox Warriors who guard a
+weapons rack that can be searched 5 times to draw a random weapon.
+  Before progressing onto the kitchen area.
+In this area place a cage as shown in the map.
+Inside this cage is the ranger Malcor.
+  As an action a warband member with the key to the cage can free Malcor.
+
+Deployment:
+Warbands should deploy in the grass area outside of the cave.
+
+Threats:
+Inside the cave mouth are 2 Aurox Warriors.
+Inside the kitchen next to the fire place the Aurox Bludgehorn, who has the key to the safe.
+
+Solo Play:
+Only place 1 Aurox warrior in the entrance area.
+Game ends when Malcor is free.
+
+RPG text box:
+
+When the Players arrive read:
+  Following the markings on the map attached to the ranger’s letter, you travel through the forests, ascending a
+gradual incline until you come to a craggy mountain face.
+                                                                                                                 5
+  After some searching, you are able to locate sets of Aurox tracks, leading you to a cavernous
+entrance in the jagged stone face.
+
+When the players enter the kitchen read:
+
+ The cavern is filled with a thick black smoke.
+ A cackling fire at the center of the room fills the air with the smell of cooking meat.
+ At the far end of the cavern, you hear a steady thudding and the grunt of an Aurox.
+ Its body is twisted and demonic, its hands clawed and strange misshapen spines protrude from its back.
+ It brings a large cleaver down repeatedly on the wooden table before it, butchering a dead man.
+
+
+
+
+                                                                                                          6
+SCENARIO 3:
+To kill that can’t be killed
+  As you push deeper into the lair you see fires of several brightly burning torches that circle this cavern, at the
+center is a disquieting totem carved in the likeness of a monstrous face, its beastly maw agape with agged teeth.
+  The cavity of its mouth is filled with pulsating organs and grinning human skulls.
+  A large sow raises her hands before the altar, chanting in the guttering tongue of Beasts.
+  Beside her, the corpse of an Aurox, horribly mauled and long dead, stirs and rises, jerking upright as if pulled
+by some invisible strings.
+  It lets out a shrill yowl as it stumbles toward a wooden wall at the opposite end of the room and slams the
+timber planks.
+  From behind, you hear an anguished roar, as the sow lets out a braying laugh.
+
+Goal:
+Kill the Bloodbrand Matriarch.
+
+Reward:
+The warband that slays the Matriarch gains 10 XP, each participating warband gains 20 gold.
+
+Setup and Treasure:
+ The room should be setup as shown, this a claustrophobic fight to the death.
+ Next to the totem place the Bloodbrand Matriarch and 1 Yoken per participating two warband members.
+ Across from the deployment area place the Slaughterhorn Chieftain bound up.
+ He can be freed by any model within 1 inch as a free action and then joins that warband for the scenario.
+ Enemies will not target him while he is bound up.
+
+Deployment:
+See map.
+
+Threats:
+Bloodbrand Matriarch and 1 Yoken per participating 2 warband members
+
+Solo Play:
+As above.
+
+Scenario end when either the warband or enemies are all dead.
+
+
+
+
+                                                                                                                  7
+RPG text:
+
+When the players arrive read:
+
+  You found it hidden behind the wooden wall, a large pit for sacrificial livestock.
+  The pit currently holds the Slaughterhorn Chieftain and the remains of a human. The Bloodbrand Matriarch
+has been holding the Chieftain here, taunting him and starving him, waiting for his will to break so that he
+feasts on the human flesh and joins the Bloodbrand Cult.
+  The Chieftain is very weak, and bound by ropes
+
+  If the Chieftain survives the players can choose to ally with him and clear the rest of his clans home of
+the enemies within (see rpg module) or kill him and take the spoils for themselves.
+
+
+
+
+                                                                                                               8
+NPCs:
+
+Malcor
+
+Agility: +1 Presence: 0 Strength: +1 Toughness: 0
+
+Equipment:
+Light Armor and Short Sword
+Flaws:
+Vengeance: Will always move towards monsters if they can. Does
+not preform any other actions if in line of sight of enemy monsters.
+Feat:
+Rage: Also deals max damage to monsters.
+
+
+
+
+Slaughterhorn Chieftain
+
+Agility: +0 Presence: +0 Strength: +3 Toughness: 0
+
+Equipment: fists
+Flaws: weakened state. Has -2 HP
+Feat: Rage: Fist Fighter, Fist deal 2 damage instead of 1.
+
+
+
+
+                                                                       9
+Monsters:
+ All monsters in Forbidden Psalm: The Tainted Lands of Doaden treat other monsters as friendly.
+
+
+
+
+Aurox Warriors
+
+HP: 12 Morale: 10 Axe: 1D8 Armor: 1
+
+Special:
+If Warrior moves before it makes an attack
+damage of Axe is increased to D10.
+
+
+
+
+                                               Yoken
+
+                                               HP: 10   Morale: - Putrid claw: 1D4 Armor: 0
+
+                                               Special:
+                                               Models hit by the Yoken must pass a Toughness test or
+                                               become poisoned.
+                                               When a Yoken drops to 0HP roll a D20 on a result of a 9 or
+                                               lower instead of being killed the Yokens health instead drops
+                                               to 1HP.
+
+
+
+
+                                                                                                           10
+                                                              Rockgut Raider
+
+                                                              HP: 16 Morale: 10 WarAxe: 1D8 Armor: 1
+
+                                                              Special:
+                                                              If Rockgut Raider moves before it attacks damage
+                                                              is increase to 1D12.
+
+
+
+
+Bloodfevered Brute
+
+HP: 30 Morale: 10
+Gore: 1D10 Armor: 0
+
+Special:
+The Brute makes two attacks against
+models within 1 inch.
+If only one model is within 1 inch it makes both
+attacks against this model.
+If there are more than 2 models randomise its targets. Both
+attacks provoke attacks back.
+
+
+
+
+                                                                                                             11
+                                                            Aurox Bludgehorn
+
+                                                            HP: 50 Morale: -    Earth Shatter: 2D6   Armor: 1
+
+                                                            Special:
+                                                            When the Bludgehorn makes a successful attack with
+                                                            Earth Shatter all models not targeted but within 2
+                                                            inches must pass an Agility save or also take the
+                                                            damage dealt.
+
+
+
+
+Bloodbrand Matriarch
+
+HP: 30 Morale: -        Blast: 1D6; Quarterstaff:
+1D4 Armor: 1
+
+Special:
+If no model is within 1 inch of the Matriarch it
+makes a blast ranged attack up to 12 inches away
+against the nearest model. If a model is within 1
+inch instead it attacks with its quarterstaff.
+At the start of its activation as a free action it raises
+a Yoken.
+Place the Yoken in a free square within 6 inches of
+the Matriarch.
+                                                                                                                 12
+Credits:
+Developed by:
+ Bestiarum Games
+
+Game Design:
+ Kevin Rahman
+
+Lore:
+ Marcus Harland
+ Alexander Dovermann
+
+Graphic Design:
+  Katarina Popovici
+
+
+
+
+                       13
+

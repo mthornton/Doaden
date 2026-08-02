@@ -1,0 +1,305 @@
+   WRATH OF NATURE
+                      Level Scaling
+                         5 – 16
+
+
+  Venture through the cursed forest and purge nature’s
+corruption in this easy-to-run Phased Lair Boss Encounter
+
+
+                                              Liber Obscura 008
+  “The path to redemption is a treacherous journey walked alone,
+     each step resonating with the sorrow of a thousand sins."
+
+
+
+
+                                    CREDITS
+Writer/Designer: Alexander H. Dovermann   Produced by: Bestiarum Games
+          his module can be run as a one-shot        and everyone nearby. The evil that dwells here
+          or as part of a persistent dark fantasy    must be destroyed so that these lands and the
+
+
+T         campaign using Bestiarum’s Path of
+          Penitence (PoP) system. Creatures
+          and items marked with an asterisk (*)
+          are new. Their information can be
+                                                     people may recover.
+
+
+                                                     Adventure Hooks
+                                                     The party should be searching for the temple,
+found at the end of the adventure.
+                                                     but their reasons may vary. Perhaps they are
+                                                     studying the strange phenomena plaguing the
+Tier II. This adventure scales in difficulty
+                                                     area, finding the corrupted trees and wildlife
+based on your party’s Average Party Level
+                                                     in their travels. Or they may be hired by a
+(APL). Use the following table to determine
+                                                     worried alderman seeking aid against the
+the appropriate difficulty for your party. If your
+                                                     unexplained forces causing disease in his
+party finds the scenario too easy or hard, you
+                                                     village’s livestock and crops. Or the party may
+can shift difficulties, even mid adventure!
+                                                     have found a cryptic map pointing to a hidden
+                                                     temple in the heart of the forest and promising
+ADVENTURE DIFFICULTY                                 untold treasures. The module begins as the
+                                                     party enters the forest, but you may start
+    Difficulty              APL
+                                                     earlier to build the narrative and delve into the
+    Medium                  5–7                      purpose of their quest.
+
+
+    Hard                    8 – 10                   Opening Script
+                                                     To start the adventure read this script.
+    Nightmare               11 – 13
+                                                      You stand on the threshold of a dark forest,
+    Torment                 14 – 16                   its dense canopy casting long shadows that
+                                                      blanket the forest floor in an eerie gloom.
+                                                      Tall, gnarled trees stand as silent sentinels,
+Adventure Introduction                                their twisted branches reaching out like
+A once tranquil forest has grown wild and             skeletal hands against the gray sky. A fear
+treacherous. The local villagers speak of a           emanates from within, a subconscious horror
+growing malice that seeps from its heart,             that reaches into your mind. The very forest
+twisting wildlife into abhorrent nightmares.          repels your presence, its oppressive silence
+Crops wither and die, streams have turned             broken only by the occasional rustle of leaves.
+foul, and a terrifying silence has claimed the        The once verdant woods have taken on a
+deeper woods. The corruption seems to be              sickly hue, their vibrant green now tainted
+emanating from an ancient temple hidden               with a putrid, almost tangible, graying malice.
+within the forest, the source of the malignant
+curse that threatens to consume everything
+
+2                                 Liber Obscura 008 – Wrath of Nature
+     A palpable dread hangs in the air as you        Forest Encounters
+ enter and fight your way through the dense          The party should encounter a number of
+ underbrush. Each step feels heavier than the        hostile enemies on their way to the heart of
+ last, the grasping roots on the ground and          the corruption. To create an encounter,
+ strangling vines hanging above are thick and        roll1d4 on the following Forest Encounters
+ resistant to your every move. A mournful            Table and run the encounter described.
+ wind rustles the leaves, the whispers of the        Generate two encounters for a standard
+ trees seeming to carry with them tales of an        difficulty, or three encounters to strain the
+ ancient wrong, of nature's vengeance, and of
+                                                     party’s resources to their limit and make the
+ a terrible retribution that waits within the
+                                                     boss extra challenging. You can always create
+ depths of the forest. Every instinct urges you
+                                                     your own enemies or substitute for your own
+ to turn back, but you press on toward the
+                                                     encounters!
+ heart of the malignant force that twists and
+                                                         While you create the encounters, describe
+ blights this wilderness.
+                                                     the party’s experiences as they navigate
+                                                     through the treacherous woods. Each
+                                                     encounter may have its own atmospheric
+ NAVIGATING THE FOREST                               location such as a clearing of black blighted
+                                                     ground ringed by barren
+The party must first navigate the twisted forest
+to reach the ancient temple. As they journey         trees, and old stone
+into the heart of the corruption, the effects of     ruins, or anything
+the curse upon the land and wildlife will be         else you can think
+evident. Monsters and wildlife, blighted and         of!
+driven feral by the wild corruption, will rise
+and attack, making their passage difficult. At
+the heart of the forest is a green orb, a
+corrupted seed of nature that spills its
+influence into the nearby soils. It is protected
+by the Avatar of the Wild* an amalgamation
+of dendroid roots and rusted armor, malignant
+earth, and feral spirits. This entity will pose a
+challenging boss encounter to the party as
+they attempt to cure the corruption that grips
+this woodland.
+
+
+
+
+                                  Liber Obscura 008 – Wrath of Nature                            3
+FOREST ENCOUNTERS TABLE
+    d4   Random Encounters
+
+    1    Rabid Monstrosities. The party encounters a pack of corrupted beasts, their eyes glowing
+         with a strange green fire. These creatures are now monstrous, grotesque versions of
+         themselves, mutated and changed, and driven to hostility by the dark forces of the forest.
+         By difficulty, the creatures faced are as follows.
+             • Medium: 1 basilisk and 1 chimera.
+             • Hard: 2 basilisks and 1 chimera.
+             • Torment: 3 basilisks and 2 chimeras.
+             • Nightmare: 3 basilisks and 3 chimeras.
+
+    2    Corrupted Fey. The party is ambushed by a group of fey inhabitants that have been infected
+         by the corruption seeping from the forest's heart. Their once passive nature has been
+         replaced by hostility and a dark mischief, driven by a vehemence for all intruders.
+         Depending on the difficulty, the creatures faced are as follows:
+             • Medium: 3 centaurs and 2 druids.
+             • Hard: 5 centaurs and 2 druids.
+             • Torment: 5 centaurs, 2 druids, and 3 green hags.
+             • Nightmare: 9 centaurs, 3 druids, and 3 green hags.
+
+    3    Lost Villagers. The party stumbles upon a group of villagers who have succumbed to the
+         wild curse. Their bodies have twisted into permanent were-creatures, acting on animalistic
+         instinct rather than human reason. They see the party not as potential saviors, but as
+         threats to be eliminated. Depending on the difficulty, the enemies faced are as follows:
+             • Medium: 3 werewolves.
+             • Hard: 2 wereboards and 2 werewolves.
+             • Torment: 3 werebears and 2 werewolves.
+             • Nightmare: 3 werebears and 4 werewolves.
+
+    4    Wrath of the Forest. As the party progresses deeper into the malignant woods, the very
+         forest itself begins to rise against them. Awakened trees, shambling mounds, and an
+         assortment of awakened shrubs, all twisted by the corruption, launch an all-out assault on
+         the party. Depending on the difficulty, the creatures faced are as follows:
+             • Beginner: 5 awakened trees.
+             • Easy: 4 awakened trees and 1 shambling mound.
+             • Medium: 4 awakened trees and 1 treant.
+             • Hard: 2 awakened trees, 2 shambling mounds, and 1 treant.
+
+4                                 Liber Obscura 008 – Wrath of Nature
+     CORRUPTED TEMPLE                                 Map Areas
+                                                      The following areas are depicted on the
+Once the party completes the two or three             battlemap for the area.
+encounters, they reach the temple where the
+heart of nature’s corruption lies. Read this
+                                                      1) Corrupted Shrine
+script as they enter the area.
+                                                      Housed in a crumbling shrine is the heart of
+                                                      corruption which has been driving the forest to
+ The trees grow more twisted and nightmarish          madness. At certain points during the
+ as you force your way deeper into the forest.        encounter, the shrine will be covered by thick
+ Slashing through a curtain of gnarled vines,         tree roots that protect the orb
+ you find a forlorn clearing. Nestled within is a     from damage.
+ timeworn shrine, its crumbling stone housing
+ a pulsating green orb that throbs with a             GM Note. You can use a visual
+ malignant heartbeat. It casts a sickly light
+                                                      asset like these roots to cover up
+ upon the soil, a beacon of malice at the heart
+                                                      the shrine and represent the
+ of the once tranquil woods.
+                                                      protecting roots mechanic.
+
+
+
+
+                                   Liber Obscura 008 – Wrath of Nature                             5
+Encounter Rules & Phases                                 4d10          Item Discovered
+When the party attacks the orb, it will defend
+itself, bringing to life the Avatar of the Wild*.        30+           Cloak of Nature’s Wrath* (rare)
+Thick, tangled roots burst from the earth,
+covering the shrine, forming an impenetrable             1 – 29        Nothing
+barrier, and shielding the orb from further
+harm. Read this script to begin the encounter.
+                                                         Difficulty                 Loot Roll Bonus
+    As you attack the orb, thick tree roots erupt
+                                                         Medium                     +0
+    from the ground, entwining themselves
+    around the shrine, a bulwark of writhing
+                                                         Hard                       +1
+    nature protecting the heart of the corruption.
+    A low rumble echoes behind you as an
+    ominous figure, a hulking guardian of gnarled        Nightmare                  +2
+    wood and twisted roots, detaches itself from
+    a nearby tree, its glowing eyes fixed upon you.      Torment                    +3
+
+
+Boss Phases. This encounter includes                    Ending the Adventure
+multiple phases. The number of phases and
+                                                        When the orb is brought to 0 hp after the last
+enemies faced change depending on the
+                                                        phase, it will be destroyed for good. When this
+adventure difficulty, shown on the Boss
+                                                        happens, read the following script to end the
+Encounter Phase Table.
+                                                        adventure. With the forest calm and the
+                                                        malevolent presence eliminated, the party
+The Orb. The orb is the source of corruption.
+                                                        finds their path out of the woods much safer
+When the party defeats the enemies in each
+                                                        and unobstructed.
+phase, the roots covering the shrine will
+retract, revealing the orb again. It has 100 hit
+points, and 10 AC. When it reaches 0 hp, the             The orb's glow intensifies, reaching a fever
+roots will envelop the shrine again, shielding           pitch before it explodes in a burst of green
+the orb as it regenerates. The next phase, if            energy. The roots withdraw for the final time,
+there is one, will then initiate. Repeat this            withering and crumbling to ash. A profound
+cycle until all phases are complete.                     calm descends upon the shrine, punctuated
+                                                         by the sounds of rustling leaves and chirping
+Loot. If the party is victorious, they may roll          birds. The forest seems to breathe a sigh of
+4d10s. Based on the cumulative roll score,               relief, the sense of malevolent corruption
+they find the following item. Add a bonus to             dissipating as peace returns.
+the cumulative roll score depending on the
+adventure difficulty level.
+
+6                                    Liber Obscura 008 – Wrath of Nature
+BOSS ENCOUNTER PHASE TABLE
+ Difficulty   Phase I                     Phase II                   Phase III
+
+ Normal       1 Avatar of the Wild*       n/a                        n/a
+
+ Hard         1 Avatar of the Wild*       10 awakened shrubs and     n/a
+                                          1 shambling mound.
+
+ Nightmare    1 awakened tree and 1       12 awakened shrubs and     n/a
+              Avatar of the Wild*         2 shambling mounds.
+
+ Torment      3 awakened trees and 1      16 awakened shrubs and     1 Avatar of the Wild*
+              Avatar of the Wild*         2 shambling mounds.
+
+
+
+
+                               Liber Obscura 008 – Wrath of Nature                           7
+                                       MONSTERS & NPCS
+    Avatar of the Wild                                        Actions
+    Huge plant, neutral evil                                  Multiattack. The Avatar makes two attacks with its
+    Armor Class 18 (plate armor)                              Greatsword.
+    Hit Points 157 (15d12 + 68)
+    Speed 40 ft.                                              Greatsword. Melee Weapon Attack: +10 to hit,
+                                                              reach 10 ft., one target. Hit: 20 (4d6 + 6) slashing
+     STR      DEX     CON      INT     WIS      CHA           damage.
+      22       14      18       8       14       10
+     (+6)     (+2)    (+4)     (-1)    (+2)     (+0)          Legendary Actions
+    Saving Throws Str +10, Con +8                             The Avatar can take 3 legendary actions, choosing
+    Damage Resistances bludgeoning, piercing                  from the options below. Only one legendary action
+    Damage Immunities poison                                  option can be used at a time and only at the end of
+    Condition Immunities charmed, exhaustion,                 another creature's turn. The Avatar regains spent
+    frightened, poisoned                                      legendary actions at the start of its turn.
+    Senses darkvision 120 ft., passive Perception 12
+    Languages understands Sylvan but can’t speak              Advance. The Avatar moves up to half its speed
+    Challenge 12 (8,400 XP)                                      without provoking opportunity attacks.
+                                                              Invoke Nature (Recharge 3 – 6). The Avatar casts
+    Legendary Resistance (1/Day). If the Avatar fails a
+                                                                 one spell.
+    saving throw, it can choose to succeed instead.
+                                                              Cleave (Costs 2 Actions). The Avatar swings its
+                                                                 Greatsword in a wide arc around itself. Each
+    Innate Spellcasting. The Avatar of the Wild's
+                                                                 enemy within its weapon’s range must make a
+    innate spellcasting ability is Wisdom (spell save DC
+                                                                 DC 16 Dexterity saving throw, taking the
+    14, +6 to hit with spell attacks). It can innately cast
+                                                                 weapon’s damage on a failure.
+    the following druid spells, requiring no material
+                                                              Horrific Shriek (Costs 2 Actions). The spirit
+    components:
+                                                                 within the Avatar lets out a horrifying shriek.
+                                                                 Each creature within 30 feet of it that can hear
+    At will: Druidcraft, Poison Spray, Resistance
+                                                                 it must succeed on a DC 16 Wisdom saving
+    2/day each: Entangle, Spike Growth
+                                                                 throw or be frightened until the end of the
+    1/day each: Blight
+                                                                 Avatar's next turn.
+
+
+
+
+8                                        Liber Obscura 008 – Wrath of Nature
+            ITEMS
+
+
+
+
+Liber Obscura 008 – Wrath of Nature   9
+

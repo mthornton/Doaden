@@ -1,0 +1,201 @@
+                  LEGENDARY DUAL BOSS (CR 16)
+                  “Fere me, tinee-t’ings! Grot’ak rule, Grot’ak krush! Wyrm fall, yu nex’!”
+
+GOBLIN KING                                                       goblin king is to face the culmination of goblin savagery and
+Grothak Wyrm’Killa, the goblin king, stands as the pinnacle       the embodiment of their relentless desire for domination.
+of goblin brutality and cunning. Guarded at all times by
+Irn’Hyd, his Bugbear Enforcer, he is a testament to the raw
+destructive ferocity of the goblin species. He wields his            Boss Phases (Optional)
+wicked blades with relentless precision, doggedly pursuing           This encounter includes Boss Phases, a unique
+his foes and slashing away until nothing remains but a               mechanic that elevates battles into thrilling, legendary
+gruesome splattering of blood and tangled ribbons of flesh           clashes, perfect for culminating showdowns and
+and viscera.                                                         ending epic adventures.
+   Grothak’s rule is absolute, his authority unquestioned               Boss Phases are optional. They are best used when
+among his kin. Under his command, the goblin horde has               your party is large or composed of skilled players
+become a relentless wave of devastation, feared throughout           who consistently overcome adventures with ease.
+the scattered kingdoms of goblin kind. His prowess in                Boss Phases are perfect for creating action-packed
+battle is legendary, earning him the title Wyrm’Killa after he       and challenging encounters or crafting a particularly
+butchered a dragon in single combat.                                 deadly and unforgiving campaign.
+   The view of Grothak, standing upon the shredded head
+of his draconic foe must have been a sight to see, enough to
+instill fear in the hearts of the bravest warriors. To face the                                                                   1
+    Goblin King’s Lair:                                                    Goblin King targets one enemy creature within 60
+                                                                           feet that can see and hear him. The targeted creature
+    Grothak Wyrm’Killa’s lair, known as the ‘Blud-Thrown’, lies            must succeed on a DC 16 Wisdom saving throw or
+    deep beneath the surface of the world. The jagged walls                become frightened until the end of its next turn.
+    of the labyrinthine tunnels leading to the throne room are       •     Relentless Command. Grothak inspires one friendly
+    adorned with the gruesome trophies of Grothak’s many                   creature within 60 feet that can see and hear him,
+    victories, a chilling warning to any who dare enter.                   driving them to redouble their fighting efforts. The
+       The throne room is a sprawling cavern, the air thick                ally regains hit points equal to 1d10 + Grothak’s
+    with the stench of blood, sweat, and mold. Goblins skulk               charisma modifier.
+    in its shadowy recesses, their wild eyes reflecting the eerie
+    luminescence of phosphorescent fungi clinging to the
+    cavern walls. At the center of the room, Grothak’s throne of     Tactics
+    rock and bones towers, a stark symbol of his cruelty.
+                                                                     This is a Dual Boss Fight! A Goblin King should always
+       A sense of dread permeates the space, punctuated
+                                                                     be protected by one Bugbear Enforcer. This is true for
+    only by the guttural grunts and snarls of the goblins and
+                                                                     Grothak Wyrm’Killa, who is fiercely protected by his
+    the grinding of sharpening blades. Here, within these
+                                                                     bodyguard, Irn’Hyd. While the Goblin King is extremely
+    dark confines, Grothak waits, his voracious appetite for
+                                                                     aggressive, with very high attack capabilities, his all-
+    destruction barely contained, ever ready to unleash his
+                                                                     out offensive style leaves him open to counterattacks or
+    frenzied savagery on those brave or foolish enough to
+                                                                     controlling spells. He must rely on his Bugbear Enforcer
+    challenge him.
+                                                                     to defend him, shield him from damage, and intercept
+                                                                     enemies. As an added bonus, Bugbear Enforcers are able to
+    Lair Actions                                                     knock enemies prone, creating opportunities for the Goblin
+    On initiative count 20 (losing initiative ties), this boss can   King to unleash flurries of melee attacks with advantage.
+    take a lair action to cause one of the following effects.           A Goblin King and his Bugbear Enforcer present a
+    •      Savage Command. The Goblin King commands one              combined Challenge Rating (CR) of 16, demanding careful
+           allied creature within 60 feet to immediately grand       tactics from those who dare challenge them. Overcoming
+           them advantage on their next melee attack. The ally       this deadly pair yields a considerable 15,000 XP reward. Be
+           must be able to see and hear the Goblin King.             ready for a tactically demanding fight.
+    •      Menacing Command. The Goblin King bellows
+           a terrifying order to an enemy within his lair. The
+2
+Goblin King                                                     Battleaxe. Melee Weapon Attack: +7 to hit, reach 5 ft., one
+                                                                target. Hit: 14 (2d8 + 5) slashing damage, or 16 (2d10 + 5)
+Large humanoid (goblin), neutral evil
+                                                                slashing damage if used with two hands.
+—
+Armor Class: 18 (plate armor)
+Hit Points: 161 (17d10 + 68)                                    Longsword. Melee Weapon Attack: +7 to hit, reach 5 ft., one
+Speed: 40 ft.                                                   target. Hit: 14 (2d8 + 5) slashing damage, or 16 (2d10 + 5)
+                                                                slashing damage if used with two hands.
+—   STR      DEX     CON      INT WIS CHA
+   20 (+5) 16 (+3) 18 (+4) 12 (+1) 12 (+1)      16 (+3)
+                                                                Reactions:
+—
+Saving Throws: Dex +8, Wis +5, Cha +7                           Riposte. When this creature is targeted by a melee attack
+Skills: Perception +5                                           that fails, it may immediately make one attack against the
+Condition Immunities: Charmed, Exhaustion, Frightened           attacker and regain its reaction.
+Senses: Darkvision 120 ft., Passive Perception 15
+Languages: Common, Goblin
+Challenge: 11 (7,200 XP)
+                                                                Legendary Actions
+—                                                              This creature can take 3 legendary actions, choosing from
+Brutal Melee. This creature’s attacks with melee weapons       the options below. Only one legendary action option can
+deal one extra die of their damage (included in the attack).   be used at a time and only at the end of another creature’s
+Additionally, they score a Critical Hit on a natural 18 or     turn. This creature regains spent legendary actions at the
+higher.                                                        start of its turn.
+
+Actions                                                         Aggressive Advance. Move up to 15 feet in any direction
+                                                                  towards an enemy.
+Multiattack. This creature makes two attacks. One with its      Quick Reaction. This creature regains its reaction.
+battleaxe and one with its longsword.                           Onslaught (Costs 2). Make two melee attacks against a
+                                                                  single target.
+
+
+
+
+Boss Phases:                                                   XP Bonus. Completing Phase II is equivalent to fighting
+                                                               two CR 16 creatures. If you are using XP, award the party
+The Goblin King’s statblock is considered to be Phase I.       30,000 XP.
+The encounter may be run with the following additional
+Boss Phases.
+                                                               Loot Table:
+                                                               If the party is victorious in the boss fight, roll once on the
+Phase II. When the Goblin King is reduced to 0 hit points,
+                                                               following loot table. The party finds the resulting item.
+he falls in battle, only to be quickly replaced by a swarm
+of goblins, eager to claim his vacant throne. This ruthless
+group consists of 1x Goblin Raid Leader, 1x Goblin Blood
+Seer, 2x Goblin Marauders, and 3x Goblin Strikers. The                Roll                        Loot
+statblocks for these creatures can be found in the monthly          19 - 20      Wyrm’Killa’s Claw (very rare)
+core adventure book.                                                15 - 18      Wrought Iron Blackstar (rare)
+   Remember, the Bugbear Enforcer, continues to fight                1 - 14      None
+until his last breath as well. Only when all these enemies
+are defeated, is the boss encounter truly over.
+
+Phase II Script. Read or paraphrase this script when the
+phase begins.
+
+   As the Goblin King falls, a frenzied uproar fills
+   the cavernous throne room. In the goblins’ brutal
+   society, power abhors a vacuum. A wave of eager
+   goblins surges forward, each one vying to claim the
+   vacant throne. A Goblin Raid Leader, followed by his
+   prophetic Blood Seer and an army of minions emerge
+   from the shadows, ready to fight to their last breath
+   for the chance to rule.
+
+
+
+                                                                                                                                3
+    Encounter Map                                                     fungi. A Bugbear Enforcer should always be present at the
+                                                                      start of the fight to defend Grothak.
+    An encounter with Grothak Wyrm’Killa is best set deep                To ensure the fight is dynamic, the terrain could include
+    within the maze-like goblin warrens, after a gauntlet of traps,   various cover options, vertical spaces to clamber up and
+    ambushes, and skirmishes with goblin patrols. This could          shoot, and even tunnels for quick escapes or flank attacks.
+    be nestled within the rugged depths of a mountain range, in       The close-quarters and constant threat of reinforcements
+    a vast underground network, or beneath a teeming goblin-          represent the harsh and brutal world of the goblin hierarchy,
+    infested forest. The throne room itself should be sprawling,      and perfectly encapsulate the relentless nature of their king.
+    adorned with trophies of the Goblin King’s victories, and
+    illuminated by the eerie glow of torches or phosphorescent
+
+
+
+
+                                               Boss Map A: Goblin King’s Throne
+4
+ITEMS
+
+
+
+
+        5
+                                             MONSTERS & NPCS
+
+
+    Bugbear Enforcer
+    Large humanoid (goblinoid), neutral evil
+    —
+    Armor Class: 15 (patchwork armor)
+    Hit Points: 133 (14d10 + 78)
+    Speed: 30 ft.
+    —   STR      DEX     CON     INT  WIS CHA
+      20 (+5) 14 (+2) 18 (+4)       8 (-1)   12 (-1)   8 (-1)
+    —
+    Damage  Resistance: Bludgeoning, Piercing, Slashing
+    Senses: Darkvision 120 ft., Passive Perception 10
+    Languages: Goblin
+    Challenge: 7 (2,900 XP)
+     —
+    Brutal Melee. This creature’s attacks with melee
+    weapons deal one extra die of their damage (included
+    in the attack). Additionally, they score a Critical Hit on a
+    natural 18 or higher.
+
+    Protector. Once per round, when a friendly creature
+    within 5 feet takes damage, this creature can take
+    that damage instead, including all effects that might
+    accompany the damage, applying its own resistances,
+    immunities, and vulnerabilities.
+
+    Actions
+    Multiattack. This creature makes two attacks.
+
+    Maul. Melee Weapon Attack: +8 to hit, reach 5 ft., one
+    target. Hit: 15 (3d6 + 5) bludgeoning damage.
+
+    Reactions:
+    Battle Ram (Recharge 4 – 6). When an enemy finishes
+    or pauses its move action within 40 feet of this creature,
+    this creature may charge the enemy, moving to any
+    space adjacent to it. The target must make a DC 15
+    Dexterity saving throw to dodge out of the way. On
+    a failure, the target takes 22 (5d6 + 5) bludgeoning
+    damage, is knocked prone, and their turn ends
+    immediately. This reaction does not trigger any attacks
+    of opportunity.
+
+
+
+
+6
+

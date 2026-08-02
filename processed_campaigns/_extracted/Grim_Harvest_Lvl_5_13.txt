@@ -1,0 +1,1179 @@
+1
+                               GRIM HARVEST
+                                            A 5e Compatible Adventure
+                                                 For Levels 5 – 13
+
+
+
+
+    Venture into the twisted labyrinth of the goblin caves, where danger lurks in every shadow, and face the relentless
+                                savagery of the goblins in this harrowing fight for survival
+
+
+
+2
+                        The World of Doaden
+W         elcome to Doaden, the dark world of tainted lands and twisted monsters, where
+          an ever-creeping affliction corrodes the very essence of existence.
+
+              It is a world of decay and depravity where once-righteous heroes of
+          glorious purpose now struggle to survive as cults and dark gods vie with one
+                        another to consume the last vestiges of humanity.
+
+             It is a world of death, trapped in the fading dusk of a fallen empire.
+        The heroes that wander these lands are no grand adventurers to be honored in
+                                       songs of minstrels.
+
+         For the heavy deeds and decisions these wanderers undertake invariably leave
+              them disheartened, broken, nothing more than soulless shadows of
+                                  their once-glorious selves.
+
+        Yet as dark as Doaden may be, humanity clings to life with a stubborn tenacity,
+                           a last flickering flame within the dark.
+
+          A last hurrah, a final war cry that shall echo in the black abyss of eternity,
+                         a momentary victory before the endless night.
+
+
+
+
+Content Advisory: This adventure may include disturbing and/or mature content, including violence, psychological horror, gore, and other
+sensitive topics. The production may contain vivid descriptions, unsettling imagery, and explore themes of despair, moral ambiguity, and
+challenging morality. Please consider your personal boundaries before engaging with this material. You have the option to modify or skip
+content to ensure you and your group’s comfort and enjoyment throughout the experience.
+
+
+                                                                                                                                           3
+                                                   Credits
+
+
+    Director/Editor in Chief: Alexander H. Dovermann               Produced by: Bestiarum Games, LLC
+
+    Game Designers: TJ Bavelas
+
+    Art & Graphic Design: Marina Jukova
+
+    Cartographers: TJ Bavelas
+
+
+
+
+                                                                   ON THE COVER
+
+
+
+
+                                                                   “
+                                                                   As you approach the hollow darkness of the tunnel
+                                                                   entrance, a sudden piercing cry punctures the air. It’s
+                                                                   a human’s voice, a desperate plea originating from
+                                                                   deep within the serpentine network of descending
+                                                                   tunnels. The eerie scream bounces off the stony
+                                                                   walls, before it cuts off abruptly, swallowed by
+                                                                   the inky shadows, leaving you in an unnerving
+                                                                   silence.                                          “
+
+
+
+
+    We extend our heartfelt gratitude to all the talented individuals involved in the creation of this publication. Your
+    contributions have enriched the gaming experience and brought this world to life for our readers. Thank you for your
+    dedication and creativity.
+
+    Note: Some art in this publication has been generated with the assistance of artificial intelligence.
+
+    © 2023 Grim Harvest. All rights reserved
+
+
+
+4
+                                                                    Contents
+
+
+
+
+CREDITS...............................................................................4    APPENDIX A: MONSTERS & NPCS....... 16
+CONTENTS........................................................................5            WEAK (CR 1)............................................................ 17
+FOREWORD.....................................................................6                 GOBLIN GRUNT...................................................................17
+   Running the Adventure.........................................................6             GOBLIN SPORE SOWER............................................. 18
+INTRODUCTION..........................................................7                        FUNGAL HERMIT............................................................... 19
+   ADVENTURE SUMMARY..................................................7                    NORMAL (CR 3)......................................................... 19
+   ADVENTURE HOOKS..........................................................7                  GOBLIN MARAUDER.....................................................20
+    Bestiarum Campaign.................................................................7       GOBLIN STRIKER..............................................................21
+    Homebrew Campaigns...............................................................7     HARD (CR 5)................................................................22
+THE ADVENTURE.....................................................9                            GOBLIN BLOOD SEER................................................22
+                                                                                               GOBLIN SHADOW STALKER................................23
+   ENCOUNTER 1: Dark Descent...................................9
+   ENCOUNTER 2: Goblin Infested Traverse.... 10                                            ELITE (CR 7)................................................................24
+    Running the Encounter....................................................10                FERAL CAVE TROLL................................................... 24
+    Map A: Goblin Infested Traverse..............................11                            GOBLIN RAID LEADER.............................................25
+   ENCOUNTER 3: Troll Lair........................................12                       CHAMPION (CR 10).................................................26
+    Running the Encounter....................................................12                SIEGE TROLL........................................................................26
+    Map B: Troll Lair................................................................12    APPENDIX B: TREASURES............................27
+    Ending the Adventure....................................................... 13
+TAKING IT FURTHER.........................................14
+     MORE SURVIVORS..............................................................14
+     FUNGAL FARMS....................................................................14
+     THE GOBLIN KING........................................................... 15
+
+
+
+
+                                                                                                                                                                                       5
+                                              Foreword
+
+
+    W
+                    elcome to Bestiarum’s grimdark world         Abbreviations. The following terms are abbreviated in
+                    setting of Doaden. This land is fallen,      Bestiarum publications:
+                    a shattered domain where darkness              PC - Player Character
+                    threatens to consume the last vestiges         NPC - Non-Playable Character
+                    of humanity. The Holy Empire fights            GM - Game Master
+    to survive in an age of darkness, bereft of their God
+    Emperor, and beset on all sides by rabid beasts, dark        Narrative Scripts. Some passages are meant to be read
+    cults, and powerful demonic entities.                        aloud or paraphrased. They build atmosphere or reveal
+                                                                 key information to the adventuring party.
+    RUNNING THE ADVENTURE                                          Narrative Scripts are written in this format!
+    Bestiarum scenarios are easy to run and quick to
+    prepare. They generally last one long, or two short
+    sessions. But if you’d like to delve further into our        Special Rules. Some passages cover mechanics
+    dark world, look at the Taking It Further section for        that should be used for a specific scenario or the
+    inspiration on creating your own adventures. The             whole encounter.
+    horrors of Doaden are truly endless and we hope your
+    experience becom es as much your own as it is ours.
+                                                                   Special Rules are written in this format the first time they
+                                                                  are used, but they may be referenced more than once.
+    Party Size. Monthly scenarios are designed for party
+    sizes of 4 to 6 players.
+
+    Difficulty Modes. Monthly scenarios are made for
+    player levels 5 through 13. Each module has a scaling           THERE IS LIGHT YET in Doaden, and though it
+    difficulty so your group can enjoy adventures in any            may seldom come in the form of love or joy, it still
+    order. Difficulty modes are Normal (levels 5 – 8),              shapes itself into a semblance of honor, purpose,
+    Torment (levels 9 – 12), and Damnation (level 13).              and redemption.
+    Advance your party to higher difficulty modes when
+    they reach the appropriate level or begin to find the                 - Dreyen Solius, Journal of the World’s Ending.
+    encounters too easy. Different enemies appear in each
+    difficulty mode, denoted by colored text and slashes,
+    in this format – Normal / Torment / Damnation. Only
+    use the monsters listed for one specific mode, do not
+    include monsters listed from other modes.
+       For example, 1x Cultist / 2x Cultists / 2x Cultist and
+    1x Demon Lord. This indicates that on Normal mode,
+    the party will face one cultist. On Torment, they face two
+    cultists. And on Damnation, they face two cultists and
+    one demon lord.
+
+    DC Damage Scaling. The damage taken from certain
+    skill checks, such as environmental challenges or traps,
+    increases based on the difficulty mode. Though the
+    DC stays the same, the scaled damage will be listed
+    with different colored text and separated by slashes
+    for Normal / Torment / Damnation. For example, A
+    creature may walk over a section of spiked ground
+    without taking damage by passing a DC 16 Dexterity
+    (Acrobatics) check and takes 1d6 / 1d8 / 1d12 piercing
+    damage on a failure.
+
+    References. References to materials in the 5e core
+    rules and Systems Reference Document are Italicized.
+    References to unique Bestiarum materials, such as
+    items and monsters, are written in Bold.
+
+
+6
+                                     Introduction
+
+
+D
+             eep within the cracks and caverns of the        evolving, character-focused central narrative, each PC
+             yawning earth lie unexplored chambers           embarks on their unique quest for atonement as they
+             filled with vile denizens. In the shadows,      fight for the Penitent Crusade.
+             goblins scuttle like wretched vermin, their        In each adventure, the party is deployed on a mission
+             wicked grins revealing an insatiable hunger.    that engages them with a new horror in the vast
+Driven by primitive instinct, they have carved out           and fallen world of Doaden, creating opportunity for
+their domains within the heart of the earth, surfacing       limitless variety. To learn more about the PoP system,
+to raid nearby human settlements, dragging off their         check out the Path of Penitence QuickStart Guide.
+captives to kill, and dumping the bodies into mulch             If you are running a Path of Penitence campaign,
+piles which fertilize their subterranean fungal crops.       Vozruk the Redeemer, the party’s commander,
+Their mushroom farms flourish in the damp recesses,          should give them the following mission brief to start
+spreading tendrils through the earth, growing large          the adventure.
+which suck the nutrients from the grotesque piles of
+flesh. Here, in this grim domain, the fierce and cunning      “Penitents, farmers in the western empire have been
+goblins will defend their territory with unyielding           disappearing, leaving crops untended. Food production
+ferocity, ambushing intruders from the shadows and
+                                                              has reached a concerning low, undermining the empire’s
+granting no mercy to the unwary.
+                                                              stability.
+                                                                 Our scouts report signs of struggle at each victim’s last
+In this scenario the party must investigate a rash of
+disappearing townsfolk. Finding the goblin menace
+                                                              known location. The remaining villagers claim to hear vile
+behind the phenomenon, they must delve into the               chittering in the nights preceding each disappearance.
+subterranean lairs to exterminate the threat and                  Your mission is to exterminate the evil behind these
+liberate any survivors. As the party delves deeper into       abductions and recover any surviving laborers, so they may
+the monsters’ lair, they must take care to avoid traps,       be sent back to work.”
+ambushes, and be wary of the hulking trolls that lurk
+deeper in the shadows.
+                                                             Homebrew Campaigns
+ADVENTURE SUMMARY                                            If you are running this scenario as a one-shot or part
+                                                             of a homebrew campaign, pick one of the following
+In recent weeks, food production in the northern             prompts or make your own. The underlying premise for
+territories has reached concerning lows. The military        the cave’s existence can be changed to serve your needs.
+forces stationed nearby are growing malnourished
+and weak, undermining the stability in the region. As        Cleanse the Caverns
+such, the matter has garnered some official attention,       The presence of a vicious colony of goblins has
+warranting the dispatch of investigative forces.             vexed the local populace. The village elder has
+   Reports tell of numerous disappearances among the         offered the party 1,000 gp to exterminate the goblin
+rural populace, decimating the labor force and leaving       populations within the nearby cavern so they may live in
+many crops untended. Strangely, the remaining villagers      peace once more.
+speak of signs of struggle and small mushrooms that
+are left scattered around the last known locations of
+the vanishing victims. Some claim to have heard vile         Rescue Mission
+chittering of creatures in the dead of night, finding that   The party’s friend disappeared in the night while
+more people have gone missing by the next morn.              traveling in a rural town. Speaking with the populace,
+                                                             they learn that goblins in the nearby caves frequently
+                                                             abduct the villagers, but the villagers have been too
+ADVENTURE HOOKS                                              weak to do anything about it. The villagers assist the
+                                                             party in finding the entrance to the cave and ask them to
+Consider the following prompts to place the party into       exterminate the threat while they search for their friend.
+the scenario. If you are running an official campaign,
+use the Bestiarum Campaign hook. Otherwise, pick
+any of the Homebrew Campaigns hooks and adapt the
+scenario for your own campaign.
+
+
+Bestiarum Campaign
+Bestiarum’s official Path of Penitence campaign system
+is an exciting experience unlike any other. Featuring an
+
+                                                                                                                             7
+8
+                                  The Adventure
+
+
+L
+            ocal investigators have tracked the creatures
+            responsible for the abductions to a cave
+                                                                             Cave Traversal Events
+            entrance. However, all those who have
+            entered said cave, have disappeared, never           d4                           Effect
+            to resurface. Unwilling to suffer the losses
+of more specialists, the lords of the land have decided           1    A boulder crashes down from the ceiling. The
+to send in a more expendable force to resolve the issue                PC and all others within 5 feet must make a DC
+and cleanse the hollow of further threats.                             13 Dexterity saving throw, taking 1d8 / 1d12 /
+   To begin the adventure, read or paraphrase the                      1d20 bludgeoning damage on a failure or half as
+following passage. The encounters begin as the party                   much on a success.
+reaches the cave themselves. To build further upon this
+story, see the Taking It Further section.
+                                                                  2    The PC inadvertently touches a cave mushroom,
+                                                                       releasing a puff of spores. The PC and all others
+                                                                       within 10 feet must make a DC 10 Constitution
+                                                                       saving throw. On a failure, they are Poisoned for
+ You step cautiously into the gaping maw of the dark and
+                                                                       24 hours.
+ ominous cave, where the villagers claim the creatures
+ return to with their captive victims. A stench hangs             3    The PC slips and falls into a treacherous chasm.
+ heavy in the air, a putrid blend of decaying flesh and                They must make a DC 13 Dexterity saving throw,
+ damp earth. The flickering light of your torches cast eerie           falling 20 / 40 / 60 feet on a failure, and taking
+ shadows on the cavern walls, revealing crude drawings                 1d6 bludgeoning damage for every 10 feet fallen.
+ and symbols etched into the stone, depicting giant                    If there is an ally within 5 feet, the ally can hold
+ beasts of prey hunted by small bipedal figures.                       out a helping hand, in which case the PC gains
+   The occasional drip of water echoes ominously as                    advantage on the roll.
+ you descend deeper into the narrow tunnels, amplifying           4    The PC bangs their head on a jagged stalactite.
+ your unease with each lingering note. Gnarled stalactites             The PC must make a DC 18 Dexterity saving
+ reach down from above like skeletal fingers, ready                    throw, taking 1d6 / 2d6 / 3d6 piercing damage
+ to snatch at any reckless interlopers. Pools of blood,                on a failure. If there is an ally within 5 feet, the
+ intermittent but unmistakable, trail along the cave floor,            ally sees the stalactites and can shout a warning,
+ leading further into the bowels of the earth.                         in which case the PC gains advantage on the
+   Yet, there is a strange subterranean beauty to this                 roll.
+ place. Patches of fungi adorn the walls, at times                5    The PC steps onto a trapped pressure plate,
+ clustering into mesmerizing, bioluminescent tapestries.               causing a large metal clamp to snap close on
+ Mycelium bunches form vibrant patterns that flicker                   them. The PC and all others within 5 feet must
+ in shades of cloying greens, purples, and blue, casting               make a DC 18 Strength saving throw, taking 1d8
+ disorienting shadows upon the twisting tunnels.                       / 1d12 / 1d20 bludgeoning damage on a failure.
+                                                                       If any PC succeeds, they all succeed.
+                                                                  6    The PC finds a mass of pale worms and may
+ENCOUNTER 1: DARK                                                      make a DC 18 Wisdom (Perception) check. On a
+DESCENT                                                                success, they find one Ripe Glow Grub.
+
+The party must descend into the lower tunnels of the
+cave, a hazardous ordeal as many natural dangers and           As you roll the events for each party member, narrate
+goblin traps litter the caverns. The cave tunnels are          their descent deeper and deeper into the goblin tunnels.
+wide enough for only single-file travel. Ask the party to      For some events, it will be advantageous for them to
+determine a marching order, as well as determine how           stick close together, while for others, spacing out is
+spaced out they are from one another.                          safer. Once you have resolved the event for each PC,
+   After you have determined the traveling order,              proceed to the next encounter.
+narrate the party’s descent, and use the following table
+to generate random events and hazards. Roll a d6
+for each PC, resolving each event before continuing
+to the next.
+
+
+
+                                                                                                                              9
+     ENCOUNTER 2: GOBLIN                                            Running the Encounter
+     INFESTED TRAVERSE                                              The party must slay the goblins on the map while
+                                                                    traversing the precarious scaffolding scattered about the
+     After descending into the lower, goblin-infested tunnels,      area. The cavern is dark, with only the torches and a lit
+     the party will be forced to confront the bulk of the           campfire shedding any bright light. Place any enemies
+     goblin forces in a dark and precarious cavern. Read            the party would be able to see from the entrance (A1)
+     the following script to begin the encounter. Then, begin       and allow them to choose their own approach.
+     combat, using Map A: Goblin Infested Traverse.                 The party’s goal is cross the traverse to area A7.
+
+      You press on, squeezing through the narrow and
+      claustrophobic tunnels, determined to complete the
+      mission. Venturing into the darkness, you pull yourself
+      along the rough ground for a tortuous hour, until you see
+      a glimmer of light ahead. Following it, you come to the
+      opening of a vast, vaulted cavern. Stepping inside, an
+      awe-inspiring yet chilling vista unfolds before you. The
+      ceiling looms high, adorned with an intricate network
+      of massive mushrooms, their caps the size of buckler
+      shields, casting unnerving shadows across the cavern
+      walls.
+        Wooden platforms stretch across a wide chasm,
+      connected by precarious makeshift bridges that sway
+      and groan with each gust of stale air. Faint chittering and
+      raspy breathing echoes in the gloom, from where you
+      spy a shifting movement. You ready your weapons, your
+      senses on high alert.
+
+
+
+
+                                                 Map A: Goblin Infested Traverse
+10
+Enemy Behavior
+The goblins scattered throughout the traverse are
+                                                                   Map A: Goblin Infested Traverse
+familiar with the space, but not necessarily expecting             The following areas correspond to Map A: Goblin
+visitors. The party may take a stealthy or aggressive              Infested Traverse.
+approach. Once alerted, enemies will relentlessly
+attack the party, but will not pursue the party beyond             A1) North Entrance
+the entrance to the next chamber, as they fear what                The entrance is guarded by 1x Goblin Grunt / 2x
+lies within. However, goblins not vanquished before the            Goblin Grunts / 3x Goblin Grunts, all of which are
+party egresses to the next chamber will remain here,               sleeping. If awakened, the goblins attempt to warn the
+attacking the party upon their return.                             rest of their allies in the cavern with loud screeches
+                                                                   in their strange language before initiating combat. A
+Encounter Rules                                                    smeared trail of blood is evident on the floor in this
+When running the encounter, use all the following rules,           area, leading south toward the bridge.
+or select your favorites to simplify the encounter.
+                                                                   A2) Giant Mushroom Island Platform
+                                                                   Upon the giant cap of this mushroom platform stand
+                                                                   1x Goblin Striker / 2x Goblin Strikers / 3x Goblin
+ Torches. Two torches illuminate sections of the cavern.
+                                                                   Strikers. This mushroom is level with the ground
+ These torches provide bright light in a 20-foot radius and        in this area.
+ dim light for an additional 20 feet. The torches have an AC
+ of 12 and become extinguished if hit.
+                                                                   A3) Cooking Campfire
+                                                                   Goblins bicker amongst themselves as they hover about
+                                                                   a small campfire, over which they stew a boiling pot of
+                                                                   mushroom sludge. The smoldering fire sheds bright
+ Unstable Platform. Rickety platforms among the makeshift          light in a 10-foot radius and dim light for an additional
+ bridges are marked with a U. If, at any time more than one        10 feet. A creature in contact with campfire takes
+                                                                   1d6 / 1d8 / 1d10 fire damage when it enters the fire’s
+ Medium sized creature, or a larger creature walks onto an
+                                                                   space for the first time on a turn or ends its turn there.
+ unstable platform, that platform collapses and all creatures      Goblins can use a bonus action to consume some of the
+ on it fall into the pit. (Refer to Pitfall). The connected        mushroom soup, regaining 5 hit points and increasing
+ bridge is unaffected by this collapse. The collapse is loud,      their maximum hit points by the same amount.
+ drawing the attention of any creature within 30 ft. of it.           Around the fire are 2x Goblin Grunts and 1x Goblin
+                                                                   Marauder / 2x Goblin Marauder, 2x Goblin Grunts /
+                                                                   3x Goblin Marauder, 2x Goblin Grunts.
+
+
+ Pitfall. The darkened parts of the map, exemplified by P,         A4) Dark Burrowed Tunnel
+ represent a lower tier of the traverse that is 40 ft. below the   Goblins lurk and hide within a small alcove in the cave
+                                                                   wall, watching carefully and readily to surprise any
+ majority of the terrain. A creature pushed into this area
+                                                                   intruders. Present here are 1x Goblin Shadow Stalker
+ must succeed on a DC 14 Dexterity saving throw or fall to         / 1x Goblin Shadow Stalker and 1x Goblin Grunt / 1x
+ the bottom, taking 1d6 bludgeoning for every 10 feet fallen.      Goblin Shadow Stalker and 3x Goblin Grunt.
+ A creature may ascend the rock wall without making any
+ further checks or saving throws
+                                                                   A5) Giant Mushroom Tower
+                                                                   A giant mushroom stands 20 feet high over the ground,
+                                                                   serving as a vantage point for the entire traverse. Atop
+                                                                   it stands 1x Goblin Blood Seer / 1x Goblin Blood
+                                                                   Seer and 1x Goblin Striker / 1x Goblin Blood Seer,
+ Mushroom Clusters. Throughout the traverse are various            1x Goblin Striker and 2x Goblin Grunts. A smeared
+ clusters of mushrooms bursting with poisonous spores              trail of blood is evident on the floor in this area, leading
+ marked as M. These are objects with an AC of 9 and 1              northeast toward the bridge that proceeds to the
+ Hit Point. If hit by any source of damage, the mushrooms          chamber exit. The Goblin Blood Seer is very perceptive
+ explode in a cloud of spores with a 10 ft. radius. Creatures in   and may alert all goblins in the area if he is attacked and
+ the area must make DC 10 Constitution saving throw. On            not killed within four rounds.
+ a failure, the creature takes 2d6 / 4d6 / 6d6 poison damage
+ and is poisoned until the end of its next turn. On a success,     A6) Old Campsite
+ a creature takes half as much damage and is not poisoned.         At an extinguished campsite with a nearby torch, 2x
+ The cloud spreads around corners before dissipating.              Goblin Grunts / 3x Goblin grunts / 1x Goblin Striker
+                                                                   and 2x Goblin Grunts stand guard. On a successful DC
+                                                                   15 Wisdom (Perception) check, a PC finds a Ripe Glow
+                                                                   Grub chewing on nearby fungal refuse.
+
+
+
+
+                                                                                                                                  11
+     A7) Northeast Traverse Exit                                   Enemy Behavior
+     Stationed at the opening to the next chamber stand 2x         The troll here are not keen on visitors and will defend
+     Goblin Grunts / 3x Goblin grunts / 1x Goblin Raid             its lair ferociously. Likewise, any goblins present will
+     Leader that will attempt to prevent the party members         attack the party with little regard to their own safety.
+     from escaping to the next chamber. These goblins will         Goblin Strikers will attempt to run onto a Siege Troll’s
+     rush the party members if the traverse is alerted to their    back for safety. A Siege Troll uses its Throw Body
+     presence. The Goblin Raid Leader prefers to surround          ability, it will prefer to throw an enemy or a body from
+     himself with allies, allowing the use of their Crack the      the pile or corpses in area B2. However, if it has no
+     Whip ability more effectively.                                other ammunition, it will attempt to throw any goblin
+        When the party nears this location, they hear a            riding on its back.
+     human cry for help deeper in the cave, down this tunnel.
+     Read this script.                                             Encounter Rules
+                                                                   When running the encounter, use the following rules
+      As you approach the hollow darkness of the tunnel            as well as the Pitfall and Mushroom Clusters rules
+      entrance, a sudden piercing cry punctures the air. It’s a    from prior encounters. Use all the rules or select your
+      human’s voice, a desperate plea originating from deep        favorites to simplify the encounter.
+      within the serpentine network of descending tunnels.
+      The eerie scream bounces off the stony walls, before it       Stalagmites. Large stalagmites around the map are
+      cuts off abruptly, swallowed by the inky shadows, leaving     exemplified by S. The pillars are spaced so that they offer up
+      you in an unnerving silence.                                  to half cover to creatures hiding behind them.
+
+
+
+     ENCOUNTER 3: TROLL LAIR                                       Map B: Troll Lair
+     Having braved the treacherous goblin-infested tunnels,        The following areas correspond to Map B: Troll Lair.
+     the party now finds themselves on the cusp of a deeper,
+     more menacing challenge. In this cavernous den                B1) Lair Entrance
+     resides a monstrous troll, and hiding in the shadows          This is the entrance to the lair. The party starts around
+     are more of the menacing goblins. The party’s courage         this area, though they may take a moment to spread out.
+     and strength will be truly tested as they navigate these
+     perils, not just to survive, but to rescue a beleaguered
+     human captive teetering on the brink of death. Read           B2) Dining Troll
+     the following script to establish the setting and stakes      Positioned here is 1x Feral Cave Troll / 1x Siege Troll
+     of this encounter. Then, initiate the battle, using Map       / 1x Siege Troll. The troll is feasting on corpses that
+     B: Troll Lair.                                                lie upon a nearby raised platform in area B3 and is
+                                                                   distracted but will discover the party via their smell if
+                                                                   they linger.
+      The tunnel opens to a large cavern, the rocky ground a
+      perilous floor riddled with gaping chasms and jutting
+      stalagmites. In the darkness, a monstrous silhouette
+                                                                   B3) Ledge & Corpses
+                                                                   A ledge rises 15 feet up, atop of which is a pile of
+      shifts at the far side of the chamber, its attention         human corpses, some of the victims of the goblins’
+      absorbed in a gruesome feast. Each resonating crunch         recent raids. A Siege Troll may grab a corpse from this
+      of flesh and bone accompanied by a satisfied guttural        pile to use its Throw Body ability. Standing about the
+      growl.                                                       raised area watching the troll are 1x Goblin Striker /
+        Large stalagmites rise from the earth, offering            1x Goblin Striker / 3x Goblin Strikers. Goblin strikers
+      potential cover, while the shadowy pits lurking at the       that are not surprised by the party may use a bonus
+      edge of your vision warn of a deadly falls. Amidst the       action to clamber onto a Siege Troll’s back before the
+      grisly spectacle, a faint stirring from the pile of bodies   first round of combat.
+      suggests a desperate flicker of human life, perhaps the
+      same person you heard earlier.                               Survivor. A human survivor named Beryn can be
+                                                                   found here, hiding under the pile of corpses. He can be
+                                                                   spotted by a DC 18 Wisdom (Perception) check or will
+                                                                   only come out when all the enemies are dead. Beryn
+     Running the Encounter                                         can tell the party about his experiences as a victim of
+                                                                   the goblin raids.
+     The lair is dimly lit by an odd bright glow emanating
+     from the far corner of the chamber, where another
+     opening appears to descend into a further hollow. The
+                                                                   B4) Secluded Corner
+                                                                   In a secluded corner behind a large row of stalagmites
+     party should be allowed a short time to discuss their
+                                                                   is a potential additional enemy. Hiding in this area is
+     next moves, quietly, before the enemies in the room are
+                                                                   Nothing / Nothing / 1x Feral Cave Troll.
+     alerted to their presence.
+        The party’s goal is to slay the enemies and to locate
+     and rescue a human survivor located in area B3.
+
+
+12
+                                                      Map B: Troll Lair
+
+B5) Cracked Floor
+In the center of the chamber is a 30-foot square section
+                                                                 ENDING THE ADVENTURE
+of the cavern floor that is cracked and jagged. If a troll’s     You can end this scenario here or keep this dark
+smash ability is used a total of three times while on            adventure going! Beyond the consider whether you’d
+one of these spaces, the cracked ground in the area              like to extend this adventure going. To continue,
+gives way, permanently creating another pit. When                review the prompts in Taking it Further, or write your
+this happens any creatures in the area falls into the            own content.
+pit together.
+                                                                 Path of Penitence. If you’re running Bestiarum’s official
+                                                                 campaign system, the party should return Vozruk to
+B6) Siege Platform Construction Area                             report their findings and receive their rewards once
+A pile of wooden debris lies strewn about in this space.
+                                                                 they complete the adventure. Review the experience,
+If ignited, the fire sheds bright light in a 40-foot radius
+                                                                 gold, and level rewards in the Path of Penitence
+and dim light for an additional 40 feet. Burning stakes
+                                                                 QuickStart Guide.
+from here may be used as makeshift torches.
+
+B7) Lair Exit
+An eerie, dim glow radiates from this opening. It can be
+used for ending or extending the adventure. For a quick
+ending, you can have the party find a small cavern here
+filled with decaying plant matter and a writhing mass of
+worms. They can find 1d4 Ripe Glow Grubs here and
+that will be the end to their journey. Alternatively, if you’d
+like to continue the experience, you can have the tunnel
+descend further into the sprawling caverns, building
+upon this module with many more threats, encounters,
+and colorful NPCs to find!
+
+
+
+                                                                                                                             13
+                                   Taking it Further
+
+
+
+
+     B
+                  stiarum scenarios are designed to be easy      as large as melons, with some ancient mushrooms
+                  to run and quick to prepare. The structured    towering to the size of trees, quite an impressive, yet
+                  narrative generally lasts one long or two      dreadful sight, as the ground is littered with human
+                  shorter sessions. This Taking it Further       mulch remains in various stages of decomposition.
+                  section is designed to inspire you to create      In one such farm, the party may even stumble upon
+     your own adventures or to build upon the core adventure     the Fungal Hermit and perhaps the Goblin Spore
+     so that your party’s journey becomes as much your own       Sower. These NPCs can be used as enigmatic neutral
+     as it is ours. The following suggestions can be used to     NPCs. Both of these characters are non-aggressive, and
+     craft the world and build the narrative further.            the hermit can be used to bridge the barrier between
+                                                                 human and goblin communication. In such an encounter,
+                                                                 you might use the following script as the party enters the
+     More Survivors                                              fungal farm cavern.
+     An easy way to justify further adventures in these goblin
+     caves is by having Beryn, the survivor in area B3, tell      You come to a vast, sprawling chamber of fungal crops
+     the party about more potential survivors deeper in the       that grow across the ground as large as melons. Several
+     cavern depths. As the party continues to delve further       hardened mushrooms rise as tall as trees, their trunks
+     into the caverns, this will prove a useful prompt to         thick as houses, towering towards the vaulted cavern
+     engage them in a growing narrative. Perhaps there are        ceiling. On the patchy ground in a corner, you see two
+     some unique NPCs among the survivors such as a town          figures walking calmly around a fenced-off section of
+     priest or leader, who would be worth an extra reward if
+                                                                  mushrooms that resemble heads of cabbage. Yet upon
+     the party manages to save them.
+                                                                  closer inspection, these mushrooms appear to be
+                                                                  growing out withered, decapitated human skulls.
+     Fungal Farms                                                    One of the figures, a tall and lanky human dressed in
+     The goblins in this grotto survive by cultivating            tattered scholarly garments, kneels near the mushrooms,
+     expansive fungal farms. Though they don’t eat humans,        attending to them with the care of an experienced
+     they capture them and kill them, throwing their bodies       herbologist. As you step closer, the figure looks in your
+     into the dirt to make mulch for the mushrooms to grow.       direction with a start, speaking with a gentle voice.
+     As the party ventures deeper, they may find a sprawling         “Hello?”
+     cavern filled with such a valley of mushrooms, growing
+
+14
+The party might speak with the hermit, in which case
+this character might shed some light on the goblin
+culture and activity or give them other benefits.
+   Humanitarian Aid. If the party explains the dire
+food shortage in the region, the hermit might suggest
+that they harvest some of the mushrooms to feed to the
+common folk.
+   Magical Services. For the right price, the hermit
+may be able to craft a potion, or provide a wizard with
+instructions to learn a magical spell.
+
+
+The Goblin King
+Bestiarum monthly modules include exciting and
+dynamic boss fights, each of which come with their
+own lair map and loot tables, offering a chance to drop
+unique artifacts and magic items. If you choose to run
+a boss fight, you should give the party a chance to rest,
+and then design a few encounters before they reach
+the boss to soften them up and begin to strain their
+resources. The more they are strained, the more intense
+the fight will be, but don’t overdo it or they will be too
+weak to defeat the boss!
+
+The Goblin King. The boss module connected to this
+adventure is the Goblin King. Goblin communities do
+not live in isolation. Each tribe is ruled by a dominant
+Goblin King. To truly purge the goblin threat, they must
+delve back into the dark tunnels, digging further into the
+cave to reach this villainous foe. With the goblin leader
+slain and their population wiped out, these devious
+creatures will plague the lands no longer.
+
+
+
+
+                                                             15
+                                   Appendix A:
+                                 Monsters & NPCs
+     This appendix details the monsters and NPCs that       Challenge Ratings. Enemies and NPCs range from
+     appear in this adventure in addition to many more      difficulty levels Weak (CR 1), Normal (CR 3), Hard (CR
+     from Bestiarum’s monthly release that you can use      5), Elite (CR 7), Champion (CR 10), Legendary (CR
+     as inspiration for your own adventures! Monsters are   16), and Archon (CR 21).
+     organized by Challenge Rating (CR), from weakest to
+     strongest, and then alphabetically.
+
+
+
+
+16
+                                        Weak (Cr 1)
+
+                                                                  Goblin Grunt
+Goblin Grunt                                                      Goblin grunts are the backbone of their society’s
+Medium humanoid (goblin), neutral evil                            fighting force. Clad in ragged leathers and bone
+                                                                  fragments, they wield crude, spiky weapons, and
+—                                                                 rough-hewn shields. Despite their seemingly meager
+Armor Class: 14 (leather armor, shield)
+Hit Points: 36 (7d8 + 5)                                          equipment, these goblins command respect with
+Speed: 30 ft.                                                     their aggressive demeanor and ferocity. They may be
+                                                                  the most common fighters within the goblin ranks,
+—                                                                 but their raw tenacity makes them a force not to be
+  STR    DEX     CON     INT     WIS   CHA
+                                                                  underestimated.
+14 (+2) 12 (+1) 12 (+1) 8 (-1) 10 (+0) 8 (-1)
+—
+Senses: Darkvision 120 ft., Passive Perception 10
+Languages: Goblin
+Challenge: 1 (200 XP)
+—
+Pack Tactics. This creature has advantage on an attack
+roll against a creature if at least one of its allies is within
+5 ft. of the creature and the ally isn’t incapacitated.
+
+Actions
+Multiattack. This creature makes two attacks: one with
+its shortsword and one with its shield bash.
+
+Shortsword. Melee Weapon Attack: +4 to hit, reach 5 ft.,
+one target. Hit: 5 (1d6+2) piercing damage.
+
+Shield Bash. Melee Weapon Attack: +4 to hit, reach 5 ft.,
+one target. Hit: 5 (1d6 +2) piercing damage. On a hit,
+this creature may push the target up to 5 ft. feet away
+from itself if the target is Medium size or smaller.
+
+
+
+
+                                                                                                                        17
+                                        Weak (Cr 1)
+
+     Goblin Spore Sower
+     The Spore Sower, known only as Skulk, is a                 Goblin Spore Sower
+     malformed goblin, his body twisted by arduous              Large humanoid (goblin), true neutral
+     labors in the fungal fields. His figure is hunched from
+     the weight of the giant mushroom-filled basket he          —
+                                                                Armor Class: 13 (natural armor)
+     perpetually bears on his back.                             Hit Points: 39 (6d10 + 6)
+     Skulk’s clothing is a patchwork of rags, worn and dirty    Speed: 30 ft.
+     from countless hours spent amidst the damp darkness
+     of the mushroom farms. Though his posture might            —
+                                                                  STR     DEX    CON      INT     WIS   CHA
+     suggest frailty, his eyes - sharp and attentive - tell a
+     different story. Skulk is the right hand of the Fungal
+                                                                12 (+1) 10 (+0) 12 (+1) 11 (+0) 12 (+1) 9 (-1)
+     Hermit, assisting in the cultivation of both the common    —
+     mushroom feedstocks and the chillingly unique              Damage Immunities: Poison
+     Cerebrum Cap.                                              Condition Immunities: Poisoned
+                                                                Senses: Darkvision 60 ft., Passive Perception 12
+                                                                Languages: Goblin
+                                                                Challenge: 1 (200 XP)
+                                                                —
+                                                                Spore Sprawl. Whenever this creature is damaged,
+                                                                all creatures within 10 ft. of it must make a DC 13
+                                                                Constitution saving throw, as spores spray in all
+                                                                directions. On a failure, a creature takes 7 (2d6) poison
+                                                                damage and is poisoned for 1 minute. On a success,
+                                                                a creature takes half as much damage and is not
+                                                                poisoned.
+
+                                                                Actions
+                                                                Fungal Club. Melee Weapon Attack: +3 to hit, range 5
+                                                                ft., one target. Hit: 4 (1d6 + 1) bludgeoning damage
+                                                                plus 4 (1d6 + 1) poison damage. On a hit, the target
+                                                                must succeed on a DC 13 Constitution saving throw or
+                                                                become poisoned for 1 minute.
+
+
+
+
+18
+                                 Normal (Cr 3)
+
+                                                             Fungal Hermit
+Fungal Hermit                                                The Fungal Hermit is a strange wizard, his gaunt
+Medium humanoid (human), true neutral                        frame and pallid skin stretched tight over a skeletal
+                                                             figure, his sunken eyes holding a glimmer of eerie
+—                                                            intelligence. A scholar of the obscure, his satchels
+Armor Class: 12
+Hit Points: 52 (7d8 + 21)                                    are cluttered with an assortment of arcane scrolls,
+Speed: 30 ft.                                                alchemical vials, and worn books.
+                                                             The hermit’s obsession with mycology is peculiar, but
+—                                                            it is his interest in a unique fungus, the Cerebrum Cap,
+  STR     DEX    CON      INT     WIS     CHA
+                                                             that truly sets him apart. This grim flora, known only
+12 (+1) 14 (+2) 16 (+3) 16 (+3) 14 (+2) 10 (+0)              to thrive within the confines of the human skull, is
+—                                                            believed to possess potent magical properties. Under
+Damage Immunities: Poison                                    his guidance, the cave-dwelling goblins have mastered
+Condition Immunities: Poisoned                               the macabre art of cultivating this morbid crop, half of
+Senses: Darkvision 120 ft., Passive Perception 12            which he takes as payment, and half of which they use
+Languages: Common, Goblin                                    for their own magical rituals.
+Challenge: 3 (800 XP)                                        While his motives remain shrouded in mystery, this
+                                                             hermit poses no direct threat. He merely follows a
+—
+Living Crops. While in an environment with fungi             path dictated by his chilling fascination, his loyalties
+present, the ground within 15 ft. of this creature writhes   straying neither towards the goblins nor the humans,
+and reaches for interlopers, making the area difficult       but firmly rooted in his pursuit of the sinister
+terrain for all enemy creatures.                             Cerebrum Cap.
+
+Regenerative Fungi. While in an environment with fungi
+present, this creature regains 20 hit points at the start
+of its turn if it has at least 1 hit point.
+
+Actions
+Poison Vial. Melee or Ranged Weapon Attack: +5 to
+hit, reach 5 ft. or range 20/40 ft., one target. Hit: 4
+(1d4 + 2) piercing damage. Hit or miss, the target
+of the attack and each creature within 10 feet of it
+must make a DC 13 Constitution saving throw. On a
+failure, a creature takes 21 (6d6) poison damage and
+is poisoned for 1 minute. A creature takes half as much
+damage on a success and is not poisoned.
+
+
+
+
+                                                                                                                        19
+                                  Normal (Cr 3)
+
+     Goblin Marauder
+     Goblin marauders are the hardened elite among
+                                                         Goblin Marauder
+                                                         Medium humanoid (goblin), neutral evil
+     goblin raiding parties. Armed with jagged swords,   —
+     these goblins embody a fearsome, all-out ag-        Armor Class: 15 (studded leather armor)
+     gressive style of combat. Their raw strength and    Hit Points: 75 (10d8 + 20)
+                                                         Speed: 40 ft.
+     relentless endurance make them an intimidating
+                                                         —
+     presence on the battlefield. With every swing of        STR      DEX     CON      INT    WIS CHA
+     their weapons, they underline their position as       16 (+3) 16 (+3) 16 (+3)       8(-1)   10 (+0) 10 (+0)
+     the more dangerous, more formidable tier of the     —
+                                                         Senses: Darkvision 120 ft., Passive Perception 12
+     goblin ranks.                                       Languages: Goblin
+                                                         Challenge :3 (700 XP)
+                                                         —
+                                                         Brutal Melee. This creature’s attacks with melee
+                                                         weapons deal one extra die of their damage (included
+                                                         in the attack). Additionally, they score a Critical Hit on a
+                                                         natural 18 or higher.
+
+                                                         Actions
+                                                         Multiattack. This creature makes three attacks. This
+                                                         creature makes one attack with its Falchion and two
+                                                         attacks with its Claws.
+
+                                                         Falchion. Melee Weapon Attack: +5 to hit, reach 5 ft., one
+                                                         target. Hit: 12 (2d8 + 3) slashing damage.
+
+                                                         Reactions:
+                                                         Riposte. When this creature is targeted by a melee attack
+                                                         that fails, it may immediately make one attack against
+                                                         the attacker and regain its reaction.
+
+
+
+
+20
+                                Normal (Cr 3)
+
+                                                           Goblin Striker
+Goblin Striker                                             Goblin strikers are the stealthy counterparts to the
+Medium humanoid (goblin), neutral evil                     grunts in goblin raiding parties. Concealed within the
+—                                                          inky shadows, their vigilant eyes ceaselessly watch
+Armor Class: 13 (leather armor)                            for the perfect moment to strike. They hurl their
+Hit Points: 36 (7d8 + 5)                                   javelins with an alarming accuracy from the pitch-
+Speed: 30 ft.                                              dark concealment of their labyrinthine caves, and
+—                                                          from the heavy gloom of moonless nights during their
+    STR      DEX     CON     INT WIS CHA                   deadly raids.
+   12 (+1) 14 (+2) 12 (+1)    8(-1)   14 (+2)   8 (-1)
+—
+Skills: Perception +4, Stealth +6
+Senses: Darkvision 120 ft., Passive Perception 14
+Languages: Goblin
+Challenge :3 (700 XP)
+—
+Shadow Assassin. While in dim light or darkness, this
+creature can take the Hide action as a bonus action.
+Any hit this creature scores against a creature that
+cannot see it is a critical hit.
+
+Actions
+Multiattack. This creature makes two javelin attacks.
+
+Javelin. Melee or Ranged Weapon Attack: +4 to hit, reach
+5 ft. or range 30/120 ft., one target. Hit: 5 (1d6 + 2)
+piercing damage.
+
+
+
+
+                                                                                                                    21
+                                        Hard (Cr 5)
+
+     Goblin Blood Seer
+     The goblin blood seer, known among his kin as        Goblin Blood Seer
+     Blud’Maw, embodies a savage tribalism and mystical   Medium humanoid (goblin), neutral evil
+     might. His eyes, wild and frenzied, hint at a mind   —
+     steeped in the chaotic energies of dark magic. His   Armor Class: 14 (leather armor)
+     crude bone dagger in one hand, he channels his       Hit Points: 52 (8d8 + 16)
+     earthen magics through an assortment of macabre      Speed: 30 ft.
+     fetishes, including his favorite severed head.       —   STR      DEX     CON     INT WIS CHA
+                                                            10 (+0) 15 (+3) 15 (+2) 13(+1) 18 (+4) 14 (+2)
+                                                          —
+                                                          Skills: Arcana +4, Nature +7, Perception +7
+                                                          Senses: Darkvision 120 ft., Passive Perception 17
+                                                          Languages: Goblin
+                                                          Challenge: 5 (1,800 XP)
+                                                          —
+                                                          Evasive. Attack rolls made against this creature have
+                                                          disadvantage if this creature is not incapacitated, its
+                                                          speed is not reduced, and it can see the attacker.
+
+                                                          Actions
+                                                          Blood Mark. Target creature within 60ft. of the Goblin
+                                                          Shaman must succeed on a DC 16 Wisdom saving
+                                                          throw or be marked for 1 minute. The next time a
+                                                          marked creature takes damage, it takes twice the
+                                                          amount of damage and the mark is removed.
+
+                                                          Spore Burst. Cause an explosion of spores to erupt at a
+                                                          point within 60 ft. Each creature in a 15-foot radius of
+                                                          the point must make a Constitution saving throw. On a
+                                                          failure, the creature takes 21 (6d6) poison damage and
+                                                          is poisoned for 1 minute. On a success, a creature takes
+                                                          half as much damage and is not poisoned. The cloud
+                                                          spreads around corners before dissipating.
+
+                                                          Dagger. Melee or Ranged Weapon Attack: +4 to hit, reach
+                                                          5 ft. or range 20/60 ft., one target. Hit: 4 (1d4 + 2)
+                                                          piercing damage.
+
+                                                          Reactions:
+                                                          Sacrificial Sustenance. When a creature within 30 ft.
+                                                          of the Goblin Shaman is reduced to zero hit points,
+                                                          the Goblin Shaman may use its reaction to gain 10
+                                                          temporary hit points and apply its Blood Mark to one
+                                                          target.
+
+
+
+
+22
+                                       Hard (Cr 5)
+
+                                                               Goblin Shadow Stalker
+Goblin Shadow Stalker                                          The goblin shadow stalker, known among his tribe as
+Medium humanoid (goblin), neutral evil                         Flesh’Kutta, is a silent death lurking amidst the goblin
+—                                                              horde. Wielding a pair of sharp, jagged swords, it
+Armor Class: 14 (leather armor)                                attacks with a sudden brutality. This assassin appear
+Hit Points: 52 (8d8 + 16)                                      as if from nowhere, its cruel blades flashing in the dim
+Speed: 45 ft.                                                  light before retreating back into the shadows, leaving
+—                                                              chaos in its wake. The Shadow Stalker’s presence
+    STR       DEX    CON     INT WIS CHA                       elevates the goblin threat to a new level, one of not just
+   14 (+2) 16 (+3) 14 (+2) 12 (+1) 14 (+2) 12 (+1)             brute force, but also of calculated, precise lethality.
+—
+Saving   Throws: Dex + 6
+Skills: Acrobatics +6, Perception +5, Stealth +9
+Senses: darkvision 120 ft., passive Perception 15
+Languages: Goblin
+Challenge: 5 (1,800 XP)
+—
+Evasive. Attack rolls made against this creature have
+disadvantage if this creature is not incapacitated, its
+speed is not reduced, and it can see the attacker.
+
+Brutal Melee. This creature’s attacks with melee
+weapons deal one extra die of their damage (included
+in the attack). Additionally, they score a Critical Hit on a
+natural 18 or higher.
+
+Shadow Assassin. While in dim light or darkness, this
+creature can take the Hide action as a bonus action. Any
+hit this creature scores against a creature that cannot
+see it is a critical hit.
+
+Actions
+Multiattack. This creature makes two attacks.
+
+Scimitar. Melee Weapon Attack: +6 to hit, reach 5 ft., one
+target. Hit: 11 (2d6 + 4) slashing damage and 14 (4d6)
+poison damage.
+
+
+
+
+                                                                                                                            23
+                                            Elite (Cr 7)
+
+     Feral Cave Troll
+     Cave trolls are feral monsters that dwell within dark      Feral Cave Troll
+     tunnels and secluded caves. Their lanky form is            MLarge giant, unaligned
+     deceptive, concealing a raw strength and monstrous         —
+     resilience. These trolls are grotesque spectacles, their   Armor Class: 16 (natural armor)
+     bodies covered in uncontrollable keratinous growths.       Hit Points: 152 (16d10 + 64)
+     Clusters of horns sprout chaotically from their            Speed: 40 ft.
+     bodies, and their nails have grown long, twisted, and      —
+     dangerously sharp.                                             STR      DEX     CON     INT WIS CHA
+     The troll’s rapid metabolic function fuels their              18 (+4) 14 (+2) 18 (+4)       5(-3)   10 (+0)   9 (-1)
+     aberrant growth, a gruesome testament to their             —
+     impressive regenerative capabilities. Their wild,          Skills: Perception +3
+     animalistic eyes reflect a predatory nature driven by      Damage Resistances: Poison
+     survival and aggression. These beasts are not pawns        Condition Immunities: Poisoned
+     of the goblins, but primal inhabitants of the caves        Senses: Darkvision 120 ft., Passive Perception 13
+     they’ve claimed, adding another layer of danger to         Languages: -
+     these already perilous territories.                        Challenge: 7 (2,900 XP)
+                                                                —
+                                                                Regenerative. This creature regains 11 hit points at the
+                                                                start of its turn if it has at least 1 hit point and is not
+                                                                Poisoned.
+
+                                                                Actions
+                                                                Multiattack. This creature makes two attacks.
+
+                                                                Claws. Melee Weapon Attack: +7 to hit, reach 10 ft., one
+                                                                target. Hit: 13 (2d8 + 4) slashing damage.
+
+                                                                Smash (Recharge 5 – 6). Slam the ground with terrible
+                                                                force. All other creatures within 10 ft. must make
+                                                                a DC 15 Dexterity saving throw, taking 25 (6d6 + 4)
+                                                                bludgeoning damage on a failure, or half as much on a
+                                                                success.
+
+
+
+
+24
+                                          Elite (Cr 7)
+
+                                                                  Goblin Raid Leader
+Goblin Raid Leader                                                The goblin raid leader, known as Gut’Fang amongst
+Medium humanoid (goblin), neutral evil                            his kin, is a formidable presence on the battlefield. His
+—                                                                 strength and ferocity are matched only by his cunning,
+Armor Class: 15 (patchwork armor)                                 making him a lethal adversary and an efficient leader.
+Hit Points: 105 (14d8 + 42)                                       With two wicked weapons clutched in his claws, he
+Speed: 30 ft.                                                     charges fearlessly into battle with a vicious snarl,
+—                                                                 striking fear into the hearts of his enemies.
+    STR      DEX     CON     INT  WIS CHA                         Gut’Fang commands the respect of the goblin hordes,
+   18 (+4) 15 (+2) 16 (+3) 14 (+2) 12 (+1) 17 (+3)                leading the raiding parties with brutal efficiency and
+—                                                                 ruthless discipline. As the chosen lieutenant of the
+Senses: Darkvision 120 ft., Passive Perception 13                 Goblin King, Gut’Fang’s presence signals an imminent
+Languages: Goblin                                                 storm of metal and blood, a brutal onslaught that only
+Challenge: 7 (2,900 XP)                                           the bravest dare face.
+—
+Brutal Melee. This creature’s attacks with melee
+weapons deal one extra die of their damage (included
+in the attack). Additionally, they score a Critical Hit on a
+natural 18 or higher.
+
+Command. As a bonus action on each of its turns, this
+creature may select one allied creature with a lower CR
+within 30 feet. The ally may immediately move up to its
+speed or make an attack.
+
+Actions
+Multiattack. This creature makes three attacks. Then, it
+can use its Crack the Whip ability, if able.
+
+Morningstar. Melee Weapon Attack: +7 to hit, reach 5 ft.,
+one target. Hit: 13 (2d8 + 4) piercing damage.
+
+Longsword. Melee Weapon Attack: +7 to hit, reach 5 ft.,
+one target. Hit: 13 (2d8 + 4) slashing damage, or 15
+(2d10 + 4) slashing damage if used with two hands.
+
+Crack the Whip (Recharge 4-6). This creature draws forth
+a spined whip and makes two rapid strikes with deadly
+accuracy. Each strike hits a target of the creature’s choice it
+can see within 10 feet, dealing 4 (1d4 + 2) slashing damage.
+If this creature deals damage to an ally this way, it may
+Command that creature as a free action.
+
+Reactions:
+Parry. This creature adds 3 to its AC against one melee
+attack that would hit it. To do so, it must see the
+attacker and be wielding a melee weapon.
+
+
+
+
+                                                                                                                              25
+                                   Champion (Cr 10)
+     Siege Troll
+     Siege trolls are horrifying testaments to the goblins’
+                                                                 Siege Troll
+     cunning and brutality. Once wild, these monstrous           Gargantuan giant, unaligned
+     creatures are captured and tamed by the goblins in a        —
+     grueling process of subjugation and conditioning. The
+                                                                 Armor Class: 17 (pnatural armor)
+     largest and most formidable trolls are chosen, their        Hit Points: 232 (15d20 + 75)
+     massive bodies and relentless strength making them          Speed: 25 ft
+                                                                              —
+     ideal for the goblins’ diabolical purpose.                      STR      DEX     CON     INT  WIS    CHA
+     The goblins construct crude wooden platforms,                 20 (+5) 10 (+0) 20 (+5) 7 (-2) 12 (+1) 9 (-1)
+     bristling with sharp spikes, onto the trolls’ backs.
+                                                                 —
+     These serve as elevated battle stations from which          Skills: Perception +5
+     goblin skirmishers can rain down arrows and javelins        Damage Immunities: Poison
+     upon their enemies. The trolls, though tamed, are           Condition Immunities: Poisoned
+     far from docile, charging into battle with terrifying       Senses: Darkvision 120 ft., Passive Perception 15
+     force. This combination of savage beast and goblin          Languages: Understands Goblin but can’t speak
+     engineering turns the siege troll into a mobile fortress,   Challenge: 10 (5,900 XP)
+     a dreadful sight on any battlefield.
+                                                                 —
+                                                                 Regenerative. This creature regains 14 hit points at the
+                                                                 start of its turn if it has at least 1 hit point and is not
+                                                                 Poisoned.
+
+                                                                 Siege Tower. Creatures of Medium size or smaller may
+                                                                 climb onto this creature by making a DC 14 Dexterity
+                                                                 (Acrobatics) check. Friendly models succeed on the
+                                                                 check automatically. Creatures on this creature’s back
+                                                                 have half cover from creatures that are not.
+
+                                                                 Actions
+                                                                 Multiattack. This creature makes one attack with its
+                                                                 claws and may use either Smash or Throw Body if
+                                                                 available.
+
+                                                                 Claws. Melee Weapon Attack: +9 to hit, reach 15 ft., one
+                                                                 target. Hit: 16 (2d10 + 5) slashing damage.
+
+                                                                 Smash (Recharge 5 – 6). Slam the ground with terrible
+                                                                 force. All other creatures within 20 ft. must make
+                                                                 a DC 14 Dexterity saving throw, taking 37 (10d6 + 5)
+                                                                 bludgeoning damage on a failure, or half as much on a
+                                                                 success.
+
+                                                                 Throw Body (Recharge 5 – 6). The Siege Troll attempts
+                                                                 to grab a creature of size Medium or smaller within 15
+                                                                 ft., making a Dexterity contest against it, or succeeding
+                                                                 automatically if the creature is downed or dead. If
+                                                                 successful, the Siege Troll then throws the creature at a
+                                                                 point within 90 ft. that it can see. Each creature within
+                                                                 5 ft. of the target point, including the thrown creature,
+                                                                 must succeed on a DC 14 Dexterity saving throw, or take
+                                                                 21 (6d6) bludgeoning damage and be knocked prone.
+                                                                 On a success, a creature takes half as much damage
+                                                                 and is not knocked prone. The impact of the throw is
+                                                                 incredibly powerful, and the body of a thrown creature
+                                                                 that is downed or dead is obliterated completely, only a
+26                                                               pile of fleshly pulp remaining.
+                                      Appendix B:
+                                      Treasures
+In this adventure, the party may find the following items and treasures.
+
+
+
+
+                                                                           27
+28
+29
+30
+31
+                              Join the Crusade!
+       Embark on an unforgettable journey in this uniquely gritty, dark fantasy setting. Experience an
+     immersive and cinematic campaign like none other - the Path of Penitence! Each month, Bestiarum
+      Games publishes new adventures, 5E modules, monsters, gripping boss fights, maps & items, and
+                                more to support your twisted adventures!
+
+                                            Bring Doaden to Life...
+
+     Transform your tabletop into a living, breathing world with our high-quality, 3D printable miniatures.
+       Every piece is meticulously crafted, providing a cinematic, grim fantasy experience like no other.
+
+
+                         Subscribers enjoy exclusive discounts on our online stores!
+
+          🌐  Bestiarum Games: https://www.bestiarumgames.com/
+          🔖  Patreon - Monthly Subscription: https://www.patreon.com/BestiarumMiniatures
+          🔖  Tribes - Monthly Subscription: https://www.myminifactory.com/users/Bestiarum%20Miniatures
+          💻  Digital Store: https://www.myminifactory.com/users/Bestiarum%20Miniatures?show=store
+          🎲  Physical Prints: https://only-games.co/collections/bestiarum-studio
+
+
+        A heartfelt thank you to our dedicated community, loyal subscribers, and steadfast supporters.
+           Your engagement fuels our creativity and keeps the Penitent Crusade marching forward.
+                                      Together, we conquer the grimdark.
+
+
+
+
+32
+OPEN GAME LICENSE
+Version 1.0a The following text is the property of Wizards of        6. Notice of License Copyright: You must update the
+the Coast, Inc. and is Copyright 2000 Wizards of the Coast, Inc      COPYRIGHT NOTICE portion of this License to include the
+(“Wizards”). All Rights Reserved.                                    exact text of the COPYRIGHT NOTICE of any Open Game
+1. Definitions: (a)”Contributors” means the copyright and/           Content You are copying, modifying or distributing, and
+or trademark owners who have contributed Open Game                   You must add the title, the copyright date, and the copyright
+Content; (b)”Derivative Material” means copyrighted material         holder’s name to the COPYRIGHT NOTICE of any original
+including derivative works and translations (including into          Open Game Content you Distribute.
+other computer languages), potation, modification, correction,       7. Use of Product Identity: You agree not to Use any Product
+addition, extension, upgrade, improvement, compilation,              Identity, including as an indication as to compatibility, except
+abridgment or other form in which an existing work may               as expressly licensed in another, independent Agreement
+be recast, transformed or adapted; (c) “Distribute” means            with the owner of each element of that Product Identity. You
+to reproduce, license, rent, lease, sell, broadcast, publicly        agree not to indicate compatibility or co-adaptability with
+display, transmit or otherwise distribute; (d)”Open Game             any Trademark or Registered Trademark in conjunction with
+Content” means the game mechanic and includes the methods,           a work containing Open Game Content except as expressly
+procedures, processes and routines to the extent such content        licensed in another, independent Agreement with the owner
+does not embody the Product Identity and is an enhancement           of such Trademark or Registered Trademark. The use of any
+over the prior art and any additional content clearly identified     Product Identity in Open Game Content does not constitute
+as Open Game Content by the Contributor, and means any               a challenge to the ownership of that Product Identity.
+work covered by this License, including translations and             The owner of any Product Identity used in Open Game
+derivative works under copyright law, but specifically excludes      Content shall retain all rights, title and interest in and to that
+Product Identity. (e) “Product Identity” means product and           Product Identity.
+product line names, logos and identifying marks including            8. Identification: If you distribute Open Game Content You
+trade dress; artifacts; creatures characters; stories, storylines,   must clearly indicate which portions of the work that you are
+plots, thematic elements, dialogue, incidents, language,             distributing are Open Game Content.
+artwork, symbols, designs, depictions, likenesses, formats,          9. Updating the License: Wizards or its designated Agents
+poses, concepts, themes and graphic, photographic and other          may publish updated versions of this License. You may use
+visual or audio representations; names and descriptions of           any authorized version of this License to copy, modify and
+characters, spells, enchantments, personalities, teams, personas,    distribute any Open Game Content originally distributed
+likenesses and special abilities; places, locations, environments,   under any version of this License.
+creatures, equipment, magical or supernatural abilities or           10. Copy of this License: You MUST include a copy of
+effects, logos, symbols, or graphic designs; and any other           this License with every copy of the Open Game Content
+trademark or registered trademark clearly identified as Product      You Distribute.
+identity by the owner of the Product Identity, and which             11. Use of Contributor Credits: You may not market or
+specifically excludes the Open Game Content; (f) “Trademark”         advertise the Open Game Content using the name of any
+means the logos, names, mark, sign, motto, designs that are          Contributor unless You have written permission from the
+used by a Contributor to identify itself or its products or the      Contributor to do so.
+associated products contributed to the Open Game License by          12. Inability to Comply: If it is impossible for You to comply
+the Contributor (g) “Use”, “Used” or “Using” means to use,           with any of the terms of this License with respect to some or
+Distribute, copy, edit, format, modify, translate and otherwise      all of the Open Game Content due to statute, judicial order,
+create Derivative Material of Open Game Content. (h) “You”           or governmental regulation then You may not Use any Open
+Not for resale. Permission granted to print or photocopy this        Game Material so affected.
+document for personal use only. System Reference Document            13. Termination: This License will terminate automatically if
+5.1 2 or “Your” means the licensee in terms of this agreement.       you fail to comply with all terms herein and fail to cure such
+2. The License: This License applies to any Open Game                breach within 30 days of becoming aware of the breach. All
+Content that contains a notice indicating that the Open Game         sublicenses shall survive the termination of this License.
+Content may only be Used under and in terms of this License.         14. Reformation: If any provision of this License is held to be
+You must affix such a notice to any Open Game Content that           unenforceable, such provision shall be reformed only to the
+you Use. No terms may be added to or subtracted from this            extent necessary to make it enforceable.
+License except as described by the License itself. No other          15. COPYRIGHT NOTICE Open Game License v 1.0a
+terms or conditions may be applied to any Open Game Content          Copyright 2000, Wizards of the Coast, LLC. System Reference
+distributed using this License.                                      Document 5.1 Copyright 2016, Wizards of the Coast, Inc.;
+3. Offer and Acceptance: By Using the Open Game Content              Authors Mike Mearls, Jeremy Crawford, Chris Perkins, Rodney
+You indicate Your acceptance of the terms of this License.           Thompson, Peter Lee, James Wyatt, Robert J. Schwalb, Bruce R.
+4. Grant and Consideration: In consideration for agreeing            Cordell, Chris Sims, and Steve Townshend, based on original
+to use this License, the Contributors grant You a perpetual,         material by E. Gary Gygax and Dave Arneson.
+worldwide, royalty-free, nonexclusive license with the exact
+terms of this License to Use, the Open Game Content.
+5. Representation of Authority to Contribute: If You are
+contributing original material as Open Game Content, You
+represent that Your Contributions are Your original creation
+and/or You have sufficient rights to grant the rights conveyed
+by this License.
+
+
+
+                                                                                                                                          33
+34
+

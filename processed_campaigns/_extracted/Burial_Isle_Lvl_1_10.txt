@@ -1,0 +1,770 @@
+          BURIAL ISLE
+                    LEVEL SCALING
+                        1 – 10
+
+
+DELVE INTO AN ACCURSED BURIAL SITE ON A DESERTED ISLAND
+            IN THIS EASY-TO-RUN ADVENTURE
+
+
+
+
+                                            Liber Obscura 001
+“The path to redemption is a treacherous journey walked alone,
+each step resonating with the sorrow of a thousand sins."
+
+
+
+
+                                       CREDITS
+Lead Designer/Editor-in-Chief: Alexander H.   Produced by: Bestiarum Games
+  Dovermann
+
+Designer/Cartographer: Dorian Pushka
+
+Image Technician: Marina Jukova
+          his module can be run as a one-shot         Adventure Hooks
+          or as part of a persistent dark fantasy
+                                                      The adventure starts as the party wakes up on
+
+T         campaign using Bestiarum’s Path of
+          Penitence (PoP) system. Creatures
+          and items marked with an asterisk (*)
+          are new. Their information can be
+                                                      a deserted island after being shipwrecked by a
+                                                      terrible storm. Decide of the party knew of the
+                                                      cult activities and came to stop them or
+                                                      crashed here by chance. You can build the
+found at the end of the adventure.
+                                                      narrative further by starting as the party
+                                                      prepares for the journey, sets sail, or battles
+Tier I. This adventure scales in difficulty
+                                                      the seething storm!
+based on your party’s Average Party Level
+(APL). Use the following table to determine
+                                                      Path of Penitence. If you are running a PoP
+the appropriate difficulty for your party. If your
+                                                      campaign, look to the end of the module for a
+party finds the scenario too easy or hard, you
+                                                      mission briefing and suggestions on crafting
+can shift difficulties, even mid adventure!
+                                                      an immersive dark fantasy experience.
+
+ADVENTURE DIFFICULTY                                  Opening Script
+    Difficulty              APL                       To start the adventure read this script.
+
+    Beginner                1–2
+                                                        You wake up in a sudden panic, your heart
+                                                        pounding in your chest. Your throat is
+    Easy                    3–4
+                                                        parched. Your body covered in bruises. A
+                                                        layer of coarse sand crusts your face. As you
+    Medium                  5–7                         stand on shaking legs, you heave a mass of
+                                                        seawater from your lungs.
+    Hard                    8 – 10                          You remember the sight of the colossal
+                                                        wave as it crashed into your ship. The sound
+                                                        of splintering wood as the vessel’s hull was
+Starting the Adventure                                  torn apart. The feeling of utter despair as you
+A group of cultists have been excavating an             were hurled into the cold, black, abyssal
+ancient tomb hidden on a deserted island.               depths below.
+They are harvesting blood from an evil god                  Steadying yourself, you look around,
+entombed within. The blood holds power that             finding a rocky island no more than a few
+                                                        miles long. The shoreline is dotted with
+the cultists wish to use in their dark rituals.
+                                                        jagged reefs and old shipwrecks. High above,
+The party must delve into the tomb to stop the
+                                                        you hear the shrill calls of circling gulls.
+cultists. However, the tomb is full of traps,
+undead guardians, and restless evils that have
+begun to rise because the cult has let the god’s
+the corrupted blood seep into the earth.
+
+2                                    Liber Obscura 001 – Burial Isle
+                                       Map A: Shipwreck Shore
+
+
+       SHIPWRECK SHORE
+                                                      A2) Drowned Bodies & Crates
+                                                      Two corpses have washed ashore. Read this
+The adventure begins on Shipwreck Shore,              script if a PC approaches the area.
+represented by Map A.
+
+                                                        You find two corpses dressed in rags and
+A1) Shipwreck                                           covered in sand. They must have drowned
+The party wakes up in this area, near a                 and washed ashore.
+tattered shipwreck. A PC may perform an
+Intelligence (Investigation) check to learn
+more.                                                 A PC may perform an Intelligence
+                                                      (Investigation) check to learn more.
+
+ DC       Information Learned
+                                                        DC       Information Learned
+ 5+       The ship is in a very bad condition. It
+          will never sail again.                        10+      The bodies are bloated with signs of
+                                                                 discolored skin. They must have
+                                                                 drowned a few weeks ago.
+ 15+      The wreck looks recent. Only a few
+          barnacles have attached to the hull
+          and there is very little bird guano           15+      Ragged scraps covering the bodies
+          splattered on the deck. It is a few                    appear to be the shredded remains
+          weeks old at most.                                     of woolen robes, the type often worn
+                                                                 by cultists.
+
+
+                                     Liber Obscura 001 – Burial Isle                                    3
+Clues Combined. If the party successfully
+                                                           You find a viscous pool of burgundy liquid
+investigates both the shipwreck and the
+                                                           soaking into the sand.
+drowned bodies with a score of 15 or higher,
+they can put the clues together. In this case,
+read this script.                                        A PC may perform an Intelligence (Arcana)
+                                                         check to learn more.
+
+    Putting two and two together, you realize the
+    journey to the island was no less perilous for         DC       Information Learned
+    these cultists. Their ship must have been
+    destroyed by a storm as they approached in             10+      A slow black current eddies beneath
+    the last few weeks. There are likely more on                    the liquid’s surface. It must have
+    the island. Cultists always travel in groups.                   some magical properties.
+
+                                                           15+      The liquid emits a faint evil energy.
+Supply Crates
+Several crates are strewn about the shore.
+                                                           20+      The liquid is the corrupted blood of
+Most are broken or empty. A PC may spend
+                                                                    an evil god.
+five minutes searching them for supplies. Each
+time they search, they may roll once on the
+following table. After 4 searches, nothing of            The blood is dangerous, but it can be used to
+value will remain.                                       carefully fill a vial and create a vial of necrotic
+                                                         blood*.
+SCAVENGED SUPPLIES
+    d4       Item Discovered                               Necrotic Blood. The pools of blood deal
+                                                           necrotic damage to any creature that touches
+    1        Nothing                                       them.
+
+    2        1 empty vial                                    Difficulty        Necrotic Damage
+
+    3        6d10 sp                                         Beginner          3 (1d6)
+
+    4        1 potion of healing                             Easy              7 (2d6)
+
+                                                             Medium            10 (3d6)
+A3) Pools of God Blood
+Pools of corrupted blood dot the shore. Read                 Hard              14 (4d6)
+this script if a PC approaches one.
+
+
+
+4                                       Liber Obscura 001 – Burial Isle
+A4) Bone Pile                                        A5) Excavation Entrance
+A shield +1 rests on a dense pile of bones. If a     Several sets of footprints in the sand lead to a
+PC approaches this area, read this script.           tunnel entrance made of an old shipwreck.
+                                                     The tunnel is a narrow earthen passageway
+                                                     that descends in a winding fashion down
+ Sheltered from the waves by a rocky outcrop,
+                                                     below ground.
+ you find a dense mound of bleached bones.
+ Atop the bones, untouched by time or tide, a
+                                                     When the party enters the tunnel proceed to
+ polished shield gleams dully, reflecting the
+ dancing light from the cresting waters nearby.      the next section of the adventure.
+
+
+
+Trap! The party can take the shield but if the
+bones are disturbed, undead creatures will
+rise and attack. Read this script and place the
+enemies nearby.
+
+
+ As you disturb the pile of bones, you hear a
+ hollow rattling. Withered undead creatures
+ rise from the ground, turning their sunken
+ eyes toward you. You have only a second to
+ prepare yourself!
+
+
+A4 ENCOUNTER
+ Difficulty              Enemies
+
+ Beginner                2 skeletons
+
+ Easy                    4 skeletons
+
+ Medium                  2 skeletons
+                         2 risen Scythrians*
+
+ Hard                    4 risen Scythrians*
+
+
+
+
+                                    Liber Obscura 001 – Burial Isle                                 5
+      Map B: Floating Cavern
+
+6   Liber Obscura 001 – Burial Isle
+       FLOATING CAVERN
+                                                     B3) Tomb Entrance
+                                                     A stone bridge connects to an archway
+The tunnel descends deep into the earth              blocked by a door carved from a single piece
+before opening to a floating rock formation in       of rock. This is the entrance to the burial
+a large cavern. This room holds the entrance         tomb. As the party approaches, read this
+to the tomb where the cultists have been             script. To open the door, they must solve a
+harvesting the dark god’s blood. However, to         puzzle.
+progress further, the party will have to solve a
+puzzle to open the tomb door.
+                                                       A solid stone door blocks your way forward.
+    The Floating Cavern is represented by Map
+                                                       Three runes are carved into the door in a
+B. Read this script as the party enters.
+                                                       language you cannot read. On the ground
+                                                       nearby is the corpse of a cultist. A rusted
+ You enter the tunnel, following a trail of            sword is stabbed in his back and his robes
+ footprints. The winding passageway descends           are soaked in his own blood. Clutched in the
+ into the earth, reaching deeper and deeper            cultist’s hand is a small parchment note.
+ towards the heart of the island. Half an hour
+ passes before the narrow tunnel suddenly
+ opens to a sprawling cavern.                        Opening the Door
+     Dim rays of sunlight pierce through a           Three large runes are carved into the stone
+ fissure in the ceiling, illuminating a wondrous     door in an ancient language that no one can
+ sight. A large rock formation floats above a        read anymore. The runes must be touched in
+ bottomless chasm. Bathed in the soft glow, a        the order of middle, left, then right. Each rune
+ small ecosystem has taken root atop the rock.       that is touched correctly will begin to glow
+ Verdant mosses, patches of grass, and even a        with a magical blue light.
+ hardy tree stretches its limbs up towards the
+ vaulted cavern ceiling. The gentle rush of a
+ waterfall echoes through the chamber as it
+ cascades into the mist below.
+
+
+B1) Entrance Ledge
+The party enters the cavern here. An old rope
+bridge connects to the floating island. It creaks
+and shakes when PCs cross, but it holds.
+                                                     Wrong Answer. If the wrong rune is touched,
+                                                     all runes stop glowing and the puzzle resets.
+B2) Recent Campsite
+                                                     Review the hidden alcove in area B4. If any
+There is a campfire on the floating rock island.     enemies are there, they might attack.
+The flame has died but the embers are still
+warm. The cult has been here recently.
+                                    Liber Obscura 001 – Burial Isle                                   7
+     Tomb Door & Cultist Note
+
+
+
+
+8   Liber Obscura 001 – Burial Isle
+Right Answer. If all runes are touched in the        Waking the Guardians. Each time someone
+correct order, the door will open. Read this         touches the wrong rune on the tomb entrance
+script. The passage leads to the next area.          door in area B3, a few of the guardians break
+                                                     out of their sarcophagi and attack to prevent
+                                                     the intruder from entering the sacred burial
+ The cavern shudders as the stone door slides
+                                                     tomb. If twelve guardians have been slain, no
+ open, revealing a passage fashioned from
+                                                     more will remain to be awakened.
+ massive stone blocks. A mechanical grinding
+                                                         Sunlight Sensitivities. The top of the rock
+ noise echoes from somewhere within.
+                                                     island around area B2 is lit by direct sunlight
+                                                     while the rest of the cavern is only lit by dim
+Dead Cultist                                         ambient light.
+A dead cultist lies on the ground by the door.
+He touched the runes in the incorrect order,         B4 AWAKENED GUARDIANS
+awakening the undead guardians in the alcove
+area B4. The guardian snuck up on him and              Difficulty             Enemies
+ambushed him while he was focusing on
+figuring out the puzzle again.                         Beginner               1 risen Scythrian*
+    Note. A bloody note in the cultist’s hand
+has a passage written in the same language as          Easy                   1 risen Scythrian*
+on the door with a Common translation. It                                     1 wight
+reads “Soul to Enter, Mirror Soul to Escape
+Death,” a clue to solve the puzzle door. To            Medium                 2 risen Scythrians*
+open the door, the party must press the runes                                 1 wraith
+that make up the word ‘soul’, as the first line
+of the note states. The second line will be            Hard                   2 risen Scythrians*
+useful later.                                                                 2 wraiths
+
+
+B4) Hidden Alcove                                    Opening Tombs. The lids on the twelve
+A hidden staircase descends behind a large           sarcophagi are heavy. To slide a lid off and
+tree at the edge of the floating island. A PC        open a coffin, a PC must succeed on a DC 15
+can locate the staircase by making a DC 15           Strength check. Inside may be found one of
+Wisdom (Perception) check.                           the enemies that can be awoken by incorrectly
+                                                     touching the runes on the door in area B3.
+Tomb Guardians                                       The enemy should immediately wake up and
+The stairs lead to an alcove below the floating      attack.
+island containing twelve stone sarcophagi.
+Each is sealed a slab carved in the likeness of
+warriors in repose and contains one resting
+undead guardian that protects the tomb.
+                                    Liber Obscura 001 – Burial Isle                                 9
+                                                                                             Map C:
+
+
+           BURIED TOMB
+                                                     The Burial Tomb is represented by Map C.
+                                                   Read this script as the party enters.
+Once the party opens the puzzle door they can
+enter the Buried Tomb, an ancient holy site of       As you step into the dark passageway, you are
+the extinct Scythrian culture. The Scythrians        greeted by a gruesome scene. The hallway is
+worshiped dark gods which they entombed              trapped! The tunnel floor is formed by three
+along with their kings and warriors in similar       rows of five-foot square flagstone pairs, one
+sites filled with traps to keep out pilferers.       on the left and one on the right, each marked
+Several cultists have already entered the            with a rune. To cross, the stones force you to
+tomb, though some have died to its traps. The        step either on the right or left side thrice
+cult has been collecting blood from a buried         before reaching the other side safely.
+god, hoping to power their dark rituals.
+
+10                                Liber Obscura 001 – Burial Isle
+Buried Tomb
+
+                                                      five-foot square flagstone pairs, one on the left
+     Of the first two flagstones, only the left
+                                                      and one on the right. Of each pair, one is real
+ remains. Where the right flagstone should
+                                                      and safe to stand on, while the other is false
+ have been is a dead cultist impaled by a
+                                                      and will crumble when weight is applied to it,
+ dozen thick metal skewers that jut
+                                                      dropping anyone on it into a pit trap below.
+ upwards from a deep pit. His blood is still
+                                                          To cross safely, the party must step on the
+ trickling down from his body and dripping
+                                                      safe flagstone in each of the three rows. A
+ to the dusty ground below.
+                                                      cultist who attempted crossing earlier stepped
+                                                      on the first wrong flagstone already, crumbling
+C1 Floor Trap Passage                                 it and falling into the first spike pit. So, the
+                                                      first safe choice is clear.
+A floor trap runs along the entrance of the
+tomb. The passage is made of three rows of
+
+                                     Liber Obscura 001 – Burial Isle                                11
+                                                     Wrong Steps. If a PC steps on the wrong
+                                                     flagstone, it crumbles to dust and the PC falls
+                                                     into a pit filled with metal spikes below, taking
+                                                     piercing damage from being impaled. If this
+                                                     happens, the PC may make a DC 15 Dexterity
+                                                     saving throw to jump five feet in any direction
+                                                     just before the stone fully crumbles,
+
+                                                     SPIKE TRAP DAMAGE
+                                                       Difficulty                Piercing Damage
+
+                                                       Beginner                  5 (1d10)
+
+                                                       Easy                      11 (2d10)
+
+
+Safe Flagstones. Each flagstone is carved              Medium                    16 (3d10)
+with a Scythrian rune. The safe ones can be
+identified as those which spell ‘soul’, but they       Hard                      22 (4d10)
+are organized in reverse (mirrored) order. The
+dead cultist’s note from the doorway puzzle
+                                                     C2) Saw Trap Passage
+hints at this solution stating, ‘mirror soul to
+escape death.’                                       Around a corner is a hallway with a saw trap.
+                                                     The passage is just five feet wide, forcing all
+                                                     who pass to brave the traps. Read this passage
+                                                     when the party approaches the area.
+
+
+                                                       As you delve deeper into the tomb, the
+                                                       mechanical grinding grows louder. Turning
+                                                       a corner, you come to another gruesome
+                                                       scene. Two separate halves of a cultist lie on
+                                                       the ground, his body bisected by a large
+                                                       circular saw blade protruding from the wall.
+                                                       The metal blade clicks and jerks, jammed by
+                                                       shards of bone and viscera.
+                                                           On the ground next to the body, in a pool
+                                                       of blood, is a small wooden chest, a torch
+                                                       that is still burning, and a parchment scroll.
+
+
+12                                  Liber Obscura 001 – Burial Isle
+Saw Trap Mechanics                                     cultist’s gore is clogging its mechanisms. The
+The saw trap consists of two blades. One runs          metal blade visibly sticks out of the wall and
+along the north wall and the other along the           emits a continual mechanical grinding.
+south wall. Both saws are wide enough to slice             Reactivation. Each time the saw trap is
+through the entire passage, so whenever a PC           triggered, roll 1d6. On a 1, the south saw re-
+attempts to cross the hallway, they will be            engages and becomes active. It retreats into
+exposed to the danger of both saws.                    the wall and will be active for all future saw
+                                                       trap triggers.
+SAW TRAP DAMAGE (EACH BLADE)
+                                                       Cultist’s Items
+ Difficulty                Slashing Damage             On the ground next to the dead cultist are
+                                                       three useful items. However, each action a PC
+ Beginner                  3 (1d6)
+                                                       takes in the hallway adds additional time,
+                                                       triggering the saw trap one more time. As a
+ Easy                      7 (2d6)                     free action, a PC can safely pick up a single
+                                                       item while running through the passage.
+ Medium                    10 (3d6)                        Torch. The first item is a torch that has
+                                                       burned for a while with 15 minutes of life
+ Hard                      14 (4d6)                    remaining.
+                                                           Chest. The second item is a small wooden
+                                                       chest containing two potions of healing and
+Triggering the Trap. When a PC passes
+                                                       8d10 sp.
+through the hallway, both saws are triggered,
+                                                           Cultist Note. The third item is a Cultist
+slicing through the length of the hall if they are
+                                                       Note which gives a clue as to what the cultists
+active. A PC may attempt to dodge the blades
+                                                       were doing here.
+by making a DC 10 Dexterity saving throw for
+each active saw.
+
+North Saw (Active). The north blade runs low
+to the ground at knee height. It is working
+properly, so it is always active. The blade is
+retracted into the wall and invisible until the
+trap triggers. But a PC may spot a thin,
+hidden seam running along the wall revealing
+the trap’s presence by making a DC 15
+Wisdom (Perception) check.
+
+South Saw (Jammed). The blade along the
+south wall runs at waist height. It is currently
+jammed and will not active because the
+                                      Liber Obscura 001 – Burial Isle                               13
+C3) Chamber of the God                                  Peering Inside. If a PC successfully
+                                                        approaches the sarcophagus, they may look
+This chamber contains the sarcophagus of the
+                                                        inside the crack. Read this script.
+evil god. Read this script as the party enters.
+
+                                                          Fighting your fear, you approach the
+ In the next chamber you find an enormous
+                                                          sarcophagus and peer into the crack left by
+ sarcophagus towering from the floor to
+                                                          the cultists. Inside, you see an elongated
+ ceiling. It is made from a smooth bronze
+                                                          figure adorned in fine robes. It towers well
+ metal and shaped into curves and ribbed
+                                                          above you, stretching the length of the coffin.
+ sections so uniform that no hands nor tools
+                                                          Four pale arms are folded over its chest. Its
+ of this world could have made such a thing.
+                                                          face is hairless and strange, with pallid skin
+ On the face of the coffin is a carved skull. It is
+                                                          stretched over a bony skull. The god’s
+ alien and strange. The cranium is elongated,
+                                                          otherworldly visage looks both human an
+ and the jaw filled with rows of flat teeth. The
+                                                          inhuman, something from a nightmarish
+ otherworldly design invokes an instinctual
+                                                          reality or perhaps another time and space.
+ fear within you, quickening your heartbreak.
+     You notice a runic inscription carved into
+ the coffin’s pedestal and see that a section of        The Inscription. The puzzle door note does
+ the casing has been chiseled open at the feet,         not contain enough language to translate the
+ about the size of your palm, from which a
+                                                        runes on the sarcophagus pedestal. However,
+ viscous red liquid slowly drips. Several
+                                                        a comprehend languages spell will reveal it
+ pickaxes, hammers, and other tools lie on the
+                                                        say, “Here rests the judge of souls.”
+ floor nearby. The cultists must have been
+ hard at work here.
+                                                        Evil Unleashed
+                                                        Five minutes after the party inspects the
+Inspecting the Sarcophagus                              interior of the sarcophagus, the evil god will
+If a PC attempts to approach within 5 feet of           disappear. Read this script.
+the sarcophagus, read this script.
+                                                          A gust of wind blows past you, originating
+ As you approach the sarcophagus, a primal                from the chamber of the dark god. As it
+ fear suddenly grips you, your mind becomes               passes, you hear a voice in your mind, a
+ clouded and overwhelmed by paranoia.                     whisper in an ancient tongue, some unknown
+                                                          phrase of pure evil that makes your hairs
+                                                          stand on end.
+Primal Fear. The approaching PC must make
+a DC 15 Wisdom saving throw. On a failure,
+they are frightened of the sarcophagus for the          If a PC peers inside the sarcophagus again, a
+next 24 hours. They can move towards it but             horrible truth is revealed, the god is gone!
+cannot approach within 5 feet.                          Read this this script.
+
+
+14                                     Liber Obscura 001 – Burial Isle
+                                                      Roll on the following table for the result. After
+ Peering inside the sarcophagus, you find only
+                                                      4 searches, all future searches result in
+ emptiness. Whatever was once held here has
+                                                      nothing found.
+ disappeared. You are horrified to think that
+ the cultists have unwittingly unleashed some
+ terrible evil upon the world, some calamity far        d4       Search Result
+ worse than their own nefarious plans.
+                                                        1        Enemy! (See following table)
+
+C4) Graves of Warriors                                  2        1d4 baubles worth 10 cp
+This area holds piles of mummified Scythrians
+soldiers. Their bodies are wrapped in strips of         3        1d4 jewelry pieces worth 10 sp
+linen and cloth. They have been laid to rest
+here, but some have begun to rise.                      4        1d4 gems worth 10 gp
+
+Gas Geysers. The room is filled with geysers
+that spew toxic gas into the air, filling the area    If the search results in an enemy, the enemy is
+with poison.                                          determined according to this table.
+
+
+ Poison Gas. The room is filled with poison
+                                                      C4 SEARCH ENEMY RESULT
+ gas geysers. Every 6 seconds, living creatures         Difficulty              Enemies
+ in the room must make a DC 10 Constitution
+ saving throw or take poison damage.                    Beginner                2 skeletons
+
+
+   Difficulty        Poison Damage                      Easy                    1 risen Scythrian*
+
+   Beginner          2 (1d4)                            Medium                  2 risen Scythrians*
+
+   Easy              5 (2d4)                            Hard                    2 risen Scythrians*
+                                                                                1 wight
+   Medium            7 (3d4)
+
+   Hard              10 (4d4)
+                                                      C5) Chamber of Kings
+                                                      This chamber contains ten sarcophagi of
+                                                      Scythrian kings. A watcher statue watches
+Treasures. PCs may search the room for                over the room, a symbolic guardian of the
+treasure, looking for scattered artifacts or          tomb. When the players enter the room, read
+cutting open mummy wraps to check for                 this script.
+valuables. Each search takes a PC 6 seconds.
+                                     Liber Obscura 001 – Burial Isle                                  15
+                                                       Treasures. The PCs may search for treasure
+ This chamber is lined with rows of human-
+                                                       by opening the sarcophagi. Each has a heavy
+ sized sarcophagi, each carved in the likeness
+                                                       lid that require a DC 15 Strength check to
+ of a man wearing a crown. Watching over the
+                                                       open and contains a mummified king adorned
+ coffins is a statue of a woman with six arms
+ and four faces. Its lower body is that of a lion,     with 4d10 gp worth of jewelry and gemstones.
+ but its skin is scaled like a snake or a fish.        The kings do not rise or attack as the guardian
+                                                       watcher statue keeps their spirits still.
+
+
+                                                       Guardian Watcher Statue
+                                                       The watcher statue in the chamber ensures
+                                                       the undisturbed rest of the kings. It holds a
+                                                       powerful magical mirror that calms spirits,
+                                                       destroying any undead in the area. The mirror
+                                                       also radiates a subtle energy that soothes any
+                                                       who stare into its surface for a few seconds.
+                                                       The mirror cannot be removed. Read this
+                                                       script if a PC inspects the statue.
+
+
+                                                         As you inspect the statue, you feel a restful
+                                                         calmness in your spirit. Your eyes are drawn
+                                                         to a large mirror made of polished metal that
+                                                         the statue holds in its hands. You feel
+                                                         yourself pulled gently to look into it.
+
+
+
+                                                         Statue Effects. The watcher statue calms all
+                                                         lesser undead spirits. Any undead creature of
+                                                         CR 5 or lower that comes within 30 feet of it
+                                                         dies immediately.
+
+
+
+                                                         Mirror Effects. If a creature looks directly
+                                                         into the mirror, they become momentarily
+                                                         transfixed by it. The mirror casts the calm
+                                                         emotions spell on only the viewer, with a DC
+                                                         of 15. If the spell is cast successfully, it lasts
+                                                         for one minute.
+
+
+
+16                                    Liber Obscura 001 – Burial Isle
+C6) Small Alcove                                        You come to a large chamber. At the far end,
+A small natural alcove lies along the west wall         weak beams of sunlight trickle in from cracks
+of area C5. The alcove is filled with poison gas        in a shoddy barricade of wooden planks and
+geysers. Use the Poison Gas rule from C4.               loose stones piled along a section of wall
+                                                        marred by gouges and cuts, suggesting the
+Treasures. PCs may search the alcove for                work of pickaxes. There must be a passage to
+treasure, looking for scattered jewelry or              the surface behind it.
+artifacts. Each search takes a PC 6 seconds.                As you enter the chamber, you notice
+Roll on the following table for the result. After       shadows shifting about in the dim light in the
+4 searches, all future searches result in               corner of your eye. Something is here.
+nothing found.
+                                                      C7 ENCOUNTER
+ d4       Search Result
+                                                        Difficulty              Enemies
+ 1        Nothing
+                                                        Beginner                1 risen Scythrian*
+
+ 2        Nothing
+                                                        Easy                    1 blood of chaos*
+
+ 3        Nothing
+                                                        Medium                  2 bloods of chaos*
+
+ 4        1d4 gems worth 50 gp
+                                                        Hard                    1 risen Scythrian*
+                                                                                2 bloods of chaos*
+C7) Chamber of the Guardian
+This is the final chamber of the tomb. The            Destroy the Barricade. At the far end of the
+cultists broke through the opposite wall and          chamber, a barricade of debris covers the
+escaped, after which they boarded up the hole         tomb exit. The barricade has an AC of 15 and
+with whatever piles of loose lumber, stone,           30 hit points. When it is destroyed, a passage
+and other debris they could find, to prevent the      is revealed leading back to the surface.
+undead horrors of the tomb from chasing after
+them.                                                 C8) Tunnel to the Beach
+   Before the party can escape, they must
+                                                      The tunnel behind the barricade escapes the
+contend with some corrupted enemies in this
+                                                      tomb and leads back to the surface.
+room. They can fight or break down the
+barrier at the opposite wall to escape. Read
+this script when they enter the room.
+
+
+
+
+                                     Liber Obscura 001 – Burial Isle                                 17
+               THE END
+                                                    Standard Ending
+                                                    On the beach, several cultists load barrels of
+When the party escapes the tomb, they climb         the god’s blood onto a small ship, preparing to
+through an earthen tunnel back to a sandy           escape the island with their haul. The party
+beach, though it should be on a different side      has arrived just in time to foil their plans. They
+of the island than where they started. On this      can escape the island on the cultist’s own ship.
+new beach, there should be a serviceable boat       Read this script.
+for them to escape on.
+    There are two ending options for this
+                                                      You emerge from the tomb onto a sun-
+adventure, one if you are using the module as
+                                                      drenched shoreline. At the water’s edge
+                  the PoP starting adventure,
+                                                      several cultists are busy loading barrels onto
+                  and the other standard
+                                                      a small ship. It seems you have arrived just in
+                 ending for all other purposes.
+                                                      time to foil their plans.
+
+
+                                                    STANDARD END ENCOUNTER
+                                                      Difficulty                 Enemies
+
+                                                      Beginner                   3 cultists
+
+                                                      Easy                       2 cultists
+                                                                                 2 thugs
+
+                                                      Medium                     3 thugs
+                                                                                  1 cult fanatic
+
+                                                      Hard                       4 thugs
+                                                                                 2 cult fanatics
+
+
+                                                                   PoP Starter Ending
+                                                                   If you are using this module as the
+                                                                   starting adventure for a PoP
+                                                                   campaign, the party has arrived a
+                                                                      moment too late to stop the
+                                                                       cultists. Look at the end of the
+                                                                       module for an alternate ending
+                                                                       and script.
+
+18                                 Liber Obscura 001 – Burial Isle
+                                    MONSTERS & NPCS
+Blood of Chaos                                              Risen Scythrian
+Large monstrosity, chaotic evil                             Medium undead, neutral evil
+Armor Class 16 (natural armor)                              Armor Class 15 (scale mail)
+Hit Points 59 (5d10 + 15)                                   Hit Points 32 (5d8 + 10)
+Speed 30 ft.                                                Speed 30 ft.
+
+ STR      DEX     CON      INT      WIS       CHA             STR     DEX     CON      INT      WIS     CHA
+  14       16      16       4        8          8              16      12      14       10       10      10
+ (+2)     (+3)    (+3)     (-3)     (-1)       (-1)           (+3)    (+1)    (+2)     (+0)     (+0)    (+0)
+
+Damage Immunities acid, poison, necrotic                    Damage Immunities necrotic, poison
+Condition Immunities charmed, exhausted,                    Condition Immunities exhaustion, poisoned
+frightened, paralyzed, poisoned                             Senses darkvision 60 ft., passive Perception 10
+Senses darkvision 60 ft., passive Perception 9              Languages understands the languages it knew
+Languages –                                                 in life but can't speak
+Challenge 3 (700 XP)                                        Challenge 2 (250 XP)
+
+Corrosive Blood. Whenever this creature takes               Undead Fortitude. If damage reduces this
+damage, it explodes in a spray of necrotic blood.           creature to 0 hit points, it must make a
+Every creature within 5 feet must make a DC 15              Constitution saving throw with a DC of 5 + the
+Dexterity saving throw, taking 2 (1d4) necrotic             damage taken, unless the damage is radiant or
+damage on a failure.                                        from a critical hit. On a success, this creature
+                                                            drops to 1 hit point instead.
+Actions:
+                                                            Actions:
+Claw. Melee Weapon Attack: +5 to hit, reach 5
+ft., one target. Hit: 12 (2d8 + 3) slashing                 Multiattack. This creature makes two attacks.
+damage.
+                                                            Shortsword. Melee Weapon Attack: +5 to hit,
+Blood Spray. Ranged Weapon Attack: +5 to hit,               reach 5 ft., one target. Hit: 6 (1d6 + 3) piercing
+range 20/60 ft., one target. Hit: 13 (3d6 + 3)              damage.
+necrotic damage.
+
+
+
+
+                                        Liber Obscura 001 – Burial Isle                                          19
+              ITEMS
+
+
+
+
+20   Liber Obscura 001 – Burial Isle
+                                 PATH OF PENITENCE
+The Path of Penitence system incorporates
+                                                       Starting Adventure
+all your favorite dark fantasy adventures into
+                                                       If you are using this module as the starting
+an immersive and persistent campaign. Check
+                                                       adventure in a PoP campaign, it should be the
+back with Bestiarum regularly to learn more
+                                                       party’s first mission for the Crusade. As an
+and find new rules and options!
+                                                       alternate ending the party will escape the
+                                                       tomb too late to stop the cultists. Read this
+Adventure Location                                     alternate ending script to build a bridge to the
+This scenario might occur off the southern             final starting adventure, Rise of the Jailer.
+coast on the Map of the Empire of Azerai.
+
+                                                         You emerge onto a sun-drenched shore,
+Mission Briefing                                         narrowing in on the cultists. Absent are the
+Read this script as the mission briefing.                familiar shipwrecks, revealing that you are not
+                                                         at your initial landing. Several pairs of prints
+                                                         and a deep gouge run through the sand to
+ Vozruk the Redeemer summons you to his                  the lapping waves of the sea.
+ office, a small yet dignified tent erected in the           On the distant horizon, you spot a vessel
+ Crusade’s military encampment. As you step              steadily retreating from the island's grasp. On
+ inside, the battle-scarred veteran greets you           its deck, a group of hooded figures row
+ with a gruff voice. His keen, hawk-like eyes            laboriously away. One figure tends to several
+ scan you swiftly, evaluating your potential but         sizeable wooden barrels, which you guess
+ keeping any conclusions shrouded within. He             must be filled with the evil god’s blood.
+ unfurls a map, directing your attention to a                Urgently surveying your surroundings,
+ small, nameless island.                                 your eyes alight upon a weathered rowboat—
+     “My scouts have observed cult activity on           a vessel worn and groaning with age, yet still
+ a small island off the Empire’s southern                holding firm. Swiftly, you drag the dilapidated
+ coast. Your mission is to infiltrate the island         craft towards the water's edge, making ready
+ and put an end to whatever devious plot they            to give chase.
+ are hatching. But be warned. Your approach
+ will be difficult. The island is protected by
+ strong currents and frequent storms.”                 Before starting Rise of the Jailer, make sure to
+    As you leave the tent, the weight of the           advance the party to level 2 and allow them a
+ mission hangs over you. You are fully aware           long rest. In the next installment, the party will
+ that the fate of the Empire rests upon your           investigate the cult’s hideout, an abandoned
+ shoulders.                                            church hidden in an isolated wood. They must
+                                                       work quickly to stop the cult from summoning
+                                                       a horrific demon into the world.
+
+                                      Liber Obscura 001 – Burial Isle                                   21
+

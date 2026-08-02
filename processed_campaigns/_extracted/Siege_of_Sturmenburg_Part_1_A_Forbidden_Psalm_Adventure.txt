@@ -1,0 +1,610 @@
+1
+    SIEGE OF STÜRMENBURG
+              part I
+
+
+
+
+        A Forbidden Psalm
+       Compatible Adventure
+
+
+
+
+2
+             THE WORLD OF DOADEN
+
+
+W    elcome to Doaden, the dark fantasy setting of tainted lands and twisted
+     monsters, where an ever-creeping affliction corrodes the very essence of
+                                     existence.
+
+It is a world of decay and depravity where once-righteous men and heroes of
+glorious purpose now struggle to survive as cults and dark gods vie with one
+              another to consume the last vestiges of humanity.
+
+
+
+
+                                                                                3
+                            Credits
+
+    Developed by:
+      Bestiarum Games
+
+    Game Designer:
+      Kevin Rahman
+
+    Graphic Design:
+      Katarina Popovici
+      Alexander Dovermann
+      Marina Jukova
+
+    Cartography:
+      Giovani C. Fiorini
+      Alexander Dovermann
+      Katarina Popovici
+      Marina Jukova
+
+
+
+                                ON THE COVER:
+                                THE CYROX
+
+                                “
+                                  Cyrox are huge, hideously malformed
+                                beasts with a single eye at the center of
+                                their forehead, leaving them with little to
+                                no peripheral vision.
+                                   These dumb, almost brainless creatures
+                                are coralled into war and used as siege
+                                weapons by the beastmen armies who keep
+                                them under chains and leashes, provoking
+                                and inciting their rage. An enraged Cyrox
+                                makes little distinction in battle between
+                                friend or foe and will stomp its way over
+                                anything that crosses its path.
+                                                                       .”
+4
+                                                         Contents
+
+CREDITS............................................................4            SCENARIO 3:
+CONTENTS.......................................................5               BLOOD AND FLAME...........................14
+FOREWORD .....................................................6                  GOAL.......................................................15
+    THE NORTH.............................................6
+                                                                                 REWARD.................................................15
+        THR BEASTMEN....................................6
+                                                                                 SETUP AND TREASURE ....................15
+        HISTORY OF STÜRMENBURG .......... 6
+                                                                                 DEPLOYMENT......................................15
+ADVENTURE SUMMARY:
+                                                                                THREATS................................................15
+Siege Of StÜrmenburg ...............................7                            SOLO PLAY ...........................................15
+       STÜRMENBURG......................................7
+                                                                                 RPG TEXT BOX ....................................15
+        MISSION...................................................7
+                                                                                 MAP 3.......................................................16
+      SCENARIO 1: AMBUSH.........................8
+                                                                         EPILOGUE......................................................17
+        GOAL.........................................................8   SIEGE OF STÜRMENBURG, PART II.........17
+        REWARD...................................................8       MONSTERS.....................................................18
+                                                                             CAPRA SCOUTS......................................19
+        SETUP AND TREASURE ......................8
+                                                                                 CAPRA HUNTERS................................20
+        DEPLOYMENT........................................8
+                                                                                 CAPRA RAIDERS .................................21
+        THREATS..................................................8
+                                                                                AUROX REAVERS ...............................22
+        SOLO PLAY.............................................. 8
+                                                                                 CYROX....................................................23
+        RPG TEXT BOX ......................................9
+        MAP 1.......................................................10
+      SCENARIO 2: EIR BE DAMMED...... 11
+        GOAL........................................................12
+        REWARD.................................................12
+        SETUP AND TREASURE ....................12
+        THE EXPLOSIVES ...............................12
+        DEPLOYMENT......................................12
+        THREATS................................................12
+        SOLO PLAY ...........................................12
+        RPG TEXT BOX ....................................12
+        MAP 2.......................................................13
+
+
+
+
+                                                                                                                                                  5
+                                                   Foreword
+
+                                                            THE BEASTMEN
+        In Forbidden Psalm Adventure you                       Beastmen hail from the north. Historically,
+        will find:
+                                                            they warred with the barbarian tribes, but often
+                                                            spilled into the south to pillage and raid. Though
+        • Three scenarios created for the monsters          the wars of old quieted down to small skirmishes
+        from Bestiarum Miniatures;                          and opportunistic raids for many generations, they
+        • Rules for monsters.                               have recently become militaristic once again.
+
+
+        These scenarios should be played in order.
+        You will need a copy of the Forbidden               HISTORY OF STÜRMENBURG
+        Psalm Core Book to play:
+                                                                The fortress city of Stürmenburg is located
+        https://www.forbiddenpsalm.com/forbidden-psalm      along the northern frontier of the Empire, thus
+                                                            it suffers the constant barbarian and beastmen
+                                                            attack from the north. Though the defenders share
+        These scenarios should be played in                 much history and culture with the northmen, they
+        solo or coop only.                                  have remained loyal to the Empire after being
+                                                            conquered during its expansionary years.
+                                                               As a fortress city subjected to constant war,
+                                                            most townsfolk have received extensive military
+                                                            training. The city has a large supply of well-
+                                                            trained militia in addition to its city guard, which
+                                                            acts as a standing army.
+                                                                Stürmenburg’s most distinctive features are
+    THE NORTH                                               its three massive walls that form rings around the
+                                                            city, towering some 15 to 20 meters into the air.
+       The North is a sparsely populated region             They grow progressively taller, rising from the
+    historically inhabited by nomadic tribes.               outermost wall to the innermost one. The walls
+        The people are animistic, believing in nature       were constructed thousands of years ago from
+    spirits that are contrary to the beliefs of the         monolithic slabs of stone carved from the nearby
+    Church of Azerai. However, their warriors are           mountains. It is unclear how the massive stones
+    fierce, and the region is too craggy and cold to        were cut or transported.
+    grow much crop or livestock.
+                                                              The walls, from outer to inner, are named Wall
+       A military campaign of the magnitude needed          Träz, Wall Sten, and Wall Stahl, so named in
+    to conquer the north would be costly, arduous,          Gaurric for wood, stone, and steel, respectively.
+    and offer little return. For these reasons, the North   These names represent the most important
+    maintains independence from the Empire, the             materials used to construct the city’s defenses,
+    Church finding little benefit in extending its reach
+                                                            which the people have relied on for countless
+    into such inhospitable lands.
+                                                            generations.
+
+
+
+
+6
+                             FP A dventure S ummary :
+                                Siege of Stürmenburg
+
+L
+        ightning rips apart the sky as thunderous      Stürmenburg
+        booms drown out the clash of steel upon
+        steel.                                            Sürmenburg is a war-torn fortress city
+                                                       protected by three powerful ringed walls.
+           The night rings loud with the roars of
+enraged warriors and the guttural moans dying             The great walls of Stürmenburg have stood
+men as their lifeblood soaks into the wet earth.       for countless generations, its hardened human
+The darkened sky cries, flooding the cobbled city      defenders clawing every day for survival against
+with sheets of cold rain and sleet.                    the relentless hordes of demons, men, and beasts,
+                                                       shielding the southern regions from invasion.
+  Yet the night burns bright with the flames of
+war, as the Horn of Odr echoes into the black.            Yet something has changed. In response to
+                                                       a distressing letter sent by Stürmenburg’s city
+   Unsheathe your sword, tighten your armor, and       guard, the rangers have dispatched their most
+brace yourselves, adventurers. For the night will      capable soldiers and allies to defend the city
+be drowned in death.                                   against a growing Beastmen swarm.
+
+
+Mission
+   You will need to survive the ambush in
+scenario 1 and make it to the city where you will
+take part in the vital defence of the city itself.
+
+   To buy the city time you will need to restore
+the water to the city, by destroying the dam the
+Beastmen have built.
+
+    Finally, will take part in the desperate defence
+of the city against gigantic odds.
+
+
+
+
+                                                                                                           7
+                              Scenario 1: Ambush
+
+
+    F
+             or the past several days, you have been      Goal
+             riding north through the Black Forest,
+             pressing on through the thick clusters       Survive the Ambush.
+             of pine and oak as you follow the worn       Reward
+             cobblestone road.
+                                                          You did not die!
+       You have been straining your horses, pushing
+    them onto the fortress city of Stürmenburg.
+    Considering your pace, you should be within an
+                                                          Setup and Treasure
+    hour of Stürmenburg’s outer wall.
+                                                          On a board 8 inches by 8 inches set up a campfire
+        You must reach the city quickly to aid its
+                                                          in a forest as shown in Map 1.
+    defenders. You have been dispatched by the
+    ranger Vozruk the Storm Crow after he received a      Sitting next to the campfire is the body of a
+    letter from the captain of the guard, Arne.           member of the Penitent Crusade. This can be
+                                                          searched three times. When searching a model
+       Arne’s letter was disturbing, detailing the
+                                                          makes a search action and rolls on the following
+    escalating assaults of beastmen hordes on the city,
+                                                          table:
+    and the portents of much darker tidings to come.
+       As you mull over the words of Arne’s letter,
+                                                          1. Broken sword [1d6][Strength]
+    you glimpse a small fire ahead. You pull on the       2. Full plate armor [grants 4 armor]
+    reins of your horse, bringing it to a halt. Ahead,
+    down a short hill on the side of the road, you spy    3. Torch
+    a weak campfire. A man clad in armor sits in front    4. Random spell scroll
+    of the dying flame, his back to you, propped up
+    against a thick log.
+       Above, ominous clouds have begun to roil,          Deployment
+    blanketing out the dying afternoon sun and
+                                                              All the warband models that are participating
+    leaving the forest in shadow.
+                                                          in this scenario should be placed in the blue area
+                                                          of Map1.
+
+
+                                                          Threats
+                                                          In the red area place 2 Capra Scouts and
+                                                          1 Reaver.
+                                                          On each round in this area spawn another
+                                                          Capra Scout.
+
+                                                          Solo Play
+                                                          Only place 1 Capra Scout to start.
+                                                          The Scenario ends at the end of round 8.
+
+8
+RPG Text Box
+When the party arrive read:
+
+      The ambush is sprung as you reach for the
+  corpse of the Crusader.
+      You hear the yelps and cries of the Beastmen
+  as they take you by surprise.
+      Ready your blades they mean to take your
+  life, so take theirs instead.
+
+
+
+
+                                                     9
+     MAP 1
+
+
+
+
+10
+                                      Scenario 2:
+                                     Eir be Dammed
+
+
+ H
+             aving survived the ambush you                The Beastmen have clearly been industrial,
+             made it to the city. You are soon        tirelessly chopping down the logs and piling
+             introduced to Captain Arne who           them into a stable dam, even going so far as to
+             has held the cities defences together    build walls along the riverbed to stabilize the
+             against each attack. Offering to help,   construction.
+             Arne asks you to undertake a vital
+mission to return the fresh water to the besieged        Along the riverbed, you spy a series of
+city.                                                 campfires and Capra patrols, though they do
+                                                      not seem to be paying much attention. Across
+   Heading out into the wilds you locate the dam.     a makeshift bridge, you see a wooden ladder
+You come to a clearing in the woods upriver,          descending down into the exposed riverbed, the
+finding the drying riverbed completely blocked by     perfect location to deploy your explosives.
+piles and piles of felled trees.
+
+
+
+
+                                                                                                        11
+     Goal                                                 Solo Play
+     Take the explosives to the dam and set them off.     Huts only contain Capra Hunters on a roll of 5+
+     Reward
+     100 gold for each warband taking part in the           The Scenario ends when the river explodes
+     scenario.                                            and all warband members make it back to A1.
+
+
+     Setup and Treasure                                     RPG Text Box
+        On a board 44 inches by 30 inches set up a          When the party arrive read:
+     river as shown in Map 2.
+        Each Warband can select one member at the              You see the river blocked in its path, pushing
+     start of the scenario, and they are carrying the       against a makeshift dam. The beastmen have
+     explosives.                                            been busy indeed.
+        Each hut on the map can be searched for a              You must clear it if the city is to get the vital
+     random piece of treasure as per looting rules.         drinking water it needs to survive the sieges it
+                                                            faces.
+        The Ladder [A3] can be climbed as an action.
+        Models within 1 inch of A4 can place
+     explosives as an action.
+
+
+     The Explosives
+        They have a random fuse of 2D4. This is how
+     many rounds it takes for them to explode, models
+     within 3 inches take 1D10 damage.
+         They explode at the end of the round indicated
+     by the roll of the dice. Models in the riverbed
+     when the explosives go off must make an Agility
+     test.
+        On a failure they are washed away and never
+     seen again.
+
+
+     Deployment
+     All warband members should be
+     placed around A1.
+
+
+     Threats
+        In each A2 place 1 Capra Scout and 1 Aurox
+     Reaver. When a warband member gets within 2
+     inches of a hut roll a D6 on result of 3+ the hut
+     contains a Capra Hunter who will at the start of
+     the monster phase that they are spawned leave the
+     hut and attack.
+12
+MAP 2
+
+
+
+
+        13
+                                       Scenario 3:
+                                     Blood and Flame
+
+
+     M
+                 aking your way back to
+                 Stürmenburg, you notice a thick
+                 column of black smoke rising from
+                 the Northern Woods Gate, from
+                 which you departed. You rush
+     forward, a feeling of dread washing over
+     you.
+         As you draw closer, you find the night
+     air full of the screams of common folk and
+     split with the metallic clangs of weapons.
+     Above the din, you hear the horrendous
+     braying laughter of the Capra hordes.
+        The Horns of Odr sounds loud and
+     deep, vibrating the air around you and
+     shaking the very trees of the forest with its
+     deep, powerful tremors. It can only mean
+     one thing; the wall is lost.
+        As you sprint to the wall, you see Captain
+     Arne a top the ramparts, surrounded by the
+     obliterated corpses of his men.
+        A crazed look has washed over his face. He
+     stands alone before a gargantuan horned beast, a
+     horribly misshapen bull-man hybrid the size of a
+     mountain. The titanic thing dwarfs even the wall,
+     having to stoop down to look at the captain.
+       Arne yells, thrusting his sword into the
+     monster’s face and cleaving a scarlet gash through
+     one of its eyes.
+         It shrieks a horrific bleating cry as it grabs
+     Arne, crushing the captain in his heavy plate
+     armour as easily as a straw doll. In a swift motion,
+     it brings Arne’s limp torso to its gaping, jagged
+     maw, tearing him apart and swallowing him.
+
+
+
+
+14
+Goal
+                                                      The Scenario ends when the Cyrox dies.
+Kill the Cyrox and the beastmen with him.
+
+
+Reward                                                RPG Text Box
+10xp for the party that kills the Cyrox.
+                                                      When the party kills the beast read:
+
+
+
+
+                                                            As the beast falls, you look around at
+                                                         the burning city. The streets are flooded
+                                                         with countless silhouettes of beastmen.
+                                                         The sounds of fighting and screams echo
+                                                         throughout every corridor.
+                                                            You hear a roar from the right. As you
+Setup and Treasure                                       turn, you see another Cyrox charging
+    On a board 30 inches by 25 inches set up a           towards you, barreling through a nearby
+wall and farm area as show in Map 3. In A2 a             alley.
+family is stuck in the grain barn. You can free             As you draw your weapons, tired and
+ them by standing within 1 inch of the door of           weary, dreading the inevitable, you hear
+ the grain barn and passing a strength test to open      a ferocious human roar and see a hulking
+  the door. They reward the warband member that          figure launch itself from a nearby rooftop
+   frees them a random weapon.                           just as the building collapses into flaming
+                                                         shambles.
+   Deployment                                               Hamarhelm flies through the air,
+                                                         bringing his enormous iron hammer down
+       All warband members should be placed
+                                                         on the Cyclopean beast’s head mid-air. The
+       around A1
+                                                         monster’s skull shutters, exploding into
+                                                         a thousand fragments as its pink brain is
+      Threats                                            instantly pulverized into a soupy mush.
+      In each A3 place the Cyrox and on each                The beast collapses with Hamarhelm
+       odd round at the start of the monster phase       holding onto its ear, riding it down to the
+        from A1 2 Capra Raiders appear.                  ground and calmly stepping down from its
+                                                         now-concave forehead after it crashes into
+                                                         the ground.
+       Solo Play
+                                                            “Träz is lost! Fall back to wall Sten!”
+Only the Cyrox is present.
+
+
+
+
+                                                                                                       15
+     MAP 3
+
+
+
+
+16
+                                           Epilogue
+
+
+ T
+        he outer district, the entirety of          SIEGE OF STÜRMENBURG
+        Träz, has fallen. The beastmen have
+        completely overrun the city and the         PART II
+        once-calm streets are burning to ashes.
+        Thousands have died, and thousands             This adventure is the first of two parts. In the
+more shall follow before the end of the night.      next installment, the adventure continues the
+   Yet hope is not lost. Many people remain         harrowing siege of Stürmenburg.
+trapped in that area, and pockets of defenders
+fight on in the mayhem. If not for the efforts of     The party must fall back to the inner walls,
+the party, far more would have perished already,      attempting to save as many civilians as
+and far more will perish by the end of the            possible along the way.
+night.
+   Though a bittersweet ending, there                                     Once united with the
+is much work yet to be done, and much                                      survivors, they will plan
+revenge yet to be had.                                                     their counteroffensive,
+                                                                          striking back at the heart of
+                                                                         the beastmen hordes.
+
+
+
+
+                                                                                                          17
+                                         Monsters
+
+     All monsters in Forbidden Psalm: The Tainted Lands of Doaden treat other monsters as friendly.
+
+
+
+
+18
+                             CAPRA SCOUTS
+
+HP: 8
+
+Morale: 9
+
+Handaxe: 1D4
+
+Armor: 1
+
+
+
+
+Special:
+
+After successfully hitting a model the Scout
+disengages from combat and moves 1D6 away.
+
+
+
+
+                                               19
+                                  CAPRA HUNTERS
+
+     HP: 9
+
+     Morale: 9
+
+     Dagger: 1D4 / Bow: 1D6
+
+     Armor: 1
+
+
+
+     Special:
+
+      Hunters do not move towards
+     models instead standing back and
+     using their bows.
+     If they are within 12 inches they do not
+     move and attack with their bow as a
+     ranged attack.
+     If they are over 12 inches, they move
+     1D6 towards a model and then attack
+     once they are within 12 inches.
+
+
+
+
+20
+                           CAPRA RAIDERS
+
+HP: 10
+
+Morale: 10 (See Special)
+
+
+
+
+Special:
+
+ When you deploy a Raider roll a D6.
+On a 1-3 they have Handaxe 1D6 and
+Armor 2.
+On a 4-6 they have A two Handaxes 1D6
+and Armor 0.
+However, models armed with 2 axes deal
+an extra 2 damage on a hit.
+
+
+
+
+                                           21
+                               AUROX REAVERS
+
+     HP: 14
+
+     Morale: 11
+
+     Greataxe: 1D10
+
+     Armor: 2
+
+
+
+     Special:
+
+      If Reaver moves before
+     attacking its damage is
+     increased to 2D6.
+
+
+
+
+22
+                   CYROX
+
+HP: 50
+
+Morale: -
+
+Stomp: 3D8
+
+Armor: 2
+
+
+
+Special:
+
+Cyrox always
+attacks the last
+model to attack
+it if it can.
+
+
+
+
+                           23
+24
+25
+26
+27
+28
+29
+

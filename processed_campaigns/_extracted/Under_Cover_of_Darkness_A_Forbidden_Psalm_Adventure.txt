@@ -1,0 +1,243 @@
+1
+                                    Adventure Summary:
+
+                    Under Cover of Darkness
+   High Lord Azriel is the named protector of the Holy Empire, the ultimate commander of the Penitent
+Crusade, and the supreme leader of all standing armies in the realm. He is a mighty warrior, pouncing
+from the skies on his armored sphinx and obliterating foes with his great warhammer. Yet he is also a
+brilliant strategist, politician, and logistician, a master of war in all respects.
+   Azriel’s great force lays siege in the north to the heavily fortified city of Stürmenburg. War has not
+begun, but for the next several months Azriel prepares to surround the great walled city, making a show
+of force while undertaking intense negotiations that will likely determine the future of the Holy Empire in
+the region; whether war can be prevented or whether it is a certainty is yet to be seen.
+   Though the war has not yet begun, a general must not be complacent, for a second war is waged in
+the shadows long before any armed conflict begins. This is a war of spies and assassins, subterfuge and
+stealth, political intrigue, hidden blades, poisoned goblets, and the coup d’état.
+
+
+    The warbands must infiltrate Azriel’s military encampment. Using a combination of stealth, trickery,
+guile, and strength, they must make it to the heart of the camp and back out again with a precious item.
+If they are not careful, the entire camp may be alerted, and they will have to retreat with haste, driving a
+machine of steel and wheels to outrun their pursuers.
+
+
+
+
+                                                      2
+                                         Forbidden Psalm:
+
+                       The Tainted Lands of Doaden
+Intro page
+   Welcome to Doaden, the dark fantasy setting of tainted lands and twisted monsters, where an ev-
+er-creeping affliction corrodes the very essence of existence. It is a world of decay and depravity where
+once- righteous men and heroes of glorious purpose now struggle to survive as cults and dark gods vie
+with one another to consume the last vestiges of humanity.
+   In Forbidden Psalm: The Tainted lands of Doaden you will find
+• Three scenarios created for the fantastic monsters from Bestiarum miniatures.
+• Rules for monsters
+These scenarios should be played in order.
+You will need a copy of the Forbidden Psalm Core Book to play.
+   The North is a sparsely populated region historically inhabited by nomadic tribes. The people are an-
+imistic, believing in nature spirits that are contrary to the beliefs of the Church of Azerai. However, their
+warriors are fierce, and the region is too craggy and cold to grow much crop or livestock.
+    A military campaign of the magnitude needed to conquer the north would be costly, arduous, and offer
+little return. For these reasons, the North maintains independence from the Empire, the Church finding
+little benefit in extending its reach into such inhospitable lands.
+
+
+
+
+                     These scenarios should be played in solo or coop only.
+
+                                                      3
+4
+                                            SCENARIO 1:
+
+
+                        Infiltrating The Camp
+  You have been sent to retrieve The Standard from the encampment, try not to get caught and if you do
+maybe don’t tell them who sent you.
+
+
+   Goal
+   Sneak in and steal the Standard.
+
+
+   Reward
+   If you manage to get to the Standard and sneak it away without being caught you gain 10xp for the
+party. If you get it and get away but alert the guards gain 5xp.
+
+
+   Setup and Treasure
+   The board should be setup as shown in map 1. It is 44inches by 40 inches. Models can leave the table
+via any board edge.
+   A1= North Gate. Can be climbed over with a successful agility test. 1x Bastion and 2x Husks should
+be placed inside the gate.
+   A2 = Stone Passage, where warbands should be placed
+   A3 = Northside Barracks, 6 tents should be placed here, they can be searched as per treasure rules.
+1x Bastion, 2x Husk, and 1x Quickblade should be placed within 1 inch of the tents
+  A4 = Commander’s Tent contains 2 chests that can be searched as per treasure rules. 1x Husk and 1x
+Knight Redeemer should be placed within 1 inch of the tent.
+   A5 = Camp Checkpoint, walls here can be climbed with a successful agility test. 2 x Bastions guard
+the doorway.
+   A6 = Southside Barracks, Five tents form a corridor on the south side of the camp, these can be
+searched as per treasure rules. 1x Bastion, 1x Husk and 1x Quickblade patrol near these tents.
+   A7 = Fallen Tree An enormous fallen tree has crashed into the camp, destroying a section of the wall,
+3x Husks guard the gate way
+   A8 = Standard Yard, The Standard the party is looking for is set near the camp’s main path, besides an
+enormous red tent. 2x Husks patrol this area.
+  The standard can be removed by a model within 1 inch that makes a presence test. On a failure all ene-
+my models are alerted and begin to move towards the standard yard at the start of their next activation.
+   A9 = Horse Pen, nothing of note here.
+   A10 = South Gate Can be climbed over with a successful agility test. 1x Bastion and 2x Husks should
+be placed inside the gate.
+   o = oil barrels that can be attacked. If they take 3 damage, they explode. They draw attention of guards
+within 12 inches. Guards as an action move towards exploded barrels at the start of their next activation.
+Any model with 3 inches of a barrel when it explodes takes 3 damage that ignores armor.
+
+                                                     5
+   B = Braziers that start unignited, a model within 1 inch as an action can light the brazier. Any guard
+within 12 inches will turn to face the brazier when it is alighted at the start of their next activation.
+
+
+   Enemies
+   All Enemies have 180 vision and when deployed their front arc should be noted. If a model ever moves
+within 3 inches of an enemy in their front arc they are spotted, and the enemies become hostile to them.
+  Any enemies within 12 inches of a combat make a Presence test. On a pass they move towards the
+combat as per monster movement rules at the start of their next activation.
+  Models moving within 3 inches of an enemy within their back arc must make an agility test to pass
+unheard. If they fail the enemy turns to face them.
+   All Hostiles currently not activated by spotting a warband member move 1d6 spaces in a random di-
+rection, avoiding terrain when activated.
+   Warband members can approach an enemy from behind by first passing an agility test. On a pass they
+can sneak up to them and make a single attack. If the attack is a success they knock the enemy out and the
+enemy is placed face down.
+   If an enemy model walks within 3 inches of a dead or downed enemy model they sound the alarm and
+the enemy model’s awareness range increases from 3 inches to 6 inches.
+
+
+   Solo Play
+   As Above
+
+
+   The Scenario ends when the warbands leave the table with the standard.
+
+
+
+
+                                                     6
+                                            SCENARIO 2:
+
+                                              Escape
+             ( only play this scenario if any enemies were alerted in scenario 1.)
+
+
+   Even though the alarms were set off, you somehow managed to escape from the encampment and reach
+the safety of the Armored Transport waiting for you.
+   Yet, as you board the vehicle, the ground begins to tremble at the sight of crusaders mounted on black
+armored steeds coming in your direction. The Husks ignite the vehicle engines as it burst through the
+shaded woods. But the cavalry won’t give up so easily, staying hot on the transport’s heels alongside a
+sudden, massive shadow of a flying lion-like creature that surges above the trees and descends on you.
+
+
+   Goal
+   Escape
+
+
+   Reward
+   Warbands that escape earn 10 gold
+
+
+   Setup and Treasure
+   The map should be represented by a long road as in Map B.
+   Using the rules for the bonus scenario in the core book {living life quarter a mile at a time} you are
+trying to flee from enemy cavalry. {These rules are reproduced here for your ease of use}
+  Place the wagon at the start of the road. To escape you must either kill all enemies chasing you or
+make it 20 inches away from all enemies.
+   Warbands all should be placed in the 1 wagon.
+
+
+   Threats
+    1x High Lord Azriel and 2x Repentor Cavalry per warband in the wagon are chasing the wagon. They
+move a flat 12 inches a round and focus their attacks on the wagon. However, they will attack back any
+model within 1 inch of them if attacked. If the wagon ever drops to 0HP the scenario is lost and all war-
+band members are caught and are placed in the horse pens in scenario 1. You can then replay scenario 1 as
+a prison escape. With warbands deployed in the horse pen with no equipment. Their equipment is placed
+in the Commander’s Tent and they must escape via a board edge. Enemies can attack the wagon when
+within 2 inches.
+
+
+
+
+                                                     7
+8
+9
+10
+11
+                                     Monsters
+
+ All monsters in Forbidden Psalm: The Tainted Lands of Doaden treat other monsters as friendly.
+
+
+HUSKS
+ HP: 10
+ Morale: -
+ Spear 1D6
+ Armor:1
+ Special: Immune to morale
+
+
+BASTION
+ HP: 13
+ Morale: -
+ Spear 1D6
+ Armor:2
+ Special: Ignore critical hits.
+
+
+QUICKBLADE
+ HP: 15
+ Morale: -
+ Dagger 1D4
+ Armor:1
+ Special: When attacking makes 2 attacks that are only opposed by 1 attack.
+ Roll 2d20 and apply both results.
+
+
+REPENTOR CAVALRY
+ HP: 25
+ Morale: -
+ Greatsword 1D10
+ Armor: 2
+ Special: Can move over other models, if they do they deal 1D10 damage to that model
+
+
+
+                                                12
+KNIGHT REDEEMER
+ HP: 22
+ Morale:12
+ Great sword 1D12
+ Armor: 2
+ Special: All other monsters within 12 inches of Knight deal an extra 3 damage on attacks.
+
+
+HIGH KORD AZRIEL
+ HP: 35
+ Morale:-
+ Warhammer 1D12x2
+ Armor: 2
+ Special: Blinding light.
+ All models within 3 inches must make presence test in order to attack High Lord Azriel.
+
+
+
+
+                                                 13
+14
+15
+16
+17
+18
+19
+

@@ -1,0 +1,815 @@
+         SUNKEN TEMPLE
+                     Level Scaling
+                        5 – 16
+
+
+Explore the sunken temple and fight the abyssal horrors
+     below the waves in this easy-to-run adventure
+
+
+
+                                             Liber Obscura 013
+  “The path to redemption is a treacherous journey walked alone, each step
+              resonating with the sorrow of a thousand sins."
+
+
+
+
+                                    CREDITS
+Writer/Designer: Alexander H. Dovermann   Produced by: Bestiarum Games
+          his module can be run as a one-shot           Adventure Hooks
+          or as part of a persistent dark fantasy
+                                                        Use one of these hooks to begin the adventure
+
+T         campaign using Bestiarum’s Path of
+          Penitence (PoP) system. Creatures
+          and items marked with an asterisk (*)
+          are new. Their information can be
+                                                        or write your own. A good hook will give the
+                                                        party a reason to explore the sunken temple.
+                                                        • Treasure Hunt. An officer of the maritime
+                                                            guild approaches the party, showing them
+found at the end of the adventure.
+                                                            an intricate map of the sunken temple. The
+                                                            map highlights a specific chamber deep
+Tier II. This adventure scales in difficulty
+                                                            within, believed to contain an artifact of
+based on your party’s Average Party Level
+                                                            incredible value that can control the tides.
+(APL). Use the following table to determine
+                                                            The maritime guild offers a handsome
+the appropriate difficulty for your party. If your
+                                                            reward for any adventurer brave enough to
+party finds the scenario too easy or hard, you
+                                                            retrieve it, hoping to establish safer
+can shift difficulties, even mid adventure!
+                                                            passages for their ships in the region.
+                                                        • The Fisher’s Tale. In the small coastal
+ADVENTURE DIFFICULTY                                        town, a seasoned fisherman tells of seeing
+ Difficulty                 APL                             eerie apparitions beneath the water's
+ Medium                     5–7                             surface during his voyages. Recently,
+                                                            strange aquatic creatures have started
+ Hard                       8 – 10
+                                                            emerging from the depths, attacking boats,
+ Nightmare                  11 – 13                         and dragging sailors down into the abyss.
+ Torment                    14 – 16                         The fisherman believes these events are
+                                                            linked to the sunken temple, and he
+                                                            beseeches adventurers to investigate and
+Adventure Introduction                                      rid the sea of this threat.
+Beneath the churning waves of the sea lies an           • Stumbled Upon. As the party travels
+ancient temple, unseen by human eyes. Its                   along the coast, they witness an awe-
+dark corridors and sunken chambers hold                     inspiring spectacle: the vast coastal waters
+secrets of eons long past, and horrors that                 begin to recede unnaturally, revealing
+have lurked undisturbed for centuries. Once in              miles of barren coral reefs. Locals tell of a
+every several years, an enormous maelstrom                  once-in-a-generation event, the opening of
+drains the coastal waters from a seaside gulf,              an ancient temple, whispered to be filled
+leaving miles of stinking fish stranded on the              with unfathomable treasures and dark
+barren coral reefs and revealing the algae-                 secrets. The phenomenon combined with
+covered entrance to the temple. Rumors speak                the allure of discovery, compels the party
+of the abominable aquatic horrors that guard                to delve into the sunken temple, driven by
+its inner chambers, yet also of great treasure              curiosity and the thrill of uncovering long-
+hidden within.                                              lost mysteries.
+
+
+2                                     Liber Obscura 013 – Sunken Temple
+Path of Penitence. If you are running a PoP
+campaign, any of the suggested hooks may be
+used for the adventure. The Penitent Crusade
+                                                             SUNKEN TEMPLE
+                                                    The sunken temple stands as a testament to a
+may assign this mission, or the party may be        bygone era, meticulously carved from a
+following leads of their own volition.              strange greenish-blue stone. Every inch of its
+    Location. The adventure can take place in       surface is adorned with intricate carvings of
+any region of the Empire of Azerai, but we          humanoid fish-folk, their amphibious forms
+suggest that you place it in any of the coastal     displaying grotesque webbed appendages and
+areas of the western, southern, or eastern          large saucer-like eyes. The passageways are
+diocese.                                            slick with dampness and filled with patches of
+                                                    wet seaweed and the stench of fish. Though
+Starting the Adventure                              now exposed to open air, it's evident that this
+This adventure starts as the party arrives at       temple has only recently submerged from
+the sunken temple. However, you can start           beneath the waves.
+earlier to incorporate the adventure hook and
+build the narrative. To begin the adventure         Levels. The sunken temple sprawls across
+read this script.                                   three distinct levels. Level A is a surface level
+                                                    pagoda-entrance. Descending under the
+                                                    surface, Level B is a maze of small chambers
+ The scent of salt fills the air, accompanied by
+                                                    and narrow passageways. Descending further
+ the pungent odor of decaying fish. Piles of
+                                                    still, Level C is the deepest chamber, housing
+ their scaly, bloated bodies lie flopping across
+                                                    a pool that opens to the watery depths below.
+ a mile-long stretch of mucky floor, flickering
+ in the light of the moon. An incredible sight
+                                                    Descending Shafts. Between Levels A, B, and
+ swirls on the horizon – an enormous
+ maelstrom churning across the night sky, its       C are descending shafts: sheer vertical drops
+ raw power drawing the tides away from the          carved directly into the stone, twenty feet by
+ gulf. Barren coral reefs, normally hidden deep     twenty feet wide. Their stark design is a
+ beneath the waves, now sprawl out in vast,         reminder that these corridors were not
+ intricate networks, their jagged formations        fashioned by humans but made for the unique
+ snaring the corpses of marine life that            anatomy of the fish-folk who once inhabited
+ couldn’t evacuate the receding waters.             this place and could swim up and down with
+     As you pick your way through the maze of       ease while the temple chambers were flooded.
+ sharp rock and slick seaweed, you come to a        The party will have to find their own way to
+ small pagoda made of strange bluish-green          safely traverse these shafts. The stone walls of
+ stone, half-buried in the sand. Tangled webs       the tunnels are smooth and slick, making
+ of seaweed hang like a curtain from its dark       climbing difficult. For every 10 feet a creature
+ entrance and the steady drip of dank water         climbs unaided, it must succeed on a DC 15
+ echoes from within.                                Strength (Athletics) check or fall to the
+                                                    bottom of the shaft.
+
+                                  Liber Obscura 013 – Sunken Temple                                 3
+4   Liber Obscura 013 – Sunken Temple
+Fish-Folk Runes. Within the temple are
+                                                     sends shivers down your spine. Dominating
+writings made by the fish-folk. Their runes are
+                                                     the center of the pagoda is a dark shaft,
+difficult to discern and the records of their
+                                                     descending into the stygian depths below.
+language so scarce that very few have been
+exposed to it. No PC would be able to read
+them naturally. However, if they might get          Descending Shaft. In the center of the pagoda
+clever and use magic to decipher the language       room is one of the descending shafts, leading
+and learn more about the written passages.          from Level A to Level B.
+
+                                                    History Check. A DC 25 Intelligence
+1) Risen Pagoda
+                                                    (History) check reveals the figures in the
+The pagoda is stranded above on the recently
+                                                    murals are representations of the N’gorroth, a
+exposed beach. It is built from the distinctive
+                                                    collective of ancient amphibious races which
+greenish-blue stone evident throughout the
+                                                    predate mankind by millennia. Records about
+temple's depths. Inside, frescoes of the fish-
+                                                    these mysterious beings are sparse and most
+folk, with their bizarrely webbed features and
+                                                    scholars dismiss them as myths or elaborate
+pronounced saucer-like eyes, decorate the
+                                                    hoaxes, or at best fabrications of overactive
+walls. These murals are not merely artistic
+                                                    imaginations. Only a scant few eye-witness
+depictions but serve as sacred scriptures and
+                                                    accounts persist, often documented by
+historical accounts of a forgotten past. As the
+                                                    individuals who, after recounting their
+party enters the pagoda, read this script.
+                                                    experiences, were later deemed mad or
+                                                    delusional.
+ The air is cool as you step into the pagoda,
+ the scent of algae and damp stone filling your
+ nostrils. Before you, the walls seem alive with
+                                                    2) Maze Chamber
+ carvings of eerie fish-folk with grotesque,        Below the risen pagoda is the temple’s
+ webbed appendages, and large saucer-like           sprawling central chamber, a domed room
+ eyes, their strange forms dancing in the           reminiscent of an octopus's bulbous head with
+ shadows. To your left, one mural displays          tunnels branching off in all directions like
+ fish-priests garbed in flowing robes, each         outstretched tentacles. These pathways twist
+ holding crescent-shaped scepters pointed           and turn like a maze and are filled with deadly
+ reverently to a luminous full moon overhead.       traps and creatures. As the party enters this
+     To your right, another fresco unfolds, this    room, read this script.
+ one even more haunting. Here, the fish-folk
+ are prostrate, venerating immense marine
+                                                     You emerge from the descending shaft into a
+ behemoths, their bodies a tangle of tentacles
+                                                     domed chamber, its walls bearing the same
+ and mishappen limbs. The sheer detail in
+                                                     distinctive carvings of fish-folk, their stories
+ each creature hints at a world so alien, it
+                                                     continuing in silent narration. The room feels
+                                                     both sacred and haunting, the echoes of
+
+                                  Liber Obscura 013 – Sunken Temple                                     5
+                                           Fish-Folk Head Mural
+
+
+    forgotten chants seeming to linger in the very    Tide Wall Puzzle
+                                                      One of the chamber walls displays a mural of
+    stones. Branching off from this main area are
+                                                      fish-folk faces carved with a lifelike precision.
+    seven distinct tunnels, their passageways
+    dark and foreboding.                              The wall is a secret path which can be opened
+       Along the walls, you see a mural of            by solving a riddle contained on a second
+    sneering fish-folk faces; their expressions       mural nearby. This riddle wall depicts a
+    frozen in time. Nearby, another wall draws        radiant sun positioned at the upper left, with
+    your attention, where a carving of a large sun    the planet Doaden at the bottom right.
+    hangs in the air next to your own celestial       Suspended directly above the planet is a
+    home, Doaden, with its moon in orbit. Four        moon, and arranged about the planet are four
+    square-shaped cavities frame the planet,          square holes, set directly above, below, to the
+    making you feel as through something is           right, and to the left.
+    meant to be within them.
+
+
+
+
+6                                   Liber Obscura 013 – Sunken Temple
+                                                                        Puzzle Solution. The cubes
+                                                                        must be placed with the high
+                                                                        tides positioned vertically
+                                                                        above and below the planet
+                                                                        and the low tides positioned
+                                                                        horizontally to the right and
+                                                                        left. The answer to this
+                                                                        riddle is based on the way
+                                                                        the moon pulls on the
+                                                                        planet’s water as it orbits,
+                                                                        causing high tides at the
+                                                                        point closest and furthest to
+                                                                        it, and low tides in the
+                                                                        remaining areas as the
+                                                                        water is drawn away.
+
+
+
+
+                Tide Wall Puzzle
+
+Tide Cubes. The indents in the wall are meant
+to fit tide cubes – two representing high tide
+(displaying three waves) and two representing
+low tide (displaying one wave). The missing
+cubes are hidden away in the various
+branching tunnels connected to the chamber.
+The party must retrieve them before they can
+solve the puzzle. Each tide cube is 1 cubic foot
+in size and weighs 150 pounds.
+
+
+
+
+                                                                       Puzzle Solution
+       Tide Cubes: High Tide / Low Tide
+
+                                   Liber Obscura 013 – Sunken Temple                               7
+Puzzle Hints. If the party is stumped by the
+                                                      As the cubes slot into place, a low rumbling
+puzzle, they may perform an Intelligence
+                                                      reverberates through the chamber. A section
+(Investigation) or Intelligence (Nature) check
+                                                      of the fish-folk head mural recedes, revealing
+to learn additional hints. You can use the
+                                                      a shadowy passageway beyond. Before you
+following Puzzle Hint table to generate these         can react, the wall emits an ominous grinding
+hints. The party learns all the information they      noise and the lifelike mouths of the fish-folk
+roll high enough for on the table, but you can        creak open. From each maw, water starts
+always give them fewer or additional hints as         gushing forth, cold and briny, pooling to the
+needed. The hints require the party to have           floor and flooding into the various tunnel
+seen a tide cube already.                             paths. Realization dawns on you that the
+                                                      temple is beginning its journey to return to
+PUZZLE HINT (INVESTIGATION/NATURE)                    the depths from whence it came.
+
+    Score   Information Deduced
+                                                     2a) Tunnel Branch 1
+    15+     The carved stone block seems to          This first tunnel opens to a small chamber. At
+            depict the level of the tide.            the center of the room is a High Tide Cube
+                                                     but taking it won't be easy. The room has
+    20+     The planet’s tides are controlled by     become a breeding ground for
+            the moon, the sun should not have        leechworms, deadly, parasitic blood-
+            any effect on the waters.                feeders. The walls are covered in their
+                                                     pulsating pink egg sacks, and swarms of
+    25+     Where the moon is closest and            them have spawned, now gathering
+            furthest from the planet, the tides      around the cube in writhing masses.
+            will be high. In the remaining areas,
+            the tides will be low.
+
+
+Completing the Puzzle. When the four cubes
+are placed correctly, a section of the fish-folk
+head mural will retreat into the wall, revealing
+a hidden eighth tunnel, Area 2i. The mouths of
+the fish heads will begin spouting water, filling
+up the temple and returning it to the depths of
+the sea. However, it will take some time for
+the temple to fully submerge, giving the party
+some time to finish their exploration. Read
+this script when the party successfully
+completes the puzzle.
+
+
+8                                  Liber Obscura 013 – Sunken Temple
+AREA 2A ENCOUNTER                               2b) Tunnel Branch 2
+Difficulty   Enemies                            This chamber contains a Low Tide Cube. The
+Medium       3 leechworm swarm*                 walls are carved with elaborate frescoes,
+                                                showcasing the legends and prophecies of the
+Hard         3 leechworm swarms*and 1
+                                                fish-folk. The scenes are divided into three
+             wormhost*
+                                                distinct yet connected frames, portraying their
+Nightmare 4 leechworm swarms*and 2              beliefs about the past, present, and future. At
+          wormhosts*                            the room's center, a stone pedestal holds the
+Torment      5 leechworm swarms* and 2          tide cube and below, an enigmatic inscription
+             wormhosts*                         is carved into the floor using the strange
+                                                runes, is etched below the cube's pedestal.
+                                                When the party enters, read this script.
+
+
+                                                 The walls of this chamber are covered in
+                                                 elaborate frescoes stretching around the
+                                                 entire room, merging into one another with
+                                                 no clear beginning or end. The first section
+                                                 portrays underwater scenes brimming with
+                                                 life; whales, sharks, fish, and other marine
+                                                 animals swimming in vast hordes through
+                                                 the waters. Fish-folk gather in the deep waters
+                                                 with their hands raised in prayer, revering
+                                                 strange marine behemoths that circle in the
+                                                 abyss below, twisted forms with countless
+                                                 tentacles and grotesque, scaled bodies.
+                                                     The next mural depicts land masses
+                                                 emerging from the waters and small
+                                                 creatures crawling forward to inhabit the dry
+                                                 areas. Bipedal, ape-like mammals begin to
+                                                 stand and walk among the primitive forms of
+                                                 life, building structures and towers of stone.
+                                                 The third and final depiction paints a dire
+                                                 prophecy. The lands are swallowed by
+                                                 turbulent waves, a great tide that swallows all.
+                                                 Mountains, forest, and all living things are
+                                                 consumed, swallowed once again by the
+                                                 restless seas.
+                                                     As your gaze lowers to the chamber's
+
+
+                              Liber Obscura 013 – Sunken Temple                                     9
+                                                     Scattered throughout the chamber are
+ center, you see a stone pedestal with the
+                                                     decaying cadavers in various states of
+ square cube with a wave-shaped line etched
+                                                     putrefaction, their bloated bodies covered in
+ across it. Eerie runes are carved into the floor
+                                                     patches of barnacles and algae. But the real
+ beneath the pedestal, shaped in smooth,
+ spiraling lines. The runes are odd, drawn with      horror of the room isn't immediately
+ bent and twisted patterns and unearthly             noticeable. As the party enters, the soggy
+ geometries. The shapes are disturbing to look       remains start to twitch and writhe, gradually
+ at, the product of some alien mind too              pulling themselves upright, preparing to attack
+ strange to comprehend.                              and defend the cube.
+
+                                                     AREA 2C ENCOUNTER
+N’gorroth Runes. If deciphered, the runes
+beneath the pedestal read a chilling prophecy,        Difficulty   Enemies
+“The world shall be consumed by the depths            Medium       1 sunken cadaver* and 1 sunken
+once more.” How many times this cycle of life                      priest*
+and death, and the swallowing of the world            Hard         5 sunken cadavers* and 1
+have happened, cannot be known.                                    sunken priest*
+                                                      Nightmare 5 sunken cadavers* and 2
+2c) Tunnel Branch 3                                             sunken priests*
+In the center of this room, elevated on a small,      Torment      8 sunken cadavers* and 2
+stone pedestal is a High Tide Cube. Upon                           sunken priests*
+entering this chamber, a pungent stench of
+decay fills the air, making it hard to breathe.
+
+
+
+
+10                                 Liber Obscura 013 – Sunken Temple
+2d) Tunnel Branch 4                                 surface, there is a faint glimmer, hinting at an
+                                                    object submerged below. If a creature reaches
+Dominating the center of this room is an
+                                                    into the pool, they may fish around and find a
+ornate black chest adorned with carvings of
+                                                    cylindrical metal object, about the size of a
+crustaceans eating dead mammalian
+                                                    forearm. However, the moment they grip the
+carcasses. The chest is locked but may be
+                                                    case, a slimy tentacle coils around their arm,
+opened by passing a DC 15 Dexterity (Sleight
+                                                    pulling into the pool and dealing continuous
+of Hand) check using thieves’ tools. Inside of
+                                                    damage.
+the chest is 10d100 gp and 1d4 gems worth
+                                                        The Tentacle. The tentacle is a magical
+250 gp each. If the chest is destroyed, any
+                                                    spell and cannot take any damage. A creature
+gems within will be smashed into smaller
+                                                    held by the tentacle must succeed on a DC 20
+pieces and only worth 100 gp each.
+                                                    Strength saving throw or be held in place by
+   Curse. A powerful magical curse has been
+                                                    the tentacle, unable to withdraw their arm. At
+cast on the chest, which activates if it is
+                                                    the start of each of the ensnared character's
+touched by a living creature. Once activated,
+                                                    turns, they take piercing damage as the
+the chest can cast the chill touch spell, scaling
+                                                    tentacle tightens its grip, its spines digging
+with the difficulty of the adventure. The chest
+                                                    into the skin. On their turn, the ensnared
+has 20 AC and 15 hit points. If the chest is
+                                                    character can attempt a new saving throw to
+destroyed, its magic dispelled, or its curse
+                                                    break free. Alternatively, letting go of the scroll
+removed, it loses its ability to cast the spell.
+                                                    case causes the tentacle to release them.
+Inside of the chest. The curse on the chest
+                                                        The Treasure. The cylindrical object is a
+counts as a level 3 spell.
+                                                    golden spell scroll casing. The case itself is
+                                                    worth 150 gp. Inside the case is a perfectly
+CURSED CHEST CHILL TOUCH LEVEL
+                                                    preserved spell scroll containing the spell
+ Difficulty    Spell Level                          water breathing. The scroll has not been
+ Medium        Level 1 (1d8 necrotic damage)        damaged by the water due to the airtight seal
+ Hard          Level 5 (2d8 necrotic damage)        of the case.
+
+ Nightmare     Level 11 (3d8 necrotic damage)
+                                                    TENTACLE DAMAGE
+ Torment       Level 17 (4d8 necrotic damage)
+                                                     Difficulty       Piercing Damage
+                                                     Medium           1d8
+2e) Tunnel Branch 5
+                                                     Hard             2d8
+At the center of this room is a circular pool
+filled with inky-black water. The pool is only       Nightmare        3d8
+about two feet in diameter, making it just wide      Torment          4d8
+enough for someone to reach into, but its
+depth is inscrutable as the darkness of the
+water obscures what lies beneath. On the
+
+
+                                  Liber Obscura 013 – Sunken Temple                                 11
+2f) Tunnel Branch 6
+This chamber contains a Low Tide Cube, but           AREA 2F ENCOUNTER
+an eldritch nightmare has claimed this section        Difficulty   Enemies
+of the temple as its lair. The retrieve the cube,     Medium       1 zhathogga*
+the party must face this fearsome creature. As
+                                                      Hard         1 leechworm swarm* and 1
+the party walks through the tunnel, strange
+                                                                   zhathogga*
+chittering sounds can be heard echoing from
+deeper within. The zhathogga waits in the             Nightmare 5 leechworm swarms* and 1
+dark, ready to ambush its prey. To begin the                    zhathogga*
+encounter, read this script.                          Torment      2 leechworm swarms* and 2
+                                                                   zhathoggas*
+ The passage gradually widens into a vast,
+ dark chamber. As you enter, your feet crunch
+ on a carpet of small bone fragments and
+ discarded crustacean shells. A sinister silence
+ pervades, broken intermittently by that eerie
+ chittering noise. At the center of the room is a
+ stone cube sitting on a raised platform. But
+ as you contemplate your next move, you hear
+ a deafening screech. A massive form bursts
+ forth from a crevice to one side of the
+ chamber, a nightmarish thing with multiple
+ eyes glittering green in the shadows, and
+ hundreds of sharp legs clattering across the
+ ground with terrifying speed. Its chitinous
+ body reflects what little light there is,
+ revealing a monstrous, elongated form,
+ hungry and ready to attack.
+
+
+Combat. The zhathogga attacks with a
+mix of direct aggression and cunning
+strategy. It retreats into the cavernous
+crack in the chamber's side when
+overwhelmed, only to burrow around
+and burst through a new section of
+wall to strike at susceptible targets
+with renewed fury. It is a predator,
+and the party is its prey.
+
+12                                 Liber Obscura 013 – Sunken Temple
+2g) Tunnel Branch 7                                  to the statue, the statue casts bless on them.
+                                                     Like the curses, the effects of the spell ignore
+This chamber, dimly lit by luminescent algae
+                                                     concentration and range rules and last for 24
+on the ceiling, is eerily silent save for the
+                                                     hours.
+dripping of water. At its heart stands a large
+statue of a fish-folk priest with scales that
+seem to shimmer and move in the faint light.         2h) Tunnel Branch 8
+Its eyes, large and menacing, are made from          The last tunnel leads to a chamber with the
+black obsidian, and in its outstretched hand, it     next descending shaft, dropping down to Level
+carries a golden crescent-moon scepter in one        C, where the party will find the temple's most
+hand and a large emerald in the other which          perilous danger. The water spouting from the
+glows with a mesmerizing inner light. At the         fish-face mural will be flowing down this
+feet of the statue is a shallow bowl-shaped          tunnel and dropping through the shaft to the
+receptacle littered with gold coins, and other       lower level, placing some impetus on the party
+treasures – offerings made by those who have         to act quickly. However, they should have
+come before. Upon closer inspection, there are       enough time for a short rest if they need it as
+inscriptions in the fish folk language etched        the dangers lurking below will challenge them
+onto the base of the statue, which cannot be         greatly.
+understood by reading alone. However, it can
+be deciphered with the use of certain magical
+                                                     3) Flooded Chamber
+spells or abilities. The inscription reads,
+                                                     Situated at the very base of the temple, is a
+“From depths untold, a heart was bound. Take
+                                                     chamber with a pool opening to the depths of
+from the tides and curses shall bestow. Give
+                                                     the sea. The pool is a gateway; a threshold to
+tribute true, and blessings then abound.”
+                                                     the vast abyssal depths below, where the fish-
+   Treasures. The treasures in the bowl are
+                                                     folk once worshipped the entities below the
+worth a combined total of 500 gp. The golden
+                                                     waves. When the party descends, an ancient
+scepter is worth 250 gp and can be removed
+                                                     evil that has dwelt there for eons will emerge
+with a DC 15 Strength check, and the large
+                                                     from the waters to attack. The enemy faced
+emerald is worth 1,000 gp and can be
+                                                     changes depending on the adventure difficulty.
+removed with a DC 20 Strength check.
+                                                        Lost Treasure. If you are using the
+   Cursed Statue. If any of the treasure in the
+                                                     Treasure Hunt adventure prompt, you might
+bowl is taken from the statue, it casts bane on
+                                                     build the narrative by describing a faint glint of
+the taker. If the emerald or scepter is taken, it
+                                                     a strange idol below the water’s surface. As
+casts bestow curse upon the taker. The
+                                                     the party dives to retrieve the artifact, the
+statue’s DC is 15 and it can cast any number
+                                                     creature strikes.
+of spells, ignoring any rules for concentration
+and range. Instead, the effects of the spells last
+for 24 hours or the magical curse is removed.
+   Blessed Statue. If a character places any
+amount of treasure in the bowl as an offering
+                                  Liber Obscura 013 – Sunken Temple                                 13
+                                     Map: Flooded Chamber
+AREA 2F ENCOUNTER                                 LOOT TABLE
+ Difficulty   Enemies                              4d10        Item Discovered
+ Medium       1 zhathogga*                         30+         Bowl of Commanding Water
+ Hard         1 avatar of the sunken god*
+                                                               Elementals (rare)
+                                                   1 – 29      nothing
+ Nightmare 1 sunken priest* and 1 avatar of
+           the sunken god*
+                                                  Submerging Temple. When the party
+ Torment      4 leechworm swarms*, 1 sunken
+                                                  successfully completed the Tide Wall Puzzle,
+              priest*, and 1 avatar of the
+                                                  the fish-folk heads on the mural began to
+              sunken god*
+                                                  spout forth gushes of water and flood the
+                                                  temple, an ominous event reminiscent of the
+Loot. If the party wins the encounter, they may
+                                                  prophetic frescoes in area 2b. Soon, all the
+roll 4d10. Based on the cumulative roll score,
+                                                  chambers and tunnels of the temple will be
+they find the following item. Add a bonus to
+                                                  inundated and returned to the icy depths of
+the cumulative roll score depending on the
+                                                  the sea. You can use this mechanic to strike
+adventure difficulty level.
+                                                  urgency into the party’s actions.
+
+14                              Liber Obscura 013 – Sunken Temple
+   After the room encounter begins, the
+                                                    Flooding Mechanic. At the end of each
+flooding should take effect. As the water in the
+                                                    round (or every 6 seconds) after the
+temple rises, the party’s mobility will be
+                                                    encounter begins, the water level in the
+reduced, and they will be forced to confront
+                                                    temple rises by 5 feet. Creatures remain in
+enemies at a disadvantage, especially if they
+                                                    place and will need to move to resurface if the
+are forced into narrow passageways like the
+                                                    water rises above them. Each of the temple’s
+descending shafts, where they will have             levels count as being 30 feet high. On the
+limited ability to position themselves and may      flooded chamber map, the lowest area of wet
+be picked off more easily by their enemies.         stone will be covered after the first round,
+Also, the risk of drowning and death rises, and     leaving only a ring of dry ground around the
+the party may be forced to leave their              edge of the room. By the end of the second
+companions behind if they cannot keep up            round, the entire floor will be covered with
+with the rising flood or use magic to survive       water. By the end of the sixth round, the
+the deluge.                                         entire room will be flooded, and the party will
+                                                    be forced into the descending shaft above.
+                                                    The water will continue to rise this way until
+                                                    the entire temple is flooded.
+
+
+
+
+                                 Liber Obscura 013 – Sunken Temple                                15
+                                                    challenges set. Yet, in every ending, the
+Ending the Adventure
+                                                    temple's mystique persists, a haunting
+As the temple is consumed by rising waters
+                                                    memory of an illusive species and a final
+the party will have no choice but to make their
+                                                    prophetic warning of the future of the world.
+desperate escape. This strange place will be
+left behind to drown in the icy waters, echoing
+its tales of a bygone era and the clues to the
+mysterious fish-folk civilization that
+constructed it long ago. It will be many years
+before the waters recede and another
+expedition can be made.
+     If you used the Treasure Hunt prompt, the
+recovery of the idol was the party’s main
+objective, and hopefully they managed to
+recover it and escape with their lives. The idol
+can take any shape and does not have to have
+the ability to control the tides as the mariner’s
+guild hopes. Perhaps it bears a curse or other
+strange magical properties instead. However,
+if it does what it was purported to do, its
+retrieval can forever change the outlook of
+maritime navigation in the region.
+     If you used the Fisher's Tale prompt, the
+party’s focus was on extermination. The
+neutralization of the lurking entity becomes a
+testament to their courage, ensuring the safety
+of the seas for sailors and merchants alike.
+Having rid the waters of the menacing
+creatures, they'd be celebrated as saviors of
+the coastline, their names becoming the stuff
+of legends.
+     If you were using the Stumbled Upon
+prompt, the aim shifts to exploration and
+discovery. Perhaps what they learned and saw
+in this place would be of value to regional
+scholars and academics, who have struggled
+for decades to find any concrete proof of the
+existence of the N’gorroth.
+     If you used your own adventure hook, the
+temple experience should mirror the
+16                                Liber Obscura 013 – Sunken Temple
+                                       MONSTERS & NPCS
+                                                           Tentacle. Melee Weapon Attack: +11 to hit, reach 20 ft.,
+Avatar of the Sunken God                                   one target. Hit: 13 (2d6 + 6) bludgeoning damage, and
+Gargantuan aberration, chaotic evil                        the target is grappled (escape DC 18). Until the grapple
+                                                           ends, the target is restrained by that tentacle. The Avatar
+Armor Class 18 (natural armor)
+                                                           has an endless number of tentacles and may use
+Hit Points 309 (16d20 +96)
+                                                           multiple tentacles on the same target. Each tentacle has
+Speed 20 ft., swim 60 ft.
+                                                           the same AC as the Avatar but has only 15 hit points and
+  STR      DEX      CON       INT      WIS      CHA        may be targeted by single-target attacks and abilities.
+   22       14       22        18       18       20        The Avatar is dealt all damage that its tentacles take.
+  (+6)     (+2)     (+6)      (+4)     (+4)     (+5)
+                                                           Legendary Actions
+Saving Throws Str +11, Con +11, Wis +9
+Skills Perception +9                                       The Avatar can take 3 legendary actions, choosing from
+Damage Resistances bludgeoning, piercing, and              the options below. Only one legendary action option can
+  slashing from nonmagical weapons                         be used at a time and only at the end of another
+Damage Immunities poison                                   creature's turn. The Avatar regains spent legendary
+Condition Immunities charmed, poisoned                     actions at the start of its turn.
+Senses truesight 120 ft., passive Perception 19
+Languages understands Deep Speech but doesn’t speak        Tentacle Attack. The Avatar makes one tentacle attack.
+Challenge 16 (15,000 XP)                                   Infernal Gaze (Recharge 5-6). The Avatar targets one
+                                                             creature it can see within 60 feet of it. The target takes
+Legendary Resistance (3/Day). If the Avatar of the           22 (4d10) psychic damage and must make a DC 18
+Sunken God fails a saving throw, it can choose to            Wisdom saving throw, becoming stunned until the
+succeed instead.                                             end of its next turn on a failed save.
+                                                           Invoke the Depths (Costs 3 Actions). A dark, swirling
+Actions                                                      vortex forms in a body of water in a 15-foot radius,
+                                                             within 60 feet of the Avatar. Each creature in that area
+Multiattack. The Avatar of the Sunken God makes two          must make a DC 18 Strength saving throw, taking 21
+attacks: one with its bite and one with its tentacles.       (6d6) cold damage and being pulled 10 feet toward
+                                                             the Avatar on a failed save, or half as much damage on
+Bite. Melee Weapon Attack: +11 to hit, reach 10 ft., one     a successful one.
+target. Hit: 22 (3d10 + 6) piercing damage.
+
+
+
+
+                                         Liber Obscura 013 – Sunken Temple                                                17
+ Leechworm Swarm                                            Sunken Cadaver
+ Medium swarm of Tiny beasts, unaligned                     Medium undead, neutral evil
+ Armor Class 12                                             Armor Class 12 (natural armor)
+ Hit Points 45 (10d8)                                       Hit Points 32 (5d8 +10)
+ Speed 20 ft., swim 40 ft.                                  Speed 20 ft., swim 30 ft.
+
+     STR    DEX     CON       INT      WIS      CHA           STR      DEX     CON       INT      WIS      CHA
+      14     14      10        2        6         2            14       8       14         2       6        4
+     (+2)   (+2)    (+0)      (-5)     (-2)     (-4)          (+2)     (-1)    (+2)      (-4)     (-2)     (-3)
+
+ Damage Resistances bludgeoning, piercing, slashing         Damage Resistances cold, poison
+ Condition Immunities charmed, frightened,                  Senses darkvision 60 ft., passive Perception 8
+   grappled, paralyzed, petrified, prone, restrained,       Languages understands Abyssal but can’t speak
+   stunned                                                  Challenge 1/2 (100 XP)
+ Senses blindsight 30 ft., passive Perception 8
+ Languages –                                                Undead Fortitude. If damage reduces the Sunken
+ Challenge 2 (450 XP)                                       Cadaver to 0 hit points, it must make a Constitution
+                                                            saving throw with a DC of 5 + the damage taken,
+ Swarm. The swarm can occupy another creature's             unless the damage is radiant or from a critical hit. On
+ space and vice versa, and the swarm can move               a success, the Sunken Cadaver drops to 1 hit point
+ through any opening large enough for a Tiny beast.         instead.
+ The swarm can't regain hit points or gain temporary
+ hit points.                                                Actions
+ Feeding Frenzy. The Leechworm swarm                        Multiattack. The cadaver makes 2 attacks.
+ automatically grapples any creature in its space. Any
+ creature that starts its turn within the swarm's space     Claw. Melee Weapon Attack: +4 to hit, reach 5 ft., one
+                                                            target. Hit: 7 (1d10 + 2) slashing damage.
+ must succeed on a DC 13 Constitution saving throw
+ or take 7 (2d6) acid damage.
+
+ Actions
+ Bite. Melee Weapon Attack: +4 to hit, reach 5 ft., one
+ target. Hit: 10 (4d4) piercing damage, or 5 (2d4)
+ piercing damage if the swarm has half of its hit points
+ or fewer.
+
+
+
+
+18                                      Liber Obscura 013 – Sunken Temple
+Sunken Priest                                                Wormhost
+Large undead, neutral evil                                   Large undead, neutral evil
+Armor Class 16 (natural armor)                               Armor Class 14 (natural armor)
+Hit Points 66 (7d10 +28)                                     Hit Points 119 (14d10 +42)
+Speed 25 ft., swim 40 ft.                                    Speed 20 ft.
+
+  STR       DEX      CON       INT     WIS       CHA           STR       DEX      CON       INT       WIS      CHA
+   10        12       18        12      14        16            14        8        16         2         2       4
+  (+0)      (+1)     (+4)      (+1)    (+2)      (+3)          (+2)      (-1)     (+3)      (-4)      (-4)     (-3)
+
+Saving Throws Int +4, Wis +5, Cha +6                         Damage Resistances cold, poison
+Skills Arcana +4                                             Senses darkvision 60 ft., passive Perception 6
+Damage Resistances cold, poison; bludgeoning,                Languages understands Abyssal but can’t speak
+  piercing, and slashing from nonmagical attacks             Challenge 4 (1,100 XP)
+Senses darkvision 60 ft., passive Perception 13
+Languages Abyssal                                            Parasitic Burst. When the Wormhost drops to 0 hit
+Challenge 6 (2,300 XP)                                       points, roll 1d6. On a 1 or a 2, it bursts, releasing 1
+                                                             leechworm swarm from its corpse.
+Spellcasting. The Sunken Priest is a 9th-level
+spellcaster. Its spellcasting ability is Wisdom (spell       Leechworm Ejection (Recharge 3-6). As a bonus
+save DC 13, +5 to hit with spell attacks). The Sunken        action, the Wormhost forcefully ejects 1d4 clusters of
+Priest has the following sorcerer spells prepared:           leechworm eggs from its body. The clusters land
+                                                             anywhere 5 to 25 feet away from the Wormhost,
+Cantrips (at will): chill touch, mage hand, ray of frost     sticking to whatever surface they touch. The egg
+1st level (4 slots): fog cloud, hold person                  clusters have 10 hit points and 10 AC. After 2rounds
+2nd level (3 slots): blur, misty step                        of combat or 12 seconds, any surviving egg clusters
+3rd level (3 slots): animate dead, dispel magic              hatch into a leechworm swarm.
+4th level (3 slots): black tentacles, control water,
+  private sanctum                                            Actions
+5th level (1 slot): cone of cold
+                                                             Slam. Melee Weapon Attack: +4 to hit, reach 5 ft., one
+                                                             target. Hit: 11 (2d8 + 2) bludgeoning damage.
+Water Shield. As a bonus action, the Sunken Priest
+forms a shield of condensed water a target creature
+within 30 feet, blocking the next 10 damage dealt to it.
+If the priest creates a shield while a shield already
+exists, the earlier shield is destroyed.
+
+Actions
+Tentacle. Melee Weapon Attack: +3 to hit, reach 10
+ft., one target. Hit: 7 (2d6) bludgeoning damage.
+
+
+
+
+                                         Liber Obscura 013 – Sunken Temple                                             19
+ Zhathogga
+ Huge monstrosity, chaotic evil
+ Armor Class 17 (natural armor)
+ Hit Points 178 (17d12 +68)
+ Speed 50 ft., burrow 50 ft., climb 50 ft., swim 50 ft.
+
+     STR    DEX      CON       INT       WIS      CHA
+      20     18       18        6         14        8
+     (+5)   (+4)     (+4)      (-2)      (+2)      (-1)
+
+ Saving Throws Dex +8, Con +8
+ Skills Perception +6, Stealth +8
+ Senses darkvision 120 ft., passive Perception 16
+ Languages –
+ Challenge 11 (7,200 XP)
+
+ Predator. When the Zhathogga hits a surprised
+ creature, its attacks deal an additional 10 (3d6)
+ damage of their normal type.
+
+ Multi-Legged. The Zhathogga has advantage on
+ saving throws against being knocked prone.
+
+ Eldritch Gaze (Recharge 6). As a bonus action, the
+ Zhathogga targets one creature it can see within 20
+ feet of it. The target must succeed on a DC 16
+ Wisdom saving throw or be paralyzed with fear for 1
+ minute. The target can repeat the saving throw at the
+ end of each of its turns, ending the effect on itself on
+ a success. If the target's saving throw is successful or
+ the effect ends for it, the target is immune to the
+ Zhathogga's Eldritch Gaze for the next 24 hours.
+
+ Actions
+ Multiattack. The Zhathogga makes two claw attacks
+ and one bite attack.
+
+ Claw. Melee Weapon Attack: +9 to hit, reach 10 ft.,
+ one target. Hit: 12 (2d6 + 5) slashing damage.
+
+ Bite. Melee Weapon Attack: +9 to hit, reach 5 ft., one
+ target. Hit: 18 (3d8 + 5) piercing damage.
+
+ Burrow Ambush (Recharge 5-6). The Zhathogga
+ burrows into the ground, becoming hidden. This does
+ not trigger any attacks of opportunity. On its next
+ turn, it can emerge from a different location within its
+ burrowing range, gaining a surprise round on any
+ targets that fail to detect it.
+
+
+
+20                                        Liber Obscura 013 – Sunken Temple
+

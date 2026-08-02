@@ -1,0 +1,4 @@
+# Luthien Veynar
+
+ 
+Once a rising star in the city of Vaelthar, born to a human scholar and elven minstrel.  From a young age Luthien was drawn to words, not just the pretty verses or ballads, but the power they held.  Luthien's gift for storytelling made him a favorite at the temples of the Church of the Radiant Flame, where he was paid to compose hymns and plays glorifying the faith.  As the years past, he saw the hypocrisy of the High Bishops, their gold plated robes, their divine decrees that favored the powerful, their hard punishments for those too poor.  So he began to slip little jokes into his performances.  Clever rewrites of sacred plays.  At first the crowds laughed.  They started to think.  Soon his satire became hard enough to draw blood.  Calling into question the Churches Authority, their wars and there so called miracles. 

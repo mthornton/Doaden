@@ -1,0 +1,3 @@
+# JonLief
+
+My character was born into a noble clan but fell in love with a young woman who was not acceptable to his family.  They married in secret and she bore him a son.  When the leader of the clan discovered this, he ordered that his wife and son were to be banished and that he was challenged to a duel to the death.  His foe was the sworn enemy of his family and, after a mighty battle, his foe surrendered.  Instead of killing him as the leader ordered, he spared his life.  This enraged the clan leader who ordered him imprisoned and sent his warriors out to find his wife and son and kill them.  This knowledge haunts my character and he will do anything to find them and protect them. 

@@ -1,0 +1,7 @@
+# Cult of Saraswati
+
+A small cult of believers in the old god Saraswati.  They only number in the dozens.  Most members could be classified as starving artists.  But a few are wealthy patrons of the arts.  Secretive out of necessity.  If the Church knew of a person worshiping Saraswati they would likely be convicted of heresy.  This has led the cult to have no real structure.  They certainly don't think of themselves as a cult or even know other members.  Most only know a few others and those only because it was somebody they led to this faith or somebody they were led to the faith by.  A fringe group with no real purpose or meaning.  A bunch of hippy arty types smoking weed and taking about how the feel inspired by Sara. 
+ 
+This changed a few years ago.  Sara, who is trapped in the Prison Realm, found that her dream messages were particularly successful with a young painter named Corbin Wainwright.  It took years to make Corbin understand she was trapped in the Prison Realm and needed help.  She also told Corbin of the items she created. 
+ 
+Corbin set out on a mission to free Sara.  The only other follower he knew was his girlfriend Orla Miller.  She was an aspiring actress, but mostly a barmaid. 

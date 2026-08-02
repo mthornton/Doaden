@@ -1,0 +1,571 @@
+PATH OF PENITENCE
+ GAME MASTER QUICKSTART GUIDE
+                                           v 1.0
+
+
+
+
+                    Game Master QuickStart Guide
+“The path to redemption is a treacherous journey walked alone,
+each step resonating with the sorrow of a thousand sins."
+
+
+
+
+                                         CREDITS
+Designer/Editor-in-Chief: Alexander H.       Produced by: Bestiarum Games
+  Dovermann
+
+Miniature Photos: Marcus Harland
+
+Image Technician: Marina Jukova
+                elcome fellow Game Master            adapting your own homebrew or other
+
+
+
+    W
+               (GM)! We are excited that you’ve      adventures to this system. Most narrative
+               decided to run Bestiarum’s 5e         elements in the Player Guide will not be
+               campaign system, the Path of          covered here so if you have any questions
+               Penitence (PoP). This short           make sure to check out the other guide!
+guide is designed to get you started with your
+own campaign in the fallen world of Doaden           Player Reading. We encourage you to have
+as quickly and seamlessly as possible.               your players glance through the Player Guide
+    But first and foremost, we welcome you to        before making their characters so they can
+our community of dedicated storytellers who          design unique backgrounds that immerse their
+enjoy dark fantasy, gothic, occult, horror,          PCs in the world. However, we understand
+grimdark, and other twisted tales, and who           some folks do not like homework or have
+share their passion with friends and family all      trouble fitting it into their busy schedules.
+over the world. The stories of Doaden are as            You can skip the reading assignment by
+much our own as they are yours, and these            holding a ‘session 0’ to cover the material in
+pages provide tools for you to build your voice      the Player Guide together, or briefly outline
+and vision within this uniquely dark world.          the important bits at the start of your first
+    As you read through this guide, you will be      session. It is always good to get everyone on
+initiated into our mystic inner circle of GMs.       the same page before kicking off a campaign!
+So, it’s time to don your favorite hooded robe          If all else fails, you can read the following
+and join the shadowy enclave of Bestiarum’s          World Summary to your players, which covers
+occultist storytellers!                              the bare minimum information to grasp the
+                                                     concept of the world and journey ahead.
+QuickStart Guides. The two documents you
+should read before running a PoP campaign            World Summary. Doaden is a fallen world
+are the Game Mater QuickStart Guide (GM              teeming with devious cults, hellish demons,
+Guide), and Player QuickStart Guide (Player          rabid monsters, and more! Each PC takes on
+Guide). Both are easy to digest and aimed at         the role of a Penitent, an unfortunate soul who
+getting you right into the action.                   has been convicted of a crime by the Empire of
+   Player Guide. We recommend you start by           Azerai and sentenced to 500 years of
+reading the Player Guide, which covers the           atonement as punishment.
+world’s core history, politics, and cultures as         To redeem themselves, the PCs have joined
+well as the Player Character (PC) narrative          the Penitent Crusade, an army that fights evil
+that will develop over the course of their           throughout the realm. In their adventures, the
+adventures.                                          party will be deployed on a series of deadly
+   GM Guide. On the other hand, this Game            missions to stem the tides of darkness that
+Master Guide covers mechanical rules and             threaten to consume the world.
+suggestions for running a PoP campaign,
+using Bestiarum’s adventure modules, and
+
+2                                 Path of Penitence – Game Master QSG
+“The only good cultists is a dead cultist” - Vozruk.
+         Path of Penitence – Game Master QSG           3
+     CAMPAIGN OVERVIEW
+                                                    the longer campaign narrative. Doaden is a
+                                                    vast world, and any town, culture, creature, or
+The PoP campaign system is an adaptable             character can fit in somewhere. Sharing your
+tool that develops a meaningful character-          own voice will make your group’s experience
+centric story for PCs in a rich and persistent      even more unique and rewarding.
+dark fantasy world, while linking together all
+of your favorite stories and adventure.             Tips & Tricks
+   You can string together short episodic           The central narrative of Penitents seeking
+scenarios or even work a full-length campaign       redemption coupled with Bestiarum’s official
+adventure into the mix. Whether you run             adventure modules, easily creates an
+Bestiarum modules, homebrew creations, or           immersive dark fantasy experience for your
+scenarios from other creators, the flexible PoP     players. The following sections cover a few
+system shines at both building an immersive         tips on how this is done, and some hints for
+dark fantasy world and acting as a sandbox for      you to do the same with your own stories!
+your own stories in a persistent setting.
+                                                    Creating Atmosphere
+Bestiarum Modules. Each month, Bestiarum
+publishes several easy-to-run adventure             Describing the sights, sounds, and smells of
+                                                    the world creates vivid images and reactions
+modules. These require minimal preparation,
+with simple yet engaging encounters that can        in your players. The visceral howling of a
+                                                    monstrous beast, the uneasy feeling of being
+typically be completed in 3 – 4 hours, though
+some may run longer.                                watched in a gnarled forest, the haunting
+   You can run these modules in any order so        scent of grave violets in a sepulchral tomb, the
+                                                    supple leathery cover of a tome made from
+feel free to pick your favorites! The modules
+shine at building a dark fantasy atmosphere         human skin.
+                                                        The dark fantasy genre shines when your
+with scripts, characters, plots, story themes,
+and descriptive elements that quickly immerse       audience is a bit creeped out, but there is
+players in the fallen world of Doaden.              always a risk of offending or disturbing your
+                                                    friends beyond their limits. Knowing where to
+Other Adventures. If you wish to run other          draw the line is critical so make sure you
+                                                    maintain open communication at the table in
+adventures or homebrew, we encourage you to
+do so. A persistent problem in the dark fantasy     case your players need a break or wish to
+and horror community is that many creators          avoid a traumatic subject.
+                                                        Also, remember that less is often more! A
+design amazingly gripping shorter adventures,
+but there is no structure to adapt them into        brief description is all you need to set the tone
+                                                    or create a feeling of dread. Overselling the
+longer campaigns that allow your party to
+continue playing their characters.                  atmosphere with long-winded descriptions of
+                                                    gore or horrific sights risks breaking the
+   With the PoP system, you can easily throw
+any scenario into the mix while maintaining         impact, losing your party’s attention, or
+
+4                                Path of Penitence – Game Master QSG
+turning them away by delving too deeply into a       Encounters. The party should be challenged
+grotesque or disturbing theme.                       with a variety of narrative, combat, obstacle,
+                                                     exploration, and puzzle encounters. New
+Variety is Key                                       challenges will keep your players on their toes
+                                                     as they work out the solution. Bestiarum
+Though we love the dark fantasy genre, being
+                                                     modules provide a range of encounters to
+too serious for too long can be disheartening.
+                                                     keep things fresh!
+A little light and variety goes a long way to
+refreshing your party for the journey ahead!
+   Bestiarum’s modules are designed with             Narrative Development
+this in mind. Some are gritty and serious while      Lastly, to hook players on a long campaign,
+others take a more lighthearted approach             make sure you tell a story that engages their
+through comedy or satire. Here are a few ways        characters. The PoP system sees the PCs
+you can spice up your own adventures.                embark on an evolving character-driven
+                                                     narrative that develops naturally over a string
+Theme. Consider running scenarios with a             of adventure scenarios.
+variety of story themes to keep your game                Your PCs, the Penitents, seek a second
+sessions fresh. Throwing in a little comedy,         chance at life. Each adventure is a deadly
+mystery, a detective investigation, political        missions on their quest for atonement. Their
+intrigue, exploration, or a revolving horror         journeys will be fraught with peril, puzzles,
+‘theme-of-the-month’ will go a long way to           mysteries, and obstacles, challenging them to
+keep your sessions engaging.                         confront not only humanity’s external threats
+                                                     but also their own inner demons.
+Setting. Doaden is a vast world brimming                 The stories of the camaraderie they build
+with exciting adventure locations. Bestiarum’s       and the struggles they overcome along the way
+modules explore primordial forests crawling          is the heart of the PoP campaign, a narrative
+with rabid beastmen, peaty swamps haunted            that will develop naturally as you run your
+by decaying zombies, sun-swept sandscapes            chosen adventures. We hope you tell your own
+hiding ancient demons, isolated shore-towns          grand narratives inside of these scenarios, but
+occupied by elder-god worshipping villagers,         just remember not to overshadow the players’
+and even bustling cities may house devious           journey!
+cults or dark syndicates!
+    While the world might be harsh and
+unyielding, it is not devoid of beauty or
+intrigue. Keep this diversity in mind when
+designing your own adventures. The PoP
+system allows you to easily place any biome,
+culture, dungeon, or other location into the
+world for the party to explore.
+
+
+                                  Path of Penitence – Game Master QSG                              5
+     RUN THE CAMPAIGN
+                                                    Redeemers send teams of Penitents on near-
+                                                    suicidal missions around the realm, deploying
+Next, we cover the core mechanics and GM-           them to accomplish objectives deemed too
+related narrative elements you need to know         deadly or risky to expend valuable knights or
+to run a PoP campaign. This section will focus      soldiers on.
+on using Bestiarum adventure modules. We               After each successful mission, Penitents
+will cover homebrew or other scenarios later,       are rewarded by having a few years removed
+but in general you can simply apply the same        from their remaining criminal sentence. The
+principles covered here!                            interactions between the party and their
+                                                    redeemer will weave a consistent thread
+                                                    through your campaign, bonding them
+Vozruk the Redeemer                                 together and deepening the narrative.
+The most important Nonplayer Character
+(NPC) you will roleplay is Vozruk the               A Personal Flair. Roleplay Vozruk in any way
+Redeemer. Redeemers are commanding                  that resonates with your table. The personality
+officers of the Penitent Crusade, each in           you give him can greatly influence the tone of
+charge of several squads of Penitents.              their adventures. Vozruk might be modeled
+
+6                                Path of Penitence – Game Master QSG
+after a stern and uncompromising drill               during the day. To cap off the adventure, there
+sergeant, or perhaps a more caring and level-        may be an exciting encounter as the party
+headed tactician. Even the name and gender           descends into the earthen tunnels below the
+are at your discretion. Whatever interpretation      crypt in an attempt to exterminate the ghoul
+best suits your group dynamic, let it be so!         infestation, be it with fire, blade, or sorcery!
+                                                         Any NPC can give the briefing, but Vozruk
+                                                     is often the most convenient choice. They can
+During, Before, & After
+                                                     meet Vozruk in a rigid military encampment
+Adventure Missions                                   or he could move around between temporary
+As you run your chosen adventure modules,            headquarters, commandeering rooms in local
+keep in mind this simple structure that will         taverns, churches, or apartments.
+continually build the campaign experience.
+                                                     Mission Debriefings. After each successful
+Structured Missions                                  mission, consider holding a check-in with
+                                                     Vozruk so the party can debrief him about
+Each adventure module represents a deadly
+                                                     what they found. These meetings will develop
+mission that the Penitent Crusade has
+                                                     the party’s relationship with Vozruk, and you
+deployed the party to complete. There are
+                                                     can use them to track the party’s progress
+innumerable evils throughout the realm, and it
+                                                     towards redemption, thus building a feeling of
+is up to you to choose which ones your party
+                                                     continual character progression.
+will face.
+
+Mission Briefings. Missions should begin             Chance Adventures
+with a briefing to provide the party with an         Some adventures may happen completely by
+initial goal or objective. The briefing should       chance. They may be structured in a way that
+hint at the adventure ahead, leading the party       lends itself more naturally to starting without
+to engage with the scenario’s central narrative.     a briefing. For example, an adventure about an
+However, it should hide the exciting details         isolated cave of corrupted spiders in the
+they will cover along the way.                       woods may be started when the party simply
+    For example, before a scenario about a           stumbles upon the infested cave. Or during
+pack of ghouls that have recently occupied a         improvisation, it might turn out that a
+cemetery and are now preying on the nearby           character they meet in a random town is evil.
+villagers, the briefing might inform the party          Random events may trigger quests that
+that folk in a town have been disappearing at        nonetheless result in the party accomplishing
+night and that the villagers have been finding       some good for the Empire. In these cases, you
+the gnawed limbs of their missing friends and        don’t have to have a mission briefing. But a
+family.                                              mission debriefing and sentencing reward
+    As the party investigates, they may discover     may still be in order.
+that the graveyard stinks of rot and death,
+leading them to a crypt where the ghouls hide
+                                  Path of Penitence – Game Master QSG                               7
+Getting Started                                      Prompt 1 –Escape Plans
+                                                     After the PCs are sentenced for their crimes,
+There are a few ways to kick off your first          the Empire sends them to the Mines of Tartari
+campaign.                                            where they must dig for precious metals in
+                                                     unstable mineshafts filled with deadly gasses.
+Starting Adventures                                  No one has survived more than a few years
+We suggest you start the party at level 1 and        working in the mines, and they will surely
+run the starting adventures, Burial Isle             perish miserably if they stay. There is but one
+followed by Rise of the Jailer. These modules        hope – they must find a way to escape.
+are meant to be played consecutively. They               The party hatches a master plan. Perhaps
+advance the party from level 1 to 3 and quickly      they rile the rest of the prisoners, stirring up a
+establish Doaden’s dark atmosphere and               coup to overtake the guards. Or perhaps they
+include good examples of suggested mission           make a distraction with a large explosion and
+structure including briefing and debriefing.         slip away in the ensuing chaos.
+    Over the course of these adventures, the             Draw out the tension as their plan unfolds,
+party will come head-to-head with devious            increasing the likelihood that the guards will
+cultists as they uncover a sinister plot to          catch onto them the closer they get to their
+summon a powerful demon into the world.              freedom. But just when they think they are
+    You can skip these scenarios and start at a      safe, Vozruk and his soldiers arrive and
+higher level as long as you and your players         capture them. Remember, the Crusade can
+have a good grasp of the PoP campaign                track Penitent’s marks of atonement, so they
+structure.                                           can never truly escape.
+                                                         Luckily, Vozruk is impressed by their
+Session 0 Shorts                                     resourcefulness and offers them a chance at
+                                                     redemption if they enter his services. That – or
+Burial Isle assumes the party is already
+                                                     a public execution to set an example for other
+familiar with Vozruk. However, you might
+                                                     would-be troublemakers!
+consider running a brief scenario beforehand
+to build this relationship and strengthen their
+bond to this important NPC. Doing so will            Prompt 2 – Ah You’re Finally Awake
+                                                     Shackled and chained after their sentencing,
+deepen the campaign experience and establish
+                                                     the PCs are herded into a prison wagon
+a unique history for your party.
+                                                     headed to a distant town for, presumably, an
+   Vozruk has several teams of Penitents
+                                                     unsavory work assignment. Vozruk and a
+working for him, each with their own story
+                                                     retinue of Crusade soldiers escort the wagon
+about how they came into his service! Here are
+                                                     to ensure the Penitents arrive intact.
+a few prompts to choose from, but feel free to
+                                                        Waking from naps after a long journey, the
+create your own!
+                                                     wagon draws close to the destination. As the
+                                                     party talks with the other prisoners, they find
+                                                     out one is a notorious rebel leader from the
+
+8                                 Path of Penitence – Game Master QSG
+north, a public enemy whose outlaw band                 Vozruk approaches the party members in
+stages guerrilla attacks on Empire’s supply         their holding cells, informing them that he is
+caravans. With such a high-profile criminal,        building a team of deadly killers, a uniquely
+there can only be one conclusion – all the          promising method of fighting villainy with
+prisoners are being sent to a public execution.     villainy. He offers each of them a spots on his
+    As the caravans draw into the town,             team, suggesting their unique skills and
+something feels off. The townsfolk shuffle          affinities are just what the Crusade needs to
+about nervously between buildings, shiftily         advance its fight against evil.
+keeping their eyes down to the ground. The              This prompt works particularly well when
+PCs fearfully watch as the town’s executioner       starting a campaign with higher level PCs
+begins chopping heads, until he turns towards       such as level 3 or higher.
+the first of the PCs, demanding they approach
+the blood-stained chopping block.                   Starting at a Higher Level
+    Yet, before the PC can make a move, a
+                                                    You can start at a higher level to run your own
+sudden arcane blast strikes the Crusade
+                                                    scenarios or high-level modules. Just make
+guardsmen, stunning them and throwing them
+                                                    sure you and your players have a good grasp of
+to the ground. Hooded cultists surge forth
+                                                    the PoP campaign structure beforehand.
+from every door and crevice wielding
+sharpened blades. In a maddened frenzy, they
+quickly slay most of the crusaders.                 Modular Adventures
+    Vozruk desperately cuts the party’s bonds,      Bestiarum’s easy-to-run adventure modules
+freeing them and throwing them weapons,             are friendly to GMs of all experience levels.
+promising a path to redemption if they stand        They are quick to prepare and explore a range
+and fight. After the party works together to        of dark fantasy and horror stories.
+fend off the cult ambush, Vozruk recruits them          Party Size. Module balance is best with
+as a team of his Penitent operatives.               parties of 3 to 6 players but can be adjusted
+                                                    easily if the party is finding them too easy or
+Prompt 3 – I’m Putting Together a Team              too hard using a built-in scaling system.
+For characters that are predominantly evil              Long Rests. Unless stated otherwise,
+aligned, you might consider a different             modules are intended to be completed in one
+approach. The PCs may each be notorious             adventuring day, meaning parties may take
+criminals, too dangerous to be sent out to          any number of short rests, but no long rest
+work as laborers, and too valuable to be            until they complete the adventure.
+executed or turned into husks.                          Level Limit. To run a more grounded
+   They are being held in the Bastilla, the         campaign, we suggest capping your party’s
+Empire’s maximum-security prison located in         max level at 11. This will give them access to
+the Southern Diocese, where each prisoner is        all adventure tiers while limiting their magical
+kept under strict lock and key, guarded day         and heroic abilities to retain the feeling of a
+and night by a tireless retinue of guards.          gritty and dangerous experience.
+
+                                 Path of Penitence – Game Master QSG                                  9
+Scaling System                                             Adventure Tiers. Each module fits one
+                                                           specific Adventure Tier: I, II, III, or IV. Each
+Bestiarum modules have scaling Difficulties
+                                                           tier scales through three or four difficulty
+which challenge parties from 1 to 20, offering
+                                                           modes, as shown on the Adventure Tier Table.
+a wealth of opportunities for your party to
+                                                           As a quick breakdown, each tier is appropriate
+continue their epic campaign in Doaden.
+                                                           for the following level ranges:
+    Difficulties range from Beginner to Hell
+                                                                • Tier I: 1 – 10
+and correspond to an average party level
+                                                                • Tier II: 3 – 13
+bracket. For example, Beginner is appropriate
+                                                                • Tier III: 8 – 20
+for adventuring parties leveled 1 – 2, while
+                                                                • Tier IV: 11 – 20
+Medium is for parties leveled 5 – 7.
+    With increased difficulties, enemies
+                                                           Bestiarum’s adventure modules clearly and
+become tougher and more numerous, while
+                                                           simply lists each scaled encounter design.
+environmental challenges and traps are more
+                                                           Once you jump into your first adventure, you
+deadly or difficult to avoid. The breakdown of
+                                                           will see how easy it is to run the system!
+difficulties and level brackets is outlined on
+the Difficulty Table.
+                                                           Adjusting Difficulty. Parties of 6 or more, or
+                                                           of very skilled players may find the adventure
+DIFFICULTY TABLE
+                                                           balance too easy. To increase difficulty, you
+             Difficulty       Level Range                  can simply move them to the next difficulty,
+            Beginner          1–2                          even mid adventure.
+
+            Easy              3–4
+                                                           Picking Adventures. You can run whichever
+            Medium            5–7                          module you wish that fits your party’s level. Or
+                                                           you can leave the choice up to your players!
+            Hard              8 – 10
+                                                           Vozruk can give the party a choice of several
+            Nightmare         11 – 13                      missions, giving them multiple mission briefs
+            Torment           14 – 16                      and allowing them to choose their own path.
+
+            Hell              17 – 20
+
+
+ADVENTURE TIER TABLE
+                   Difficulty 1             Difficulty 2             Difficulty 3         Difficulty 4
+  Tier I      Beginner (1 – 2)          Easy (3 – 4)            Medium (5 – 7)        Hard (8 – 10)
+ Tier II      Easy (3 – 4)              Medium (5 – 7)          Hard (8 – 10)         Nightmare (11 – 13)
+ Tier III     Hard (8 – 10)             Nightmare (11 – 13)     Torment (14 – 16)     Hell (17 – 20)
+ Tier IV      Nightmare (11 – 13)       Torment (14 – 16)       Hell (17 – 20)
+
+10                                      Path of Penitence – Game Master QSG
+Leveling, Rewards, & Advancement                    Treasure & Items. The party will naturally
+                                                    accumulate gold and magical artefacts during
+For each successful mission completed,
+                                                    the adventures. Also, each boss has their loot
+reward your party with levels and years of
+                                                    table that drops unique magical items!
+atonement paid off from their sentences.
+
+                                                    Team Name. As your players forge ahead on
+Experience (XP). You don’t have to track
+                                                    the path to redemption, they will inevitably
+player XP in a PoP campaign. Instead, use a
+                                                    grow close, forming a distinct team identity. A
+milestone method to track progression more
+                                                    heroic act, a moment of humor, or unexpected
+easily. Refer to the following Mission Rewards
+                                                    turn of events may inspire a team nickname –
+Table to determine the number of successful
+                                                    perhaps bestowed by their commander,
+missions the party needs to complete before
+                                                    suggested by fellow Penitents, or coined by the
+they reach the next level.
+                                                    party themselves. A team nickname builds
+                                                    their identity and immersion, so work with it if
+Years Atoned. After each successful mission,
+                                                    it should present itself!
+Vozruk should reduce the number of years left
+on the party’s sentences based on the Mission
+                                                    Free Reign. Once Vozruk trusts the party, he
+Rewards Table, reflecting the difficulty of the
+                                                    should give them free reign to travel and
+challenges they faced. With each successful
+                                                    explore as needed to accomplish their
+mission, the PCs be one step closer to their
+                                                    objectives, allowing them to explore Doaden
+freedom.
+                                                    with minimal constraints on their freedoms.
+
+MISSION REWARDS TABLE
+                                                    Crusade Advancement. The final way your
+                Missions to     Years of            party can advance in a PoP campaign is
+   PC Level        Level       Atonement            through narrative rewards. As they complete
+   1, 2              1               2              dangerous missions, they will build their
+   3, 4              2               3              reputation in the Crusade and grow in rank
+                                                    and esteem. In turn, the Crusade may give
+   5, 6, 7           4               4              them access to allies to support their cause.
+   8, 9, 10          6               5                 Bestiarum will release official options and
+                                                    mechanics for companions, but here are a few
+   11, 12, 13        8               6
+                                                    suggestions, in case you’d like to create your
+   14, 15, 16        11              7              own!
+                                                    • Priestess. An Azerai priestess who heals
+   17, 18, 19        15              8
+                                                        injured PCs and blesses them before
+                                                        missions.
+                                                    • Quartermaster. A requisition officer who
+                                                        acquires nonmagical weapons, armor,
+                                                        ammunition, and supplies for the party.
+
+                                 Path of Penitence – Game Master QSG                             11
+•    Scout. A special agent who can assess the          This information gives a general sense of
+     mission deployment zone, providing a bit        the regions, suggesting what types of locations
+     of valuable information about enemies or        and adventures may take place there.
+     environmental challenges the party may          However, it remains vague enough to stay
+     face there.                                     flexible, allowing you to place adventures
+                                                     nearly anywhere with ease.
+                                                        Ultimately, you can build your own
+Your Imagination
+                                                     adventures, towns, and points of interest
+The world of Doaden is a vast canvas awaiting
+                                                     wherever you wish. All you have to decide is
+the brush strokes of your creativity. As you run
+                                                     which region the adventure best fits in and if
+these modules, we hope you impart your own
+                                                     there are any nearby landmarks. There are no
+quests, NPCs, and lore to enrich the world and
+                                                     wrong answers!
+weave an experience that is distinctively your
+own. As a GM, you're not just a storyteller;
+you're a world builder.
+   Embrace this role and use the flexible
+structure of the PoP system to shape the
+realm in a way that reflects the party's unique
+narrative. By doing so, you will ensure that
+their adventures are not just quests, but truly
+their own epic journey.
+
+
+Using the Map
+The Player Guide includes a map of the
+Empire of Azerai. You can also find a high-
+definition version of this asset as a separate
+file. The map notes some important cities,                                  Look for sections
+towns, and geographic features throughout the                               marked with this
+Empire.                                                                     Crusade Sigil icon in
+    However, you should consider that the vast                              Bestiarum adventure
+majority of interesting points have been left                               modules for extra
+unmarked. The space between two cities may                                  Path of Penitence
+be filled with countless towns and adventure                                tips, content, and
+locations. The Lore & History section in the                                options!
+Player Guide establishes the core thematic
+details of the Empire’s five regions: The Sunlit
+Citadel, and the Northern, Eastern, Southern,
+and Western Diocese.
+
+
+12                                Path of Penitence – Game Master QSG
+                 *LIFE*
+                                                   monsters or pay off their sins. Yet the
+                                                   campaign lives on, and the story of the world
+As the GM, you will preside over your PoP          continues to grow!
+campaign just as the Grand Ecclesiarch
+Vitalinus presides over the Empire of Azerai.      Common Issues
+    Over the course of months or years, you        Remember, Vozruk has several squads of
+can run a single PoP campaign that grows           Penitents working for him. Teams rarely meet
+ever richer and more storied. Each adventure       each other and Vozruk does not often share
+tells a compelling story of its own while the      the identities of one team with another.
+character narrative of the Penitents fighting      Presumably, each squad has its own
+for redemption continues to develop.               characters, stories, and history. This can be
+    While the broad story of Doaden is told        used to solve all manner of common campaign
+through these adventures, your PCs and party       issues! Here are a few tips on handling various
+members may shift in-and-out due to life and       situations that may present themselves over
+character events. Yet, their combined story        the life of a campaign.
+weaves together a single campaign. Players
+may come and go. Their PCs might be slain by
+
+                                Path of Penitence – Game Master QSG                            13
+                                                        YOUR OWN ADVENTURES
+Player Leaves or PC Slain
+If a player takes a break or leaves the
+campaign, you can easily bring a new player in        Adventure Placement. The Empire of Azerai
+to replace them. Just have Vozruk assign the          map leaves plenty of space open for creativity
+new PC to the party’s squad. Perhaps they are         to grow. If you run a homebrew adventure or
+a new recruit, or their own team suffered             scenario designed by another creator, just use
+heavy casualties and they are the only survivor       the adventure briefing and debriefing, or
+in need of a new home.                                chance adventure structure to convert any
+    Likewise, if a PC perishes on their journey,      scenario into a PoP mission. You can insert
+the player can create a new character and join        the scenario anywhere on the map or even
+the team to replace the fallen hero.                  make a foreign continent to use for culturally
+                                                      thematic backdrops or exotic locales.
+Drop-in Players
+                                                      Leveling & Penance. If your adventures run
+You can easily accommodate friends and drop-
+                                                      longer or shorter than the Bestiarum modules,
+in players for a single or a handful of sessions.
+                                                      just match the leveling speed on the Mission
+Just add them to the team on a temporary
+                                                      Rewards Table. The pace does not have to be
+basis. Perhaps Vozruk is assigning members
+                                                      exact, but if you keep the party progressing
+from two teams to work together for a limited
+                                                      similarly, you will maintain a good timeline for
+time to handle a particularly deadly mission. If
+                                                      leveling throughout the campaign.
+you add players to the group, consider
+                                                         Do the same for the number of rewarded
+increasing the difficulty mode as well.
+                                                      atonement years for successful missions,
+                                                      giving more on longer adventures and less for
+Starting Higher                                       shorter ones.
+When a new PC joins an ongoing campaign,
+they should start at the same level as the rest
+of the party and have a similar number of
+years remaining on their sentences. You can
+                                                                   WHAT NEXT?
+                                                      The Path of Penitence is a constantly evolving
+assume they have already been working for
+                                                      supplement. It is a living system which
+Vozruk for some time to pay off these years.
+                                                      receives periodic updates including new class
+    Hardcore Mode. If you’d like to run a
+                                                      options, backgrounds, lore details, cultures &
+particularly punishing game, you can start new
+                                                      ethnicities, crusade rewards, campaign
+PCs fresh at 500 years of atonement
+                                                      features, narrative events, party companions,
+remaining, or with a level penalty. In this case,
+                                                      and much more!
+they are fresh recruits into Vozruk’s services,
+                                                         To get the most out of this system and fully
+though they may have been much more
+                                                      immerse your players in this dark setting,
+experienced heroes before they were
+                                                      make sure you check back regularly!
+sentenced for their crimes.
+
+
+14                                 Path of Penitence – Game Master QSG
+Path of Penitence – Game Master QSG   15
+

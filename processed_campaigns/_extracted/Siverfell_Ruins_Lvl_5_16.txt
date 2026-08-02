@@ -1,0 +1,793 @@
+           SIVERFELL RUINS
+                       Level Scaling
+                          5 – 16
+
+
+Descend into the haunted ruins of Siverfell in this easy-to-
+                      run adventure
+
+
+
+                                                Liber Obscura 012
+  “The path to redemption is a treacherous journey walked alone,
+     each step resonating with the sorrow of a thousand sins."
+
+
+
+
+                                    CREDITS
+Writer/Designer: Alexander H. Dovermann   Produced by: Bestiarum Games
+          his module can be run as a one-shot            Adventure Hooks:
+          or as part of a persistent dark fantasy
+                                                         Use one of these hooks to begin the adventure
+
+T         campaign using Bestiarum’s Path of
+          Penitence (PoP) system. Creatures
+          and items marked with an asterisk (*)
+          are new. Their information can be
+                                                         or write your own. A good hook will give the
+                                                         party a reason to explore Siverfell or to cross
+                                                         through the ruins to the other side.
+                                                         • Lost Histories. A historian is compiling a
+found at the end of the adventure.
+                                                             record of the region’s royal lineages and
+                                                             legends. Few documents have survived
+Tier II. This adventure scales in difficulty
+                                                             regarding Siverfell, and they are willing to
+based on your party’s Average Party Level
+                                                             pay a good sum of gold for the retrieval of
+(APL). Use the following table to determine
+                                                             any treaties, ledgers, or other records that
+the appropriate difficulty for your party. If your
+                                                             might be found in the town.
+party finds the scenario too easy or hard, you
+                                                         • Cursed Spirits. Rumors tell of a powerful
+can shift difficulties, even mid adventure!
+                                                             specter, the Queen of Sorrows, which
+                                                             dwells in the ruins, her eternal grief a
+ADVENTURE DIFFICULTY                                         curse upon the lands. Villagers living
+ Difficulty                 APL                              nearby report nightmares and crops near
+ Medium                     5–7                              the waters begin to wilt. The party is
+                                                             implored to cleanse the source of the curse
+ Hard                       8 – 10
+                                                             and appease the spirits.
+ Nightmare                  11 – 13                      • Bridge Collapse. As the party travels from
+ Torment                    14 – 16                          one location to another, a highway bridge
+                                                             over the ravine collapses, cutting off a
+                                                             crucial route of travel. The only alternative
+Adventure Introduction                                       is to descend into downwards and cross
+Tales tell of a once-thriving town lost to                   through the Siverfell ruins.
+tragedy. The ruins of Siverfell are sunken
+deep in a sunless ravine, the skeletal remains           Path of Penitence. If you are running a PoP
+of its structures piecing up from dark waters            campaign, any of the suggested hooks may be
+of an underground lake like parched bones                used for the adventure. The Penitent Crusade
+from a withered corpse. The town, submerged              may assign this mission, or the party may be
+in shadows and the eerie stillness of an                 following leads of their own volition.
+underground lake, is a haunt for ghostly                     Location. The adventure can take place in
+apparitions and spectral horrors. On either              any region of the Empire of Azerai, but we
+side of the ravine, two twin towers rise                 suggest the west where many feudal kings and
+upwards along the cliff face, connecting to the          queens once reigned, or in the south where
+world above, yet it is ill-advised for any to            great trade routes are most prevalent, and rich
+descend below, for few have managed to                   treasures traded most frequently.
+escape the horrors below.
+2                                     Liber Obscura 012 – Siverfell Ruins
+Starting the Adventure                                 Cursed Waters. Siverfell’s waters are cursed.
+                                                       A DC 15 Intelligence (Arcana) check reveals
+This adventure starts as the party descends
+                                                       the waters are dangerous, emanating a faint
+into the ruins of Siverfell from the north.
+                                                       dark curse. Otherwise, the waters appear
+However, you can start earlier to incorporate
+                                                       normal, though their dark surface may make a
+the adventure hook and build the narrative
+                                                       character feel uneasy.
+further. To start the adventure read this script.
+
+                                                         Cursed Waters. Siverfell’s waters are cursed
+ Your torches flicker, painting the cold stone
+                                                         by the ghosts that reside there. When a
+ walls with dancing shadows as you descend,
+                                                         creature touches the water and every 6
+ winding endlessly down Siverfell’s narrow
+                                                         seconds it spends in the water afterwards,
+ northern tower into the sunless ravine below.
+                                                         ghostly hands grasp at them. The creature
+ Time seems distorted as you take step after
+                                                         must make a DC 15 Dexterity saving throw or
+ step into the darkness, circling endlessly
+                                                         take necrotic damage.
+ down the crumbling stairway.
+    After an exhausting eternity, the stairs
+ finally level out, bringing you to a time-worn           Difficulty        Necrotic Damage
+ iron gate. Its surface is marred by rust and             Beginner          4 (1d8)
+ age, but the bars remain strong. Above the               Easy              9 (2d8)
+ portcullis, a chilling proclamation is written in
+ dried blood, "She hears our cries." Beyond               Medium            13 (3d8)
+ the iron bars lies the haunted depths of                 Hard              18 (4d8)
+ Siverfell, a town submerged in darkness and
+ haunted by ghosts of the past.                          On a hit, the spectral hand curses the target,
+                                                         potentially inflicting madness. The creature
+                                                         must make a DC 10 Wisdom saving throw.
+         SIVERFELL RUINS                                 On a failure, roll 1d4 and apply one of the
+                                                         following madness effects.
+The map of Siverfell Ruins is represented by
+the following areas.
+                                                          1d4     Madness
+                                                          1–2     Roll once on the Short-Term
+Two Towers. The chasm in which Siverfell
+                                                                  Madness table.
+lies is accessible by two massive towers that
+descend 1,000 feet from surface level on                  3       Roll once on the Long-Term
+either side of the lake. It takes half an hour to                 Madness table.
+descend the winding stairs. The stone steps               4       Roll once on the Indefinite
+are crumbling and unstable in areas, making                       Madness table.
+the journey treacherous and slow.
+
+
+
+
+                                    Liber Obscura 012 – Siverfell Ruins                                   3
+4   Liber Obscura 012 – Siverfell Ruins
+1) North Outskirts
+The north outskirts are the first explorable
+area of Siverfell coming from the north. It
+consists of several ruins spread across an
+upper and lower landmass.
+
+
+1a) North Tower
+At the base of the north tower lies a massive
+wrought-iron gate, oxidized and worn from the
+passage of time. Once a welcoming point for
+traders and travelers, it now stands forlorn
+and silent, rusted shut and preventing access
+to the depths of Siverfell.
+
+Cryptic Words. Across the stones of the
+                                                                  Handout A: Tower Gate
+portcullis, the cryptic words “She hears our
+cries” are scrawled, written by deranged
+wretches who inhabit the outskirts beyond the         Stepping through the gateway, you find
+gate; pilgrims who are drawn here by the              yourself above a vast underground lake, so
+sorrows they carry in their own hearts.               dark in the bleak gloom that it mirrors an
+    Siverfell History. A character that passes a      obsidian expanse, its waters glinting with a
+DC 20 Intelligence (History) check may know           placid sheen. Spectral silhouettes of ruined
+something about these words. They refer to            structures rise from the water, the remnants
+the Queen of Sorrows, a ghost which is said to        of Siverfell. The ghastly town appears to float,
+                                                      suspended above the black abyss. A haunting
+haunt the ruins of Siverfell. Unfortunate folks
+                                                      silence envelops the scene, broken only by
+who carry spirits broken by unbearable sorrow
+                                                      the soft lapping of water against ancient,
+are drawn to her, losing their minds, and
+                                                      crumbling stone. A chill descends your spine
+falling into madness as they journey into the
+                                                      as you prepare to brave the haunted depths.
+depths of Siverfell.
+
+Opening the Gate. A DC 15 Strength check            Gate Lever. From the inside of Siverfell, a
+is required to lift the gate open without           second way to open the gate is by pulling an
+making undue noise. The iron gate can also be       iron lever attached to the inner wall adjacent
+smashed open, having 19 AC and 30 hit               to the gate. However, the party cannot see it
+points, but the clanging sounds of destroying it    from their location outside of the gate.
+will drive the deranged wretches beyond the
+gate in area 1b mad, making them hostile.
+When the party passes through the gate, read
+this script.
+                                 Liber Obscura 012 – Siverfell Ruins                                     5
+1b) North Outskirts (Upper)                          moaning on the floor as they gently rock
+Past the gate, a handful of ruined buildings         themselves back and forth. As the party is
+stand on the upper outskirts. They seem to           passing this area, one of the wretches grabs a
+have been residential houses, with remnants          party member, uttering the deranged words,
+of everyday life scattered around, such as           “She hears!” If the party attacks the wretch,
+broken ceramic pots and wooden furniture.            the enemies here become aggressive.
+                                                     Otherwise, the wretch quickly loses interest in
+Deranged Wretches. Soft moans and wails              the party, turning unresponsive and barely
+can be heard emanating from all about this           noticing them further.
+area. It is inhabited by deranged wretches who
+have delved down into Siverfell, drawn to the        AREA 1C ENCOUNTER
+Queen of Sorrows by the unbearable sorrows
+                                                      Difficulty        Enemies
+held in their hearts. They kneel or lie on the
+ground, weeping piteously, their bodies               Medium            3 cultists
+withered and emaciated. The wretches have             Hard              5 cultists
+little presence of mind left; most having gone
+                                                      Nightmare         7 cultists
+insane from the time they have spent here in
+the depths. They will generally ignore the            Torment           9 cultists
+party, but if the iron gate was smashed open in
+area 1a, the loud clamoring will drive these         2) Haunted Bridge
+wretches mad and they will act aggressively,         This bridge was once a marvel of Siverfell,
+attacking the party on sight.                        spanning the dark waters towards the heart of
+                                                     the town. Now, it is dangerous to cross, its
+AREA 1B ENCOUNTER                                    crumbling stones haunted by specters and
+ Difficulty   Enemies                                ghosts. As the party reaches the midpoint of
+ Medium       5 cultists and 1 cult fanatic          the bridge, they are attacked. Read this script.
+
+ Hard         8 cultists and 1 cult fanatics
+                                                       As you near the midpoint of the bridge, the
+ Nightmare    8 cultists and 2 cult fanatics
+                                                       temperature suddenly drops, a chill mist
+ Torment      12 cultists and 2 cult fanatics          obscuring the black waters of the lake below.
+                                                       Soft, mournful whispers fill the air as spectral
+1c) North Outskirts (Lower)                            apparitions emerge from the fog; their faces
+A pathway, half crumbled, leads down to a              twisted in anguish as their black eyes lock
+lower section where more ruins lie. The                onto yours. With angry wails, they draw
+buildings along the water’s edge have mostly           spectral weapons and descend upon you.
+been taken over by the lake, but a few still
+peak above the water's surface. More
+deranged wretches reside here, weeping and
+
+6                                 Liber Obscura 012 – Siverfell Ruins
+                                    Map: Haunted Bridge
+AREA 2 ENCOUNTER
+Difficulty   Enemies
+Medium       5 mournwraiths*
+Hard         7 mournwraiths*
+Nightmare    7 mournwraiths* and 1 howling
+             banshee*
+Torment      7 mournwraiths* and 2 howling
+             banshees*
+
+
+
+
+                               Liber Obscura 012 – Siverfell Ruins   7
+3) North Isle                                            3b) Secluded Ruin
+                                                         A small ruin lies behind the town square,
+The North Isle, once a bustling sector of
+                                                         accessible by a narrow but safe causeway.
+Siverfell's heart, now lies desolate and ruined.
+                                                         This ruin seems to have been a home or small
+Ancient cobblestone pathways lead to various
+                                                         manor. Personal belongings, now weathered
+structures, their once majestic facades now
+                                                         and rotting, litter the rooms. An oppressive
+mere shells of their former selves. Each
+                                                         feeling of sadness permeates this place,
+corner of the isle has its own story to tell, a
+                                                         suggesting the tragedy of a family torn apart.
+piece of Siverfell's history, and the tragedies
+that befell its inhabitants.
+                                                         Annals of Siverfell I. A book, mostly
+                                                         deteriorated, lies on a worn desk. Its
+3a) Town Square                                          remaining legible pages hint at the rise of the
+The town square was once a hub of activity
+                                                         Queen of Sorrows and the darkness that
+and commerce. Market stalls, now worn and
+                                                         began to envelop the town. A PC can find the
+tattered, are scattered around a central,
+                                                         book by passing a DC 10 Wisdom
+cracked fountain whose waters have long
+                                                         (Perception) check.
+dried up. Eerie silence hangs heavily here,
+only broken by the distant whispers of spirits.
+Amidst the square, the remains of a grand
+statue stand, though whatever it once depicted
+has been lost to time.
+
+Scavenging. The party can scavenge the ruins
+by making a Wisdom (Perception) check.
+They can find the following, looting everything
+they roll high enough to acquire.
+
+SCAVENGING RESULTS (PERCEPTION)
+    Score   Information Learned
+
+    5+      5d100 gp.
+                                                                  Handout B: Annals of Siverfell I
+    10+     1d4 potions of greater healing.
+                                                         Ambush. After the party picks up the book
+    15+     1d4 gems worth 500 gp.                       and has a chance to read its contents, specters
+                                                         form from the air and attack.
+    20+     1 potion of resistance.
+
+
+
+8                                     Liber Obscura 012 – Siverfell Ruins
+AREA 2 ENCOUNTER                                     Ambush. After the party picks up the book
+                                                     and has a chance to read its contents, specters
+ Difficulty   Enemies
+                                                     form from the air and attack.
+ Medium       3 mournwraiths*
+ Hard         5 mournwraiths*                        AREA 3C ENCOUNTER
+ Nightmare    7 mournwraiths*                         Difficulty        Enemies
+ Torment      10 mournwraiths*                        Medium            1 howling banshee*
+                                                      Hard              1 mournwraith* and 1 howling
+3c) Ruined Town Hall                                                    banshee*
+Siverfell’s town hall lies in ruins though its
+                                                      Nightmare         2 howling banshees*
+worn stone belltower still stands. Inside, faded
+portraits line the walls and scattered desks lie      Torment           1 mournwraith* and 2 howling
+about, shattered and broken. A cracked seal of                          banshees*
+Siverfell graces the central tiled floor. At the
+back of this hall, archives hold records of
+Siverfell's rich history. By making a DC 10
+Intelligence (Investigation) check, a PC can
+find a book further detailing the history of
+Siverfell.
+
+
+
+
+        Handout C: Annals of Siverfell II
+
+
+
+
+                                  Liber Obscura 012 – Siverfell Ruins                                  9
+3d) Ruined Tower                                       You ascend a circling staircase up to the top
+A ruined tower rises from the water adjacent
+                                                       of the tower, finding a wide viewing platform.
+to the north isle emanating an ominous
+                                                       The haunting remnants of Siverfell stretch out
+shadow that seems unnatural. Here, Lady                below, buildings half-submerged, emerging
+Ninaeth established a secret cult, pursuing the        like skeletal fingers from the depths of the
+arts of death magic and inadvertently                  obsidian waters of the sunless ravine. To the
+unleashing a dark curse upon Siverfell.                south, an imposing gate stands as sentinel to
+                                                       another, larger section of the town, likely the
+Arcane Lock. To keep her forbidden actions             main center.
+clandestine, Lady Ninaeth kept this tower                  Adjacent to the town center, you notice a
+under tight lock and key. Its entrance is barred       section of floating wooden platforms with
+by an ornate bronze door, its lock glowing with        structures floating on above the water's
+a powerful blue light. It is under the effects of      surface, remnants of an abandoned
+the Arcane Lock spell.                                 neighborhood built onto the water itself,
+                                                       perhaps a district for trade. To the north,
+Necromantic Knowledge. Amidst the decay                isolated by a stretch of dark water, you notice
+within, the tower holds dark secrets. Scraps of        a small island with a pale temple atop it, yet
+scrolls and remnants of forbidden rituals hint         there does not appear to be any way to safely
+at necromantic practices. Spending a half              access it.
+hour searching here, the party may make two
+DC 15 Intelligence (Investigation) or
+                                                     3e) Flooded Causeway
+Wisdom (Perception) checks. On each                  This ancient causeway, now half submerged in
+success, they find a spell scroll with the           the obsidian waters, links the two main
+Bestow Curse spell, or one with the Blight           sections of Siverfell. Its once proud stones are
+spell.                                               weathered and crumbled, and one bridge has
+                                                     collapsed completely, making crossing a
+Viewing Platform. Inside the tower a cold,           dangerous endeavor.
+winding stairway leads upwards to a platform,
+which offers a panoramic view of the Siverfell       Hazardous Crossing. Crossing the collapsed
+and surrounding area. Most notably, the              bridge section requires care and nimbleness.
+distant temple island, area 7, can be seen           A crossing character must make four DC 10
+rising above the placid waters. When the party       Dexterity saving throws along the way,
+ascends the winding stairs and reaches the           representing different sections of the
+top of the viewing platform, read this script.       collapsed bridge. They can pause and take
+                                                     time to heal or gather themselves between
+                                                     each saving throw. On each failure, they slip
+                                                     into the waters and are subjected to the effects
+                                                     written in the Cursed Waters rule in the
+                                                     Siverfell Ruins general section.
+10                                Liber Obscura 012 – Siverfell Ruins
+4) Mid Gate                                          Pulling the Lever. If the party manages to pull
+                                                     the lever on the far side of the wall, the
+This gated island stands as a resolute
+                                                     colossal gate grinds and slowly begins to lift.
+guardian, marking the division between the
+                                                     But as it does, a bone-chilling wind sweeps
+outer sections of Siverfell and the inner areas
+                                                     through the area, and ethereal chains can be
+of the town. Crossing the island is a 50 ft. high
+                                                     heard rattling in the distance. Moments later,
+stone wall with a massive, solid iron gate. The
+                                                     the mournful wails of specters led by Lady
+wall's original purpose was to protect the
+                                                     Ninaeth’s once-noble captain, pierce the
+heart of the town from any threats, but now, it
+                                                     silence as they materialize around the gate,
+serves as another obstacle for intrepid
+                                                     determined to halt any trespassers. In this
+explorers. On the other side of the wall, a
+                                                     encounter, the captain is the strighast.
+large, rusted lever is affixed next to the gate,
+allowing defenders to raise and lower the gate
+with ease. However, as it is on the opposite         AREA 4 ENCOUNTER
+side of the wall, the party will not immediately      Difficulty        Enemies
+be able to see it. There are a few ways the           Medium            1 strighast*
+party may attempt crossing.
+                                                      Hard              1 mournwraith* and 1 strighast*
+    Swimming. The only apparent way around
+the wall, without raising the gate, is to risk a      Nightmare         5 mournwraiths* and 1
+treacherous swim through the obsidian waters                            strighast*
+that surround the island. Doing so triggers the       Torment           4 mournwraiths*, 1 howling
+Cursed Waters rules written in the Siverfell                            banshee*, and 1 strighast*
+Ruins general section.
+    Climbing. Climbing the wall is challenging.
+The smooth stone offers few grips or other
+handholds. For every 10 feet a character
+attempts to climb, they must succeed on a DC
+20 dexterity saving throw, or plummet back
+down to the bottom.
+    Magic. A clever party may use spells to
+cross to the other side of the island. A spell
+like Fly would allow a character to safely cross
+over or around the wall, or the use of Gaseous
+Form may allow them to slip through the
+crevices of the stone and reach the other side
+unharmed.
+
+
+
+
+                                  Liber Obscura 012 – Siverfell Ruins                                11
+5) Town Center
+The town center is eerily quiet. Crumbling
+buildings and faded streets hint at the vibrant
+life that once bustled here. The royal insignia,
+though weather-worn, can still be seen etched
+onto certain facades, and broken statues of
+past monarchs dot the area, silent witnesses
+to the calamity that befell their domain.
+
+
+5a) Grand Plaza
+At the heart of the town center is the Grand
+Plaza, where once celebrations, parades, and
+other grand events were hosted. At its center
+stands a large, dried-up fountain adorned with
+a once-beautiful saintly statue, now stained                 Handout D: Annals of Siverfell III
+and moss-covered.
+                                                     5b) Ruined Residences
+Scavenging. Scattered around the plaza,              Beside the grand plaza are the noble
+adventurers might find remnants of old texts         residences. Grand halls and chambers, once
+or belongings. The party can scavenge the            echoing with laughter and music, now lie
+ruins by making a Wisdom (Perception)                empty. The ghost of Lady Ninaeth, the Queen
+check. They can find the following, looting          of Sorrows, wanders here. As the party
+everything they roll high enough to acquire.         explores these streets, she strikes. Read this
+                                                     script to begin the encounter.
+SCAVENGING RESULTS (PERCEPTION)
+ Score     Information Learned                         As you navigate the cobbled streets of the
+                                                       noble’s square, the air grows cold, and a
+ 5+        The Annals of Siverfell III*.               haunting lullaby carries on the wind. Shadows
+                                                       dance eerily along the ornate facades of
+                                                       ruined buildings, playing tricks on your eyes.
+ 10+       1d4 potions of greater healing.
+                                                       Suddenly a heart-wrenching wail slices
+                                                       through the stillness. Emerging from a
+ 15+       10d100 gp.
+                                                       shadowy veil you see a horrific specter, her
+                                                       translucent figure draped in tattered royal
+ 20+       A signet ring of a noble house              robes and eyes filled with centuries of
+           worth 750 gp.                               unbearable grief. Her gaze locks onto you as
+                                                       she screams out in otherworldly rage.
+
+
+
+12                                Liber Obscura 012 – Siverfell Ruins
+                                   Map: Ruined Residences
+
+AREA 5B ENCOUNTER
+Difficulty   Enemies
+Medium       1 Queen of Sorrows*
+Hard         2 mournwraiths* and 1 Queen
+             of Sorrows*
+Nightmare    6 mournwraiths* and 1 Queen
+             of Sorrows*
+Torment      6 mournwraiths*, 2 howling
+             banshees*, and 1 Queen of
+             Sorrows*
+
+
+
+
+                              Liber Obscura 012 – Siverfell Ruins   13
+Loot. If the party wins the encounter, they may     Scavenging for Supplies. Time has not been
+roll 4d10. Based on the cumulative roll score,      kind to Float Town, but amongst the
+they find the following item. Add a bonus to        dilapidated stalls and shops, the remnants of
+the cumulative roll score depending on the          trade can still be found. A diligent search may
+adventure difficulty level.                         reveal preserved supplies, hidden away in rot-
+                                                    resistant chests or tightly sealed containers.
+LOOT TABLE                                          The party can scavenge the ruins by making a
+                                                    Wisdom (Perception) check. They can find
+ 4d10        Item Discovered
+                                                    the following, looting everything they roll high
+ 30+         Cloak of Mourning* (rare)
+                                                    enough to acquire.
+ 1 – 29      nothing
+                                                    SCAVENGING RESULTS (PERCEPTION)
+Ending the Curse. Defeating the Queen of
+Sorrows does not necessarily end the curse of
+                                                      Score      Information Learned
+Siverfell. She will disappear for a while, but
+                                                      5+         An old yet working rowboat.
+return, perhaps weeks, months, or years later.
+There are deeper secrets to be discovered, and
+                                                      10+        The Annals of Siverfell IV
+the party must decide if they want to lift the
+curse over the town or simply move on from
+its haunted place. The curse is linked to the         15+        8d100 gp.
+remains of Lady Ninaeth’s child, Lilac, whose
+bones are interred in a crypt on the isle             20+        1d4 gems worth 500 gp.
+temple, area 7.
+
+
+6) Float Town
+This unique segment of Siverfell once bustled
+with activity. A series of rotten wooden
+platforms remain afloat above the black
+waters, interconnected by creaky, half-
+collapsed walkways. These platforms, topped
+with old buildings, once served as the heart of
+the town's trade. Merchants hawked their
+wares, shouted out prices, and orchestrated
+swift exchanges, all while the waters of the
+dark ravine lapped gently beneath them.
+
+
+
+                                                              Handout E: Annals of Siverfell IV
+
+14                               Liber Obscura 012 – Siverfell Ruins
+The Rowboat. Tethered to one of the
+                                                        As the heavy lid of the coffin shifts aside, you
+platforms by a frayed rope is a rowboat, its
+                                                        find interred within the skeletal remains of a
+wood grayed but still sturdy. It can be used to
+                                                        young child, no older than a year or two. A
+safely traverse the dark waters of the ravine.
+                                                        soft, eerie green luminescence pulsates
+                                                        faintly from the bones, casting unsettling
+7) Island Temple                                        shadows around the crypt. A feeling of deep
+Isolated in the expanse of the obsidian waters          sorrow and unease seeps into your heart as
+is a small island bearing a somber temple               you gaze upon the scene.
+shrine. The old structure, crafted from white
+marble now stained with age and streaked
+                                                      Dispelling the Curse. A DC 15 Intelligence
+with grime, is a small room, no larger than 10
+                                                      (Arcana) check reveals the bones are
+feet by 10 feet, with little decoration. In the
+                                                      emanating a powerful necromantic curse,
+middle of the floor, a spiraling staircase
+                                                      likely the cause of the continuing hauntings in
+descends into a small crypt, where a coffin
+                                                      Siverfell. A DC 20 Intelligence (Arcana)
+contains the remains of Lady Ninaeth’s
+                                                      check reveals the knowledge of how to lift the
+deceased child, Lilac. When the party
+                                                      curse. Lilac’s bones must be incinerated or the
+descends the stairs, read this script.
+                                                      magic afflicting them dispelled. The curse
+                                                      counts as a level 9 necromancy spell.
+ You descend the stairs, following a short            However, the party should be prepared.
+ winding staircase down into an underground           Disturbing the bones will anger any remaining
+ vault of marble walls and dirt floor. At the         spirits, especially the Queen of Sorrows, if she
+ center of the room sits a small stone                was not dealt with previously, and they will
+ sarcophagus, ornately carved in the likeness         come for the intruders and attack.
+ of an infant child. Encircling the coffin is a
+ ring of vibrant and colorful wildflowers. Their      8) South Landing
+ lingering fragrance despite the years suggests
+                                                      Tucked away at the south of the ravine is a
+ some unnatural magic at play. A placard on
+ the side of the coffin simply reads, ‘Lilac.’        small landing, a serene and tranquil shore,
+                                                      starkly contrasting the haunting remnants of
+                                                      Siverfell. The obsidian waters lap gently at the
+Lilac’s Coffin. The heavy lid of the                  rocky edge, bringing a momentary feeling of
+sarcophagus can be shifted with concerted             peace amidst the grim surroundings. Along
+effort. Interred inside are the skeletal remains      the cliff wall is the second of the twin towers
+of a young child. A faint green luminescence          that descend from the overland down into the
+emanates from the bones, casting eerie                ravine. It has an iron gate, which, like that of
+patterns on the walls of the crypt. Read this         the gate in area 1a, can be raised by lifting it
+script if the party opens the sarcophagus.            open with a DC 15 Strength check, by pulling
+                                                      a lever embedded on the inner wall (visible to
+                                                      the party as they come to the game from the
+
+                                   Liber Obscura 012 – Siverfell Ruins                                     15
+direction of Siverfell), or by smashing it down.
+It has an AC of 19 and 30 hit points. Past the
+gate, a crumbling staircase similarly rises 800
+feet back to the surface, taking approximately
+30 minutes to scale.
+
+
+Ending the Adventure
+Whether the curse is lifted or not depends on
+the party. If Lilac’s bones are incinerated or
+the necromantic magics afflicting them
+dispelled, the weight of despair that hangs
+over Siverfell begins to lift, replaced by a
+sense of peace and closure. The black waters
+may recede over time, and the specters that
+once haunted the city slowly fade, their
+tormented souls finally finding rest. Yet not all
+parties must take on such a risky endeavor.
+    You can use the adventure hook to
+emphasize different sections of the adventure.
+If you used the Lost Histories prompt,
+collecting the Annals of Siverfell may be the
+party’s priority. If you used the Cursed Spirits
+prompt, lifting the curse would certainly be the
+party’s main objective. If you used the Bridge
+Collapse prompt, simply surviving the horrors
+of Siverfell and escaping to the other side
+would be enough for the party to call their
+experience a victory. For your own prompts,
+consider similar objectives for the party to
+accomplish as they make their way through
+the haunted town of Siverfell.
+
+
+
+
+16                                Liber Obscura 012 – Siverfell Ruins
+                                     MONSTERS & NPCS
+Mournwraith
+Medium undead, chaotic evil
+Armor Class 13
+Hit Points 31 (7d8)
+Speed 0 ft., fly 50 ft. (hover)
+
+  STR     DEX      CON      INT      WIS     CHA
+    6      16       10        8       10      12
+   (-2)   (+3)     (+0)      (-1)    (+0)    (+1)
+
+Damage Resistances acid, cold, fire, lightning,
+thunder; bludgeoning, piercing, and slashing
+from nonmagical attacks
+Damage Immunities cold, necrotic, poison
+Condition Immunities charmed, exhaustion,
+grappled, paralyzed, petrified, poisoned, prone,
+restrained, unconscious
+Senses darkvision 60 ft., passive Perception 10
+Languages understands all languages it knew in
+life but can't speak
+Challenge 2 (450 XP)
+
+Incorporeal Movement. This creature can move
+through other creatures and objects as if they
+were difficult terrain. It takes 5 (1d10) force
+damage if it ends its turn inside an object.
+
+Actions
+Multiattack. This creature makes two shortsword
+attack and may use its life drain.
+
+Shortsword. Melee Weapon Attack: +5 to hit,
+reach 5 ft., one target. Hit: 6 (1d6 + 3) slashing
+damage.
+
+Life Drain. Melee Spell Attack: +4 to hit, reach 5
+ft., one creature. Hit: 3 (1d6) necrotic damage. The
+target must succeed on a DC 12 Constitution
+saving throw or its hit point maximum is reduced
+by an amount equal to the damage taken. This
+reduction lasts until the creature finishes a long
+rest. The target dies if this effect reduces its hit
+point maximum to 0.
+
+
+                                       Liber Obscura 012 – Siverfell Ruins   17
+                                                         Incorporeal Movement. This creature can move
+ Howling Banshee                                         through other creatures and objects as if they were
+ Medium undead, chaotic evil                             difficult terrain. It takes 5 (1d10) force damage if it
+ Armor Class 12                                          ends its turn inside an object.
+ Hit Points 63 (14d8)
+ Speed 0 ft., fly 40 ft. (hover)                           Actions
+     STR     DEX    CON     INT     WIS    CHA           Multiattack. This creature makes two attacks and
+       6      14     10       12     14     18           may use its life drain.
+      (-2)   (+2)   (+0)     (+1)   (+2)   (+4)
+                                                         Corrupting Touch. Melee Spell Attack: +5 to hit,
+ Saving Throws Wis +5, Cha +7
+                                                         reach 5 ft., one target. Hit: 13 (3d6 + 3) necrotic
+ Damage Resistances acid, cold, fire, lightning,
+                                                         damage.
+ thunder; bludgeoning, piercing, and slashing from
+ nonmagical attacks
+ Damage Immunities cold, necrotic, poison
+                                                         Screeching Howl. The banshee unleashes a
+                                                         powerful wail within a 30-foot cone. All creatures in
+ Condition Immunities charmed, exhaustion,
+                                                         the area must make a DC 15 Dexterity saving throw
+ grappled, paralyzed, petrified, poisoned, prone,
+                                                         or take 21 (6d6) force damage. Any creature in the
+ restrained, unconscious
+                                                         area that is not a-constructs or undead must also
+ Senses darkvision 60 ft., passive Perception 12
+                                                         make a DC 15 Wisdom saving throw or be
+ Languages understands all languages it knew in life
+                                                         frightened for 1 minute. On a failure, they are
+ but can't speak
+                                                         frightened. A frightened target can repeat the
+ Challenge 6 (2,300 XP)
+                                                         saving throw at the end of each of its turns, with
+ Detect Life. The banshee can magically sense the        disadvantage if the banshee is within line of sight,
+ presence of creatures up to 5 miles away that aren’t    ending the effect on itself on a success. If a target’s
+ undead or constructs. She knows the general             saving throw is successful or the effect ends for it,
+ direction they’re in but not their exact locations.     the target is immune to the banshee’s Screeching
+                                                         Howl for the next 1 hour.
+
+
+
+
+18                                    Liber Obscura 012 – Siverfell Ruins
+                                                       Cursed Blades. This creature’s weapon attacks
+Strighast                                              deal an additional 2d8 necrotic damage (already
+Medium undead, chaotic evil                            included in the attack).
+Armor Class 16 (natural armor)
+Hit Points 81 (18d8)                                   Incorporeal Movement. This creature can move
+Speed 30 ft.                                           through other creatures and objects as if they were
+                                                       difficult terrain. It takes 5 (1d10) force damage if it
+ STR     DEX     CON     INT     WIS     CHA           ends its turn inside an object.
+  16      16      10       10     14      16
+ (+3)    (+3)    (+0)     (+0)   (+2)    (+3)
+                                                       Actions
+Skills Perception +6, Stealth +7                       Multiattack. This creature may attack twice with its
+Damage Resistances acid, cold, fire, lightning,        shortsword and use its life drain.
+thunder; bludgeoning, piercing, and slashing from
+nonmagical attacks                                     Shortsword. Melee Weapon Attack: +7 to hit, reach
+Damage Immunities cold, necrotic, poison               5 ft., one target. Hit: 6 (1d6 + 3) slashing damage
+Condition Immunities charmed, exhaustion,              plus 9 (2d8) necrotic damage.
+grappled, paralyzed, petrified, poisoned, prone,
+restrained, unconscious                                Life Drain. Melee Spell Attack: +7 to hit, reach 5 ft.,
+Senses darkvision 60 ft., passive Perception 16        one creature. Hit: 10 (2d6 + 3) necrotic damage.
+Languages the languages it knew in life                The target must succeed on a DC 16 Constitution
+Challenge 9 (5,000 XP)                                 saving throw or its hit point maximum is reduced
+                                                       by an amount equal to the damage taken. This
+Chilling Movement. The strighast is immune to
+                                                       reduction lasts until the creature finishes a long
+attacks of opportunity and deals 10 (3d6) cold
+                                                       rest. The target dies if this effect reduces its hit
+damage to each creature it moves through on its
+                                                       point maximum to 0.
+turn. This effect can occur once per turn against
+each creature.
+
+
+
+
+                                    Liber Obscura 012 – Siverfell Ruins                                          19
+                                                             3rd level (3 slots): bestow curse, dispel magic,
+ Queen of Sorrows                                               hypnotic pattern
+ Large undead, chaotic evil                                  4th level (3 slots): confusion, greater invisibility,
+ Armor Class 12 (15 with mage armor)                            phantasmal killer
+ Hit Points 110 (20d10)                                      5th level (2 slots): cone of cold, dominate person,
+ Speed 30 ft.                                                   dream
+                                                             6th level (1 slots): freezing sphere
+     STR    DEX     CON     INT      WIS      CHA            7th level (1 slots): finger of death
+      10     16      10       16      16       20
+     (+0)   (+3)    (+0)     (+3)    (+3)     (+5)           Magic Resistance. This creature has advantage on
+                                                             saving throws against spells and other magical
+ Saving Throws Int +7, Wis +7, Cha +9                        effects.
+ Damage Resistances acid, cold, fire, lightning,
+ thunder; bludgeoning, piercing, and slashing from
+ nonmagical attacks                                          Actions
+ Damage Immunities cold, necrotic, poison                    Corrupting Touch. Melee Spell Attack: +5 to hit,
+ Condition Immunities charmed, exhaustion,                   reach 5 ft., one target. Hit: 13 (3d6 + 3) necrotic
+ grappled, paralyzed, petrified, poisoned, prone,            damage.
+ restrained, unconscious
+ Senses darkvision 60 ft., passive Perception 16
+ Languages the languages it knew in life
+                                                             Legendary Actions
+ Challenge 12 (8,400 XP)                                     The queen can take 3 legendary actions, choosing
+                                                             from the options below. Only one legendary action
+ Incorporeal Movement. This creature can move                option can be used at a time and only at the end of
+ through other creatures and objects as if they were         another creature's turn. The queen regains spent
+ difficult terrain. It takes 5 (1d10) force damage if it     legendary actions at the start of its turn.
+ ends its turn inside an object.
+                                                             Attack. The queen attacks with her corrupting
+ Magic Resistance. This creature has advantage on                touch.
+ saving throws against spells and other magical              Quick Cast. At the cost of a reaction, the queen
+ effects.                                                        casts any of her available spells of 1st level or
+                                                                 lower.
+ Spellcasting. This creature is a 14th-level                 Silvery Shroud (Costs 2). The queen surrounds
+ spellcaster. Its spellcasting ability is Charisma (spell        herself with a ghostly shroud. All attacks against
+ save DC 17, +9 to hit with spell attacks). The                  her have disadvantage until the next time she
+ creature has the following wizard spells prepared:              takes damage.
+
+ Cantrips (at will): chill touch, dancing lights, mage
+      hand, ray of frost
+ 1st level (4 slots): charm person, false life, fog cloud,
+      mage armor, sleep
+ 2nd level (3 slots): hold person, invisibility, mirror
+      image
+
+
+
+
+20                                      Liber Obscura 012 – Siverfell Ruins
+           ITEMS
+
+
+
+
+Liber Obscura 012 – Siverfell Ruins   21
+

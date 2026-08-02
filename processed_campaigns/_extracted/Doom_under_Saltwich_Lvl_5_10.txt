@@ -1,0 +1,1899 @@
+The N’GORROTH
+DOOM UNDER SALTWICH
+
+
+
+   A 5e Compatible Adventure
+     Suitable for levels 5-10
+                            CREDITS
+Developed by:
+      Bestiarum Games
+
+Lead Game Designer:
+      Alexander Dovermann
+
+Game Designer:
+     Giovani C. Fiorini
+
+Graphic Design:
+      Katarina Popovici
+      Alexander Dovermann
+
+Cartography:
+      Giovani C. Fiorini
+      Alexander Dovermann
+      Katarina Popovici
+
+
+
+
+                                ON THE COVER:
+                                SHAMBLER
+
+
+
+                                “
+                                  Shamblers are tough and hardy, morphing from
+                                the stronest and most rugged sailors and
+                                fisherfolk.
+                                  Their prodigious strength allows them to
+                                effortlessly carry their victims to their fisheries,
+                                where they gutt their bodies and haul them off for
+                                disposal in sheltered waters, where bobbing piles
+                                of rotting flesh allow the blue algae to bloom into
+                                great agricultural farms.
+
+
+                                                                                ”
+                                                                                   1
+                                                                  CONTENTS
+CREDITS ........................................................... 1                     Map 4: Fishery (GM) ................................ 26
+CONTENTS ...................................................... 2                  CHAPTER 3: THE LUMINOUS GROTTO
+FOREWORD: THE WORLD OF DOADEN                                                      ........................................................................... 27
+.............................................................................. 3       NAVIGABLE LOCATIONS ............................... 27
+ADVENTURE SUMMARY: DOOM
+                                                                                          G) The Sunken Temple .......................... 27
+UNDER SALTWICH ....................................... 4
+    SCENARIO & STORY STRUCTURE ................... 4                                      H) The Luminous Grotto ........................ 27
+
+       Story Hook ................................................... 4                   Map 5: Luminous Grotto (GM) ................. 30
+
+       Chapters ....................................................... 4          EPILOGUE ...................................................... 31
+                                                                                   APPENDIX A: FACTION FOCUS &
+       Balance......................................................... 4
+                                                                                   BESTIARY ...................................................... 32
+INTRODUCTION............................................ 5                         LAST MEMOIRES of AZERAI PRIEST ... 32
+  ADVENTURE NOTES ......................................... 5                      BESTIARY ...................................................... 34
+       The N’Gorroth ............................................. 5               SWARMS (CR 1)............................................ 35
+       The People & Culture of Saltwich ............... 5                            FISHERFOLK.................................................. 35
+
+       Saltwich Geography ..................................... 6                     STRANGLER ................................................... 37
+
+       Ab'zal Awakening & Madness .................... 6                           SOLDIERS (CR 2).......................................... 39
+                                                                                    N’GORROTH WARRIOR ................................. 39
+       Laurent Gilmiere’s Fate ............................... 7
+                                                                                   ELITES (CR 3) ................................................ 41
+       Wave-Based Encounters .............................. 7
+                                                                                     SHAMBLER .................................................... 41
+       Adventure Hook ........................................... 7
+                                                                                      TRAWLERS .................................................... 43
+       Map 1: Saltwich Town Map (GM) .............. 8
+                                                                                      ABYSSAL PASTOR.......................................... 45
+CHAPTER 1: UPPER SALTWICH ................ 9
+                                                                                   LEADERS (CR 5) ........................................... 47
+ STARTING THE ADVENTURE............................ 9
+                                                                                     ABYSSAL HIGH PRIEST ................................. 47
+    LOCATIONS IN UPPER SALTWICH ................... 9
+                                                                                           ................................................................... 49
+       A) Town Square ........................................ 9
+                                                                                   BOSSES (CR 9/12).......................................... 49
+       B)      Floating Sailor Inn ............................. 11                 N’GORROTH GIANT ...................................... 49
+       C)      Forlorn Abbey .................................... 14                  N’GORROTH GIANT (TORMENT) ................. 51
+CHAPTER 2: LOWER SALTWICH ............ 15                                          APPENDIX B: GAME RESOURCES ......... 52
+ LOCATIONS IN LOWER SALTWICH ............... 15                                     RESOURCES 1.1: LETTER & TEXT................ 52
+       D) Sodden Graveyard.............................. 15                               Laurent Gilmiere’s Notes .......................... 52
+       Map 2: Sodden Graveyard (GM) ............... 17
+       E)      Ruined Chapel.................................... 18
+       Map 3: Ruined Chapel (GM) ..................... 22
+       F)      Lighthouse.......................................... 23
+       G) Fishery .................................................. 24
+
+2
+                                    FOREWORD:
+                               THE WORLD OF DOADEN
+
+
+
+
+W
+               elcome to Doaden, the dark fantasy           Civilization & Trade in Doaden have crumbled.
+               setting of tainted lands and twisted         Only gold, silver, and copper are circulated, and
+               monsters, where an ever-creeping             only at 1/10th the amount suggested in D&D
+               affliction corrodes the very essence         manuals. Magical items are extraordinarily rare.
+               of existence. It is a world of decay
+and depravity where once-righteous men and                  Statblocks for Bestiarum creatures are
+heroes of glorious purpose now struggle to                  included in the appendix of this scenario. These
+survive as cults and dark gods vie with one                 creatures will be written in bold text. D&D's
+another to consume the last vestiges of humanity.           creatures are referenced by book and page
+   Doaden is filled with horrific scenarios and             number.
+impossible decisions. Players will have their
+morals challenged, and often no outcome will feel
+“good” or “just”. The heavy decisions these                  Narrative Scripts: are passages of text which
+heroes make often leaves them disheartened, and              should be read aloud or paraphrased as they
+                                                             build the atmosphere or provide key pieces of
+it is important that players prepare themselves for
+                                                             information to the players. This is an example
+this setting before starting any adventure through           of the “Narrative Script” format indicating
+the realm.                                                   that this section should be read aloud.
+   Hope. Yet as dark as Doaden may be, it is
+important that your players, as human beings, are
+able to find respite from the darkness. Light may
+be found even in the darkest of places, and you              Recurring Rules: are mechanics used to
+should alleviate the mood at the table if you                resolve specific situations. The rule will
+                                                             appear in this format when it first occurs.
+notice your players have trouble adjusting.
+                                                             You may also use your own rules to resolve
+                                                             these situations as well.
+
+
+
+ THERE IS LIGHT YET in Doaden, and                           Torment Mode: adventurers in Doaden fall
+ though it may seldom come in the form of                    into two categories based on the average
+ love or joy, it still shapes itself into a                  level of the party. Normal Mode ranges from
+ semblance of honor, purpose, and                            levels 5 - 7 while Torment Mode ranges from
+ redemption.                                                 levels 8 - 10. Encounters are written for
+                                                             Normal Mode, and Torment Mode
+          - Dreyen Solius, Journal of the World’s Ending.    modifications are given in this format to
+                                                             convert encounters to higher levels.
+
+Compatibility. This adventure is intended for use            Between these two difficulty levels, the
+in conjunction with the D&D 5e Player’s                      enemies encountered will generally have the
+Handbook (PHB), Dungeon Master’s Guide                       same statblocks. However, Boss monsters
+                                                             will be provided with a separate statblock for
+(DMG), and Monster Manual (MM).
+                                                             both Normal and Torment Modes.
+
+                                                                                                               3
+                            ADVENTURE SUMMARY:
+                            DOOM UNDER SALTWICH
+
+
+
+
+S
+            omething sinister lurks below the          southern shores of the Western Reaches to
+            seaside town of Saltwich. Laurent          conduct their search of Saltwich.
+            Gilmiere, a cleric of the Church of
+            Azerai and arcane researcher, was          Chapters
+            staying at the local inn while
+researching a source of powerful magical               In Chapter 1: the party investigates Upper
+emanations. The Church has not heard from him          Saltwich, interviewing a deranged drunkard and
+in several months and fears the worst.                 searching for clues in a ramshackle inn and
+  What happened to Gilmiere, and what                  cliffside abbey.
+disquieting nightmares had he found reflecting in
+the depths of Saltwich’s dark waters? The party        In Chapter 2: the party investigates Lower
+will investigate the disappearance, uncovering his     Saltwich. Lower Saltwich is a hostile place,
+strange and maddening tale.                            populated by mutated monstrosities. They will be
+                                                       swarmed by enemies and drawn into a crumbling
+SCENARIO & STORY STRUCTURE                             chapel, before searching for clues in a lighthouse,
+                                                       and a gruesome fishery.
+This is primarily an investigatory adventure.
+Players work to follow the trail of clues through      In Chapter 3: the party takes to the seas,
+Saltwich and piece together the events leading up      exploring the spires of a sunken temple and a
+to Gilmiere’s disappearance.                           hidden seaside cavern lit by luminous algae. Here
+  However, in the process, the party will be           they will uncover a horrific truth behind the
+challenged by swarming waves of mutant                 people of Salwich. In the dank caves, they will
+fishmen, twisted abominations with writhing            finally find the end of Gilmiere’s maddening
+appendages, and behemoth monstrosities that            journey.
+have risen from the depths. Worse yet, they will
+be touched by an ancient god, a horrifying entity      Balance
+of unknowable calamity.
+  The heroes must remain vigilant, lest they fall      This scenario is balanced for 3-4 players, with
+victim to this primordial evil, their minds melting,   Normal Mode levels 5-7, and Torment Mode
+clawing at their own eyes as they fall into            levels 8-10.
+insanity, leaving them nothing more than
+gibbering wretches and lunatics.
+
+Story Hook
+
+The party works as envoys of the Penitent
+Crusade, hired to track down Laurent Gilmiere
+and discover his fate. They will visit the isolated
+
+
+4
+                                     INTRODUCTION
+
+
+
+T
+           he central plot of this adventure follows   and the N'Gorroth, a gift from their god many
+           the investigation of Laurent Gilmiere’s     hundreds of generations ago.
+           disappearance. However, adventurers
+           will also uncover other secrets of the      The Metamorphosis.
+           Saltwich fisherfolk.                        As they reach late adulthood, many townsfolk
+             The party will uncover the maddening      undergo a physical change, metamorphosing into
+source of magical emanations, the sickening truth      an N'Gorroth hybrid. The process begins with the
+of the strange blue algae that people eat in the       individual feeling compelled to return to the
+area, and the disturbing revelation of the dark        shores of Saltwich.
+gods that slumber beneath the tides.                     After returning, they begin the change, turning
+                                                       into one of several forms depending on physical
+ADVENTURE NOTES                                        and mental capacities and the amount of
+                                                       N'Gorroth genetics in their blood.
+This adventure takes place entirely within the           Lowly fisherfolk sprout gills, tentacles, and
+seaside town of Saltwich.                              claws. Strong and physically impressive
+                                                       specimens grow, becoming hulking Shamblers or
+                                                       Trawlers. Myriad other forms and possibilities
+The N’Gorroth
+                                                       exist as well.
+                                                         The highest honor is to become an Abyssal
+The N’Gorroth are a varied underwater species
+                                                       Pastor, gaining telepathy and ability to commune
+that has existed since long before the dawn of
+                                                       with the Deep Ones. However, this change is rare
+man. Their sprawling cities once covered the
+                                                       and requires a gifted individual with high
+depths of Doaden’s deepest oceans, where they
+                                                       intelligence and magical sensitivity.
+constructed grand temples to the Deep Ones,
+ancient gods of unfathomable power.
+                                                       Dormant Genes.
+  More information about the N’Gorroth is
+                                                       The change is not always guaranteed. N'Gorroth
+included in Appx. A: Faction Focus.
+                                                       genes may lie dormant for generations or be too
+                                                       diluted within an individual to activate.
+The People & Culture of Saltwich                         Though the genes are concentrated in the
+                                                       endemic population, people who descended from
+The people of Saltwich are wary of outsiders.          Saltwich stock but whose families have
+They have lived in the region for hundreds of          originated from the area may still possess enough
+generations and share genetics with the                of the gene combination to undergo the change.
+N'Gorroth, having been blessed by the Deep Ones        In these cases, the individual may have no idea
+long ago.                                              what is happening to them when the change
+                                                       finally comes, having been removed from the
+Strange Folk.                                          Saltwich culture many generations ago.
+The villagers vary in appearance, but tend to
+exhibit physical oddities including baldness,          Disappearing Travelers & Blue Algae.
+narrow heads, bulging eyes, pale skin, and an          Rumors abound about sailors, travelers, and
+intense fishy body odor. These traits are a result     merchants disappearing in the Saltwich area.
+of the genetic mixing between humans of the area
+                                                                                                       5
+Often, blame is placed on the turbulent seas or      the sheltered waters of the cave, allowing the
+thick fog that blankets the region and makes it      algae to bloom.
+easy to lose one’s way.                                The grotto also serves as their place of worship.
+  However, there is a darker secret at play. The     Gilmiere stays there now, sharing his visions of
+people survive by eating a luminous blue alga.       the Deep Ones with his congregation, under the
+The algae feast on dead bodies, so in order to       watchful eye of the High Priest. The party will be
+cultivate it, the Saltwich folk capture, kill, and   led here during the last chapter of the adventure.
+mutilate adventurers. The corpses are then
+anchored into areas of shallow water using ropes     Ab'zal Awakening & Madness
+or fishing nets, allowing the algae to bloom on
+the decaying flesh.                                  The people of Saltwich worship a Deep One
+                                                     known as Ab'zal.
+Protecting Their Own.                                  A squall brews far off on the horizon, forming a
+The people of Saltwich protect their own. When       pillar of clouds that churn with sporadic
+Gilmiere arrived, they knew he was undergoing        lightning. The storm exists perpetually. But once
+his change, and now they work to cover his trail.    a year, it grows into a great maelstrom, forming a
+                                                     massive cyclone that draws the water away from
+Saltwich Geography                                   the shore to reveal the sunken temple city of the
+                                                     N’Gorroth.
+Saltwich lies on the isolated southern region of       This event is known as Ab'zal’s Awakening,
+the Western Reaches.                                 and during this period, the townsfolk visit the
+                                                     temple to undergo their change. At all other
+Upper and Lower Levels.                              times, the temple is covered by the sea, and only
+Saltwich is built along a ridge rising from the      its highest spire rises above the waves.
+shore. It has two levels. The explorable areas of      The last Awakening happened during
+the upper level include the Town Square, the         Gilmiere’s stay, and will not happen again for
+Floating Sailor Inn, and far above on the nearby     quite some time.
+cliff, the Forlorn Abbey. The Explorable areas of
+the Lower Level include the Sodden Graveyard,        Short Term Madness
+Ruined Chapel, Lighthouse, and Fishery, and
+across the waves, the Sunken Temple.                 The party may experience the effects of madness
+                                                     caused by Ab'zal during this scenario.
+The Sunken Temple.
+A sunken city of the N'Gorroths lies offshore.
+Though this city is not explorable in this            Short Term Madness. If a player is affected by
+adventure, the players may find and row to a          a short term madness in this scenario, they
+single temple spire that still rises above the        suffer the following effects for 5 minutes.
+waves.
+                                                      Madness Effect. Characters affected by short
+                                                      term madness suffer all the following effects:
+Luminous Grotto.                                        If the character attempts to move, they must
+A hidden sea cave below the cliffs of Saltwich is     roll a d6. On a 1, they retreat into their mind,
+used by the fisherfolk to cultivate blue algae.       staying rooted in place and losing any
+They pile the gutted corpses of their victims in      remaining actions for the turn.
+                                                        If the character attempts to attack, they must
+
+6
+ roll a d6. On a 1, they use any remaining
+ movement to run towards their nearest ally and       Spawning Waves: spawn enemies at the
+ attack that ally if they are in range.               beginning of their noted round, according to
+   If the character attempts to cast a spell, they    any rules which may be specified.
+ must roll a d6. On a 1 or a 2, they can only
+ babble and are incapable of normal speech,           Starting Initiative: if a creature is spawned or
+ losing the action and being unable to cast spells    joins the fight on the first round of combat, roll
+ for the rest of the turn.                            its initiative as normal.
+
+                                                      Delayed Initiative: if a creature is spawned or
+Laurent Gilmiere’s Fate                               joins the fight on any round after the first, it is
+                                                      added to the end of the initiative order.
+
+Gilmiere was a gifted individual, possessing high     Fast Initiative: If a creature has a Dexterity
+intelligence and latent magical capacity.             modifier of +4 or higher, it is placed at the
+Unbeknownst to him, he was a descendant of            beginning of the initiative order.
+Saltwich stock, though his family moved away
+many generations ago.
+  Gilmiere believed he was traveling to Saltwich     Adventure Hook
+to investigate a source of magical emanations, but
+was actually undergoing the first stages of his      The party will be hired by Father Armitage of the
+change. He did not know it, but he was following     Church of Azerai to find Laurent Gilmiere.
+the inner calling of his N'Gorroth genes, being      Provide the party with Gilmiere’s Note 1 (Appx.
+instinctively driven to return to his ancestral      B: Game Resources).
+home to undergo the change.                            After they have reviewed the letter, read the
+  After his arrival, Gilmiere spent several weeks    opening script in Chapter 1 to begin the
+in Saltwich as his body and mind were torn apart.    adventure.
+When Ab’zal’s Awakening occurred, he visited
+the sprawling temple of the N’Gorroth and
+emerged as an Abyssal Pastor.
+  The people of Saltwich knew immediately that
+he was one of them. They were happy to see his
+affinity and interest in the arcane, and quickly
+understood that he was meant for great things,
+being called back to become an Abyssal Pastor.
+
+Wave-Based Encounters
+
+This scenario contains several wave
+encounters, where enemies spawn on
+designated combat rounds. When running
+these encounters, use the following rules.
+
+
+
+
+                                                                                                            7
+Map 1: Saltwich Town Map (GM)
+
+
+
+
+8
+                         CHAPTER 1: UPPER SALTWICH
+
+
+
+
+T
+          he party begins their adventure in          LOCATIONS IN UPPER SALTWICH
+          Saltwich, the last known location of
+          Laurent Gilmiere. It is a strange and       The following sections are each explorable areas
+          isolated region, and rumors abound          of Upper Saltwich and marked in Map 1:
+          about people disappearing in the thick      Saltwich Town Map (GM).
+          fogs and churning seas of the area.
+                                                         A) Town Square
+STARTING THE ADVENTURE
+                                                      Read this script to continue.
+To begin this adventure, read this script.
+
+                                                       A cold wave crashes into the cliffs below,
+ You have been hired by the Church of Azerai           spraying you with a mist of salt water that
+ to track down a cleric, a middle-aged man by          burns your lips and throat. A squall brews in
+ the name of Laurent Gilmiere. Gilmiere was            the distant horizon; a twisting cyclone of
+ an accomplished scholar and arcane                    darkened clouds that sparks with the occasional
+ researcher, having made a number of recent            spear of lightning.
+ discoveries on the source energies of magic.            You have been traveling along the southerly
+   Father Armitage, his mentor, explained to           roads for weeks. Once the grand roots of the
+ you that Gilmiere was last traveling south to         old empire, they are now nothing more than
+ follow a trail of powerful emanations that he         cracked cobblestones and withered dirt.
+ had discovered.                                         After days without encountering a single
+   Gilmiere was usually diligent about keeping         traveler, you come to a small seaside hamlet, a
+ in touch, providing regular updates about his         collection of lichen-crusted shacks that descend
+ work. However, the last letter they received          from a ridge down to the shore. Perched high
+ from him arrived several months ago. Father           above on a nearby cliff sits a lonely abbey, its
+ Armitage fears the worst as the silence is            walls cracked and crumbling.
+ alarmingly uncharacteristic of him.                     Making your way into the town, you see
+   It should not be difficult to identify Gilmiere.    fisherfolk shifting about in the shadows, their
+ He wears the yellow robes of the Azerai               lanky frames clad in wet rags. You feel them
+ scholars and a silver pendant hangs around            watching you. Never quite directly, but with a
+ his neck in the shape of a gull, a seabird that       sidelong glance here, a backward turn there, or
+ once adorned his family’s crest before he             staring indirectly from behind a shuttered
+ joined the priory.                                    window or around a corner.
+   In exchange for returning Gilmiere safely to          You come to the town square, just the gnarled
+ the church, or confirming his fate, Father            husk of a long dead tree framed by a small bare
+ Armitage has promised you each 15 gold                dirt courtyard. At the far end of the courtyard is
+ coins.                                                a two-story building adorned with a rusted
+                                                       placard depicting a man floating face-down in
+                                                       a body of water.
+You should have already provided the party with          At the base of the tree, a man hunches on the
+a copy of Gilmiere’s Note 1 (Appx. B: Game             ground, rocking back and forth and reeking of
+Resources). However, if you have not, give the         sour alcohol. His unkempt beard is crusted in
+                                                       salt. He shakes and moans, gibbering nonsense
+party a chance to review the letter, and then read
+the following script in the next section.
+                                                                                                         9
+ and whispering in crazed half-sentences. As he
+ spots you, he raises a finger and cackles.           As you leave, the man suddenly spasms. His
+                                                      eyes open wide, and he grasps at his face with
+     “More chum for the crop, yes, yes!”              clawing fingers. He yells out,
+
+                                                      “It is always watching!”
+Conversation with the Drunkard
+                                                      Then, just as suddenly, he hunches back in a
+                                                      fetal position, shaking uncontrollably and
+ The man expects the townsfolk will kill the          babbling nonsense.
+party and throw their corpses into the algae farms.
+  The party may speak to him, but he should not
+reveal any secrets of Saltwich.
+  Keep in mind the following while running the
+conversation:
+
+Background:
+  The man is a Saltwich resident.
+  He passed the age of change but nothing
+happened.
+  Now, he is distraught, knowing he will remain
+human, and has turned to drink.
+If asked what bothers him, he might say
+“Why am I not worthy? Why am I not chosen?”
+but will not explain his statements.
+
+Incoherent Babbling.
+  The man may answer simple questions.
+  However, he will not reveal any meaningful
+information about Saltwich.
+  If the party pressures him, he may revert to
+babbling incoherently.
+
+Gilmiere’s Fate.
+
+  The man will deny knowing Gilmiere.
+  This is the truth, though it is because he has
+been too drunk and inconsolable to notice him.
+
+Moving On.
+
+When the party leaves, read the following script:
+
+
+
+
+10
+   B) Floating Sailor Inn                              room, Marshley will take them to the unlocked
+                                                       room upstairs, Room A, and leave them there.
+The Floating Sailor Inn is adjacent to the town
+square. It was described in the starting script, and   Conversation Topics.
+is a dilapidated two-story building owned by           If the party speaks with Marshley, he may give
+Innkeeper Marshley.                                    basic information about Saltwich, but will not
+  When the party enters the inn, read:                 reveal the town’s secrets.
+                                                         Regarding Gilmiere. Marhsley will deny
+                                                       seeing Gilmiere. However, if confronted with
+ The rotting wood inn is filled with dusty tables      evidence of Gilmiere’s stay, he will admit that
+ and chairs. Taking a seat, you see a cauldron         Gilmiere stayed for a night, but claim that he
+ bubbling over a small hearthfire along the far        moved on the next day.
+ wall, filled with an oozing gray sludge that
+ gives off a slightly sour aroma.
+   In the far corner of the room, a narrow             Combat Encounter
+ staircase leads upward. Next to it, a hunched
+ man sits at a counter, on top of which lies a         If Marshley worries that the party is digging too
+ small envelope bearing the red wax seal of the        deeply into Gilmiere’s fate, he will attack with
+ Church of Azerai.                                     several townsfolk that are hiding nearby.
+   The man watches you warily, but shuffles over
+ as you sit. He moves with an uneven gait, his
+ swollen feet squelching on the wood floor. He is
+                                                        A Hostile Welcome: If Marshley notices the
+ bald with a narrow head and bulging eyes, and
+                                                        players take Gilmiere’s letters on the First
+ his skin gives off a sickly pale sheen. As he
+                                                        Floor, or break into Gilmiere’s room on the
+ approaches, you are overwhelmed by an intense
+                                                        Second Floor, he will attack immediately
+ fishy odor.
+                                                        with several other fisherfolk.
+
+                                                        In this case, generate the following enemies:
+Innkeeper Marshley                                        1x Strangler
+                                                          2x Fisherfolk
+Marshley is a middle-aged man. He is able to
+change into a hideous hybrid form. However, he
+conceals his true nature at first.
+  He knows what happened to Gilmiere, but will          Torment: add the following enemies.
+                                                         1x Shambler
+attempt to mislead the party if they speak to him.
+He will poorly attempt to cover Gilmiere’s tracks.
+                                                       GM Note: The Strangler should be Marshley.
+Provisions & Rooms.
+Marshley sells several dishes, all made with blue
+algae. His menu includes Algae Stew for 2 silver,      First Floor
+Algae Fried for 1 silver, Glowing Algae for 8
+copper, Algae Salad for 7 copper, and Raw Algae
+                                                       The first floor is a 40 ft. by 40 ft. space, mostly
+with a Secret Sauce for 2 silver.
+                                                       taken up by a dining area of several long tables.
+  Rooms cost 10 gold per night, an extortive rate,
+but it is the only inn in town and Marshley does
+not wish for the party to stay. If they do rent a
+                                                                                                         11
+Algae Stew.
+ A pot of blue algae stew bubbles over the hearth. When cooked, it becomes a bland gray sludge, the
+staple of the area.
+
+
+
+
+12
+Marshley’s Desk.                                       break the door down. The door is weak and
+Sitting on Marshley’s Desk is one of Gilmiere's        shatters easily, but causes a loud noise when it
+letters, which he paid Marshley to deliver.            breaks, alarming Marshley wherever he is.
+However, Marshley never sent it because he
+wished to prevent any outside attention. If players
+                                                      When entering Gilmiere’s room, read the
+retrieve the letter, provide them with copies of
+                                                      following script:
+Gilmiere’s Note 2 (Appx. B: Game Resources).
+
+
+                                                       The cramped room is filled with an array of
+ Stealing the Letter: to steal the letter without      strange copper rods standing in a circle at the
+ alerting Marshley while he is present in the          center, attached to which are a variety of slowly
+ room and not distracted, a character must             rotating dials and meters.
+ succeed on a DC 15 Dexterity (Sleight of Hand)          Between the rods, a circular chalk diagram is
+ check.                                                outlined on the floor and filled in with a
+   If Marshley is in the room, but distracted,         geometric pattern. Dozens of numbers are
+ they gain advantage on the roll.                      marked at various intersecting intervals of the
+   If Marshley is not in the room, they                diagram.
+ automatically succeed.                                  An uneven bed has been shoved into the
+                                                       corner, its yellowed linen sheets covered by
+                                                       scattered handwritten notes and pages of
+                                                       mathematical calculations.
+Second Floor
+
+A narrow stairway at the far end of the First Floor   Gilmiere’s Note.
+leads to the Second Floor, just a small hallway       If the players inspect the notes on the bed, they
+with two doors, one on either side. Each door         find Gilmiere’s Note 3.1 and the hand drawn
+opens to a cramped 15 ft. by 15 ft. room.             map, titled Gilmiere’s Note 3.2, included in
+                                                      Appx. B: Game Resources.
+Room A.                                                 If a character touches the note, they must make
+The room to the left contains two beds. If the        a DC 14 Wisdom saving throw. On a failure, they
+party wishes to rent a room, Marshley will bring      take 1d6 psychic damage and are affected by a
+them to this room and let them stay here.             sudden vision.
+                                                        Read the following script:
+Room B.
+The room on the right is locked at all times. It       As you step inside, a sharp pain stabs your skull
+holds several of Gilmiere’s belongings and             and you see a vision of a crying man, laughing
+                                                       maniacally and clasping his head as he writes
+equipment for reading magical emanations. If the
+                                                       frantically in a journal, tearing page after page
+party asks Marshley why the room is locked, he         from the book and throwing them to the ground.
+should give a poor excuse, such as it is “closed         But just as it came, the vision quickly
+for renovations.”                                      dissipates, leaving you back in the cramped and
+                                                       musty room.
+
+ Accessing Gilmiere’s Room: the party may
+ unlock Room B by using Thieves' Tools and
+ succeeding on a DC 15 Dexterity check.
+   If the party fails to pick the lock, they must
+                                                                                                      13
+     C) Forlorn Abbey                               1d6 psychic damage and are affected by a sudden
+                                                    vision.
+The abbey was built by the Azerai church ages       Read this script:
+ago. It has long since been abandoned, and little
+remains there. From the vantage point outside of
+                                                     Touching the paper, a searing pain explodes in
+the abbey, a viewer can see the spire of the
+                                                     your forehead. You have a sudden vision. For
+Sunken Temple that rises above the sea.              a split second, you see an enormous eye filling
+                                                     the chamber, looking directly at you. You
+When the party travels to the Forlorn Abbey,         shake in terror, but just as quickly as it came,
+read the following script:                           the vision disappears, and you find yourself
+                                                     back in the silent abbey.
+
+ You make the long hike up the mountain
+ towards the lonely abbey, climbing carefully       Dusty Potions. If the party inspects the dusty
+ along the narrow dirt footpath that winds its      shelves along the wall, they may find some old
+ way up the face of the cliffside.                  potions. A character may make a DC 15 Wisdom
+   After some time you reach the summit, a          (Investigation) check. On a success, they find 2x
+ peaceful place, with only the sounds of softly     Potions of Greater Healing (DMG. 188).
+ gusting winds that blow along the seashore.
+ Looking out over the now miniscule town of
+ Saltwich, you gaze out to the sea. The squall
+ still brews on the horizon, but you notice
+ something new. A black spire rises above the
+ waves not too far offshore; a strange dark
+ formation, too symmetrical and too smooth to
+ be a rock or reef.
+   You gather your breath and head into the
+ faded abbey, finding its interior dim and empty,
+ save for a dusty few shelves along the walls and
+ a dozen metal rods attached to needle-point
+ gauges, scattered haphazardly on the floor at
+ the center of the room. A torn shred of paper
+ lies near the rods, half-covered by a crusted
+ splotch of dried blood.
+
+
+Clues & Items
+In the abbey, the party may find one of
+Gilmiere’s notes as well as some historical
+records about Saltwich.
+
+Gilmiere’s Note. If the party inspects the paper
+near the rods, they find Gilmiere’s Note 4
+(Appx. B: Game Resources). If a character
+touches the paper, they must make a DC 14
+Wisdom saving throw. On a failure, they take
+
+14
+                       CHAPTER 2: LOWER SALTWICH
+
+
+
+L
+        ower Saltwich includes all the remaining       your spine and rattles your skull, stabbing like
+        explorable locations except for the            sharp daggers into your forehead.
+        Luminous Grotto.                                 From the town, you hear wailing shrieks as
+                                                       angered men and tentacled monstrosities begin
+                                                       to emerge from the squalid shacks.
+                                                         Turning towards the chapel, you find a wide
+                                                       broken window that has been boarded up by
+First Encounter. As the party descends into            loose wooden planks and rusted nails.
+Lower Saltwich, the Drunkard from the town
+square rings the bells in the Ruined Chapel, trying
+to bring about his doom, and inadvertently            Wave Encounter
+drawing the players into danger as well.
+Begin by reading the narrative script in section D)   This is a wave-based encounter. To begin, place
+Sodden Graveyard, and run the encounter.              the party in area D1 of the graveyard as depicted
+                                                      by Map 2: Sodden Graveyard (GM).
+LOCATIONS IN LOWER SALTWICH
+                                                      Objective. The party must break down the
+The following detail the areas of Lower Saltwich      boarded window in area D2 that leads to the
+as marked in Map 1: Saltwich Town Map                 chapel interior and stop the Drunkard from
+(GM).                                                 ringing the bells.
+                                                         The window has been boarded up with layers of
+                                                      wooden planks. The window has 8 planks, and
+    D) Sodden Graveyard
+                                                      when they are all removed, skip to the paragraph
+                                                      titled Ending the Encounter.
+When the party enters Lower Saltwich, read:
+
+                                                       Smashing Planks: A character may spend 1
+ You descend a gravel ridge into the lower             action to remove a plank or smash it with a
+ levels of Saltwich, finding the houses in much        weapon.
+ the same derelict state; made of warped planks
+ nailed haphazardly at slanted angles.
+   The cobbled road is slick with saltwater and
+                                                      Random Spawns:
+ strewn with strands of seaweed. You step off
+ the road into a small graveyard when a sudden        You may spawn enemies randomly by assigning
+ clang fills the air; the discordant peeling of a     each D3 location a number 1 through 4. Then, roll
+ large bell. You look to the source of the sound,     a d4 for as each enemy spawns, and place them at
+ finding a stone chapel at the far end of the         the correspondingly numbered location.
+ graveyard.                                             Alternatively, you may place the enemies where
+   At the top of the bell tower, the drunkard         you see fit.
+ from the town square flails about, ringing the
+ bell madly and yelling to the sea.
+                                                      Combat Rounds
+   “See me! See me! Come and get me!”                  the following enemies spawn at the beginning of
+                                                      the specified combat rounds. If the party has not
+ With each ring, a screeching shiver shoots up        broken the door by Round 5, continue to spawn
+                                                                                                      15
+enemies as you see fit. The players should feel
+pressure, but should not burn too much of their
+resources, as the fight will continue inside.
+
+Round 1. Spawn:
+ 1x Fisherfolk
+ 1x Strangler
+
+
+ Torment: add 1x Fisherfolk
+
+
+Round 2. Spawn:
+ 1x Strangler
+
+
+ Torment: add 1x Shambler
+
+
+Round 4. Spawn:
+ 1x Strangler.
+
+
+ Torment: add 1x Fisherfolk
+
+
+Ending the Encounter
+
+Once the boarded window at D2 is destroyed,
+move the players to area E1 of Map 3: Ruined
+Chapel and read this script before starting the
+next section.
+
+Read this script to begin the encounter:
+
+
+ Screams echo through the streets as the swarm
+ of monstrous villagers begins to swell. They
+ pour from their houses and shamble towards
+ the chapel, drawing forth hooks and knives,
+ enraged by the ringing bell.
+   You frantically yank the last wooden panel
+ from the window and jump through the sill, into
+ the darkened mass hall of the chapel.
+
+
+
+16
+Map 2: Sodden Graveyard (GM)
+
+
+
+
+                               17
+     E) Ruined Chapel                                 Map Locations
+
+The church was constructed long ago by Azerai         These locations are marked on the combat map.
+missionaries. However, their priests were ousted
+long ago, succumbing to madness and the violent
+wrath of the fisherfolk who worshiped their own       E1) Broken Window.
+gods. The ancient skeleton of one of the old          The party enters here, and this location is the first
+priests can still be found in the building.           point for enemies to spawn at.
+
+Wave Encounter: Ab’zal Sees                           E2) Boarded Window.
+                                                       Enemies will attack this window from the
+This is a wave-based encounter occurring on           outside, smashing it after 3 rounds. Once
+Map 3: Ruined Chapel (GM). To begin, place            destroyed, new enemies will begin to spawn from
+the party in area E1 of the mass hall and read this   this location as well.
+script:
+                                                      E3) Main Entrance.
+                                                      An illusion of Ab'zal will smash down the double
+ You look around the musty chapel. To your            doors at the end of round 7. If this happens, the
+ left, at the far end of the hall is a sturdy door    players will experience the maddening vision of
+ leading to the inner sanctum. Across from you,       Ab'zal’s gaze. However, the Deep One is not real,
+ past rows of shattered pews, is a boarded            and disappears afterwards.
+ window like the one you broke in from. At the
+ end of the hall to your right is an enormous
+ wooden double-door entrance secured by a             E4) Door to Inner Sanctum.
+ thick iron bar lock.                                 This door must be broken to continue. Use the
+                                                      Smashing Planks rule from the Sodden
+                                                      Graveyard, but treat the door as having 6 Planks.
+Stopping the Bells.
+The players must stop the ringing bell by the end       When the party smashes the door, read:
+of round 7. If they fail to do so, they will see a
+maddening vision of Ab'zal’s gaze.
+  To reach the bell tower, the party must break        You break your way into the inner sanctum,
+through wooden doors E4 and E5, then ascend            finding a small damp room with a rotted
+the ladder at E6 to deal with the drunkard.            priest’s desk at the center. A skeleton wearing
+                                                       ancient, faded scarlet robes is crumpled in the
+                                                       corner, still clutching its face, fingers digging
+Questioning Reality.                                   into its own eye sockets.
+This encounter is a mix of madness and reality. If       To the right is another door, worn and
+the party dies here, they will see the vision of       waterlogged and growing clumps of lichen and
+Ab'zal’s gaze as if they survived until the end of     sea moss. Behind the door, you hear the
+round 7, and when they awake, they will find that      echoing ringing of the bells and the drunkard’s
+                                                       maniacal fits of desperate laughter.
+their experience was a hallucination induced by
+madness.
+                                                      E5) Door to Bell Tower.
+                                                      This door must be broken to continue. Use the
+                                                      Smashing Planks rule from the Sodden
+18
+Graveyard encounter, but treat the door as having    Round 2. Spawn:
+4 Planks.                                             1x Fisherfolk (E1)
+
+ When the party smashes the door, read:
+                                                      You hear a loud smash from the boarded
+                                                      window at the far end of the chapel. Several
+ You break into a bell tower, a wooden ladder         planks splinter and a few clatter to the ground.
+ rising up the steeple. The clangs of the bell
+ ricochet down from the belfry, echoing through
+ the claustrophobic space and raking your head       Round 3. Spawn:
+ with its maddening cacophony. The drunkard
+ continues to yell.                                   1x Strangler (E1)
+
+   “Come and get me! Come and get me!”
+                                                      Torment: add 1x Shambler (E1)
+E6) Bell Tower.
+The bell tower may be climbed by using the
+ladder, which is 40 ft. in height. At the top is a    There is another smash on the boarded
+small walkway where the Drunkard stands.              window. More planks collapse. Just a few
+  He cannot be reasoned with and has the stats of     remain to bar the entryway.
+a Commoner (MM, p.345). If slain, the Drunkard
+drops 2 Potions of Poison (DMG. 188)
+                                                     Round 4. Spawn:
+  If the party stops the Drunkard from ringing the
+bell, read this script and skip to the end of this
+                                                      1x Trawler (E2);
+section titled Ending the Encounter:
+
+
+                                                      The boarded window bursts open, sending
+ As the bell gives its last tintinnabulation, the
+                                                      splintered wooden debris through the air.
+ sounds of seagulls and waves rocking against
+                                                         A hulking figure bursts through, shrieking as
+ the shore returns.
+                                                      it rushes forward, a mass of writhing tendrils
+   As suddenly as they came, the degenerate
+                                                      springing forth from its mouth as its milky,
+ swarm of villagers disperses, returning to their
+                                                      expressionless eyes stare at you.
+ darkened alleyways.
+   Looking to the ground, you find a crumpled
+ note.
+                                                     Round 5. No units spawn.
+
+
+Combat Rounds
+                                                      Torment: add:
+                                                       1x Strangler (E1)
+Enemies spawn and scripts are read at the              1x Strangler (E2)
+beginning of the round.
+
+
+                                                      As the bell rings on, a monstrous form rises
+Round 1. Spawn:                                       outside, lumbering about the perimeter of the
+ 2x Strangler (E1)                                    chapel. Its form is obscured by the structure,
+                                                                                                       19
+ so you cannot make it out, but its enormous        If they fail, read this script:
+ shadow blankets the building, snuffing the dim
+ rays of sunlight that had earlier managed to
+ penetrate the cracks in the walls.                 The entry door shatters. Monstrous tentacles
+   You hear a loud gurgling, like a drowned         flood the mass hall, peeling away the wooden
+ man, but a thousand times louder, as the thing     debris as a colossal head thrusts itself into the
+ drags itself to the large wooden doors at the      chapel, filling the space with a thousand milky
+ front of the church. The gurgling stops for a      eyes surrounded by pulsating flesh.
+ moment before a heavy bang hits against the          The caterwauls of the bell become one long,
+ door, the powerful blow shaking up a cloud of      continuous screech, rending your mind as your
+ dust and rattling the iron bar lock.               eyes are pierced with excruciating pain. You
+                                                    claw at them, tearing into your own flesh as you
+                                                    go blind, warm blood flowing between your
+Round 6. Spawn:                                     fingers as you become surrounded by the
+                                                    absolute blackness of the abyss.
+ 1x Strangler (E2)                                    A voice speaks to you, deep and inhuman.
+ 1x N’Gorroth Warrior (E3)                          Unutterably guttural. Thick and coarse, its
+                                                    heavy vibrations shake your soul.
+
+                                                      “I…SEE…YOU.”
+ Torment: add 1x N’Gorroth Warrior (E1)
+                                                    You awake, finding yourself laying on the damp
+                                                    stone ground of the chapel. The front gates are
+                                                    still intact. There are no creatures in the
+ The large wooden door shudders again as it         vicinity.
+ is hit by another strong blow. The panels split      As you step outside, the world seems to
+ as dust and debris rain down from the ceiling.     waver, rippling like the surface of water. A
+   Through the newly open cracks in the front       concoction of distorted, horrified faces with
+ gate, a thin cephalopod humanoid squeezes          bulging milky eyes, both huge and small, dart
+ its way inside. Dashing towards you, its           back and forth, staring everywhere and
+ amorphous form slides snakelike across the         nowhere at all, before fading in and out of
+ ground, while sprawling tentacles covered in       reality. The sky has turned a dark reddish
+ spikes drag behind it.                             black, and the chanting of a sinister choir
+                                                    singing a lunatic melody in a long-forgotten
+                                                    language fills your ears.
+Round 7. No units spawn.                              You find a crumpled note clutched in your
+                                                    balled-up fist.
+
+ The wooden door is hit by a third massive
+ strike, shattering the frame and twisting the     If the party fails:
+ iron bar. The chapel shakes, its foundations
+ cracking while sections of roofing collapse       The visions of the horrifying world, eyes, floating
+ into heaps of dust.                               heads, and dark choir will persist until the end of
+                                                   the scenario. This does not affect combat, but it
+                                                   may take a creature several days or even weeks to
+Failing the Encounter
+                                                   recover from such traumatic visions. You may
+The party may fail the encounter by not stopping   determine when the party heals from these events.
+the Drunkard by the end of round 7, or by being
+defeated before then.
+20
+Ending the Encounter
+
+The note that the players find is Gilmiere’s Note 5 (Appx. B: Game Resources). If a character touches
+the paper, they must make a DC 14 Wisdom saving throw. On a failure, they take 1d6 psychic damage.
+  If the party succeeds, the note will lie on the ground nearby and they may find a safe way to open it.
+However, if they failed the event, the note will be in the hands of a party member. Select one character
+at random to have grabbed the note.
+
+
+
+
+                                                                                                      21
+Map 3: Ruined Chapel (GM)
+
+
+
+
+22
+   F) Lighthouse                                        When they travel up the stairs, read:
+
+The lighthouse stands at the end of a small
+                                                         You climb a spiral staircase to the circular
+peninsula. It is used by the fisherfolk to lure ships
+                                                         walkway at the top of the lighthouse. The
+to their doom by crashing on the spiked reefs            blackened ocean stretches out as far as you can
+nearby.                                                  see.
+  The people of Saltwich then collect the bodies           The nearby reefs jut outwards like a thousand
+and take them to the Fishery, to be gutted and           rows of jagged teeth as the waves crash and
+processed in order to feed their blue algae farms        churn about them, sweeping in the corpses of
+in the Luminous Grotto.                                  shattered ships and floating timbers.
+                                                           Shifting squid-like forms slip about the
+  Because of its importance to their agriculture,
+                                                         treacherous reefs, searching the wreckage and
+the villagers tend the lighthouse at all times.          plucking out bloated corpses, carrying them
+                                                         back towards a fishery by the shore.
+When the party travels to the lighthouse, read:            As you follow their movement, you notice
+                                                         something strange. Along the cliffside beneath
+                                                         the upper levels of Saltwich, you see a dark
+ An old lighthouse stands some way offshore,             recess in the ridge which was hidden from
+ accessible by a narrow sandbar. It is an ugly           above. From the dark opening, you see a soft
+ thing, a dingy gray barnacled structure riddled         blue glow, a luminous pulse that shifts gently
+ with cracks and fissures.                               from azure to turquoise.
+   The beacon is shining brightly from the top of
+ the tower. You make your way to the structure.
+ Peering through the open door of the bottom            The blue glow is coming from the Luminous
+ level, you see several ragged figures stumbling        Grotto, where the sheltered mouth of the sea cave
+ about.                                                 is used by the Saltwich people to cultivate a large
+                                                        crop of blue algae.
+
+Combat Encounter: The Siren’s Light
+
+The lighthouse is occupied by several enemies.
+
+Enemies. At the base of the lighthouse are the
+following enemies.
+
+ 4x Fisherfolk
+ 1x Shambler
+
+
+ Torment: add 2x N’Gorroth Warrior
+
+
+Climbing the Lighthouse.
+To reach the top of the lighthouse, the party may
+climb a narrow set of spiral stairs leading to the
+beacon.
+
+                                                                                                         23
+G) Fishery                                          Map Locations
+
+The Fishery is a large warehouse used by the        These locations are marked on the map, Map 4:
+fisherfolk to process their victims before          The Fishery (GM).
+throwing them into the blue algae farms.
+  Several row boats are stored inside which the     G1) Front Entrance.
+party may use to reach the Sunken Temple or the     The main entrance to the Fishery is guarded by
+Luminous Grotto.                                    Fisherfolk. If alerted and not slain within one
+                                                    round, the Fisherfolk will head inside and shut
+When the party travels to the warehouse, read:      the front door. They will call for help, alerting the
+                                                    other enemies inside so that they cannot be
+ You see a long warehouse along the edge of         surprised.
+ the beach. The wide building is constructed
+ from planks of shoddy, rotting wood, and the       Enemies. The following are present here:
+ floor is a mossy cobblestone.
+   Sets of large footprints laced with faintly
+                                                     1x Fisherfolk
+ glowing blue algae lead into the fishery from
+ the shore. A villager stands at the front door,
+ pacing back and forth. Discarded on the
+ ground near him, you can make out a                 Torment: add 1x Fisherfolk
+ crumpled note.
+   Inside of the warehouse, you see several
+ small rowboats stacked along the walls. They       G2) Upper Entrance.
+ look to have been used recently, still dripping
+ water. Along their undersides are clusters of      A section of the crumbling upper wall allows
+ the same glowing blue algae.                       entry or exit here to G7. From this vantage point,
+   At the other end of the warehouse, you can
+                                                    a creature can see the entire building.
+ make out a large figure sliding a cleaver
+ through the belly of a dead man, slicing him
+ open with one clean cut and allowing his           G3) Rear Entrance.
+ entrails to fall to the ground.
+  A ladder rests on the side of the building,       This door is locked, but may be opened by
+ leading to a small roof.                           succeeding on a DC 10 Dexterity (Sleight of
+                                                    Hand) check while using a set of Thieve’s Tools.
+Open Encounter: Sinister Preparations
+                                                    G4) Gutting Room.
+The Fishery has three entrances; a front door, a
+back door, and a crumbled section of the upper      All entrances to the fishery lead to a large room
+wall on the roof. The party can approach the        where the fisherfolk gut the bodies to make them
+encounter from any direction.                       hollow before shipping them to the Luminous
+  Allow them to move about freely until they are    Grotto.
+detected, and describe to them what they see from     Gilmiere’s Note 6 (Appx. B: Game
+where they are on the map.                          Resources) lies on the ground here.
+                                                      If a character touches the paper, they must
+                                                    make a DC 14 Wisdom saving throw.
+                                                      On a failure, they take 1d6 psychic damage.
+
+24
+Enemies.                                            Boats
+The following enemies are present here:
+                                                    Several boats are available for use on the left side
+  1x Shambler (hacking at the body on the           of the map. The party may use them to reach the
+counter near the Rear Entrance)                     Sunken Temple or the Luminous Grotto. When
+  1x Fisherfolk (at the center of the room)         they decide to travel to the Luminous Grotto,
+                                                    proceed to Chapter 3.
+
+ Torment: add 1x Trawler (near the boats)
+
+
+G5) Locked Cage.
+This locked cage is filled with the belongings of
+unfortunate captives that have been processed for
+the algae farms.
+  The door may be opened by succeeding on a
+DC 15 Dexterity (Sleight of Hand) check while
+using a set of Thieve’s Tools, or with the key
+located at G6.
+  Inside the cage are several bags and sacks,
+mostly filled with useless items. However, the
+party may also find one Armor +1 (DMG, p.152)
+and one Weapon +1 (DMG., p.213). You may
+determine which weapon and armor they find.
+
+G6) Raised Platform.
+This raised platform offers a vantage point to
+view the room.
+Several blooded blade tools lie on the floor,
+and a set of keys on the table may be used
+to open the Locked Cage in area G5.
+
+G7) Fishery Inner Balcony.
+This narrow walkway overlooks G4.
+
+Enemies. The following enemies are present
+here:
+
+ 1x Fisherfolk
+
+
+ Torment: add 1x Fisherfolk
+
+
+
+
+                                                                                                      25
+Map 4: Fishery (GM)
+
+
+
+
+26
+                 CHAPTER 3: THE LUMINOUS GROTTO
+
+
+
+T
+            he Luminous Grotto and the Sunken          foreboding feeling, you are unsure, calling you
+            Temple are the last explorable location    down, down into the black abyss below.
+            in this scenario.
+              Clues about the temple were in
+            Gilmiere’s hand drawn map and the            H) The Luminous Grotto
+            sighting from the Forlorn Abbey.
+  Once players see the blue algae glowing along       This sea cave is represented by Map 5: The
+the cliffs from the Lighthouse and visit the          Luminous Grotto (GM).
+fishery for a rowboat, they will have the clues and     It is composed of a large sheltered watery cave
+tools necessary to row out to these locations.        used to farm blue algae, a cavernous den where
+                                                      the N’Gorroth Giant roams, and chambers where
+NAVIGABLE LOCATIONS                                   the twisted priests and pastors hold communion
+                                                      with the Deep Ones.
+The following locations are reachable by boat.
+                                                      Map Location
+   G) The Sunken Temple
+                                                      These locations are marked on the combat map.
+
+The top of a sunken temple of the N’Gorroth
+                                                      H1) Entrance.
+sticks out above the seas. Once a year, the waters
+                                                      When the party rows out to the cave, they arrive
+pull away, revealing the ancient temple's inner
+                                                      here. Read this script as they enter the cave:
+chambers. This event is known as Ab'zal’s
+Awakening, and during this period, the townsfolk
+visit the ancient temple to undergo their change.      Rowing out to the glowing area below the
+  However, it will be some time before this event      Saltwich cliffside, you find the entrance to a
+occurs again. Until then, the players may only         cave partially filled with seawater. Paddling
+access a small room in the highest chamber of the      inside, you find the tunnels are illuminated by
+temple that rises above the waves.                     glowing blue algae, which explodes in all
+                                                       directions, covering the walls and saturating
+                                                       the water surface.
+When the party travels here, read:
+                                                         The cave tunnel extends for some time before
+                                                       ending at a small beach. You tie your boat to a
+                                                       dry pillar of coral and prepare to venture
+ You row out to a smooth black spire that rises        deeper into the narrowing tunnel.
+ above the waves, noticing that the dark                 Many tracks in the sand lead back and forth
+ contours of the temple descend down into the          around a bend to the right. Straight ahead, the
+ abyssal depths of the sea. Drawing near, you          tunnel opens into a wide cavern, from which
+ find the water lapping at a small circular            you hear slow, lumbering footsteps that shake
+ chamber, no larger than a garden gazebo.              the rocky ground with each step.
+   You tie the boat to a pillar and step inside,
+ finding the place empty. The gusting wind
+ whistles quietly through the room as sea birds       H2) Blooming Algae Farm.
+ caw above. You are about to leave when you
+                                                      This large cavern is filled with seawater. A
+ hear something. A subtle whisper or just a
+                                                      submerged tunnel travels far below sea level
+                                                                                                     27
+before opening somewhere in the ocean depths.
+The cavern is brightly lit by a massive bloom of     Lumbering about the center of the enormous
+blue algae, and filled with corpses to feed the      cavern is a monstrosity of abhorrent
+                                                     proportions. It is a giant humanoid shape, but
+algae.
+                                                     its face is a bulbous glob of pulsating flesh,
+                                                     riddled with staring, milky eyes. Large sacs
+As the players enter the room, read:                 on its neck heave slowly as it breathes.
+                                                       Elongated tentacles hang from this body,
+                                                     slinking about on the floor behind it, feeling
+ This large cavern is filled with seawater and       the contours of the cavern walls and leaving
+ lit by a massive bloom of blue algae, a             behind trails of sickly mucus. It paces back
+ strange beating heart of the vegetable              and forth, dragging a barnacled brass bell
+ growth, pulsating in asynchronous rhythms           along the ground behind it.
+ of indigo and viridescent light.
+    The gently rocking water is brimming with
+ corpses that have each been slit open at the       Boss Encounter: Deep One’s Brood
+ belly and emptied of their innards. They bob
+ up and down, held just under the surface by
+ a mess of ropes and netting. The algae             The following enemies are present here:
+ explode from their body cavities, feasting on
+ their bloated flesh and sprouting from the          1x N’Gorroth Giant
+ hollow cavities of their mouths and eyes.
+
+                                                     Torment: use the boss’ (Torment)
+H3) Giant’s Chamber.                                 statblock.
+The N’Gorroth Giant resides here, guarding the
+Abyssal High Priest and Abyssal Pastors in the
+Adoration Room.                                     When reduced to 50% health, the N’Gorroth
+                                                    Giant will begin to emit a cloud of poison, read
+  Pillars.                                          this script:
+  The room contains a few 15 ft. tall natural
+pillars which may be climbed without penalty by
+using ladders attached to their sides. The           The creature squeals in agony as it slams the
+                                                     bell on the ground repeatedly in pain. From
+N’Gorroth Giant’s Toxic Cloud ability cannot         pulsing sacs on its body, it begins to emit a
+reach up to this height.                             heavy, viscous black gas that pools to the
+                                                     ground and begins to spread.
+  Illusionary Eyes.
+  A temple wall on the right side of the chamber
+contains an open gateway leading to the             When slain, the N’Gorroth Giant drops a
+Adoration Room, but this gateway is covered by      Weapon +2 (DMG, p.213). You may determine
+an illusion of pulsating eyes until the N’Gorroth   the specific nature of the weapon.
+Giant is slain.
+                                                     Additionally, read this script:
+When players enter the room, read:
+
+                                                     The behemoth abomination falls to the
+                                                     ground, its tentacles flailing as the bell
+                                                     clatters against the cold, hard floor. It
+28
+ sputters and gasps, writhing in anguish until          dangles a silver pendant of a gull in flight.
+ its strange guttural shrieks die down, and it            The thing turns, its gaping mouth wide as it
+ stills.                                                fixates on you with black, unseeing eyes. It
+   The black poisonous clouds evaporate                 points to you as it speaks.
+ slowly, and the eyes covering the wall of the
+ cave disappear, revealing a marble gateway               “Do.You.See?”
+ constructed in an ancient architecture you
+ have never seen before.
+                                                       Combat Encounter: Ab’zal Sees
+H4) Adoration Room.
+                                                       The following enemies are present here:
+The Adoration Room is where the Saltwich
+people congregate and chant their devotions to
+                                                        1x Abyssal High Priest (on the Highest Level)
+the Deep Ones. They are led by an Abyssal High
+                                                        1x Abyssal Pastor (on the Lowest Level)
+Priest and his Abyssal Pastors.
+
+Levels.
+                                                        Torment: add 4x Stranglers (on the lowest
+The Adoration Room has three rising levels.             level)
+  The Lowest Level is submerged in shallow
+water. Characters can still walk in most areas,
+though along the cliff leading to the higher levels,   GM Note.
+the water deepens so that if a character falls into    The Abyssal Pastor is Laurent Gilmiere. The
+the area, the pool of water will break their fall.     form at the lowest level is one of his mirror
+This pool requires characters to swim through it.      illusions created by the Bewildering Visions
+  The Middle Level is a small rocky shelf.             ability. As he has just cast this ability, it should
+  The Highest Level is a medium shelf, the walls       begin on cooldown.
+of which are covered in illusionary eyes until the        The Abyssal Pastor’s real form, currently
+Abyssal High Priest is slain.                          invisible, is standing on the Middle Level. When
+                                                       slain, the Abyssal Pastor and Abyssal High
+Ridges.                                                Priest each drop 1x Potion of Superior Healing
+Each level is separated by a 20 ft. tall ridge that    (DMG, p.188)
+can be climbed. Each time a creature finishes a
+move action on the ridge, they must make a DC 5
+Dexterity (Acrobatics) check, falling to the
+ground on a failure.
+When the party enters the room, place them all
+in the lowest level and read this script:
+
+
+ You pass through an ancient archway, jumping
+ down into a shallow, rocky pit of water that
+ rises to your ankles.
+   A hunched figure stands before you with the
+ stretched facade of a human face pulling
+ around its head like a tight mask. It wears the
+ robes of an Azerai priest, and around its neck
+                                                                                                         29
+Map 5: Luminous Grotto (GM)
+
+
+
+
+30
+                                           EPILOGUE
+
+
+
+A
+            fter arriving at Saltwich, Gilmiere slowly went mad, his mind tearing
+            apart in the process of becoming an Abyssal Pastor.
+              Unbeknownst to him, Gilmiere descended from Saltwich stock and
+            shared enough N’Gorroth genes to undergo the change.
+              The party should be able to piece together Gilmiere’s fate with the
+clues they collected and this final visage of Gilmiere.
+  If they are still uncertain about the mystery, this is alright as well.
+  The strange and disquieting things that happen in Doaden do not always find
+clear or definite answers.
+
+Collecting the Reward.
+
+ The players may collect Gilmere’s gull amulet and
+return it to Father Armitage for the promised
+reward of 15 gold each.
+
+
+
+
+                                                                                    31
+         APPENDIX A: FACTION FOCUS & BESTIARY
+
+               LAST MEMOIRES OF AZERAI PRIEST
+
+
+        Something sinister lurks below the seaside town of Saltwich.
+     The sky darkens, the sea churns, and ancient Evil stirs beneath
+     the waves.
+     The siren flame of the lightkeeper lures ships to shatter upon the
+     jagged reefs.
+
+
+     The desperate shouts of drowning men cry out as fisherfolk drag
+     them down to the unknowable abyss.
+     In the squalid streets, tentacled monstrosities shamble forth,
+     piling corpse upon corpse in their gutting rooms.
+     To what devious end, one cannot fathom.
+     Stay away from this place.
+     Stay away, lest the visions begin to stir.
+
+
+     Do not let it awake.
+      Do not let it see.
+       What calamitous form.
+     It is watching.
+               A Thousand unblinking eyes
+     It sees
+
+
+
+
+     It sees
+
+
+
+
+                            ~ Unknown Priest of the Azerai faith ~
+                                       Deceased.
+
+
+32
+T
+           he N’Gorroth are a varied underwater society that has existed since long before the dawn of
+           man.
+           Their sprawling cities once covered the vast depths of Doaden’s deepest oceans, spanning the
+           interminable gaps between continents.
+  In those dark abyssal places, they constructed grand marble temple cities in worship to the Deep Ones,
+ancient gods of unfathomable power. Yet now their societies languish, decaying as with the rest of the
+world.
+  The various N’Gorroth species all possess shared genetics, though key distinctions set them apart and
+allow them to develop into a wide variety of monsters. It is important to note that they are not confined
+to their watery homes, most possessing some amphibious capability, or find magical means of sustaining
+themselves above the waters.
+  Though little is known of this strange and ancient species, it can be said with certainty that if the day
+comes when their gods fully awaken, this will certainly spell the end of the world of Doaden.
+
+
+
+
+                                                                                                        33
+     BESTIARY
+
+
+
+
+34
+                                      SWARMS (CR 1)
+
+FISHERFOLK
+
+Medium Humanoid
+
+Armor Class: 12
+Hit Points: 20
+Speed: 30ft.
+
+Str: 13 (+1) Dex: 15 (+2) Con: 13 (+1)
+Int: 10 (+0) Wis: 10 (+0) Cha: 8 (-1)
+
+Senses: Darkvision, 60 ft., passive Perception 10.
+Languages: Common.
+Challenge CR: 1 (200 XP)
+
+Abilities:
+Concealing Horror. When reduced to 0 HP, the
+Fisherfolk immediately makes a DC 12
+Constitution saving throw. On a success, it
+unmasks itself, recovering 10 HP and adopting
+the Strangler actions and abilities.
+
+Actions:
+Snaring Hook. Melee Weapon Attack: +4 to hit,
+reach 10ft., one target.
+Hit: 4 (1d6+2) piercing damage. If this attack
+succeeds, the target is grappled (escape DC 14).
+The effect ends immediately if the Fisherfolk
+attacks a different creature.
+
+
+
+
+                                                      35
+Fisherfolk of Saltwich are wary of outsiders, wishing most to be left
+alone and farm their crops of luminous blue algae, the staple of the area.
+ They share genetics with the N'Gorroth, having been blessed by a Deep One god
+long ago. Now, they exhibit physical abnormalities including baldness, narrow
+heads, bulging eyes, scaly skin, and an intense fishy body odor.
+ As they reach mid-adulthood, many undergo a strange metamorphosis,
+twisting into a sinister hybrid form. The process begins with the individual
+feeling compelled to return to the shores of their ancestral home.
+ After returning, they begin to change, taking on myriad forms depending on
+their physical and mental capacities, and the amount of N'Gorroth genetics in
+their blood.
+ Lowly fisherfolk become Stranglers, gaining gills, tentacles, and claws.
+Physically impressive specimens grow in form, becoming hulking Shamblers or
+Trawlers, while the magically gifted become Abyssal Pastors.
+
+
+
+
+36
+STRANGLER
+
+Medium Humanoid
+
+Armor Class: 13
+Hit Points: 22
+Speed: 30ft.
+
+Str: 13 (+2) Dex: 15 (+2) Con: 13 (+1)
+Int: 10 (+0) Wis: 10 (+0) Cha: 8 (-1)
+
+Senses: Darkvision, 60 ft., passive Perception 10.
+Languages: Common.
+Challenge CR: 1 (200 XP)
+
+Abilities:
+Amphibious. This creature can breathe
+underwater and has a swim speed equal to its
+regular movement speed.
+
+Strangling Grasp. At the start of the Strangler’s
+turn, it deals 1d8 bludgeoning damage to each
+creature that it is Grappling.
+
+Actions:
+Grasping Tentacles. Melee Weapon Attack. +4
+to hit, reach 5ft., one target.
+Hit: 6 (1d8+2) bludgeoning damage.
+If this attack succeeds, the target is grappled
+(escape DC 14). Until this grapple ends, the
+creature is restrained. The Strangler can grapple
+up to 2 creatures.
+
+
+
+
+                                                     37
+ Stranglers are warped fisherfolk bearing a bizarre resemblance to the
+writhing cephalopods that hide under the water's surface. They are able
+to cast off their human facades and reveal blade-sharp fins, beaks,
+powerful tentacles, or a variety of other bizarre mutations, descending
+upon those who threaten their solitude, and choking the life from their
+lungs.
+
+
+
+
+38
+                                      SOLDIERS (CR 2)
+
+N’GORROTH WARRIOR
+
+Medium Aberration
+
+Armor Class: 15
+Hit Points: 32
+Speed: 40ft.
+
+Str: 14 (+2) Dex: 18 (+4) Con: 14 (+2)
+Int: 10 (0) Wis: 10 (0) Cha: 8 (-1)
+
+Condition Immunities: Grappled; Restrained.
+Senses: Darkvision, 60ft., passive Perception 11.
+Languages: Common.
+Challenge CR: 2 (450 XP)
+
+Abilities:
+Amphibious. This creature can breathe
+underwater and has a swim speed equal to its
+regular movement speed.
+
+Multiattack. The N’Gorroth Warrior makes two
+attacks.
+
+Actions:
+Piercing Tentacles. Melee Weapon Attack. +6 to
+hit, reach 10ft., one target.
+Hit: 13 (2d8+4) piercing damage.
+
+Envenomed Harpoon (1). The N’Gorroth
+Warrior winds up its spear weapon,
+preparing to throw it at a specified target
+within 60ft. At the beginning of its next turn,
+the N’Gorroth Warrior throws the weapon.
+The target must make a DC 14 Dexterity
+saving throw to dodge it, or take 11 (2d6+4)
+piercing damage and 21 (6d6) poison
+damage. If grappled or restrained, the
+creature automatically fails the saving
+throw.
+                                                        39
+     N’Gorroth Warriors are the most common of the pure-blood species
+forming this ancient society. They inhabit long-forgotten sunken cities
+that hide below Doaden’s abyssal waters. As with all of their kind, they
+are servants of the Deep Ones, working fastidiously to carry out their gods’
+unknowable wills.
+ They often assist the misshapen Saltwich hybrids, adeptly navigating the
+jagged reefs to drown shipwrecked sailors and gather the bloated corpses
+that collect on the rocks.
+
+
+
+
+40
+                                        ELITES (CR 3)
+
+SHAMBLER
+
+Large Humanoid
+
+Armor Class: 15
+Hit Points: 128
+Speed: 20ft.
+
+Str: 18 (+4) Dex: 10 (0) Con: 18 (+4)
+Int: 8 (-1) Wis: 10 (0) Cha: 8 (-1)
+
+Senses: Darkvision 60ft., passive Perception 10.
+Languages: Common.
+Challenge CR: 3 (700 XP)
+
+
+
+
+Abilities:
+Barnacle Hide.
+The Shambler takes half damage from the first
+two sources of damage each round.
+
+Actions:
+Cleaving Smash. Melee Weapon Attack. +6 to
+hit, reach 5ft., up to 4 different targets.
+Hit: 9 (2d8+4) bludgeoning damage.
+
+
+
+
+                                                        41
+ Shamblers are tough and hardy, morphing from the strongest and most
+rugged sailors and fisherfolk. Their prodigious strength allows them to
+effortlessly carry their victims to their fisheries, where they gutt their
+bodies and haul them off for disposal in sheltered waters, where bobbing
+piles of rotting flesh allow the blue algae to bloom into great agricultural
+farms.
+
+
+
+
+42
+TRAWLERS
+
+Large Aberration                                     Hooked Chains (Cooldown 2).
+                                                     Ranged Weapon Attack. +5 to hit,
+Armor Class: 15                                      reach 25ft. one target.
+Hit Points: 88                                       Hit: 14 (2d8+5) piercing damage. If the attack
+Speed: 30ft.                                         succeeds, the target must make a DC 13 Strength
+                                                     saving throw or be pulled adjacent to the Trawler.
+Str: 16 (+3) Dex: 10 (0) Con: 16 (+3)
+Int: 8 (-1) Wis: 14 (+2) Cha: 7 (-2)                 Abyssal Kiss (Cooldown 3). The trawler grasps
+                                                     the face of one enemy within 5 ft., its writing
+Senses: Darkvision 60ft.; passive Perception 12.     tentacles and milky eyes striking horror into the
+Languages: Understands Common but does not           target. The target must make a DC 18 Wisdom
+speak.                                               saving throw. On a failure, the target takes 21
+Challenge CR: 3 (700 XP)                             (6d6) psychic damage and is affected by short-
+                                                     term madness. On a success, the target takes half
+Abilities:                                           as much damage and is not afflicted by the short
+                                                     term madness.
+Amphibious. The creature is not affected by the
+difficult terrain conditions imposed by water or
+rain. It also maintains the same speed value for
+swimming.
+
+Cooldowns. The notation "Cooldown X" means
+that an ability may only be used once per that
+number of rounds. When the ability is used, the
+ability is marked with the specific number. At the
+end of each round, all abilities on cooldown are
+reduced by 1. Abilities on cooldown reset once
+they reach 0, or once combat ends.
+
+Multiattack. The Trawler makes two attacks.
+
+Actions:
+Anchor Bash. Melee Weapon Attack.
++5 to hit, reach 10ft., one target.
+Hit: 12 (2d6+5) bludgeoning damage.
+If the attack succeeds, the target must
+make a DC 12 Strength saving throw
+or be knocked prone.
+
+
+
+
+                                                                                                    43
+     Trawlers come from similar stock as the Shamblers, though their
+mutations are far more advanced, likely due to higher concentrations of
+N’Gorroth genetics. They weaponize their old fishing hooks and nets,
+dragging in their victims and embracing them with their tentacled
+faces, showing them a glimpse of the true horrors that lurk beneath the
+waves.
+
+
+
+
+44
+ABYSSAL PASTOR
+
+Large Humanoid
+                                                               The Bell Tolls (Spell) (Cooldown 4). The Abyssal Pastor
+                                                               rings its bell staff, invoking the shrieks and wails of
+Armor Class: 15                                                drowning victims and images of the dark abyss. Each
+Hit Points: 60                                                 enemy within 20 ft. must succeed on a Wisdom saving
+Speed: 30ft.                                                   throw. On a failure, they take 22 (4d10) psychic damage
+                                                               and become afflicted with a short term madness. On a
+Str: 12 (+1) Dex: 16 (+3) Con: 14 (+2)                         failure, they take half as much damage and are not afflicted
+                                                               by the short term madness.
+Int: 16 (+3) Wis: 16 (+3) Cha: 18 (+4)
+                                                               Bewildering Visions (Spell) (Cooldown 6). The Abyssal
+Senses: Darkvision 60ft.; passive Perception 13.               Pastor creates a mirror image of itself with half its current
+Languages: Common.                                             health. The Abyssal Pastor may choose to cast spells from
+Challenge CR: 3 (700 XP)                                       either its mirror image or itself.
+                                                               As long as the mirror image is alive, the Abyssal Pastor’s
+                                                               true form is invisible.
+Abilities:
+
+Amphibious. The creature is not affected by the difficult
+terrain conditions imposed by water or rain. It also
+maintains the same speed value for swimming.
+
+Spellcaster (DC 14, Hit +5). This creature is a spellcaster
+with Spell Save DC and +Hit with spell attacks as
+indicated. Spells will be noted in its Actions.
+
+Quickcaster. This creature may cast one spell with a Bonus
+Action each turn.
+
+Cooldowns. The notation "Cooldown X" means that an
+ability may only be used once per that number of rounds.
+When the ability is used, the ability is marked with the
+specific number. At the end of each round, all abilities on
+cooldown are reduced by 1. Abilities on cooldown reset
+once they reach 0, or once combat ends.
+
+
+Actions:
+
+Chilling Hook. Melee Weapon Attack. +5 to hit, reach 5ft.,
+one target.
+Hit: 7 (1d6+3) slashing damage. On a hit, the target takes 4
+(1d8) cold damage and its movement speed is halved until
+the end of its next turn.
+
+Horrific Insight (Spell) (Cooldown 1). A dark vision
+afflicts a creature within 120 ft. The creature must succeed
+on a Wisdom saving throw, taking 16 (3d10) psychic
+damage on a failure or half as much on a success.
+                                                                                                                           45
+     Abyssal Pastors metamorph from those who are gifted in the arcane.
+Often, they find themselves called to scholarly activities and exploration
+before they return to their ancestral shores, gathering knowledge to share
+it with the Deep Ones after they complete their change.
+ Stinking of Salt and Damp, the Pastors bridge the gap between the
+common folk of Saltwich and their ancient deities. Still capable of some
+level of human speech, they speak the forbidden whispers of their ancient
+gods to their attentive congregations.
+
+
+
+
+46
+                                               LEADERS (CR 5)
+
+ABYSSAL HIGH PRIEST
+
+Huge Aberration                                               The first round that the spell is cast, the area counts
+                                                              as difficult terrain.
+                                                              At the end of the next round, the water explodes before
+Armor Class: 13
+                                                              disappearing. Any enemy standing in the area must make a
+Hit Points: 158                                               Dexterity saving throw, taking 18 (4d8) cold damage on a
+Speed: 25ft.                                                  failure, or half as much on a success.
+
+
+Str: 16 (+3) Dex: 7 (-2) Con: 20 (+5)                         Eulogy of the Deep (Spell) (Cooldown 6). The Abyssal
+                                                              High Priest speaks telepathically in the language of the
+Int: 18 (+4) Wis: 16 (+3) Cha: 14 (+2)
+                                                              Deep Ones, a horrific and unknowable speech.
+                                                                Each enemy within 60 ft. must make a Wisdom saving
+Saving Throws: Con +6; Wis +5; Int +6.                        throw.
+Senses: Darkvision, 60ft., passive Perception 13.               On a success, they understand the horrors,
+Languages: Understands Common but does not                    taking 22 (4d10) psychic damage and
+                                                              becoming afflicted with short term madness.
+speak.
+                                                                On a failure, they are unaffected by the
+Challenge CR: 5 (1,800 XP)                                    horror.
+
+Abilities:
+Amphibious. The creature is not affected by the difficult
+terrain conditions imposed by water or rain. It also
+maintains the same speed value for swimming.
+
+Spellcaster (DC 15, Hit +7). This creature is a spellcaster
+with Spell Save DC and +Hit with spell attacks as
+indicated. Spells will be noted in its Actions.
+
+Quickcaster. This creature may cast one spell with a Bonus
+Action each turn.
+
+Cooldowns. The notation "Cooldown X" means that an
+ability may only be used once per that number of rounds.
+When the ability is used, the ability is marked with the
+specific number. At the end of each round, all abilities on
+cooldown are reduced by 1. Abilities on cooldown reset
+once they reach 0, or once combat ends.
+Actions:
+Fanged Eels. Melee Weapon Attack. +6 to hit, reach 5ft.,
+one target.
+Hit: 12 (2d8+3) piercing damage.
+
+Glacial Vortex (Spell) (Cooldown 2). Select a point
+within 120 ft, creating a chilling vortex of water in a
+10-ft radius sphere from that point.
+
+
+                                                                                                                         47
+  Abyssal High Priests are the eldest of the Pastors, having spent many hundreds
+of years in service to the Deep Ones, preserved in the cold chilling depths by their
+strange mutations, becoming ever more twisted over their preternaturally long
+lives.
+ So twisted are the High Priests that they can no longer speak, their tongueless,
+vestigial mouths becoming gaping voids of writhing tentacles. Their blubbery
+bodies sprout additional brains, the inflated spongy organs growing
+throughout their bodies and granting extensive telepathic abilities and the
+ability to commune directly with the Deep Ones.
+ However, with no tongue nor vocal cords, the High Priests rely on their pastors
+to convey the meaning of their slumbering gods’ dreams. He bids the folk of
+Saltwich to rise, men, women and children all, and to give praise to the gods of
+the deep, wailing and praising as the waves lap against their feet. Perhaps if
+their prayers are loud enough, the gods will hear them and awaken from their
+slumber.
+
+
+
+
+48
+                                              BOSSES (CR 9/12)
+
+N’GORROTH GIANT
+
+Huge Aberration                                                   Any creature damaged by the attack must make a
+                                                                  DC 16 Strength saving throw or be knocked back
+Armor Class: 18                                                   10 ft.
+Hit Points: 188
+Speed: 45ft.                                                      Legendary Actions (2):
+                                                                  This creature can take 2 legendary actions, choosing from
+Str: 21 (+5) Dex: 18 (+4) Con: 22 (+6)                            the options below. Only one legendary action option can be
+Int: 10 (+0) Wis: 16 (+3) Cha: 10 (+0)                            used at a time and only at the end of another creature's turn.
+                                                                  This creature regains spent legendary actions at the start of
+Saving Throws: Dex +6; Str +6; Int +6.                            its turn.
+Damage Immunities: Poison.
+                                                                  Deep Sight. The N’Gorroth Giant makes a Wisdom
+Condition Immunities: Poisoned; Frightened.                       (Perception) check.
+Senses: Darkvision 60ft.; passive Perception 11.
+Languages: Understands Common but does not                        Lash. The N’Gorroth Giant makes a Tentacles attack.
+speak.
+                                                                  Grotesque Stare
+Challenge CR: 9 (5,000 XP)
+                                                                  (Costs 2 Actions).
+                                                                  The N’Gorroth Giant
+Abilities:                                                        glares at one creature
+                                                                  within 30 ft.
+Amphibious. The creature is not affected by the difficult
+                                                                  The target must
+terrain conditions imposed by water or rain. It also
+                                                                  succeed on a DC 18
+maintains the same speed value for swimming.
+                                                                  Wisdom saving
+                                                                  throw or become
+Toxic Cloud. When the N’Gorroth Giant is reduced to 50%
+                                                                  afflicted with a short
+health (94 HP), it begins emitting a 10 ft. tall cloud of black
+                                                                  term madness.
+poison in the 10 ft. area around itself, following it wherever
+it moves. At the end of each combat round, the cloud grows
+by an additional 10 ft. At the start of every combat turn,
+each creature standing within the cloud takes 2 (1d4) poison
+damage. The cloud dissipates after 15 minutes.
+
+
+Actions:
+Tentacles. Melee Weapon Attack. +9 to hit,
+reach 15 ft., one target.
+Hit: 8 (1d6+5) bludgeoning damage.
+
+Bell Smash.
+Melee Weapon Attack. +9 to hit, reach
+5 ft., all enemies in a 15 ft. cone.
+Hit: 18 (3d8+5) bludgeoning damage.
+                                                                                                                             49
+ N’Gorroth Giants tower above their kin, obliterating their foes with
+massive barnacled masts torn from shipwrecks, marble pillars of ancient
+temples, or anything else that has sunken into their domain beneath the
+waves.
+ When threatened, they release a creeping toxic black cloud from the
+gaseous sacs hidden on their bodies, slowly enveloping their attackers
+and snuffing out their life.
+ Though little is known about the N’Gorroth species, it is suspected that
+the Giants share genetics of the Deep Ones, perhaps the twisted offspring of
+the gods themselves.
+
+
+
+
+50
+N’GORROTH GIANT (TORMENT)
+
+Huge Aberration                                       damaged by the attack must make a DC 16
+                                                      Strength saving throw or be knocked back 10 ft.
+Armor Class: 19
+Hit Points: 224                                       Legendary Actions (3):
+Speed: 45ft.
+                                                      This creature can take 3 legendary actions,
+                                                      choosing from the options below. Only one
+Str: 22 (+6) Dex: 18 (+4) Con: 24 (+7)
+                                                      legendary action option can be used at a time and
+Int: 10 (+0) Wis: 18 (+4) Cha: 10 (+0)
+                                                      only at the end of another creature's turn. This
+                                                      creature regains spent legendary actions at the
+Saving Throws: Dex +8; Str +8; Int +8.
+                                                      start of its turn.
+Damage Immunities: Poison.
+Condition Immunities: Poisoned; Frightened.
+                                                      Deep Sight. The N’Gorroth Giant makes a
+Senses: Darkvision 60ft.; passive Perception 11.
+                                                      Wisdom (Perception) check.
+Languages: Understands Common but does not
+speak.
+                                                      Lash. The N’Gorroth Giant makes a Tentacle
+Challenge CR: 12 (8,400 XP)
+                                                      attack.
+Abilities:
+                                                      Grotesque Stare (Costs 2 Actions). The
+Amphibious. The creature is not affected by the       N’Gorroth Giant glares at one creature within 30
+difficult terrain conditions imposed by water or      ft. The target must succeed on a DC 20 Wisdom
+rain. It also maintains the same speed value for      saving throw or become afflicted with a short
+swimming.                                             term madness.
+
+Toxic Cloud. When the N’Gorroth Giant is
+reduced to 50% health (112 HP), it begins
+emitting a 10 ft. tall cloud of black poison in the
+10 ft. area around itself, following it wherever it
+moves. At the end of each combat round, the
+cloud grows by an additional 10 ft. At the start of
+every combat turn, each creature standing within
+the cloud takes 3 (1d6) poison damage.
+
+Actions:
+Tentacles. Melee Weapon Attack. +10 to hit,
+reach 15 ft., one target.
+Hit: 9 (1d6+6) bludgeoning damage.
+
+Bell Smash. Melee Weapon Attack. +10 to hit,
+reach 5 ft., all enemies in a 15 ft. cone. Hit: 19
+(3d8+6) bludgeoning damage. Any creature
+
+                                                                                                     51
+                      APPENDIX B: GAME RESOURCES
+                          RESOURCES 1.1: LETTER & TEXT
+
+Laurent Gilmiere’s Notes
+
+These writings are taken from the letters and journals of Laurent Gilmiere.
+
+Gilmiere’s Note 1
+
+Provided to the party before their adventure.
+
+
+
+
+52
+Gilmiere’s Note 2
+
+Found on Marshley’s Desk in the Floating Sailor Inn.
+
+
+
+
+                                                       53
+Gilmiere’s Note 3.1
+
+Found In Gilmiere’s Room B at the Floating Sailor Inn.
+
+
+
+
+54
+Gilmiere’s Note 3.2
+
+Found In Gilmiere’s Room B at the Floating Sailor Inn.
+
+
+
+
+                                                         55
+Gilmiere’s Note 4
+
+Found at the Forlorn Abbey.
+
+
+
+
+56
+Gilmiere’s Note 5
+
+Found in the Ruined Chapel.
+
+
+
+
+                              57
+Gilmiere’s Note 6
+
+Found in the Fishery.
+
+
+
+
+58
+

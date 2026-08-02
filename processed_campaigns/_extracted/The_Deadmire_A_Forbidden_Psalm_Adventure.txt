@@ -1,0 +1,571 @@
+1
+      THE DREADLIGHTS
+
+    A Forbidden Psalm Compatible Adventure
+
+
+
+
+2
+          THE WORLD OF DOADEN
+
+
+W
+       elcome to Doaden, the dark fantasy setting of tainted
+                        lands and twisted
+       monsters, where an ever-creeping affliction corrodes
+                   the very essence of existence.
+
+It is a world of decay and depravity where once-righteous men
+and heroes of glorious purpose now struggle to survive as cults
+and dark gods vie with one another to consume the last vestiges
+                         of humanity.
+
+
+
+
+                                                                  3
+                            CREDITS
+    Developed by:
+      Bestiarum Games
+
+    Game Designer:
+     Kevin Rahman
+
+    Graphic Design:
+     Katarina Popovici
+     Alexander Dovermann
+     Marina Jukova
+
+    Cartography:
+      Giovani C. Fiorini
+      Alexander Dovermann
+      Katarina Popovici
+
+
+
+
+                               ON THE COVER:
+
+                               THE DEADMIRE
+
+                               “     The Deadmire is a marshand that stretches
+                               across the center of the Western Reaches, making
+                               it difficultt to travel from the north of the region
+                               to the south. The peaty bogs here are clogged
+                               with cadavers, nameless masses of soliders and
+                               serfs, victims to the wars of ancient kings that
+                               quarreled with one another unceasingly in the
+                               days of yore. Their reanimated corpses roam
+                               through flooded farmsteads and ruins of ancient
+                               battlefields, seeking to pull them down to drown
+                               amidst the fetid pools and strangling reeds.
+                                  Will you cross these lands with your soul
+                               intact?
+                                  Just remember ... don’t look into the lights.
+
+                                                                              ʼʼ
+4
+                                              CONTENTS
+
+
+CREDITS....................................................4       Reward...................................................17
+CONTENTS...............................................5           Setup andTrewsure.............................17
+FOREWORD.............................................6             Deployment............................................17
+The Deadmire.............................................6         Solo Play...............................................17
+The Dreadlights........................................6           RPG Text Box.......................................17
+The Vias Umbrae........................................6             EPILOGUE........................................18
+The Harrow Viaduct.............................96                  The Black Fortress.............................18
+ADVENTURE SUMMARY: THE                                             MONSTERS..........................................20
+DREADLIGHTS.......................................7                The Restless..........................................21
+    Chapter Structure..............................7               Deadwalker Archer.............................22
+   Lunden, the Engineer...........................8                 Deadwalker Soldier..........................23
+SCENARIO 1: AMBUSH........................9                         Deadwalker Batterer........................24
+  Goal........................................................10   Dread Horsemen...................................25
+  Reward...................................................10      Dread Necromancer...........................26
+  Setup andTrewsure.............................10
+  Deployment............................................ 11
+  Solo Play...............................................10
+  RPG Text Box....................................... 11
+  MAP 1...................................................... 11
+CHAPTER 2: THE OLD VILLAGE...12
+ Goal.........................................................13
+  Reward...................................................13
+  Setup andTrewsure.............................13
+  Deployment............................................13
+  Solo Play...............................................13
+  RPG Text Box.......................................13
+  MAP 2......................................................14
+SCENARIO 3: BLOOD AND FLAME.. 16
+ Goal.........................................................17
+
+                                                                                                                                 5
+                                               FOREWORD
+
+                                                             Today, the place is a cursed mire that stretches
+                                                           on for many miles, requiring a week’s journey
+       In Forbidden Psalm Adventure you
+                                                           to traverse. Though the truth of such legends
+       will find:
+                                                           is uncertain, those who have traveled the mire
+                                                           whisper of rotten soldiers rising from the muck,
+       • Three scenarios created for                       and eerie lights that glimmer above its placid
+       the monsters from Bestiarum                         black waters.
+       Miniatures;
+       • Rules for monsters.                                 THE DREADLIGHTS
+                                                             In the deepest bogs and fens of the Deadmire
+       These scenarios should be played in                 dance clusters of green firefly lights known as the
+       order. You will need a copy of the                  dreadlights. These strange luminescent specks
+       Forbidden Psalm Core Book to play:                  glide and swirl, pulsating gently with a soft glow,
+       https://www.forbiddenpsalm.com/forbidden-psalm
+                                                           luring victims into shifting quagmires that give
+                                                           way underfoot, sucking them down to suffocate
+                                                           below knotted grasses and twisted reeds. Nobody
+       These scenarios should be played in                 knows what the dreadlights are, but tales say they
+       solo or coop only.                                  are spirits of the lost, disquieted dead that suffered
+                                                           here long ago, cursing all who travel here to join
+                                                           their fate.
+                                                           The Vias Umbrae
+    THE DEADMIRE                                             The Vias Umbrae is a large basalt road that runs
+                                                           through the Deadmire. Built by the Old Empire
+      The Deadmire is a marshland that stretches           after it conquered the Western Reaches, it is now
+    across the Western Reaches, making it difficult to     maintained by the Penitent Crusade, who use it
+    travel from the north to the south of the region,      to carry supplies to the Black Fortress, and so it
+    or vice versa. Legends say that long ago, before it    is safer than the rest of the Deadmire. Along the
+    was conquered by Old Empire, the region was a          road are several landmarks that allow travelers
+    pastoral land of farms and fertile plains. But war     to gauge their location. One should always stay
+    changes things.                                        close to the road, for the further one strays, the
+                                                           more likely they are to encounter the horrors of
+      For centuries, the scattered kingdoms of the age     the Deadmire.
+    fought one another, sending their legions to fight
+    and die upon the plains to satisfy the whims of
+    their lords. Tales say that the crimson lifeblood of   The Harrow Viaduct
+    these soldiers soaked into the earth, saturating the     The Harrow Viaduct is a large bridge that
+    soil until it could hold no more, overflowing and      crosses the treacherous and otherwise impassable
+    drowning the land in a blighted marshland.             Blackwater River. The bridge is an important
+                                                           marker and lies approximately a half day’s
+      The peasants that inhabited the land fared
+                                                           journey from the northern edge of the Deadmire.
+    no better. Caught amidst the brimstone rain of
+                                                           It is a welcome sight that signifies an end to the
+    catapults and clashing waves of iron pikes, their
+                                                           journey. Unfortunately, the bridge has collapsed,
+    towns were pillaged and burned. They were hung
+                                                           and the party cannot use it for now. They will be
+    from trees by the hundred or slaughtered like pigs
+                                                           forced to follow the byways into the deeper mire
+    and disposed of on the sides of the road, at the
+                                                           instead.
+    hands of one forgotten lord after another.
+
+6
+7
+    LUNDEN, THE ENGINEER
+      Lunden is a genius engineer that studied in Allstein for years. The Penitent Crusade has urgent need
+    of him at the Black Fortress, their stronghold that stands against the evils of the Ashen Wastes. The
+    party must escort Lunden through the Deadmire to the Black Fortress. Everything that happens at the
+    Black Fortress is highly classified and not even Lunden knows what they need him for.
+
+
+
+
+8
+SCENARIO 1:
+  AMBUSH
+
+
+
+
+              9
+              9
+     T
+              he Blasten-Vagen’s engine churns,               Above the waters is a strange glow, a cluster of
+              expelling a thick plume of smoke as it        dancing specks of green light. As you peer into
+              propels the carriage through the bleak        them, you hear an airy, disembodied melody. A
+              landscape. Lunden peers out a window,         soothing warmth spreads over your skin. Lunden
+     holding tight to a brass steering wheel.               shouts you as he draws his pistol, “Don’t look at
+                                                            ze lights!”
+       Suddenly, you hear a rending metallic screech.
+     You are thrown to the ground as the wagon
+     lurches to a violent halt. Pulling yourself upright,
+     you step outside with Lunden to assess the              Goal
+     damage, your boots sinking into the wet earth. As       Survive the Ambush.
+     he lights a small oil lamp to get a better view, you
+     hear a deep growl.
+       Turning swiftly, you see a dozen shadows rising       Reward
+     from the black waters nearby. As they shamble
+     into the firelight, you see corpses in rags and         You did not die!
+     ruined Armor. They look at you with sunken,
+     eyeless faces, their arms clawing the air as their
+     rotten teeth gnash.
+
+
+
+
+10
+ Setup and Treasure                                     The Scenario ends at the end of round 8
+
+                                                        RPG Text Box
+  Setup the board as shown in Map 1. The table
+should be 24 inches by 12 inches. In the centre of      When the party arrive read:
+the table place the wagon. The paths are 4inches
+wide and all other areas are considered the waters
+of the swamp. You should clearly mark the path           The dead begin to rise from the murky water,
+and water areas.                                        Blasten-Vagen’s engine needs emergency repairs!
+                                                        Defend it with your lives.
+
+ Deployment
+  All the warband models that are participating in
+this scenario should be placed within 1 inch of the
+
+wagon A1.                                                                MAP 1
+ Threats
+  At the end of each round each model must make
+a presence test. On a failure they move 3 inches
+away from the path and into the water drawn by
+the deadlights. If they are in the water at the start
+of their turn, they must make an Agility test or
+
+begin to drown and take D4 damage that ignores
+Armor, they can retake this test every time they
+activate. If a model is downed in water, they are
+instead killed.
+  At the start of each round spawn the
+following
+ Round 1. Spawn 2x Restless.
+ Round 2. Spawn 2x Restless.
+ Round 4. Spawn 2x Deadwalker Archer.
+ Round 6. Spawn 2x Restless.
+ Round 8. Spawn 1x Restless and 1x
+Deadwalker Archer.
+
+
+
+ Solo Play
+
+ As above but in rounds 2 and 6 only spawn 1
+
+Restless.
+
+
+                                                                                                          11
+       SCENARIO 2:
+     THE OLD VILLAGE
+
+
+
+
+12
+Y
+          ou make your way along the sodden          Threats
+          road for some time until you see the
+          outline of a crumbling town, its ruined    In Area A2 place 1x Deadwalker Soldier. And 2x
+          structures sinking into the soft ground
+and black waters. A moss-covered signpost names      Deadwalker Archers per warband.
+the place as Sloughfen.
+                                                     In A3 Place 1x Deadwalker Batterer and 1x
+  As you approach, a gust of wind blows,
+spinning a weathervane on a nearby roof. The         Deadwalker Horseman per warband.
+weathervane lets out a sharp creak as the long
+metal arrow turns to point south. Risen corpses      In A4 place the Necromancer on the tower. (if
+on the roof growl as they reach feebly towards the   your tower has no stairs models take 1 round to
+source of the sound.
+                                                     move up the tower to reach the necromancer) The
+  Coming to the town gate, you see more of
+the strange swirling lights. An eerie, disjointed    Necromancer does not leave the tower for any
+melody rings throughout the dirt streets. The        reason.
+sound emanates from the top of a large stone
+tower, its ramparts lit by a brilliant glow that     Solo Play
+pulses with the dreadlights. Atop the tower, a       See above
+crooked, pale figure hunches over a strange
+instrument made of a thousand bones.
+                                                     The Scenario ends when the Necromancer is
+                                                     dead.
+Goal
+Kill the Necromancer                                 RPG Text Box
+Reward
+                                                     When the party arrive read:
+10xp for warband that slays the Necromancer.
+Setup and Treasure
+                                                        You hear a haunting sound from the village
+Setup the map as shown in Map 2. The table            drift to you. There is something very sinister
+should be 36 inches by 24 inches. A2 should be        here.
+
+a well of some kind and A4 should be represented
+by a tower.
+
+In A2 and A4 place 2 supply boxes that can
+be looted as per loot rules. Any warband that
+searches automatically finds a part that Lunden
+requires.
+Deployment
+All warband members should be placed within 3
+
+inches of A1
+
+
+                                                                                                       13
+     MAP 2
+
+
+
+
+14
+15
+       SCENARIO 3:
+     BLOOD AND FLAME
+
+
+
+
+16
+W
+            ith the Blasten-Vagen fixed, you          The Corpse Cart moves 2D6 per round. If the
+            board the carriage, grabbing a
+            handlebar to hold yourself steady.       Cart gets within 1 inch of the Blasten-Vagen it
+            Lunden looks to you and nods as he       randomly attacks a warband member, it rolls to hit
+pulls a brass-knobbed lever. The engine roars to     and on a success deals 1D10 damage.
+life with a bellowing explosion, spitting flames
+and embers into the darkness.                          Warband members on the cart can forgo an
+                                                     action to do one of the following
+  As the wagon jolts forward, a nightmarish wail
+rings out from a cluster of nearby willows. A
+                                                     Move the Blasten-Vagen 1 inch cart in any
+massive bone-white thing bursts forth, towering
+over the trees and snapping them as it gives         direction by passing an Agility test
+chase. The thing is a humanoid monstrosity, an
+                                                     Dump a crate by making a strength test, gains the
+amalgamation of wood, flesh, and bone. It runs
+with an uneven gait, its long, slender arms and      cart +1 movement.
+legs swinging chaotically as it sprints towards
+you, pushing a hellish carriage. It plucks risen     Attack the Corpse Cart if it is in range. If so, any
+soldiers from its path, hurling them onto the cart   successful hits will instead of causing HP damage
+and impaling them on rows of ribcage spike that      to the Corpse Cart it pushes it back 1 inch.
+line its carriage bed.
+                                                     Bumpy ride. At the end of each round all models
+
+                                                     must make an Agility or Strength test (players
+ Goal
+                                                     choice) and on a success they are fine. On a
+ Outrun or kill the Corpse Cart                      failure they lose their next activation and, on
+                                                     a fumble, they are thrown overboard and lost
+ Reward                                              forever.
+
+ You survive and all warbands gain 20xp.
+                                                     The Scenario ends after 8 rounds.
+
+ Setup and Treasure
+  This scenario should be played on as large of      RPG Text Box
+a surface as you can get. Your warband are on a
+cart that measures at least 5 inches by 3 inches     When the party first sets off read
+and can be represented by anything that measures
+this. The Corpse cart that is chasing you should
+be equally represented and is 8 inches behind at        You hear it, a strange sound coming from the
+the start of the scenario. The Blasten-Vagen cart     village, approaching fast you see the thing and
+moves 4 inches a round.                               release it means to deal your doom. It is time to
+                                                      move! You look to Lunden and plead for him to
+                                                      get the thing moving now!
+ Deployment
+ All warband members should be placed on the
+Blasten-Vagen cart as above.
+
+
+ Threats
+
+
+                                                                                                            17
+                                           EPILOGUE
+
+     THE BLACK FORTRESS
+       The warband has made it! You are finally here at
+     the Black Fortress, an enormous stronghold with
+     towering walls that reach to the north and south,
+     stretching the length of a mountain pass heading
+     into the region known as the Ashen Wastes. The
+     fortress itself is highly restricted, but there is
+     a Penitent Crusade encampment outside of the
+     fortress.
+
+
+      TO BE CONTINUED ...
+
+
+
+
+18
+19
+                                       MONSTERS
+
+       All monsters in Forbidden Psalm: The
+     Tainted Lands of Doaden treat other monsters
+     as friendly.
+
+
+
+
+20
+RESTLESS
+
+
+
+HP: 8
+
+
+Morale: -
+
+
+Claw: 1D4
+
+
+Armor: 1
+
+
+
+Special:
+
+If 2 or more Restless attack the same target they
+each gain +3 to their roll.
+
+
+
+
+                                                    21
+     DEADWALKER ARCHER
+
+
+     HP: 9
+
+
+     Morale: -
+
+
+     Bow: 1D6*
+
+
+     Armor: 1
+
+
+
+     Special:
+
+
+     Can only target models within 9 inches
+
+
+
+
+22
+DEADWALKER SOLDIER
+
+
+HP: 10
+
+
+Morale: 10
+
+
+Rusted Weapon : 1D6*
+
+
+Armor: 2
+
+
+
+Special:
+
+When the warrior is dropped to 0HP
+roll a D20 and on a result of 12 or more it
+stands back up with 1HP
+
+
+
+
+                                              23
+     DEADWALKER BATTERERS
+
+
+     HP: 11
+
+
+     Morale: 14
+
+
+     Slam: 1D8
+
+
+     Armor: 2
+
+
+
+     Special:
+
+     When the Batterer is dropped to 0HP roll a D20
+     and on a result of 12 or more it stands back up with
+     1hp
+     Can make 1 extra attack each monster phase
+
+
+
+
+24
+DREAD HORSEMEN
+
+
+HP: 11
+
+
+Morale: -
+
+
+Cleave: 1D8
+
+
+Armor: 2
+
+
+
+Special:
+
+As long as Dread Horseman moves at last 5
+inches before attacking it gains a +6 on attack
+rolls.
+
+
+
+
+                                                  25
+     DREAD
+     NECROMANCER
+
+
+     HP: 18
+
+
+     Morale: 10
+
+
+     Ranged:
+     Death missile 1D4 /Melee Claw 1D4
+
+
+
+     Armor: 2
+
+
+
+     Special:
+
+     If no other Dread creature are on the table at the
+     start of any activation phase the Necromancer
+     immediately summers 1D4 Restless.
+
+
+
+
+26
+27
+28
+29
+30
+31
+

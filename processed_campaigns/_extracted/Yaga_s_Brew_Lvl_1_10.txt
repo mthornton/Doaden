@@ -1,0 +1,450 @@
+          YAGA'S BREW
+                      Level Scaling
+                          1 – 10
+
+
+Venture into a foreboding woodland swamp and unravel Baba
+     Yaga’s sinister plot in this easy-to-run adventure
+
+
+
+                                             Liber Obscura 006
+  “The path to redemption is a treacherous journey walked alone,
+     each step resonating with the sorrow of a thousand sins."
+
+
+
+
+                                    CREDITS
+Writer/Designer: Alexander H. Dovermann   Produced by: Bestiarum Games
+          his module can be run as a one-shot         deceived, the plight of the town and the
+          or as part of a persistent dark fantasy     children are all part of Yaga’s elaborate trap to
+
+
+T         campaign using Bestiarum’s Path of
+          Penitence (PoP) system. Creatures
+          and items marked with an asterisk (*)
+          are new. Their information can be
+                                                      lure in and kidnap unwary adventurers.
+
+
+                                                      Adventure Hooks
+                                                      The adventure starts as the party arrives at
+found at the end of the adventure.
+                                                      Wrozek. They may have just stumbled upon
+                                                      the village, or you might lead with a series of
+Tier I. This adventure scales in difficulty
+                                                      unnerving signs and clues as the party travels
+based on your party’s Average Party Level
+                                                      the woods: eerie howls in the wind, signs of
+(APL). Use the following table to determine
+                                                      witchcraft along the road, a disoriented
+the appropriate difficulty for your party. If your
+                                                      villager who warns them about a curse, an
+party finds the scenario too easy or hard, you
+                                                      abandoned child's toy or a cryptic message
+can shift difficulties, even mid adventure!
+                                                      scratched into a tree nearby. Or they might
+                                                      have heard rumors of Wrozek's plight in a
+ADVENTURE DIFFICULTY                                  nearby town and have come to help.
+    Difficulty              APL
+                                                      Opening Script
+    Beginner                1–2                       To start the adventure read this script.
+
+    Easy                    3–4
+                                                       As you trudge through the dark woodland, a
+                                                       chill breeze blows past, making gnarled tree
+    Medium                  5–7                        branches groan. The damp soil is heavy with
+                                                       the scent of peat and decay. Gnats circle the
+    Hard                    8 – 10                     moss-draped foliage, buzzing incessantly.
+                                                       Rounding a curve in the narrow dirt road, you
+                                                       come upon a ghostly scene—a dilapidated
+Adventure Introduction                                 cluster of wooden cabins, decaying and
+The village of Wrozek is trapped in an eerie           abandoned. The doors have been left flung
+silence. It was once a small community of              open and belongings are scattered in
+peat-harvesters in an isolated woodland                disarray. As you approach, two small figures
+swamp, yet all the residents have mysteriously         appear, stepping timidly from one of the
+disappeared. Only two young children remain,           houses. A pair of children, their eyes wide
+who beseech travelers to save their vanished           with a mix of fear and hope. With shaking
+                                                       voices, they beseech your aid.
+community, claiming the evil witch, Baba
+                                                          “Please help us little children! Baba Yaga
+Yaga, has kidnapped their families. The party
+                                                       has stolen our family!”
+must track down this vile witch to save village
+before it is too late. Yet they have been
+
+2                                    Liber Obscura 006 – Yaga’s Brew
+                                                     their shared presence. Of course, this is all a
+                WROZEK                               façade put on by Yaga’s shapeshifting
+                                                     domovoys to lure the party to their master’s
+Wrozek is a small, isolated community so
+insignificant it is unlikely to be found on any      den.
+map. The settlers were peat-farmers, who
+harvested the sludge from rancid bogs that dot       Roleplaying the Children
+these woods. But now Wrozek stands silent            Roleplay a narrative encounter, making the
+and abandoned. The houses show signs of a            children as convincing as you can. Their story
+hasty departure—doors flung open, personal           should be heart-wrenching, invoking sympathy
+belongings scattered, and a palpable silence         and a sense of urgency. They explain how the
+pervading every corner.                              evil witch, Baba Yaga, came in the night and
+                                                     stole everyone away. Only they managed to
+GM Information. Months ago, the villagers            hide and evade her. Now they are all alone,
+were kidnapped by a sinister witch from the          and the witch could return at any moment.
+nearby woods, Baba Yaga, a cursed being that         Tomek and Zosia plead with the adventurers
+has lived here since before the first settlers of    to find Baba Yaga, save their family, and bring
+the area. She kidnapped the folk of Wrozek,          peace back to their village. They can offer
+using them for her dark rituals, a fate that has     vague directions to her den deep within the
+befallen many other settlements that dot the         woods, based on the direction from which they
+area. Now, two of Yaga’s domovoys*, small            last saw her making her way.
+magical gremlins bound to her in service,                You might throw in a few idiosyncrasies
+wander the area, taking the shape of innocent        that hint at the truth. For example, they may
+children to lure travelers to their doom by          refer to themselves oddly as ‘little children,’ a
+sending them on a quest to Yaga’s den.               term more likely to be used by a
+                                                     witch than a
+The Children. The only inhabitants left in           child. But if the
+Wrozek are two young children, a boy named           party grows
+Tomek and a girl named Zosia. Both are               suspicions,
+                               scared and            these oddities
+                               anxious, their        may be
+                               eyes wide and         explained by
+                               filled with a         the fact that
+                              mix of fear and        the isolated
+                             a glint of hope         folk in these
+                             now that they           areas tend to
+                              have found the         be odd-
+                          adventurers. They          mannered in
+                    cling to each other,             general.
+                         finding comfort in
+
+                                    Liber Obscura 006 – Yaga’s Brew                                    3
+Unmasking the Domovoys                              INVESTIGATION/PERCEPTION TABLE
+If the party sees through the deception and
+                                                     DC       Information Learned
+decides to confront the domovoys, these
+creatures will attempt to flee, morphing back        5+       The party finds normal household
+into their natural, diminutive form—small                     items left behind, giving off an eerie
+gremlin-like creatures—and dashing into the                   feeling of abrupt abandonment. They
+swampy woods at the first opportunity.                        also notice faded footprints in the
+    If the party decides to attack, keep in mind              dirt running about chaotically.
+that domovoys are not particularly strong nor
+brave. They will prioritize escape over combat,      10+      The party finds signs of a struggle in
+using their innate magic to create illusions or               some cabins, including minor
+distractions to facilitate their escape. If                   damage to furniture, discarded
+captured or cornered, they will desperately try               items hastily thrown around, and
+to bargain for their lives, promising to guide                scratch marks on the door from the
+the party to their master's lair. One domovoy                 inside. The heavy drag marks lead
+carries a bag of holding, and the other carries               into the forest.
+10d10 gp, which they can give as payment for
+its life or be taken if it is defeated.              15+      The food supplies in the houses are
+                                                              long decayed, likely for weeks or
+                                                              months. Sacks of grain are filled with
+Investigating the Area                                        mold and inedible mush. In the
+The party can investigate the cabins around
+                                                              hearths, cold ashes lie undisturbed,
+Wrozek if they wish. They might notice little                 while pots hold remnants of meals
+details like a rotting bowl of porridge, a broken             that have long turned black with
+toy, or clothes left to dry in the wind—now                   spoil, the stench of decay hanging
+molded and discolored. It’s clear the villagers               heavily in the air.
+did not leave willingly or with any forewarning.
+    If the party chooses to investigate the          20+      The party finds a diary that narrates
+cabins and the area around Wrozek more                        the normal, day-to-day life in the
+thoroughly, have them make Wisdom                             village, with the entries abruptly
+(Perception) or Intelligence (Investigation)                  ending several months back. On one
+checks. Use the following table to determine                  of the pages is a reference to an
+what they find based on the result. They find                 ancient shrine deep in the woods
+all the clues for which they roll high enough.                that village foragers found, though
+                                                              they quickly left as a feeling of evil
+                                                              pervaded the area. A vague location
+                                                              description and sketch of the shrine
+                                                              accompanies the text.
+
+
+
+4                                  Liber Obscura 006 – Yaga’s Brew
+    THE HUNT FOR YAGA
+                                                     Navigating the Woods
+                                                     The dense woods and swamps surrounding
+Whether the domovoys succeed in their                Wrozek are disorienting. The party must
+deception or are revealed for what they are,         contend with murky quagmires, disorienting
+the party's path is set. When the party decides      mists, poisonous plants, grasping vines, and
+to enter the woods and hunt down the witch,          other dangers. For those with the Survival
+read the following script and begin the next         skill, this is an opportunity to take the lead,
+section. If the party does not set out on their      guiding the party safely through the dangers
+own, she will influence the surrounding forest       and keeping them on course.
+to force them toward her den. Paths they've
+previously taken might close up, while others        Encounters. To generate these encounters,
+mysteriously open, and the sky may be filled         have the party roll a series of survival checks,
+with billowing fog. They may hear the distant,       and each time they do, roll 1d10 to determine
+eerie cackling of the witch on the wind,             an event on the following Woods Encounters
+beckoning them deeper into her domain.               Table. A total of three successful survival
+                                                     checks will guide the party through the
+                                                     swamp, after which they arrive at the witch’s
+ You enter the accursed woods to hunt down
+                                                     den. Failing a check results in the party losing
+ the insidious Baba Yaga. The trees are a
+ tapestry of gnarled branches and shadows,           their way in the disorienting woods, delaying
+ and the passage between them twists and             their journey as they must retrace their steps.
+ turns like the threads of a hag's loom. The air         Journal Benefit. If the party possess the
+ is heavy with the scent of decay, punctuated        journal from the Wrozek village, they can
+ by the occasional, sickly-sweet whiff of some       benefit from the crude map and notes about
+ unseen bloom. As you travel deeper, a thick         the terrain, reducing the successful checks
+ fog descends, making it difficult to see. The       required from three to two.
+ oppressive undergrowth rises up from the                Domovoy Benefit. If the party managed to
+ damp, moss-ridden soil. Thick roots and             capture a domovoy and it agreed to help them,
+ vines grasp at your ankles like gnarled hands.      each time they make a survival check they can
+     There is a silence here, a horrible quiet       ask it for directions. However, it will attempt
+ that feels almost tangible, broken only by the      to deceive them as often as it actually helps.
+ far-off cry of a raven, the mournful hoot of an     Roll 1d20, on an even number it tells the truth,
+ owl, or the unsettling rustle of something          and on an odd number it lies. If the party
+ unseen moving through the underbrush. The           follows its guidance when it tells the truth,
+ absence of normal life fills you with a sense of    they gain advantage on the survival check. If
+ dread, as though you have ventured into a           they follow its guidance when it lies, they have
+ world that is not your own. And yet, you push
+                                                     disadvantage on the survival check.
+ forward. You are in the hunt now, and there is
+ no turning back.
+
+
+                                    Liber Obscura 006 – Yaga’s Brew                                    5
+WOODS ENCOUNTERS TABLE
+    d10   Random Encounters
+
+    1     Bramble Brush. A dense thicket of thorny brambles block the party's path, too high to
+          climb over and stretching out on both sides as far as the eye can see. The party members
+          must navigate through the thorns, requiring a Dexterity saving throw (DC 10). On a failure,
+          they take piercing damage from the thorns, scaling with difficulty.
+              • Beginner 4 (1d8) piercing damage.
+              • Easy 9 (2d8) piercing damage.
+              • Medium 13 (3d8) piercing damage.
+              • Hard 18 (4d8) piercing damage.
+
+    2     Toxic Blossom. The party stumbles upon a large, camouflaged flower by the side of the
+          path. As they approach, the flower bursts open, releasing a cloud of toxic gas that erupts in
+          a large area. Each party member must make a DC 5 Constitution saving throw, becoming
+          poisoned for 24 hour on a failure.
+
+    3     Bewitching Lights. A billowing fog heavily obscures the area, making it difficult to see
+          more than a few feet. Glowing lights flicker in the distance, creating a mesmerizing pattern
+          that draws the party's attention. They must make a Wisdom saving throw (DC 15). On a
+          success, they recognize the lights as a distraction. On a failure, they are led astray and
+          must succeed on two additional Survival checks to reach Baba Yaga. If they fail once, they
+          may choose not to follow the lights in the future, automatically succeeding on the check.
+
+    4     Snakes. The party comes across a nest of snakes, disturbed by their passage.
+             • Beginner: 3 poisonous snakes.
+             • Easy: 3 giant poisonous snakes.
+             • Medium: 1 giant poisonous snake and 2 swarms of poisonous snakes.
+             • Hard: 3 giant poisonous snake and 3 swarms of poisonous snakes.
+
+    5     Boggy Quagmire. As the party travels through a mucky section of ground, the earth
+          unexpectedly gives way to a deep, watery pit with sinking mud at the bottom, snaring their
+          feet and legs, and dragging them down. Party members must make a DC 20 Strength
+          saving throw to pull themselves free or become restrained under the water for 6 seconds
+          without oxygen. If a PC runs out of oxygen, they begin Suffocating. Every round they may
+          reroll the check. PCs that escape may assist ones that are still stuck.
+
+
+
+
+6                                   Liber Obscura 006 – Yaga’s Brew
+6    Bone Chimes. The party comes across an area strewn with bone chimes hanging from the
+     trees and crude wooden dolls scattered on the ground, clear signs of Baba Yaga's
+     influence. As they pass by, an unsettling voice murmurs in the wind, shaking the chimes
+     striking with a deep sense of psychological horror. The party must make a Wisdom saving
+     throw (DC 10). On a failure, they take psychic damage, which scales with difficulty.
+          • Beginner 5 (2d4) psychic damage.
+          • Easy 9 (2d8) psychic damage.
+          • Medium 13 (2d12) psychic damage.
+          • Hard 21 (2d20) psychic damage.
+
+7    Cursed Totem. The party stumbles upon a grotesque wicker totem shaped like a twisted
+     goat standing on its hind legs with a swollen belly. The creature's eyes glow ominously red
+     as the party approaches. Each PC must roll once on the long-term madness table.
+
+8    Twisted Beast. Deformed creatures, their bodies and mind corrupted by dark magic, block
+     the party's path. Their eyes glow a baleful red, and its shaking body is a pitiful sight, it has
+     become rabid and overcome by some dark curse.
+         • Beginner: 2 wolves.
+         • Easy: 1 wolf and 2 dire wolves.
+         • Medium: 3 giant boars.
+         • Hard: 3 giant boars and 1 giant elk.
+
+9    Sunken Ruin. The party encounters an ancient ruin half-sunken in the swamp. It is
+     infested with undead creatures that attack as the party passes.
+     • Beginner: 1 specter.
+     • Easy: 1 shadow and 2 specters.
+     • Medium: 2 shadows and 1 ghost.
+     • Hard: 1 ghosts and 1 wraith.
+
+10   Screaming Log. The party comes across a rotting log with a grim likeness of a screaming
+     face. A DC 15 Wisdom (Perception) check reveals something inside its mouth. On a
+     success, roll 1d4 and have the party find the result.
+         • 1d4 trinkets worth 50 cp.
+         • 1d4 pieces of jewelry worth 50 sp.
+         • 1d4 gems worth 50 gp.
+         • 4. 1d4 potions of healing.
+
+
+
+
+                                Liber Obscura 006 – Yaga’s Brew                                         7
+                                                     BABA YAGA ENCOUNTER
+       BABA YAGA'S GROVE                              Difficulty           Enemies
+When the party makes the necessary survival
+checks and completes the encounters, they
+                                                      Beginner             1 green hag
+arrive at the witch’s den. At the center is a ruin
+where Baba Yaga’s cauldron sits. This is
+                                                      Easy                 1 death hag*
+where she performs her dark deeds, and it is
+here she will attack the party, attempting to
+                                                      Medium               2 green hags
+kill or capture them to use their bones and
+                                                                           1 death hag*
+organs in her rituals later. Baba Yaga and her
+allies will appear seemingly from thin air and
+                                                      Hard                 1 Baba Yaga’s cauldron*
+attack. Baba Yaga will by the highest CR
+                                                                           2 night hags
+enemy in each difficulty. Read the following
+                                                                           1 death hag*
+script and begin combat, placing the enemies
+listed anywhere on the map, though Baba
+Yaga’s Cauldron* should be placed at the             Loot. If the party defeats the enemies, they
+center of the ruin.                                  may roll 4d10s. Based on the cumulative roll
+                                                     score, they find the following item. Add a
+                                                     bonus to the cumulative roll score depending
+    After what seems like eternity marching
+                                                     on the adventure difficulty level.
+    through the murky woods, you come to an
+    eerie grove. The ruin of an ancient altar
+    remains at the center, sinking slowly into        4d10            Item Discovered
+    the surrounding water. A cauldron full of
+    green ichor bubbles, placed at the center of      28+             hexing wand* (uncommon)
+    the circular ruin. The cauldron suddenly
+    begins to bubble violently as the gust of         1 – 27          Nothing
+    wind blows through the area. Shadows
+    twist, coalesce, and there, from the ether,
+    Baba Yaga materializes.                           Difficulty                 Loot Roll Bonus
+
+                                                      Beginner                   +0
+Terrain and Obstacles. Baba Yaga’s den is
+flooded with sections of waist-high water,
+                                                      Easy                       +1
+making traversal difficult. Several old
+structures along the outskirts of the area have
+                                                      Medium                     +2
+collapsed, but the ruins still stand 10 feet tall,
+offering cover to creatures that hide behind
+them.                                                 Hard                       +3
+
+
+8                                   Liber Obscura 006 – Yaga’s Brew
+Ending the Adventure                               are no survivors of the town of Wrozek. If the
+                                                   party searches for survivors, they find that only
+The witch's form dissipates as she is defeated.
+                                                   old bones and shriveled organs hung on
+The villagers of this cursed land will be safe
+                                                   strings remain in Baba Yaga’s domain.
+once more, though it is now clear that there
+
+                                  Liber Obscura 006 – Yaga’s Brew                                 9
+                                     MONSTERS & NPCS
+ Domovoy                                                   Baba Yaga’s Cauldron
+ Small fey, chaotic neutral                                Large construct, unaligned
+ Armor Class 13                                            Armor Class 15 (natural armor)
+ Hit Points 22 (5d6 + 5)                                   Hit Points 85 (10d10 + 30)
+ Speed 20 ft.                                              Speed 15 ft.
+
+     STR    DEX    CON      INT      WIS     CHA             STR     DEX     CON      INT      WIS     CHA
+      8      16     12       10       12      14              16      8       16        2       6        2
+     (-1)   (+3)   (+1)     (+0)     (+1)    (+2)            (+3)    (-1)    (+3)     (-4)     (-2)    (-4)
+
+ Skills deception +4, perception +3, stealth +5            Damage Immunities poison, psychic
+ Condition Immunities charmed                              Condition Immunities blinded, charmed,
+ Senses darkvision 60 ft., passive Perception 13           deafened, frightened, paralyzed, petrified,
+ Languages Common, Sylvan                                  poisoned
+ Challenge 1/2 (100 XP)                                    Senses blindsight 60 ft. (blind beyond this
+                                                           radius), passive Perception 8
+ Innate Spellcasting. The domovoy's innate                 Languages –
+ spellcasting ability is Charisma (spell save DC
+                                                           Challenge 4 (1,100 XP)
+ 12). It can innately cast the following spells,
+ requiring no material components:                         Immutable Form. The cauldron is immune to
+                                                           any spell or effect that would alter its form.
+ At will: mage hand
+ 3/day each: cure wounds, disguise self,                   Actions:
+ invisibility (self only), misty step
+                                                           Boiling Brew. The cauldron spills its boiling
+                                                           contents all around itself. All enemy creatures
+ Actions:
+                                                           within 5 feet must make a DC 14 Dexterity saving
+ Shortsword. Melee Weapon Attack: +5 to hit,               throw, taking 21 (6d6) necrotic damage on a
+ reach 5 ft., one target. Hit: 6 (1d6 + 3) piercing        failed save, or half as much damage on a
+ damage.                                                   successful one.
+
+ Household Magic. The domovoy uses minor
+ magic to clean, mend, or tidy up an area, create
+ minor, harmless sensory effects, such as a
+ shower of sparks, a puff of wind, faint music, or
+ a strong odor, or animate small objects to
+ perform simple tasks, such as sweeping the
+ floor, folding clothes, or fetching small items.
+
+
+
+
+10                                      Liber Obscura 006 – Yaga’s Brew
+Death Hag
+Large fey, chaotic evil
+Armor Class 17 (natural armor)
+Hit Points 110 (13d10 + 39)
+Speed 30 ft.
+
+ STR      DEX     CON      INT     WIS      CHA
+  18       14      16       16      16       18
+ (+4)     (+2)    (+3)     (+3)    (+3)     (+4)
+
+Skills arcana +7, deception +8, perception +7
+Damage Resistances cold, fire; bludgeoning,
+piercing, and slashing from nonmagical attacks
+that aren't silvered
+Condition Immunities charmed
+Senses darkvision 60 ft., passive Perception 17
+Languages Abyssal, Common, Infernal,
+Primordial, Sylvan
+Challenge 7 (2,900 XP)
+
+Innate Spellcasting. The hag's innate
+spellcasting ability is Charisma (spell save DC
+16). She can innately cast the following spells,
+requiring no material components:
+
+At will: vampiric touch
+2/day each: bestow curse, blink, fear
+1/day: finger of death
+
+Magic Resistance. This creature has advantage
+on saving throws against spells and other
+magical effects.
+
+
+Actions:
+Multiattack. This creatures may make one
+attack and cast vampiric touch.
+
+Glaive. Melee Weapon Attack: +8 to hit, reach
+10 ft., one target. Hit: 15 (2d10 + 4) slashing
+damage.
+
+
+
+
+                                        Liber Obscura 006 – Yaga’s Brew   11
+               ITEMS
+
+
+
+
+12   Liber Obscura 006 – Yaga’s Brew
+

@@ -1,0 +1,1484 @@
+1
+    LORD OF WAR
+       A 5e Compatible Adventure
+            For Levels 5 – 13
+
+
+
+
+2
+                      The World of Doaden
+
+
+
+W
+    elcome to Doaden, the dark fantasy setting of tainted lands and twisted
+    monsters, where an ever-creeping affliction corrodes the very essence of
+                                   existence.
+
+It is a world of decay and depravity where once-righteous men and heroes of
+the glorious purpose now struggle to survive as cults and dark gods vie with
+                                     one
+              another to consume the last vestiges of humanity.
+
+     It is a world of death, trapped in the fading dusk of a fallen empire.
+The heroes that wander these lands are no grand adventurers to be honored in
+                               songs of minstrels.
+
+ For the heavy deeds and decisions these wanderers undertake invariably leave
+ them disheartened, broken, nothing more than soulless husks and shadows of
+                         their once-glorious selves.
+
+Yet as dark as Doaden may be, humanity clings to life with a stubborn tenacity,
+                   a last flickering flame within the dark.
+
+ A last hurrah, a final war cry that shall echo in the black abyss of eternity,
+                a momentary victory before the endless night.
+
+
+
+
+                                                                                  3
+                            Credits
+
+    Developed by:
+      Bestiarum Games
+
+    Lead Game Designer:
+      Alexander Dovermann
+
+    Game Designer:
+      Giovani C. Fiorini
+
+    Art & Graphic Design:
+      Marina Jukova
+      Alexander Dovermann
+      Katarina Popovici
+
+    Cartography:
+      Giovani C. Fiorini
+      Alexander Dovermann
+      Marina Jukova
+
+
+
+                                ON THE COVER:
+                                KOURRAKAS
+
+
+
+                                “
+                                General Kourrakas was the God Emperor’s right hand, the
+                                brutal fist of his militant regime. He was the Lord of War, the
+                                unyielding conqueror, the slayer of lords and a vanquisher of
+                                kings. With the Eternal Legions under his command, Kourrakas
+                                traversed the great lands of Doaden, defeating all those who
+                                opposed the reign of his liege, toppling cities, fortresses, and
+                                kingdoms one after the next until all bowed down in service to
+                                the Holy Empire.
+
+
+
+
+                                                                                        ”
+4
+                                                                           Contents
+
+
+
+Credits....................................................................4                Appendix A: Monsters and NPCs...................20
+Contents.................................................................5                   Normal (Cr 3).....................................................22
+Foreword................................................................6                      Malformed Construct....................................................... 22
+ Running the Adventure....................................6                                    Venator............................................................................. 23
+ Story Overview...................................................7                          Hard (Cr 5)........................................................24
+    Adventure Summary.......................................................... 7              Amalgamation.................................................................. 24
+                                                                                               Cataphract......................................................................... 25
+Introduction..........................................................7                        Hellion.............................................................................. 26
+    The Ashen Wastes.............................................................. 8
+    Regional Map..................................................................... 9        Praetor.............................................................................. 27
+  Adventure Hook...............................................11                            Elite (Cr 7)..........................................................27
+    Lieutenant Rusken............................................................ 11           Silent Emissary................................................................. 28
+                                                                                               Lord Magistrae................................................................. 29
+The Mission.........................................................11
+                                                                                            Champion (Cr 9)..................................................29
+ Encounter 1: Beginning the Cypher Ritual.12                                                   Kourrakas the Unyielding................................................ 30
+    The Archeological Team.................................................. 12
+    Map A: Obelisk Valley..................................................... 13           Boss / Boss Torment (Cr 13 / 18).....................30
+    Cypher Ritual Rules......................................................... 14            Kourrakas the Unyielding................................................ 31
+    Running the Encounter..................................................... 14           Archon (CR 25)....................................................32
+  Encounter 2: Crusade Fall.............................15                                     The Grave King................................................................ 33
+    Map B: Cliff Temple Ruin................................................ 16             Non-Playable Characters (NPCS).....................34
+    Running the Encounter..................................................... 16              Dregger............................................................................. 34
+  Encounter 3: Kourrakas.................................17
+    Running the Encounter..................................................... 17
+Taking it Further................................................18
+    Return to Black Fortress................................................... 18
+    High Clearance Secrets.................................................... 18
+    Hit Teams......................................................................... 19
+    Exploring the Strange....................................................... 19
+    Death’s Domain................................................................ 19
+
+
+
+
+                                                                                                                                                                                          5
+                                                         Foreword
+
+
+    W
+                elcome to Bestiarum’s grimdark world setting of
+                Doaden. This land is fallen, a shattered domain        Narrative Scripts. Some passages are meant to be read
+                where darkness threatens to consume the last           aloud or paraphrased. They build atmosphere or reveal key
+                vestiges of humanity. The Holy Empire fights to        information to the adventuring party.
+    survive in an age of darkness, bereft of their God Emperor,
+    and beset on all sides by rabid beasts, dark cults, and powerful
+    demonic entities.
+                                                                           Narrative Scripts are written in this format!
+
+    Running the Adventure
+    Bestiarum scenarios are easy to run and quick to prepare. They
+    generally last one long, or two short sessions. But if you’d       Special Rules. Some passages cover mechanics that should be
+    like to delve further into our dark world, look at the Taking It   used for the specific scenario or encounter.
+    Further and Bestiary sections for inspiration on creating your
+    own adventures. The horrors of Doaden are truly endless and            Special Rules are written in this format the first time
+    we hope your experience becomes as much your own as it is              they are used, but they may be referenced more than
+    ours.                                                                  once.
+    Party Size. Monthly scenarios are designed for party sizes of 4
+    to 6 players.
+                                                                       References. References to materials in the 5e core rules and
+    Difficulty Modes. Monthly scenarios are made for player levels     Systems Reference Document are Italicized. References to
+    5 through 13. Each module has a scaling difficulty so your         unique Bestiarum materials such as items and monsters, are
+    group can enjoy adventures in any order. Difficulty modes are      written in Bold.
+    Normal, Torment, and Damnation, each corresponds to its
+    own level bracket. As your party levels up, advance them to        Abbreviations. The following terms are abbreviated in
+    higher difficulty modes. You can also adjust monster health        Bestiarum publications:
+    and damage if the encounters are too hard or easy for your            PC - Player Character
+    particular party.                                                     NPC - Non-Playable Character
+        The standard scenario text is for Normal Mode. For                GM - Game Master
+    Torment and Damnation Mode, see the following formats. Only
+    use the monsters listed for one specific mode, do not include
+    monsters listed from other modes.                                      THERE IS LIGHT YET in Doaden, and though it
+                                                                           may seldom come in the form of love or joy, it still
+    Normal = Party Levels 5 – 8.                                           shapes itself into a semblance of honor, purpose, and
+                                                                           redemption.
+                  Torment = Party Levels 9 – 12.
+                                                                                   - Dreyen Solius, Journal of the World’s Ending.
+                  Damnation = Party Level 13.
+
+    Leveling. PCs gain levels by completing scenarios. From
+    levels 5 to 8, they gain one level for every 2 adventures. From
+    levels 9 to 13, they gain one level for every 3 adventures. The
+    maximum level is 13, but parties continue to acquire gear
+    and can enjoy the most challenging and dynamic encounters,
+    and exclusive content for Damnation Mode. If you include
+    your own adventures in between monthly scenarios, consider
+    leveling your party quicker.
+
+    Gold & Items. Civilization and Trade in Doaden have
+    crumbled. Only gold, silver, and copper are circulated, and only
+    at 1/10th the amount suggested in D&D manuals.
+6
+                                                  Introduction
+
+
+D
+             eath descends this day. Cloaked in ash and drowned
+             in arcane storms, its silhouette dances upon the
+             battlefield, slaughtering those in its wake. Death
+             takes a monstrous form, a skeletal fiend now
+driven to bestial wrath. It is Kourrakas the Unyielding, the God
+Emperor’s own general from ages past. Risen from the grave
+by the seething energies of the Ashen Wastes and directed
+by the will of the Eternal Mother, he strides into battle once
+again, a macabre giant reforged in a body of chitinous bone
+and wielding an arsenal of blades in a flailing multitude of pale
+white limbs.
+    You must stand with the Penitent Crusade as the corpses of
+the holy pile all around. Defend the Twilit Obelisk in the Valley
+of Death. Hold out until the Cypher ritual is completed. For it
+is humanity’s last hope. Will you survive the endless assault, or
+will you be consumed by the pale tidal wave of death that stirs
+within the Ashen Wastes?
+
+“I am the sword of the Emperor, I am his wrath. His blood in
+my heart, I shall not tire. His light in my soul, I shall not perish.
+Emperor be with me; I shall not fear. Emperor be with me; I
+shall not fear!”
+
+
+Story Overview
+This is part two of a two-part adventure, following the Eternal         party to help decrypt the Cypher in the valley below. If all goes
+Legions Part I scenario. The party is running through the               well, a Ballista Wagon will arrive from the Black Fortress to
+Ashen Wastes, having narrowly escaped the Cathedral of Bones            help them escape once the ritual is complete. However, it will
+with a skeletal army of the Eternal Legions soldiers close              still be a few hours before it arrives, so the party must hold out
+behind. They are retreating towards the Black Fortress, the             until then. The scenario is developed over three encounters.
+stronghold of the Penitent Crusade. However, they are caught                 Encounter 1. The party descends to the obelisk in the
+in a severe dust storm and are forced to seek shelter. Luckily,         valley below. They speak to an archeological team and learn
+they find a Crusade outpost in a cliffside temple ruin, offering        how to decrypt the Cypher. Then, they defend against waves of
+protection from the storm. But there is no time for rest. The           skeletal soldiers that spill into the valley.
+crusaders stationed there are on an urgent mission.                          Encounter 2. The crusaders atop the cliff ruins are overrun
+    The Cypher Ritual. The crusaders possess the Cypher,                and call for aid. The party rushes to their defense, but too late;
+a mysterious stone tablet acquired in the distant lands of              the crusaders have been decimated. An ill-timed arcane flare-up
+Akhamia. The tablet is carved with symbols and diagrams                 in the dust storm prevents them from returning to the valley,
+that shift constantly. Yet the Crusade discovered that when it          and they must hold out against mutated skeletal creatures that
+is placed near a strange obelisk in the valley below, the letters       emerge from the storm.
+slowly solidify, decrypting line by line. The Crusade believes               Encounter 3. The flare-up ends, and the party returns to
+that the tablet holds ancient knowledge which can be used to            the valley, finding the archeological team slaughtered. They
+defeat the Eternal Legions. Decrypting the Cypher is their best         must complete the ritual themselves. But from the swirling dust
+chance at defeating the ever-swelling ranks of the undead.              storm comes the infamous general, the Lord of War, Kourrakas,
+The party must work with the Crusade to decrypt the Cypher,             the Unyielding, a truly monstrous foe.
+holding out against an onslaught of skeletal soldiers and the                Should the party survive, they will escape in the nick of
+dread general Kourrakas himself.                                        time on the Ballista Wagon sent by the Black Fortress.
+
+Adventure Summary
+The adventure begins as the party shelters from a dust storm
+in the Ashen Wastes, finding safety in a Penitent Crusade
+encampment on a cliffside temple ruin. The Crusade recruits the
+
+                                                                                                                                             7
+    The Ashen Wastes                                                     Kourrakas the Unyielding
+    The Ashen Wastes are a surreal hellscape of endless                  General Kourrakas was the Emperor’s right hand, the brutal
+    nothingness. The land is warped, corrupted by unbridled chaos        fist of his militant regime. In ages past, he was the Lord of War,
+    energies. Geometric structures rise from the dust, cuboid and        the unyielding conqueror, an undefeated vanquisher reviled
+    pyramidal, formed by unknowable magics and geological                by many and feared by all. It is said that a hundred thousand
+    phenomena. Ever-shifting dunes cover the crumbling ruins of          fell to his sword alone, and a million more to the spears of his
+    ancient temple-cities and mega-cathedrals. The sky is distorted,     troops. Risen once again, Kourrakas haunts the Ashen Wastes,
+    twisted, bizarre, as if drawn from another world. The laws of        a macabre giant reforged in a body of chitinous bone and
+    nature are bent and altered here, in this place fit only for the     wielding an arsenal of blades in his flailing multitudes of ivory-
+    dead.                                                                white limbs.
+         These lands were once the fertile heart of the Empire. But           He is the Pale Death, a horror that every soldier in the
+    now, they are a sterile desert marred by the skeletal remains        Black Fortress dreads. They tell stories of entire detachments
+    of the past. A million souls perished here, incinerated by the       of crusaders slaughtered in moments as the skeletal behemoth
+    cataclysmic weapon known as the Demoncore. A blinding                steps from the swirling dust, cutting into their ranks with his
+    flash as the white flame of heaven spilled from the sky. In an       flailing limbs and sharpened blades. No matter how many
+    instant, nothing was left but death and ash. A thousand years        times they fight the dreaded general, nor how many times they
+    later, seething discharge remains trapped in the earth and the       destroy his body, he rises again to hunt them once again.
+    air, warping, and mutating the land, and afflicting the skies
+    with suffocating arcane dust storms. This is the epicenter of        The Black Fortress
+    devastation. The source of Doaden’s suffering. From these
+                                                                         To stem the threat of the Eternal Legions, the Penitent Crusade
+    lands, corruption spills, the creeping malignance, the blighted
+                                                                         mans the Black Fortress, a large bastion of sprawling walls,
+    earth, the darkened skies, the festering scar, the unhealing
+                                                                         heavily defended towers, and outposts. This fortress spans
+    wound of decay that eats away at those left behind.
+                                                                         the length of the border between the Western Reaches and the
+                                                                         Ashen Wastes, keeping the evils of the Wastes at bay. Yet it is
+    The Eternal Legions                                                  only a matter of time before the Black Fortress falls and when
+    The Legions are a skeletal army that wanders the Ashen Wastes.       the day comes, there will be nothing left to stop the apocalypse.
+    Always marching, always searching. They are risen and warped
+    by the energies of the Wastes and driven by the will of the          Dust Storms & Arcane Flare-Ups
+    mysterious being known as the Eternal Mother. The armies
+                                                                         Dust storms are a frequent threat in the Ashen Wastes. When
+    traverse the vast expanse in endless retinues, accompanied by
+                                                                         one approaches, travelers must quickly find shelter, but may
+    giant harvesting columbines that gouge the earth with enormous
+                                                                         still survive a good hour in the buffeting winds and coarse
+    teeth, dredging up the buried bones of those that perished here
+                                                                         sands, suffering minor cuts and bruises. However, dust storms
+    long, as they churn up enormous columns of dust behind them.
+                                                                         carry the potential of arcane flare-ups, triggering the vast
+    These vast troves of bones are recycled and reformed into new
+                                                                         reservoirs of lay energy that saturate the earth and air, fallout
+    warriors and bizarre constructs, ever swelling the ranks of the
+                                                                         from the Demoncore’s explosion. The energies are released in
+    Legion.
+                                                                         plasmatic spurts of colorful lightning, but the very air buzzes
+         The Legions were once the God Emperor’s chosen.
+                                                                         with seething chaos, mutating, corrupting, and destroying
+    Hailing from the Valley of the Sun, the Emperor’s own
+                                                                         anything organic caught within. Any human or other life
+    birthplace, each was a warrior was of unrivaled strength and
+                                                                         unlucky enough to be caught within a flare-up will suffer near-
+    mental will. They were forged in combat from their youth,
+                                                                         immediate nauseating sickness and blistering skin, burns, and,
+    taught never to retreat nor surrender, to kill or be killed. They
+                                                                         if exposed for longer than a few moments, death.
+    fight through pain that would debilitate any other man. They
+    are taught that fear is weakness, that fear is death. With an iron
+    fist, the Emperor deployed the Legions to conquer the world          The Obelisk Valley
+    in an age of unrivaled bloodshed and brutality. But from that        This adventure takes place in the Ashen wastes, around a small
+    devastation arose the Holy Empire, the jewel of mankind, and a       area known as the Valley of the Obelisk. Within the valley is
+    prosperous age of glory and technological advancement.               the pyramidal structure the Penitent Crusade has named the
+         Yet war never changes, and a nation birthed in blood is         Twilit Obelisk. The Obelisk thrums with magical energies, and
+    doomed to die in the way of its creation. The Eternal Legions        can somehow interface with the Cypher, decoding it through
+    are an echo of the past. Risen once again, they come now to          a strange ritual process. The party will spend the bulk of the
+    consume the Empire. They are stronger than ever, their bones         scenario around the Obelisk, interacting with it and learning
+    mutated to form carapace-like armor and their ranks grow in an       how to use its magic to decrypt the Cypher tablet.
+    endless tide. They slaughter all in their wake, harvesting their
+    bones just as they do the troves buried in the dust, swelling
+    their ranks day by day. One day, all of Doaden shall fall to their
+    conquest once again.
+
+
+8
+Regional Map
+Regional map of the adventure location.
+
+
+
+
+                                          9
+10
+                                                     The Mission
+
+
+B        egin the adventure as the party escapes from a dust
+         storm. They will be hailed by a Penitent Crusade
+         outpost stationed in the ruins of a cliffside temple
+overlooking the Obelisk Valley. Its elevation offers protection
+from the dust storms and the Crusade uses the outpost to keep
+tabs on the movements of the Eternal Legions. They have been
+excavating the valley below and discovered the Twilit Obelisk.
+Recently, they were sent the Cypher tablet and instructed to
+complete its decryption.
+
+
+Adventure Hook
+To begin the adventure, read the following script.
+
+
+     Escaping from the skeleton-infested catacombs below
+     the Cathedral of Bones, you hurry back towards the
+     Black Fortress, hoping to find shelter and rest. A
+     creeping dread sinks in as you realize the skeletal
+     legions you saw gathering in the distance are not far
+     behind.
+          As you press on, a swirling dust storm descends
+     upon the Wastes, engulfing you in tempestuous winds.
+     Sheets of sharpened pebbles and coarse sands buffet
+     your body, cutting your cheeks and arms. You search
+     desperately for shelter, growing wearier by the hour,
+     but the barren wasteland offers no protection. As            Lieutenant Rusken
+     fatigue sets in and your muscles begins to give out,         The man hailing the party is Rusken, the leader of the Penitent
+     you hear a sweet sound. A billowing horn in the              Crusade outpost. He is middle aged and terse. His skin is
+                                                                  damaged from prolonged exposure to the Ashen Wastes. It
+     distance, coming from somewhere upwards. You look
+                                                                  scabs and bleeds easily and is marred by patches of black
+     toward the sky and see a small, signal fire cutting          and blisters. Rusken’s team has been stationed here for some
+     through the haze of the dust storm, set high upon a          months. They have been conducting an excavation in the valley
+     cliffside.                                                   below, unearthing a strange pyramidal structure they call the
+          You scramble forth, making your way to the              Twilit Obelisk because of the deep purple glow that emanates
+     craggy mountain and ascending a half-buried                  from its spire.
+                                                                      Roleplay an encounter with Rusken. He should greet the
+     cobblestone ramp. The climb is arduous, but as you
+                                                                  party cordially but commandeer them to complete his team’s
+     near the zenith, you make clearance from the dust            mission to decrypt the Cypher. Rusken should discuss the
+     storm. You look back at the valley below. The storm’s        following points with the party.
+     billowing clouds writhe angrily like a coiling serpent,
+     but you notice an area of calm, a peaceful center of         Rusken’s Mission
+     the valley, from which a deep purple glow emanates.          Recently, Rusken’s superiors sent his team the Cypher,
+     You climb the last section of the cliffside, coming          instructing him to experiment with it near the Twilit Obelisk
+     to the ruins of an ancient temple. A small bonfire           and decrypt it at all costs. His superiors informed him that
+     burns at the center and several men in armor mill            the Cypher may contain information critical to defeating the
+                                                                  Eternal Legions, and that its decryption takes priority over the
+     about. One hails you with a wave of his hand. A long
+                                                                  lives of him and his crew. However, any further information
+     trumpet rests on his shoulder and a folded spyglass          was withheld from him. Rusken’s team has just recently learned
+     hangs around his neck.                                       how to interface the Cypher with the Twilit Obelisk and begun
+                                                                  decryption of the artifact.
+                                                                                                                                     11
+     Rusken’s Teams                                                       Encounter 1: Beginning the
+     Rusken oversees two teams. The first is an archeological
+     team of four fighters and a scholar currently stationed in the       Cypher Ritual
+     valley below. The archeological team is currently working            Rusken should send the party to assist his archeological team
+     on decrypting the Cypher using the Twilit Obelisk. Rusken            in the Obelisk Valley below. They must follow the cobblestone
+     needs the party to descend to the valley and support this team’s     path down to the valley and speak with the team. Before
+     endeavors.                                                           dismissing them, Rusken should give the party 2x Potions
+         Rusken’s second team is a support group consisting of            of Greater Healing. This is all the aid he can spare as their
+     himself and three additional fighters. They remain in the temple     supplies are running out. As the party descends, read the
+     ruins on the cliffside, keeping an eye out for arcane flare-ups      following script to set up this encounter.
+     and Eternal Legions activity. They ensure the safety of the
+     operation and maintain limited communication with the Black
+     Fortress. Rusken was watching for signs of the Legions with his           You descend from temple ruins, following the
+     spyglass when he saw the party battling the storm in the wastes           cobblestone road back into the swirling dust storm,
+     below. He sounded his trumpet to bring them to safety.                    covering your eyes and faces to avoid the brunt of
+                                                                               the stinging sands. After a half hour, the air suddenly
+     Arcane Flare-Ups                                                          clears, and you find yourself in a tranquil valley. At
+     Though the ongoing dust storm is currently nonmagical, the                the center of the valley is a tall pyramidal obelisk of
+     area is prone to arcane flare-ups, so the party should be wary.           alien construction. It rises into the air, thrumming
+     Flare-ups happen suddenly. Approximately five minutes before
+                                                                               gently and emitting a distinct purple aura. Scattered
+     they trigger, the air will begin to buzz with energy and the dust
+     storm will start to spark with colorful lights. Once the flare-up         about the valley are four cuboid shapes, which
+     triggers fully, it will release a devastating barrage of chaotic          occasionally arc faint streaks of energy into the
+     energy for the next fifteen to thirty minutes, incinerating anyone        obelisk.
+     inside of the storm.                                                          In front of the obelisk is the Cypher. The stone
+         If a flare-up begins to trigger, the party should rush to the         tablet levitates a few feet off the ground, surrounded
+     nearest safe area. The Obelisk Valley below is safe as the Twilit
+                                                                               by a mesmerizing black shimmer. It is carved with
+     Obelisk seems to repel the dust storms. The cliffside temple
+     ruins are also safe as the outpost rises above the dust clouds.           strange symbols and diagrams that shift and change
+     Anyone caught between the two locations during a flare-up will            as you look at them, the letters slowly solidify one
+     be exposed to extreme amounts of chaotic arcane energy and                by one as you watch. The first line of the tablet has
+     die within minutes if not seconds. It takes approximately thirty          already been decoded, remaining definite and exact.
+     minutes to travel between the valley and the cliffside at an              Four soldiers and a scholar stand about the tablet.
+     average pace, or about fifteen minutes if they sprint.
+                                                                               The scholar looks at you warily as you approach, and
+                                                                               the soldiers place their hands on their sword hilts,
+     Legion Threats                                                            preparing for danger, unsure of your purpose.
+     Rusken’s team is already aware of the Legion army that the
+     party saw in the first scenario. They have been tracking the
+     detachment for some time. It has grown to over 200,000               The Archeological Team
+     soldiers and is led by General Kourrakas. The army is headed
+                                                                          Roleplay a meeting with the Archeological team. They have
+     to the Black Fortress. The Obelisk Valley is outside the army’s
+                                                                          begun to decode the Cypher. They don’t know the party, so they
+     trajectory, close enough that a small number of skeletons
+                                                                          are on guard. However, if the party explains that they are here
+     might intersect with the archeological team. If all goes well,
+                                                                          to help or were sent by Lieutenant Rusken, the soldiers will
+     they should be able to hold out against any wandering threats.
+                                                                          relax. The scholar or one of the soldiers should take the lead in
+     However, they should hope that Kourrakas is not among them,
+                                                                          explaining how the decryption works.
+     or there will have a serious fight to consider.
+                                                                              Decryption Status. The Cypher is carved with 20 lines
+                                                                          of letters and symbols that shift and change. As the ritual
+     Extraction                                                           progresses, the letters will solidify one by one, line by line,
+     Rusken has called for an emergency extraction. The Black             though the final letters are written in an ancient language that
+     Fortress is sending a heavily armored Ballista Wagon to pick         none here can read. To check the progress of the ritual, the
+     the crusader team up, and the party is welcome to join them.         party may always look at the Cypher to see how many lines
+     The Ballista Wagon can pilot through dust storms and has             have been decoded.
+     protection against arcane flare-ups. But the wagon is still a few        Cuboid Symbiosis. There is a strange connection between
+     hours away. The party must complete the ritual and survive           the Obelisk at the center of the valley and four cuboidal objects
+     until then.                                                          that surround it. Each cube periodically sends an arc of energy
+                                                                          into the Obelisk. Strange bone growths ossify and quickly cover
+                                                                          the cubes, slowing down the decryption. These growths must be
+12
+cleared periodically to keep the ritual going.                       A1) The Cypher
+    Plan of Attack. The four Crusade soldiers will venture out       Levitating in the air is the Cypher, decrypting slowly line
+into the dust storm to the edge of the valley, to destroy the bulk   by line. The party can always check to see how many lines
+of skeletons that may pass by and prevent the larger army from       are decoded. Standing five feet from the tablet, the lines are
+alerting to their presence. The party should remain near the         clearly visible. But a perception check may be needed to
+Obelisk with the scholar, to protect him from stray undead and       accurately determine the progress if they are further away. The
+clear any bone growths that cover the cuboids.                       check’s difficulty should range from 10 to 20, becoming more
+    Dust Storm. A dust storm rages outside of the valley,            challenging the further away they are.
+heavily obscuring vision and making it difficult to travel or
+escape. However, so long as the party remains near the Obelisk
+or in the ruins atop the cliff, they will be safe. Travel between    A2) The Twilit Obelisk
+the valley and the temple ruin is safe so long as there are no       A dark pyramidal structure stands in the middle of the valley,
+arcane flare-ups. However, if there is an arcane flare-up, travel    emitting a purple glow from its spire.
+between the locations will be impossible.
+                                                                     A3) Cuboids
+Map A: Obelisk Valley                                                Four cuboids are spaced around the Obelisk. Each is currently
+The following areas correspond to Map A: Obelisk Valley. The         covered in a boney substrate growth, but when freed, will begin
+party starts near the Cypher in area A1.                             to arc purple energy beams towards the Obelisk. Each cube that
+                                                                     is uncovered will speed up the Cypher’s decryption progress.
+
+
+
+
+                                                                                                                                       13
+     Cypher Ritual Rules                                               10% Decryption. Spawn 1x Malformed Construct and 1x
+                                                                       Venator.
+     Cypher Decryption. The following rules are used to determine
+     the Cypher progress for the remainder of the adventure. Make
+                                                                                      Spawn 2x Malformed Constructs and 1x
+     sure to track this number, but only reveal it to the party when
+                                                                                      Venator.
+     they actively look at the Cypher.
+                                                                                      Spawn 1x Hellion, 2x Malformed Construct,
+         Cypher Decryption. The Cypher is carved with 20                              and 1x Venator.
+         lines of letters and symbols. The ritual is complete
+         when all lines are deciphered. The Cypher decodes             20% Decryption. Spawn 1x Cataphract.
+         line by line. So, each line correlates to a 5 percent of
+         completion.                                                                  Spawn 2x Cataphracts.
+             Cypher Progress. Every 6 seconds, or at the end
+         of each round of combat, roll 1d20. The Cypher will                          Spawn 2x Cataphracts and 1x Venator.
+         decrypt a certain number of letters, potentially but
+                                                                       30% Completion. Spawn 1x Amalgamation.
+         not guaranteeing completion of a line. The rate of
+         success depends on how many Cuboids are clear. A
+                                                                                      Spawn 1x Amalgamation and 1x Venator.
+         line is completed if the 1d20 roll to result in at least
+         the following number.
+                                                                                      Spawn 1x Amalgamation, 1x Praetor,
+         0 Cuboids clear: 16 or higher                                                and 1x Venator.
+         1 Cuboid clear: 14 or higher
+         2 Cuboids clear: 12 or higher
+         3 Cuboids clear: 10 or higher                                 Ending this Encounter
+         4 Cuboids clear: 8 or higher                                  Once the Cypher description reaches 60% Completion,
+                                                                       Rusken should sound his horn, calling for emergency aid. The
+                                                                       archeology team’s scholar should direct the party to return to
+     Cuboids. The following rules are used to determine how            Rusken at the top of the cliff. The scholar will call the soldiers
+     Cuboids are cleared for the remainder of the adventure. All       along the valley periphery to help him complete the rest of the
+     cuboids start this encounter covered in bone growth.              ritual. Read the following script.
+
+         Cuboid Covering. Every 6 seconds, or at the start of
+         each combat round, roll 1d6 for each Cuboid that is                Suddenly Rusken’s horn sounds from the clifftop.
+         clear. On a 1 or a 2, that Cuboid becomes covered
+                                                                            Three long, steady blows. The scholar shouts to you,
+         in osseous bone growth, and must be cleared again
+                                                                            pointing towards the cliffside as he heads into the
+         before it can benefit the Cypher decryption ritual.
+             Cuboid Clearing. To clear a Cuboid that is                     storm towards the crusade soldiers.
+         covered by bone material, a character must spend                       “Go! Rusken calls for aid! I will draw the soldiers
+         one action and pass a DC 15 Strength check to pry off              back to hold the Obelisk until you return!”
+         the growth. Or they may destroy it be dealing damage
+         to it. Bone Growths have an AC of 14, automatically
+         fail any saving throws, and are destroyed if they take        Final Completion Rate. At this point, mark the Cypher
+         at least 12 damage.                                           decryption status as 60% completed, and let it remain at this
+                                                                       percentage until the party returns for the third encounter.
+
+
+     Running the Encounter
+     Begin the encounter after the four crusader solders leave
+     to establish a perimeter around the valley. Begin combat
+     immediately, though no enemies spawn right away. The Cypher
+     ritual begins at 5% completion.
+
+     Spawning Enemies
+     On the following Cypher completion rates, spawn the following
+     enemies anywhere along the edges of the map, as if they are
+     emerging from the swirling dust storm along the edge of the
+     valley.
+14
+Encounter 2: Crusade Fall                                         the way to the temple ruin. If they were sprinting all the way
+                                                                  from the bottom, allow them to reach the temple ruin safely.
+When the party returns to Rusken’s encampment, they must          However, if they were ascending slower, they will have more
+traverse the dust storm as they ascend the cliff. It takes 30     distance to cover. In this case, each PC should make a DC 15
+minutes to ascend at a reasonable pace, or 15 minutes to          Strength (athletics) check. On a success, they make it up to the
+sprint. Describe the ascent to build suspense. When the party     ruins in the nick of time. On a failure, they are caught on the
+is approximately five minutes from top, an arcane flare-up will   edge of the arcane flare-up for just a few seconds, taking 4d6
+begin to trigger. Read the following script.                      damage of a random type. To determine the damage type, for
+                                                                  each PC that fails, roll 1d4. On a 1, it is lightning damage. On a
+                                                                  2, it is cold damage. On a 3, it is fire damage. On a 4, it is force
+    As you reach the last section of the ascent to the
+                                                                  damage. If they dally any longer, they take an additional set of
+    temple ruins, there is a sudden change in the air.            damage for every few second they do so.
+    The hairs on your neck and arms stand on end, and                  When the party reaches the temple ruins, it will be too late
+    you feel a vibrant buzz throughout all about you,             to save Rusken and his crusaders. Read the following script to
+    emanating from the swirling dust clouds. Glancing             begin the encounter.
+    around, you see sparks of purple and blue. Strange                 You reach the temple ruins, panting and exhausted.
+    lights flash and disappear throughout the storm,                   Below, the storm erupts in a series of screeching
+    becoming increasingly erratic and bright. Your mind                booms. Colorful arcs of light churn throughout the
+    races, realizing what is about to happen. There are                clouds, screaming down to the earth and exploding
+    just a few minutes before an arcane flare-up triggers,             in crystalline dust. Roiling arcane swells surge
+    incinerating anything within the storm. You must                   throughout the storm. The very atmosphere thrums,
+    reach the safety of the temple ruins before it is too              pulsing with caustic powers and unbridled energies.
+    late!                                                                  Catching your breath, you step into the safety
+                                                                       of ruins, but there are no signs of Rusken or the
+Desperate Sprint. The party should sprint the remainder of             crusaders. Readying your weapons, you hear a soft
+                                                                                                                                         15
+         groan from above. Rusken and his men are floating,             defensible locations, making it difficult for the party to reach
+         held in place, and suspended fifty feet in the air, in         and destroy it without adequate ranged attacks and spells.
+         a circle around the old temple complex. Their eyes
+         are rolled into the back of their heads, and their             B2) North Island
+         bodies shake in uncontrollable spasms. A sudden                Along the northern side of the Temple Plateau is a stone bridge
+         voice pierces your mind, deep and resonant, in an              leading to a small, isolated island with a crumbled statue half-
+         ancient, unknowable tongue, some forbidden speech              buried into the ground. A few waist-high walls remain around
+         of Enochian origin.                                            the edges.
+             You grab your ears, holding your head in futility
+         as you are struck by a sudden psychic emanation of             B3) South Islands
+         horror and pain. You watch in shock as the eyes of the         Along the southern side of the Main Plateau are two small
+         crusaders liquify, dripping down their faces followed          islands connected by bridges. On the furthest island area few
+                                                                        waist-high stone walls.
+         by the sludgy, viscous remains of their melted
+         brains. They drop from the air like sacks of dirt,
+         their motionless bodies crumpling to the ground as a           Running the Encounter
+         strange, elongated skeleton cloaked in flowing robes           The arcane flare-up rages on, preventing the party from
+         descends from the air, hovering as it levitates to the         returning to the valley for now. Spawn enemies on the bluffs or
+                                                                        along the edges of the plateau, as if they had just climbed up
+         ground. It stretches out a boney hand as its sightless
+                                                                        through the swirling dust storm. You can spawn them anywhere
+         eyes come to rest on you.                                      you like, but consider doing so tactically, such as placing
+                                                                        ranged units on islands or behind cover so they are difficult to
+     Map B: Cliff Temple Ruin                                           reach or damage.
+     The following areas correspond to Map B: Cliff Temple Ruin.
+     The party starts near the center of the main plateau around the
+                                                                        For this encounter, spawn 1x Silent Emissary.
+     area B1.
+                                                                                       Spawn 1x Silent Emissary and 1x Venator.
+     B1) Temple Plateau
+     The largest plateau of the cliffside has a crumbling temple                       Spawn 1x Hellion, 1x Silent Emissary, and 1x
+     structure and a few intact pillars flying red flags which all                     Venator.
+     rise 30 feet into the air. Several broken walls and pillar
+     sections offer limited cover, rising about waist-high feet from    Ending this Encounter
+     the ground. There is a signal bonfire left by the crusaders at
+                                                                        Once all the enemies are defeated, end the encounter. The
+     the center of the plateau lights up the map. A path spiraling
+                                                                        arcane flare-up should continue for another twenty minutes,
+     downward leads back to the valley and the Twilit Obelisk, from
+                                                                        giving the party time for a short rest. After giving the party this
+     where the party came from.
+                                                                        time, briefly describe the flare-up dying down, reverting to the
+         The Silent Emissary is a highly intelligent foe. It can cast
+                                                                        normal dust storm The party should return to the valley and
+     a variety of powerful spells, and teleport around the map to
+                                                                        progress to the final encounter.
+
+
+
+
+16
+Encounter 3: Kourrakas                                                  You land the final blow on Kourrakas. The skeletal
+                                                                        monstrosity collapses into a pile of bones, its
+The party must return to the valley to complete the Cypher
+decryption. When they return, they will find that entire                enormous armor and weapons clattering to the dirt.
+archeological team has been slain by Kourrakas, who is now              The dread general’s skull rolls sideways, its skeletal
+hiding within the raging dust storm. Describe to the party the          jawbone hanging agape as the lights dim from its
+following scene.                                                        hollow eye sockets.
+     As you return to the Obelisk in the valley, you                Revived. The first time Kourrakas rises from being downed,
+     are greeted by a horrific scene. The four cuboid               read this script.
+     structures have been completely covered in bone                    The sound of crackling draws your attention. The
+     growth. The crusade soldiers have been mutilated,                  heap of broken bones that was once Kourrakas begins
+     their arms, legs, and torsos sliced apart and thrown               to clatter and shake, moving on its own accord,
+     about in a haphazard mess. The upper half of the man               stitching itself together and rising to its giant height.
+     that was once the scholar pulls itself meekly along                Bit by bit, the legs and torso, arms and hands come
+     the ground with his two shaking arms, his intestines               together, melding and reforming into the dreaded
+     dragging behind him. His face is in a state of utter               general. The giant skeletal monstrosity picks up its
+     shock, his eyes wide with fear, not yet understanding              weapon, its skull rotating back into place and its eyes
+     that he has died. Blood spurts from his mouth as he                flaring with the soulless light of death once again. It
+     utters his final words and collapses into the dust.                laughs at you, a dry, husky, disembodied rattling, as it
+         “Finish…the ritual.”                                           prepares for combat.
+
+                                                                    Ending this Encounter
+Running the Encounter                                               When the Cypher reaches 100% decryption, the mission is
+This encounter takes place on the same Map A: Obelisk               complete and the Ballista Wagon will arrive to pick up the
+Valley used in the first encounter. The Cypher decryption status    party, escaping just in time for a hasty retreat. The party can
+remains at 60% completion. All Cuboids have been covered by         grab the Cypher and run to the Ballista Wagon to escape. Read
+bone growths.                                                       the following script.
+    Allow the party approximately two rounds, or 12 seconds
+                                                                        The Twilit Obelisk emits a dull thrum as it begins to
+of time to prepare themselves and quickly clear any bone
+growths if they choose, after which Kourrakas the Unyielding            fade, its deep violet light dispersing into the air. With
+will step out of the dust storm and attack. Kourrakas’ abilities        a thud, the Cypher falls to the ground, the letters
+allow him to rise from the dead no matter how many times he             and diagrams fully decoded, etched in an ancient
+is killed but killing him buys precious time as he regenerates.         language unknown to you. From the veil of the dust
+The party must take a balanced approach to delay, control, or           storm, you hear a mechanical clattering as a large
+down Kourrakas, but they must focus primarily on completing
+                                                                        black machine carriage bursts forth from the clouds,
+the ritual.
+                                                                        trailing smoke, and ash behind it. An enormous
+For this encounter, spawn 1x Kourrakas the Unyielding,                  ballista atop the vehicle swivels to aim directly at
+anywhere on the edge of the map, as if emerging from the dust           Kourrakas, unleashing a devastating barrage of
+storm.                                                                  thick steel-tipped bolts. The dread general screams in
+                                                                        frustration, raising his shield and backing up several
+              Spawn 1x Kourrakas the Unyielding
+                                                                        paces to block the bolts.
+              (Torment).
+                                                                            The mechanized ballista unleashes a second wave
+              Spawn 1x Kourrakas the Unyielding (Torment)               of devastating javelin bolts as the rear carriage door
+              and 2x Malformed Constructs.                              slams open, dropping a ramp down in your direction.
+                                                                        An armored crusader waves you over, shouting at the
+                                                                        top of his lungs.
+Kourrakas Downed                                                            “What are you waiting for? Get the hell in!”
+If General Kourrakas is reduced to 0 Hit Points, he will collapse   The battle is over for now. With the Cypher decrypted, the
+into a pile of indestructible bones, but will rise again shortly    Durand should rush back to the Black Fortress with any
+after.                                                              surviving party members that managed to board it. Kourrakas’
+                                                                    army has been stalled for now, but they will certainly move on
+Downed. The first time Kourrakas is downed, read this script.       to the Crusade fortifications soon enough.
+
+                                                                                                                                      17
+                                              Taking it Further
+
+
+
+
+                                                                        High Clearance Secrets
+
+     B
+              estiarum scenarios are designed to be easy to run and
+                                                                        The Cypher holds one third of the information needed to build a
+              quick to prepare. The structured narrative generally
+                                                                        new Demoncore. Two tablets remain, but whether they are still
+              last one long, or two short sessions. But if you’d
+                                                                        lost in the world or held within the deepest vaults of the Church
+              like to delve further into our dark world, this section
+                                                                        of Azerai, one cannot know. These secrets, and the information
+     is designed to inspire you to create your own adventures.
+                                                                        about what they contain, are held in the strictest confidences.
+     The horrors of Doaden are truly endless and we hope your
+                                                                        Any person participating in any step of their acquisition,
+     experience becomes as much your own as it is ours. The
+                                                                        decryption, or use, are watched carefully by hidden agents of
+     following suggestions can be used to craft additional encounters
+                                                                        the Church.
+     or build the world.
+                                                                            The Church is dead set on recreating the weapon, and may
+                                                                        recruit the party to collect or decipher additional tablets, or to
+     Return to Black Fortress                                           acquire the arcane resources and materials necessary to build
+     By the time the party returns to the Black Fortress they’ll have   a new Demoncore. This is a long and complex process, and
+     seen horrors beyond their wildest nightmares and witnessed the     much of the knowledge and underlying technology to create
+     power of the Eternal Legion. They must carry with them what        such a weapon must be redeveloped. It may take years or
+     they have seen, though as stated in the Eternal Legions Part I     even decades, but the Church certainly has its eyes set on this
+     scenario, the Crusade swears them to absolute secrecy, so they     goal. One must question whether such power should ever be
+     may not discuss these events outside of the region. They may,      recreated again. Can the Empire be trusted to safeguard such a
+     however, have made friends and acquaintances stationed at the      fearsome power? Will it really benefit the survival of the world,
+     Fortress. There were several supply officers, and a potential      or will it be used as a tool for dominance and political control
+     friend in Lunden the engineer, if they completed the right         once again?
+     adventure beforehand. They may like to decompress and talk
+     about their experiences during this time.
+
+18
+Hit Teams                                                            caution. Parties on Damnation mode, may seek to defeat this
+                                                                     ancient enemy, but it is far too strong for anyone else. To build
+The Penitent Crusade frequently sends hit teams out into the
+                                                                     this encounter, review the information provided in the Bestiary,
+Ashen Wastes with specific missions to track down and destroy
+                                                                     and draw inspiration to craft a massive dungeon ending in
+key targets of the Eternal Legions armies. Any lieutenant,
+                                                                     an action-packed fight with this high-stakes monstrosity. But
+commander, or other ranking officer that is destroyed delays the
+                                                                     remember, this challenge requires thoughtful preparation and is
+advancing army significantly, as without these key targets the
+                                                                     fit only for the strongest and most daring parties.
+legions are far less effective. A high-value target is often worth
+thousands of individual soldiers, delaying troop advancement
+for weeks or even months as they are reforged somewhere
+deeper in the Wastes.
+    The party may be sent back into the Ashen Wastes to
+eliminate some of the key targets they did not face in this
+adventure, identified by Crusade scouts. Depending on which
+difficulty mode the party played, this could include the Lord
+Magistrae, Praetor, or even creatures of your own design.
+It may even include Kourrakas again, if you really wish to
+torture your party and bring them back to the horrors they faced
+in this adventure.
+
+
+Exploring the Strange
+The Ashen Wastes hold many secrets, valuable treasures, and
+powerful artifacts, hidden amongst the strange ruins from
+Doaden’s past age. Some of these places have sunken below the
+dust, preserved in the state of their existence as the Demoncore
+detonated. In these echoes of the past, one is often reminded
+of the great tragedies of the lost, seeing the ashen remains of
+human silhouettes smeared on the walls and floors, or even the
+petrified bodies that crumble into ash when touched, the last
+remnants of those caught in the blast.
+    Other places have been exposed to the unbridled arcane
+energies of the Ashen Wastes for centuries, warping into
+strange and alien things, with features that defy physics and the
+laws of nature. Even the natural landscape has become twisted
+and bizarre, changed by the arcane fallout. Floating pyramidal
+structures, fractal geological cuboids, perpetually swirling red
+sand valleys, and many other odd phenomena are common
+here.
+    The Church of Azerai and the Penitent Crusade often send
+missions into the Wastes to discover and extract lost knowledge
+and items, sending teams to delve into these lost temples and
+ruins of the past. Some teams deployed for weeks or months
+on end, and rumors among the ranks spread about strange
+cadences of time. Occasionally, a team that has been deployed
+for a single week returns years later, aged just as they were as
+they left. Sometimes teams speak of being trapped and enduring
+decade-long hardships, returning in a state of emaciation, with
+long and unruly beards, just a few days later.
+If the party wishes to continue exploring, you may devise
+various bizarre structures and shelters mutated by the arcane
+fallout.
+
+Death’s Domain
+A Necropolis lies buried in the depths of the Ashen Wastes, a
+place so dark and deep that the Crusade has never managed to
+penetrate it. An aura of pure evil emanates from this place, for
+it is the hall of the Grave King, an incredibly powerful Archon-
+class entity should be approached with the utmost care and
+                                                                                                                                         19
+                              Appendix A:
+                           Monsters and NPCs
+
+     This appendix details the monsters and NPCs that appear in this adventure in addition to
+     many more from Bestiarum’s monthly release that you can use as inspiration for your own
+     adventures! Monsters are organized by Challenge Rating (CR), from weakest to strongest,
+     and then alphabetically.
+
+
+
+
+20
+Challenge Ratings. Enemy difficulties range from Weak (CR 1), Normal (CR 3), Hard
+(CR 5), Elite (CR 7), Champion (CR 10), Boss / Boss Torment (CR 13 / 18), and Archon
+CR 23.
+  NPCs are listed in alphabetical order after the monsters.
+
+
+
+
+                                                                                       21
+                                                   Normal (Cr 3)
+
+     Malformed Construct                                               Malformed Construct
+     The Ossificators are architects of creation, channeling the       Large construct, chaotic evil
+     magics of the Ashen Wastes into their work to meld and shape
+     the many weapons, armors, and constructs of the Eternal           Armor Class 14 (natural armor)
+     Legions. However, occasionally, these energies are too chaotic    Hit Points 84 (8d10 + 40)
+     for even the Ossificators to control. From arcane mishaps         Speed 20 ft.
+     arise bizarre and imperfect constructs, malformed, contorted,
+     grotesque things with too many or too few limbs. Shambling
+                                                                        STR       DEX       CON        INT      WIS        CHA
+     about like deformed infants, these misshapen constructs can
+     barely be considered to have form at all.                            16        10        20           6      10        10
+         Yet as awkward as these constructs are, they are blessed,       (+3)      (+0)      (+5)        (-2)    (+0)       (0)
+     or perhaps cursed, by that same mutagenic magic that led to
+     their miscreation. Chitinous growths of ossified bone grow        Damage Immunities poison, psychic
+     continually and uncontrollably, forging and reforging their       Condition Immunities exhaustion, poisoned
+     bodies, quickly covering any cracks or damage they receive.       Senses darkvision 60 ft., passive Perception 10
+     The growth is a pernicious cancer but allows them to regenerate   Languages -
+     quickly from any minor damage, resulting in an incredibly         Challenge 3 (700 XP)
+     durable and frustrating foe.
+         A Durable Foe. The regenerative bone growth makes the         Malformed Regeneration. The Malformed Construct regains
+     Malformed Construct a frustrating foe to deal with, especially    5 hit points at the start of its turn, and immediately after taking
+     when present in large numbers or when attackers are forced        damage from any source. This ability does not work if the
+     to diversify their fire. For those few attacks that land on the   Malformed Construct is reduced to 0 hit points.
+     Malformed Construct are quickly repaired and forgotten unless
+     a concerted effort is made. But Malformed Constructs are slow,
+     pulling themselves along haphazardly on their few misshapen       Actions:
+     limbs. Therefore, if possible, adventurers may decide to run                     Greatsword. Melee Weapon Attack: +5 to hit,
+     instead of fight.                                                                reach 5 ft., one target. Hit: 17 (4d6 + 3) slashing
+         Wandering the Wastes. If Legion commanders anticipate                        damage.
+     an imminent military engagement, they retain these
+     constructs to swell their ranks. Otherwise, they are
+     discarded upon creation because of their imperfect
+     nature, left to aimlessly wander the many catacombs,
+     tomb-cities, and deserts of the Ashen Wastes. Malformed
+     Constructs are not intelligent. Crusade scouts
+     have observed that they seem to follow a series
+     of rudimentary and randomized movements.
+     In the wilds, adventurers will most often stumble
+     upon a single one. However, the unlucky may run
+     into a patch of five or more that have randomly
+     stumbled together, due to their randomized movement
+     patterns protracted over the passage of centuries. The
+     largest group of such constructs is known among the
+     defenders of the Black Fortress as the “Great Bone
+     Patch”, a pool of several thousand constructs that
+     jostles with itself, drifting slowly about the
+     Swirling Sea, a sandy desert deep
+     in the Ashen Wastes.
+
+
+
+
+22
+                                                  Normal (Cr 3)
+
+Venator                                                            Venator
+Medium undead, lawful evil                                         Songs and tales often embellish the glory of combat, recounting
+                                                                   the deaths of many thousands of men under the crushing
+Armor Class 17 (natural armor)                                     advance of an enemy. Yet these dramatizations are far from
+Hit Points 52 (8d8 + 16)                                           the truth. In reality, battle is tedious attrition. Front line troops
+Speed 30 ft.                                                       may spend the day battering their weapons upon the shields and
+                                                                   armor of their foes, giving, and taking a few meters of ground
+                                                                   from sunrise to sunset. In these protracted exchanges, few
+ STR      DEX       CON      INT       WIS        CHA
+                                                                   deaths result.
+   16       16        14       10        14         10                  Nay, the vast majority of casualties are accounted for in the
+  (+3)     (+3)      (+2)     (+0)      (+1)       (+0)            route, in the moment when fear takes hold and the first soldier
+                                                                   turns to flee. Fear is contagious that spreads quickly through
+Saving Throws Wis +3, Cha +2                                       the ranks, causing a mass retreat. As the broken willed turn to
+Skills Perception +5                                               run, they open themselves to the blades of their foe, writing
+Damage Immunities poison                                           their own doom. They are chased down and slaughtered as
+Condition Immunities exhaustion, poisoned                          easily as sheep. The Eternal Legions understands this truth.
+Senses darkvision 60 ft., passive Perception 15                    There is nothing heroic about war. War is a methodical process,
+Languages Latrian                                                  of refusing to yield and wearing your opponent down through
+Challenge 3 (700 XP)                                               grinding attrition until no hope remains.
+                                                                        Breakers of Will. Wielding devastating crossbows
+Sharpshooter. This creature’s attacks with ranged weapons deal     that require great strength and several hands to
+one extra die of their damage (included in the attack).            operate (of which they are blessed to have many),
+                                                                   Venators are brought to bear when the Legions face
+Actions:                                                           a particularly stubborn foe that refuses to route. They
+                                                                   are deadeye hunters that scan distant battle lines to
+Multiattack. This creature makes two attacks.
+                                                                   identify high value targets from behind shielded lines
+Dagger. Melee Weapon Attack: +5 to hit, reach 5 ft., one target.   of Immortals. When a target is identified, the Venators
+Hit: 5 (1d4 + 3) piercing damage.                                  strike with exacting precision, firing massive javelin
+                                                                   bolts over impossible distances. Their bolts pierce
+Heavy Crossbow. Ranged Weapon Attack: +5 to hit, range
+                                                                   metal and stone, impaling enemy lieutenants,
+100/400 ft., one target. Hit: 14 (2d10 + 3) piercing damage.
+                                                                   generals, and kings, wherever they may be and
+Snipe (Recharge 4-6). This creature spends both of its actions     forcefully breaking the will of the enemy that
+to take careful aim with its ranged weapon and fire an unerring    see their commanders fall before their eyes.
+shot at a target within range. The target must make a DC 15             Truly, no place is safe from these
+Dexterity saving throw, taking 47 (8d10 + 3) piercing damage       deadly hunters, a fact well-known
+on a failure. Cannot be used if any enemy is within 5 feet.        to defenders of the Black Fortress.
+                                                                   Commander Wixley of the 13th
+                                                                   Blackwatch was infamously
+                                                                   eliminated inside of a tower
+                                                                   privy, whilst passing a nightly
+                                                                   excretion on the thirteenth
+                                                                   night of the third
+                                                                   month of the year
+                                                                   913. He was found
+                                                                   impaled to the
+                                                                   latrine behind him,
+                                                                   with a javelin bolt
+                                                                   in his heart, fired through
+                                                                   fifteen feet of solid stone
+                                                                   wall. Needless to say, it was
+                                                                   an unsavory mess for his soldiers to clean
+                                                                   the morning after.
+
+                                                                                                                                           23
+                                                          Hard (Cr 5)
+
+     Amalgamation                                                          Amalgamation
+     Amalgamations are, like their lesser cousins the Malformed            Large construct, chaotic evil
+     Constructs, the results of mishaps during Legion creation
+     rituals. But, unlike their counterparts, the design of the            Armor Class 16 (natural armor, shield)
+     Amalgamation seems intentional, a purposeful molding of               Hit Points 161 (14d12 + 70)
+     various skeletal structures to create a complex weapon. These         Speed 20 ft.
+     hulking constructs carry great armaments that would otherwise
+     take four men to lift, making them difficult to approach and
+                                                                            STR      DEX       CON       INT      WIS       CHA
+     attack. Yet they are as awkward as they are clumsy, shambling
+     mounds of bone and metal with little coherence in their                  18       10        20         6      10         10
+     movements.                                                              (+4)     (+0)      (+5)      (-2)    (+0)       (+0)
+         Walking Towers. Amalgamations see more use in Legion
+     warfare than Malformed Constructs because the great shields           Damage Immunities poison, psychic
+     they carry offer cover to vulnerable troops such as archers           Condition Immunities exhaustion, poisoned
+     and spellcasters. They are ambulatory towers, able to move            Senses darkvision 60 ft., passive Perception 10
+     about and reposition in the midst of combat. The true threat of       Languages -
+     facing these foes lies not from being attacked by them, as their      Challenge 5 (1,800 XP)
+     disjointed limbs and clumsy strikes are surprisingly weak, but
+     in the attempt to destroy them, as the dizzying array of sharp        Shield Guard. This creature may spend an action or bonus
+     bone splints, spears, and blades jutting out of their bodies are      action to raise its defenses, blocking the next 7 points of
+     prone to cutting their attackers.                                     damage from attacks against it. This effect ends at the
+         Soulless Automatons. The Legion’s various construct               beginning of this creature’s next turn, or if it is incapacitated.
+     creations should not be confused with the undead ranks that
+       comprise their armies. While the Immortals and other soldiers       Spiked Wall. The Amalgamation counts as a 10-foot-tall cube
+               seem to retain something of their souls, demonstrating      for conferring cover to allies. If a creature succeeds on a melee
+                    intelligence and will, and are thus true undead        attack against the Amalgamation, it must immediately make
+                                creations, the various constructs of       a DC 15 Dexterity saving throw. On a failure, it is cut by the
+                                   the Legion are entirely mechanical,     various spikes and spears jutting out of the Amalgamation’s
+                                     animated automatons that are          shield and body, taking 7 (2d6) piercing damage.
+                                          driven by some rudimentary
+                                            instinct, more akin to         Actions:
+                                            clockwork devices than
+                                           undead servitors. They just     Spear. Melee Weapon Attack: +7 to hit, reach 5 ft., one target.
+                                           so happen to be made from       Hit: 11 (2d6 + 4) piercing damage.
+                                                 bone, and are not truly
+                                                  undead.
+
+
+
+
+24
+                                                       Hard (Cr 5)
+
+Cataphract                                                           Cataphract
+Large undead, lawful evil                                            The Cataphract riders are an elite cavalry unit. Each soldier is
+                                                                     personally selected by their general for their unrivaled strength,
+Armor Class 18 (natural armor, shield)                               ruthlessness, indomitable will, and tactical prowess. They are
+Hit Points 102 (12d10 + 36)                                          few but deadly, paired with great destriers that know no fear
+Speed 60 ft.                                                         and are trained to smash through the front or back lines of
+                                                                     enemy formations. Armed with powerful, pole-axe lances that
+                                                                     are effective in both mounted combat and melee, the Cataphract
+ STR      DEX       CON       INT      WIS       CHA
+                                                                     warriors are equipped with the finest arms and armor to suit
+   18       14        16        10      12         14                their station.
+  (+4)     (+2)      (+3)      (+0)    (+1)       (+2)                    Elite Riders. In ages past, when the Eternal Legions was
+                                                                     still comprised of mortal men, the Cataphracts held a dreaded
+Saving Throws Wis +4, Cha +5                                         presence on the battlefield. They were the swift death that
+Damage Immunities poison                                             descended upon the flanks, or the pincer charge that separated
+Condition Immunities exhaustion, poisoned                            a battlefield commander from his troops. They were used
+Senses darkvision 60 ft., passive Perception 11                      to overwhelm a foe and swiftly end combat engagements.
+Languages Latrian                                                    However, in practice, the stories of the dread riders
+Challenge 5 (1,800 XP)                                               were much more prevalent than their actual use. They
+                                                                     are most often kept in reserve due to their limited
+Brutal. This creature’s attacks with melee weapons deal one          numbers, acting as an honor guard, organizing around
+extra die of their damage (included in the attack).                  their liege to defend him and only striking out only at
+                                                                     key moments of battle. Yet the fearful reputation of
+Shield Guard. This creature may spend an action or bonus             these riders was just as effective as their combat
+action to raise its defenses, blocking the next 7 points of          prowess. Often, surrender came quickly upon an
+damage from attacks against it. This effect ends at the              enemy learning of the riders’ presence on the
+beginning of this creature’s next turn, or if it is incapacitated.   battlefield, knowing that should the
+                                                                     Cataphracts be deployed, few of
+Cavalry Charge. If this creature moves at least 15 feet straight     their men would survive the day.
+toward a target and immediately follows with an attack against
+that target, the attack has advantage. On a hit, the target must
+make a DC 16 strength saving throw or be knocked prone.
+
+Actions:
+Multiattack. The Cataphract may use Trample and make two
+attacks.
+Cataphract Lance. Melee Weapon Attack: +7 to hit, reach 10
+ft., one target. Hit: 17 (2d12 + 4) piercing or slashing damage.
+Trample (Recharge 5-6). The rider commands its war mount
+to trample the earth. All enemies within 5 feet must succeed on
+a DC 14 Dexterity saving throw to attempt to jump out of the
+way, taking 11 (2d6 + 4) damage on a failure.
+
+
+
+
+                                                                                                                                          25
+                                                         Hard (Cr 5)
+
+
+     Hellion                                                             Hellion
+     Hellions are the one of the most viscous and cruel of the           Large construct, chaotic evil
+     Legion constructs, a melding of bones in the shape of a
+     predatory avian beast. They have been given prehensile claws        Armor Class 21 (natural armor)
+     to grip powerful weapons, wings to fly, and animus with the         Hit Points 75 (10d10 + 20)
+     intention only to main, kill, and shred apart anything that lives   Speed 40 ft. fly 80 ft.
+     and breathes. These terrifying constructs stalk the ridged cliffs
+     and mountainous passes of the Ashen Wastes, ambushing prey,
+                                                                          STR      DEX      CON       INT      WIS      CHA
+     and wreaking havoc on Penitent Crusade caravans.
+         Vanguard Ambushers. The Eternal Legions make use                   16       18       14         6      14       10
+     of these creatures regularly. Small bands of Hellions are             (+3)     (+4)     (+2)      (-2)    (+2)      (0)
+     sent to fly ahead of their marching armies and ambush the
+     enemy, disrupting supply lines and wreaking havoc in enemy          Skills Perception +5, Stealth +7
+     formations. The aftermath of a Hellion attack is a gruesome         Damage Immunities poison, psychic
+     scene, a bloody mess of mutilated flesh and limbs, torn apart       Condition Immunities exhaustion, poisoned
+     organs and strands of viscera.                                      Senses darkvision 60 ft., passive Perception 12
+                                                                         Languages -
+                                                                         Challenge 5 (1,800 XP)
+
+                                                                         Evasive. This creature has advantage on Dexterity saving
+                                                                         throws and its AC is increased by 3 (already included). These
+                                                                         bonuses are lost if this creature cannot see the attack, if its
+                                                                         speed is reduced, it is incapacitated, or it is prone.
+                                                                         Maim. If this creature rolls a natural 18 or higher on an
+                                                                         attack, it maims the target, tearing its tendons and reducing
+                                                                         its movement speed by half. This effect lasts until the target
+                                                                         receives magical healing.
+
+
+                                                                         Actions:
+                                                                         Multiattack. This creature makes three attacks, one with its
+                                                                         Greataxe and two with its Shredder Talons.
+
+                                                                         Greataxe. Melee Weapon Attack: +6 to hit, reach 5 ft., one
+                                                                         target. Hit: 16 (2d12 + 3) slashing damage.
+
+                                                                         Shredder Talons. Melee Weapon Attack: +7 to hit, reach 5
+                                                                         ft., one target. Hit: 8 (1d8 + 4) slashing damage. On a hit, the
+                                                                         target must succeed on a DC 13 Constitution saving throw or
+                                                                         lose 3 (1d6) hit points at the start of each of its turns due to
+                                                                         profuse bleeding from a grievous wound. This effect stacks an
+                                                                         unlimited number of times. Any creature can take an action to
+                                                                         stanch the wound with a successful DC 13 Wisdom (Medicine)
+                                                                         check or by receiving magical healing.
+
+
+
+
+26
+                                                  Elite (Cr 7)
+
+
+Praetor                                                          Praetor
+Medium undead, lawful evil                                       Praetors are commanding officers of the Immortal legions.
+                                                                 These heavily armed lieutenants stand at the head of the undead
+Armor Class 17 (natural armor)                                   army, leading their troops into battle and determining priority
+Hit Points 102 (12d10 + 36)                                      targets and combat strategies. When engaged in combat, these
+Speed 40 ft.                                                     leaders show incredible battle prowess. They are experienced
+                                                                 duelists, swinging their glaives with surprising dexterity, easily
+                                                                 parrying blows, and lacerating their opponent’s flesh.
+ STR      DEX       CON       INT      WIS    CHA
+                                                                     Eternal Will. The will of the Eternal Legions is
+   18       16        16        12      14      16               indomitable. Praetors exemplify this iron and unyielding will,
+  (+4)     (+3)      (+3)      (+1)    (+2)    (+3)              but all the undead troops that comprise
+                                                                 the vast army of the Legions have
+Saving Throws Wis +5, Cha +6                                     a natural resilience to harmful
+Damage Immunities poison                                         wisdom and charisma-based
+Condition Immunities exhaustion, poisoned                        effects.
+Senses darkvision 60 ft., passive Perception 12
+Languages Latrian
+Challenge 7 (2,900 XP)
+
+Command. As a bonus action, select one allied creature within
+30 ft. The target may immediately make one free move action
+or attack action.
+
+Actions:
+Multiattack. This creature makes two attacks, one with
+its Glaive and one with its Backhand.
+
+Glaive. Melee Weapon Attack:
++7 to hit, reach 10 ft., one target.
+Hit: 15 (2d10 + 4) slashing
+damage.
+
+Backhand. Melee Weapon Attack: +7 to hit, reach 5 ft., one
+target. Hit: 8 (1d8 + 4) bludgeoning damage. On a hit, the
+target must make a DC 16 Constitution saving throw. On a
+failure, they are stunned until the end of their next turn.
+
+Reactions:
+Riposte. When this creature is targeted by a melee attack that
+fails, it may immediately make one Glaive attack against the
+attacker and regain its reaction.
+
+
+
+
+                                                                                                                                      27
+                                                      Elite (Cr 7)
+
+     Silent Emissary                                                   Silent Emissary
+     The Silent Emissary is a strange being, an infamous               Medium undead, lawful evil
+      ambassador during the time of the Eternal Legion’s
+       conquest before the rise of the Empire. The Emissary            Armor Class 16 (natural armor)
+       would approach the walls of a besieged enemy fortress of        Hit Points 78 (12d8 + 24)
+      city, signaling a final chance for its rulers to capitulate to   Speed 0 ft., fly 20 ft. (hover)
+             the Emperor. For one full day, the Emissary would
+              stand silently outside of the walls, waiting for the      STR       DEX       CON        INT       WIS        CHA
+              gates to be opened unto the Legions so the town             10        14        14         18        16         16
+              could be taken without bloodshed. If the gates             (+0)      (+2)      (+2)       (+4)      (+3)       (+3)
+               remained shut, the Legions would storm the city
+                   the next day, slaughtering all behind the walls     Saving Throws Int +7, Wis +6, Cha +6
+                      in an indiscriminate display of brutality.       Damage Immunities poison
+                       This gruesome violence was a cold and           Condition Immunities exhaustion, poisoned
+                        calculated tactic designed to encourage        Senses truesight 60 ft., passive Perception 13
+                        the peaceably surrender as neighboring         Languages Latrian, Elder, telepathy 120 ft.
+                                     populations learned of the        Challenge 7 (2,900 XP)
+                                        invariably violent fate that
+                                          awaited them if they chose   Adept Spellcasting. Some of this creature’s actions are
+                                          to oppose the will of the    considered spells (denoted in name). It can cast these
+                                          Emperor. Now, the Silent     spells without using spell slots. Its spellcasting ability is its
+                                         Emissary does just the        Intelligence (spell save DC 15, +7 to hit with spell attacks).
+                                          same, but brings tidings
+                                            only of war and death.     The Harbinger. All enemies within 60 feet of this creature have
+                                                                       disadvantage on Intelligence, Wisdom, and Charisma saving
+                                                                       throws.
+
+                                                                       Actions:
+                                                                       Staff. Melee Weapon Attack: +3 to hit, reach 5 ft., one target.
+                                                                       Hit: 4 (1d8 + 0) bludgeoning damage.
+
+                                                                       Psionic Cage (Spell) (Recharge 6). Requires Concentration
+                                                                       and lasts up to 1 minute. Choose any number of creatures
+                                                                       that you can see within 60 feet. The targets must succeed on a
+                                                                       Wisdom saving throw or they are suspended five feet in the air
+                                                                       and paralyzed for the duration. At the start of the target’s turn, it
+                                                                       takes 7 (2d6) psychic damage and may repeat this saving throw,
+                                                                       reducing the DC by 2 for each failure. On a successful save, the
+                                                                       spell ends on the target.
+
+                                                                       Mind Spike (Spell). Target a creature within 60 feet. The target
+                                                                       must make an Intelligence saving throw. On a failure, its brain
+                                                                       is truck by a powerful blast, taking 28 (8d6) psychic damage.
+
+
+
+
+28
+                                               Champion (Cr 9)
+
+Lord Magistrae                                                      Lord Magistrae
+Huge undead, lawful evil                                            Lord Magistrae were once the high judges of the Old
+                                                                    Emperor, their task to mete out the judgment and reform local
+Armor Class 14 (natural armor)                                      jurisdictions in the form of the new regime. They were the
+Hit Points 119 (14d12 + 28)                                         proverbial iron fists of the Emperor’s will, implementing his
+Speed 30 ft.                                                        rule and ensuring the compliance and subservience of the
+                                                                    burgeoning Empire. Now under the banners of the Eternal
+ STR       DEX       CON       INT       WIS       CHA              Legion, these risen judges have become something sinister
+   10        10        14        18        20        16             and twisted, using their arcane gifts to establish a new
+  (+0)      (+0)      (+2)      (+4)      (+5)      (+3)            order and reshaping the world to the will of the Eternal
+                                                                    Mother.
+Saving Throws Int +8, Wis +9, Cha +7
+Damage Immunities poison
+Condition Immunities exhaustion, poisoned
+Senses darkvision 60 ft., passive Perception 15
+Languages Latrian
+Challenge 9 (5,000 XP)
+
+Adept Spellcasting. Some of this creature’s actions are
+considered spells (denoted in name). It can cast these spells
+without using spell slots. Its spellcasting ability is its Wisdom
+(spell save DC 17, +9 to hit with spell attacks).
+Quickcaster. This creature may cast a Spell with a Bonus
+Action each turn.
+
+Actions:
+Impaling Limbs. Melee Weapon Attack: +4 to hit, reach 10 ft.,
+one target. Hit: 7 (2d6 + 0) piercing damage.
+Ash Bolt. Ranged Spell Attack: + 9 to hit, range 120 ft., one
+creature. Hit: 21 (6d6) necrotic damage.
+Grasping Wall (Spell) (Recharge 5-6). Create a wall of earthen
+spikes and grasping skeletons, on a solid surface within 120
+feet. The wall can be up to 60 feet long, 20 feet high, and 1
+foot thick and lasts for 1 minute. When the wall appears, each
+creature within its area must make a Dexterity saving throw
+to avoid the impaling spikes as they rise from the earth. On a
+failure, the creature takes 45 (10d8) piercing damage, or half
+as much on a successful save. An enemy that starts its turn
+within 5 feet of the wall must make a Dexterity saving throw.
+On a failure, they are held by skeleton hands and their speed is
+reduced to 0 for the remainder of the turn.
+Condemn (Spell) (Recharge 6). Target a creature within 30
+feet that you can see and read out its sentence. If the creature
+can hear, it must make a Charisma saving throw, taking force
+damage equal to its remaining hit points on a failure.
+Reactions:
+Judge’s Chair. The Lord Magistrae rears up, using
+his Construct Chair to block an attack that would hit
+him, reducing all damage taken by himself to 0. The
+Construct Chair is indestructible.
+                                                                                                                                    29
+                                              Boss / Boss Torment
+                                                    (Cr 13 / 18)
+     Kourrakas the Unyielding                                                It is truly distressing that Kourrakas has risen again to join the
+                                                                             undead legions of the Eternal Legions once more, risen to serve
+     In age past, General Kourrakas was the God Emperor’s
+                                                                             the will of the Eternal Mother and lay conquest to the worlds
+     right hand, the brutal fist of his militant regime. He was the
+                                                                             they once conquered long ago. Now, Kourrakas haunts the
+     Lord of War, the unyielding conqueror, the slayer of lords
+                                                                             Ashen Wastes, a macabre giant reforged in a body of chitinous
+     and a vanquisher of kings. With the Eternal Legions under his
+                                                                             bone and wielding an arsenal of blades in his flailing multitudes
+                   command, Kourrakas traversed the great lands of
+                                                                             of ivory white limbs. There is little hope for those that stand
+                     Doaden, defeating all those who opposed the
+                                                                             against him and his ever-growing army.
+                      reign of his liege, toppling cities, fortresses, and
+                                                                                  The Pale Death. Kourrakas is a horror that every soldier
+                       kingdoms one after the next until all bowed
+                                                                             in the Black Fortress dreads. They tell stories of entire
+                         down in service to the Holy Empire. He was
+                                                                             detachments of crusaders slaughtered in moments as the
+                          reviled by many and feared by all. It is said
+                                                                             skeletal behemoth steps from the swirling dusts, cutting into
+                          that a hundred thousand fell to his sword
+                                                                             their ranks with his flailing limbs and sharpened blades. No
+                                alone, and a million more to the spears
+                                                                             matter how many times they fight the dreaded general, nor how
+                                  of his troops.
+                                                                             many times they destroy his body, he rises again to hunt them
+                                                                             once again. With the legions under his control once more, the
+                                                                             might of the Empire is challenged. If he and his armies are left
+                                                                             to grow, the Black Fortress shall inevitably fall and the flames
+                                                                             of war shall once again consume these lands. On that day, the
+                                                                             Holy Empire will be no more.
+                                                                                  Will of the Mother. Kourrakas, and the Eternal Legions
+                                                                             all, are driven by the will of the Eternal Mother, a powerful
+                                                                             spellcaster that traversed the great Ashen Wastes. Little is
+                                                                             known about her, but it is believed that she was the appointed
+                                                                             Mother of the Azerai church at the time the Demoncore
+                                                                             detonated. In the cataclysm, she survived, or perhaps died and
+                                                                             rose again, shaped by the powerful arcane energies that erupted
+                                                                             throughout the area. Kourrakas, as fearsome as he may be, is
+                                                                             but a pawn in her master plan, a tool used to accomplish her
+                                                                             nefarious goals. It is unknown what end goal the Legions seek
+                                                                             to achieve, but it can be certain that where Kourrakas appears,
+                                                                             it is because the Eternal Mother has deemed it so and wishes
+                                                                             for an important objective to be achieved.
+
+                                                                             Kourrakas ’ Lair
+                                                                             Kourrakas wanders the Ashen Wastes, leading his soldiers on
+                                                                             an endless march to conquer the world again, held in check
+                                                                             only by the defenders of the Black Fortress. He is an ever-
+                                                                             present menace, a sight that all Penitent Crusaders fear.
+
+                                                                             Lair Actions
+                                                                             On initiative count 20 (losing initiative ties), Kourrakas takes a
+                                                                             lair action to cause one of the following effects:
+                                                                                 •Kourrakas revives from death. The Unyielding General
+                                                                             cannot truly perish. If he is reduced to 0 hit points, he instead
+                                                                             collapses into a pile of bones. On the round Kourrakas is
+                                                                             revived, his bones slowly stich themselves back together and
+                                                                                he is considered both stunned and invulnerable. On the
+                                                                                 following round, he regains full hit points and is cleared of
+                                                                                 any negative conditions or other effects.
+                                                                                   •Kourrakas selects a creature within 60 feet. The creature
+                                                                             must make on a DC 17 Charisma saving throw. On a failure, it
+                                                                             frightened until the end of its next turn.
+                                                                                 •Kourrakas’ removes one negative condition from himself.
+30
+Kourrakas the Unyielding                                             Kourrakas the Unyielding
+Gargantuan undead, lawful evil
+                                                                     (Torment)
+                                                                     Gargantuan undead, lawful evil
+Armor Class 18 (natural armor, shield)
+Hit Points 217 (14d20 + 70)                                          Armor Class 19 (natural armor, shield)
+Speed 40 ft.                                                         Hit Points 279 (18d20 + 90)
+                                                                     Speed 40 ft.
+ STR       DEX       CON        INT       WIS       CHA
+   20        14        20         14        14        18              STR       DEX       CON        INT       WIS       CHA
+  (+5)      (+2)      (+5)       (+2)      (+2)      (+4)               22        16        20         14        14        18
+                                                                       (+6)      (+3)      (+5)       (+2)      (+2)      (+4)
+Saving Throws Wis +7, Cha +6
+Damage Immunities poison                                             Saving Throws Wis +8, Cha +10
+Condition Immunities exhaustion, poisoned                            Damage Immunities poison
+Senses darkvision 60 ft., passive Perception 14                      Condition Immunities exhaustion, poisoned
+Languages Latrian                                                    Senses darkvision 60 ft., passive Perception 14
+Challenge 13 (10,000 XP)                                             Languages Latrian
+                                                                     Challenge 18 (20,000 XP)
+Shield Guard. This creature may spend an action or bonus
+action to raise its defenses, blocking the next 10 points            Shield Guard. This creature may spend an action or bonus
+of damage from attacks against it. This effect ends at the           action to raise its defenses, blocking the next 12 points
+beginning of this creature’s next turn, or if it is incapacitated.   of damage from attacks against it. This effect ends at the
+                                                                     beginning of this creature’s next turn, or if it is incapacitated.
+Legendary Resistance (3/Day). If this creature fails a saving
+throw, it can choose to succeed instead.                             Legendary Resistance (3/Day). If this creature fails a saving
+                                                                     throw, it can choose to succeed instead.
+
+Actions:
+Multiattack. Kourrakas makes two attacks with his Shortsword.
+                                                                     Actions:
+                                                                     Multiattack. Kourrakas makes two attacks with his Shortsword.
+Shortsword. Melee Weapon Attack: +10 to hit, reach 5 ft., one
+target. Hit: 19 (4d6 + 5) piercing damage.                           Shortsword. Melee Weapon Attack: +12 to hit, reach 5 ft., one
+                                                                     target. Hit: 20 (4d6 + 6) piercing damage.
+Greatsword. Melee Weapon Attack: +10 to hit, reach 5 ft., one
+target. Hit: 33 (8d6 + 5) slashing damage.                           Greatsword. Melee Weapon Attack: +12 to hit, reach 5 ft., one
+                                                                     target. Hit: 34 (8d6 + 6) slashing damage.
+Spear (Recharge 3-6). Ranged Weapon Attack: +7 to hit, range
+20/60 ft., one target. Hit: 16 (4d6 + 2) piercing damage.            Spear (Recharge 3-6). Ranged Weapon Attack: +9 to hit, range
+                                                                     20/60 ft., one target. Hit: 17 (4d6 + 3) piercing damage.
+
+Legendary Actions:
+Kourrakas can take 3 legendary actions, choosing from the
+                                                                     Legendary Actions:
+options below. Only one legendary action option can be used at       Kourrakas can take 3 legendary actions, choosing from the
+a time and only at the end of another creature’s turn. Kourrakas     options below. Only one legendary action option can be used at
+regains spent legendary actions at the start of his turn.            a time and only at the end of another creature’s turn. Kourrakas
+                                                                     regains spent legendary actions at the start of his turn.
+  Strike. Kourrakas makes an attack with his Shortsword or his
+Spear.                                                                 Strike. Kourrakas makes an attack with his Shortsword or his
+                                                                     Spear.
+  Advance. Kourrakas moves up to 10 feet.
+                                                                       Advance. Kourrakas moves up to 15 feet.
+  Cleaving Strike (Costs 2 Actions). Kourrakas slashes his
+enormous greatsword in an arc around him. Each enemy crea-             Cleaving Strike (Costs 2 Actions). Kourrakas slashes his
+ture within 10 feet must make a DC 18 Dexterity saving throw         enormous greatsword in an arc around him. Each enemy crea-
+to dodge out of the way, taking 33 (8d6 + 5) slashing damage         ture within 10 feet must make a DC 20 Dexterity saving throw
+on a failure. Each creature hit by the attack is knocked prone.      to dodge out of the way, taking 34 (8d6 + 6) slashing damage
+                                                                     on a failure. Each creature hit by the attack is knocked prone.
+
+
+
+
+                                                                                                                                          31
+                                                     Archon (CR 25)
+
+     The Grave King                                                      Grave King’s Lair
+     The Grave King is a strange being, a mass of skeletons              The Necropolis, the lost tomb-city where the Grave King
+     merged together over countless ages, a being that predates the      resides, a vast and strange place. The passages in this ancient
+     known history of man. It is unknown what this entity truly is,      city descent deep underground, into an abyssal blackness said
+     but some learned scholars of ancient texts posit that this thing    to belong to the dead, an expanse where the lines between our
+     is the scion of Death itself, from which all magical energies       world and the next fade and join together. In these blackened
+     of death and undeath spring. No one knows what is truly is,         halls of spirits, the warped reflection of the night sky seems to
+     or what it seeks in the Ashen Wastes. But it seems to have          shine on the cavernous spaces above, shedding a strange light
+     been drawn by the lingering horrors of the past, the echoes of      of fading stars amid halls of utter darkness.
+     suffering and the mass graves of the forgotten. It makes its hall
+     in the Necropolis, a buried tomb city, long forgotten, hidden so
+     deep in the twisted nether realms of the Ashen Wastes, so far
+                                                                         Lair Actions
+     into those dreaded lands of the dead, that no man it has set foot   On initiative count 20 (losing initiative ties), the Grave King
+     there since the Empire’s fall.                                      takes a lair action to cause one of the following effects:
+         Rumors & Legends. No one knows if the stories of the                •The Grave King summons 6 Skeletons armed with only
+     so-called Necropolis are real or not. The Penitent Crusade has      Shortswords within 20 feet of each other, anywhere within 100
+     been attempting for centuries to delve deeper and deeper into       feet of himself and under his control.
+     Ashen Wastes, growing steadily bolder over the centuries.
+     But the Wastes are vast, and the farther one travels, the more      Regional Effects
+     bizarre, deadly, and strange the hazardous arcane phenomenon        The Grave King’s lair is warped by the creature’s unnatural
+     become. Safer excavations into cities closer to the border of       presence, creating the following effects:
+     the West have yielded parchments and documents, as well as              Unfathomable Darkness. The Grave King’s lair is
+     paintings and carved pottery depicting vast imperial cities that    shrouded in complete magical darkness.
+     match the Church of Azerai’s official historical records. Among         Undersky. The magical darkness in The Grave King’s lair
+     them, one stood out. A mighty temple city of the dead that          produces a strange phenomenon on the ceiling and floor of the
+     expands deep underground, a holy place said to be the nexus         cavernous underground Necropolis. Strange lights litter the
+     between this world and the next. It is indeed possible that such    miasmic fog that pervades the place, giving one the idea of
+     a place could once have existed, yet it shall take an expedition    staring at a star-filled night sky. These lights produce a faint
+        of tremendous cost, preparation, and undertaken by a worthy      white or blue, dim light in a 10 ft. radius that cuts through the
+               band of the most heroic adventurers to find out.          magical darkness.
+                                                                             Omniscient. The Grave King immediately detects any
+                                                                         creature that enters his lair and knows its exact location at all
+                                                                         times.
+
+
+
+
+32
+The Grave King                                                           What Lies Beyond (Spell) (Recharge 6). The Grave King’s
+                                                                         otherworldly eyes fill with the essence of that which lies
+Gargantuan undead, neutral evil                                          beyond. One creature of its choosing that can see its eyes
+                                                                         must make a Wisdom saving throw. On a failure, the target is
+Armor Class 20 (natural armor                                            reduced to 0 hit points.
+Hit Points 385 (22d20 + 154)
+Speed 40 ft.                                                             Legendary Actions:
+ STR       DEX       CON        INT       WIS        CHA                 The Grave King can take 3 legendary actions, choosing from
+   22        22        24         26        26         26                the options below. Only one legendary action option can be
+  (+6)      (+6)      (+7)       (+8)      (+8)       (+8)               used at a time and only at the end of another creature’s turn.
+                                                                         The Grave King regains spent legendary actions at the start of
+Saving Throws Dex + 13, Con +14, Wis +15, Cha +15                        his turn.
+Damage Immunities poison, necrotic
+Condition Immunities Immunities charmed, exhaustion,                       Drain Life. The Grave King is a dark void, sucking all life
+frightened, poisoned                                                     into himself. Every living creature within 120 ft. takes 3 (1d6)
+Senses truesight 120 ft., passive Perception 26                          necrotic damage and the Grave King is healed by this amount.
+Languages all, telepathy 120 ft.
+Challenge 24 (62,000 XP)                                                   Step Through Shadows. The Grave King steps through the
+                                                                         shadows, instantly teleporting to any spot within 30 feet
+Adept Spellcasting. Some of this creature’s actions are consid-          and within darkness.
+ered spells (denoted in name). It can cast these spells without            Cast Spell (Cost 2). The Grave King casts
+using spell slots. Its spellcasting ability is its Wisdom (spell         one spell
+save DC 23, +15 to hit with spell attacks).
+Legendary Resistance (3/Day). If this creature fails a saving
+throw, it can choose to succeed instead.
+
+
+Actions:
+Multiattack. The Grave King makes two attacks.
+Moon Scythe. Melee Weapon Attack: +13 to hit, reach 10 ft.,
+one target. Hit: 28 (4d10 + 6) slashing damage.
+Death Bolt.
+Ranged Spell Attack: + 15 to hit, range 120 ft., one
+creature. Hit: 14 (4d6) necrotic damage. The target
+is cursed, reducing their maximum hit points by the damage
+dealt until the curse is removed by magical means.
+Shadowy Blades (Spell) (Recharge 4-6). The Grave King
+plunges its scythe into the ground, sending ripples of its shadow
+outwards. All enemy creatures within 30 feet must succeed on
+a Dexterity saving throw, taking 24 (7d6) force damage on a
+failure, or half as much on a success.
+Curse of Life (Recharge 6). The Grave King evokes a
+creature’s worst memories, driving them to lose themselves
+in the ensuing emotion. Selecting a target creature within 100
+feet. The target must make a Charisma saving throw. On a
+failure, it results in the following effects that last for 1 minute,
+based on alignment. If it is of good alignment, it is struck by
+overwhelming sadness from a past event that was outside of its
+control and is stunned. If it is of neutral alignment, it gains one
+level of exhaustion because of the weight of its experiences. If
+it is      of evil alignment, it is driven to pure rage, imagining
+              its allies as enemies in its past, and falling under the
+              Grave King’s control. These effects end if they are
+                dispelled by magic, and at the end of each of its
+                 turns, the target may attempt the savin.
+
+                                                                                                                                            33
+                                               Non-Playable
+                                             Characters (NPCS)
+     Dregger                                                             Dregger
+     Most people that live in Doaden would be considered
+                                                                         Medium humanoid (human), neutral
+     unfortunate by any standard. However, there are some far
+     worse than other, and especially those strange populations
+                                                                         Armor Class 10
+     that make their home within the Ashen Wastes beyond the
+                                                                         Hit Points 4 (1d8)
+     walls of the Black Fortress. These communities have for one
+                                                                         Speed 5 ft.
+     reason or another, decided to inhabit the strange lands, their
+     bodies becoming saturated with arcane fallout, and over many
+     generations, slowly changing into malformed and strange
+     things. The dreggers are such folk, having made claim to the         STR      DEX        CON     INT       WIS       CHA
+     Ashen Wastes for whatever reason, be it their ancestral home           10       10         10      10        14        10
+     or having sought solitude from the Empire long ago, they are          (+0)     (+0)       (+0)    (+0)      (+2)      (+0)
+     the only ones that dare reside in these parts. For many centuries
+     they have learned learning to survive and cope with the wastes,     Senses passive Perception 12
+     trading knowledge and their services as guides to the Penitent      Languages Common
+     Crusade at the Black Fortress in exchange for meager scraps         Challenge 0 (10 XP)
+     of food and water. Over time, these strange folks have become
+     something far less than human, but they are crucial scouts and      Actions:
+     guides for any long-ranging expedition into the wasteland.
+                                                                         Quarterstaff. Melee Weapon Attack: +2 to hit, reach 5 ft., one
+                                                                         target. Hit: 3 (1d6) bludgeoning damage.
+
+
+
+
+34
+35
+38
+39
+40
+

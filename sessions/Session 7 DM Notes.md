@@ -2,13 +2,13 @@
 
 ## Campfire revalations
 
-After two weeks of slow travel with Ysabel and her servants you are less than two days travel to Solaries.  Each passing mile brings more signs of industry and the bustling activity that surounds a large city.
+After two weeks of slow travel with Ysabel and her servants you are less than two days travel to Solteres.  Each passing mile brings more signs of industry and the bustling activity that surounds a large city.
 
 Ysabel becomes more anxious as each day passes.  The death of her champion weighs on her.  The lose of a faithful servant and old friend weighs on her heart and the lose of the champion that was going to stand for her in the upcoming trial by combat weighs on her mind.
 
 She has asked mulitple times if somebody from the party would stand for her.  All denied her request.  They don't know her well enough or belive in her cause enough to put thier life on the line.  There is also the question of how the Church would view thier participation.  As new Pentients, what lattidure they have to operate independently is still unknown.
 
-The first score of days the evening meal and campfire was a good time.  Ysabel has plenty of food and wine and Luthien was happy to play a song.  But the mood has shifted as the party gets closer to arriving in Solaries and parting wways with Ysabel to face her fate on her own.
+The first score of days the evening meal and campfire was a good time.  Ysabel has plenty of food and wine and Luthien was happy to play a song.  But the mood has shifted as the party gets closer to arriving in Solteres and parting wways with Ysabel to face her fate on her own.
 
 The uneasy alliance of our party and Ysabel and her crew sit around the fire silently eating thier evening meal.
 
@@ -20,37 +20,141 @@ Before anyone can response, one of Ysabels guards that had been stationed on loo
 
 "Please! Please don't hurt me!  I ment no harm.  I was just waiting fro you to leave in the morning in hopes there might be some scraps of food left behind.  I was not going to steal anything, I swear to the Emporer.  I am just hungry.  It's been days since I had anything eat other than the few berries I have found." moan the dirty woman as she drops to her knees.
 
-Role play from her.  The woman is an escaped slave from Bramblefen.  This is a former prison now used to house slaves that have not yet been sold.  It is owned by Lord Ironwake and less than a days journey from where the party is now.  Lady Ysabel, along wiht everbody else in Solaries would be familiary wiht the facility.  Slavery is a normal part of life in Solaries and not particulary found upon despite the Church ruling salvery as illegal.
+Role play from her.  The woman is an escaped slave from Bramblefen.  This is a former prison now used to house slaves that have not yet been sold.  It is owned by Lord Ironwake and less than a days journey from where the party is now.  Lady Ysabel, along wiht everbody else in Solteres would be familiary wiht the facility.  Slavery is a normal part of life in Solteres and not particulary found upon despite the Church ruling salvery as illegal.
 
 During the conversation a few things need to come out:
 1. The slaves name is Erwana.  She is 1/4 Tabaxi and middle aged.  Bit of a belly.  Not immediatly noticable due to the filth, but once you get over her wretched state the Tabaxi features around her nose and ears are mild but apparent.
-2. She escaped via a secret tunnel.  The tunnel leads from Old Cobb's room (cell) to outside the walls.  Old Cobb is the only permament slave in the facility.  He has been the book keeper for several years recording each slave purchase and sale.
-3. Erwana recognizes the pendant on JonLief's necklase.  "I had a cell mate with that same pendant.  She had a child with her."  They were sold a few weeks ago, she does not know anymore, but she says Cobb would have the records.
-4. Erwana had gone unsold for a couple months.  Partly due to a slow market, partly due to being old and unattractive, partly due to epople not wanting Tabaxi house servants (Rumored to pee on the carpet when nobody is watching, but that is not true.  Rumor probably started becasue Tabaxi have a natural musky smell that is not unlike urine.)
-5. If the party choose to make a raid on Bramblefen, Ysabel can choose to volunteer to help the party.  She has bought slaved from Bramblefen and can help them get inside under teh guise of a shopping trip.  There is a risk this can backfire since she is in conflict with Lord Ironwake.  However, standard guards woudl not be privy to this.  Vaskar the Brand might know, but remains to be seen if he does know and, if he knows, woudl he care. 
+2. She escaped via a secret tunnel below a drainage grate that leads to outside the walls.  Old Cobb is the only permament slave in the facility.  He has been the book keeper for several years recording each slave purchase and sale.  **Cobb is the one who told her about the tunnel** — and he did not send her out empty handed.
+3. **The second ledger.**  For years Cobb has quietly kept a true copy of the sales the masters most wanted forgotten — decades of names, prices and buyers, including a great deal that leads back to Lord Ironwake.  He gave it to Erwana the night she ran and asked her to get it out of the fen.  It is the only right thing he has ever done and he does not expect to survive it.
+
+   She does not have it on her when the guard drags her in.  She came across the camp earlier in the night, got frightened, and hid the book close by before creeping in for scraps.  She says nothing about it at first — she is a starving slave being held on a rope and volunteering a stolen book gets her killed.
+
+   **She volunteers it when the conversation turns to the pendant.**  Once she understands JonLief is looking for a woman and a child, she offers the ledger up herself, hoping it holds his answer.  Let her fetch it and let him open it.
+
+   It does not.  The book is years out of date — Cobb hid it away long before he was collared, and it has nothing in it from the last month.  **What it does hold is Ironwake.**  Play the drop: hope, then nothing, then the slow understanding of what they are actually holding.
+
+4. Erwana recognizes the pendant on JonLief's necklase.  "I had a cell mate with that same pendant.  She had a child with her.  She was really sick."  They taken from the cell and she does not know anymore, but she says Cobb would have the records.
+5. Erwana had gone unsold for a couple months.  Partly due to a slow market, partly due to being old and unattractive, partly due to epople not wanting Tabaxi house servants (Rumored to pee on the carpet when nobody is watching, but that is not true.  Rumor probably started becasue Tabaxi have a natural musky smell that is not unlike urine.)
+6. If the party choose to make a raid on Bramblefen, Ysabel can choose to volunteer to help the party.  She has bought slaved from Bramblefen and can help them get inside under teh guise of a shopping trip.  There is a risk this can backfire since she is in conflict with Lord Ironwake.  However, standard guards woudl not be privy to this.  Vaskar the Brand might know, but remains to be seen if he does know and, if he knows, woudl he care. 
+7. In the unlikely event the party decides to not go to Bramblefen they will be apprehended early the next morning 5 of Lord Ironwakes men.  These are the same men mentioned in the notes below.  The men surprise the party while they sleep preventing them fro fighting back.  The party is taken to Bramblefen to be held for Lord Ironwake.
+8. The party needs remonded they have been out of contact with the Church for a long time and there is the potential for concequences.  However, remind them slavery is illegal per the Church and this *may* be viewed as within thier discression.
 
 ## Bramblefen
 > **Read-aloud — first sight of Bramblefen:**
-> *"The road gives way to black fen. Ahead, a timber holdfast squats on a mud island, ringed by a palisade of stone walls. Smoke and the stink of tar and unwashed bodies drift on the wind. From somewhere inside comes a sound you'll not soon forget — the flat, rhythmic crack of a lash, and under it, chains. Then, faintly, shouting."*
+> *"The road gives way to black fen. Ahead, a timber holdfast squats on a mud island, ringed by the low stone wall of the old prison, patched here and there with sharpened stakes. Smoke and the stink of tar and unwashed bodies drift on the wind. From somewhere inside comes a sound you'll not soon forget — the flat, rhythmic crack of a lash, and under it, chains. Then, faintly, shouting."*
 
 ## State of Bramblefen
-1. The slaves are planning a revolt.  This is led by a group of three new slaves from the Eastern regions of Doaden.  {{TODO: I need to get the name of the region}}.  Wolfram would know of the region and the three slaves would have heard of Wolfram's family and the son that fights for justice.  The slaves are ready to strike, just need an opportunity.  Any disruption to the normal operations of the facility will trigger them.
-2. Lord Ironwake's Juggernaut is being housed at Bramblefen.  The Juggernaut is a man engulfed in rage.  mildly retarted, he can be controled by his Dwarf handler, Kraglin Oakhart, but once the jugernaut enters a rage contorl can't be reeastablished until the jugernaut exahusts himself.  Fortunatly, the size of the man leads him to fatiguing quickly.  They are at Bramblefin for "training".  Lord Ironwake has brough in a slave fighter for The Juggernaut to practice against.
-3. The sparing partner is a man of slight build.  Clothed in rags wiht a an iron mask encasing his entire head.  If the party frees this man, he will become a valuable ally.  TODO : need to expand on this character.  Hoping this will turn into Dave's player character.
-4. Old Cobb remember JonLief's wife and child.  He has seen hundreds of slaves come and go over the years, but these were recent.  Nothing speical about them.  The woman died shortly after she arrived.  She was in bad shape when they arrived.  Starved, dirty, and looks to have taken several beatings.  She was hot with fever.  The boy (Rowan) was not is much better share, but was not sick.  He was cleaned up and sold quickly.  He will need to check the ledger in Vaskar's office to know who the boy was sold to.
-5. Rowan was sold to a Chimney Sweep in Solaries.  The only thing known about the Sweep is his name: Barney Soot.
-6. Denrick is locked in a cell.  He will try to find a way to be helpful.  He is not evil, but would sell his mother for a copper.  His loyalties lie with whatever is to his advantage in the immediate moment.
+1. The slaves are planning a revolt.  This is led by three new slaves out of **Westfield**, in the Western Diocese — Wolfram's own country.  The leader is **Anselm Vogt** — see his NPC file — an old Westfield sheriff who rode under Wolfram's father Konrad and knows the Eisenherz crest on sight.  The other two stay unnamed for now.  They know the folk version of Wolfram's story — the baron's son who killed a bishop for what he was doing to a girl, and was buried for it by the Church.  That version is truer than the one the Citadel tells, and among slaves it travels well.  The slaves are ready to strike, just need an opportunity.  Any disruption to the normal operations of the facility will trigger them.
+2. Lord Ironwake's Juggernaut is being housed at Bramblefen.  The Juggernaut is a man engulfed in rage.  mildly retarted, he can be controled by his Dwarf handler, Durgan Half-Ear, but once the jugernaut enters a rage contorl can't be reeastablished until the jugernaut exahusts himself.  Fortunatly, the size of the man leads him to fatiguing quickly.  They are at Bramblefin for "training".  Lord Ironwake has brough in a slave fighter for The Juggernaut to practice against.
+3. Prisoner X was captured and brought in to be a sparing partner. He is a man of slight build.  Clothed in rags wiht a an iron mask encasing his entire head.  Nobody expect Prisoner X to survive the sparing match.  If the party frees this man, he will become a valuable ally.  TODO : need to expand on this character.  Hoping this will turn into Dave's player character so need to hold off on the characters stats and back story.
+4. Old Cobb remember JonLief's wife and child.  They arrived about a month ago.  He has seen hundreds of slaves come and go over the years, but these were recent.  Nothing speical about them.  The woman (JonLIef's wife) died shortly after she arrived.  She was in bad shape when they arrived.  Starved, dirty, and looks to have taken several beatings.  She was hot with fever.  The boy (Rowan) was not is much better share, but was not sick.  He was cleaned up and sold quickly.  He will need to check the working ledger in Vaskar's office to know who the boy was sold to.  That book is current business and stays in the Hall; it is a different book from the one Cobb gave Erwana.
 
-
+   **Why Vaskar has him tied to a chair:** for years small pieces of Cobb's old records have been surfacing where they shouldn't, and Vaskar has finally worked out the leak is his own clerk.  He wants the second ledger and the names of everyone who has seen it.  Cobb cannot tell him — he gave the book away and does not know where it is now — so no amount of pressure produces anything.  Vaskar cannot tell the difference between a man protecting a secret and a man who no longer has one.  If the party never reaches the Hall, Vaskar eventually decides Cobb is empty and has him killed.
+5. Rowan was sold to a Chimney Sweep in Solteres.  The only thing known about the Sweep is his name: Barney Soot.
+6. Denrick is locked in a cell in "The Pens".  He will try to find a way to be helpful.  He is not evil, but would sell his mother for a copper.  His loyalties lie with whatever is to his advantage in the immediate moment.  See his NPC file for details.
+7. Vaskar is in his office when the party arrives.  
+* If the party enters by bribing the guards, Vaskar will be notified a potential buys of slaves has arrived.  Vaskar will recognize and know who Ysabel is.  Vaskar will suspect she is here to get information about Lord Ironwake's champion.     
+* If the party enters by force, Vaskar will be notified.  He will gather guards and come for the intruders personally.
+* If the party enters via stealth and is undetected, Vaskar will stay in his office and not be notified until thier presence becomes knows.
+8. A sparing match between The Juggernaugt and Prisoner X is scheduled sundown.  If no other opportunities arrise, the prisoners plan to beging thier revolt suring the match once the leader give the signal.  The leader is looking for a time when all eyes are on the match.  Vaskar could decide to hold the match and let Ysabel watch just so he can enjoy the terror in her this is sure to bring.  In the center of the yard is a makeshift fighting arena of a simple wooden fence haphazardly setup.
+9. There are 13 guards in Bramblefen.  One is whiping a slave.  Two are at the front gate.  Two guards partol the yard.  One guards is stationed outside Vaskar's house.  One is stationed at the entrance of The Pens.  One is stationed at the entrance of the Deep Cages.  Five are off duty sleeping in the Barracks.  These 5 are extra guards brough in for the sparing match.
+10.  Not counting The Juggernaut, Old Cobb, Denrick, and Durgan, there are 18 slaves in Bramblefen.  All are men.
+11.  If the party gets the working ledger out of Vaskar's office they will discover:
+* The name of the person Rowan was sold to : Barney Soot.
+* Records of women being sold to "cultists".  Old Cobb made a note in the ledger that the buyers refused to identify themselves, but paid well so Vaskar was not concerned with thier identity.
+12.  Vaskar plans to detain Ysabel at the conclusion of the sparing match and hold her fro Lord Ironwake.
+13. If the revolt happens and the party assist, the slaves will turn to Wolfram for leadership.
+14.  If the revolt happens and the slavers win but the party stay out of it, the salves will view Wolfram as a fraud and turn against the party as just another group of masters.
+15. Old Cobb knew about the tunnel — he is the one who told Erwana to use it.  Her escape was a surprise to everybody else.  When Denrick worked out how she got clear he sold the location to Vaskar for favor and added the traps.  
 ## Locations
 
 1. **The Gate.** Two Guards at the gate.  Neither seem interested in thier job or interested in letting anybody through.  They can be bribed with coin on a DC 10 persuasion check.  Use a bottle of whiskey and roll with advantage.  If the party decided to fight there way in, all the other guards will be alerted including Vaskar.
-2. **The Auction Yard.** Muddy pen-yard with an auction block. Three guards partol the yard.
+2. **The Auction Yard.** Muddy pen-yard with an auction block. Two guards partol the yard.
 3. **The Whipping Post.** An drunken Guard is flogging a captive as an lesson.  What this lesson is, nobody seems to really know.  There are three other slaves bound and forced to watch.  Rescue the captives here → they give the compound's layout and where "the old clerk" is held.
-4. **Overseers' Barracks.** 5 Off-duty slavers drinking; a captive locked in a sweatbox. Free them for the **keys** (armory + pens) and word of the **drainage tunnel** and **the Silent One** in the cages.
-5. **The Armory.** Locked (barracks key, or DC 15 Dex / break DC 20). Ambush inside; the watchtower lets a PC scout Vaskar's numbers at the Chainmaster's hall.
-6. **The Pens — JonLief's search.** Large stone building.  It was once a prison.  Now used to hold slaves until they are sold. **This is JonLief's scene.** He can free people, ask after a woman and boy, and — at the end cage — find **Old Cobb's** empty cell and his hidden ledgers (see Section 5). Denrick is caged here and will "help."
-7. **The Deep Cages (Cell Block B reskin).** Worst of the holding; two overseers beating a mob of captives. Freeing them can unlock **the Silent One's** cage.
-8. **The Chainmaster's Hall (Warden's Office reskin).** Large house where Vaskar lives.  One guard sit outside the house. Two servant woman are in the house cleaning and doing general housekeeping duties.  Denrick has Old Cobb tied to a chair for interogation.  
-9. **The Drain (Secret Tunnel reskin).** Smuggler's drainage channel from outside the palisade to behind the Hall — bypasses the yard. **Denrick's trap trail:** a spiked sump (DC 15 Dex), a rolling barrel of tar (DC 15/10), and a rat swarm if the party carries Denrick's "lucky" sack.
+4. **Overseers' Barracks.** 5 Off-duty guards sleeping.  These are special guard sent by Lord Ironwake when The Juggernaut was brought in.  Keys to the Armory are hanging on the wall.
+5. **The Armory.** Locked (barracks key, or DC 15 Dex / break DC 20).
+6. **The Pens — JonLief's search.** Large stone building.  It was once a prison.  Now used to hold slaves until they are sold. **This is JonLief's scene.** He can free people, ask after a woman and boy, and — at the end cage — find **Old Cobb's** empty cell and, under a loose flagstone at the back of it, the hollow where he kept the second ledger — empty now, because he gave it to Erwana. Denrick is in a differnt cell here and will "help."
+7. **The Deep Cages (Cell Block B reskin).** Worst of the holding; There are two cells in this small building.  One hold The Juggernaut and Durgan.  The other cell holds Prisoner X.  The Juggernaut sits in a back corner playing with a bundle of straw tied with twine in the rough shape of a doll.  Duragan watch him play.  Prisoner X sits stoicly in the center of his cell.
+8. **The Chainmaster's Hall (Warden's Office reskin).** Large house where Vaskar lives.  One guard sit outside the house. Two servant woman are in the house cleaning and doing general housekeeping duties.  Vaskar has Old Cobb tied to a chair for interogation.  
+9. **The Drain (Secret Tunnel reskin).** Smuggler's drainage channel from a grate at the back of the Pens, under the wall, to the fen outside — bypasses the yard.  **This is the tunnel Erwana escaped through, and her information is out of date.**  Her escape is what exposed it: Denrick worked out how she got clear, sold the location to Vaskar for favor, and seeded the run with traps afterward.  Erwana will swear it is safe, and she is telling the truth as she knows it. **Denrick's trap trail:** a spiked sump (DC 15 Dex), a rolling barrel of tar (DC 15/10), and a rat swarm if the party carries Denrick's "lucky" sack.
 
+## Treasure & rewards
+
+- **Armory search** (1d20/PC): 15–19 a *potion of healing*; 20 a *+1 weapon/armor/shield*; else nothing.
+- **Vaskar's strongbox:** ~300 gp in mixed coin, the **Ironwake writ**, sale ledgers, and a set of **master collar-keys** (frees any captive; symbolically potent for JonLief).
+- **Freed captives:** a pool of grateful NPCs — future contacts, informants in Solteres, or a couple who can fight alongside the party in the finale.
+
+## Revolt outcomes
+
+Two things decide how the revolt goes: **are the slaves armed** (did the party open the Armory or hand out weapons), and **is the party in the fight**. 18 slaves, starved and unarmed, against 13 guards is a slaughter. Armed, it's a real fight. With the party, it's over fast.
+
+| # | Situation | How it plays | Aftermath |
+|---|---|---|---|
+| 1 | **Party fights alongside them** | Guards break inside a few rounds. 3-5 slaves die. | Slaves turn to Wolfram for leadership. They will follow him out of the fen and remember his name. |
+| 2 | **Party arms them, then goes after Vaskar/Cobb** | Costly win. 8-10 slaves die but they take the yard. | Grateful but bloodied. Wolfram is respected, not adored. A few blame him for leaving. |
+| 3 | **Party stays out, slaves unarmed** | Slaughter. Guards put it down in minutes. Survivors are made examples of. | Wolfram is a fraud. The survivors turn on the party as just more masters. (Item 14.) |
+| 4 | **Party stays out, slaves armed** | They win, barely, and they are not gentle about it. | They didn't need him. Cold, wary, no debt owed. They hold Bramblefen and won't take orders. |
+| 5 | **Revolt never triggers** (party resolves it quietly before sundown) | No uprising. The party unlocks cages and walks them out. | The 18 are rescued, not comrades. Grateful, dependent, and no use in a fight. Wolfram gains nothing. |
+
+**The Juggernaut is a wildcard on any row.** If Mott is loose and raging in the yard, he mauls both sides — subtract guards fast, but add 1d4 slave deaths and put the party's own front line in reach. If Durgan is freed first and treated well, he'll keep Mott out of it entirely.
+
+**The three Westfield leaders.** Name them before you run it. One speaks for the others and is the one who knows Wolfram's family. If Wolfram acts before the signal — frees anyone, kills a guard in view of the pens — the leader takes it as the signal and moves early.
+
+## Aftermath
+
+### The first hour
+The yard is on fire or it isn't, and either way there are 13 dead or fleeing guards, 18 freed men, and no one in charge. Somebody has to decide what happens next, and it will be the party by default. Push the question at them while they're still catching their breath: *what do we do with all these people?*
+
+Erwana, if she's still with them, is the one person here who has been both a slave and free in the last month. The freed will listen to her before they listen to any of the party.
+
+### Where the freed go
+Four options — let the party choose, or let the freed argue about it in front of them:
+
+1. **Scatter into the fen.** Fastest, cruelest. Most are recaptured or dead within a month. Nobody is left to testify.
+2. **Hold Bramblefen.** They have walls, an armory, and food stores. They also have a fixed address that Ironwake knows, and he has more men than they do.
+3. **Walk to Solteres with the party.** Eighteen collared men entering a slaving city is a problem, not a solution — but they're witnesses, and witnesses are worth something at a trial.
+4. **Go north / inland.** Slowest and safest. Needs supplies, a guide, and someone to lead them. Wolfram is the obvious candidate, which means the party has to decide whether to split up.
+
+Whatever they pick, note it. These men are a thread, not a loose end — they resurface as informants, as a mob, or as bodies Ironwake made an example of.
+
+### Vaskar
+- **Dead.** Cleanest. His strongbox and ledgers are the party's, and Ironwake loses his best manager but keeps deniability.
+- **Captured.** Worth far more than killing him. He will bargain immediately, mean none of it, and try to sell the party to Ironwake the moment he's out of sight. He is also the only living man who can testify to Ironwake's ownership of the operation.
+- **Escaped.** He will not die for Ironwake. If the fight turns, he takes a hostage, takes the strongbox, and runs for Solteres — arriving ahead of the party with his own version of events.
+
+### What the evidence is worth
+- **The working ledger** (Vaskar's office) — current business. The paper trail to Barney Soot and to the unnamed cult buyers. Worthless as leverage, essential to JonLief.
+- **Cobb's second ledger** (already in the party's hands, via Erwana) — decades of sales the masters wanted forgotten, and the names that lead back to Ironwake. Useless for finding Rowan, devastating for everything else.
+- **The Ironwake writ** (in Vaskar's strongbox) — a standing order under Ironwake's own seal granting Bramblefen his protection and his steward first pick of stock. This is the document that ties a lord to a crime the Church has ruled illegal. It is the single most valuable object on the map.
+- **The master collar-keys** — practical (frees anyone) and symbolic. Give them to JonLief.
+
+Together these are leverage, not victory. A lord is not arrested on paper in Solteres. But the writ in the right hands — the Church, a rival house, or Ysabel's lawyer two days before a trial — changes what Ironwake can afford to do in public.
+
+### Ironwake's response
+He learns Bramblefen has fallen within a day, faster if Vaskar or a guard escaped.
+
+- **Day 1:** He denies any connection to the place. Publicly, it was a private venture by a man he barely employed.
+- **Day 2:** The trial. See below.
+- **After:** He wants the ledgers, the writ, and every freed man silenced, in that order. He does not come himself. He sends people.
+
+### Ysabel's trial
+This is where the session pays off, and it has three shapes:
+
+- **She came, and it went well.** She arrives in Solteres with the party, a stack of evidence, and possibly no opposing champion. Her odds go from hopeless to real.
+- **She came, and Vaskar took her** (item 12). She is Ironwake's property, forfeits by absence, and the party has to break her out of a lord's house in a city — a whole session.
+- **She stayed on the road.** She reaches Solteres safely and alone, still without a champion, and still facing the Juggernaut in two days. The party saved strangers instead of her, and she knows it.
+
+**The champion question is the biggest lever the party has and they may not realize they pulled it.** If Mott is freed, badly hurt, or burned out, Ironwake has no champion for the trial in two days. If Durgan is freed and won't go back, same result — and Ironwake cannot replace either on that timeline. A party that frees a gentle giant out of pity may have just won Ysabel's trial without ever agreeing to fight for her.
+
+### The Church
+They have been out of contact for weeks and have now sacked a nobleman's holding. The defense is real — slavery is illegal by Church ruling and they have the writ to prove Ironwake ran it — but it is a defense, which means someone has to be convinced. Vozruk does not care about freed slaves. He cares whether this can be made to serve the Church. Handed the writ, a Redeemer can bring a lord to heel; that is a result he can use.
+
+Decide before the session whether their absence is already a problem, or becomes one only if this goes badly.
+
+### Threads out
+- **Barney Soot**, chimney sweep, Solteres. Rowan is alive and in that city.
+- **The cult buyers** in the ledger — women, no names given, paid in full. Ties back to Dol Island and the barrels of blood.
+- **Prisoner X**, unmasked or not.
+- **Durgan and Mott**, free and with nowhere to go.
+- **Denrick**, alive somewhere, with a fresh deal on his lips.
+- **Vaskar**, if he ran.

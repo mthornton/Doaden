@@ -15,9 +15,23 @@ He knew the family. He stood in the yard at the manor with rain running off his 
 
 When Bishop Thurstan came to Westfield, the sheriffs went the way of everything else. Church coin dried up. Elders who complained found their farms off the patrol route. Anselm was told his stretch of road was no longer a priority, and then he was told nothing at all.
 
-When word came that Wolfram had killed the Bishop, Anselm did not believe the Citadel's version for a moment — he had seen what Thurstan was, and so had every man who rode that road. He went to the Sunlit Citadel to say so. He was not permitted past the outer courts. He waited eleven days, gave his statement to a clerk who did not write it down, and went home.
+When word came that Wolfram had killed the Bishop, Anselm did not believe the Citadel's version for a moment — he had seen what Thurstan was, and so had every man who rode that road. He went to the Sunlit Citadel to say so. He was not permitted past the outer courts. He waited eleven days, gave his statement to a clerk who did not write it down, and was told the matter was closed.
 
-The road home was where they took him. Westfield had no sheriffs left on it by then, which was, as he has had a long time to reflect, entirely the point.
+He did not go home. He went looking for Wolfram instead — to find out where the Penitents had sent the boy, and to say to his face that somebody had believed him. A former sheriff with no office and no coin, asking after a condemned heretic, in city after city, working his way east and south for the better part of a year.
+
+## How a Free Man Ends Up in a Cage
+
+He was never kidnapped off a road. **He was sentenced**, and that is the part he cannot get past.
+
+Somewhere south of the Diocese he was picked up for vagrancy — no patron, no papers, no coin, and a name that meant nothing outside Westfield. In the courts that serve Solteres, that is not a nuisance charge; it is an inventory problem with a legal remedy. A magistrate handed down a term of labor to settle the debt of his own keeping. Within the week the term had been bought, and the man attached to it went with it.
+
+That is how Bramblefen takes humans. Erwana and the others in the pens are *stock* — non-folk, bought and sold outright. Anselm is **a sentence somebody purchased**, which is legal, documented, and in Old Cobb's ledger under a line as tidy as any other. Slavery is illegal by the Church's own ruling. This is not slavery. This is a term of service, lawfully transferred. Everyone involved says so.
+
+Whether the charge found him by accident is a question he has turned over for four months without an answer. He had been asking loud questions about a dead bishop in front of anyone who would listen. He has decided it does not matter. Either the Church put him here or the world did, and both of them wear the same face from inside a cage.
+
+**What that makes him:** a witness the Citadel disposed of without ever having to do anything as vulgar as murder. He can testify that a man who tried to speak for Wolfram Eisenherz was written into a ledger and shipped four hundred miles. That is a dangerous thing to be carrying, and he has no idea yet that he is carrying it.
+
+**The thing to land at the table:** Anselm and Wolfram are both serving sentences handed down for the same dead bishop. One wears the Mark of Atonement. One wears a collar. Neither of them chose it, and the same institution wrote both.
 
 ## In the Pens
 
@@ -94,5 +108,6 @@ He will also, if asked, tell Wolfram the one thing nobody has: **that people bac
 - **The signal is his.** Any disruption may trigger the revolt, but *he* chooses the instant. A party that talks to him first can time it deliberately — the single biggest lever they have on the sundown fight.
 - **He is the reason freed men stay a group** instead of scattering into the fen. If he lives, the eighteen have a leader and a destination. If he dies, they are a mob and someone else's problem.
 - **He will not go quietly to Solteres.** A city where slavery is ordinary is not a refuge to him; he will argue for going inland and taking the men with him.
+- **He is evidence.** Anselm's conviction is a paper trail leading back to the Citadel's handling of Wolfram's trial. Nothing in this session forces the party to notice — but a party that does has leverage on the Church itself, which is a very different weapon than leverage on a lord.
 - **He wants Westfield back.** Not the barony — the road. If the party ever moves against the Church's rot or restores anything of the Eisenherz name, Anselm is the man who raises the sheriffs again.
 - **Cobb and Anselm.** Two record-keepers, two ledgers, opposite reasons. Put them in the same room before the session ends if you can.

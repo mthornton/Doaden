@@ -60,7 +60,14 @@ _Players named in session notes: JE, Todd, Channing, Tyler, plus the DM. Match p
 - **Old Gods & mana** — `Old Gods.md`: old gods are near-immortal psychic beings sustained by worshippers' "mana"; most have faded. Core myth: `Myths and Legends of the Old Gods.docx`.
 - **The central conflict** — `Saraswati and Adephagia.md`: **Saraswati** (goddess of the arts, now imprisoned in the *Prison Realm*) vs **Adephagia** (`Adephagia.md`, goddess of gluttony, the strongest surviving old god, who captured her). Sara created magic art-items to slowly rebuild her power.
 - **Cult of Saraswati** (`Cult of Saraswati.md`) — secret artists' cult trying to free Sara; key members in `Corbin Wainwright and Orla Miller.md`.
-- **NPCs** — `Master Thaddeus and Marion.md` (Alchemical Guild; Thaddeus transformed into a giant worm, telepathic mute wife Marion), `Turok.md` (chieftain of the Grey Wolf Tribe of the Mistwood), `Zelryn.md` (half-elf outcast), plus PDFs: `Vozruk the Redeemer.pdf`, `Orryn Cogspinner.pdf`, `Zookbert Nackle.pdf`, `Fid and Zook.pdf`.
+- **NPCs** — `Master Thaddeus and Marion.md` (Alchemical Guild; Thaddeus transformed into a giant worm, telepathic mute wife Marion), `Turok.md` (chieftain of the Grey Wolf Tribe of the Mistwood), `Zelryn.md` (half-elf outcast; both Turok and Zelryn are NPCs with unusually full backstories, not PCs, and are not in play yet), plus PDFs: `Vozruk the Redeemer.pdf` (the party's Redeemer/master), `Orryn Cogspinner.pdf` + `Zookbert Nackle.pdf` + `Fid and Zook.pdf` (Fid the mad artificer and his assistant).
+- **The slaver arc (Chapter 7 cast)** — full NPC write-ups with stat blocks, all tied to **Lord Leofard Ironwake** of Solteres:
+  - `Vaskar the Brand.md` — Chainmaster of Bramblefen; Ch7 boss. Cold, transactional, cannot model selflessness (*Blind to Love*).
+  - `Old Cobb.md` — enslaved slaver's clerk; wrote down every sale, incl. JonLief's family. Kept a hidden **second ledger** of evidence against Ironwake.
+  - `Anselm Vogt.md` — enslaved Westfield sheriff, leader of the Bramblefen revolt; served under Wolfram's father Konrad. The honest counterweight to Denrick.
+  - `Denrick.md` — treacherous "trusty"; sells the party a trapped tunnel.
+  - `The Juggernaut.md` — "Mott," Ironwake's giant pit-fighter; a *Rage Clock* boss you survive rather than out-damage.
+  - `Durgan Half-Ear.md` — enslaved dwarf handler, Mott's only off-switch and the heart of the pair.
 - **Reference** — `Timeline.md` (Church history, dated in PA/PC eras: Church of Azerai, the High Bishops, the holy city / Sunlit Citadel), `The Quest for the Sun-Petal.md` (in-world legend / tapestry story).
 
 ### sessions/ — play log (one file per chapter, chronological)
@@ -72,8 +79,18 @@ _Players named in session notes: JE, Todd, Channing, Tyler, plus the DM. Match p
 | Chapter 4 Sy Pytor.md | Room-by-room delve of St. Pyotr's (Saint Pyotr, "healer of madness") |
 | Chapter 5 The Inn.md | Intrigue at the Inn — the plot to assassinate Ulfric using the lovers Corvin & Marguerite |
 | Chapter 6 Swine Raid.md | Escorting Lady Ysabel to Solteres; Master Thaddeus's pumpkin/swine infestation at Haleyon |
+| Session 7 DM Notes.md | **NOT YET PLAYED — prep, not history.** The Chained Coast: raid on the slaver holdfast **Bramblefen**. Living working file; the older `Chapter 7 The Chained Coast.md` was deleted and replaced by it. |
 
 When asked about the home game, read the relevant file(s) here first. After a real session, offer to add a new `Chapter N ….md` here (or append) and to update the related `world_lore/` NPC and `players/` files.
+
+**Note:** `sessions/` holds both played chapters and in-progress prep. Anything named `Session N DM Notes.md` is a working file for a session that hasn't happened yet — never describe it as something the party has done.
+
+### Where the story stands (as of Chapter 7 prep)
+Two plots run in parallel:
+1. **The cosmic plot (currently cold).** Adephagia's cultists harvested Saraswati's blood on Dol Island (Ch2) and shipped it away in barrels to fuel a ritual bringing **the Jailer / Prison Master — Brudda Death**, ruler of the Prison Realm — into Doaden. Untouched since Ch4. The Ch7 ledger seeds it back in: women sold to unnamed buyers who "paid well."
+2. **The slaver plot (active).** JonLief's wife and son were sold, not killed. The trail runs Bramblefen → **Old Cobb's ledger** → a chimney sweep named **Barney Soot** in Solteres → **Lord Ironwake**, who is also rigging Lady Ysabel's trial by combat using the Juggernaut as his champion.
+
+**Naming conventions to hold to:** the city is **Solteres** (not Solaries); the Church is **Azerai**; Wolfram is from **Westfield, Western Diocese**; the Prison Realm's ruler is **Brudda Death**, also called the Jailer and the Prison Master.
 
 ## Processing Workflow
 Run this whenever asked to "process campaigns," "update summaries," or on first setup:

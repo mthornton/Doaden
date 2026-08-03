@@ -80,6 +80,7 @@ _Players named in session notes: JE, Todd, Channing, Tyler, plus the DM. Match p
 | Chapter 5 The Inn.md | Intrigue at the Inn — the plot to assassinate Ulfric using the lovers Corvin & Marguerite |
 | Chapter 6 Swine Raid.md | Escorting Lady Ysabel to Solteres; Master Thaddeus's pumpkin/swine infestation at Haleyon |
 | Session 7 DM Notes.md | **NOT YET PLAYED — prep, not history.** The Chained Coast: raid on the slaver holdfast **Bramblefen**. Living working file; the older `Chapter 7 The Chained Coast.md` was deleted and replaced by it. |
+| Session 7 Run Sheet.md | **NOT YET PLAYED — at-table companion to the DM Notes.** Sundown clock, guard head-count, DC list, the three entry branches (gate / Drain / force), encounter math tuned to 4 PCs at level 3, read-aloud per scene, NPC voice cards, revolt table, end-of-night checklist. The DM Notes are the *why*; the Run Sheet is the *at the table*. |
 
 When asked about the home game, read the relevant file(s) here first. After a real session, offer to add a new `Chapter N ….md` here (or append) and to update the related `world_lore/` NPC and `players/` files.
 
@@ -162,4 +163,5 @@ Chronological recap of what's happened so far, including party decisions and con
 
 ## Preferences
 - System: D&D 5e
-_(add more as needed — session cadence, party composition/level, house rules, DM style)_
+- **Party:** 4 PCs — JonLief, Luthien Veynar, Wolfram Eisenherz, Virgil. **Level 3** as of Session 7 prep (Aug 2026). Update this when they level.
+_(add more as needed — session cadence, house rules, DM style)_

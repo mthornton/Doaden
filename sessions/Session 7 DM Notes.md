@@ -67,6 +67,84 @@ During the conversation a few things need to come out:
 13. If the revolt happens and the party assist, the slaves will turn to Wolfram for leadership.
 14.  If the revolt happens and the slavers win but the party stay out of it, the salves will view Wolfram as a fraud and turn against the party as just another group of masters.
 15. Old Cobb knew about the tunnel — he is the one who told Erwana to use it.  Her escape was a surprise to everybody else.  When Denrick worked out how she got clear he sold the location to Vaskar for favor and added the traps.  
+
+## The Eighteen — Slave Roster
+
+All eighteen are men. Not counting The Juggernaut, Old Cobb, Denrick, and Durgan (item 10).
+
+### Two kinds of slave, and why it matters
+
+Bramblefen holds its people under two different lies, and the men inside know exactly which lie they are.
+
+- **Stock (9).** Non-folk — non-human, and half-human enough to be called it. Bought and sold outright, no paperwork beyond a line in Cobb's ledger. The Church's ruling against slavery is read as applying to *people*, and these are not people. This is how Erwana was held.
+- **Terms (9).** Humans. Each one is a **sentence somebody purchased** — a vagrancy charge, a debt, a fine, lawfully handed down by a magistrate and then transferred like any other asset. This is not slavery. This is a term of service. Everyone involved says so. (See Anselm's file.)
+
+**The friction this creates is free drama.** The Terms men believe, or tell themselves, that there is a date on the far end of this. The Stock know there is no date. When the revolt is argued in the pens, that is the fault line — and Anselm's real achievement is that he has held both halves together for four months. It also means a party that frees "the slaves" is quietly making a legal argument they may not realize they are making: Vaskar will insist to their faces that nine of these men are *lawfully indentured* and that the party is stealing property from a magistrate's court.
+
+### Roster
+
+| # | Name | Kind | Race | Age | Where | The one thing |
+|---|------|------|------|-----|-------|----------------|
+| 1 | **Anselm Vogt** | Term | Human | 55 | Pens | Westfield sheriff. Leader. Has his own NPC file. |
+| 2 | **Haskel Mundt** | Term | Human | 44 | Pens | Westfield smith, huge hands, says maybe forty words a day. Anselm's second. |
+| 3 | **Berthold "Bertie" Kranz** | Term | Human | 22 | Pens | Third Westfield man. Young, loud, aches to fight. The one Anselm is most afraid of losing. |
+| 4 | **Corvant Hale** | Term | Human | 38 | Pens | Sellsword. **Came here a year ago to do exactly what the party is about to do.** |
+| 5 | **Ondrej Fisk** | Term | Human | 35 | Pens | Fen fisherman, took eels out of these channels his whole life. Knows the water. |
+| 6 | **Rusk** | Term | Human | ? | Pens | No surname, no age, no speech. Collared since childhood. Does not understand "free." |
+| 7 | **Mirek Vole** | Term | Human | 51 | Whipping Post | Farmer. Lost the farm, then the family, then this. Weeps quietly and constantly. |
+| 8 | **Wendel Crook** | Term | Human | 40s | Whipping Post | **Was a Bramblefen guard until eight weeks ago.** Skimmed. Now wears the collar he used to lock. |
+| 9 | **Ivo Lantz** | Term | Human | 16 | Whipping Post | Youngest here, serving his dead father's debt. **He is the one under the lash when the party arrives.** |
+| 10 | **Talwyn Ceth** | Stock | Half-elf | 30s | Pens | Was a merchant's scribe. **Literate, fast, and can copy a ledger page from memory.** |
+| 11 | **Kesh Vanner** | Stock | Half-elf | 60s | Auction Yard | Ship's navigator, forty years at sea. Sold twice already. Utterly unsurprised by anything. |
+| 12 | **Yarel Stoke** | Stock | Half-orc | 33 | Pens | Pit fighter before the collar. **The only slave here who is genuinely dangerous unarmed.** |
+| 13 | **Marek Osu** | Stock | Half-orc | 40s | Whipping Post | Temple servant once. Still prays — to Azerai, which no one here finds funny except him. |
+| 14 | **Sabbath "Sab" Ivry** | Stock | Tiefling | 19 | Auction Yard | Branded twice because the first mark "didn't take on that skin." Furious. Reckless. |
+| 15 | **Tobrun Ashfoot** | Stock | Halfling | 40s | Auction Yard | Cheerful housebreaker. **Can open most things given ten seconds and a bent nail.** |
+| 16 | **Bosk Dunmar** | Stock | Dwarf | 90s | Pens | Stonemason. Built two walls of this compound as a free man, before it was a prison. |
+| 17 | **Nim Tarrow** | Stock | Gnome | 50s | Pens | Tinker. **Deaf in one ear from a blow — will miss a whispered signal.** |
+| 18 | **Ghesh Saltscale** | Stock | Lizardfolk | ? | Pens | Fen-born, silent, unblinking. The other slaves keep a space around him. Guards do too. |
+
+**Placement matches the existing scenes:** Whipping Post has Ivo under the lash with Mirek, Wendel, and Marek bound to watch (Location 3 — these four are the ones who hand over the compound layout and where "the old clerk" is held). Three are in the Auction Yard being cleaned up for sale. The remaining eleven are in the Pens with Anselm.
+
+### The six that carry weight
+
+**Corvant Hale — your telegraph for Vaskar.** A year ago Corvant rode in here with five other sellswords and a plan. Vaskar killed four of them in the yard in under a minute and sold Corvant to cover the trouble. He can describe it in flat, specific detail: what Vaskar did first, where he stood, how long it took. **This is how the party learns Vaskar is out of their league without losing a hit point for the lesson.** He will not fight again — not out of cowardice, but because he has already seen how that ends. If the party gives him a real reason, he changes his mind late, and it should cost him.
+
+**Talwyn Ceth — the ledger problem, solved.** The working ledger stays in the Hall. If the party can't carry it out, Talwyn can *read* it — fast — and reproduce the Barney Soot entry and the cult-buyer lines from memory afterward. Good insurance for a chapter where the crucial clue is a book in a burning building.
+
+**Yarel Stoke — the one who actually fights.** In any revolt row, count Yarel as three men. He also wants Vaskar personally, which makes him hard to aim.
+
+**Wendel Crook — the moral bill.** He locked these cages. Several of the men in them intend to kill him the moment the collars come off, and they are not wrong to. **The party will have to decide whether "free the slaves" includes him**, in front of the men they just freed. He knows the guard rotation, the barracks, and where the armory keys really hang — which makes him useful, which makes it worse.
+
+**Rusk — the one who won't leave.** When the gates open, Rusk sits down in his cage. He has no memory of anything else and no idea what is being offered. Somebody has to physically lead him out, and if the party doesn't notice him, he's still sitting there when the fires start.
+
+**Ivo Lantz — the reason they act.** Sixteen, under the lash, for a debt his father died owing. He is your opening scene and he should be very hard to walk past.
+
+### Chain of command
+
+If **Anselm** falls, the revolt does not stop — it gets worse. Order of succession as the men actually see it:
+
+1. **Haskel Mundt** — steady, no imagination, will follow Anselm's plan exactly and won't adapt.
+2. **Yarel Stoke** — if Haskel is down. Effective and merciless; this is when guards stop being taken alive.
+3. **Bertie Kranz** — if it's gone that badly. He'll get everyone killed inside five minutes.
+
+**If Wolfram is in the yard, he outranks all three the moment Anselm names him** (item 13). That is the handoff to play for.
+
+### Who dies, and in what order
+
+The revolt table calls for 3–5 deaths (row 1), 8–10 (row 2), or a slaughter (row 3). Don't roll for who — the guards go for the slow, the small, and the ones already bleeding. Work down this list:
+
+**Ivo → Mirek → Nim → Sabbath → Rusk → Bertie → Marek → Ondrej → Bosk → Wendel → Kesh → Tobrun → Ghesh → Talwyn → Corvant → Yarel → Haskel → Anselm**
+
+Two adjustments worth making on the fly:
+
+- **If you need one death to land hard, make it Ivo**, and make sure a PC saw his face at the whipping post first.
+- **If you need one man to survive no matter what, protect Talwyn** — he is the party's backup copy of the working ledger, and Rowan's trail runs through it.
+
+### If you only hold three names in your head
+
+**Anselm** (the leader), **Corvant** (the warning), **Ivo** (the reason). Everyone else can stay a face in a cage until a player asks.
+
 ## Locations
 
 1. **The Gate.** Two Guards at the gate.  Neither seem interested in thier job or interested in letting anybody through.  They can be bribed with coin on a DC 10 persuasion check.  Use a bottle of whiskey and roll with advantage.  If the party decided to fight there way in, all the other guards will be alerted including Vaskar.

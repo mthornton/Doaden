@@ -215,7 +215,7 @@ He learns Bramblefen has fallen within a day, faster if Vaskar or a guard escape
 - **After:** He wants the ledgers, the writ, and every freed man silenced, in that order. He does not come himself. He sends people.
 
 ### Ysabel's trial
-This is where the session pays off, and it has three shapes:
+Ysabel's trial will not take place in this session but rather it will happen in the next session.  How it playes out will depend on how session 7 plays out.
 
 - **She came, and it went well.** She arrives in Solteres with the party, a stack of evidence, and possibly no opposing champion. Her odds go from hopeless to real.
 - **She came, and Vaskar took her** (item 12). She is Ironwake's property, forfeits by absence, and the party has to break her out of a lord's house in a city — a whole session.

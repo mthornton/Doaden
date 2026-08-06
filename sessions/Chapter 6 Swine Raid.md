@@ -20,7 +20,7 @@ The four servants draw their short swords and surround Lady Ysabel.  Thaddeus an
  
 Roll for initiative 
  
-If the fight is too easy, have another Rader come I form the woods. 
+If the fight is too easy, have another Rader come I from the woods. 
  
 The wagon raided was the people Thaddeus was meeting.  The leader, Willowbread, is moments away from death.  His gut has been torn open and half eaten.  There is no possibility of saving him.  He tell Thaddeus the rough location where the pumpkins were found.  Warns him there is a coven of witches growing the pumpkins.   Rather than confront them, they created a distraction then snuck into the fields and stole the pumpkins.  There is nothing else Willowbread is able to say before he dies. 
  

@@ -4,17 +4,20 @@
 You help a Dungeon Master plan and run D&D 5th Edition sessions by maintaining a distilled, fast-to-search knowledge base of campaign material, so raw source PDFs never need to be reread just to answer a question.
 
 ## Repository & Sync (git)
-This project lives in a **git repository** (`git/Doaden`, branch `main`, remote `origin` → github.com/mthornton/Doaden) and is pulled to another computer also used for D&D planning. **After making any change to files here — summaries, session notes, NPCs, players, or this file — stage, commit with a clear message, and push:**
 
-```
-git add -A
-git commit -m "…"
-git push
-```
+> ## ⛔ NEVER RUN GIT COMMANDS THAT WRITE
+> **Do not `git add`, `git commit`, `git push`, `git stash`, `git checkout`, `git reset`, or anything else that writes to the repository or to `.git/`. Michael manages version control himself, entirely.**
+>
+> Agent sessions run against a mounted filesystem that cannot properly delete git's lock files, so every agent-run commit leaves behind stale `.git/*.lock` and `.git/objects/*/tmp_obj_*` files that break his next commit. This is not a preference — it actively breaks the repo.
+>
+> **Just edit the files and stop.** Then tell him plainly what you changed and that it's ready for him to review and commit. Never offer to commit. Never say "I'll commit this for you." If a task seems to require a commit, do the file edits and hand it back.
+>
+> Read-only git (`git status`, `git log`, `git diff`) is fine when he asks a question about repo state.
+
+This project lives in a **git repository** (`git/Doaden`, branch `main`, remote `origin` → github.com/mthornton/Doaden) and is pulled to another computer also used for D&D planning.
 
 - **`raw_campaigns/` is git-ignored** (NOT synced). The source PDFs are ~11 GB and several exceed GitHub's 100 MB per-file limit, so they live only on the primary machine. The committed `processed_campaigns/_extracted/` text cache stands in for them elsewhere — read that on other machines instead of the PDFs.
-- If a `git push` can't reach the network from a given session, still make the commit, and note that it needs pushing from the primary machine.
-- **Cloud/remote sessions cannot delete files** on the local disk. Anything that needs deleting gets moved into `_to_delete/` instead — that folder is disposable junk (stale git lock files from interrupted commits), and Michael can remove it by hand at any time. Don't treat it as content.
+- **Cloud/remote sessions cannot delete files** on the local disk. Anything that needs deleting gets moved into `_to_delete/` instead — that folder is disposable junk (stale git lock files from earlier agent commits, from before the rule above), and Michael can remove it by hand at any time. Don't treat it as content.
 
 ## Folder Structure & Rules
 - `raw_campaigns/` — original source PDFs (published modules, homebrew adventures, session notes, handouts). **Read-only.** Never edit or delete anything here. **Git-ignored** (too large for GitHub) — present only on the primary machine.
@@ -51,7 +54,7 @@ The home campaign reskins published Bestiarum material rather than running it st
 
 | Home-game element | Source | Notes |
 |---|---|---|
-| **Bramblefen** (Session 7) | `Prison_Breakdown_5E.md` | Location and mechanic reskin: Cell Block B → **Deep Cages**, Warden's Office → **Chainmaster's Hall**, Secret Tunnel → **The Drain**, Grolo → **Denrick**, Grolo's Stinky Sack → Denrick's "lucky" sack, the 1d20 armory-loot table and the 500 gp tunnel stash carry over verbatim. **"The Ghost"** (assassin-convict in Cell Block B who, if freed, kills six of the boss's men and vanishes) is the un-statted chassis behind **Prisoner X**. |
+| **Bramblefen** (Chapter 7) | `Prison_Breakdown_5E.md` | Location and mechanic reskin: Cell Block B → **Deep Cages**, Warden's Office → **Chainmaster's Hall**, Secret Tunnel → **The Drain**, Grolo → **Denrick**, Grolo's Stinky Sack → Denrick's "lucky" sack, the 1d20 armory-loot table and the 500 gp tunnel stash carry over verbatim. **"The Ghost"** (assassin-convict in Cell Block B who, if freed, kills six of the boss's men and vanishes) is the un-statted chassis behind **Prisoner X**. |
 | **Old Cobb** | Warden Ingfar (`Prison_Breakdown_5E.md`, also in `Prisoner_X_Iron_Juggernaut.md`) | Inverted: the captive being tortured is now the party's emotional payload rather than a quest-giver. |
 | **The Juggernaut / Mott** | `Prisoner_X_Iron_Juggernaut.md` (name only) | The home-game Mott is **original** — a Rage Clock barbarian, not the CR 10 Iron Juggernaut. Don't confuse the two stat blocks. |
 | **Path of Penitence** framework | `Path_of_Penitence_System.md` | Campaign rules + Doaden setting; the Penitent/Redeemer structure the party sits inside. |
@@ -68,24 +71,25 @@ Four strangers wake as prisoners in a Church of Azerai camp, branded on the shou
 |------|-----------|---------------------|
 | JonLief.md | **JonLief** | **Elf** (confirmed by NPCs). Bow/sword/light armor, bear-fur cloak that "fits perfectly." Meditates instead of sleeping. The party's de-escalator and diplomat. Exiled noble; secret marriage; wife **Maren** and son **Rowan** banished and (he now learns) sold, not killed. |
 | Luthien Veynar.md | **Luthien Veynar** | Half-elf bard/satirist (human scholar + elven minstrel); turned on the hypocritical Church of the Radiant Flame. Surfer/stoner voice ("dude," "like"). Carries a stolen **bone guitar** and Fid's **Ball of Undeath**. Banned from the camp armory for life. |
-| Wolfram Eisenherz - Todd.pdf | **Wolfram Eisenherz** | Paladin-coded human warrior from **Westfield, Western Diocese**; son of Konrad Eisenherz. Senses extraplanar presences. Killed Bishop Thurstan; the Citadel's version of that story is a lie the folk don't believe. Carries **two** of Fid's knitting spiders (he may not know about the second). |
+| Wolfram Eisenherz - Todd.pdf | **Wolfram Eisenherz** | Paladin-coded human warrior from **Westfield, Western Diocese**; son of Konrad Eisenherz. Senses extraplanar presences. Killed Bishop Thurstan; the Citadel's version of that story is a lie the folk don't believe. Carries **two** of Fid's knitting spiders — both given by Fid out of Vozruk's sight; Wolfram told the rest of the party he had both. |
 | *(no file)* | **Virgil** | **Gap — no character file exists.** Established in play: former **Alchemical Order** member, body covered in engineered edible symbiotic fungus, cones of plant matter where his eyes were; shapeshifts into a spider; staff empowered by exploding fungus. Left the Order over "core principals." Offer to create `players/Virgil.md`. |
 
-**Players → PCs:** Session 1 (Oct 20 2025) lists **JE, Todd, Channing** present and **Tyler** absent, with the DM running Luthien. So **Tyler = Luthien** and **Todd = Wolfram** (per the filename). JE and Channing map to JonLief and Virgil in some order — not yet confirmed. **Dave** is a prospective fifth player: the Session 7 notes hold **Prisoner X** unwritten specifically so he can become Dave's PC.
+**Players → PCs:** Session 1 (Oct 20 2025) lists **JE, Todd, Channing** present and **Tyler** absent, with the DM running Luthien. So **Tyler = Luthien** and **Todd = Wolfram** (per the filename). JE and Channing map to JonLief and Virgil in some order — not yet confirmed. **Dave** is a prospective fifth player: the Chapter 7 notes hold **Prisoner X** unwritten specifically so he can become Dave's PC.
 
 ### world_lore/ — NPCs, gods & setting
 - **Old Gods & mana** — `Old Gods.md`: old gods are near-immortal psychic beings sustained by worshippers' "mana"; most have faded. Core myth: `Myths and Legends of the Old Gods.docx`.
 - **The central conflict** — `Saraswati and Adephagia.md`: **Saraswati** (goddess of the arts, now imprisoned in the *Prison Realm*) vs **Adephagia** (`Adephagia.md`, goddess of gluttony, the strongest surviving old god, who captured her). Sara created magic art-items to slowly rebuild her power.
 - **Cult of Saraswati** (`Cult of Saraswati.md`) — secret artists' cult trying to free Sara; key members in `Corbin Wainwright and Orla Miller.md`.
-- **The city** — `Solteres.md`: capital of the Southern Diocese, merchant-run, syndicate-riddled, open slave markets. **This file is also the only home for two major NPCs** — **Lord Leofard Ironwake** (controls transport tax + the slave trade) and **Lady Ysabel Rochefort** (textile merchant he ruined and framed for her niece's murder; facing trial by combat). Consider splitting them into their own files.
-- **NPCs** — `Master Thaddeus and Marion.md` (Alchemical Guild; Thaddeus transformed into a giant worm, telepathic mute wife Marion), `Turok.md` (chieftain of the Grey Wolf Tribe of the Mistwood), `Zelryn.md` (half-elf outcast; both Turok and Zelryn are NPCs with unusually full backstories, not PCs, and are not in play yet), plus PDFs: `Vozruk the Redeemer.pdf` (the party's Redeemer/master), `Orryn Cogspinner.pdf` + `Zookbert Nackle.pdf` + `Fid and Zook.pdf` (Fid the mad artificer and his assistant — only **Fid** has appeared in play so far).
-- **The slaver arc (Session 7 cast)** — full NPC write-ups with stat blocks, all tied to **Lord Leofard Ironwake** of Solteres:
-  - `Vaskar the Brand.md` — Chainmaster of Bramblefen; Session 7 boss. Cold, transactional, cannot model selflessness (*Blind to Love*).
+- **The city** — `Solteres.md`: capital of the Southern Diocese, merchant-run, syndicate-riddled, open slave markets. **This file is also the only home for two major NPCs** — **Lord Leofard Ironwake** (controls transport tax + the slave trade) and **Lady Ysabel Rochefort** (textile merchant he ruined and framed for her niece's murder; facing trial by combat). Consider splitting them into their own files. **Needs a typo pass** — the file itself still has the spellings its own naming-conventions table (below) warns against: "Solares"/"Soleres," "illegae," "convected," "Ulfic." Worth cleaning up now that Ironwake is about to become the Ch7–8 antagonist.
+- **NPCs** — `Master Thaddeus and Marion.md` (Alchemical Guild; Thaddeus transformed into a giant worm, telepathic mute wife Marion), `Turok.md` (chieftain of the Grey Wolf Tribe of the Mistwood), `Zelryn.md` (half-elf outcast; both Turok and Zelryn are NPCs with unusually full backstories, not PCs, and are not in play yet), plus PDFs: `Vozruk the Redeemer.pdf` (the party's Redeemer/master), `Orryn Cogspinner.pdf` + `Zookbert Nackle.pdf` + `Fid and Zook.pdf` (Fid the mad artificer and his assistant — only **Fid** has appeared in play so far). **`Master Thaddeus and Marion.md` is stale:** it stops mid-backstory and its last line ("not into a squid, but into a tentacle") contradicts its own header and Ch6 play, which settled on Thaddeus as a **giant worm**. It also predates the Ch6 reveal — the real transformation story he told Virgil, and the Underwood/Willowbread/pumpkin thread (see `world_lore/Underwood.md`). Needs a rewrite pass before this pair resurfaces.
+- **The slaver arc (Chapter 7 cast)** — full NPC write-ups with stat blocks, all tied to **Lord Leofard Ironwake** of Solteres:
+  - `Vaskar the Brand.md` — Chainmaster of Bramblefen; Chapter 7 boss. Cold, transactional, cannot model selflessness (*Blind to Love*).
   - `Old Cobb.md` — enslaved slaver's clerk; wrote down every sale, incl. JonLief's family. Kept a hidden **second ledger** of evidence against Ironwake.
   - `Anselm Vogt.md` — enslaved Westfield sheriff, leader of the Bramblefen revolt; served under Wolfram's father Konrad. The honest counterweight to Denrick.
-  - `Denrick.md` — treacherous "trusty"; sells the party a trapped tunnel.
+  - `Denrick.md` — treacherous "trusty," now penned in the Pens; he trapped the Drain, and sells the party the way *out* (plus Anselm's name, to whoever is buying).
   - `The Juggernaut.md` — "Mott," Ironwake's giant pit-fighter; a *Rage Clock* boss you survive rather than out-damage.
   - `Durgan Half-Ear.md` — enslaved dwarf handler, Mott's only off-switch and the heart of the pair.
+  - `Erwana.md` — escaped slave who opens the chapter: the pendant-recognition beat, Old Cobb's second ledger, and (if the party takes the Drain) their guide in. Half-Tabaxi, ex-circus (human fortune-teller mother, Tabaxi acrobat father, both killed when a mob branded her mother a heretic); sold off by the circus owner at 13. Held as **Stock** at Bramblefen despite being half human — the chapter's clearest example of the Stock/Terms injustice (see **The Eighteen** in `Chapter 7 DM Notes.md`).
 - **Reference** — `Timeline.md` (Church history in PA/PC eras: Church of Azerai, the High Bishops, the Sunlit Citadel; **modern day = 1126**), `The Quest for the Sun-Petal.md` (in-world legend / tapestry story).
 
 ### sessions/ — the play log and the prep pile
@@ -94,25 +98,29 @@ Four strangers wake as prisoners in a Church of Azerai camp, branded on the shou
 | Chapter 1 Welcome to Doaden.md | **Played** (Session 1, Oct 20 2025) | Waking as Penitents; the Mark; Vozruk; Finnian's armory; Fid's gadgets; voyage on *The Hreowan*; shipwreck on Dol. |
 | Chapter 2 Dol Island.md | **Played** (mostly prep in file) | Saraswati's Island. Cultists harvest Sara's blood and ship it out; the party recovers the **amulet of transportation** (2 charges) and the St. Pyotr map. |
 | Chapter 3 Alds Star.md | **Played** (has a "Story (Session Notes)" log) | Ald's Star, a village of green-skinned halflings. Cage-hound hunt; Alice and Red die. |
-| Chapter 4 Sy Pytor.md | **Prep — appears unplayed** | Room-key delve of St. Pyotr's sanitorium (A1–A12 / B1–B7). Father Ignatius, the black-fog ritual, the herald, "Brudda Death." |
+| Chapter 4 Sy Pytor.md | **Played** (confirmed retroactively, Aug 2026 — not written up when it happened) | St. Pyotr's sanitorium (A1–A12 / B1–B7). Cleared cultist ambush in the garden, witnessed the bell-tower hanging, found Father Ignatius's body and journal. Interrupted the black-fog ritual in the chapel and heard the herald's Brudda Death taunt, but the herald escaped. Rescued a tortured survivor and left her behind at the sanitorium. |
 | Chapter 5 The Inn.md | **Played** | Four interlocking plots at the Inn; Ysabel's champion **Ulfric** assassinated via the Corvin/Marguerite ruse, arranged by Emeric for Ironwake. |
-| Chapter 6 Swine Raid.md | **Played** | Escorting Lady Ysabel toward Solteres; Porcine beastmen raid; Thaddeus's magical-pumpkin problem and the plea to help **Haleyon**. |
-| Session 7 DM Notes.md | **NOT YET PLAYED — prep** | The Chained Coast: raid on the slaver holdfast **Bramblefen**. Living working file; the older `Chapter 7 The Chained Coast.md` was deleted and replaced by it. |
-| Session 7 Run Sheet.md | **NOT YET PLAYED — prep** | At-table companion to the DM Notes: sundown clock, guard head-count, DC list, three entry branches, encounter math for 4 PCs at level 3, read-aloud per scene, NPC voice cards, revolt table, end-of-night checklist. The DM Notes are the *why*; the Run Sheet is the *at the table*. |
+| Chapter 6 Swine Raid.md | **Played** | Escorting Lady Ysabel toward Solteres; Thaddeus reveals his real backstory to Virgil; Porcine beastmen raid (Marion nearly killed, stabilized); Willowbread dies, seeds the **Underwood** infestation lead; Virgil declines to join Thaddeus. |
+| Chapter 7 DM Notes.md | **NOT YET PLAYED — prep** | The Chained Coast: raid on the slaver holdfast **Bramblefen**. Living working file; the older `Chapter 7 The Chained Coast.md` was deleted and replaced by it. |
+| Chapter 7 Run Sheet.md | **NOT YET PLAYED — prep** | At-table companion to the DM Notes: sundown clock, guard head-count, DC list, three entry branches, encounter math for 4 PCs at level 3, read-aloud per scene, NPC voice cards, revolt table, end-of-night checklist. The DM Notes are the *why*; the Run Sheet is the *at the table*. |
 
-**Note:** file naming is inconsistent by design history — `Chapter N …` for the first six, `Session 7 …` for the current prep. Chapter number and session number are **not** one-to-one (Chapter 4 was prepped but never run). Anything named `Session N …` is a working file for a session that hasn't happened yet — never describe it as something the party has done.
+**Note:** all session files use `Chapter N …` naming for story order, regardless of how many real table sessions a chapter takes. Chapter number and real-world session count are **not** one-to-one — Chapter 7 (the Bramblefen raid), for instance, is expected to take 2–3 real play sessions on its own. Use the Played? column in the table above, not the filename, to know whether a chapter has actually happened.
 
 After a real session, offer to add a new `Chapter N ….md` (or append) and to update the related `world_lore/` NPC and `players/` files.
 
-### Where the story stands (as of Session 7 prep, Aug 2026)
+### Where the story stands (as of Chapter 7 prep, Aug 2026)
 Three plots run in parallel, plus a standing institutional problem:
 
-1. **The cosmic plot (cold since Ch4).** Adephagia's cultists harvested Saraswati's blood on Dol Island (Ch2) and shipped it away in barrels to fuel a ritual bringing **the Jailer / Prison Master — Brudda Death**, ruler of the Prison Realm — into Doaden. St. Pyotr's (Ch4 prep) is the next node and was never run. The Session 7 ledger seeds it back in: women sold to unnamed buyers who "paid well."
-2. **The slaver plot (active — this is Session 7).** JonLief's wife **Maren** and son **Rowan** were sold, not killed. The trail runs Bramblefen → **Old Cobb's ledger** → a chimney sweep named **Barney Soot** in Solteres → **Lord Ironwake**, who is also rigging Lady Ysabel's trial by combat using the Juggernaut as his champion. Ysabel's trial lands in Session 8.
-3. **The Haleyon / Alchemical Order plot (warm, deferred).** Master Thaddeus asked the party to help Haleyon with a spreading magical-pumpkin infestation, in exchange for restoring Virgil's standing with the Order. The seeds are parasitic and lethal; a **coven of witches** grows them somewhere inland. Untouched since Ch6.
+1. **The cosmic plot (warm again as of Ch4).** Adephagia's cultists harvested Saraswati's blood on Dol Island (Ch2) and shipped it away in barrels to fuel a ritual bringing **the Jailer / Prison Master — Brudda Death**, ruler of the Prison Realm — into Doaden. At St. Pyotr's (Ch4), the party interrupted a black-fog ritual in the chapel and heard a cultist herald invoke Brudda Death directly — the party's first exposure to that name. The herald escaped before the ritual could be fully stopped, and the garden trapdoor at St. Pyotr's was never opened, so the site isn't necessarily finished business. The Chapter 7 ledger seeds the plot further: women sold to unnamed buyers who "paid well."
+2. **The slaver plot (active — this is Chapter 7).** JonLief's wife **Maren** and son **Rowan** were sold, not killed. The trail runs Bramblefen → **Old Cobb's ledger** → a chimney sweep named **Barney Soot** in Solteres → **Lord Ironwake**, who is also rigging Lady Ysabel's trial by combat using the Juggernaut as his champion. Ysabel's trial lands in Chapter 8.
+3. **The Underwood / Alchemical Order plot (warm, deferred).** Thaddeus and Marion are investigating a spreading magical spore/pumpkin infestation in **Underwood** (a farming village a day's ride outside Haleyon — see `world_lore/Underwood.md`) on the Alchemical Order's behalf. In Ch6, Thaddeus asked Virgil to come help directly, dangling a return to the Order's good graces, but Virgil declined, choosing to stay with the party under their standing Church orders. The pumpkin seeds are parasitic and lethal (magic is Enchantment/Necromancy/Transmutation, confirmed by Virgil to be concentrated in the seeds, not the flesh); a **coven of witches** grows them somewhere inland. Untouched since Ch6.
 4. **The Church problem (standing).** The party has been out of contact with Vozruk for weeks, has no way back to camp, and is about to sack a nobleman's holding. Slavery is illegal by Church ruling, which is a defense — but a defense somebody has to accept. Nothing has been decided about consequences.
 
-**Unresolved debts and loose ends worth remembering:** the first Penitent team lost on Dol was never found; the *Hreowan*'s crew is unaccounted for; the amulet of transportation has 2 charges and points one-way into Saraswati's crypt; Fid gave Luthien the Ball of Undeath against Vozruk's explicit order; Wolfram's second knitting spider is a secret; Wolfram promised Ald there were no more beasts nearby; the party took six jars of pickled cabbage from a dead man's house without telling anyone.
+**Unresolved debts and loose ends worth remembering:** the first Penitent team lost on Dol was never found; the *Hreowan*'s crew is unaccounted for; the amulet of transportation has 2 charges and points one-way into Saraswati's crypt; Fid gave Luthien the Ball of Undeath against Vozruk's explicit order; Wolfram promised Ald there were no more beasts nearby; the party took six jars of pickled cabbage from a dead man's house without telling anyone; the garden trapdoor at St. Pyotr's (Ch4, A7) was never opened.
+
+> **DM-only future hook (do NOT put in `sessions/Party History.md` or otherwise reveal to players):** at St. Pyotr's (Ch4), the party rescued a tortured, mentally-broken woman from the torture chamber, healed her, then chose to leave her behind in an unlocked cell with a few days of rations rather than bring her along — reasoning they weren't equipped to care for her and needed to stay focused on the Church's mission. Per the DM (Aug 2026), she is intended to become possessed by Adephagia and return later seeking revenge on the party. Keep this out of player-facing material until it actually happens at the table.
+
+> **DM-only future hook — TODO, needs a proper `world_lore/` write-up (do NOT put in `sessions/Party History.md` or otherwise reveal to players):** the "very old man" who approached the party at the Inn (Ch5), invisible/unnoticed to everyone else in the room, who thanked them for stopping the Brudda Death summoning at St. Pyotr's — he is **the Emperor**, unseen for over a thousand years. This is a major reveal being held back from the party; the game's recurring "May he rise again" refrain (used by NPCs across multiple villages) is presumably tied to this. Write him up properly in `world_lore/` (motive, why he can go unnoticed, why he's surfacing now, connection to `Timeline.md`'s Church history) before he reappears at the table.
 
 ### Naming conventions to hold to
 The session files are written fast and unedited, so **treat any proper noun in `sessions/` as approximate.** Canonical spellings:
@@ -136,10 +144,10 @@ The session files are written fast and unedited, so **treat any proper noun in `
 | **Maren** (JonLief's wife), **Rowan** (his son) | — |
 
 ### Known continuity conflicts (flag before using, don't silently pick one)
-- **Who remembers Maren and Rowan.** `Old Cobb.md` says Cobb recalls "a half-elf woman and a small boy, brought in **years apart**." `Session 7 DM Notes.md` (item 4) says they arrived **together, about a month ago**, and Maren died of fever shortly after. The Session 7 version is the current one; the Cobb file needs updating.
-- **Durgan duplicates Cobb.** `Durgan Half-Ear.md` carries an "optional connective hook" letting Durgan be the one who knows Maren and Rowan's fate. That is now Cobb's job. Keep it optional or cut it — running both makes the ledger redundant.
+- **Who remembers Maren and Rowan — RESOLVED.** `Old Cobb.md` has been updated to match `Chapter 7 DM Notes.md` (item 4): Maren and Rowan arrived **together, about a month ago**; Maren died of fever shortly after. Both files now agree. (Previously this page said the Cobb file still needed updating — it's been done.)
+- **Durgan duplicates Cobb — still live, and now safe to just cut.** `Durgan Half-Ear.md` still carries the "optional connective hook" letting Durgan also be the one who knows Maren and Rowan's fate. Now that `Old Cobb.md` and Ch7 DM Notes agree and Cobb is firmly established as the one who tells JonLief about his family, running Durgan's version too just makes the reveal redundant — recommend cutting the hook from `Durgan Half-Ear.md` rather than leaving it "optional."
 - **Chapter 3 was retconned mid-file.** The `# Overview` section has Ald as a middle-aged human and the village farming rye, wheat, apples and goats. The `Story (Session Notes)` section has green-skinned halflings whose entire economy is heirloom cabbage. **The Story section is what happened.**
-- **Real player names in prose.** Chapter 1 narrates the branding of *"Tyler"* rather than Luthien. Chapter 3 has a slur-adjacent NPC descriptor. Session 7 item 2 describes Mott as "mildly retarted" — `The Juggernaut.md` handles the same idea as "his mind never grew with his body," which is the phrasing to prefer.
+- **Real player names in prose.** Chapter 1 narrates the branding of *"Tyler"* rather than Luthien. Chapter 3 has a slur-adjacent NPC descriptor. Chapter 7 item 2 describes Mott as "mildly retarted" — `The Juggernaut.md` handles the same idea as "his mind never grew with his body," which is the phrasing to prefer.
 - **Ysabel's charge.** Chapter 5 says she's accused of poisoning her niece; `Solteres.md` says Ironwake had the niece murdered and framed her. These are compatible — the second is the truth behind the first — but say so explicitly if it comes up.
 
 ### House rules & file conventions (so edits match the DM's style)
@@ -148,7 +156,7 @@ The session files are written fast and unedited, so **treat any proper noun in `
 - **Parentheses are the DM-only aside marker** — item stats and rules notes are written inline in parentheses, mid-prose.
 - **Branch logic is written as `IF the party…` lines**, including a branch for inaction.
 - Encounters are listed as bare rosters ("1 demagogue / 2 cultists / 1 bruiser"); stat blocks live in `world_lore/` or the processed summaries, not in the session files.
-- Read-aloud text is second-person present tense and is **not** visually marked in Chapters 1–6; the Session 7 files upgrade this to `> **Read-aloud —**` blockquotes. Prefer the newer convention going forward.
+- Read-aloud text is second-person present tense and is **not** visually marked in Chapters 1–6; the Chapter 7 files upgrade this to `> **Read-aloud —**` blockquotes. Prefer the newer convention going forward.
 
 ## Processing Workflow
 Run this whenever asked to "process campaigns," "update summaries," or on first setup:
@@ -218,11 +226,12 @@ Chronological recap of what's happened so far, including party decisions and con
 - After each real game session, offer to append to that campaign's Session Log and update Open Threads based on what happened.
 - For small updates, patch just the relevant section of a summary rather than regenerating the whole file.
 - Keep summaries scannable: tables and bullets over prose.
-- When a fact changes in one place, check the other files that repeat it — the slaver-arc NPC files, the Session 7 notes, and the Run Sheet all restate the same details and drift apart easily.
+- **After any edit, just report what you changed.** Do not commit or push — see the git rule at the top of this file.
+- When a fact changes in one place, check the other files that repeat it — the slaver-arc NPC files, the Chapter 7 notes, and the Run Sheet all restate the same details and drift apart easily.
 
 ## Preferences
 - System: D&D 5e
-- **Party:** 4 PCs — JonLief, Luthien Veynar, Wolfram Eisenherz, Virgil. **Level 3** as of Session 7 prep (Aug 2026). Update this when they level.
+- **Party:** 4 PCs — JonLief, Luthien Veynar, Wolfram Eisenherz, Virgil. **Level 3** as of Chapter 7 prep (Aug 2026). Update this when they level.
 - **Possible 5th player:** Dave. Prisoner X is being held blank as his entry point — don't write stats or backstory for that character.
 - The DM writes prep in two layers: a discursive **DM Notes** file (why things are true) and a terse **Run Sheet** (what to say and roll at the table). Match that split when generating new prep.
 _(add more as needed — session cadence, house rules, DM style)_

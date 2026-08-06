@@ -120,7 +120,7 @@ A woman is still alive.  She is covered with scars and has lost her sanity.  She
  
 IF the party takes her with them she will continue to swing from lethargy to being manic.  At some point she will tell a broken version of her story. 
  
-"I come from  ???.  My baby only lived for a week.  I tried to kill myself.  Family sent me here to be healed of my afliction." 
+"I come from  Solaries.  I was kidnapped and sold into slavery by Ironwakes men.  I spent three years in a brothel then resold to these men." 
  
 Give the party a way to have heard of the city.  Maybe they want to take her there? 
 

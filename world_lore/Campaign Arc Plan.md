@@ -110,7 +110,7 @@ So the coven of witches inland isn't a side quest; they're a cult cell feeding t
 - **Virgil has no character file.** He's the only PC without one and he's carrying the Alchemical Order thread. Worth writing.
 - **`Solteres.md` needs the typo pass** you've already flagged, plus Ironwake and Ysabel probably deserve their own files now that he's the Chapter 7–10 antagonist.
 - **`Master Thaddeus and Marion.md` is stale** — stops mid-backstory, contradicts Ch6 on the squid/worm question.
-- **Decide on Prisoner X soon.** Whether Dave is actually joining changes Chapter 7's ending materially — an un-statted NPC ally and a fifth PC produce very different aftermaths.
+- ~~Decide on Prisoner X soon.~~ **SETTLED (Aug 2026).** Dave is in. Prisoner X is now **Gimble Beren**, gnome ranger — a Penitent and the sole survivor of the first Dol Island team (`world_lore/The First Penitents.md`, `players/Gimble Beren.md`). He joins in the second half of Chapter 7. **Knock-on: the sundown match almost certainly never happens, which means Ysabel is never detained and Anselm loses his signal.** See Chapter 7 DM Notes item 3a.
 
 ---
 
@@ -120,7 +120,7 @@ This is the best-prepped chapter in the folder and I'd change almost nothing str
 
 **The clock is the chapter.** "The party cannot be at the match *and* in the Hall — that is the choice, and they should feel the hour going. Say the time out loud." Correct. Put the running time on an index card in front of the players. Not a metaphor — actually write the hour where they can see it.
 
-**Encounter math sanity check.** Thirteen guards fought as a single mass against four level-3 PCs is not a fight, it's an ending — even at CR ½ each, that's roughly 5,000+ adjusted XP against a Deadly threshold of 1,600. Your design already prevents it (staggered posts, the revolt absorbing most of them, Vaskar's isolation), but it's worth one bolded line in the Run Sheet: *the guards must never all be in the same room.* Similarly, Corvant Hale doing the work of teaching them Vaskar is out of their league, with no HP spent, is the right call — protect that scene.
+**Encounter math sanity check.** The garrison is now **twenty** (14 Fen Guard + 6 Ironwake, beefed up around the Juggernaut and the sundown match). Fought as a single mass against four level-3 PCs that is not a fight, it's an ending — roughly **3,800 adjusted XP against a Deadly threshold of 1,600**, and that is before Vaskar. Your design already prevents it (staggered posts, the revolt absorbing most of them, Vaskar's isolation), but it's worth one bolded line in the Run Sheet: *the guards must never all be in the same room.* Similarly, Corvant Hale doing the work of teaching them Vaskar is out of their league, with no HP spent, is the right call — protect that scene.
 
 **One addition worth making.** Chapter 7's ledger already seeds "women sold to unnamed buyers who paid well." That's your only cosmic-plot beat in three chapters and it currently reads as one line in a book. Give it a *face*: one of the Eighteen — Kesh Vanner, the sixty-year-old navigator who's been sold twice and is unsurprised by everything, is perfect — saw the buyers. Black robes. Didn't haggle. Paid in old coin. Took only women, and asked, specifically, whether any of them were **artists**.
 
@@ -174,7 +174,7 @@ That way unresolved threads aren't loose ends — they're absences the players f
 | **Cobb's second ledger + the Ironwake writ** | Leverage on the Church. This is what buys Vozruk's cooperation instead of his arrest warrant. |
 | **The master collar-keys** | Keys are this campaign's symbol. They should be in JonLief's hand in the final room. Whether they open anything is your call. |
 | **Sara's art-items** (Luthien's guitar + whatever else they find) | Mana. See §8 — this is the actual win condition. |
-| **Prisoner X / Dave** | Fifth sword, and a stranger's reason to be there. |
+| **Gimble Beren / Dave** | Fifth sword — and the last living witness to what Adephagia's cult does with people, which makes him the party's only first-hand source on the barrels. |
 | **Turok, Zelryn, Erwana, Durgan & Mott, Ysabel** | Your allies-at-the-end roster. You have unusually rich NPCs sitting unused; the finale is where they cash in. |
 
 ### 6.1 The amulet — one charge, one direction, ten feet across
@@ -408,7 +408,7 @@ That's roughly a year and a half at a monthly cadence. **If that's too long**, c
 
 ## 10. Decisions to make before Chapter 7 hits the table
 
-1. **Is Dave in?** Prisoner X's identity changes the whole aftermath.
+1. ~~Is Dave in?~~ **Yes — Gimble Beren.** The live question is now downstream: with no match, Ysabel walks free by accident and Anselm's revolt needs a new trigger. Decide how Chapter 8 opens given that Ysabel arrives in Solteres un-detained and owing the party a debt she cannot account for.
 2. **Is Vozruk hunting them already, or has he written them off?** You flag this in the notes yourself. It determines Chapter 8's tone entirely, and Chapter 7's ending should foreshadow whichever you pick.
 3. **How many vessels are there, and what are the other three?** Fix the number before Corbin opens his mouth in Chapter 8 — he's the one who'll be telling the party the list exists (§8.6).
 4. **Does Kesh Vanner remember the black-robed buyers asking after artists?** One sentence, six chapters of payoff — and it now rhymes with the guitar waking the same night.

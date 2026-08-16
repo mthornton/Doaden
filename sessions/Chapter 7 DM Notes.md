@@ -8,7 +8,7 @@ After two weeks of slow travel with Ysabel and her servants you are less than tw
 
 Ysabel becomes more anxious as each day passes.  The death of her champion weighs on her.  The lose of a faithful servant and old friend weighs on her heart and the lose of the champion that was going to stand for her in the upcoming trial by combat weighs on her mind.
 
-She has asked mulitple times if somebody from the party would stand for her.  All denied her request.  They don't know her well enough or belive in her cause enough to put thier life on the line.  There is also the question of how the Church would view thier participation.  As new Pentients, what lattidure they have to operate independently is still unknown.
+She has asked mulitple times if somebody from the party would stand for her.  All denied her request.  They don't know her well enough or belive in her cause enough to put thier life on the line.  There is also the question of how the Church would view thier participation.  As new Pentients, what lattitude they have to operate independently is still unknown.
 
 The first score of days the evening meal and campfire was a good time.  Ysabel has plenty of food and wine and Luthien was happy to play a song.  But the mood has shifted as the party gets closer to arriving in Solteres and will part ways with Ysabel to face her fate on her own.
 
@@ -22,7 +22,7 @@ Before anyone can response, one of Ysabels guards that had been stationed on loo
 
 "Please! Please don't hurt me!  I ment no harm.  I was just waiting for you to leave in the morning in hopes there might be some scraps of food left behind.  I was not going to steal anything, I swear to the Emporer.  I am just hungry.  It's been days since I had anything eat other than the few berries I have found." moans the dirty woman as she drops to her knees.
 
-Role play from her.  The woman is an escaped slave from Bramblefen.  This is a former prison now used to house slaves that have not yet been sold.  It is owned by Lord Ironwake and less than a days journey from where the party is now.  Lady Ysabel, along wiht everbody else in Solteres would be familiary with the facility.  Slavery is a normal part of life in Solteres and not particulary fround upon despite the Church ruling salvery as illegal.
+Role play form.  The woman is an escaped slave from Bramblefen.  This is a former prison now used to house slaves that have not yet been sold.  It is owned by Lord Ironwake and less than a days journey from where the party is now.  Lady Ysabel, along wiht everbody else in Solteres would be familiary with the facility.  Slavery is a normal part of life in Solteres and not particulary fround upon despite the Church ruling salvery as illegal.
 
 During the conversation a few things need to come out:
 1. The slaves name is Erwana.  She is half-Tabaxi and middle aged (mid-40s).  Bit of a belly.  Not immediatly noticable due to the filth, but once you get over her wretched state the Tabaxi features around her nose and ears are mild but apparent. See `world_lore/Erwana.md` for her full backstory.
@@ -38,9 +38,9 @@ During the conversation a few things need to come out:
 4. Erwana recognizes the pendant on JonLief's necklase.  "I had a cell mate with that same pendant.  She had a child with her.  She was really sick."  They taken from the cell and she does not know anymore, but she says Cobb would have the records.
 5. Erwana had gone unsold for a couple months.  Partly due to a slow market, partly due to being old and unattractive, partly due to people not wanting Tabaxi house servants (Rumored to pee on the carpet when nobody is watching, but that is not true.  Rumor probably started becasue Tabaxi have a natural musky smell that is not unlike urine.)
 6. If the party choose to make a raid on Bramblefen, Ysabel can choose to volunteer to help the party.  She has bought slaves from Bramblefen and can help them get inside under the guise of a shopping trip.  There is a risk this can backfire since she is in conflict with Lord Ironwake.  However, standard guards would not be privy to this.  Vaskar the Brand might know, but remains to be seen if he does know and, if he knows, would he care. 
-7. In the unlikely event the party decides to not go to Bramblefen they will be apprehended early the next morning by 5 of Lord Ironwake's men.  These are the same men mentioned in the notes below.  The men surprise the party while they sleep preventing them from fighting back.  The party is taken to Bramblefen to be held for Lord Ironwake.
+7. In the unlikely event the party decides to not go to Bramblefen they will be apprehended early the next morning by 6 of Lord Ironwake's men.  These are the same men mentioned in the notes below.  The men surprise the party while they sleep preventing them from fighting back.  The party is taken to Bramblefen to be held for Lord Ironwake.
 8. The party needs reminded they have been out of contact with the Church for a long time and there is the potential for concequences.  However, remind them slavery is illegal per the Church and this *may* be viewed as within thier discression.
-9. The second ledger is a treasure trove of information.  Ysabel will recognize this and attempt to take control of the ledger.  She can use the information in the ledger to blackmail the people within getting them to pressure Lord Ironwake to lift the charges against her.  If given the ledger, Ysabel will not go to Brambelfel.  She will proceed to Solaries and begin her campaign of blackmail.  The story is better if this does not happen.  In the role play, use Erwana's distrust of a noble t guide the party into not allowing Ysabel to have it.  Knowing the party has the ledger will motivate Ysabel to stay with them.
+9. The second ledger is a treasure trove of information.  Ysabel will recognize this and attempt to take control of the ledger.  She can use the information in the ledger to blackmail the people within getting them to pressure Lord Ironwake to lift the charges against her.  If given the ledger, Ysabel will not go to Brambelfel.  She will proceed to Solaries and begin her campaign of blackmail.  In the role play, use Erwana's distrust of a noble to guide the party into not allowing Ysabel to have it.  Knowing the party has the ledger will motivate Ysabel to stay with them.
 
 ## Bramblefen
 > **Read-aloud — first sight of Bramblefen:**
@@ -53,9 +53,9 @@ During the conversation a few things need to come out:
 | When | Where Vaskar is | What happens |
 |---|---|---|
 | Arrival (mid-afternoon) | **His office**, working on Cobb | Yard running normally. Whipping post active. |
-| Late afternoon | His office | Guards start dragging the arena fence into a circle. The off-duty five wake and drift out to watch. |
+| Late afternoon | His office | The fence detail finishes the circle. The off-duty four wake and drift out to watch, and the two on Mott's cell start getting him ready. |
 | **Shortly before the match** | **Leaving his office** | He is finished. He has decided Cobb is empty, and an empty asset does not get left tied up in a room he is walking away from. **He kills Cobb on his way out the door**, washes, and goes down to the arena. |
-| **Sundown** | **The arena** | The match: Mott vs. Prisoner X. Every eye on it. **Anselm's signal lands here.** |
+| **Sundown** | **The arena** | The match: Mott vs. **Gimble Beren**. Every eye on it. **Anselm's signal lands here.** |
 | **After the match** | The arena, then Ysabel | He detains Ysabel and holds her for Ironwake — **but only if all three conditions in item 12 hold.** |
 
 **The hard deadline for Cobb is Vaskar's walk to the arena, not "after dark."** Once he leaves that office, the chair is empty and the old man is on the floor. The party cannot be at the match *and* in the Hall — that is the choice, and they should feel the hour going. Say the time out loud.
@@ -65,7 +65,30 @@ During the conversation a few things need to come out:
 ## State of Bramblefen
 1. The slaves are planning a revolt.  This is led by three new slaves out of **Westfield**, in the Western Diocese — Wolfram's own country.  The leader is **Anselm Vogt** — see his NPC file — an old Westfield sheriff who rode under Wolfram's father Konrad and knows the Eisenherz crest on sight.  The other two stay unnamed for now.  They know the folk version of Wolfram's story — the baron's son who killed a bishop for what he was doing to a girl, and was buried for it by the Church.  That version is truer than the one the Citadel tells, and among slaves it travels well.  The slaves are ready to strike, just need an opportunity.  Any disruption to the normal operations of the facility will trigger them.
 2. Lord Ironwake's Juggernaut is being housed at Bramblefen.  The Juggernaut is a man engulfed in rage.  His mind never grew with his body, and he can be controled by his Dwarf handler, Durgan Half-Ear, but once the jugernaut enters a rage contorl can't be reeastablished until the jugernaut exahusts himself.  Fortunatly, the size of the man leads him to fatiguing quickly.  They are at Bramblefin for "training".  Lord Ironwake has brough in a slave fighter for The Juggernaut to practice against.
-3. Prisoner X was captured and brought in to be a sparing partner. He is a man of slight build.  Clothed in rags wiht a an iron mask encasing his entire head.  Nobody expect Prisoner X to survive the sparing match.  If the party frees this man, he will become a valuable ally.  TODO : need to expand on this character.  Hoping this will turn into Dave's player character so need to hold off on the characters stats and back story.
+3. **GIMBLE BEREN — Dave's PC. This is the chapter he joins.** In the second cell of the Deep Cages is a gnome of slight build in rags, with an iron mask encasing his entire head. He was brought in as a sparring partner for the Juggernaut and nobody in Bramblefen expects him to live past sundown; Vaskar has already picked the ground outside the wall.
+
+   **He is a Penitent — the sole survivor of the first team Vozruk sent to Dol Island.** The team this party was ordered in Chapter 1 to go and find. See **`world_lore/The First Penitents.md`** for the full account of what happened to them.
+
+   **Why the mask.** It is not theatre. Vaskar's problem is that Gimble is branded. Too willful to break, too capable to sell into a household, and a servant of the Church — and if it ever came out that Ironwake's people had collared a Penitent, not even Ironwake could stand in front of what the Church would do. So Gimble cannot be sold, cannot be freed, and cannot be wasted. The mask means no visitor sees a face, the rags mean nobody sees a shoulder, and the match means the problem solves itself by morning in an unmarked hole.
+
+   **The reveal is the shoulder, not the face.** Play it in that order: a masked thing in a cage that every guard says will be dead by dark → the party gets close → **the Mark of Atonement, the same sun and tear they each carry, burned into a slave's shoulder.** They know what he is before they know who he is.
+
+   **Because a real player is behind the mask, the party will move heaven and earth to get him out. Plan for that, don't resist it** — see item 3a.
+
+3a. **⚠️ WHAT GIMBLE'S RESCUE BREAKS — read before running the Deep Cages.**
+
+   The whole back half of this chapter was built assuming the masked man dies in the arena. He almost certainly will not now.
+
+   - **Free Gimble and the match cannot happen.** There is no other opponent in the compound. Mott does not fight, the crowd never assembles, and — per item 12 — **that alone means Vaskar never gets his moment and Ysabel is never detained.** Freeing Gimble quietly wins Ysabel's trial as a side effect. Do not tell the party. Let it land in Solteres.
+   - **It also removes Anselm's signal.** Anselm is waiting for the one moment every eye in the compound is on the fence. No match, no moment. **He will need a new trigger, and the obvious one is the party themselves** — see item 8. If the party frees Gimble and then does something loud, that *is* the signal. If they free him and go quiet, Anselm holds, and the revolt slides to whenever the party forces it.
+   - **Expect them to hit the Deep Cages first and hardest**, ahead of Cobb, ahead of the ledger, ahead of everything. That building is now the most heavily guarded on the map (one Fen Guard on the outer door, two of Ironwake's inside) and it holds both of the chapter's biggest levers, Mott and Gimble, in adjacent cells. **This is good. Let it be the hard fight.**
+   - **⏳ But it collides with Cobb.** Cobb dies when Vaskar walks to the arena. If the party spends the whole afternoon getting Gimble out, the old man is on the floor when they reach the Hall — and JonLief's trail to Rowan goes with him unless they get the working ledger anyway. **That is the chapter's real dilemma now, and it is a better one than the original:** the man they can see suffering, or the man who knows where JonLief's son went. Make them feel the hour.
+   - **Timing for Dave.** Get Gimble out of that cage **by the end of play night 2.** The Deep Cages already sit on night 2 in the Run Sheet. That gives Dave a character in his hands for the sundown session instead of watching night 3 from the sofa. If the party is dawdling, put pressure on: a guard says the time out loud, Durgan mentions the little one won't last a minute, Mott says he doesn't want to.
+
+   **What Gimble is worth to them, beyond a fifth sword:**
+   - He is **the answer to the first half of their Chapter 1 orders** — *find out what happened to the first team.* Producing him alive in front of Vozruk is the only part of that mission this party has ever completed, and it is worth something against five hundred years each.
+   - He is **proof a Penitent was enslaved by Ironwake's chainmaster**, which is leverage on a lord that has nothing to do with Cobb's ledger and arrives exactly when they need it.
+   - He **corroborates Wolfram.** He saw the four-armed woman in the tomb too. Wolfram has been carrying that alone since Chapter 2.
 4. Old Cobb remember JonLief's wife and child.  They arrived about a month ago.  He has seen hundreds of slaves come and go over the years, but these were recent.  Nothing speical about them.  The woman (JonLief's wife) died shortly after she arrived.  She was in bad shape when they arrived.  Starved, dirty, and looks to have taken several beatings.  She was hot with fever.  The boy (Rowan) was not is much better shape, but was not sick.  He was cleaned up and sold quickly.  He will need to check the working ledger in Vaskar's office to know who the boy was sold to.  That book is current business and stays in the Hall; it is a different book from the one Cobb gave Erwana.
 
    **Why Vaskar has him tied to a chair:** for years small pieces of Cobb's old records have been surfacing where they shouldn't, and Vaskar has finally worked out the leak is his own clerk.  He wants the second ledger and the names of everyone who has seen it.  Cobb cannot tell him — he gave the book away and does not know where it is now — so no amount of pressure produces anything.  Vaskar cannot tell the difference between a man protecting a secret and a man who no longer has one.
@@ -77,15 +100,46 @@ During the conversation a few things need to come out:
 * If the party enters by bribing the guards, Vaskar will be notified a potential buys of slaves has arrived.  Vaskar will recognize and know who Ysabel is.  Vaskar will suspect she is here to get information about Lord Ironwake's champion.     
 * If the party enters by force, Vaskar will be notified.  He will gather guards and come for the intruders personally.
 * If the party enters via stealth and is undetected, Vaskar will stay in his office and not be notified until thier presence becomes knows.
-8. A sparing match between The Juggernaugt and Prisoner X is scheduled for sundown.  If no other opportunities arrise, the prisoners plan to beging thier revolt during the match once the Anselm gives the signal.  Anselm is looking for a time when all eyes are on the match.  Vaskar could decide to let Ysabel watch just so he can enjoy the terror in her this is sure to bring.  In the center of the yard is a makeshift fighting arena of a simple wooden fence haphazardly setup.
-9. There are 13 guards in Bramblefen.  One is whiping a slave.  Two are at the front gate.  Two guards partol the yard.  One guards is stationed outside Vaskar's house.  One is stationed at the entrance of The Pens.  One is stationed at the entrance of the Deep Cages.  Five are off duty sleeping in the Barracks.  These 5 are extra guards brough in for the sparing match.
+8. A sparing match between The Juggernaugt and Gimble is scheduled for sundown.  If no other opportunities arrise, the prisoners plan to beging thier revolt during the match once the Anselm gives the signal.  Anselm is looking for a time when all eyes are on the match.  **If the party frees Gimble there is no match and no moment — Anselm's trigger becomes whatever loud thing the party does next, and if they stay quiet he holds and waits for them (item 3a).**  Vaskar could decide to let Ysabel watch just so he can enjoy the terror in her this is sure to bring.  In the center of the yard is a makeshift fighting arena of a simple wooden fence haphazardly setup.
+9. **There are 20 armed men in Bramblefen: 14 Fen Guard and 6 of Lord Ironwake's own.** This is roughly four times the compound's normal standing garrison, and the reason is upstairs in the Deep Cages — the Juggernaut is being housed here, Gimble was brought in to die against him, and there is a match at sundown.
+
+   | Where | # | Block |
+   |---|---|---|
+   | Front gate | 3 | Fen Guard |
+   | Yard patrol | 4 | Fen Guard |
+   | Whipping post | 1 | Fen Guard (drunk) |
+   | Auction Yard | 1 | Fen Guard |
+   | Rigging the arena fence | 2 | Fen Guard |
+   | Outside Vaskar's Hall | 1 | Fen Guard |
+   | The Pens, outer door | 1 | Fen Guard |
+   | Deep Cages, outer door | 1 | Fen Guard |
+   | **Deep Cages, inside, at Mott's cell** | **2** | **Ironwake** — his own men, standing over his champion |
+   | **Overseers' Barracks (off duty)** | **4** | **Ironwake** |
+
+   **The six Ironwake men came in with the giant and do not answer to Vaskar.** Two of them are on Mott around the clock; Ironwake does not leave a champion worth a trial behind a Fen Guard who hasn't been paid this month. The other four sleep off the night watch in the barracks.
+
+   **At sundown the two cage guards escort Mott to the arena and stand at the rail with him** — which is the only hour all night when the Deep Cages are unwatched from the inside.
+
+9a. **⚠️ THE COUNT THE PARTY IS GIVEN IS WRONG — AND NOBODY LIES TO THEM.**
+
+   **If the party asks Erwana how many guards there are, she says four or five.** That is a true statement. Four or five was the standing garrison for the entire time she was held there, and she has been out four weeks.
+
+   **If they check it against Ysabel, Ysabel confirms it.** She has bought slaves at Bramblefen more than once and four or five is what she has always seen. She is also telling the truth, and she is also out of date.
+
+   Two independent, credible, honest sources agree — and both of them are describing a compound that stopped existing about the time Ironwake's wagon arrived.
+
+   **This is deliberately the same failure as the Drain.** Erwana is wrong twice in one session, in good faith, about the same missing month, and she does not find out until the party does. If a player calls her a liar, she has no defence except that it was true when she saw it. Play that.
+
+   **Do not spring twenty men on a party that has already committed.** The correction is free and it must come *before* they choose an approach — from the treeline, on the first sight of Bramblefen, they can count moving bodies in that yard and it is not five. Give them the recount, let Erwana go quiet, and let them re-plan. The scene you want is *"our information is bad and we are going in anyway,"* not *"we were ambushed by arithmetic."*
+
+   **Who has the current number:** **Anselm** (item 1) has counted every man and will give the exact figure and every post, freely, to anyone who asks him like a man. The four captives at the whipping post can give a rough version. **This is now the strongest mechanical reason in the chapter to talk to the slaves before doing anything else**, which is exactly where you want the party's attention.
 10.  Not counting The Juggernaut, Old Cobb, Denrick, and Durgan, there are 18 slaves in Bramblefen.  All are men.
 11.  If the party gets the working ledger out of Vaskar's office they will discover:
 * The name of the person Rowan was sold to : Barney Soot.
 * Records of women being sold to "cultists".  Old Cobb made a note in the ledger that the buyers refused to identify themselves, but paid well so Vaskar was not concerned with thier identity.
 12.  **Vaskar plans to detain Ysabel at the conclusion of the sparing match and hold her for Lord Ironwake — but this only happens if the evening goes his way.** All three conditions must hold:
 
-* **The match happens.** No match, no crowd, no moment. If Mott is freed, hurt, burned out, or Durgan won't rouse him — or Prisoner X is gone from his cell — there is nothing for Vaskar to stand at the rail and enjoy, and the whole plan has no stage.
+* **The match happens.** No match, no crowd, no moment. If Mott is freed, hurt, burned out, or Durgan won't rouse him — or Gimble is gone from his cell — there is nothing for Vaskar to stand at the rail and enjoy, and the whole plan has no stage.
 * **The revolt is put down** (or never fires). A yard full of freed men is not a yard where anyone gets quietly arrested. If the slaves take the ground, Vaskar's night is about survival, not custody.
 * **The party never engages him.** The moment he is fighting, hiding, bargaining, or running, Ysabel stops being the most interesting thing in the fen. He does not multitask under threat — he protects Vaskar.
 
@@ -177,13 +231,13 @@ Two adjustments worth making on the fly:
 
 ## Locations
 
-1. **The Gate.** Two Guards at the gate.  Neither seem interested in thier job or interested in letting anybody through.  They can be bribed with coin on a DC 10 persuasion check.  Use a bottle of whiskey and roll with advantage.  If the party decided to fight there way in, all the other guards will be alerted including Vaskar.
-2. **The Auction Yard.** Muddy pen-yard with an auction block. Two guards partol the yard.
+1. **The Gate.** Three Guards at the gate (normally two — the third is for the match crowd).  Neither seem interested in thier job or interested in letting anybody through.  They can be bribed with coin on a DC 10 persuasion check.  Use a bottle of whiskey and roll with advantage.  If the party decided to fight there way in, all the other guards will be alerted including Vaskar.
+2. **The Auction Yard.** Muddy pen-yard with an auction block. One guard on the block itself, four more patrolling the yard, and two dragging the arena fence into a circle in the middle of it.
 3. **The Whipping Post.** An drunken Guard is flogging a captive as an lesson.  What this lesson is, nobody seems to really know.  There are three other slaves bound and forced to watch.  Rescue the captives here → they give the compound's layout and where "the old clerk" is held.
-4. **Overseers' Barracks.** 5 Off-duty guards sleeping.  These are special guard sent by Lord Ironwake when The Juggernaut was brought in.  Keys to the Armory are hanging on the wall.
+4. **Overseers' Barracks.** 4 off-duty Ironwake men sleeping (six came with the Juggernaut; the other two are on his cell). These are Lord Ironwake's own, not Vaskar's, and they are a different quality of soldier. Keys to the Armory are hanging on the wall.
 5. **The Armory.** Locked (barracks key, or DC 15 Dex / break DC 20).
 6. **The Pens — JonLief's search.** Large stone building.  It was once a prison.  Now used to hold slaves until they are sold. **This is JonLief's scene.** He can free people, ask after a woman and boy, and — at the end cage — find **Old Cobb's** empty cell and, under a loose flagstone at the back of it, the hollow where he kept the second ledger — empty now, because he gave it to Erwana. Denrick is in a differnt cell here and will "help."
-7. **The Deep Cages (Cell Block B reskin).** Worst of the holding; There are two cells in this small building.  One hold The Juggernaut and Durgan.  The other cell holds Prisoner X.  The Juggernaut sits in a back corner playing with a bundle of straw tied with twine in the rough shape of a doll.  Duragan watch him play.  Prisoner X sits stoicly in the center of his cell.
+7. **The Deep Cages (Cell Block B reskin).** Worst of the holding; There are two cells in this small building.  One hold The Juggernaut and Durgan.  The other cell holds Gimble Beren (item 3).  **One Fen Guard on the outer door and two of Ironwake's men inside, at Mott's bars** — the hardest room in the compound to walk into, and the one holding the chapter's biggest lever.  At sundown all three walk Mott down to the arena and the building goes unwatched.  The Juggernaut sits in a back corner playing with a bundle of straw tied with twine in the rough shape of a doll.  Duragan watch him play.  Gimble sits stoicly in the center of his cell, masked, and does not react to the door.
 8. **The Chainmaster's Hall (Warden's Office reskin).** Large house where Vaskar lives.  One guard sit outside the house. Two servant woman are in the house cleaning and doing general housekeeping duties.  Vaskar has Old Cobb tied to a chair for interogation.  
 9. **The Drain (Secret Tunnel reskin).** Smuggler's drainage channel from a grate at the back of the Pens, under the wall, to the fen outside — bypasses the yard.  **This is the tunnel Erwana escaped through, and her information is out of date.**  Her escape is what exposed it: Denrick worked out how she got clear, sold the location to Vaskar for favor, and seeded the run with traps afterward.  Erwana will swear it is safe, and she is telling the truth as she knows it. **Denrick's trap trail:** a spiked sump (DC 15 Dex), a rolling barrel of tar (DC 15/10), and a rat swarm if the party carries Denrick's "lucky" sack.
 
@@ -195,7 +249,7 @@ Two adjustments worth making on the fly:
 
 ## Revolt outcomes
 
-Two things decide how the revolt goes: **are the slaves armed** (did the party open the Armory or hand out weapons), and **is the party in the fight**. 18 slaves, starved and unarmed, against 13 guards is a slaughter. Armed, it's a real fight. With the party, it's over fast.
+Two things decide how the revolt goes: **are the slaves armed** (did the party open the Armory or hand out weapons), and **is the party in the fight**. 18 slaves, starved and unarmed, against 20 armed men is a massacre, not a slaughter. Armed, it's a real fight. With the party, it's over fast.
 
 | # | Situation | How it plays | Aftermath |
 |---|---|---|---|
@@ -261,7 +315,7 @@ Decide before the session whether their absence is already a problem, or becomes
 ### Threads out
 - **Barney Soot**, chimney sweep, Solteres. Rowan is alive and in that city.
 - **The cult buyers** in the ledger — women, no names given, paid in full. Ties back to Dol Island and the barrels of blood.
-- **Prisoner X**, unmasked or not.
+- **Gimble** — freed and unmasked (overwhelmingly likely), or dead in the arena. If freed, note whether the party has worked out he is the first team's survivor, or only that he is a Penitent.
 - **Durgan and Mott**, free and with nowhere to go.
 - **Denrick**, alive somewhere, with a fresh deal on his lips.
 - **Vaskar**, if he ran.

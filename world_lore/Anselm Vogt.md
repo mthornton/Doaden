@@ -43,8 +43,9 @@ He has been ready to rise for weeks. He has not, because he is not a hothead: **
 
 Anselm has counted everything, because counting is what he is. Freed, trusted, or simply *asked like a man*:
 
-- Thirteen guards, where each one stands, and which of them drink.
-- Five new ones asleep in the barracks who came in with the giant — and that their presence is why he has not moved yet.
+- **Twenty men — fourteen of Vaskar's and six of Ironwake's** — where every one of them stands, and which of them drink. He will give this slowly and exactly, post by post, because that is how he holds it in his head.
+- That it was **four or five** until about a month ago, and that everything above that number arrived with the giant. If the party came in believing the old count, Anselm is where they find out why it was ever true.
+- Four of Ironwake's asleep in the barracks and two standing on the big one's cell day and night — and that those six are why he has not moved yet. He can beat Vaskar's men. He cannot beat Ironwake's.
 - Where the armory keys hang.
 - That the big one in the Deep Cages is gentle until the dwarf makes him otherwise ([[Durgan Half-Ear]]).
 - That the masked man will not survive the match.

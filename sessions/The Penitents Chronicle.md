@@ -1,0 +1,1363 @@
+# The Penitents' Chronicle
+
+*The story of JonLief, Virgil, Luthien, and Wolfram, told as a story rather than a recap. Every event, name, and outcome here matches what happened at the table. What's new is texture: scenes, dialogue, weather, the things four people might have said to each other between the lines of a session recap. Where a line of dialogue or an unnamed face in a crowd has been invented, that's flavor, not canon — if anything here ever contradicts `Party History.md`, `Open Questions.md`, or what actually happens at the table, the table wins. Read this for the story. Use the other two files for the facts.*
+
+---
+
+## Chapter One: The Brand and the Boat
+
+### I.
+
+The stew was grey, and it was the best thing any of them had eaten in weeks.
+
+JonLief finished his without lifting his head, and only realized afterward how fast he had done it. So had everyone else. The hall was full of that sound — the scrape of wooden spoons, the wet urgency of the hungry — and almost no other. Dozens of people bent over dozens of identical bowls, in a stone room built for more of them, under a smell of boiled vegetables and damp rock and unwashed bodies.
+
+He did not remember arriving. He turned the problem over the way he turned over most problems, quietly, more than once, and set it aside for later. He remembered shouted orders. He remembered the clang of a bar coming down. Before that there was nothing, and the nothing had a clean edge, like a page torn rather than turned.
+
+Warmth spread through him. The chill went out of his hands. He looked up.
+
+There were four of them at the table, all in rags, all filthy. One of them was barely a man. His body had gone over to fungus — mushrooms and pale growths pushing out of the skin of his arms and neck, a soft crust of them along one cheek — and where his eyes should have been, two cones of grey-green plant matter grew straight out of the sockets. A musty smell came off him, like the underside of a log.
+
+Beside him sat a big one. Hard to judge a man's height sitting down, but he was broad through the shoulders and young, and he ate like a soldier eats, without ceremony and without waste.
+
+Across from the big man, an elf drank broth off the edge of his spoon in small, deliberate sips. Pale, hairless, as dirty as everyone else in the room and somehow not desperate about it.
+
+And beside the fungus man was a skinny fellow with long dirty-blond hair matted flat to his skull, who licked the last of the stew out of an extravagant moustache, turned, and said:
+
+"Dude. Like. Are those mushrooms edible?"
+
+The fungus man's face lit up. "Ah — yes. I specifically engineered the symbiotic fungus to be edible."
+
+He snapped a piece off the side of his own leg and dropped it into the other man's bowl. It made a small wet sound going in.
+
+The skinny man used it to mop up the dregs and ate it without hesitating. "Righteous."
+
+"Virgil," said the fungus man, to the table generally.
+
+"Luthien."
+
+The big man said, "Wolfram," and after a moment, "Eisenherz," as though the second half were a thing he was still deciding whether to keep.
+
+"JonLief," said the elf.
+
+That was as far as it got. The doors at the far end of the hall ground open and half a dozen guards came through in steel plate stamped with the sigil of Azerai, and the temperature of the room dropped without anything actually changing.
+
+A voice like two stones grinding together read four names off a slip of paper.
+
+"JonLief. Virgil. Luthien. Wolfram. With me. Now."
+
+The names went out into the hall and came back off the walls, and the four of them looked at each other, and every one of them had the same thought at the same moment and none of them said it: *all four. Not three of us and a stranger. All four.*
+
+Luck, maybe. Or somebody's design, already showing its hand.
+
+### II.
+
+The forge was hotter than the hall.
+
+That was what JonLief noticed first, and he would think about it later — that of everything in the room where he was branded, the thing his mind reached for was the temperature. But the mind takes whatever handhold it can find when the alternative is looking straight at what is about to happen.
+
+Half-finished blades hung on the walls. Dented armor. Chains. A thick-armed smith worked the coals with his face lit orange from below, and three more guards stood waiting in a way that made it clear the waiting was routine.
+
+Nobody explained anything. Two guards took Luthien from behind, an arm each, and a third pulled his sleeve up over the shoulder, and the smith drew a long iron out of the fire with its end glowing white.
+
+Luthien was mid-sentence. He was saying something about a clerical error, about how somebody really ought to check the paperwork, and then the iron went into his shoulder and the rest of the sentence became one long sound that outlasted the pressing by several seconds. The room filled with the smell of burnt hair and cooked meat. When they let go of him he went down on his knees, shaking.
+
+On his shoulder, raw and already blistering: a stylized sun with a single tear falling from its center.
+
+One of the guards turned to the others. "Who's next?"
+
+JonLief had already worked it out. Four unarmed strangers, a room full of armed professionals, a compound whose layout none of them knew, in a country whose name he still did not have. He had real battles ahead of him. He was not going to spend his life on a meaningless one in a blacksmith's shop.
+
+He stepped forward. "Please allow me to go next."
+
+The guard laughed. "Smart, for an elf." He hooked a thumb under his own pauldron and lifted it, and there on the meat of his shoulder was the same sun, the same tear, gone silver-pale with age. "Every Penitent leaves this smithy with the Mark. Whether you leave on your feet or get dragged out a corpse is the only choice you've got left. Smart ones accept the brand."
+
+JonLief did not make a sound. He filed the pain away with everything else.
+
+Virgil went next and watched his own shoulder the whole time with the calm interest of a man observing an experiment he had not designed but did approve of. "Shallow," he observed, to nobody. "Symmetrical. Somebody worked out precisely how much damage produces a permanent mark without risking infection. That's craftsmanship." The guard nearest him adjusted his grip on his spear.
+
+Wolfram went last, jaw set, eyes on a fixed point on the far wall, and did not flinch. But something in him moved when the iron touched — some sense he did not yet have a name for, that had nothing to do with heat. Something old pressed briefly against him and withdrew. He would spend a long time learning to name that feeling properly. Today all he knew was that it did not like the mark.
+
+Luthien, still on his knees, got his voice back enough to look up at the guard's bared shoulder. "So how long've you got left, dude?"
+
+The guard almost smiled. It was the first expression any of them had seen on a face in this place. Then he dropped the pauldron and said, "Move."
+
+### III.
+
+Vozruk the Redeemer did not stand up when they came in.
+
+He sat behind a large oak desk in a room with good stonework and a single tapestry too fine for a military camp, and he had the piercing eyes and permanently curled lip of a man who had long since stopped pretending to be pleasant about any of this.
+
+"Welcome, new lambs for the flock!"
+
+The irony came off him so thick you could have cut it into slices. He stood, finally, and began to pace, looking them over the way a butcher looks over cattle.
+
+"This is a day for celebration. Your worthless, misspent lives now have a purpose. You will help — in your own small, insignificant way — to make the world a better place." He stopped and put his hands on the desk. "I have assembled you four into a unit. A team. You will be assigned missions by the Church. You will fight our enemies. You will protect the faithful. You will, in all likelihood, die for our cause." A dry sound that was not a laugh. "I expect the heretics are already shaking in their filthy robes."
+
+"Let's be clear about the terms. Each of you owes a debt to society and to the gods. The Church has calculated that debt at five hundred years of service." He let it sit. "A pittance, really."
+
+"That's a joke," Luthien said. "Right?"
+
+Vozruk did not look at him. "Most sinners die with their debt unpaid and their souls damned to eternal torment. You are the lucky ones. Complete a mission successfully and I will graciously reduce your sentence. Survive long enough, perform great deeds, and one day you may walk free." He waved a hand at the door. "A slim chance. But a chance."
+
+"The guards will take you to the armory. You'll be issued proper gear — it's old, but it's probably seen more battles than the four of you combined. Then the Penitent barracks, which I assure you is a significant upgrade on your previous accommodations. Get settled. Visit the dining hall. Have a good night's rest."
+
+He turned his back on them and became absorbed in a map on the wall.
+
+"Your first mission begins at dawn."
+
+### IV.
+
+The armory was a single vast room that had been organized, at some point in the distant past, and had spent every year since becoming a labyrinth. Towers of armor. Crates of weapons. Shelves along every wall groaning under centuries of accumulated gear, stacked seven feet high and leaning.
+
+Finnian Quickstep came hobbling out of a gap between two piles of breastplates, an ancient halfling with liver spots on his scalp and a Mark of Atonement faded almost to nothing peeking above his collar.
+
+"I'm coming, I'm coming. What do you want? I got everything. Tell me what equipment you want and I'll get you outfitted and on your way." He squinted up. "Start with you, big boy, and be quick about it."
+
+Wolfram asked for a suit of armor, a shield, a longsword, and a set of javelins.
+
+"Big surprise in *that* request," Finnian muttered, already hobbling back toward the stacks. He stopped before he was out of sight, turned, and stabbed a finger at all four of them.
+
+"Don't touch anything."
+
+Then he was gone, and from somewhere back in the piles came banging, rattling, and a sustained low stream of profanity.
+
+One of the guards leaned against the doorframe. "He's always like this. I heard he's run this warehouse since the camp was founded, and that's a hundred and twenty years back. The longer we stand here the crankier he gets. Have your request ready, do as he says, we're out quick."
+
+Luthien was not listening. Luthien was looking up.
+
+"What about that guitar?"
+
+Balanced on the very top of a seven-foot heap of backpacks, climbing gear, pots and pans and unsorted junk sat a guitar. It was pale. Not pale wood — pale the way bone is pale, with a grain to it that was not grain.
+
+"Don't know," said the guard. "Ask Finnian when he gets back."
+
+Finnian got back with Wolfram's gear. The sword had deep scratches in it and the armor was dented, but Wolfram's eye said all of it was sound.
+
+"Emperor's left nut, what are *you*?"
+
+Virgil brightened. "Why, I am a former member of the Alchemical Order. I have dedicated my life to the study of human potential, and I have discovered—"
+
+"Don't care. What equipment do you want?"
+
+"...Ah. A cloak and staff will suffice, I suppose."
+
+"Hey, little man." Luthien had drifted a step closer to the pile. "Like — can I have that bitchin' guitar?"
+
+"Wait your turn," Finnian snapped, and vanished again.
+
+The clattering resumed. Everyone looked around at the thousands of objects surrounding them. Luthien drifted another step.
+
+He got both hands on it. That was the impressive part — he actually had it, cleanly, and was bringing it down when the body of the guitar brushed a pot.
+
+The avalanche started slowly. The pot went over and pushed a backpack, and the backpack's flap came open, and several bottles rolled out into a grappling hook. The hook went off the edge with its rope trailing, the rope took hold, and then the whole seven feet of it came forward all at once like a wave arriving on a beach. The noise was tremendous.
+
+Luthien leapt sideways like a scalded cat, guitar clutched to his chest, and came down clear of it. The guard who had rushed in to try to stop it did not. Something in the mess opened his forearm.
+
+He looked at the blood running down to his wrist. He looked at the wreckage. He looked back into the stacks.
+
+"Finnian is not going to like this."
+
+Finnian came out at a speed nobody would have credited, dragging Virgil's cloak and staff behind him.
+
+"What in the name of the Emperor's left nut is going on? I gave you *one* simple instruction. Don't touch *anything*! Who did this?"
+
+Nobody said a word. Everybody looked at the skinny man holding the guitar.
+
+Finnian's liver spots went red. He crossed the floor in a bound, jumped, got both hands into Luthien's hair from behind, and set about smacking him repeatedly in the side of the head while screaming curses in three languages, until a guard lifted him gently off and set him back down on the ground.
+
+"Guards. Detain this fool." Finnian was breathing hard. "You will not leave this building until everything is put back where it belongs."
+
+He rounded on JonLief. "Elf. What do you want?"
+
+"Bow, arrows, sword, light armor, and a bear-fur-lined cloak," JonLief said, politely.
+
+Still muttering about fools who don't do as they're told, Finnian went back into the stacks and returned with all of it. JonLief dressed, and noted, with a small private interest he did not share, that every piece fit him as though it had been cut to measure and left waiting.
+
+Finnian turned to Luthien, who was still being held.
+
+"My most righteous little dude, I would like—"
+
+"*Shut up.*"
+
+What Luthien got was leather armor missing several of its pieces, a dagger with a crack running the length of the blade, and a short sword made shorter by whoever had broken the tip off it.
+
+"Everybody else out. Except this idiot, who is going to help right the mess he made."
+
+"When might Luthien rejoin us?" JonLief asked.
+
+Finnian threw a pot at him.
+
+"Probably not till morning," the guard murmured, steering them out. "He'll work him like a dog."
+
+### V.
+
+He was back before dinner was finished.
+
+A guard pushed him gently through the door of the second dining hall — a drab stone room like the first, but the food smelled better, and the Chonko stew had actually seen a spice at some point in its life — and left with a smirk on his face.
+
+"Hey guys!" Luthien dropped into the empty seat and started eating the leftovers off everyone else's plates.
+
+"What happened?" Wolfram said. "We expected old Finnian to keep you all night."
+
+"Yeah, like, I don't, man." Luthien waved a hand. "The little dude told me to stack the armor that was all over the floor. So I, like, started gathering it up. It was *not my fault*, dude. Some of those pieces of armor have sharp edges." He held up one finger and displayed it with a flourish. "A codpiece gave me a *gnarly* cut. See?"
+
+They looked. It was perhaps a quarter of an inch long.
+
+"It *hurt*, dude. So I dropped everything I'd picked up and put my finger in my mouth. And then one of the pieces landed on my foot, so I hopped back, and I bumped into *another* pile — which, by the way, those piles are a genuine hazard, somebody should say something — and stuff started sliding off all over the floor. Hellacious mess. And then *he* comes running over and trips on the junk and falls into a *third* pile and knocks that one everywhere. And *he* was mad at *me*."
+
+He looked down and rubbed the fresh brand on his shoulder, and something in his face slipped.
+
+"He started yelling. Really hurtful stuff. It, like, hurt my feelings, and I started to cry a bit, and that just made him madder, and he said meaner things. Then he told a guard to take me away." He sank lower in his seat. "I'm not allowed back in the armory."
+
+A pause.
+
+"It was not my fault."
+
+Virgil patted him on the back with a hand that left a faint dusting of spores on his shirt. "It will be all right. You are with us now, and we will look after you. Here. Have some mushroom."
+
+He snapped a blue-green piece off his own calf and held it out. Luthien brightened immediately and ate it.
+
+Wolfram watched the whole exchange and said nothing, and filed it away where he filed most things, as evidence toward a verdict he had not yet reached about the strange fungal man across the table.
+
+JonLief stood. "The guards said our barracks are across the path. Let's get a good night's rest and prepare ourselves for tomorrow."
+
+Sleep, when it came, was fitful, and full of old mistakes.
+
+### VI.
+
+In the morning Vozruk was standing at his coastal map.
+
+"For months," he began, without preamble, "we've observed suspicious activity around a small island named Dol, off the southern coast. An unusual number of ships. Reports of missing locals. The island is marked uninhabited in our records — which means someone is operating there without the Empire's blessing. And that is unacceptable."
+
+He tapped the map.
+
+"I sent a team of Penitents to investigate weeks ago. They never returned. The local governor reports they were last seen setting sail for the island, and suspects a shipwreck; the waters there are treacherous. He has also arrested several known heretics lately. Under aggressive questioning they revealed nothing — but they share one common trait. They are all experienced sailors."
+
+He turned around.
+
+"Your mission is simple. Get to that island. Find out what happened to the first team. Discover who is operating there, and eliminate them. A ship has been arranged. I am assured this one is more seaworthy than the last."
+
+Then he looked past them at the door and bellowed, "FID! YOU ARE LATE!"
+
+From down the hall came a frantic rattling of metal on metal, punctuated by a series of sudden pops. The sound got closer. The annoyance on Vozruk's face deepened by measurable degrees.
+
+A gnome with wild blue hair came into the room on top of a metal sphere, which appeared to move by a combination of bouncing, rolling, and vibrating, and which he appeared to be riding in the same sense that a man rides a landslide. His face held fear, excitement and joy in roughly equal parts.
+
+He bounded off. The sphere stopped dead, leaked smoke from its seams, made a sound very much like a sigh, and rocked over onto its side.
+
+"Oh oh oh, so sorry, Vozruk. The trans-bopulator still needs some adjustment on the tension settings — too much pressure against the flywheel. Hehe! It is going to be *glorious*. Armies of Azerai Sentinels rolling across the land! This will cut travel time in half! Peace and stability will spread far and wide!" All of that arrived in one breath.
+
+He then darted around the room shaking everyone's hand with an enormous grin. "Oh oh oh, you must be a new team of Penitents. So glad to meet you. Do you like my Puff-a-loco?"
+
+"*Fid.* Please."
+
+"Oh oh oh. So sorry, so sorry. Hehe." He visibly shrank without losing the grin.
+
+"Fid is our master weaponsmith," Vozruk said.
+
+"No no. I am the master inventor in charge of peace-keeping technology."
+
+Vozruk closed his eyes briefly. "Yes. You are correct. My mistake." He inclined his head, with no enthusiasm whatsoever. "Fid is a master inventor. That contraption aside, he has contributed more to the success of our troops than any other single person."
+
+Fid swelled. "Doing my best to make the world a safer place!"
+
+"Fid. This team is going to investigate the happenings around Dol Island. Anything you have to help them?"
+
+"Oh oh oh, *yes*." He produced a copper ball two inches across from a pocket. "Behold — the Ball of Undeath! Throw it up in the air and it explodes with little metal shards in all directions. Boom, and it *rains* little sharp bits and pieces. It is so pretty. Each piece catches the light and sparkles. Oh oh oh, I think I could remake this with a softer material — then it could be used at celebrations—"
+
+"*Fid.* Focus."
+
+"Of course, of course. When you toss it up, you must toss it precisely between eleven and thirteen feet. Do that, and the magic imbued in it enchants the shards so they will only hurt the undead!"
+
+"And if they throw too high or too low?" Vozruk asked.
+
+Fid's voice got very small. "Well. That would be bad. You don't want to do that." A pause. "If it isn't in that exact range, the shards damage everybody."
+
+"Do these Penitents," Vozruk said, "who started today, and who could not find the outhouse without an escort, strike you as the quality of people who can toss a ball to a precise height while surrounded by undead?"
+
+"Well — yes. Hehe. I see your point. Perhaps this is better suited to more experienced teams."
+
+"I know."
+
+Vozruk drew and threw a knife faster than anyone in the room could follow. It went past JonLief's head and opened a deep gash across his cheek.
+
+Before anybody could react, the small gold spider pinned to Fid's lapel came alive on its own, sprang across the room, landed on JonLief's face, and began to knit. The pain numbed almost at once. Within seconds the wound was closed and gone. The spider, moving very slowly now, dropped off his jaw to the floor and came apart into pieces.
+
+JonLief had not moved. His hand had twitched toward a weapon he did not yet have, and stopped.
+
+"Oh oh oh, dear me, that was harsh," Fid said. "But it is a great idea, Vozruk."
+
+He turned to the party, delighted again. "That was the knitting spider! A clockwork, imbued with a bit of magic. When it senses blood it will jump to the source and try to knit the wound closed — there's a little magic in it to help the healing along. Very effective with cuts and punctures. Each can only be used once; the supplies inside are limited and the magic pool is small. Most people keep them in a box, both to protect them and to stop them leaping at every scraped knuckle and wasting themselves." He clapped his hands. "I only have one more with me. Come with me to my lab and I'll get you each one! I'll show you the other exciting things I'm—"
+
+"*No.*" Vozruk did not look up. "Those spiders are worth more than any single one of these initiates. Give them the one you have. That is all."
+
+Fid handed Wolfram a small box. Then he leaned in and, while whispering "I lied, I have two — hehe," discreetly slipped a second one into the pouch at Wolfram's waist.
+
+"Go see the quartermaster," Vozruk said, already back among his papers. "He will provide your mission supplies, coin, and directions to the docks. Do not fail me."
+
+"Dude," Luthien said. "Can I have the shiny ball?"
+
+Vozruk looked at him with a dead stare for approximately three seconds, and then looked back down at his papers.
+
+A guard picked up the Puff-a-loco with both hands and ushered everyone out.
+
+In the corridor Luthien tried again. "What? I just want to see the shiny sparkles. It, like, sounds *beautiful*. Little dude, can I have it?"
+
+"Oh oh, of course!" Fid was already digging in his pocket, bouncing foot to foot. "Just don't tell Vozruk where you got it. It really is beautiful. Just be careful. I'm sure nothing will go wrong!"
+
+Wolfram stepped forward to take it off him. JonLief touched his arm, lightly.
+
+"Don't worry, my big friend. It will be all right."
+
+Wolfram looked at him for a moment. Then he let his hand drop.
+
+Later that evening, without being asked, he told the other three about the second spider in his pouch. Whatever the gnome was doing behind Vozruk's back, Wolfram had decided early that he was not going to be part of doing it in the dark.
+
+### VII.
+
+The *Hreowan* was thirty feet of weathered timber tied up on the Castur River, and she had unmistakably spent her career hauling fish. Patched sails. A smell in the hold that no amount of scrubbing was ever going to resolve. A crew who spoke to the party only when necessary and looked at their brands the way men look at something they have seen before and would rather not see again.
+
+The first two weeks were uneventful, which turned out to be the useful thing about them. Four people who had known each other exactly as long as their brands had been healing began, slowly, to become something else.
+
+JonLief kept his own hours, sitting cross-legged near the bow through the night watches with his eyes half-closed, meditating rather than sleeping. He found that Wolfram, who prayed on some of those same nights, made unexpectedly good company for it, the two of them sharing a silence that neither felt obliged to fill.
+
+"Do you believe any of it?" Wolfram asked once, low, somewhere in the middle of the second week, with a hand on his own shoulder. "The five hundred years. The debt."
+
+"I believe they'll enforce it," JonLief said, after a while.
+
+"That isn't what I asked."
+
+"No. It isn't."
+
+Wolfram let out a breath through his nose that was almost a laugh, and went back to the stars.
+
+Luthien discovered that the bone guitar held its tune remarkably well over water. The crew, against their own better judgment, began looking forward to the evenings — sailors' songs he half-remembered, with the gaps filled in by verses nobody could prove weren't traditional.
+
+He was better than he had any business being. He noticed it the way you notice a coin in your pocket you don't remember putting there: not as a problem, just as a small strange fact. Verses arrived whole. His left hand found shapes he was fairly sure he had never practiced, and found them cleanly, on the first attempt, at speed. Once, halfway through a reel, he realized he had stopped paying attention to what he was playing three bars ago and it had gone on without him, perfectly.
+
+He decided not to look at that too closely. It felt too good, and questioning a good feeling had never been among his talents.
+
+Virgil spent most of his time at the rail, watching the water and delivering unrequested observations about marine fungal blooms and the glowing things that trailed the ship's wake at night. Nobody asked for any of it. Everybody, eventually, found it soothing anyway.
+
+The third week brought the storm.
+
+It came up fast and came up wrong. One watch the stars were out; the next there was a wall of black to windward and no time to do anything intelligent about it. Controlled navigation stopped being possible almost at once. The *Hreowan* went onto partly submerged reef with a sound that went through the soles of everyone's feet, and the sea took the ship apart in pieces.
+
+JonLief remembered a wave higher than the mast. Wolfram remembered praying, and meaning it more than he had in years, with both hands locked around a section of rail that gave way anyway. Luthien remembered grabbing the guitar by the neck and refusing, with a stubbornness he could not afterward account for, to let go of it even as the water closed over him. Virgil remembered nothing at all, which was, in its way, the part that unsettled him most.
+
+They woke separately, scattered along an unfamiliar beach, coughing salt water onto sand that showed no sign of the *Hreowan*, or her crew, or anything at all beyond the tide line and a wall of dark green scrub.
+
+Luthien woke with the guitar still in his hand.
+
+---
+
+## Chapter Two: The Isle of Bones
+
+### I.
+
+The beach gave up its first secret before any of them had finished coughing.
+
+Dark stains in the sand, gone brown at the edges. Not old. Not fresh either. Nobody investigated. There would be time for that later, and none of them wanted later to arrive any sooner than it had to, not while they were still counting limbs and shouting names across an empty stretch of shore.
+
+What they got instead, once the four of them had found one another, was a pile of old bones half-buried in the dune grass — and the pile's answer to being disturbed. Two skeletons hauled themselves upright with a dry clatter, joints working like a cart over gravel, and came at them.
+
+It was short. Bone splinters well. It was, all four of them silently agreed, the last easy thing that was going to happen on this island.
+
+"Well," Luthien said, breathing hard, standing over the fragments. "At least the locals waited till we'd caught our breath."
+
+### II.
+
+Footprints in the sand led to a break in the vegetation, and a few steps in they realized they were walking on stone. A path, buried by the beach at one end and running clean and deliberate under the scrub. The growth overhead was tropical and healthy and heavy enough to swallow most of the light.
+
+In under a minute they were at the cliff.
+
+It was not what any of them expected. The lower face of the rock had been smoothed and carved — an ornate façade, dirty and aged and chipped, and once, plainly, a thing of remarkable beauty. Purely decorative. No symbols anybody recognized. Just skill, spent lavishly, a very long time ago, on a wall in a place nobody came to anymore.
+
+An archway. Stairs, going down into the dark.
+
+The walls of the stairwell were covered in mosaic, tiny bits of coloured glass set into the stone, dirtied and chipped and still overwhelming. Some panels were landscapes. Some were pure pattern. And several ran in sequence, panel to panel, telling a story: a village with black crops and a weeping mother; a small figure climbing a mountain; a griffin with a wounded leg lowering its head; a single golden flower catching a shaft of light through broken arches; a feast.
+
+JonLief ran his fingers along the fourth panel and said nothing for a while.
+
+### III.
+
+The stairs opened into a cave with a hole in its roof.
+
+Sunlight came down through it in a wide column and landed on an island — an actual island, a mass of soil and grass and vegetation standing in the middle of the cave with a drop all around it that went down past where the light reached. A bridge ran from the foot of the stairs onto it. Nothing visible held it up.
+
+A shrine stood at the center, beautifully made and half-taken by the weather. Less overgrown than the ground around it, though. Somebody had been here recently enough to matter.
+
+And everywhere else, once they started looking: bones.
+
+They lay scattered rather than laid out — the difference between a massacre and a burial — with scraps of clothing still clinging to some of them and the flesh long gone from all. Two dozen people, roughly. It was hard to be exact, because a great many of them were in pieces.
+
+Virgil crouched and worked through it with the detachment of a man reading a ledger. "Not ancient," he said. "The leather's perished but it hasn't gone. Two years. Perhaps a little more." He turned a fragment over and set it back exactly where he had found it. "And there are no weapons here. None. Not one blade, not one shield boss, nothing. These were men and women who did not fight."
+
+There was jewelry among the remains. Beads on cord gone brittle, a bent copper ring, a bracelet of braided leather stiff with salt. Well made, in its way. All of it homemade. None of it worth anything to anyone but the person who had been wearing it.
+
+"A community," Luthien said, in a register nobody had heard from him yet. "That's a community that ended up dead in a cave. You'd think somebody might've mentioned that before we signed up for this particular island."
+
+Nobody had an answer.
+
+There was, at least, an apple tree — improbably healthy, heavy with fruit, entirely unbothered by whatever had happened around its roots. Five hundred years of indentured service came with no meal plan. They filled every pack they had.
+
+### IV.
+
+Another bridge on the far side led to a large stone door.
+
+No handle. No hinge anyone could find. Script ran above it in a language none of them read, and three separate symbols in the same script were set into the door itself, at about chest height for a man.
+
+They pushed. Nothing. They levered. Nothing. They pushed again, all four together, and got the strong impression the door was not so much resisting as ignoring them.
+
+In the end it was Virgil who solved it — not by reading anything, but by treating the door as a machine rather than a message. He wedged one of their new apples into a gap along the edge, worked it, and the whole thing gave with the groan of old stone finding a position it had not held in a very long time.
+
+Beyond was a hall, and in the floor of the hall, a ring of runes.
+
+Wolfram did not like it, and nobody argued. JonLief sent an invisible hand walking out ahead of them instead, tapping each carved stone in turn, and on the fourth stone the hand's touch brought a section of ceiling down with a crash that filled the corridor with dust and left a slab in the floor where the four of them would have been standing.
+
+They went around it, single file, hugging the wall.
+
+Past that was a narrow bridge, and past *that* was more caution than the situation strictly demanded: Wolfram crossed alone with a rope knotted round his waist, paid out by Virgil, in case the bridge had opinions about how many people it wanted to hold at once.
+
+It didn't. Not this time.
+
+### V.
+
+The chambers beyond earned every ounce of that caution back with interest.
+
+The first was a bare stone room with two statues in it, mummified warriors in ancient wrappings, facing a third statue — a figure with a mirror set into it, polished and intact.
+
+There were also three men in dark robes, and they were leaving.
+
+Two of them were already at the far door and did not stop. The third turned in the doorway to look at the party, and there was nothing in his face but a kind of tired contempt.
+
+"Too late," he said. "We have what we need."
+
+Then he put his elbow through the mirror.
+
+The statues came alive before the glass had finished falling. They were faster than dead things should have been and dry as paper all the way through, and the fight was ugly and close-quarters and over in under a minute, both of them collapsing into heaps of linen and bone that settled with a sound like a long breath going out.
+
+JonLief stood in the wreckage with his sword still up and looked at the broken mirror-statue, and something in the carving snagged on a memory.
+
+He had seen this before. Not this statue — this *imagery*. The posture of the arms. The instrument. He had seen it in the streets during Vasant Panchami, in the spring, a very long way from here, when he was young enough that nobody expected him to know what any of it meant.
+
+It took him another moment to come up with the name.
+
+"Saraswati," he said aloud. "Goddess of the arts."
+
+The others looked at him. He shook his head slightly — *later* — and did not explain, because he did not yet know what the explanation was, and he wanted to hold the thread a while before he handed it to anyone.
+
+### VI.
+
+They heard the second chamber before they entered it.
+
+"Go. Get the blood loaded for transport. I will delay the intruders."
+
+There was a statue in this room too, and there were mummies standing in the shadows along the wall, and there was one man in dark robes who had plainly drawn the short straw and knew it.
+
+They took him alive. It cost them some effort and it cost him a broken arm, and then they had him on his knees in the middle of the floor with three blades making a loose fence around him.
+
+"Who are you people," Wolfram said. It was not really a question. His sword was lowered. It was as close to an offer as he knew how to make. "What is this place. We aren't here to hurt you if you talk to us."
+
+The man looked at each of them in turn, breathing hard, and something behind his eyes settled.
+
+"Hail Adephagia," he said — not shouted, almost gently, the way a man says a prayer he has said a thousand times and still means — and bit down.
+
+He was dead inside a minute, drowning quietly on the floor, and there was a smile on his face while it happened.
+
+Luthien turned away first, one hand flat against the wall. Nobody held it against him. JonLief knelt beside the body afterward, not out of any hope of doing something useful, but because it seemed wrong to let a man die on a stone floor with nobody paying attention.
+
+In his robes they found a map. A stretch of coastline, towns marked but not named, and one location circled in ink with two words written beside it in a cramped hand: *St. Pyotr.*
+
+### VII.
+
+There was a tomb in that same chamber, ornate, worked all over with the same skill as the mosaics above — and a hole had been chipped into the side of it.
+
+Blood was coming out of the hole. Slowly. Steadily. Fresh.
+
+The dread hit them at about fifteen feet. It was not a mood. It had weight and temperature and it pushed, and Luthien stopped where he was and could not make himself take another step, and did not try to pretend otherwise.
+
+Wolfram walked into it.
+
+He got a hand on the stone. He put his eye to the gap.
+
+There was a woman inside.
+
+She was not dust and she was not bone. She lay in a gown that had been white, soaked through dark down one side, and her body showed no sign of decay at all. Her wrists were bound in chains gone black with age — all four of them. She had four arms.
+
+She was, without any competition whatsoever, the most beautiful thing he had ever seen.
+
+There was an open wound in her side, and it was still bleeding, and it had plainly been bleeding for a very long time.
+
+Her eyes opened.
+
+They found his immediately, as though she had known exactly where he would be standing, and there was nothing in them like malice. There was sorrow, and there was a fear so total that it had gone quiet, the way fear does when it has had years to settle in and make itself at home.
+
+Her lips moved. No sound came with it.
+
+"Wolfram." JonLief's voice, from behind him, careful. "What are you looking at?"
+
+He turned to answer.
+
+When he turned back the tomb was cold and dry and entirely unremarkable, and the hole in its side showed nothing at all.
+
+He did not mention it again that night. He did not stop thinking about it either, and the silence he kept about it sat on him differently than his usual quiet did.
+
+### VIII.
+
+The third chamber was bare except for a wide pool of dark, thick blood on the floor, and a hole smashed roughly through the far wall that they could hear men fleeing through.
+
+The pool quivered as they came in.
+
+Then it flowed together and stood up.
+
+There is a particular kind of fear that arrives before thought does. The thing in the middle of the room had no face and no shape it kept for more than a second at a time, and looking at it made something in the base of the skull start screaming, and for a moment none of them could move at all.
+
+It picked the slowest of them and leapt.
+
+The fight after that was a brawl in the dark against something that closed every wound they opened. It came apart eventually, all at once, in a spray that steamed faintly in the cool air and coated the walls. Virgil wiped down his sleeve and observed, to nobody in particular and with more professional interest than the moment called for, that the composition was wrong — too thick, too slow to separate. Not quite blood. Not entirely not blood either.
+
+Afterward, with the noise gone, they saw what was under it.
+
+A circle cut into the stone floor, ten feet across, with a spiral of runes carved inside it in the same script as the door above.
+
+### IX.
+
+They came out through the break in the wall into blinding daylight, on a different beach.
+
+Four hundred feet of open sand, three hundred feet down to the water. A single-masted ship of about twenty-four feet moored just offshore, and two smaller sailing boats drawn up at the water's edge.
+
+Four men in heavy black robes were loading barrels into one of the boats. In the sun. In *those* robes. Two barrels left to go.
+
+One of them turned as the party came out of the trees.
+
+"Finish loading and get them to the ship. Set sail the moment they're aboard. I'll follow in a sailboat once I've dispatched these intruders." He looked at the man beside him. "You. Come with me. Let's kill them, or give our lives in honour."
+
+Two of them drew and started walking up the beach. The other two kept working.
+
+It was a stupid fight and both of them lost it, and neither of them expected to win, and none of the party took any pleasure in it. By the time it was finished the last barrel was aboard, the boat was away, and the ship was already coming round with her sail filling.
+
+They stood and watched it go.
+
+In the lead cultist's robes they found the map's twin — and an amulet.
+
+It was set with three small crystals. Two of them were clear. The third was red and blackened, burnt-looking, dead.
+
+JonLief turned it over in his hand, and pressed one of the clear stones with his thumb before he had quite decided to.
+
+There was a loud pop, and the beach was gone.
+
+He was standing in the third chamber, ankle-deep in the aftermath of the blood-thing, with the smell of it hitting him all over again in the dark. It took him a moment to get his heart back under control. It took him considerably longer to find his way out and back down the beach, where the others had spent the intervening minutes staring at the space where he had been.
+
+They worked it out between them, standing in the sand. Three stones. One clear one now dull. One clear one left.
+
+One charge. And it went to exactly one place — a ring of runes cut into the floor of a crypt none of them had any intention of ever seeing again.
+
+"Great," said Luthien. "So it's an escape route to the *inside* of the bad place."
+
+"It is a door," Virgil said, "and I have found that it is generally better to have a door than not to."
+
+With the fighting done, they made camp where they stood, as the light went gold and then grey, and let Dol Island keep the rest of its secrets for one more night. They each turned over a private piece of the day and did not share it: a spring festival from a childhood a long way off. A woman with four arms and nothing left but sorrow. A name shouted like a prayer by a man who chose to choke on his own blood rather than answer one question.
+
+---
+
+## Chapter Three: Ald's Star
+
+### I.
+
+The night before, from the beach, they had watched the ship shrink to a smudge and then to nothing, and past it, low and grey on the horizon, the mountains of the mainland. Three miles of open water, more or less. Nobody in any condition to row it in the dark.
+
+Wolfram had suggested they shelter in the crypt.
+
+"No," said Virgil.
+
+"Hard no," said Luthien.
+
+"It's out of the wind."
+
+"It's full of the men we killed this afternoon," Luthien said, "and those statues stood up once already, dude, and I would like to point out that nobody has actually explained what stopped them."
+
+So they built a fire on the sand instead, from wood gathered at the jungle's edge, and ate rations padded out with berries Virgil found and vouched for, and JonLief took the watch — sitting up through the whole of it, alert enough to be useful and still enough to call it rest.
+
+The morning came in clear and calm, which felt, after three nights of the sea trying to kill them, almost like an apology.
+
+They spread the dead man's map out on the sand. During the long crossing there had been little to do aboard the *Hreowan* but look at the captain's charts, and the coastline on this one was recognizable: the mainland opposite Dol. Towns marked and unlabeled. One location circled, and written beside it, *St. Pyotr.*
+
+"It's the only lead we have," JonLief said. "And the camp is months away on foot, assuming any of us could find it, which I don't believe any of us could."
+
+Wolfram was still turning it over. "Our orders were to find out what happened here and stop it. What's happening isn't finished — it's on a ship going that way." He tapped the coast. "Following it isn't leaving the mission. It's the mission."
+
+Nobody argued. They took one of the boats the cultists had left drawn up on the sand, and rowed for the mainland.
+
+### II.
+
+They landed on a rocky beach and found the road within the hour, running east exactly where the map said it should. The map also promised a village along the way.
+
+The village noticed them first.
+
+A halfling working a field on the outskirts straightened up, saw four armed, salt-stained strangers on the road, dropped his hoe, and ran, shouting in a high voice all the way to the gate.
+
+"*Invaders!*"
+
+"Secure your weapons," JonLief said. "Try to look friendly. We don't need more trouble, and these people may know something useful."
+
+"Or they could be the cultists," Virgil said.
+
+They were met at the entrance by an older halfling with a pitchfork and a face like a slammed door, flanked by a second, younger halfling with bright red hair. Both were green. Not tinted. Not sallow. Green, the way a healthy cabbage leaf is green, all over.
+
+The old man was already mid-argument before anyone had said a word, and he was aiming it entirely at Virgil.
+
+"I told your people I hadn't made up my mind yet and needed more time. That was three days ago! Keep pushing me and there's no chance I'll ever make a deal with the likes of you." He jabbed the pitchfork. "Now be on your way before I run you off my lands."
+
+"I don't know what you're talking about," Virgil said.
+
+"Three days ago I told that other group from the Alchemical Order exactly what I'm telling you now. I have not decided whether I'm willing to sell you three wagons of my cabbages. Go back to your masters, and tell them if I see you again before harvest I'll burn the fields before they get a single leaf."
+
+"Ah. I see the confusion." Virgil spread his hands, which did not help, because his hands were what they were. "I am no longer part of the Alchemical Order. I was once a member, yes, but we no longer agree on certain core principles."
+
+That much was true, in the sense that a man convicted of blasphemy and sold into five hundred years of service could be said to have had a disagreement with his colleagues. Virgil had found the phrasing early and had been using it ever since. It cost him nothing, and it saved him the rest of the story.
+
+"Don't care. I don't trust you any more than I trusted them. My gran-poppy always said you can't trust the Order — meddling in things that aren't natural and always scheming." He turned his head. "Come on, Red. Let's run 'em off. We got a posse to organize."
+
+Both pitchforks came up and started forward.
+
+Wolfram stepped into them.
+
+He did it with his hands open and empty and raised, and he did it slowly, and he let the prongs come to within a foot of his thighs before he spoke. Over the heads of the two halflings he could see, at the center of the village, a church.
+
+"Gentlemen. There's no need for violence. We are not part of the Alchemical Order and we are not here to cause you harm. We are Penitents of the Church, on an important mission, and our pursuit of some heretics has led us here."
+
+Both men took a step back.
+
+"*Heretics?*" Red squeaked. "We ain't no heretics. We serve the Emperor, may he rise again!"
+
+"Easy, Red." The old man looked up at Wolfram for a long moment and lowered the pitchfork. "We got off on the wrong foot. My name's Ald. This village is called Ald's Star. We're an Emperor-fearing village and we pray for his return. You'll find no better servants of the Church on this entire coast."
+
+### III.
+
+"Little dude," said Luthien, "why are you green?"
+
+"Why aren't you?"
+
+"Sorry, little dude, I just never seen a green halfling before. Are you, like, half orc or something?"
+
+"*Half orc.* Half—" Ald went a shade of green that had not previously been in evidence. "I have never been so insulted. I am one hundred percent halfling. My poppy was a halfling. My gran-poppy was a halfling. My family has farmed this land for generations and every last one of them was a halfling."
+
+He stopped. He took a breath.
+
+"But I suppose we're the first green halflings you've ever seen. We're the only green halflings in the world, far as we know. Weren't always this way — started in my gran-poppy's time. He cultivated the special cabbages we grow. Most nutritious and delicious cabbage you have ever eaten. It's the main thing we eat and it's why we're all so healthy and strong." His chest came out. "What's even better is, if you eat it every day, you eventually turn this beautiful colour of green."
+
+"Fascinating," said Virgil, stepping forward with genuine interest. "What are you doing to make your cabbage so special?"
+
+Ald stepped back. "Nothing, really. Grow 'em same as every other village round here. Only difference is we grow from our own seed. Our strain was developed by my gran-poppy."
+
+"Is it magical?"
+
+"*Magic?* We've no magic users in this village. Hard to trust wizards and the like. We're simple, honest people. We grow cabbages the old-fashioned way — hard work and love of the land."
+
+Wolfram, who had been trying to get a question in for some time, finally landed it. "Why do you need a posse?"
+
+"A wolf. Rabid, we reckon. Been at our goats and sheep at night these last few weeks."
+
+"Rabid? That sounds dangerous."
+
+"Well. We don't *know* it's rabid, but we know there's something wrong with it. It's not just killing the animals and eating them. It's tearing them apart. Never seen anything like it." Some of the bluster went out of him. "My boy Bart usually handles predators. Good boy. Strong boy, raised on healthy cabbage. But this feels different, and I don't want him out hunting it alone."
+
+"How big is this wolf? Are you certain it's only one?"
+
+"Nobody's seen it. Only the remains. Could be more than one, I suppose, but there aren't many tracks, so I'm guessing one lone rabid wolf. Tracks are big, though."
+
+Wolfram drew himself up. "Then I offer my services. As you can see, I am an experienced warrior — back in my homeland I frequently hunted monsters that terrorized our farmsteads. And of course, as a representative of the Church, I would do this with no expectation of payment."
+
+Luthien's head came round fast enough to crack. "Uh — dude. *No payment?* You know, like, we have no money. Not a single copper."
+
+"You're a big one, and I'd surely appreciate the help. But I can't pay you. Sorry." Ald scratched at his jaw. "We bring in very little coin. We grow our cabbages and we eat most of 'em. The only income this village has is the cabbages and goats we sell to St. Pyotr's, and they stopped buying a couple of months back. Not sure how we're going to make ends meet now. Might have to sell to those slimy alchemists after all."
+
+"St. Pyotr's?" Wolfram said, and did not quite manage to keep it level. "What a fortunate coincidence. We are on our way to that church. Any information you can give us about it would be a great assistance — and full payment for my help slaying your wolf."
+
+"*Church?*" Ald laughed out loud. "That's no church, son. That's a loony bin."
+
+He turned toward the gate.
+
+"Supper's nearly ready. Eat with us while we talk about our wolf problem, and I'll tell you about St. Pyotr's."
+
+### IV.
+
+Supper was in the dining hall inside the church at the center of the village, which was the largest building for miles and, by the evidence, mostly used for eating. A couple of dozen light-green halflings filled it, some talking over the day's work in the fields, some carrying dishes.
+
+Everybody stopped when Ald came in with four armed strangers behind him.
+
+"This is Wolfram, JonLief, Luthien, and — uh — Virgil. They're Penitents from the Church, passing through on important business. They'll dine with us and get some much-needed rest." He raised his voice. "And they've arrived at our time of need. This big fellow is going to help us with the wolf. The Emperor provided. May he rise again!"
+
+"*May he rise again,*" answered the room, out of pure ingrained habit, and then went back to what it had been doing.
+
+Virgil watched them go back to it. "I don't trust them."
+
+"I sense they're good people," Wolfram said. "You're still bristling over the misunderstanding at the gate."
+
+"We'll see. I'm going to investigate. Get their attention while I slip out. I'll transform into a spider and find out what they're hiding."
+
+"I want nothing to do with this," Wolfram said, and walked off.
+
+"Agreed," said JonLief, and followed him.
+
+Luthien was already unslinging the guitar. "Mushroom dude, I'll help. It's been a while since I had an audience."
+
+He walked to the front of the room and started playing without saying a word.
+
+They had never heard anything like it. His playing was lively and exact at the same time, and his voice carried the length of the hall, and the room stopped in place within eight bars. The first song was a traditional folk tune about the satisfaction of a good harvest, which was, for this audience, roughly the equivalent of a love song about their own children. When it ended they erupted.
+
+It was better than he had any right to play it, and he knew it while he was doing it. Ornaments turned up under his fingers before he reached for them. There was a run in the third verse he had never played in his life and it came out clean.
+
+Virgil slipped out under cover of the applause and became something with eight legs.
+
+Elated, riding the room, Luthien went straight into one of his own — a fast piece that had been an enormous hit in the taverns.
+
+The tune was catchy. It took the hall about forty seconds to catch up with the words.
+
+The song was called "The Nuns of Nantucket," and it could reasonably be used to define the word *sacrilegious.*
+
+Ald arrived at the front of the room at a speed remarkable in a man of his years, took Luthien by the arm, and began steering him bodily off the stage while announcing at volume: "Thank you, Luthien! Wonderful performance. *Wonderful.* Please give him a round of applause. Dinner is ready!"
+
+Off to the side, out of the room's hearing, the volume changed.
+
+"We are an Emperor-fearing village. I have never heard anything so disrespectful in my life. How can you possibly be a representative of the Church?"
+
+"I don't represent the Church, little dude." The easy good humour was gone out of him entirely, and what was underneath it was not funny at all. "I *serve* the Church. Not by choice. The Church has never done anything for me but cause pain."
+
+JonLief was there before the next sentence could be. "I apologize, Ald. Luthien is a renowned musician, very popular in the great cities, where piety is not valued so highly as it is here. You have my apologies, and I hope you'll accept them."
+
+"Backwards pumpkin bumpkins," Luthien muttered as he was ushered away. "I should wrap this guitar around your—"
+
+Virgil came back in, on two legs, sometime later.
+
+His search had turned up nothing. No cellar, no cache, no shrine, no ledger. It was a farming village. It was, as far as eight legs and an hour could establish, nothing else at all.
+
+Supper was cabbage with a little spiced goat. Everybody except Virgil ate it, and it was shockingly good in the way that only very plain food cooked by people who have made it ten thousand times can be. It was easy to see how a man could work a field all day on it.
+
+### V.
+
+They went out after dark: the four Penitents, Red, Ald, and Ald's son Bart — a grown man in his late twenties who kept the peace in Ald's Star and did it fairly, and who spent the whole walk out checking the same three things on his gear in the same order.
+
+And Alice.
+
+"It absolutely will not," she had announced, when Ald listed the posse. "I am coming too. There will be no discussion, and not another word said on the matter."
+
+She was middle-aged, tall for a halfling and thin with it, and she had cooked and kept house for Ald since her husband died in the fields years back. The glare she delivered along with the statement made it clear that any objection would be a waste of everyone's evening.
+
+They settled in at the grazing field where the last sheep had been taken and waited.
+
+An hour of nothing. Cold coming up out of the ground. Somebody's stomach making noise.
+
+Then, from the dark, a growl — low, and long, and much closer than any of them liked.
+
+The thing that came out of the night at them had four legs and the shape of a wolf, and it was bigger than the largest wolf anyone present had ever seen, and it was ruined. Flaps of skin hung off it. Blood seeped from open cuts that had never closed. Iron bars ran over its skull and along its ribs, visible in places and sunk into the meat in others, and iron spikes stood out where the bars anchored.
+
+It went straight past everyone else and hit Alice in the chest.
+
+Its paws put her on the ground and its jaws closed on her throat, and it pulled, and it did not let go, and by the time anyone had covered the ground between them her head was no longer attached to her body.
+
+Bart's shout tore across the field.
+
+They closed on it. It was far too late to help her, but the thing had to be stopped before it did that to anyone else. Bart and Wolfram reached it first.
+
+Which was exactly what the second one had been waiting for.
+
+It came out of the dark behind the group without a sound and took Red across the middle, lifted him clean off his feet in its jaws, and shook him the way a dog shakes a rat, until there was a spray of blood and everything else that had been inside him. It dropped what was left and turned toward JonLief, gurgling low in its throat.
+
+Ald made a noise that was not a word.
+
+The fight with the first beast went back and forth longer than it should have — the iron turned blows that ought to have finished it, and the thing did not seem to feel the ones that landed. Wolfram found the gap in the end, a hand's width of unarmoured flesh just above the shoulders, and put his sword into it and did not stop pushing until the blade reached the ground.
+
+The second turned on Luthien and Virgil. Luthien's rapier scored it twice and might as well have been a stick; the creature came through both thrusts and put him on his back in the dirt. From there, breathless and furious, he snapped out a working that locked it rigid in mid-stride — and held it there just long enough for Virgil to come in from the side and bring his staff down. The fungus along its head went up with a wet concussion, and the thing shuddered once and did not move again.
+
+### VI.
+
+They carried Alice and Red back through the dark. Virgil dragged one of the corpses behind him.
+
+Nobody spoke on the walk. Ald's hands had not stopped shaking since he had hauled Bart back from the second hound, and they did not stop for a long while after.
+
+Tears ran down his face when the lamps came up.
+
+"Red and Alice were good halflings. Salt of the earth and lovers of the Emperor." He wiped his face with the back of his wrist and did not manage much. "What *were* those things? Will there be more?"
+
+Wolfram gave him the truth, as flatly and as gently as he could manage both at once.
+
+"I could sense that they were not from this realm. They came from outside this world." He paused, because the next part was the part that mattered, and he wanted to be honest about the size of it. "I don't know whether more will come. But I am certain there are none in your immediate area. Now that I have encountered them, my senses are attuned to them, and I would feel their presence from a couple of miles off." He looked at Ald directly. "Even so — be safe. Don't go out after dark for a while. Don't travel alone."
+
+"Alone or in a group, my people stand no chance against a monster like that," Ald said. "If you and your friends hadn't been with us tonight, we'd all have died out there."
+
+Virgil came over with gore still drying on his hands.
+
+"I have examined the corpse I brought back. I can confirm it is not of this world. The physiology is unlike anything I have ever seen or read about." He wiped his palms on his cloak, which did nothing. "No natural creature grows around iron. Somebody put that there while it was alive. I have burned the remains in the firepit out back."
+
+Ald nodded slowly, and then said, "It's late, and tomorrow's a long day. I have to tell this village what happened tonight and start the ceremonies for the dead. Stay in Red's house. There'll be food in his pantry if you're hungry."
+
+Red's house was a small, tidy, one-room place belonging to a man they had watched die about two hours earlier. Nobody was hungry. There were six sealed jars of pickled cabbage in the kitchen, and after a short conversation that nobody enjoyed having, they took all six, because they had no coin and no supplies and there was nobody left to ask.
+
+They carried those jars a long way afterward, and none of them ever quite stopped noticing them.
+
+### VII.
+
+The village buried Alice and Red the next morning under a sky the colour of wet slate, and the four Penitents stood through it with the rest of Ald's Star. It made for a strange introduction to a community — over two open graves rather than across a dinner table — but by the end of the morning they had met nearly all of it, which was possible in a place this size.
+
+William, who kept the horses and the oxen and the sheep, stood at the back with his cap in both hands and did not say anything to anyone. Walter and Edith wept quietly together, holding hands, and their daughter Matilda, who was seven and had not yet worked out what any of this meant, talked continuously to whoever would let her.
+
+She found Luthien at the wake and pulled on his sleeve.
+
+"Is it dead?"
+
+"Yeah," he said. "It's dead."
+
+"Both of them?"
+
+"Both of them."
+
+"Do they come back? In the stories they come back."
+
+Luthien had a joke ready. He usually did. He looked at her for a second and put it away, and then he crouched down so that his face was level with hers and said it again properly.
+
+"Not this time. They're dead, and I watched it happen, and they're not coming back. You're safe."
+
+She thought about that, decided it was acceptable, and went to tell somebody else.
+
+Ald kept his word before they left, despite everything the previous day had cost him. He told them what little he knew of St. Pyotr's — repeating, twice, that it was no church — and added something he had not thought worth mentioning the day before: that the place had stopped buying his goats and grain a couple of months back, that he'd tried to talk to somebody about it, and that he had been stonewalled every time. Nobody in charge would see him. Nobody in charge would even come to the door.
+
+Then he pointed them down the road and shook each of their hands at the gate, and held on a moment longer than courtesy required.
+
+---
+
+## Chapter Four: The Fog Over St. Pyotr's
+
+### I.
+
+They saw it long before they reached it.
+
+A knot of black cloud sat low over a distant roofline, and tendrils of fog came down out of it toward the building — reaching, testing, moving in a way that had nothing to do with the wind, because there was a wind, and it was not touching them.
+
+Someone sent a bird ahead to scout: a small conjured thing, sent up and out over the trees. It flew into the haze and stopped being alive. There was no struggle and no sound. It simply dropped, the way something drops when it is switched off.
+
+"Well," Luthien said. "That's not encouraging."
+
+"No," Wolfram agreed, tightening his shield strap. "It isn't."
+
+### II.
+
+The front doors were unlocked. Nobody answered the knock, and nobody had for some time.
+
+Inside, the vestibule smelled of old wood and incense, and under that, faintly, of rot. Tapestries and paintings of long-dead saints and monks lined the walls, and in the center of the room stood a life-sized bronze of a man in religious garb, with a placard at the base:
+
+*In dedication to Saint Pyotr, healer of madness and consecrator of the wretched.*
+
+Luthien put a shoulder into it on the way past, for no better reason than an instinctive dislike of anything that pleased with itself in a building this wrong. It did not move a hair's breadth. He filed the attempt away next to the armory, as further evidence that not every lesson needed learning twice before he stopped trying it.
+
+The hall beyond was dark and lit only by small windows, and their footsteps came back at them off the stone. Somewhere ahead of them, briefly, something whimpered, and then stopped.
+
+There were voices in the garden.
+
+They were unhurried voices. Nobody in that garden expected company. The party made the decision in a look, and went through the door.
+
+What followed was less an assault than a traffic accident — all four of them trying to force the same doorway at the same moment, elbows and blades tangling, Wolfram getting a javelin caught on the frame. It worked anyway, the way desperate things sometimes do.
+
+And then Wolfram saw the fourth thing in the garden, and his blood went cold.
+
+It came off a flowerbed at a dead run with iron bars sunk into its skull.
+
+It was the same. Not similar. The *same* — same mutilations, same spikes, same wrong gait — as the pair that had killed Alice and Red in a field two days up the road, at the exact place Ald said had stopped answering his letters.
+
+They killed it with the cultists, and stood there afterward breathing hard, and none of them had to say the thing out loud, because all four of them had already arrived at it.
+
+Whatever those hounds were, they came from here.
+
+In the corner of the garden, half under dead ivy, there was a trapdoor: a metal grate about two feet square set into the ground at the edge of the building, with a lock on it and a straight drop underneath. There was no ladder and no stair. There was no way to see how deep it went.
+
+There was, coming up out of it, a smell of rotting meat strong enough to make Luthien step back.
+
+They tried the lock with everything they had, which was not much. It held.
+
+They moved on. It stayed locked.
+
+### III.
+
+The dining room stopped them in the doorway.
+
+A long table, fully set. Plates, cutlery, cups. Food still on the plates, desiccated and furred over with mould. Rats went off the tabletop in every direction as the door opened and vanished into the corners.
+
+Virgil looked at the state of the rot for a while. "Two months," he said. "Perhaps three." He looked down the length of the table at all the places, laid and never cleared. "Whatever happened here happened between one meal and the next."
+
+The kitchen was worse.
+
+Pots and pans and utensils were strewn across the tables and the floor, and a table's worth of flour had gone green. Blood was spattered up the walls.
+
+Behind the table lay a heavy-set man in a priest's working robes. Deep slashes crossed his body; the one across his throat had done the job. In his rigid hand was a knife, crusted black.
+
+His stomach was distended, and it was moving.
+
+It burst while they were standing there, in a spray of old gore, and half a dozen rats came out of him and ran for the dark.
+
+Nobody in the party said anything for a moment. Nobody was quite sick, either, which was its own small unpleasant milestone.
+
+"He fought," JonLief said, eventually, looking at the knife. "Somebody came into his kitchen and he picked up the only thing he had."
+
+They did not linger.
+
+The library, further in, had been ransacked — books off the shelves, furniture over, blood on the boards, all the signs of a fight that somebody had lost among the stacks. Almost nothing in it was worth carrying. Almost.
+
+One volume came out of the wreckage intact: ***Myths of the Old Gods***.
+
+JonLief put it in his pack.
+
+In the weeks that followed, through everything that followed, nobody opened it.
+
+### IV.
+
+The south tower was seventy feet of empty air with a bell at the top of it, and the wooden stairway that had once gone up had collapsed years ago into a heap of rubble on the floor.
+
+They were still looking up at it, working out whether there was any way to climb, when they heard voices above.
+
+They got behind the rubble fast, all four of them, without needing to be told.
+
+Two cultists dragged a man in priest's robes to the edge of the upper platform. He was begging. It carried down the shaft of the tower very clearly — the specific pitch of a man who has understood exactly what is about to happen to him and is still asking anyway.
+
+One of them put a noose over his head and made the other end fast to the crossbeam of the bell.
+
+The other drew a dagger and opened his belly, and then kicked him off the ledge.
+
+The rope caught. Everything the dagger had freed came down out of him and struck the floor of the tower in and around the pile of rubble the party were hiding behind. He was still alive for a while after that. His body kicked, and the rope jerked, and the bell above rang in a series of short flat clangs, once, twice, four times, until he stopped.
+
+When they looked up, the cultists had gone.
+
+Nobody said anything on the way out of the tower. Luthien's hands did not steady for a good while, and nobody made him talk about it.
+
+### V.
+
+The upper corridor was dim and lined with cell doors, and every one of them stood open except one.
+
+Behind it, a man had been shouting for a long time. Long enough to have gone hoarse, so that what came through the door was less a shout than the wreck of one.
+
+*"Please! Please open the door. Let me out! Please—"*
+
+They found the grate and looked in.
+
+He was filthy, and he was covered in blood and gore that was not all his, and the wounds on him were of varying ages, from days old to hours. Behind him, chained to the wall, was the body of a woman. What had been done to her was extensive enough that it was difficult, at a glance, to be certain of what she had been.
+
+He saw them looking and his face changed. It went from desperate to *eager*.
+
+Not one of them could have said precisely what it was. Wolfram felt it, the same cold that had come off the tomb on Dol. Virgil, who trusted evidence over instinct on principle, looked at the fresh wounds on the man and then at the old ones on the woman and did arithmetic he did not enjoy the result of.
+
+They left him where he was.
+
+He was still going when they turned the corner, and the register of it had changed by then — less begging, more insistence — and they kept walking.
+
+None of them has entirely stopped wondering.
+
+### VI.
+
+The torture chamber cost one guard his life in a short and ugly fight among instruments designed for taking considerably longer over the same job.
+
+The second guard, Luthien charmed. He was very pleasant about it. He walked back into the chamber when he was asked to, chatting amiably the whole way, and the party shut the door behind him and locked it and left him in there to think it over when the magic wore off.
+
+Among the clutter was a heap of bottles, most empty, a few not. Potions of healing, and a great many of them, which raised a question none of them wanted to follow to its conclusion: what does a place like this need with this much healing.
+
+Then they found the woman, and had the answer.
+
+She was alive. She was covered in scars of every age, layered over one another, and she had been here for weeks — taken to the edge of dying and then healed back from it, and taken there again. She was curled in the corner of the room, and she was babbling, and every so often she screamed something that was not words.
+
+*"No more. No more. I beg you. Let me die."*
+
+They cut her loose. They healed what could be healed, and watched the flesh close under their hands while she stared past all of them at nothing.
+
+What they could not fix was the rest of it. She flinched from kindness exactly as hard as she flinched from anything else, as though she could no longer tell the difference. She could not walk unassisted. She could not be reasoned with, or reassured, or asked her name.
+
+They argued it in low voices in the corner of the room while she rocked against the wall a few feet away, unaware of or indifferent to the fact that they were deciding what happened to her.
+
+Carrying her meant carrying her through the rest of this building. It meant one of them, probably two, unable to fight. It meant her in the middle of whatever was making the fog.
+
+In the end they took her down the corridor to an empty cell, put her inside, left the door unlocked, and stacked what rations they could spare within reach of her hands.
+
+Then they went back to work.
+
+Every one of them carried that out of the building. Not one of them has entirely put it down.
+
+### VII.
+
+Father Ignatius was in his own office, nailed to the wall.
+
+It had not been done to kill him. It had been done afterward, and arranged, by someone who wanted the body found precisely like that, arms out.
+
+His journal lay open on the table.
+
+Most of it was dull — patients in and out, logistics, budgets, the ordinary grinding paperwork of running a place like this. Then the treatments began to appear. Early on they were harsh in a way the man clearly considered ordinary: food withheld, water withheld, sleep withheld, whipping to *encourage sane behaviour.*
+
+Then, page by page and year by year, they got worse.
+
+Somewhere in the middle of the volume he arrived at the belief that the insane are not ill but *infested* — that something from another realm gets into them and wears them, and that it can be driven out. Everything after that follows from it with a horrible logic. If pain drives it out, then more pain drives it out faster. By the last quarter of the book he was using devices, and describing them by name, and recording their effects with the same bookkeeper's neutrality he had once used for grain deliveries.
+
+The handwriting came apart as the entries went on. You could watch him going.
+
+Near the end he wrote that he could feel the barrier between this realm and the other one — feel it, with his hands, thinning under him. And that if he could thin it far enough, then when he drove the spirits out of his patients they would have somewhere to go.
+
+The last pages are barely legible. The intent in them is perfectly clear.
+
+There was a ring of keys on his body. JonLief unclipped it. It was very cold.
+
+### VIII.
+
+The chapel held the worst of it.
+
+The mist in there was thicker than anything in the rest of the building, about the consistency of a heavy morning fog, and it was sour, and it burned to breathe. It took something out of you just to stand in it. They went in with sleeves over their faces.
+
+The room was large, and lit — torches burning in brackets along both walls, which meant somebody was tending them. Empty pews filled most of the length of it. At the front stood a stone altar, and on the altar lay a bound figure with open wounds, and from the doorway there was no way to tell whether they were alive.
+
+Beside the altar stood a ring of stone about three feet across, standing three feet off the floor. Nothing supported it. Black particles poured slowly out of the circle it enclosed, and that was where all the fog in the building was coming from. From where the party stood, it was impossible to see what was on the other side of the ring.
+
+Behind the altar stood a very tall, very pale man in an ornate headdress, chanting low and guttural. He did not react to the door opening. He did not react to anything.
+
+Five men in dark robes turned and came up the aisle, and the one at the front stopped and raised a hand, and addressed them.
+
+"How dare you interrupt."
+
+He looked them over, and something like amusement crossed his face.
+
+"I can smell the stink of Saraswati on you. Are you here for revenge? Upset she was outplayed by Adephagia?" He laughed. "Fools. You know nothing of the Old Gods."
+
+He came another step down the aisle.
+
+"But don't worry. Brudda Death will tutor you. Books will be written on the suffering you will experience."
+
+None of them had ever heard that name before.
+
+All of them have heard it since.
+
+The fight was the hardest they had had. It happened in the fog, in the pews, at close quarters, and it went badly early: a blade came past JonLief's guard in the first thirty seconds and went in deep, and he went down onto the flagstones and stayed there, and the blood spread out from underneath him faster than it had any right to.
+
+He was conscious for the first part of it. Then he was not, and for a stretch of time afterward the only thing keeping him in the world was chance, once every few seconds, and the fact that Wolfram and Luthien had put themselves between him and the aisle and were not moving.
+
+Virgil got him behind a fallen pew. Virgil got him breathing.
+
+Wolfram would admit, weeks later and quietly, that he had believed in that moment they were going to lose him — on that floor, in that building, a third of the way into the job.
+
+They didn't.
+
+The party broke the ritual before it finished. They hit the herald hard enough that he went back into the altar, and hard enough that any reasonable accounting of the wounds on him said he should have stayed there. He found something anyway. He came up off the stone and went out through the back of the chapel, and by the time anyone could close the distance he was into the fog and gone.
+
+The mist began to thin almost at once, with nothing left to sustain it. The black particles slowed and stopped. The stone ring stood there afterward, quiet and grey and perfectly ordinary, three feet off the floor and holding nothing.
+
+They did not speak much on the walk out.
+
+There was not much left to say that the building had not already said for them.
+
+---
+
+## Chapter Five: The Calf & Ass
+
+### I.
+
+They walked for a month after St. Pyotr's.
+
+That is the part that does not make a chapter. They came out of the sanitorium with a dead caretaker's keys, a book nobody opened, and no lead whatsoever — the map had brought them to St. Pyotr's and had nothing to say about anywhere else — and so they walked, east mostly, on the theory that a road goes somewhere. They worked when there was work. They slept out when there wasn't. They asked directions to Vozruk's camp from people who had never heard of it, and directions to anywhere at all from people who named villages that were not on the map.
+
+By the end of it they had stopped talking much during the day. Six jars of pickled cabbage had come a very long way and had still not been opened.
+
+Then the road widened, and there were wheel ruts in it, and there was an inn.
+
+It was the first building they had seen in weeks that did not appear to want them dead. Warm light in the windows, a muddy yard, a painted sign hanging over the door showing a calf and a donkey standing companionably together in a field.
+
+Luthien had a deal struck with the innkeeper before his boots were dry: a night's music in the common room for food and beds, all four of them. He delivered the offer with a charm that suggested he had recovered completely from St. Pyotr's, which he had not, and which nobody called him on.
+
+It would turn out to be a considerably more consequential arrangement than a meal usually is.
+
+The common room was busy and worth watching.
+
+A table of merchants sat near the far wall doing business over open ledgers, unhurried and unbothered, and it took the party a minute to work out what the business was. Then it took another minute to work out the shape of it, which was worse. They dealt only with human buyers. They dealt only in stock that was not human: non-humans, and half-humans, itemized by category the way you would itemize livestock.
+
+Three of the four people at the party's table qualified.
+
+Nobody said anything. Wolfram's jaw stayed tight every time his eyes went that direction; JonLief noticed that, and said nothing about that either.
+
+Nearer to them sat Master Thaddeus and his wife Marion, and it took a second look to understand what the Order robes were draped over.
+
+Thaddeus ended at the waist. Below it he was a single long, ringed, boneless length of grey-green flesh, thick as a man's thigh where it joined him and tapering away to nothing, and it was wound twice around Marion's shoulders and torso on the outside of her clothing. At a glance, from across a room, he looked like an enormous worm wearing the top half of a scholar.
+
+He rode her. She carried him. She was a tall, stout woman who moved for both of them, and neither of them made anything whatsoever of the arrangement, which had clearly stopped being remarkable to either of them a very long time ago.
+
+They were waiting on a boat that had not come in, and were tired about it in the specific way of people who have been in an inn all day for no reason.
+
+Virgil asked, of course. Virgil generally did.
+
+Thaddeus's answer came out smooth and rueful and complete: a vanity experiment, badly judged, gone wrong. A small self-deprecating laugh at the end of it. He told it the way a man tells a story he has told two hundred times in two hundred inns, and it would be some while before any of them found out it was a lie.
+
+Marion said nothing at all. Marion, as it turned out, could not.
+
+Across the room, Lady Ysabel Rochefort held a small and anxious court: a champion, Ulfric Dreadmarsh, broad and quiet in the way of men who do not need to talk; a lawyer working through documents by candlelight and rubbing his eyes; a personal assistant hovering; four guards arranged around the table with unobtrusive care.
+
+The whole inn knew her business and discussed it in careful undertones whenever she looked away. Her own uncle, Lord Leofard Ironwake, had accused her of poisoning her niece. She had no way to prove otherwise. So she had called for trial by combat, and Ulfric would stand in her place for it in two days' time, in Solteres.
+
+### II.
+
+The evening's chaos arrived on schedule, and nobody in the room recognized it as anything but chaos.
+
+Baron Emeric Blackholt came through the front door with two men, went straight up the stairs, and came back down with a young man in commoner's clothes who was travelling under the name Godric and who turned out, in the shouting, to be Baron Corvin Ashwinter — a man with a title and almost nothing else. One of Emeric's men threw him down the last six steps.
+
+The woman on the landing was Lady Marguerite de Valpreux, daughter of Lord Alwith de Valpreux, and she was betrothed to Emeric — a rushed match, arranged out of nowhere a few weeks earlier between a woman in her early twenties and a man in his mid-forties, which was the talk of every barmaid in the building and had been all evening.
+
+She came down the stairs after Corvin and put herself bodily between him and the thug, sobbing.
+
+"*You said you would not hurt him!*"
+
+The room went up. Chairs went over. Half the common room joined in on principle.
+
+The party watched it happen and stayed exactly where they were, and it would look, afterward, like a considerably more consequential decision than it felt like at the time. Luthien did not miss a chord. He rode the noise into a louder verse and got a laugh out of people who were still watching the fight behind him.
+
+He was, again, better than he should have been. The songs were arriving fully assembled. Somewhere well down underneath the noise and the ale, some small part of him wondered where exactly they were coming from, if not out of him. It was easy to ignore. He ignored it.
+
+The brawl burnt itself out. Emeric's party went one way and Corvin and Marguerite went another and the room settled back into its murmur, drinks refilled, everybody delighted with the evening's entertainment.
+
+It was some while after that that somebody went looking for Ulfric — his watch should have ended and hadn't — and found him upstairs in his room, dead, with a knife in his chest.
+
+Every member of the party recognized it the moment they were brought up to look at the scene.
+
+It was Luthien's. Lifted off his belt at some point during the evening without him ever feeling the weight change.
+
+### III.
+
+The accusation landed before the body was cold. One of Ysabel's guards got a fist in Luthien's collar and lifted.
+
+It did not hold up for long.
+
+Half the common room had spent the entire relevant stretch of the evening watching him play, and a fair proportion of it had been singing along. There is no better alibi in the world than forty witnesses who were looking directly at you and enjoying themselves.
+
+Sheriff Eastwood arrived from wherever he had been having a quiet evening, took one look at the room, and started working it methodically from the outside in. He had the answer inside the hour.
+
+A barmaid, questioned on her own, broke and admitted she had put a sleeping tonic in Ulfric's drink earlier in the evening for somebody else's coin — and that she was the one who had lifted the knife off the skinny musician, in the same pass through a crowded room, because she'd been told to make sure one turned up.
+
+And behind all of it, steering from a comfortable distance, was Baron Emeric Blackholt, whose public humiliation on the stairs had bought the killer his window. Why a man would go to that trouble to murder a stranger's champion, Eastwood could not say, and neither could Emeric, who declined to explain it to anybody.
+
+He was in custody before midnight, still protesting to a room that had stopped believing him some time earlier.
+
+What became of him afterward, or of the barmaid, or of Corvin and Marguerite, the party never learned. Some doors close behind you whether or not you have finished asking what is on the other side.
+
+### IV.
+
+While the inn sat under quiet lockdown waiting for Eastwood to finish, an old man walked in and sat down at the party's table.
+
+He was very old. His coat was dusty from the road. He sat without being invited, in the manner of a man arriving somewhere he was expected.
+
+He thanked them, quietly and specifically, for stopping the summoning at St. Pyotr's.
+
+They had told nobody. There had been nobody to tell. The sanitorium was a month and a great many miles behind them, and no word could have outrun them on that road.
+
+He did not explain. He did not give a name. He did not appear to think any of this required comment, which was one of several things about him that the party only fully registered afterward.
+
+The other thing was this: in a crowded, tense, locked-down common room, where every single person present was watching every single other person present, not one head turned toward their table the whole time he sat there. Guards walked around him. A barmaid collected the glasses off their table and did not put one down in front of him and did not appear to have decided not to.
+
+"Keep at it," he said, in the end, getting up. He put one hand briefly on the worn edge of the table. "You've done more good than you know. More than most manage in far longer lives than yours."
+
+By the time any of them thought to ask his name, he was gone. Not through the door, as far as any of them could later agree.
+
+Just gone, the way a held breath is gone.
+
+### V.
+
+The next morning brought a decision that felt considerably smaller than it was going to turn out to be.
+
+Over breakfast, with Eastwood's investigation closed and the inn's ordinary business resuming around them, the party agreed to escort Lady Ysabel the rest of the way to Solteres. She asked with the careful, measured gratitude of a woman who has recently discovered how few of her friends are friends. Her champion was dead, her trial was in days, and she had four servants with short swords and no training between them.
+
+The arrangement suited both sides. She got protection. The party got carts, horses, food, and — for the first time since a beach on Dol Island — somebody who knew where the road went.
+
+Master Thaddeus and Marion fell in with them for the first stretch. Their own boat had never arrived, but word had reached them of a colleague coming overland with a cart of something worth seeing, and they meant to meet him on the road in a few days and then turn back for Haleyon.
+
+Thaddeus rode Marion's shoulders. Marion walked for both of them, silent and watchful, in the particular way of someone who has learned to say everything that matters without opening her mouth.
+
+---
+
+## Chapter Six: The Swine and the Seeds
+
+### I.
+
+The question came up on the second evening, at the fire, and it came from Ysabel herself.
+
+She did not dress it up. She had watched four Penitents walk into an inn full of armed men and had heard what the sheriff said about what they had come off the road from, and she had a trial by combat in a few days and nobody to fight it.
+
+"One of you," she said. "Any of you. Name what you want."
+
+Wolfram said no first, and gave a reason: they were under standing orders and had no authority to take a private commission.
+
+JonLief said no more gently and with less explanation.
+
+Virgil declined on the grounds that he would lose.
+
+Luthien said no and made a joke about it, and then, when she did not laugh, said no again without the joke.
+
+She asked twice more over the following days, in different words, at different hours. She got the same answer every time. She took it each time with the same composure, which somehow made it worse.
+
+### II.
+
+A few nights in, with the fire burned low and Marion asleep against her husband's coil, Thaddeus told Virgil the truth.
+
+"That story I gave you at the inn," he said, watching the coals rather than Virgil's face. "About vanity. That was a lie. I have told it so many times I very nearly believe it some evenings." He poked at the fire. "The whole thing is humiliating. I never meant for any of it to happen."
+
+"Then tell me what did."
+
+"I come from a long line of alchemists. My mother was one. She died when I was nine — of a disease nobody could name, though I have my own opinion about which of her own experiments gave it to her." He turned the stick over. "I have spent my entire adult life looking for a way to keep that from happening to anybody else. Enhancing the body's own capacity to resist disease. It led me, eventually and improbably, to giant squid."
+
+Virgil's head came up.
+
+"They live a thousand years, some of them. They do not appear to sicken at all. I set out to extract the essence of that biology and give it to a human being." He almost smiled. "It went well. That was the trouble. It went well enough that I became a rising star, and it was around then that I met Marion."
+
+"Whose work was telepathy."
+
+"You've heard of her?"
+
+"No. But she is currently asleep and I can still tell she disapproves of this conversation."
+
+Thaddeus made a low sound that was probably a laugh. "She believed every creature has the innate capacity for it and that it needs only a chemical key. We shared a lab. We married. And then we merged the work, because she theorized that squid communicate mind to mind — and if I could put squid into a man, perhaps I could put it into two, and they might speak."
+
+"You tested it on yourselves."
+
+"I tested it on myself. She insisted on being included, and I was arrogant enough — proud enough of my own cleverness — to allow it." He gestured down the length of himself, without much drama. "We got the telepathy. It works beautifully. It is better than speech. And she cannot speak at all anymore, because her mouth and throat are no longer built for it; they are built like a squid's beak. And I got this."
+
+"A tentacle."
+
+"A tentacle. Everyone assumes worm. I have stopped correcting them; it takes longer than it's worth and the distinction comforts nobody." He was quiet a moment. "We did not stop anyone dying young, which was the entire point. We got each other, changed, and a great deal of explaining to do for the rest of our lives. We have made our peace with it. Most days."
+
+He told Virgil the rest of it once the fire had burned lower and the night had gone properly cold.
+
+A farming village called Underwood, a day's ride outside Haleyon, in the Ambrosian Fields. Good land. Prosperous. And two years ago some of the farmers began to develop green patches on their skin.
+
+The patches did not hurt. Then they thickened into nodules like moles, which also did not hurt. Then, about a year in, the nodules grew into spore-pods — real pods, the kind you would see on a plant — which swell, and open, and burst.
+
+"That was when they started writing letters," Thaddeus said. "The Church refused. Everything is going north; there is a war on, apparently, and no one available. What the Church did send was a quarantine order, which it has never once enforced — and it does not need to, because nobody in Underwood wants to leave."
+
+"Why not?"
+
+"Because that is the other half of it. The further it advances, the less the infected care about anything. They stop being frightened. They become protective of the pods. They become — I want to be precise, because I do not have a better word — *addicted* to eating the fruit of them." He was silent for a moment. "A few have died now. When it takes the whole body, they go out to a field, and lie down in the dirt, and become part of the land."
+
+Virgil had stopped moving some while ago.
+
+"The village offered payment. The Order sent us, because we have some experience with transformation." Thaddeus glanced up. "Animals, in our case. But biology is biology."
+
+"And Willowbread?"
+
+"Found something like it growing much further east, in plants. He is bringing me his samples and his notes." He put the stick down. "Which brings me to the thing I have been working up to for three nights."
+
+"I know."
+
+"Come with me. Help me understand it properly. You have a mind for this — I could tell inside ten minutes of talking to you, and I have been at this a long time." He did not quite meet Virgil's eyes. "And the Order would take you back for it. I could see to that much. A word from me on a piece of work like this would carry."
+
+Virgil sat with it longer than he expected to.
+
+It would have meant something. Not the laboratory — the rest of it. Walking back through those doors with his name on a paper somebody had signed, instead of on a list. Being *believed* again, rather than tolerated at a distance and reported on quietly by people who smiled at him in corridors. He had been right. He had always been right. Somebody with standing saying so out loud would have been worth a great deal.
+
+The moment passed, and what was on the other side of it was simpler than he had expected.
+
+"I have orders of my own," he said. "And I have three people I've apparently decided to stand with, for reasons I am still working out." He turned a piece of bark over between two fingers. "I appreciate the offer, Thaddeus. More than it probably deserves, given how briefly we've known each other. But no."
+
+Thaddeus nodded, unsurprised, and did not push. Some questions, once answered plainly, do not need asking twice.
+
+### III.
+
+The road answered that conversation the following day.
+
+They heard the screaming before they came round the bend: a wagon under attack, and a band of Porcine beastmen going through its cargo and its guards with the particular frenzy of animals that have been made into something worse than animals.
+
+Ysabel's four servants drew their short swords and closed around her in a rough square. Thaddeus and Marion got behind them.
+
+Luthien had a bottle of lamp oil out and thrown before anyone else had finished drawing, and it burst across two of the raiders in a spreading slick — and then the fire came, and caught it, and went up the line of them.
+
+The whole engagement collapsed inside a minute. Beastmen came apart, or fled burning into the trees, and what should have been a hard grinding fight was over almost before the party had properly organized itself.
+
+Almost.
+
+Three of them broke clean through the line in the confusion, driven half mad by the fire at their backs, and went for the group behind it — and reached Marion, who has no combat training of any kind, and who was carrying her husband on her shoulders and could not have run if she had wanted to.
+
+Thaddeus could do nothing but brace and shout a warning that had no words left in it.
+
+By the time Wolfram cut his way through to them, she was on the ground and not moving, and the ground under her was wet.
+
+### IV.
+
+They got her breathing again. It took everything the four of them had between them, and for a stretch of several minutes it was genuinely uncertain.
+
+Thaddeus said nothing at all while they worked. He simply held on to her, which was, given the shape of him, the only thing he could do.
+
+The wagon turned out to be Willowbread's.
+
+He was still alive when they reached him, in the sense that the word technically applied. His gut had been opened and partly eaten and there was nothing in any of their packs that was going to change how the next few minutes went. Thaddeus went down into the mud beside him and took his hand.
+
+"East," Willowbread said. He got a fist into Thaddeus's sleeve and it clearly cost him everything he had left. He gave the location as precisely as he could manage, which was not very, and made Thaddeus repeat it back. "There's a coven. Witches — tending them. Growing them like a garden."
+
+"Did you speak to them?"
+
+"No." His grip tightened. "No. We didn't fight them and we didn't talk to them. We ran a distraction, and we went into the field, and we took what we needed, and we got out." His breathing had gone shallow and fast. "That was the right call, Thaddeus. Whatever you're about to think of me. That was the right call."
+
+He did not say anything after that.
+
+The cart had held about a dozen pumpkins, mottled and strange-looking, and most of them had been trampled and rooted through in the fighting. Thaddeus salvaged what scraps he could with hands that were not entirely steady, and did it in silence.
+
+### V.
+
+Virgil took the salvage while there was still light.
+
+The fruit itself was unremarkable in every way he could test. It looked like a pumpkin. It smelled like a pumpkin. It tasted, he reported, like a slightly disappointing pumpkin. There was nothing in the flesh at all. It was genuinely difficult to see what Willowbread had thought he had found.
+
+Then Virgil got to the seeds.
+
+"It's here," he said. "All of it. Every trace of it, in the seed, and none anywhere else." He held one up between two fingers and turned it in the firelight. "And it is not one thing. It is three, braided. Enchantment. Necromancy. Transmutation."
+
+"Is that unusual?" Wolfram asked.
+
+"It is *unnatural*. Those three do not sit together. They have to be made to." He kept turning the seed. "A blight spreads through a plant. It does not sort itself into one organ and stay there. It does not organize itself by school, like a scholar's notes."
+
+He set the seed down carefully on a flat stone, and looked at it for a while longer than the moment required.
+
+"This isn't a disease. Someone built this. I don't know who, and I don't know what for. But they knew exactly what they were doing, and they were good at it."
+
+With Marion stable, and that on top of everything else he was already carrying, Thaddeus gathered his notes and his scraps and what was left of his composure, and turned back toward Underwood.
+
+They said their goodbyes with real warmth on both sides, and real regret. Marion's was silent, and landed harder for it. The party watched them go with the specific ache of people parting from allies they had not expected to like this much after four days on a hard road.
+
+### VI.
+
+The road went quiet after that, and stayed quiet for two weeks.
+
+It was the first genuine stretch of nothing since the branding, and it gave them time to take proper stock of what they had picked up along the way and never had a spare hour to look at.
+
+An amulet with one charge left, which goes one place only — a ring of runes cut into the floor of a crypt on an island none of them has any reason to go back to.
+
+A book called *Myths of the Old Gods*, which has been in the bottom of JonLief's pack since St. Pyotr's, and which nobody has opened.
+
+A map that got them to a sanitorium, and which nobody has looked at since to see whether there is anything else on it.
+
+A ring of keys off a dead man's belt, most of which open doors they have not found.
+
+A guitar of bone that nobody ever asked the provenance of, which Luthien has stopped offering to explain, and which he is now measurably better at playing than he was three months ago.
+
+A copper ball that either destroys the undead or destroys whoever throws it, depending entirely on a distance of about two feet.
+
+Two knitting spiders, both with Wolfram, both accounted for.
+
+And six jars of pickled cabbage taken out of a dead man's kitchen, which nobody has been willing to open, and which have somehow become a joke that none of them wants to be the one to end.
+
+One evening, with Solteres close enough that its smoke smudged the horizon at dusk, Luthien said the thing that had been sitting with all of them.
+
+"So what happens when we get there." He was tuning a string that did not need tuning. "We deliver the lady. Then what? Vozruk hasn't sent word in — what, two months? Three? Does anybody actually know where we're supposed to report? Or are we just going to keep walking until somebody tells us to stop?"
+
+Nobody had a good answer.
+
+JonLief turned it over for a while, the way he turned over most things, and eventually said that in his experience the answer would probably find them — badly, at the worst possible moment, and with considerably more blood involved than any of them would like.
+
+It was not much comfort.
+
+It was, at least, honest.
+
+Behind them sat an order to investigate Dol Island that has never once been rescinded. Ahead of them, two days out, was a city that sells people in the open, and a Church that has outlawed the practice and sent them walking straight toward it with no further instructions.
+
+And somewhere in between, mounting quietly by the week the way debts of every kind do, was everything four exhausted Penitents still had not had a spare moment to sit with.
+
+They were running out of road to keep putting it off on.
+
+---
+
+*This is where the road has gotten them so far. What they do next is still unwritten.*

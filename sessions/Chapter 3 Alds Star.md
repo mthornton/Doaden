@@ -224,3 +224,14 @@ Virgil approaches, gore still sticking to his hands.  "I just examined the corps
 The party goes to Red's house.  It is discomforting to be in the home of a man you just saw torn apart by a monster just a couple of hours ago.  You find sealed jars of pickled cabbage in the kitchen.  Nobody is hungry, but you decide to take the six jars.  After all, you have no money and little supplies. 
  
 The party beds down for the might. 
+# The Morning After (Session Notes)
+
+The village buried Alice and Red the next morning and held a wake. The party attended alongside the whole of Ald's Star.
+
+Because the community is small, this doubled as their introduction to nearly everyone in it: William (horses, oxen and sheep) stood at the back with his cap in his hands; Walter and Edith wept together; their daughter Matilda, seven and not yet clear on what any of it meant, talked to everybody. She cornered Luthien at the wake and asked whether the monster was really dead and whether it could come back the way monsters do in stories. Luthien dropped the joke he had ready, crouched to her level, and told her plainly that both of them were dead, that he had watched it happen, and that she was safe.
+
+Ald kept his side of the bargain before the party left. He told them what little he knew about St. Pyotr's, repeated that it was no church, and added the detail he had not thought worth mentioning the day before: **St. Pyotr's stopped buying the village's goats and grain a couple of months ago, and every attempt he has made to find out why has been stonewalled.** Nobody in charge will see him. Nobody in charge will come to the door.
+
+He then gave them directions and shook each of their hands at the gate.
+
+> **Note (Aug 2026):** the party met the cage hounds here, and met a third one in the St. Pyotr's garden in Ch4 — which they recognised. Between that and the village's cut-off trade, the party has everything they need to connect the sanitorium to the attacks on Ald's Star, whether or not they have said so out loud.

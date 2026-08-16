@@ -12,8 +12,8 @@
 
 | Night | Covers | In-game time | Curtain |
 |---|---|---|---|
-| **1 — The Road and the Wall** | Erwana at the campfire (pendant, ledger, Ysabel's grab) → the morning decision → approach → entry branch → the Whipping Post | Previous night → arrival, mid-afternoon | **They're inside, and something in the compound now knows it.** End before anyone important has been talked to. |
-| **2 — The Compound** | The Pens (JonLief's scene, Denrick, Anselm) → Deep Cages (Mott, Durgan, Prisoner X) → the Armory decision → the Hall and Cobb | Mid-afternoon → the hour before sundown | **Vaskar stands up and reaches for the door.** Cut there. Whether Cobb is alive is the question the table takes home. |
+| **1 — The Road and the Wall** | Ysabel's last plea at the fire (evening) → **Erwana caught at dawn** (pendant, ledger, Ysabel's grab) → the decision over cold breakfast → approach → entry branch → the Whipping Post | Evening → **dawn** → arrival, mid-afternoon | **They're inside, and something in the compound now knows it.** End before anyone important has been talked to. |
+| **2 — The Compound** | The Pens (JonLief's scene, Denrick, Anselm) → **Deep Cages (Mott, Durgan, Gimble — get Dave's PC out tonight)** → the Armory decision → the Hall and Cobb | Mid-afternoon → the hour before sundown | **Vaskar stands up and reaches for the door.** Cut there. Whether Cobb is alive is the question the table takes home. |
 | **3 — Sundown** | The match → Anselm's signal → the revolt → Vaskar → Ysabel → aftermath and the eighteen | Sundown → dark | The chapter ends. Ysabel's trial is the next chapter. |
 
 **Running it across weeks:**
@@ -36,7 +36,7 @@ The whole chapter hangs on **sundown**. Say the hour out loud when the party arr
 | Arrival (mid-afternoon) | **His office**, with Cobb | Yard running normally. Whipping post active. |
 | ~1 hr out | His office | Guards rig the arena fence. Off-duty five wake and drift out. Cobb's interrogation goes quiet — **this is Vaskar deciding Cobb is empty.** |
 | **Just before sundown** | **Leaving the office** | ⏳ **COBB DIES HERE** if the party never reached the Hall. Vaskar kills him on his way out, then walks down to the arena. |
-| **Sundown** | **The arena** | Match: Mott vs. Prisoner X. Every eye on it. **Anselm signals.** |
+| **Sundown** | **The arena** | Match: Mott vs. **Gimble**. Every eye on it. **Anselm signals.** — *unless the party freed Gimble, in which case none of this happens; see the Gimble box below.* |
 | **After the match** | The arena → Ysabel | Detains Ysabel **only if all 3 conditions hold** (see below). |
 
 **Vaskar can only be in one place.** He cannot kill Cobb once he's at the rail — so **anything that keeps him in his office keeps Cobb alive**: a buyer to receive, an alarm to answer, Ysabel's party arriving and having to be handled courteously. The party can buy the old man time without knowing they did.
@@ -45,26 +45,92 @@ The whole chapter hangs on **sundown**. Say the hour out loud when the party arr
 
 **⚠️ Ysabel is only detained if ALL THREE are true:**
 
-1. **The match happened** — Mott fought. (Freed, hurt, burned out, or no Prisoner X = no match = no stage.)
+1. **The match happened** — Mott fought. (Mott freed/hurt/burned out, **or Gimble out of his cage** = no match = no stage. Since Gimble is a PC now, assume this condition fails.)
 2. **The revolt was put down**, or never fired. A yard full of freed men is not a yard where anyone gets quietly arrested.
 3. **The party never engaged Vaskar.** The instant he's fighting, hiding, bargaining or running, he stops caring about her. He protects Vaskar.
 
-**Break any one and she walks.** The party can win Ysabel's trial without ever agreeing to be her champion, and without ever knowing they did it. **Don't tell them** — let it land in Solteres.
+**Break any one and she walks out of the fen a free woman.** **Don't tell them** — let it land in Solteres.
+
+**⚠️ HER TWO PROBLEMS ARE SEPARATE — don't let them blur:**
+
+| | What it is | What fixes it |
+|---|---|---|
+| **1. Detained at Bramblefen** | Vaskar holds her for Ironwake; she forfeits by absence and becomes property. | Break any one of the three conditions above. **Freeing Gimble does this by itself.** |
+| **2. The trial, in two days** | She has no champion. Ironwake has the Juggernaut. | **Only removing Mott.** Dead, crippled, or gone with Durgan. Cancelling the sparring match does *nothing* here — the match was training, not a qualifier. |
+
+**And even then she isn't saved.** With no champion Ironwake must find one in two days or fight in person, and he'll do neither — so he looks to settle. **Cobb's second ledger and the Ironwake writ are what actually win the trial.** Bramblefen's job is to take away the sword so the paper matters.
 
 **If the party stalls, don't stop the world.** The match happens without them and the revolt goes off badly (Row 3).
 
-### Head count — 13 guards
+### ⚠️ GIMBLE — Dave joins here
+**The masked prisoner is Gimble Beren, a gnome Penitent, and the sole survivor of the first team Vozruk sent to Dol Island** — the team this party was ordered to find in Chapter 1. Full backstory in `world_lore/The First Penitents.md`.
+
+**Play the reveal shoulder-first.** A masked thing in a cage everyone says will be dead by dark → the party gets close → **the Mark of Atonement burned into a slave's shoulder.** They know *what* he is before they know *who*.
+
+**Assume they get him out, and assume it's the first thing they do.** Three consequences, all of them good:
+- **No match.** No other opponent exists. So no crowd, no stage — and per the three conditions above, **Ysabel is not detained at Bramblefen.** ⚠️ **That is not the same as winning her trial** — see the two-problems box below. Mott is still Ironwake's champion and is still walking into that courtyard in two days.
+- **No signal.** Anselm was waiting for every eye to be on the fence. He now waits for the party instead.
+- **Cobb is the cost.** An afternoon spent on the Deep Cages is an afternoon Vaskar spends finishing with the old man. *The prisoner you can see, or the clerk who knows where JonLief's son went.* Make them choose it out loud.
+
+**Get him out by the end of night 2** so Dave has a character in his hands for the sundown session. Apply pressure if they dawdle — a guard calling the hour, Durgan saying the little one won't last a minute, Mott saying he doesn't want to.
+
+---
+
+### ⚠️ The intel gap — read this first
+**Erwana says four or five guards. Ysabel confirms it. There are twenty.**
+
+Both women are telling the truth about a compound that stopped existing a month ago, when the Juggernaut arrived. Nobody is lying, and nobody finds out until the party does.
+
+**Correct it from the treeline, before they pick an approach.** They can count bodies in that yard on first sight and it is plainly not five. What you want is *"our information is bad and we're going in anyway"* — not a party that committed to a plan for five men and met twenty. Let Erwana go quiet. Let them re-plan.
+
+**Anselm has the current number** and gives it exactly, post by post. That is now the strongest reason in the chapter to talk to the slaves before doing anything else.
+
+### Head count — 20 men
 | Where | # | Block |
 |---|---|---|
-| Front gate | 2 | Fen Guard |
-| Yard patrol | 2 | Fen Guard |
+| Front gate | 3 | Fen Guard |
+| Yard patrol | 4 | Fen Guard |
+| Rigging the arena fence | 2 | Fen Guard |
 | Whipping post | 1 | Fen Guard (drunk — disadv. Perception) |
+| Auction Yard | 1 | Fen Guard |
 | Outside Vaskar's Hall | 1 | Fen Guard |
-| The Pens entrance | 1 | Fen Guard |
-| Deep Cages entrance | 1 | Fen Guard |
-| **Barracks (asleep)** | **5** | **Ironwake Thug** — Lord Ironwake's men, in with Mott |
+| The Pens, outer door | 1 | Fen Guard |
+| Deep Cages, outer door | 1 | Fen Guard |
+| **Deep Cages, inside, on Mott's cell** | **2** | **Ironwake Thug** — his own men, not Vaskar's |
+| **Barracks (asleep, off duty)** | **4** | **Ironwake Thug** |
 
-Also present: Vaskar, Durgan, Mott, Old Cobb (Hall, bound), Denrick (Pens), Prisoner X (Deep Cages), 2 servant women (Hall, noncombatant), **18 slaves** incl. Anselm + 2 Westfield men.
+**Normal garrison is four or five.** Everything above that arrived with the giant and leaves with him. The six Ironwake men do not take Vaskar's orders.
+
+**At sundown the two cage guards walk Mott down to the arena** — the Deep Cages go unwatched from the inside for exactly that hour.
+
+Also present: Vaskar, Durgan, Mott, Old Cobb (Hall, bound), Denrick (Pens), **Gimble Beren (Deep Cages — Dave's PC)**, 2 servant women (Hall, noncombatant), **18 slaves** incl. Anselm + 2 Westfield men.
+
+**Why the compound is at four times its normal strength:** the Juggernaut is housed here, Gimble was brought in to die against him, and there is a match at sundown. Ironwake sent six of his own with the giant; Vaskar pulled in extra Fen Guard for the crowd and the fence. All of it goes away again when the wagon does — which is exactly why the party's information is a month stale.
+
+### Ysabel's people — five NPCs the party is responsible for
+Travelling with her since Chapter 6, and **with the party for this whole chapter.** Not fighters. **Rochefort Servant:** AC 13 · **HP 9** · shortsword +2 (1d6) · Passive 10. **Morale: one drops, the rest break** unless a PC has given them a specific job.
+
+| Name | Role | Use them for |
+|---|---|---|
+| **Perrin Aske**, 54 | Steward | Won't run. Won't leave without Ysabel — a problem if she's taken. |
+| **Dov Brandt**, 31 | Ex-militia — **and Ysabel's property** | See the box below. He was sold on Bramblefen's block two years ago and has three years left. |
+| **Symon Reeve**, 26 | Driver | **Carts.** Eighteen freed men have to leave the fen somehow. |
+| **Cael Ordway**, 18 | Youngest | Terrified. **If you need one death to land, it's him.** |
+| **Mina Dorn**, 40s | Lady-in-waiting | Bandages. First to be kind to Erwana unprompted. |
+
+- **They make Branch A work** — a buyer with no retinue isn't a buyer. Ysabel's cover is thin without them.
+- **They cannot take Branch B.** The Drain forces a split: somebody stays outside the wall with the carts and the household for several hours. Make the party choose it out loud.
+- **Their deaths land harder than the eighteen's** — the party knew their names a day ago.
+
+**⚠️ YSABEL OWNS SLAVES.** Her mills and warehouses run on bought non-human labour, and she will say so without embarrassment if pressed. Her case: they're fed, housed, safe, and given meaning they'd never manage alone. **Play her reasonable and never cruel** — bewilderment first, then the Church ("the ruling concerns *people*"), then a shade colder once she knows she's being judged. **She exempts the party without a flicker** — *you're different, you're named, you serve the Church* — and says it as a compliment to an elf, a half-elf, and a gnome. Don't let one Persuasion roll convert her. **Erwana's flinch from her was accurate, not traumatised.**
+
+**⚠️ DOV BRANDT IS A SLAVE, AND YSABEL BOUGHT HIM AT BRAMBLEFEN.** Gambling debts → a failed mugging on the Solteres road → family's property sold for restitution → five years. He took the lawful option and **sold himself to discharge the sentence.** Two years served, three to go. He has never told the party.
+
+- **He is the party's answer to how humans end up in collars.** Non-humans are owned outright; humans are a *sentence somebody purchased.* Nine of the eighteen are Terms men exactly like him.
+- **He knows that auction yard from the block.** He has not mentioned it.
+- **He remembers Old Cobb** — the clerk who wrote his name down and asked how to spell Brandt, and was kind about it. Mention the old man in the Hall and Dov will go in after him.
+- **The beat:** when the collars come off the eighteen, nobody thinks to include Dov. He's in clean clothes on the right side of the yard. **He doesn't raise his hand either.** Let a player notice. Don't point at it.
+- **Live wire:** a term of service is an asset, Ysabel is ruined, and her principal creditor is Ironwake. Dov's three years can be sold to settle her debts.
 
 ### DCs you will actually call for
 | Check | DC |
@@ -80,11 +146,11 @@ Also present: Vaskar, Durgan, Mott, Old Cobb (Hall, bound), Denrick (Pens), Pris
 | Vaskar's spiked chain pull (Str save) | **15** |
 | Vaskar's brand (Con save) | **15** |
 | Mott's Slam / Ground Slam / Fling (Str save) | **16** |
-| Sneak the yard, sundown, all eyes on the match | **13** (was 16 before the match) |
+| Sneak the yard, sundown, all eyes on the match | **13** (was 16 before the match — more bodies now, but every one of them is watching the fence) |
 
 ### The four levers the party may not know they're pulling
-1. **Free or break Mott** → Ironwake has no champion for the trial in two days. Ysabel's trial is won in the Deep Cages, not the courtroom. **It also cancels the match — which means Vaskar never gets his moment to detain her.** One lever, two saves.
-2. **Free Durgan and treat him well** → same result, and Mott never enters the yard fight.
+1. **Remove Mott** — dead, crippled, or walked out of the fen with Durgan → **Ironwake has no champion for the trial in two days.** This is the *only* thing in the chapter that touches the trial itself. It also cancels the match, so it saves her twice.
+2. **Be kind to Mott where Durgan can see it** → Durgan folds, and the pair leave together. Same result as above, no blood, and Mott never enters the yard fight. **Durgan is the lock; Mott goes nowhere the dwarf doesn't lead him.**
 3. **Talk to Anselm before sundown** → they choose when the revolt fires instead of being caught in it.
 4. **Open the Armory** → decides which row of the revolt table you're on. This is the single biggest mechanical decision of the night.
 
@@ -125,7 +191,7 @@ Denrick sold the route to Vaskar after she ran and seeded it afterward. Run the 
 > **Read-aloud:**
 > *"The gate takes three blows and gives on the fourth, and the sound of it goes across that yard like a struck bell. Somewhere behind the wall a voice starts shouting a name, over and over, and it is not a name — it is the alarm."*
 
-- **Everything wakes.** All 13 guards converge in waves (below). Vaskar gathers the barracks five and comes personally.
+- **Everything wakes.** All 20 converge — **in waves, never as a block.** Twenty at once is ~3,800 adjusted XP against a Deadly threshold of 1,600 and it is not survivable; see the math below. Vaskar gathers the barracks four and comes personally. **The two on Mott's cell do not leave it** — Ironwake's men guard Ironwake's property, alarm or no alarm.
 - **Anselm does NOT signal.** He watches to see whether the intruders are winning. He gives the party **two rounds** of visibly beating guards before he commits — reward a party that fights *in front of the Pens* where the men can see it.
 - **This is the only approach that can go badly enough to kill the party.** See the alarm math below.
 
@@ -145,7 +211,7 @@ Denrick sold the route to Vaskar after she ran and seeded it afterward. Run the 
 - **Spear** +3, 1d6+1 piercing (1d8+1 two-handed). **Light Crossbow** +3, 1d8+1.
 - Passive Perception 12. **Morale:** when half of any group of them drops, the rest run for the gate or the Hall. Let them run — a fleeing guard raising the alarm is better drama than a corpse.
 
-**Ironwake Thug** — *CR 1/2, 100 XP.* The five in the barracks. Professionals, brought in with the giant.
+**Ironwake Thug** — *CR 1/2, 100 XP.* The six who came with the giant — four in the barracks, two on Mott's cell. Professionals, and Ironwake's, not Vaskar's.
 - **AC** 11 (leather) · **HP** 32 (5d8+10) · **Speed** 30 ft.
 - **Multiattack:** two mace attacks, +4, 1d6+2 bludgeoning each. **Heavy Crossbow** +2, 1d10.
 - **Pack Tactics.** They do not break and they do not chase individuals — they hold the arena and the Hall door.
@@ -154,16 +220,19 @@ Denrick sold the route to Vaskar after she ran and seeded it afterward. Run the 
 
 | Encounter | Composition | Adj. XP | Difficulty |
 |---|---|---|---|
-| Gate | 2 Fen Guard | 75 | Trivial |
-| Whipping post + patrol responds | 3 Fen Guard | 150 | **Easy** |
-| Pens + Deep Cages doors | 2 Fen Guard | 75 | Trivial |
-| Barracks, **asleep** | 5 Thug (surprised, no rolls first round) | ~500 effective | **Medium–Hard** |
-| Barracks, **awake** | 5 Thug | 1000 | **Hard+** |
-| **Full alarm — all 13 at once** | 8 Guard + 5 Thug | **~1750** | **DEADLY — TPK range** |
+| Gate | 3 Fen Guard | 150 | **Easy** |
+| Whipping post + fence detail responds | 3 Fen Guard | 150 | **Easy** |
+| Yard patrol | 4 Fen Guard | 200 | Trivial–Easy |
+| Gate + yard converge | 7 Fen Guard | ~440 | **Easy–Medium** |
+| Pens door / Deep Cages outer door | 1–2 Fen Guard | 25–75 | Trivial |
+| **Deep Cages, entered directly** | 1 Guard + 2 Ironwake | **450** | **Easy–Medium** |
+| Barracks, **asleep** | 4 Thug (surprised, no rolls first round) | ~550 effective | **Medium** |
+| Barracks, **awake** | 4 Thug | 800 | **Medium–Hard** |
+| **Full alarm — all 20 at once** | 14 Guard + 6 Ironwake | **~3,800** | **☠️ NOT A FIGHT. Twice Deadly. This ends the campaign.** |
 | Vaskar as written (CR 5, 102 HP, Villain Actions) | solo | 1800 | **DEADLY** |
 | **Vaskar tuned** (below) + 2 Thug | | ~1300 | **Hard** — correct for the finale |
 
-**The rule for the night: never let more than 5 enemies act in the same round.** Bramblefen is a *sequence* of small fights, not a battle. Use the buildings — the party fights in doorways, in the Pens, in the Hall. The yard is the only place a full convergence can happen, and the yard is where you should be reluctant to put them before sundown.
+**The rule for the night: never let more than 5 enemies act in the same round.** With twenty men in the compound this has gone from good practice to the only thing keeping the party alive. Bramblefen is a *sequence* of small fights, not a battle. Use the buildings — the party fights in doorways, in the Pens, in the Hall. The yard is the only place a full convergence can happen, and the yard is where you should be reluctant to put them before sundown.
 
 **If the alarm goes up anyway**, you have three release valves, in order:
 1. **Anselm fires early.** 18 men hit the yard. Guards split their attention. Instantly halves the pressure on the party.
@@ -186,7 +255,12 @@ Use the Rage Clock as written in `The Juggernaut.md` — it is already tuned for
 
 ## SCENE ORDER & READ-ALOUD
 
-### 1. The camp — Erwana *(the night before)*
+### 1. The camp — Ysabel's plea *(evening)*, then Erwana *(dawn)*
+
+**Two scenes, not one, and the gap between them is deliberate.** Ysabel makes her last appeal at the fire and nobody answers it; everyone goes to bed with it sitting there. Then, not long after first light, a servant drags a filthy woman to the dead fire with her hands full of last night's leavings.
+
+> **⏰ Why the split matters:** if Erwana turns up at dusk, JonLief sees that pendant and the party marches through the night, arriving at Bramblefen around dawn. **That breaks the chapter** — the clock, Cobb's deadline, the match and Anselm's signal all hang off a mid-afternoon arrival with sundown coming. A dawn capture, a morning conversation, and a fen that's **less than a day away** put them at the wall exactly on time with nobody being railroaded.
+
 The plea, the rope, the starving woman. **The pendant beat is the hinge of the whole session** — everything else follows from JonLief showing it.
 
 > *"She goes still when she sees it. Not frightened — the other thing. 'I knew that,' she says. 'I knew that. She had one. She was in my cell and she was so hot with the fever you could feel it across the straw, and there was a boy, and she wouldn't let go of him.' She looks up at you. 'They took them out. I don't know where. But Cobb writes it down. Cobb writes all of it down.'"*
@@ -218,7 +292,7 @@ Give him the room. Slow it down. Other players can be elsewhere.
 ### 5. Anselm — the Wolfram scene
 Use the boxed text in `Anselm Vogt.md` verbatim. Then: **no Insight roll.** Tell the table plainly that this man is telling the truth. That contrast — right after Denrick — is the whole design.
 
-He gives, freely: 13 guards and where each stands, the five asleep and why he hasn't moved, where the armory keys hang, that the big one is gentle until the dwarf makes him otherwise, that the masked man dies tonight, and that Denrick talks to the overseers.
+He gives, freely: **twenty men — fourteen of Vaskar's, six of Ironwake's** — and where each one stands; that it was four or five until the giant came; the four asleep and the two on Mott's cell, and that those six are why he has not moved; where the armory keys hang, that the big one is gentle until the dwarf makes him otherwise, that the masked man dies tonight, and that Denrick talks to the overseers.
 
 **Then ask Wolfram the question Anselm actually asks:** *"Who's in charge of you?"*
 
@@ -226,7 +300,11 @@ He gives, freely: 13 guards and where each stands, the five asleep and why he ha
 > *"Two cells. In the first, a dwarf sits with his back to the bars, watching. In the second — and it takes a moment to understand the scale of what you are seeing — a man the size of a cart horse is sitting cross-legged in the straw, holding a bundle of twine and stalks in the shape of a doll, and he is walking it very carefully along his own knee."*
 
 - **Durgan speaks first, and it's a warning:** *"Don't shout. He's having a good day."*
-- **Prisoner X** says nothing, ever. Sitting perfectly still, centred, iron over the whole head. Every guard who walks past says he'll be dead by dark.
+- **Gimble** says nothing, ever. Sitting perfectly still, centred, iron over the whole head. Every guard who walks past says he'll be dead by dark, and says it in front of him.
+  > *"The second cell holds something much smaller. It is sitting cross-legged in the exact centre of the floor, in rags, with a riveted iron mask over the whole of its head, and it is not asleep — it is facing the door, and it was facing the door before you opened it. It does not move when the light hits it. One of the guards behind you laughs and says something about not bothering to learn its name."*
+  - **The brand is the reveal.** Rags, one bare shoulder, the sun and the tear. Let a PC find it rather than describing it unprompted.
+  - **He will not speak through the mask** — not won't, can't, comfortably. Getting it off is a scene: rivets, a chisel, Tobrun Ashfoot and a bent nail, or Vaskar's collar-keys.
+  - **Once it's off, he is Dave's.** Hand the story over and stop narrating him.
 - **This is where Ysabel's trial is won.** If the party is kind to Mott where Durgan can see it, you have given away Ironwake's champion.
 
 ### 7. The Chainmaster's Hall — Cobb, then Vaskar
@@ -262,13 +340,18 @@ Anselm's signal lands here. So does whatever the party has already set up.
 | **Denrick** | Ingratiating, twitchy, "friend," "of course," "anything you need." | Smooth on big lies, fumbles small details. Won't quite meet an eye. | Never keeps a deal. |
 | **Durgan** | Low, economical, dry. Gentles people like beasts. | A rare joke means he's decided you're safe. | Never begs — but folds instantly if Mott is threatened. |
 | **Mott** | Few words, child's cadence. Names things he likes. | The straw doll. Warm bread. Shiny things. | Never raises a hand to Durgan. |
-| **Ysabel** | Fraying nobility. Courtesy stretched thin over panic. | Reaches for leverage before she thinks. | Never forgets she has two days. |
+| **Ysabel** | Fraying nobility. Courtesy stretched thin over panic. | Reaches for leverage before she thinks. **On slavery: bewildered first, then the Church, then cold.** | Never cruel, never loud, never converted by one good roll. |
+| **Perrin Aske** | Formal, flat, forty years of service. Calls everyone by title. | Positions himself between Ysabel and the door without appearing to. | Never volunteers an opinion unless asked twice. |
+| **Dov Brandt** | Eager, slightly too loud — until Bramblefen is in sight, and then very quiet. | Repeats an order back to confirm it. Knows the yard's layout without being told. | Never mentions the block, or Cobb, or his mother and sister, unless asked directly. |
+| **Symon Reeve** | Practical, talks about the animals more than the people. | Notices ground, weather, and how fast a cart can leave. | Never leaves the horses unattended willingly. |
+| **Cael Ordway** | Fast, thin, over-agrees. | Says "yes sir" to things nobody asked. | Never admits he's frightened. |
+| **Mina Dorn** | Dry, economical, unimpressed by everyone including her mistress. | Does the useful thing while others discuss it. | Never curtseys to anyone who hasn't earned it. |
 
 ---
 
 ## REVOLT — trigger and outcomes
 
-**Anselm chooses the instant.** Any disruption *can* trigger it; he fires it deliberately if the party has talked to him. Two variables: **armed or not**, **party in the fight or not.**
+**Anselm chooses the instant.** Note the men are rising against *twenty* now, not thirteen — unarmed, that is the difference between a bad night and an extermination, so the Armory decision matters more than it did. Any disruption *can* trigger it; he fires it deliberately if the party has talked to him. Two variables: **armed or not**, **party in the fight or not.**
 
 | # | Situation | Result | Aftermath |
 |---|---|---|---|
@@ -301,12 +384,16 @@ Write this down before anyone leaves the table. There is no long rest, and three
 - [ ] **Mott/Durgan — dead, free, or still Ironwake's?** (decides whether Ysabel has a trial or a funeral)
 - [ ] **Vaskar — dead / captured / escaped?**
 - [ ] **Cobb — rescued / killed before they got there / left in the chair?**
-- [ ] **Did the match actually happen?** (if not, Ironwake has no champion *and* Ysabel was never detained)
+- [ ] **Did the match actually happen?** (if not, Ysabel was never detained — **but Ironwake still has his champion unless Mott was removed; see the two-problems box**)
 - [ ] **Ysabel — with the party / taken / left on the road?**
+- [ ] **Is Mott still Ironwake's champion?** (dead / crippled / gone with Durgan / still his) — **this, not the match, decides the trial**
+- [ ] **Which of Ysabel's five are still alive?** Perrin · Dov · Symon · Cael · Mina
+- [ ] **Dov — did anyone free him, buy his term, or even notice?** (And does Ysabel still hold it?)
 - [ ] **Who holds Cobb's second ledger?**
 - [ ] **Did they get the working ledger and the name Barney Soot?**
 - [ ] **Ironwake writ recovered?**
 - [ ] **Where do the 18 go?** (scatter / hold the fen / Solteres / inland)
-- [ ] **Prisoner X — unmasked? freed? left to die?**
+- [ ] **Gimble — freed and unmasked? Does the party know he's the first team's survivor, or only that he's a Penitent?**
+- [ ] **Did the match happen at all?** (If Gimble was freed, no — which quietly saved Ysabel.)
 
-**Threads out:** Barney Soot in Solteres · the cult buyers (→ Dol Island, the barrels) · Prisoner X · Durgan & Mott loose · Denrick alive somewhere · Vaskar if he ran.
+**Threads out:** Barney Soot in Solteres · the cult buyers (→ Dol Island, the barrels) · **Gimble's report reaching Vozruk — the first team's fate is the one Chapter 1 order this party can now close** · Durgan & Mott loose · Denrick alive somewhere · Vaskar if he ran.

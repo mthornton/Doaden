@@ -78,14 +78,14 @@ Last real Brudda Death content: Chapter 4. Chapters 5, 6, and 7 have none. If Ch
 
 The fix is in §5 and it doesn't require adding a chapter.
 
-### 3.3 Maren dies offscreen and JonLief never had a chance
+### 3.3 Elizabeth dies offscreen and JonLief never had a chance
 
 She was dead a month before the party arrived, of fever, unwitnessed, and there is no version of the last six chapters where he arrives in time. That's honest and bleak and it fits the setting — but it means the campaign's biggest personal quest resolves as a paragraph read aloud by an NPC.
 
 Two mitigations, both small:
 
 - **Give him something to do about it.** Cobb knows where the dead go at Bramblefen — a lime pit, a fen channel, a field. Let JonLief go and find her and put her somewhere. Ten minutes of table time, and it converts a line item into a scene.
-- **Make Rowan genuinely winnable and genuinely losable.** Maren's outcome was never in his hands. Rowan's has to be, completely, with a real chance of failure. Do not soften Barney Soot into a formality.
+- **Make Rowan genuinely winnable and genuinely losable.** Elizabeth's outcome was never in his hands. Rowan's has to be, completely, with a real chance of failure. Do not soften Barney Soot into a formality.
 
 ### 3.4 The party is passive, and you should design around it, not against it
 

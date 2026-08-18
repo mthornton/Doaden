@@ -33,7 +33,7 @@ That was four weeks ago. She did not run far. She tells herself it was because t
 
 ## What She Knows
 
-- **The tunnel and the ledger.** Cobb told her about the drain and gave her the second ledger the night she ran (see `Chapter 7 DM Notes.md`, items 2–3). She does not know what's in it beyond that it's old — she's never read it herself.
+- **The tunnel and the ledger.** Cobb told her about the drain and gave her the second ledger the night she ran (see `Chapter 7 DM Notes.md`, items 2–3). She does not know what's in it beyond that it's old — **she cannot read.** **Resolved in Session 1:** she traded it to the party for food, coin, and her freedom.
 - **The pendant.** She had a cell mate with the same pendant as JonLief's — a woman, sick, with a boy who wouldn't leave her side. Taken from the cell together; she doesn't know what became of them after. Cobb would have the records.
 - **The guard count — stale, not false.** Asked how many men are in there, she says **four or five**, without hedging, because for the whole two months she was held that is exactly what it was. She has no idea that six of Ironwake's men and a crowd of extra Fen Guard arrived with the Juggernaut after she ran. **Ysabel will independently confirm the low number** from her own buying visits, which makes it worse — two honest sources, one dead month. See `Chapter 7 DM Notes.md`, item 9a.
 

@@ -12,13 +12,13 @@
 
 | Night | Covers | In-game time | Curtain |
 |---|---|---|---|
-| **1 — The Road and the Wall** | Ysabel's last plea at the fire (evening) → **Erwana caught at dawn** (pendant, ledger, Ysabel's grab) → the decision over cold breakfast → approach → entry branch → the Whipping Post | Evening → **dawn** → arrival, mid-afternoon | **They're inside, and something in the compound now knows it.** End before anyone important has been talked to. |
+| **1 — The Road and the Wall** ✅ **PLAYED 8/16/2026** | Ysabel's last plea at the fire (evening) → **Erwana caught at dawn** (pendant, ledger, the deal) → the decision over cold breakfast → approach → entry branch → the Whipping Post | Evening → **dawn** → arrival, 5:30 pm | **They're inside, and something in the compound now knows it.** End before anyone important has been talked to. |
 | **2 — The Compound** | The Pens (JonLief's scene, Denrick, Anselm) → **Deep Cages (Mott, Durgan, Gimble — get Dave's PC out tonight)** → the Armory decision → the Hall and Cobb | Mid-afternoon → the hour before sundown | **Vaskar stands up and reaches for the door.** Cut there. Whether Cobb is alive is the question the table takes home. |
 | **3 — Sundown** | The match → Anselm's signal → the revolt → Vaskar → Ysabel → aftermath and the eighteen | Sundown → dark | The chapter ends. Ysabel's trial is the next chapter. |
 
 **Running it across weeks:**
 
-- **Recap resources, not just plot.** Open each night with "you are still on the hit points you finished on, and Luthien has *these* slots left." Players who've had three weeks off will assume they healed. They did not.
+- **Recap resources, not just plot.** Open each night with "you are still on the hit points you finished on, Luthien has *these* slots left, and Wolfram has *this much* Lay on Hands." Players who've had three weeks off will assume they healed. They did not.
 - **Keep the hour visible.** Say the time out loud at the start of each night and every time they burn a scene. Three weeks of real time makes an afternoon feel like a week unless you keep saying it.
 - **⏳ A short rest costs an hour — and the hour is what's killing Cobb.** They can take one. It advances the clock toward Vaskar leaving that office. That is the cleanest pressure in the whole chapter: *rest, or reach the old man.* Make them say which.
 - **Don't end a night mid-combat.** Both curtains above are decision points, not initiative rounds.
@@ -265,10 +265,12 @@ The plea, the rope, the starving woman. **The pendant beat is the hinge of the w
 
 > *"She goes still when she sees it. Not frightened — the other thing. 'I knew that,' she says. 'I knew that. She had one. She was in my cell and she was so hot with the fever you could feel it across the straw, and there was a boy, and she wouldn't let go of him.' She looks up at you. 'They took them out. I don't know where. But Cobb writes it down. Cobb writes all of it down.'"*
 
-Then the ledger. Let her fetch it. **Let JonLief open it himself.** Play the drop: hope, then page after page of nothing, then the slow arrival of what they *are* holding — Ironwake, decades of him, in a dead man's handwriting.
+Then the ledger. Let her fetch it. **Let JonLief open it himself.**
 
-> **If Ysabel reaches for it:** *"'May I?' she says, and her hand is already out. She is not being sly about it. She is a woman two days from a trial who has just seen a weapon land in the grass."*
-> Erwana's face does the work here. Play her flinching from a noble's hand. **The story is better if Ysabel does not get this book** — and if she doesn't get it, she stays with the party to be near it.
+**✅ Played in Session 1.** The book runs years back and stops about six weeks ago — Vaskar had started sniffing after a leak, so Cobb quit writing and hid it. Two months back is the line JonLief crossed a continent for: **an elf woman and her son, Elizabeth and Rowan**, ages matching. **He has proof they were here. He does not have the buyer** — the boy was sold after the book stopped, and that sale is in the working ledger in Vaskar's office. And underneath all of it, years of Ironwake in a dead man's handwriting, which is the part Ysabel saw and JonLief didn't care about.
+
+> **✅ Ysabel's play, resolved in Session 1.** She reached for it, and did not get it. **The deal instead: she fronts the buyers' cover at Bramblefen and helps free JonLief's family, and the party hands her the ledger once everyone is clear of the fen.**
+> **Consequences to run with:** the party carries the book through the whole raid (losable, burnable, findable if they're searched); Ysabel is genuinely invested in the raid working rather than just along for it; **the debt comes due on the way out**, and the party can refuse to pay it. If she's detained or killed inside, the deal dies with it and they keep the book. Don't mention that to them.
 
 ### 2. First sight of Bramblefen
 Use the boxed text already in the DM Notes — the lash, the chains, the shouting. Don't add to it.
@@ -316,7 +318,7 @@ He is telling the truth. He gave the book away and does not know where it went. 
 >
 > **If they get here late:** don't say "he's dead." Give them the room — the chair, ropes cut not untied, the working ledger still open on the desk where Vaskar had been reading entries aloud to a man whose eyes had stopped being able to check them.
 
-Cut him loose and he pours out everything: Maren, the fever, the boy cleaned up and sold quickly, and **Barney Soot** — but only if they get the working ledger from the office, which is a different book and it stays in the Hall.
+Cut him loose and he pours out everything: Elizabeth, the fever, the boy cleaned up and sold quickly, and **Barney Soot** — but only if they get the working ledger from the office, which is a different book and it stays in the Hall. **The party already has the second ledger and already knows Elizabeth and Rowan were here; what Cobb and the working ledger add is the name of the man who bought the boy.**
 
 ### 8. Sundown — the match
 > *"They've dragged the fence into a circle in the middle of the yard, and every man in Bramblefen who isn't chained is leaning on it. The masked man is walked out. He doesn't struggle. He doesn't look at anyone. And then the doors of the Deep Cages open, and the crowd makes a sound you've heard before at fairs and hangings, and the ground moves."*
@@ -370,7 +372,10 @@ Anselm's signal lands here. So does whatever the party has already set up.
 Write this down before anyone leaves the table. There is no long rest, and three weeks from now nobody will remember.
 
 - [ ] **HP and hit dice remaining, per PC**
-- [ ] **Spell slots remaining** — Luthien, Virgil
+- [ ] **Spell slots remaining** — **Wolfram (3× 1st)**, Luthien, Virgil, JonLief, and Gimble once he's in
+- [ ] **Wolfram's Lay on Hands pool** — 15 HP per long rest, and there is no long rest. **This is the party's main healing and it does not come back tonight.** Write down what's left.
+- [ ] **Wolfram's Channel Divinity** — 1 use, and it *does* come back on a short rest. Worth reminding him.
+- [ ] **Divine Sense uses** — 3 per long rest
 - [ ] **Consumables spent** (potions, Fid's spiders, the Ball of Undeath)
 - [ ] **What time it is** in the fen, and how long until the match
 - [ ] **Short rests taken so far** (each cost an hour of the clock)

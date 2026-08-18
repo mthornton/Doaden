@@ -2,45 +2,155 @@
 
 > **Scope:** this chapter is expected to run **2–3 play nights** and covers **one in-game afternoon**. It ends once the match, the revolt, and Ysabel's detainment are resolved — not before. **There is no long rest inside it**; the party reaches Vaskar on whatever they have left. See the three-night breakdown and the attrition rules at the top of `Chapter 7 Run Sheet.md`.
 
-## Campfire revalations
+## Campfire revelations — *the evening before*
 
 After two weeks of slow travel with Ysabel and her servants you are less than two days travel to Solteres.  Each passing mile brings more signs of industry and the bustling activity that surounds a large city.
 
 Ysabel becomes more anxious as each day passes.  The death of her champion weighs on her.  The lose of a faithful servant and old friend weighs on her heart and the lose of the champion that was going to stand for her in the upcoming trial by combat weighs on her mind.
 
-She has asked mulitple times if somebody from the party would stand for her.  All denied her request.  They don't know her well enough or belive in her cause enough to put thier life on the line.  There is also the question of how the Church would view thier participation.  As new Pentients, what lattitude they have to operate independently is still unknown.
+She has asked mulitple times if somebody from the party would stand for her.  All denied her request.  They don't know her well enough or belive in her cause enough to put thier life on the line.  There is also the question of how the Church would view thier participation.  As new Pentients, what lattidure they have to operate independently is still unknown.
 
 The first score of days the evening meal and campfire was a good time.  Ysabel has plenty of food and wine and Luthien was happy to play a song.  But the mood has shifted as the party gets closer to arriving in Solteres and will part ways with Ysabel to face her fate on her own.
 
 The uneasy alliance of our party and Ysabel and her crew sit around the fire silently eating thier evening meal.
 
-With tears slowly falling down her cheeky Ysabel make one final plea. "I beg you to reconsider.  When I show up to the trial wihtout a champion, Lord Ironwake will force me to face his champion.  His champion is more than a normal man.  Easily twice the size of the largest man I have evern seen.  I will be torn apart in front of the city.  If I don't show up, I will be captured and become Lord Ironwake's property.  He will sell me as a slave to the most grotesque buyer he can find.  I beg you for help!"
+With tears slowly falling down her cheeks Ysabel makes one final plea. "I beg you to reconsider.  When I show up to the trial wihtout a champion, Lord Ironwake will force me to face his champion.  His champion is more than a normal man.  Easily twice the size of the largest man I have evern seen.  I will be torn apart in front of the city.  If I don't show up, I will be captured and become Lord Ironwake's property.  He will sell me as a slave to the most grotesque buyer he can find.  I beg you for help!"
 
-Before anyone can response, one of Ysabels guards that had been stationed on lookout walks to the fire holding a rope.  On the other end of the rope is a dirty woman dessed in rags.
+**Let the plea go unanswered and end the evening there.** Nobody has to say no again out loud. The party goes to their bedrolls with it sitting on them, and the night passes without incident.
 
-"Found this wretch slinking around in the dark.  What should I do wiht her madam?" asks the guard.
+## The rope at first light — *the next morning*
 
-"Please! Please don't hurt me!  I ment no harm.  I was just waiting for you to leave in the morning in hopes there might be some scraps of food left behind.  I was not going to steal anything, I swear to the Emporer.  I am just hungry.  It's been days since I had anything eat other than the few berries I have found." moans the dirty woman as she drops to her knees.
+> **⏰ WHY THIS IS A MORNING SCENE.** Erwana used to be caught at the fire the night before. She is not anymore, and the reason is scheduling: a party that meets her at dusk — especially JonLief, holding that pendant — will want to move on Bramblefen *immediately*, which means marching overnight and hitting the walls around dawn. That breaks the entire chapter. **The whole design depends on arriving mid-afternoon with sundown coming**, because the clock, Cobb's deadline, the match, and Anselm's signal all hang off it.
+>
+> Catching her at dawn fixes it for free. The party wakes to the commotion, has the conversation over a cold breakfast, decides, and walks — Bramblefen is **less than a day's travel**, so a mid-morning departure puts them at the fen in the **mid-afternoon**, exactly where the Run Sheet expects them. Nobody has to be talked out of anything.
 
-Role play form.  The woman is an escaped slave from Bramblefen.  This is a former prison now used to house slaves that have not yet been sold.  It is owned by Lord Ironwake and less than a days journey from where the party is now.  Lady Ysabel, along wiht everbody else in Solteres would be familiary with the facility.  Slavery is a normal part of life in Solteres and not particulary fround upon despite the Church ruling salvery as illegal.
+The party is woken not long after first light by shouting on the far side of the camp.
+
+One of Ysabel's servants — the one who had the last watch — comes to the ashes of the fire dragging a rope. On the other end of the rope is a filthy woman in rags, still clutching a fistful of something in one hand.
+
+"Caught this wretch with her hands in last night's supper, madam.  Been going through the leavings like a dog.  What do you want done with her?"
+
+"Please! Please don't hurt me!  I ment no harm.  It's only what you left, I swear it — I waited until you were all abed, I never came near you, I only wanted what was going in the dirt anyway.  I swear to the Emporer.  I am just hungry.  It's been days since I had anything to eat but berries." moans the woman as she drops to her knees.
+
+**The whole Erwana conversation below happens here, in the morning, in daylight, with the camp half-struck around them.** Everything in items 1–9 runs exactly as written — only the hour has changed. Daylight helps, in fact: her Tabaxi features, her condition, and the collar scar are all easier to notice, and easier for the party to be moved by, at dawn than across a fire.
+
+Role play from her.  The woman is an escaped slave from Bramblefen.  This is a former prison now used to house slaves that have not yet been sold.  It is owned by Lord Ironwake and less than a days journey from where the party is now.  Lady Ysabel, along wiht everbody else in Solteres would be familiary with the facility.  Slavery is a normal part of life in Solteres and not particulary fround upon despite the Church ruling salvery as illegal.
 
 During the conversation a few things need to come out:
 1. The slaves name is Erwana.  She is half-Tabaxi and middle aged (mid-40s).  Bit of a belly.  Not immediatly noticable due to the filth, but once you get over her wretched state the Tabaxi features around her nose and ears are mild but apparent. See `world_lore/Erwana.md` for her full backstory.
 2. She escaped via a secret tunnel below a drainage grate that leads to outside the walls.  Old Cobb is the only permament slave in the facility.  He has been the book keeper for several years recording each slave purchase and sale.  **Cobb is the one who told her about the tunnel** — and he did not send her out empty handed.
-3. **The second ledger.**  For years Cobb has quietly kept a true copy of the sales the masters most wanted forgotten — decades of names, prices and buyers, including a great deal that leads back to Lord Ironwake.  He gave it to Erwana the night she ran and asked her to get it out of the fen.  It is the only right thing he has ever done and he does not expect to survive it.
+3. **The second ledger.**  For years Cobb has quietly kept a true copy of the sales the masters most wanted forgotten — years of names, prices and buyers, including a great deal that leads back to Lord Ironwake.  **It runs right up to about six weeks ago and then stops.**  That is when Vaskar first became suspicious that information was leaking out of his operation; Cobb stopped writing in it that week and hid it, and gave it to Erwana the night she ran.  It is the only right thing he has ever done and he does not expect to survive it.
 
-   She does not have it on her when the guard drags her in.  She came across the camp earlier in the night, got frightened, and hid the book close by before creeping in for scraps.  She says nothing about it at first — she is a starving slave being held on a rope and volunteering a stolen book gets her killed.
+   She does not have it on her when the servant drags her in.  She found the camp during the night, watched it from cover, got frightened, and cached the book nearby before creeping in at first light for whatever the party had left in the pot.  She says nothing about it at first — she is a starving slave on the end of a rope, and volunteering a stolen book gets her killed.
 
    **She volunteers it when the conversation turns to the pendant.**  Once she understands JonLief is looking for a woman and a child, she offers the ledger up herself, hoping it holds his answer.  Let her fetch it and let him open it.
 
-   It does not.  The book is years out of date — Cobb hid it away long before he was collared, and it has nothing in it from the last month.  **What it does hold is Ironwake.**  Play the drop: hope, then nothing, then the slow understanding of what they are actually holding.
+   **✅ PLAYED, SESSION 1 — and it paid off.**  The book runs years back and its last entry is about **six weeks ago**.  Two months ago there is a line recording an **elf woman and her son brought in to Bramblefen: Elizabeth and Rowan**, ages matching.  JonLief has his confirmation.
+
+   **What it still does not give him is the buyer.**  The boy was sold after the book stopped — that sale is in the *working* ledger in Vaskar's office, which is a different book and stays in the Hall.  The second ledger proves his family were here.  It cannot tell him where the boy went.
+
+   **And what it also holds is Ironwake** — years of him, in a dead man's handwriting.  That is the part Ysabel understood immediately and JonLief did not care about at all.
 
 4. Erwana recognizes the pendant on JonLief's necklase.  "I had a cell mate with that same pendant.  She had a child with her.  She was really sick."  They taken from the cell and she does not know anymore, but she says Cobb would have the records.
 5. Erwana had gone unsold for a couple months.  Partly due to a slow market, partly due to being old and unattractive, partly due to people not wanting Tabaxi house servants (Rumored to pee on the carpet when nobody is watching, but that is not true.  Rumor probably started becasue Tabaxi have a natural musky smell that is not unlike urine.)
 6. If the party choose to make a raid on Bramblefen, Ysabel can choose to volunteer to help the party.  She has bought slaves from Bramblefen and can help them get inside under the guise of a shopping trip.  There is a risk this can backfire since she is in conflict with Lord Ironwake.  However, standard guards would not be privy to this.  Vaskar the Brand might know, but remains to be seen if he does know and, if he knows, would he care. 
-7. In the unlikely event the party decides to not go to Bramblefen they will be apprehended early the next morning by 6 of Lord Ironwake's men.  These are the same men mentioned in the notes below.  The men surprise the party while they sleep preventing them from fighting back.  The party is taken to Bramblefen to be held for Lord Ironwake.
+7. In the unlikely event the party decides to not go to Bramblefen they will be apprehended the *following* morning by 6 of Lord Ironwake's men.  These are the same men mentioned in the notes below.  The men surprise the party while they sleep preventing them from fighting back.  The party is taken to Bramblefen to be held for Lord Ironwake.
 8. The party needs reminded they have been out of contact with the Church for a long time and there is the potential for concequences.  However, remind them slavery is illegal per the Church and this *may* be viewed as within thier discression.
-9. The second ledger is a treasure trove of information.  Ysabel will recognize this and attempt to take control of the ledger.  She can use the information in the ledger to blackmail the people within getting them to pressure Lord Ironwake to lift the charges against her.  If given the ledger, Ysabel will not go to Brambelfel.  She will proceed to Solaries and begin her campaign of blackmail.  In the role play, use Erwana's distrust of a noble to guide the party into not allowing Ysabel to have it.  Knowing the party has the ledger will motivate Ysabel to stay with them.
+9. **The second ledger — SETTLED IN SESSION 1.**  It is a treasure trove, Ysabel recognised that immediately, and she wanted it: with those names she can blackmail the politicians, noblemen and merchants in it into pressuring Ironwake to drop the charges.  Nobody in Solteres much cares that people buy slaves — but a second set of books means somebody was hiding something worth hiding.
+
+   **The deal actually struck at the table:** Ysabel does **not** have the ledger. She comes to Bramblefen, fronts the buyers' cover, and helps free JonLief's family. **The party hands the book over once everyone is clear of Bramblefen — not before.**
+
+   **This is much better than her simply taking it, and it changes the chapter:**
+   - **The party carries the ledger through the entire raid.** It can be lost, burned, taken off a body, or found on them if they're searched.
+   - **She is invested in the raid succeeding**, not merely tagging along. She has a reason to spend her own people.
+   - **The debt comes due on the way out**, at the worst possible moment — and the party can renege. If they do, decide fast what Ysabel does about it with four servants and no leverage.
+   - **If Ysabel is detained or killed at Bramblefen, the deal evaporates** and the party keeps the book by default. Do not point this out to them.
+
+## Ysabel's people — they come with the party
+
+Per Chapter 6 Ysabel travels with **four male servants who double as guards** and **one lady-in-waiting**. They are still with her, and **for this chapter they are part of the party** — five extra bodies the players are responsible for, on a raid none of them signed up for.
+
+They are not fighters. Say so out loud, early, and let the party plan around it.
+
+| Name | Age | Role | The one thing |
+|---|---|---|---|
+| **Perrin Aske** | 54 | Steward. Ran her father's household before hers. | The only one who will not run. Not brave — he simply has nowhere else to be, and forty years of habit says you stand near the family. |
+| **Dov Brandt** | 31 | Closest thing she has to a soldier. Carried a spear in a town militia once. | **He is not a servant. He is property, on Terms — and Ysabel bought him at Bramblefen.** See below. |
+| **Symon Reeve** | 26 | Driver and horseman. The carts, the animals, the loads. | **Mechanically useful:** he can get a cart moving fast, and eighteen freed men have to leave the fen somehow. |
+| **Cael Ordway** | 18 | Youngest. Carries and fetches. | Terrified and desperate not to show it. **If you need a death to land, this is the one.** |
+| **Mina Dorn** | 40s | Lady-in-waiting. The only other woman in the party. | Practical, unimpressed, and the first person to be kind to Erwana without being asked. Has bandages and knows how to use them. |
+
+**Stat block — Rochefort Servant.** AC 13 (leather) · **HP 9** · shortsword +2 (1d6+0) · Passive Perception 10.
+**Morale:** the moment one of them drops, the rest look to Ysabel, then to Wolfram, then to the gate. They break unless a PC gives them something specific to do.
+
+
+### Dov Brandt — Ysabel owns him, and she bought him here
+
+**This is the chapter's cleanest explanation of how slavery actually works in Doaden, and it is standing in the party's own camp wearing a decent coat.**
+
+Dov is 31, from a river town north of Solteres. He carried a spear in the town militia for a few years, which is the last thing he was ever any good at. Then he found dice.
+
+The debt got away from him the way debts do. To clear it he waited on the Solteres road and tried to rob a merchant, and he was so bad at it that the merchant's man broke his arm and sat on him until the watch arrived. The court did what the court does: everything his family owned was sold to make restitution, and then **five years.**
+
+**And then he was offered the choice, because the law allows it.** A convicted man may discharge his sentence by offering himself for sale — the purchase price satisfies the debt, and he serves the term to the buyer instead of to a cell. It is voluntary. It is entirely lawful. Everybody involved will tell you it is not slavery.
+
+He took it. **He was sold at Bramblefen a little over two years ago, and Lady Ysabel Rochefort bought him.** He has three years left.
+
+**He has never mentioned any of this to the party.**
+
+### Why this matters
+
+- **It answers the question the party has been circling since the Calf and Ass.** They have seen slavers who deal only in non-humans and half-humans, and a compound where nine of the eighteen are human. Dov is how those two facts fit together. **For non-humans it is ownership, plain and permanent. For humans it is a sentence somebody purchased** — which is a different thing, everybody insists, and Dov's whole life is the argument about whether it is.
+- **He is a Terms man, exactly like nine of the eighteen** (see The Eighteen, below). He believes there is a date on the far end. So do they. The Stock know there isn't one for them, and that is the fault line Anselm has been holding together for four months — **and now the party is escorting a living example of the comfortable side of it.**
+- **He has been through that gate before, from the other direction.** He knows the auction yard because he stood on the block in it. He knows how the pens smell. He has not said so.
+- **He remembers Old Cobb.** The old clerk wrote his name into a book and asked him how to spell Brandt, and was decent to him about it on the worst day of his life. If the party mention the old man in the Hall, or if Dov gets anywhere near that chair, **he becomes Cobb's second advocate — and he will go in after him.**
+- **His family is gone.** A mother and a younger sister who lost the house when it was sold out from under them. He has not seen either since the auction and does not know where they went. He does not raise it. **JonLief is looking for a wife and a son; Dov has stopped looking, and the two of them have never compared notes.**
+
+### The beat to play for
+
+When the collars come off the eighteen, **nobody thinks to include Dov** — he is standing with the nobility in clean clothes, holding a spear, on the correct side of the yard.
+
+He does not raise his hand either.
+
+**That is the whole argument, in one silence, in the party's own camp.** Let a player notice it. Do not point at it.
+
+### Ysabel's defence, which is entirely true
+
+If challenged she will not be embarrassed, because she has nothing to be embarrassed about by the standards of anyone she knows. She paid a debt that would have ruined him. He eats at her table. Nobody has ever raised a hand to him. In three years he walks away clear, with money and a character reference, which is more than a cell would have given him.
+
+All of it is true. None of it is the point. **Let her be reasonable — it is far more uncomfortable than letting her be cruel.**
+
+### Live wire
+
+Ysabel is financially ruined and facing a trial. **A term of service is an asset.** If she is detained, or convicted, or simply desperate enough, Dov's remaining three years are a thing that can be sold to satisfy her creditors — and her principal creditor is Lord Ironwake. **The man may walk out of this chapter having been resold to the person the party is fighting.** Nobody has told him this. He may have worked it out.
+
+> **Continuity note for you:** `Solteres.md` says humans can be purchased when sentenced to **50 years or more**, and that corrupt officials abuse it. That is a *different and involuntary* instrument — the one that manufactures permanent human stock. Dov's is the voluntary one: a short sentence discharged by self-sale. Both can exist and the setting is richer for having two doors. **If you'd rather there be only one rule, that's the line in `Solteres.md` to change.**
+
+### ⚠️ Ysabel is a slaveholder — and this chapter is where it surfaces
+
+Dov is not the whole of it. **Ysabel's textile mills and warehouses are worked by non-human slaves, bought outright.** If the party presses her on slavery at any point on this road — and Bramblefen guarantees they will — she tells them so without embarrassment, because she has never had cause to be embarrassed about it.
+
+**Her argument, sincerely held:** non-humans are beneath humans. Holding them is a kindness and a civic good. They are fed, housed, kept safe, and given meaning they could never have arranged for themselves.
+
+**Play her reasonable, never cruel.** She does not raise her voice. She has never had a worker beaten and would be genuinely upset to hear of it. The first objection she meets with bewilderment rather than defence — she assumes the party has misunderstood, and explains it again more kindly. Pressed harder, she reaches for the Church: the ruling concerns *people*, and this is a matter of category, not morality. Every institution she has dealt with in her life agrees with her.
+
+**And the exception she makes for the party is the worst thing about her.** She has travelled for weeks with an elf, a half-elf, and whatever Virgil is, in perfect courtesy, and she squares it without a flicker: *they are different. They are named. They serve the Church.* She will say this to their faces as a compliment.
+
+**Do not let a good Persuasion roll convert her.** Let it land, let her go quiet, and let her be a shade colder afterwards — she now knows these people judge her, and she still needs them, and they still need her cover at that gate.
+
+**What it does to the chapter:**
+- Three or four of the party are exactly who she buys. **Gimble makes it four** — and they are about to pull a gnome out of a cage.
+- **Erwana's flinch from her was never trauma; it was accurate.** A half-Tabaxi read a noblewoman in one second and was right. If the party works that out, Erwana's judgement becomes something they trust.
+- They are Penitents of a Church that outlawed slavery, escorting a slaveholder, to raid a slaver holdfast. **Nobody has made them look at that yet. This chapter does.**
+- **She asked all four of them to be her champion.** Ask again after this conversation.
+
+### How to use them
+
+- **They make the Buyers' Gate work.** A merchant arriving to shop for stock with no retinue is a merchant nobody believes. Ysabel's cover is *only* credible because these five are standing behind her looking bored. Branch A gets noticeably harder without them.
+- **They cannot take the Drain.** Five untrained people are not crawling a trapped smuggler's channel. **Choosing Branch B forces a split** — somebody stays with the carts, the animals, and Ysabel's household outside the wall, and the party has to decide who and has to accept that those people are alone in a fen for several hours. That is a real cost and it should be paid consciously.
+- **Give them jobs, not initiative.** Holding a door, carrying Cobb, minding the horses, keeping Erwana out of the yard, getting freed men onto a cart. A PC who assigns a task well should feel it pay off.
+- **Their deaths are the party's.** Nobody here chose this. If Cael dies in a yard the party led him into, that is on the players, and they will feel it more sharply than any of the eighteen dying — because they knew his name a day earlier and he poured their wine.
+- **If Ysabel is detained,** her people do not leave the fen without her. Perrin will refuse point-blank. That is a second problem stacked on the first, and it is a good one.
 
 ## Bramblefen
 > **Read-aloud — first sight of Bramblefen:**
@@ -79,7 +189,8 @@ During the conversation a few things need to come out:
 
    The whole back half of this chapter was built assuming the masked man dies in the arena. He almost certainly will not now.
 
-   - **Free Gimble and the match cannot happen.** There is no other opponent in the compound. Mott does not fight, the crowd never assembles, and — per item 12 — **that alone means Vaskar never gets his moment and Ysabel is never detained.** Freeing Gimble quietly wins Ysabel's trial as a side effect. Do not tell the party. Let it land in Solteres.
+   - **Free Gimble and the match cannot happen.** There is no other opponent in the compound. Mott does not fight, the crowd never assembles, and — per item 12 — **that alone means Vaskar never gets his moment, and Ysabel is not detained at Bramblefen.**
+     **⚠️ That is not the same as winning her trial. See item 12a.** Cancelling the match keeps her out of a cell in the fen. It does nothing whatsoever about the Juggernaut, who is still Lord Ironwake's champion and will still be standing in that courtyard in two days.
    - **It also removes Anselm's signal.** Anselm is waiting for the one moment every eye in the compound is on the fence. No match, no moment. **He will need a new trigger, and the obvious one is the party themselves** — see item 8. If the party frees Gimble and then does something loud, that *is* the signal. If they free him and go quiet, Anselm holds, and the revolt slides to whenever the party forces it.
    - **Expect them to hit the Deep Cages first and hardest**, ahead of Cobb, ahead of the ledger, ahead of everything. That building is now the most heavily guarded on the map (one Fen Guard on the outer door, two of Ironwake's inside) and it holds both of the chapter's biggest levers, Mott and Gimble, in adjacent cells. **This is good. Let it be the hard fight.**
    - **⏳ But it collides with Cobb.** Cobb dies when Vaskar walks to the arena. If the party spends the whole afternoon getting Gimble out, the old man is on the floor when they reach the Hall — and JonLief's trail to Rowan goes with him unless they get the working ledger anyway. **That is the chapter's real dilemma now, and it is a better one than the original:** the man they can see suffering, or the man who knows where JonLief's son went. Make them feel the hour.
@@ -89,7 +200,7 @@ During the conversation a few things need to come out:
    - He is **the answer to the first half of their Chapter 1 orders** — *find out what happened to the first team.* Producing him alive in front of Vozruk is the only part of that mission this party has ever completed, and it is worth something against five hundred years each.
    - He is **proof a Penitent was enslaved by Ironwake's chainmaster**, which is leverage on a lord that has nothing to do with Cobb's ledger and arrives exactly when they need it.
    - He **corroborates Wolfram.** He saw the four-armed woman in the tomb too. Wolfram has been carrying that alone since Chapter 2.
-4. Old Cobb remember JonLief's wife and child.  They arrived about a month ago.  He has seen hundreds of slaves come and go over the years, but these were recent.  Nothing speical about them.  The woman (JonLief's wife) died shortly after she arrived.  She was in bad shape when they arrived.  Starved, dirty, and looks to have taken several beatings.  She was hot with fever.  The boy (Rowan) was not is much better shape, but was not sick.  He was cleaned up and sold quickly.  He will need to check the working ledger in Vaskar's office to know who the boy was sold to.  That book is current business and stays in the Hall; it is a different book from the one Cobb gave Erwana.
+4. Old Cobb remember JonLief's wife and child.  They arrived about two months ago.  He has seen hundreds of slaves come and go over the years, but these were recent.  Nothing speical about them.  The woman (JonLief's wife) died shortly after she arrived.  She was in bad shape when they arrived.  Starved, dirty, and looks to have taken several beatings.  She was hot with fever.  The boy (Rowan) was not is much better shape, but was not sick.  He was cleaned up and sold quickly.  He will need to check the working ledger in Vaskar's office to know who the boy was sold to.  That book is current business and stays in the Hall; it is a different book from the one Cobb gave Erwana.
 
    **Why Vaskar has him tied to a chair:** for years small pieces of Cobb's old records have been surfacing where they shouldn't, and Vaskar has finally worked out the leak is his own clerk.  He wants the second ledger and the names of everyone who has seen it.  Cobb cannot tell him — he gave the book away and does not know where it is now — so no amount of pressure produces anything.  Vaskar cannot tell the difference between a man protecting a secret and a man who no longer has one.
 
@@ -148,6 +259,25 @@ During the conversation a few things need to come out:
    **If any one fails,** he lets her go and doesn't spend a man on it. She is worth something to Ironwake, but she is not worth anything to Vaskar dead or costly, and he prices everything.
 
    **What this means at the table:** the party can save Ysabel without ever knowing they did it, and without ever agreeing to be her champion. Freeing Mott, arming the pens, or simply picking a fight with Vaskar all break the chain. **Do not tell them.** Let them find out in Solteres what their afternoon bought.
+12a. **⚠️ YSABEL HAS TWO SEPARATE PROBLEMS. DO NOT LET THEM BLUR.**
+
+   This is easy to get wrong at the table, because both problems live in this chapter and both can be solved here — but they are solved by completely different actions.
+
+   **PROBLEM ONE — being detained at Bramblefen.** Vaskar takes her after the match and holds her for Ironwake; she forfeits by absence and becomes his property. **Prevented by breaking any one of the three conditions in item 12** — no match, a revolt that isn't put down, or the party engaging Vaskar. **Freeing Gimble breaks the first one on its own.**
+
+   **PROBLEM TWO — the trial by combat itself, in two days, in Solteres.** She has no champion. Ironwake has the Juggernaut. **Cancelling the sparring match does nothing about this.** The match was training, not a qualifier. Mott does not need to spar with Gimble in order to walk into a courtyard and tear an unarmed merchant apart — he was always going to do that regardless of how his afternoon went.
+
+   **The only thing in this chapter that touches Problem Two is removing Mott from Ironwake's service.** Three ways:
+   - **Mott dies**, or is hurt badly enough that he cannot fight in two days.
+   - **Mott and Durgan leave with the party**, because somebody was kind to the big man where the dwarf could see it. Durgan folds instantly for Mott's sake and will not be talked out of it once he's decided.
+   - **Mott and Durgan simply run** — freed, unpursued, gone into the fen. Ironwake's champion does not need to join the party. He only needs to not be in Solteres on the day.
+
+   **Durgan is the whole lock.** Mott will not go anywhere Durgan does not lead him, and Durgan will not move for his own sake. Kindness to Mott, witnessed by Durgan, is the key — which is exactly what the Deep Cages scene is built to reward.
+
+   **And even then she is not saved.** With his champion gone Ironwake must find another in two days or step into the ring himself, and he will not do either — so what he actually does is look for a way to settle out of court. **That is where Cobb's second ledger and the Ironwake writ stop being loot and start being the thing that wins the trial.** Ysabel's acquittal is bought with paper, not with a sword; Bramblefen's job is to take away the sword so the paper matters.
+
+   > **Open question for you:** what the court in Solteres actually does when the accuser's champion fails to appear — postponement, forfeiture, or the accuser fighting in person. Worth settling before Chapter 8 opens, because the party may well have engineered exactly that.
+
 13. If the revolt happens and the party assist, the slaves will turn to Wolfram for leadership.
 14.  If the revolt happens and the slavers win but the party stay out of it, the salves will view Wolfram as a fraud and turn against the party as just another group of masters.
 15. Old Cobb knew about the tunnel — he is the one who told Erwana to use it.  Her escape was a surprise to everybody else.  When Denrick worked out how she got clear he sold the location to Vaskar for favor and added the traps.  
@@ -161,7 +291,7 @@ All eighteen are men. Not counting The Juggernaut, Old Cobb, Denrick, and Durgan
 Bramblefen holds its people under two different lies, and the men inside know exactly which lie they are.
 
 - **Stock (9).** Non-folk — non-human, and half-human enough to be called it. Bought and sold outright, no paperwork beyond a line in Cobb's ledger. The Church's ruling against slavery is read as applying to *people*, and these are not people. This is how Erwana was held.
-- **Terms (9).** Humans. Each one is a **sentence somebody purchased** — a vagrancy charge, a debt, a fine, lawfully handed down by a magistrate and then transferred like any other asset. This is not slavery. This is a term of service. Everyone involved says so. (See Anselm's file.)
+- **Terms (9).** Humans. Each one is a **sentence somebody purchased** — a vagrancy charge, a debt, a fine, lawfully handed down by a magistrate and then transferred like any other asset. This is not slavery. This is a term of service. Everyone involved says so. (See Anselm's file.) **Dov Brandt, walking in alongside the party as Ysabel's guard, is a Terms man with three years left — and he was sold on this very block.** The comfortable version and the brutal version of the same instrument, in the same yard, on the same afternoon.
 
 **The friction this creates is free drama.** The Terms men believe, or tell themselves, that there is a date on the far end of this. The Stock know there is no date. When the revolt is argued in the pens, that is the fault line — and Anselm's real achievement is that he has held both halves together for four months. It also means a party that frees "the slaves" is quietly making a legal argument they may not realize they are making: Vaskar will insist to their faces that nine of these men are *lawfully indentured* and that the party is stealing property from a magistrate's court.
 
@@ -285,7 +415,7 @@ Whatever they pick, note it. These men are a thread, not a loose end — they re
 
 ### What the evidence is worth
 - **The working ledger** (Vaskar's office) — current business. The paper trail to Barney Soot and to the unnamed cult buyers. Worthless as leverage, essential to JonLief.
-- **Cobb's second ledger** (already in the party's hands, via Erwana) — decades of sales the masters wanted forgotten, and the names that lead back to Ironwake. Useless for finding Rowan, devastating for everything else.
+- **Cobb's second ledger** (in the party's hands, via Erwana) — years of sales the masters wanted forgotten, running to about six weeks ago, and the names that lead back to Ironwake. **It confirmed Elizabeth and Rowan were brought here two months ago, but not who bought the boy** — that sale postdates the book. Devastating as leverage; incomplete as a trail. **Promised to Ysabel once everyone is clear of the fen.**
 - **The Ironwake writ** (in Vaskar's strongbox) — a standing order under Ironwake's own seal granting Bramblefen his protection and his steward first pick of stock. This is the document that ties a lord to a crime the Church has ruled illegal. It is the single most valuable object on the map.
 - **The master collar-keys** — practical (frees anyone) and symbolic. Give them to JonLief.
 

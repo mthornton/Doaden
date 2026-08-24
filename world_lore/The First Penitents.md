@@ -150,6 +150,21 @@ This is the payoff. **He closes the oldest open thread they have** — Vozruk's 
 
 ---
 
+## ⚰️ Their brands may still be pulling
+
+**A consequence of the leash rules that lands directly on this file** *(see `The Office of the Lost Flock.md`)*: **death does not stop the pull.** A brand goes on giving a bearing out of a corpse until the body rots past holding it — a month or so in the open, **years** in cold, salt, bog, or a dry crypt, and **never, if the remains were deliberately preserved.**
+
+Four of the first team were bled into barrels over four days on Dol Island in late June 1126.
+
+- **Where are those bodies now?** If they went into the sea or the sand, they are quiet by August. If they are still in the catacombs — dry, cold, and under ground that is shielded past divine reach *(which suppresses a pull without ending it)* — **they could pull for years, the moment anyone carried them off the island.**
+- **And Gimble is alive and branded in a Solteres fen.**
+
+> **What this means for Provost Sault's decision** *(see `Emeric Sault.md`)*: the first team's file was never assigned, so nobody has ever prayed over it and nobody knows any of this. **The moment a Shepherd is assigned that file, up to five bearings light up at once** — four of them pointing at an island the Church would rather not discuss, and one of them pointing at Bramblefen.
+>
+> **This is the strongest available answer to "why did Sault open the party's file two weeks ago."** He did not need a reason about the party. He needed a reason about Dol.
+
+---
+
 ## Decisions for you
 
 1. **Is the herald from St. Pyotr's the man who ran the harvest on Dol?** *Recommended: yes.* It costs nothing, it makes the escape at the end of Chapter 4 retroactively awful, and it hands the party a personal reason to hunt a man they currently think of as "the one who got away." If you'd rather keep him unlinked, cut the headdress from the beach scene and Gimble just describes "a tall one who gave the orders."

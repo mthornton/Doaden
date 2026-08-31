@@ -1326,7 +1326,7 @@ It was the first genuine stretch of nothing since the branding, and it gave them
 
 An amulet with one charge left, which goes one place only — a ring of runes cut into the floor of a crypt on an island none of them has any reason to go back to.
 
-A book called *Myths of the Old Gods*, which has been in the bottom of JonLief's pack since St. Pyotr's, and which nobody has opened.
+A book called *Myths of the Old Gods*, which has been in the bottom of JonLief's pack since St. Pyotr's — and which JonLief finally opened, somewhere on the long quiet road, and read from end to end, and read aloud from at the fire until every one of them knew what was in it.
 
 A map that got them to a sanitorium, and which nobody has looked at since to see whether there is anything else on it.
 

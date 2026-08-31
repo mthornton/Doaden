@@ -76,7 +76,9 @@ The cult was not there to kill intruders. It was there to fill barrels, and it h
 
 ### The beach — four days
 
-They were kept chained above the tide line on the second beach and bled into the same barrels as the goddess, a little at a time, because the cult wanted it fresh and wanted it slow.
+They were kept chained above the tide line on the second beach and bled **into the same barrels as the goddess**, a little at a time, because the cult wanted it fresh and wanted it slow.
+
+> **⚠️ Whose blood is in the barrels.** The barrels are **Saraswati's** — that is the harvest, that is the freight, and that is what the party watched go aboard a ship in Chapter 2. The four Penitents were bled *into* it, not instead of it. **Ordinary human blood has no power; a Penitent's is touched by deep magic, because the brand is consecrated.** Why the cult wanted it is a live thread with three good answers and no ruling yet — see `The Blood of Saraswati.md` §5.
 
 **Aldous went first**, and went badly, and was still trying to preach at them when he stopped.
 **Grigor** lasted longest of the four; there was more of him.
@@ -154,7 +156,7 @@ This is the payoff. **He closes the oldest open thread they have** — Vozruk's 
 
 **A consequence of the leash rules that lands directly on this file** *(see `The Office of the Lost Flock.md`)*: **death does not stop the pull.** A brand goes on giving a bearing out of a corpse until the body rots past holding it — a month or so in the open, **years** in cold, salt, bog, or a dry crypt, and **never, if the remains were deliberately preserved.**
 
-Four of the first team were bled into barrels over four days on Dol Island in late June 1126.
+Four of the first team were bled into the cult's barrels over four days on Dol Island in late June 1126 — *into Saraswati's blood, not in place of it (see `The Blood of Saraswati.md`)*.
 
 - **Where are those bodies now?** If they went into the sea or the sand, they are quiet by August. If they are still in the catacombs — dry, cold, and under ground that is shielded past divine reach *(which suppresses a pull without ending it)* — **they could pull for years, the moment anyone carried them off the island.**
 - **And Gimble is alive and branded in a Solteres fen.**

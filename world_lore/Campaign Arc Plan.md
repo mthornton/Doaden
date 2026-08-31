@@ -355,7 +355,7 @@ Play him **warm, and genuinely useful.** He is the first person in the campaign 
 Two things to plant at that first meeting:
 
 - **He notices the guitar.** He doesn't reach for it. He goes still, and asks — carefully, pleasantly — where it came from. Then he accepts whatever lie he's told, while very clearly not believing it.
-- **He offers to read their book.** They've been carrying *Myths of the Old Gods* out of the St. Pyotr's library since Chapter 4 and have never done anything with it. Corbin can read it properly and explain what old gods actually run on.
+- ~~**He offers to read their book.**~~ ⚠️ **Superseded — JonLief already read it** on the road before Bramblefen and briefed the party *(see `What the Party Knows - The Book.md`)*. **Corbin's scene is better now:** he explains what the book leaves out — mana as an economy rather than a mystery — and he is visibly unsettled that four Penitents are walking around with a Church Watcher's manual that contradicts what the Church teaches. He can also date **Vasant Panchami** for them, which turns a footnote into a clock.
 
 **Which means Corbin teaches the party the cosmology he intends to use against them.** When they finally understand the rules of this world, they'll remember whose voice explained them. Nothing else you can do will make the reveal hurt more — so make him likeable for three chapters and let them find out afterwards that between meeting Fenna Pembrook and murdering her for the brush, he waited six months.
 
@@ -394,7 +394,7 @@ Roughly a level per chapter, milestone-paced. Adjust freely — the shape matter
 |---|---|---|---|
 | 7 | The Chained Coast (Bramblefen) | 3 → 4 | Prepped. Ends Act I. **Add:** the guitar wakes in the yard that night (§8.6), and the freed men are pointed at Ald's Star (§8.1a). |
 | 8 | Solteres — The Trial | 4 → 5 | Ysabel, the Juggernaut, the writ. The city arrives with all its teeth. **Corbin appears here** — sketching the trial. Warm, useful, notices the guitar. |
-| 9 | Solteres — Barney Soot | 5 | Rowan. The city's underside. Corbin reads *Myths of the Old Gods* for them and explains what old gods eat. |
+| 9 | Solteres — Barney Soot | 5 | Rowan. The city's underside. Corbin fills the gaps the book left and dates Vasant Panchami — the party read it themselves back in Ch6/7. |
 | 10 | Ironwake | 5 → 6 | Act II boss. His ledgers give up the barrels. **The cosmic plot restarts here.** |
 | 11 | The Church Answers | 6 → 7 | Vozruk. The reckoning for their absence. They come out of it as the Crusade's Tormentor-cult hunters — or as fugitives. |
 | 12 | Underwood & the Coven | 7 → 8 | Virgil's capstone. Rift signs. `Yagas_Brew_5E.md` for the coven. |

@@ -9,7 +9,7 @@
 
 - Two dozen bodies lie in a sunlit cave on Dol Island, dead about two years. No weapons. Homemade jewelry. **Who were they, and what were they doing on that island?**
 - Wolfram saw a woman chained inside a cracked, bleeding tomb. She looked back at him — frightened, and sorry. Then she was gone. **Where is she now? Was she ever there?**
-- Cultists were bleeding that tomb into barrels and shipping them out. **What is the blood for, and where did that ship go?**
+- Cultists were bleeding that tomb into barrels and shipping them out. **What is the blood for, and where did that ship go?** *(Party has since answered the first half at St. Pyotr's: it fuels a ritual to bring Brudda Death through. They have NOT realised how many barrels are still out there — see `world_lore/The Blood of Saraswati.md`.)*
 - A cultist we caught bit off his own tongue and choked to death rather than answer one question, and died smiling. He shouted **"Hail Adephagia!"** first. **Who is Adephagia, and what does she want badly enough that dying is the easier option?**
 - At St. Pyotr's, a cultist accused us of chasing revenge for **Saraswati** being *"outplayed"* by Adephagia. **Who is Saraswati — and who did they think we were?**
 
@@ -49,7 +49,7 @@
 | | |
 |---|---|
 | **The amulet** | **One charge left.** It goes one place only: the pentagram in the crypt on Dol, from anywhere. *When would we ever want to be there?* |
-| **The book** | *Myths of the Old Gods*, taken from the St. Pyotr's library. **Nobody has read it.** |
+| **The book** | *Myths of the Old Gods*, taken from the St. Pyotr's library. ✅ **READ.** JonLief read it on the road before Bramblefen and told the party. See `world_lore/What the Party Knows - The Book.md` for exactly what is now player knowledge. |
 | **The map** | Off a dead cultist. It got us to St. Pyotr's. Is there anything else on it? |
 | **The keys** | Father Ignatius's ring. We never found out what half of them open. |
 | **The guitar** | Bone. Taken off a pile in the armory. Nobody ever asked whose it was. |
@@ -59,7 +59,7 @@
 
 ## Questions we could actually answer, if we bothered
 
-1. **Read the book.** It has been in the pack since St. Pyotr's.
+1. ~~**Read the book.**~~ ✅ **Done** — JonLief, on the road, late Sept 1126. It is still in his pack and it is going into Bramblefen with them.
 2. **Ask Ysabel about Ironwake.** We have been walking beside her for two weeks and have asked her almost nothing about the man trying to destroy her.
 3. **Ask Thaddeus about the old gods.** He is the most educated person we have met and we mostly talked to him about his skin.
 4. **Ask anyone in Solteres about the barrels.** Everything that moves through that city goes through somebody's books.

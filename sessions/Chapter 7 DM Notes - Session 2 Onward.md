@@ -35,7 +35,7 @@ Session 1 ended with the party **inside the walls**, in the yard, at about **5:3
 
 - **Cobb's second ledger.** Years of sales, last entry about six weeks old. **Promised to Ysabel once everyone is clear of Bramblefen — not before.**
 - **Full hit points, full spell slots, everything unspent.** They have not had a fight. This is a very different starting position from the depleted one the original prep assumed.
-- Two knitting spiders (Wolfram), the Ball of Undeath (Luthien), Ignatius's keys, *Myths of the Old Gods* (still unopened), six jars of pickled cabbage.
+- Two knitting spiders (Wolfram), the Ball of Undeath (Luthien), Ignatius's keys, ***Myths of the Old Gods*** — **read, in JonLief's pack, and going in with them** *(see `world_lore/What the Party Knows - The Book.md`; it is a Church book that contradicts Church doctrine, and being searched with it is not neutral)* — six jars of pickled cabbage.
 
 ### What the party knows
 
@@ -129,6 +129,33 @@ The party's stated goal is Elizabeth and Rowan. Everything else has to reach the
 **3. The gnome in the Deep Cages — Dave's PC.** See §6.
 
 **4. The man in the work party — Anselm Vogt.** See §7.
+
+---
+
+## 5a. 🩸 THE BARREL — put this in Session 2
+
+**One prop. Ninety seconds. It restarts the cosmic plot in a chapter that has none.** Full write-up in `world_lore/The Blood of Saraswati.md`; this is the table version.
+
+**What it is.** A cask of **Saraswati's blood**, stacked in Vaskar's stores or goods yard with the tallow and the salt fish. Not hidden, not guarded, not special — because to everyone at Bramblefen it is freight.
+
+**Read it exactly this flat:**
+
+> *Standard cooperage, iron-hooped, sealed hard with pitch. Heavier than the ones beside it. Stencilled for a Solteres carter, with a tariff-mark burnt into the head and a buyer's name that means nothing to you.*
+
+**No smell. No seep. No hum. Do not point at it.** Put it on a route they are already taking and let them find it.
+
+- **If they open it:** blood, fresh, faintly warm. Anyone who was in Saraswati's crypt knows it on sight — **no roll.**
+- **If they walk past it:** perfect. Let them. Remembering it themselves in three sessions is worth more than being told now.
+
+**What the party already knows** *(from Ch 2 and Ch 4)*: the blood is Saraswati's, it ships by sea in barrels, and it fuels a ritual to bring **Brudda Death** through. They stopped one such ritual at St. Pyotr's.
+
+**What they do NOT know:** ⚠️ **that there were never only a couple of barrels.** This is the realisation. Everything downstream comes from it.
+
+**The follow-on lead — Ysabel can hand it over, and it costs her nothing:**
+
+> *"Ironwake taxes everything that moves in or out of Solteres. Legal, illegal, he does not care which. If a barrel crossed this duchy, it is in his books — weight, day, where it went, and whatever name the buyer gave."*
+
+**And the part that is free:** Cobb's second ledger is the **paper** of this trade; the barrel is the **cargo**. The party will be holding both by the end of Chapter 7 and nobody has to tell them they match.
 
 ---
 

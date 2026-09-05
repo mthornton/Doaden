@@ -1,7 +1,5 @@
 # The First Penitents — the team lost on Dol Island
 
-> **STATUS: DRAFT for Michael's approval.** Everything here is invention built to fit existing canon (`Chapter 2 Dol Island.md`, `Chapter 1`, `Saraswati and Adephagia.md`, `players/Gimble Beren.md`). Nothing in it has been said at the table. **Open decisions are listed at the bottom — settle those first, then this becomes canon.** Names are placeholders; change any of them freely.
-
 **The one-line version:** Vozruk's first team landed on Dol in the same week the cult's 666-day wait ran out, killed the caretakers, thought they had won, and were still on the island when the harvest crew arrived. They were taken alive, because the ritual needed volume and nobody comes looking for a Penitent. They were bled into barrels on the beach over four days. **Gimble Beren got out. He is the only one who did, and he watched the last of it from the treeline.**
 
 ---

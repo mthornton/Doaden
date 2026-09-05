@@ -124,7 +124,7 @@ The party's stated goal is Elizabeth and Rowan. Everything else has to reach the
 
 **1. The Pens — the trail.** Nobody in there knows anything about the woman and the boy. That's the point; make JonLief ask five times. The empty cell at the back with the loose flagstone is still there (Investigation **DC 12**) — the hollow where the second ledger lived, now empty, because it's in JonLief's pack.
 
-**2. Old Cobb — the answer.** He can describe Elizabeth exactly: starved, beaten, burning with fever, wouldn't let go of the boy, dead within days. **He cannot give the boy's buyer from memory** — that sale is too recent and his eyes are going. It's in the **working ledger in the office**, which is a different book and stays in the Hall. ⏳ He dies when Vaskar walks to the arena.
+**2. Old Cobb — the answer.** He can describe Elizabeth exactly: starved, beaten, sick on arrival, wouldn't let go of the boy, dead inside a fortnight and **burned outside the wall.** ⚠️ **It was not fever** — she stopped caring for the child first, and then the green came: patches, then nodules. **This is Underwood — *the green*, as people are starting to call it — in a strain she took directly from Brudda Death in a bargain to save her son** *(see `world_lore/Elizabeth and the Green.md` — read it before running this scene; the apathy Cobb describes is the price she paid FOR Rowan, and it will sound to JonLief like the exact opposite)*. Vaskar isolated Rowan, saw nothing in him for weeks, and sold him fast and cheap to be rid of him. **Sequence the reveal: dead, then burned, then why.** **He cannot give the boy's buyer from memory** — that sale is too recent and his eyes are going. It's in the **working ledger in the office**, which is a different book and stays in the Hall. ⏳ He dies when Vaskar walks to the arena.
 
 **3. The gnome in the Deep Cages — Dave's PC.** See §6.
 
@@ -156,6 +156,57 @@ The party's stated goal is Elizabeth and Rowan. Everything else has to reach the
 > *"Ironwake taxes everything that moves in or out of Solteres. Legal, illegal, he does not care which. If a barrel crossed this duchy, it is in his books — weight, day, where it went, and whatever name the buyer gave."*
 
 **And the part that is free:** Cobb's second ledger is the **paper** of this trade; the barrel is the **cargo**. The party will be holding both by the end of Chapter 7 and nobody has to tell them they match.
+
+---
+
+## 5b. 🔥🌱 THE BURN RING — outside the north wall
+
+**This is where they burned Elizabeth.** Full background in `world_lore/Elizabeth and the Green.md`. This is the table version.
+
+**Where.** About **sixty yards out from the north wall**, past the midden line, where the ground lifts just enough out of the wet to hold a fire. Not hidden. Nobody at Bramblefen goes there because there is no reason to.
+
+**⚠️ Rule for running it: describe it, then move on.** No emphasis, no pause, no "you get the feeling." It is scenery until a player makes it something else. **If they walk past it, they walk past it** — it does not go anywhere, and it is worth more in Chapter 8 than it is as a shove.
+
+### Read-aloud
+
+> *"Sixty yards out, past the midden, the ground rises into a low hummock — and burnt into the top of it is a circle. A season old, maybe less; the char has gone grey at the edges but nothing has grown back over it.*
+>
+> *Nothing except the middle. Something thick and glossy and very green is coming up out of the ash — leaves like a broad-leafed weed, waxy, dark, and unbothered by the fact that it is October in a marsh. It has come up in a rough oval, about the length of a man lying down."*
+
+### If they look
+
+| | |
+|---|---|
+| **Free, no roll** | It is the only green thing for a hundred yards, and everything else out here is brown and going over. |
+| **Nature / Investigation DC 12** | It is out of season by months, and it is not any fen plant. **And it is growing only inside the burn** — it stops dead at the char line and has not spread an inch outward. |
+| **DC 15** | The growth is **densest toward one end of the oval** — where a chest would be. |
+| **DC 18, or anyone who digs** | Charred bone, in fragments, deliberately broken up. **And the roots are not in the soil. They are in the ash.** |
+| **Anyone who turns a leaf over** | Small green nodules on the underside, in rows. **Like moles.** |
+
+> **That last one is the whole thread in one image, and it costs no roll at all** — it just requires somebody to touch it. Give it to the first player who does.
+
+### Virgil
+
+He is an alchemist who has believed since Chapter 1 that fungal symbiosis is what people are *supposed* to become, and he has been proud of it out loud.
+
+**Do not tell his player how to feel.** Just make sure he is standing there, and make sure it is interesting. He is the only person in the party who can tell that this is not a plant behaving like a plant.
+
+> ### 🎯 The scene this is actually for
+>
+> **Run the ring AFTER Cobb**, if you can steer it — on the way out, via the drain.
+>
+> Because then it is not a curiosity in a marsh. **JonLief knows what was burned there**, and he is standing over it, and the thing growing up out of his wife is thriving.
+>
+> And Virgil is crouched down beside it, fascinated.
+>
+> **Say nothing. Let the table sit in it.** That is the best ninety seconds available in this chapter and it needs no mechanics at all.
+
+### Practical rulings
+
+- **Touching it is safe.** No pods, no spores, nothing airborne — the sickness needs far more than a brushed leaf. **Do not tell them that.** Let them worry, and let them decide whether to burn it again.
+- **A sample is worth having.** It is the only physical evidence of the fast case in existence, and **Thaddeus and Marion have spent two years at Underwood without one** *(`Underwood.md`)*. A party member who pockets a cutting has done something genuinely important and will not know it for two chapters.
+- **If they burn it:** it burns. Whether that is the end of it is `Elizabeth and the Green.md` §4, and that is still your call.
+- **If nobody ever looks:** fine. It is sixty yards outside a wall the party will be near again, and it will still be there — bigger — whenever you want it.
 
 ---
 

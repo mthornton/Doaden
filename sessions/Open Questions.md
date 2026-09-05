@@ -30,8 +30,8 @@
 
 ## Underwood
 
-- A farming village a day from Haleyon has been turning green for two years — patches, then pods, then spores, then death. The infected stop caring and start protecting the pods. **What is doing this?**
-- The magic is in the **seeds**, not the fruit: enchantment, necromancy and transmutation braided together. That is not a disease. That is a design. **Designed by whom?**
+- A farming village a day from Haleyon has been turning green for two years — patches, then pods, then spores, then death. The infected stop caring and start protecting the pods. **What is doing this?** *(DM: answered — the growing rift. See `world_lore/Elizabeth and the Green.md` §6.)*
+- The magic is in the **seeds**, not the fruit: enchantment, necromancy and transmutation braided together. That is not a disease. That is a design. **Designed by whom?** *(DM: nobody designed it and it is designed anyway — it is the rift, and the grammar is Brudda Death's. **And the party has not yet noticed that a spore is a seed**, which is the whole vector for Underwood.)*
 - A **coven of witches** is growing them somewhere east. Willowbread died getting that much out.
 - The Church refused to send help because of **a war in the north**. **What war? Since when?**
 

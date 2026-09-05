@@ -177,6 +177,8 @@ Erwana's route. She swears it is safe. She is telling the truth as she knows it,
 > **Read-aloud — the grate:**
 > *"The fen gives up a smell like a wound. The grate is where she said it would be, half-drowned, the bars sprung loose on one side. Beyond it the channel runs black and low under the wall. Erwana is already nodding — 'This way, this way, it's nothing, I did it in the dark and half-starved' — and she is not lying to you."*
 
+> 🔥🌱 **THE BURN RING is out here** — sixty yards off the north wall, past the midden. A season-old scorched circle with something thick, waxy and very green growing up out of the ash, in a rough oval the length of a man lying down. **Anyone who turns a leaf over finds small green nodules on the underside, in rows, like moles.** This is where they burned Elizabeth. **Describe it flat and move on**; it is worth ten times more after Cobb has talked. Full detail and DCs: `Chapter 7 DM Notes - Session 2 Onward.md` §5b; background in `world_lore/Elizabeth and the Green.md`.
+
 Denrick sold the route to Vaskar after she ran and seeded it afterward. Run the three hazards in order, spaced by crawl:
 
 1. **The spiked sump.** Dex **DC 15**, 2d6 piercing, and the lead crawler is stuck (Str DC 12 to pull free) — noise if they fail twice.
@@ -318,7 +320,7 @@ He is telling the truth. He gave the book away and does not know where it went. 
 >
 > **If they get here late:** don't say "he's dead." Give them the room — the chair, ropes cut not untied, the working ledger still open on the desk where Vaskar had been reading entries aloud to a man whose eyes had stopped being able to check them.
 
-Cut him loose and he pours out everything: Elizabeth, the fever, the boy cleaned up and sold quickly, and **Barney Soot** — but only if they get the working ledger from the office, which is a different book and it stays in the Hall. **The party already has the second ledger and already knows Elizabeth and Rowan were here; what Cobb and the working ledger add is the name of the man who bought the boy.**
+Cut him loose and he pours out everything: Elizabeth, the sickness *(⚠️ not fever — see `world_lore/Elizabeth and the Green.md`)*, the burning outside the wall, the boy held apart for weeks and then sold off fast and cheap, and **Barney Soot** — but only if they get the working ledger from the office, which is a different book and it stays in the Hall. **The party already has the second ledger and already knows Elizabeth and Rowan were here; what Cobb and the working ledger add is the name of the man who bought the boy.**
 
 ### 8. Sundown — the match
 > *"They've dragged the fence into a circle in the middle of the yard, and every man in Bramblefen who isn't chained is leaning on it. The masked man is walked out. He doesn't struggle. He doesn't look at anyone. And then the doors of the Deep Cages open, and the crowd makes a sound you've heard before at fairs and hangings, and the ground moves."*

@@ -40,9 +40,19 @@ The single most confusable thing in the session. They are different books, in di
 
 Everything, going back decades. Cobb remembers every transaction he ever recorded, the way some old men remember every hymn from childhood. Names, faces, buyers, prices. He can name, buyer by buyer, the full shape of Ironwake's slaving — the single most dangerous document in the fens, carried in a dying clerk's skull.
 
-**He remembers a half-elf woman and a small boy, brought in a month ago by men who called it "clan business," and he remembers exactly who bought them. The woman died from sickness before the buyer could take her. Her body was burned.**
+**He remembers a half-elf woman and a small boy, brought in about two months ago by men who called it "clan business." The woman died of sickness within a fortnight and her body was burned outside the wall. The boy was held apart for some weeks and then sold off quickly and cheaply — and that sale is the one line Cobb cannot produce from memory.**
 
-**What he cannot give from memory: the boy's buyer.** He can tell JonLief everything about **Elizabeth** — that she came in starved and beaten and already burning with fever, that she would not let go of the boy, that she was dead within days and they burned her because of the sickness. That is the part that lives in him. But the boy was one line in a month of lines, written in a failing hand by a man whose eyes are going, and the sale was recent enough that it has not settled into memory the way forty years of older business has. He will say so, precisely, in the way that is most maddening to a man who has crossed a continent:
+**What he cannot give from memory: the boy's buyer.** He can tell JonLief everything about **Elizabeth** — that she came in starved and beaten and already sick, that she would not let go of the boy, that she was dead inside a fortnight and they burned her because of what was on her. That is the part that lives in him.
+
+> ### ⚠️ What Cobb actually saw — read `Elizabeth and the Green.md` before running this
+>
+> He will call it **fever**, because that is the word everyone at Bramblefen used. It was not fever.
+>
+> **First she stopped caring about the boy.** Not cruelly — she simply stopped answering him, stopped looking when he cried, and everyone read that as a woman breaking down. **Then, after about a week, the green came:** patches across the arms and throat, then small nodules pushing up out of them, like moles. They did not hurt.
+>
+> Vaskar had her killed and burned, and isolated the boy, and sold him weeks later for far less than a healthy half-elf child is worth — **because he wanted him gone.**
+>
+> **Give it in that order: dead, then burned, then why.** The third one is the one that does the damage. But the boy was one line in a month of lines, written in a failing hand by a man whose eyes are going, and the sale was recent enough that it has not settled into memory the way forty years of older business has. He will say so, precisely, in the way that is most maddening to a man who has crossed a continent:
 
 > *"The record would indicate — and it would, if I had it — a sale within the fortnight. A sweep, I believe. Solteres. I could not swear to the name. I would not give you a name I could not swear to."*
 

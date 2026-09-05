@@ -108,6 +108,46 @@ So: **the Church genuinely does not know that most of the missing are dead.** A 
 
 ---
 
+---
+
+## 🪜 The three phases
+
+A Shepherd is made in three stages, and **the middle one is a branding.**
+
+| | | |
+|---|---|---|
+| **Apprentice** | **Unbranded. No pull. Never assigned a file.** Works alongside a master, goes where the master cannot, does the talking, carries the load, and learns the trade by watching it done. **Typically five to eight years**, and it ends when the master says it ends. | **He can walk away.** That is the whole point of making it long. |
+| **Acolyte** | Branded at the closing ceremony, and **the brand is what gives him the pull.** From that day he **works alone**, takes his own files, and starts his own count. | **Ten years, minimum.** Most of a Shepherd's career is here. |
+| **Master** | Ten years an Acolyte. May take an apprentice. | Baltus (22 yrs), Hedda (16), Sault, both Kesslers. |
+
+### ⚙️ The Shepherd's brand
+
+**The Church brands its shepherds with the same iron it brands its lambs.** Same forge, same rite, **same shoulder.**
+
+The mark is not identical — a **Penitent** carries a sun with a tear falling from it; a **Shepherd** carries the sun with a small lamb beneath it — but at a glance, across a room, on a man stripped to the waist, **they look like the same thing.** That is not an accident and nobody in the Office pretends otherwise.
+
+> **This is the piece of the Office that says the most about it.** They do not simply administer the leash. **They put it on themselves, deliberately, in a ceremony, as a promotion.**
+>
+> And when a Shepherd tells a Penitent *you are not a prisoner, you are being saved* — **he has the same burn on the same shoulder, and he chose his.**
+
+**What the brand does for him:** it is what lets the rite of assignment reach him. **No brand, no pull, no files.** An apprentice is not a junior Shepherd with a small caseload. He is **not yet a Shepherd at all**, and the Office is exact about this.
+
+**What the brand does to him** — *(optional, and a very good secret if you want it)*: a consecrated mark on a shoulder is a consecrated mark on a shoulder. **The Office can find its own.** Nobody discusses it, every Shepherd knows it, and it is precisely why a Shepherd who goes wrong cannot simply walk into another diocese and disappear. *(See `Hedda Merrow.md`.)*
+
+### What an apprentice is worth
+
+Because he is unbranded, an apprentice can do things no Shepherd can, and the Office uses him for exactly that:
+
+- **He is not recognisable.** No colour, no cloak, no lambs. He can drink in the room, ask the questions, and walk out.
+- **He cannot be felt, followed, or recalled.** By anyone.
+- **He carries no lambs, because none of the losses are his.** His count starts at the brand. **An apprentice's coat is clean and it means nothing yet.**
+
+### ⚠️ And the severance rite is not taught to apprentices
+
+**The ceremony that cuts a Mark of Atonement free** — the one clean way out of the leash, the thing `Hedda Merrow.md` is built on — is taught at the branding, or after it. **An apprentice does not have it.**
+
+> **If a party ever has an apprentice in it, that is the shape of his whole arc.** He is travelling with people who were branded against their will, he is the only unbranded person among them, **he will one day be asked to volunteer for the same iron** — and the thing that could free his friends is on the far side of that ceremony.
+
 ## What they actually do
 
 Most of the work is not hunting. It is walking toward a bearing and finding out what is at the end of it.

@@ -89,7 +89,11 @@ By the time she introduces herself she has usually already decided. The hair say
 
 ## Baltus
 
-He trained her. Sixteen years ago she was a thief with a suspended sentence and he was the man who argued she should be given a coat instead of a cell, and for six years they worked the Southern Diocese together and she has never met anyone she respected more.
+He trained her. Sixteen years ago she was a thief with a suspended sentence and he was the man who argued she should be given a coat instead of a cell, and for six years they worked the Southern Diocese together **as his apprentice** and she has never met anyone she respected more.
+
+**He stood at her branding.** *(See `The Office of the Lost Flock.md`, The three phases — an apprentice takes the Shepherd's mark at the close of the apprenticeship, and that is what gives him the pull.)* **She has the same burn on the same shoulder as every Penitent she has ever been sent after, and she chose hers**, and she has never once mentioned that to any of them.
+
+**She is a Master now** — sixteen years, well past the ten — **and she has never taken an apprentice and never will.** She would have to teach him or lie to him every day, and she is not willing to do either.
 
 **He believes she stopped counting.** That she got tired, and got efficient, and let the work become a job — and that his tally is the difference between them.
 

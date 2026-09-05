@@ -15,6 +15,14 @@ He is big. Not the Juggernaut's kind of big; the ordinary human kind, run to hea
 
 The cloak is deep violet and it goes to his heels, and it is **covered** — collar to hem, front and back, sewn in careful rows — in **small silver lambs.** Thirty-one of them, if anyone counts, and they chime softly against one another whenever he moves.
 
+> ### 🪜 Master Shepherd — and he has trained exactly two people
+>
+> Twenty-two years. Apprentice, then Acolyte, then Master *(see `The Office of the Lost Flock.md`, The three phases)*. A Master may take an apprentice, and Baltus has taken **two.**
+>
+> **The first was Hedda Merrow**, sixteen years ago — six years in the Southern Diocese together, and he has never met anyone he respected more, and he believes she has since let the work become a job.
+>
+> **The second is the one walking beside him now.** ⚠️ **He is trying again**, and he is watching this one for signs of the first, and he would not put it that way and could not be talked out of it.
+
 > **⚠️ This is not the uniform.** The Office issues a lamb for every Penitent a Shepherd loses; almost every Shepherd puts them in a box and does not look at them again. **Baltus is one of two men in the Office who wears his.** *(The other is Ivo Kessler, and nobody has ever said that to Baltus's face.)* His colleagues think the coat is zeal — a private weight made public — and they are polite about it and they mean it as a criticism. **A purple cloak means Shepherd. A purple cloak that chimes means him.**
 
 It is a great deal heavier than a cloak should be. He has never once adjusted it.

@@ -27,11 +27,12 @@ Once he had the route, Denrick hedged the way he always does: he seeded the run 
 
 **The hazards, in order:**
 
-| # | Hazard | Check | Effect |
-|---|---|---|---|
-| 1 | **Spiked sump** | Dex **DC 15** | 2d6 piercing; lead crawler stuck (Str DC 12 to pull free). Noise if they fail twice. |
-| 2 | **Tar barrel** on a trip cord, on the incline | Dex **DC 15**, half on **10** | 2d6 bludgeoning, prone / pushed back 10 ft. The reek marks them — disadvantage on Stealth until they wash. |
-| 3 | **Rat swarm** (CR 1/4) | — | **Only triggers if the party is carrying Denrick's "lucky" sack.** No sack, no swarm — let them feel clever. |
+| Num | Hazard | Check | Effect |
+| --- | ------------------------ | ----------- | ------------------------------------------------------------------------- |
+| 1 | **Spiked sump** | Dex **DC 15** | 2d6 piercing; lead crawler stuck (Str DC 12 to pull free) |
+| 2 | Tar barrel | Dex DC 15, half on 10 | 2d6 bludgeoning, prone / pushed back  10 ft. |
+| 3 | **Rat swarm** (CR 1/4) | — | **Only triggers if the party is carrying Denrick's "lucky" sack.** |
+
 
 **The cruel bit:** **Erwana will swear the drain is safe, and she is telling the truth.** She went through it in the dark, half-starved, four weeks ago — before Denrick found it. Her information isn't a lie, it's *stale*, and the party has no way to know that until the sump. If Erwana leads and eats the spiked sump, let her; her being wrong and knowing it is worth more than the 2d6.
 

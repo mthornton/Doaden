@@ -103,11 +103,13 @@ Cosmic, slaver, Underwood. Underwood is the least connected, the least PC-facing
 - That is not botany. That is harvesting. That is a Collector's crop, and the people going quiet and lying down are being *processed*.
 - The seeds carry Enchantment/Necromancy/Transmutation — Virgil confirmed this at the table already.
 
+✅ **This is now canon and it has a rule.** *(`Elizabeth and the Green.md` §4.)* **The infection only takes root where the rift has thinned the barrier, and lies dormant until the rift opens.** On ordinary ground nothing happens. So outbreaks are a **map of the rift**, not a public-health emergency; **the pandemic is the stake if the party fails**, not a subplot running beside them; and Virgil gets a genuine alternate victory — **Rowan is immune, and a vaccine defuses the weapon before it fires** *(§10 of that file)*.
+
 So the coven of witches inland isn't a side quest; they're a cult cell feeding the Hecatomb, and Underwood is your first visible **rift sign**. One sentence of connective tissue and you keep all your material, lose an entire plotline's worth of table time, and hand Virgil a cosmic-plot stake he currently lacks. `Yagas_Brew_5E.md` (the Coven one-shot) is sitting in your catalog for the coven itself.
 
 ### 3.6 Small maintenance
 
-- **Virgil has no character file.** He's the only PC without one and he's carrying the Alchemical Order thread. Worth writing.
+- **Virgil has no character file.** He's the only PC without one and he's carrying the Alchemical Order thread **and now the vaccine path** *(`Elizabeth and the Green.md` §10)*. Worth writing — he has gone from the least plot-connected PC to holding an alternate victory condition.
 - **`Solteres.md` needs the typo pass** you've already flagged, plus Ironwake and Ysabel probably deserve their own files now that he's the Chapter 7–10 antagonist.
 - **`Master Thaddeus and Marion.md` is stale** — stops mid-backstory, contradicts Ch6 on the squid/worm question.
 - ~~Decide on Prisoner X soon.~~ **SETTLED (Aug 2026).** Dave is in. Prisoner X is now **Gimble Beren**, gnome ranger — a Penitent and the sole survivor of the first Dol Island team (`world_lore/The First Penitents.md`, `players/Gimble Beren.md`). He joins in the second half of Chapter 7. **Knock-on: the sundown match almost certainly never happens, which means Ysabel is never detained and Anselm loses his signal.** See Chapter 7 DM Notes item 3a.
@@ -331,6 +333,8 @@ Seven things must be true before you can open the final chapter. Prep against th
 5. **They've banked assets.** The §6 conversion table. Track it on one page.
 6. **The Church has taken a position.** Vozruk either sanctions this or hunts them for it. Decide before Chapter 8.
 7. **Level 10–11.**
+
+> 🍄 **And one thing that is NOT on this list, deliberately: Virgil's vaccine.** *(`Elizabeth and the Green.md` §10.)* Under the containment rule the pandemic is Brudda Death's placed ordnance and it only fires when the rift opens — **so a vaccine defuses it before the finale happens.** That is a second way to win, it does not require the Hecatomb, and it means the party can lose the fight and still save the world. **Do not put it on the critical path. Let Virgil's player find it.**
 
 ### 8.6 The vessels, and the schedule for showing them
 

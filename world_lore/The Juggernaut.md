@@ -43,6 +43,16 @@ Play Mott as tragic, not villainous. He is a victim who happens to be a wrecking
 - **Reckless.** While raging, he can attack with advantage; attack rolls against him also have advantage. He almost always does this.
 - **Danger Sense.** Advantage on Dexterity saving throws against effects he can see (traps, breath weapons, spells).
 - **Simple Mind.** He automatically fails Intelligence checks and can't be swayed by logic, bribery, or complex commands. He *can* be reached through simple emotion — fear, kindness, and above all Durgan's voice (see **Bonded to Durgan**).
+> ### ⚠️ THE DOLL IS A TOY — and the party thinks it is the leash
+>
+> Durgan made Mott a doll out of scraps of straw to give him something to do. **It has no power, no calming effect, and no mechanical function whatsoever.**
+>
+> Luthien saw Mott docile with it, then saw Durgan charge the cell door shouting *"Leave him alone, he never hurt anybody!"* and Mott roar — and the party concluded that **the doll pacifies him and Durgan is what makes him dangerous.** Their plan is to remove Durgan and take the doll.
+>
+> **It is exactly backwards.** Durgan is the off switch. And *"he never hurt anybody"* is not literally true — Mott has torn men apart in the ring; Durgan means *he is gentle and they use him as a weapon.* Any guard will contradict the line for free if asked, and nobody has asked.
+>
+> **Attacking Durgan triggers Grief-Rage.** See below, and `Chapter 7 DM Notes - Session 3.md` §9 for how to run the backfire and the escape valves.
+
 - **Bonded to Durgan.** Mott will **never** willingly attack Durgan, and never targets him even while raging. If Mott can see **and** hear Durgan, Durgan can spend an action to **calm** him, instantly ending the rage (no roll — this is trust, not magic). This is impossible during a **Grief-Rage** (below).
 
 **Actions**

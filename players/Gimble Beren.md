@@ -3,7 +3,12 @@
 Gnome Ranger. **Played by Dave.** Joins the party in the second half of Chapter 7.
 
 # Backstory
-**Personal backstory: TBD — awaiting input from Dave.** Everything before he was branded is Dave's to write.
+You spent your formative years traveling between manors and monasteries, performing various odd jobs and services in exchange for access to their libraries. You whiled away many a long evening studying books and scrolls, learning the lore of the multiverse - even the rudiments of magic -and your mind yearns for more.
+
+## Job
+Gimble earns a living as a guide for outsiders who need to navigate through the wilderness around his village.
+
+Gimble is a proud uncle of a young and mischievous nephew who one day decided to steal an expensive piece of jewelry from a merchant's stand. The merchant saw the back of a gnome running away in the dark night. The merchant sent the authorities to the closest gnome village to find the perpetrator. Gimble could not stand the thought of his nephew possibly being locked in a dungeon, so he took the blame and was arrested by the authorities. The authorities brought him to the Church.
 
 **What happened to him on Dol Island is the DM's**, and it is written up in full in `world_lore/The First Penitents.md`. Give Dave that document rather than a summary — the events are fixed, but how much Gimble says about them, and when, is his call.
 

@@ -13,7 +13,7 @@ He was good at it. Too good. A clerk who has recorded every buyer, every price, 
 
 ## Why Vaskar Is Hurting Him
 
-Someone has been using Cobb's old records against Ironwake — a name here, a date there, surfacing where it shouldn't. Vaskar suspects a leak, and Cobb is the likeliest source. He is not wrong. In his last years of freedom, sick with a conscience that arrived decades too late, **Cobb quietly kept a second ledger** — a true copy of the sales the masters most wanted forgotten — and hid it, meaning to do *one* right thing before he died.
+Someone has been using Cobb's old records against Ironwake — a name here, a date there, surfacing where it shouldn't. Vaskar suspects a leak, and Cobb is the likeliest source. He is not wrong. In his last years of freedom, sick with a conscience that arrived decades too late, **Cobb quietly kept Cobb's ledger** — a true copy of the sales the masters most wanted forgotten — and hid it, meaning to do *one* right thing before he died.
 
 **He does not have it any more.** He gave it to **Erwana** the night she ran, told her about the drain, and asked her to get it out of the fen. He does not know where she is, whether she lived, or where the book is now. It is the only right thing he has ever done and he did not expect to survive it.
 
@@ -27,14 +27,14 @@ The deadline is **not** "after dark" — it is *Vaskar's walk to the arena*. He 
 
 The single most confusable thing in the session. They are different books, in different places, doing different jobs:
 
-| | **Cobb's second ledger** | **The working ledger** |
+| | **Cobb's Ledger** | **The working ledger** |
 |---|---|---|
 | Where | Already in the party's hands, via Erwana | Vaskar's office in the Chainmaster's Hall — current business, never leaves the Hall |
 | Covers | Decades of old sales the masters wanted forgotten | The last months, including this one |
 | Worth | **Ironwake.** Names, prices, buyers, the shape of the whole operation | **Rowan.** The name of the man who bought him: **Barney Soot**, chimney sweep, Solteres. Also the lines about women sold to buyers who refused to identify themselves and "paid well" |
 | Useless for | Finding Rowan — it predates him by years | Leverage. It's a business record, not evidence against a lord |
 
-**Optional, recommended:** the second ledger holds a *near miss* — an old entry for a half-elf woman and a boy child, "clan business," wrong date, wrong price, wrong buyer. Not them. It proves Cobb writes down exactly the kind of thing JonLief needs, so the hope transfers to *reach Cobb* instead of dying on an empty page.
+**Optional, recommended:** Cobb's ledger holds a *near miss* — an old entry for a half-elf woman and a boy child, "clan business," wrong date, wrong price, wrong buyer. Not them. It proves Cobb writes down exactly the kind of thing JonLief needs, so the hope transfers to *reach Cobb* instead of dying on an empty page.
 
 ## What He Knows
 
@@ -85,7 +85,7 @@ Everything, going back decades. Cobb remembers every transaction he ever recorde
 **Traits**
 
 - **The Ledger in His Head.** Cobb can recall any slave transaction he recorded in his forty years of free service — buyer, price, date — and can enumerate Lord Ironwake's "household" purchases in full. Treat this as the adventure's key intel, not a die roll. **Exception: the last six weeks.** He stopped keeping the second book when Vaskar began hunting the leak, and Recent business lives in the working ledger, not in his memory; he can describe [[JonLief]]'s wife and son and what became of Elizabeth, but not the name of the man who bought the boy.
-- **Endured Worse.** Cobb automatically refuses to give information to a captor, slaver, or torturer, no matter the pressure. Kindness, not coercion, unlocks him. **He also has nothing left to give** — the second ledger is gone and he does not know where.
+- **Endured Worse.** Cobb automatically refuses to give information to a captor, slaver, or torturer, no matter the pressure. Kindness, not coercion, unlocks him. **He also has nothing left to give** — Cobb's ledger is gone and he does not know where.
 - **Reads a Page Once.** Given light, time, and the working ledger in his hands, Cobb can pull every relevant entry out of it in a single scene — no Investigation checks, no page-by-page search. He is faster at this than any PC.
 
 **Actions**
@@ -95,7 +95,7 @@ Everything, going back decades. Cobb remembers every transaction he ever recorde
 ## Hooks & rewards
 
 - **The rescue.** Cobb is who Vaskar is torturing in the Chainmaster's Hall — reaching him *is* the climax's objective, and freeing him mid-fight is a moral gut-punch (the tortured old man vs. the master who broke him). Vaskar will also use him: *Someone Else's Skin* means the first crossbow bolt of the fight can land in the man they came to save.
-- **The second ledger, closed.** The party already has it. What Cobb adds is the *provenance* — who wrote it, why, and what it cost him. A book nobody can vouch for is paper; a book with a living clerk beside it is testimony. **He asks only one thing in return: that they use it.**
+- **Cobb's ledger, closed.** The party already has it. What Cobb adds is the *provenance* — who wrote it, why, and what it cost him. A book nobody can vouch for is paper; a book with a living clerk beside it is testimony. **He asks only one thing in return: that they use it.**
 - **JonLief's truth.** Cobb is the one who can finally tell JonLief what became of **Elizabeth** — and point him at the working ledger for **Rowan**. Keeping this old man alive suddenly matters more than any coin.
 - **Cobb and Anselm.** Two record-keepers a hundred feet apart, forty years and four months, opposite sides of the same page — [[Anselm Vogt]] has scratched a tally into the Pens wall for every man carried out; Cobb wrote the names of the men who bought them. **Put them in the same room before the session ends if you can.** It will be the quietest and worst scene of the night.
 - **Redemption or reckoning.** Whether Cobb earns mercy or judgment is a table decision. Either way he wants, at the end, to have told the truth once.

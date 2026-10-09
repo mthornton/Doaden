@@ -1,5 +1,8 @@
 # Solteres
 
+https://watabou.github.io/city-generator?size=66&seed=1433510080&name=Solteres&citadel=1&urban_castle=0&plaza=1&temple=1&walls=0&shantytown=1&coast=0&river=1&greens=0&gates=-1
+
+
 Solteres is a the capitol of the Southern Diocese.  A large bustling city fueled by trade.  People come from all over Doaden and lands further off for the trade.  This city became important for trade because of the rich farming lands in the south. 
  
 The Merchant class runs the city and at the upper echelons are obnoxiously wealthy.  The wealth does not trickle down and most residents here are as poor as any other city. 
@@ -47,9 +50,27 @@ Ysabel's mills and warehouses are worked by **non-human slaves**, bought outrigh
 - **They are Penitents of a Church that has ruled slavery illegal, escorting a slaveholder to safety.** Nobody has made them think about that yet. Bramblefen will.
 - **She asked all four of them to fight for her.** Ask again after this conversation and see what the table says.
 
+### ✂️ ⚠️ The thing she owns and does not understand — MAELIS VIRE
+
+**Her dress house runs on one of Saraswati's six art-items, and she has no idea.** *(Full detail: `world_lore/The Art-Items.md` §5.)*
+
+The arithmetic is in her own history. The **weaving mill doubled her margins** — ordinary, explicable, exactly what a mill is for. Then the **dress house** made her *the best in the capital inside one season* and took her from wealthy to one of the wealthiest women in Solteres. **Nobody does that. That is the discontinuity**, and the cause is a pair of **bone-handled shears** in the workbasket of a slave.
+
+**Maelis Vire.** Elf, dressmaker, bought at Bramblefen for the dress house. She has had those shears about **a hundred and fifty years** — longer than Ysabel's family has been in textiles — and she kept them through her own sale for the same reason Sera Oleander kept her carving knife: **a seamstress needs shears and nobody thought twice.**
+
+> 🔑 **Maelis knows, and has never said.** She knows she is better with them than without. She does not know about Saraswati or any god. She knows that **the shears are the only reason she is valuable and being valuable is the only reason she has not been sold** — so she has let Ysabel believe the house's genius belongs to the house. Years of quiet sabotage by omission, by a woman with nothing else to defend herself with. **The party gets somebody to negotiate with, not somebody to rescue.**
+
+⚠⚠ **And Ysabel is already running the Tormentors' selection procedure without knowing it.** At Bramblefen she asked Vaskar for seamstresses and then said *"some of the stock you do have may have worked as tailors — I want to inspect them."* **That is exactly what Ashgate's buyers did to Sera Oleander when they asked to see her hands** *(`The Ashgate Purchases.md`)*. Same procedure, same reason, no knowledge. **The party was standing in the room.** Say nothing; let someone remember.
+
+⚠️ **This is also the hardest test of her you will ever get.** She does not need to be argued down about slavery in the abstract any more. She needs to be shown that **the best thing in her life was made by a person she owns, who she was about to sell, and that she never once noticed.** She cannot be talked out of her beliefs in one conversation — but this is not a conversation, it is evidence.
+
 ### Live wire
 
 She is financially ruined and needs money for a defence. **Her workers are an asset.** If she has to liquidate, she will sell people — regretfully, with genuine reluctance, and she will do it.
+
+> ⏰ ⚠⚠ **AND THAT IS THE CLOCK.** She may sell **Maelis** — the one person actually making her money — because she does not know which one that is. A sale out of Solteres goes through **Ironwake's slave trade**, which is the pipeline **Ashgate** buys from, so the shears would travel east and join **the chisel and the potter's rib** in the Herald's holding. **Three of six vessels in one building, delivered by a frightened woman doing her accounts, and not one person in that chain would know what had happened.**
+>
+> **No villain is pushing this.** The party's window is Chapters 8–10, while she is still ruined. Fix her money and the clock stops. Ignore her and it runs.
 
  
 ## Lord Ironwake 

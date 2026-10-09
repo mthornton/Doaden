@@ -1,8 +1,26 @@
-# The Second Ledger
+# Cobb's Ledger
 
 > **DM-facing design document.** What is actually written in Old Cobb's hidden book, what it reveals at each level of scrutiny, and what it does to everyone who touches it.
 >
 > **Status:** built on established canon (`Chapter 7 DM Notes.md`, `Old Cobb.md`, `Erwana.md`, `Solteres.md`, the Session 1 play notes). **Names of the Solteres figures in §7 are new and yours to change.** Open decisions at the end.
+
+---
+
+## 🏷️ THE TWO LEDGERS — naming convention
+
+**There are two books and they are easy to confuse. Use these names everywhere.**
+
+| Name | What it is | Who has it |
+|---|---|---|
+| **Cobb's Ledger** *(this document)* | **A secret copy Old Cobb kept for himself, hidden from Vaskar** — thirty-eight years of sales, ~200 people, buyers filed under *Ashgate*, drafts guaranteed by named Solteres houses. **It stops six weeks ago**, when Vaskar began hunting the leak and Cobb quit copying. Its value is that it exists *outside* Vaskar's control. | ✅ **Lady Ysabel.** The party handed it over as promised at the end of Chapter 7. |
+| **The Working Ledger** | **Vaskar's own operating book** — the current, official record Cobb was copying from. Recent business, including the sale of every woman at Bramblefen to the scarred men in robes, and **the name of the man who bought Rowan.** | ✅ **The party.** Taken from Vaskar's office in Chapter 7, Session 3. |
+
+**So they are the same business recorded twice**, and each half does a different job:
+
+- **Cobb's Ledger is the history and the names** — decades of it, reaching Ironwake and the Solteres houses. **That is the blackmail document, and the heresy case.** It is what Ysabel wanted.
+- **The Working Ledger is the live trail** — who bought what, lately. **That is Rowan, and the women, and whatever else has moved through that fen in the last six weeks.** It is what the party wanted.
+
+> ⚠️ **Both parties think they got the better book, and both are right about their own purposes.** Neither has read the other's.
 
 ---
 

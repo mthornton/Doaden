@@ -58,7 +58,7 @@ The whole chapter hangs on **sundown**. Say the hour out loud when the party arr
 | **1. Detained at Bramblefen** | Vaskar holds her for Ironwake; she forfeits by absence and becomes property. | Break any one of the three conditions above. **Freeing Gimble does this by itself.** |
 | **2. The trial, in two days** | She has no champion. Ironwake has the Juggernaut. | **Only removing Mott.** Dead, crippled, or gone with Durgan. Cancelling the sparring match does *nothing* here — the match was training, not a qualifier. |
 
-**And even then she isn't saved.** With no champion Ironwake must find one in two days or fight in person, and he'll do neither — so he looks to settle. **Cobb's second ledger and the Ironwake writ are what actually win the trial.** Bramblefen's job is to take away the sword so the paper matters.
+**And even then she isn't saved.** With no champion Ironwake must find one in two days or fight in person, and he'll do neither — so he looks to settle. **Cobb's Ledger and the Ironwake writ are what actually win the trial.** Bramblefen's job is to take away the sword so the paper matters.
 
 **If the party stalls, don't stop the world.** The match happens without them and the revolt goes off badly (Row 3).
 
@@ -320,7 +320,7 @@ He is telling the truth. He gave the book away and does not know where it went. 
 >
 > **If they get here late:** don't say "he's dead." Give them the room — the chair, ropes cut not untied, the working ledger still open on the desk where Vaskar had been reading entries aloud to a man whose eyes had stopped being able to check them.
 
-Cut him loose and he pours out everything: Elizabeth, the sickness *(⚠️ not fever — see `world_lore/Elizabeth and the Green.md`)*, the burning outside the wall, the boy held apart for weeks and then sold off fast and cheap, and **Barney Soot** — but only if they get the working ledger from the office, which is a different book and it stays in the Hall. **The party already has the second ledger and already knows Elizabeth and Rowan were here; what Cobb and the working ledger add is the name of the man who bought the boy.**
+Cut him loose and he pours out everything: Elizabeth, the sickness *(⚠️ not fever — see `world_lore/Elizabeth and the Green.md`)*, the burning outside the wall, the boy held apart for weeks and then sold off fast and cheap, and **Barney Soot** — but only if they get the working ledger from the office, which is a different book and it stays in the Hall. **The party already has Cobb's ledger and already knows Elizabeth and Rowan were here; what Cobb and the working ledger add is the name of the man who bought the boy.**
 
 ### 8. Sundown — the match
 > *"They've dragged the fence into a circle in the middle of the yard, and every man in Bramblefen who isn't chained is leaning on it. The masked man is walked out. He doesn't struggle. He doesn't look at anyone. And then the doors of the Deep Cages open, and the crowd makes a sound you've heard before at fairs and hangings, and the ground moves."*
@@ -396,7 +396,7 @@ Write this down before anyone leaves the table. There is no long rest, and three
 - [ ] **Is Mott still Ironwake's champion?** (dead / crippled / gone with Durgan / still his) — **this, not the match, decides the trial**
 - [ ] **Which of Ysabel's five are still alive?** Perrin · Dov · Symon · Cael · Mina
 - [ ] **Dov — did anyone free him, buy his term, or even notice?** (And does Ysabel still hold it?)
-- [ ] **Who holds Cobb's second ledger?**
+- [ ] **Who holds Cobb's Ledger?**
 - [ ] **Did they get the working ledger and the name Barney Soot?**
 - [ ] **Ironwake writ recovered?**
 - [ ] **Where do the 18 go?** (scatter / hold the fen / Solteres / inland)

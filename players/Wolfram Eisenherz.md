@@ -1,8 +1,25 @@
 # Wolfram Eisenherz
-### Human Paladin 3 — Oath of Devotion
+### Human Paladin 4 — Oath of Devotion
 
 > **Everything you need is on this sheet. You should never have to look anything up mid-game.**
 > If something here contradicts what Michael says at the table, Michael wins.
+
+---
+
+## ⬆️ WHAT CHANGED AT LEVEL 4
+
+**Four things. That's all. The rest of the sheet works exactly as it did.**
+
+| | Was | Now |
+|---|---|---|
+| **Strength** | 16 (+3) | **18 (+4)** |
+| **Hit Points** | 28 | **36** |
+| **Lay on Hands pool** | 15 | **20** |
+| **Prepared spells** | 3 | **4** — you've added **Command** |
+
+**What the Strength bump actually does:** your longsword and javelins go from **+5 to hit** to **+6 to hit**, and from **+3 damage** to **+4 damage**. Athletics goes from +5 to **+6**. You hit more often and harder, every single swing, with nothing new to remember.
+
+**You did not get a new class feature at level 4, and your spell slots did not increase** *(still three 1st-level slots)*. That is normal for a paladin. **Level 5 is the big one** — a second attack every turn, and 2nd-level spell slots.
 
 ---
 
@@ -11,23 +28,23 @@
 | | |
 |---|---|
 | **Armor Class** | **18** |
-| **Hit Points** | **28** |
+| **Hit Points** | **36** |
 | **Speed** | 30 ft. |
 | **Initiative** | **+0** |
 | **Proficiency Bonus** | **+2** |
 | **Spell Save DC** | **12** *(when an enemy resists your magic)* |
 | **Passive Perception** | 11 |
 
-**Longsword:** roll d20 **+5** to hit → **1d8+3** damage
-**Javelin (thrown, 30/120 ft.):** roll d20 **+5** to hit → **1d6+3** damage
+**Longsword:** roll d20 **+6** to hit → **1d8+4** damage
+**Javelin (thrown, 30/120 ft.):** roll d20 **+6** to hit → **1d6+4** damage
 
 | Resource | You have | Refreshes |
 |---|---|---|
 | **Spell slots (1st level)** | ◻ ◻ ◻ | Long rest |
-| **Lay on Hands** | 15 HP pool | Long rest |
+| **Lay on Hands** | 20 HP pool | Long rest |
 | **Divine Sense** | 3 uses | Long rest |
 | **Channel Divinity** | 1 use | **Short** or long rest |
-| **Hit Dice** | 3d10 | Half on long rest |
+| **Hit Dice** | 4d10 | Half on long rest |
 
 ---
 
@@ -35,7 +52,7 @@
 
 | Ability | Score | Modifier | Saving Throw |
 |---|:---:|:---:|:---:|
-| **Strength** | 16 | **+3** | +3 |
+| **Strength** | **18** | **+4** | +4 |
 | **Dexterity** | 11 | **+0** | +0 |
 | **Constitution** | 14 | **+2** | +2 |
 | **Intelligence** | 9 | **−1** | −1 |
@@ -48,7 +65,7 @@
 
 | Skill | Bonus | Use it for |
 |---|:---:|---|
-| **Athletics** | **+5** | Climbing, swimming, shoving, grappling, forcing a door |
+| **Athletics** | **+6** | Climbing, swimming, shoving, grappling, forcing a door |
 | **Persuasion** | **+4** | Talking someone down — your best social skill |
 | **Insight** | **+3** | Reading whether someone is lying |
 | **History** | **+1** | Nobles, wars, heraldry, the Church |
@@ -97,9 +114,9 @@ Each turn you get **all three** of these:
 
 1. **You decide AFTER you know you hit.** Roll to hit first. If it lands, *then* choose whether to spend the slot. Never waste a slot on a miss.
 2. **It costs no action.** It's part of the same attack.
-3. **You can do it more than once per turn** if you have slots — but you only get one attack per turn at level 3, so in practice it's once.
+3. **You can do it more than once per turn** if you have slots — but you still only get one attack per turn at level 4, so in practice it's once. *(At level 5 you get two attacks, and this starts to get frightening.)*
 
-> This is almost certainly what cut the iron-plated hound in half at Ald's Star.
+> A smited longsword hit now averages **about 17 damage** — 1d8+4 plus 2d8 radiant. **Against undead or a fiend, about 22.**
 
 **Your slots are the same pool for smiting and for casting spells.** Three total. Most sessions you'll want to smite with them.
 
@@ -108,12 +125,14 @@ Each turn you get **all three** of these:
 ## CLASS FEATURES
 
 ### Lay on Hands
-**Pool: 15 hit points per long rest.**
+**Pool: 20 hit points per long rest.**
 **Action.** Touch a creature and restore any number of hit points from the pool — you choose how much. You can split it up across the day however you like.
 
 You can instead spend **5 points** from the pool to **cure one disease** or **neutralize one poison**.
 
 *Doesn't work on undead or constructs.*
+
+> **The pool grew by 5 at level 4** — that is a whole extra person picked up off the ground.
 
 ### Divine Sense
 **3 uses per long rest. Action.**
@@ -129,10 +148,12 @@ Until the end of your next turn, you know the **location** of any **celestial, f
 ### Divine Health
 You are **immune to disease.** Nothing to track.
 
+> ⚠️ Worth knowing in this campaign in particular. **The thing people are starting to call "the Green" cannot touch you.** You are the only member of the party who can walk into a sick house without thinking about it.
+
 ### Channel Divinity — 1 use per SHORT or long rest
 Choose one when you use it:
 
-**Sacred Weapon** — **Action.** For 1 minute, add **+2** to your attack rolls with a weapon you're holding *(so your longsword becomes **+7** to hit)*. The weapon glows with bright light 20 ft. and dim light 20 ft. beyond that, and counts as **magical** for overcoming resistance. Ends early if you drop the weapon or are unconscious.
+**Sacred Weapon** — **Action.** For 1 minute, add **+2** to your attack rolls with a weapon you're holding *(so your longsword becomes **+8** to hit)*. The weapon glows with bright light 20 ft. and dim light 20 ft. beyond that, and counts as **magical** for overcoming resistance. Ends early if you drop the weapon or are unconscious.
 
 **Turn the Unholy** — **Action.** Each **fiend or undead** within **30 feet** that can see or hear you must make a **Wisdom save (DC 12)**. On a failure it is **turned for 1 minute or until it takes damage**. A turned creature must spend its turns trying to get as far from you as it can, can't willingly move within 30 ft. of you, can't take reactions, and can only Dash or try to escape.
 
@@ -144,7 +165,7 @@ Choose one when you use it:
 
 **You have three 1st-level slots.** They refresh on a **long rest** (not a short rest). Smiting and casting both draw from these three.
 
-**You know these five spells and can cast any of them.** Two are always available because of your Oath and don't count against your limit.
+**You know these six spells and can cast any of them.** Two are always available because of your Oath and don't count against your limit. **Command is new at level 4.**
 
 ---
 
@@ -155,6 +176,8 @@ Three of your spells need **Concentration**. Rules:
 - **You can only concentrate on ONE spell at a time.** Casting a second one ends the first. *You cannot have Bless and Shield of Faith running together.*
 - **If you take damage while concentrating**, make a **Constitution saving throw (+2)**. The DC is **10, or half the damage taken — whichever is higher.** Fail and the spell ends.
 - Being knocked unconscious ends it. Casting a non-concentration spell does not.
+
+> **Command and Cure Wounds do NOT need concentration**, so you can cast either one without losing Bless.
 
 ---
 
@@ -182,6 +205,30 @@ You ward one creature within range. Any creature that tries to **attack the ward
 - **The spell ends immediately** if the warded creature attacks, casts a spell that affects an enemy, or deals damage to anyone.
 
 > Cast it on someone who's about to go down, or on a helpless person you need to keep alive. **Not** on yourself if you plan to fight.
+
+---
+
+### 🗣️ COMMAND — *new at level 4*
+**1st level · Enchantment · Action · 60 feet · 1 round**
+*Components: V (just your voice — nothing in your hands)*
+
+Speak a **one-word command** to a creature you can see within range. It must make a **Wisdom saving throw (DC 12)**. On a failure, it **does what you said on its next turn**, and does nothing else.
+
+**It doesn't work if:** the target is **undead**, it **can't understand your language**, or your command would be **directly harmful to it** *(you cannot say "die," or "jump," off a cliff)*.
+
+**The five words that always work:**
+
+| Word | What happens |
+|---|---|
+| **Drop** | It drops whatever it's holding, then does nothing else. **Including the weapon.** |
+| **Flee** | It spends its whole turn running away from you as fast as it can. |
+| **Grovel** | It falls **prone** and does nothing else. *Everyone in the party now has advantage on melee attacks against it.* |
+| **Halt** | It doesn't move and takes no action at all. A whole turn, gone. |
+| **Approach** | It walks to you by the shortest route. *Useful for pulling an archer off a wall.* |
+
+> **This is your "I don't want to kill this person" button, and it is also a very good combat spell.** One word takes an enemy's entire turn away — no damage roll, no save-or-half, it simply doesn't get to act. Use **Drop** on the man holding a knife to someone's throat, **Grovel** on the heavily armoured one so the party can pile on, and **Halt** when you need one more round.
+>
+> **It costs a slot you could have smited with.** That's the real decision. One Command is roughly worth one smite — spend it when the turn you steal matters more than 9 extra damage.
 
 ---
 
@@ -218,11 +265,10 @@ A shimmering field surrounds a creature of your choice within range, giving it *
 ---
 
 ### Other spells you could prepare
-On a **long rest** you may swap your three prepared spells (Bless, Cure Wounds, Shield of Faith) for any three from the paladin list. Ask Michael before changing. Common alternatives:
+On a **long rest** you may swap your four prepared spells (Bless, Command, Cure Wounds, Shield of Faith) for any four from the paladin list. Ask Michael before changing. Common alternatives:
 
 | Spell | What it does |
 |---|---|
-| **Command** | One word, one creature, WIS save DC 12 or it obeys for one turn ("drop," "flee," "grovel") |
 | **Divine Favor** | Bonus action; your weapon deals **+1d4 radiant** on every hit for 1 minute (concentration) |
 | **Heroism** | A creature is immune to fear and gains **2 temporary HP** at the start of each of its turns (concentration) |
 | **Compelled Duel** | Forces one enemy to fight you and not wander off after your friends (concentration) |
@@ -238,7 +284,7 @@ Issued by Finnian Quickstep at the camp. Old, dented, scratched, entirely functi
 
 - **Chain mail** — AC 16. *Disadvantage on Stealth checks.*
 - **Shield** — +2 AC. **Required for your Protection reaction.**
-- **Longsword** — deeply scratched. 1d8 slashing (1d10 if you use both hands, but then no shield)
+- **Longsword** — deeply scratched. 1d8+4 slashing (1d10+4 if you use both hands, but then no shield)
 - **Javelins ×4** — throwable, 30/120 ft.
 - **Explorer's pack**, bedroll, waterskin
 - **The Mark of Atonement** — branded on your shoulder. A sun with a single tear.
@@ -256,16 +302,16 @@ Small gold clockwork spiders in a box. **One use each.** Thrown or released with
 ## RESTING
 
 **Short rest — 1 hour.**
-- Spend **Hit Dice** to heal: roll a **d10 + 2** per die spent, up to 3 dice.
+- Spend **Hit Dice** to heal: roll a **d10 + 2** per die spent, **up to 4 dice**.
 - **Channel Divinity** comes back.
 - Spell slots and Lay on Hands do **not**.
 
 **Long rest — 8 hours.**
 - All hit points back.
 - All spell slots, Lay on Hands, and Divine Sense back.
-- Regain up to half your Hit Dice (1 die).
+- Regain up to half your Hit Dice (**2 dice**).
 
-> ⚠️ **Chapter 7 has no long rest in it.** Whatever you spend early, you're still missing when you meet the man in charge. Budget your slots.
+> ⚠️ **Do not assume you get a long rest when you want one.** You let Vaskar walk out of Bramblefen alive, and the city you're walking into is his employer's. Whatever you spend early, you are still missing when it matters. **Budget your slots.**
 
 ---
 
@@ -286,7 +332,7 @@ Any healing at all — including 1 point from Lay on Hands — brings you back c
 
 **Attacking someone you can't see** = disadvantage. **Attacking a prone target in melee** = advantage.
 
-**Grappling or shoving** = Athletics **+5** against their Athletics or Acrobatics.
+**Grappling or shoving** = Athletics **+6** against their Athletics or Acrobatics.
 
 **Opportunity attack** — if an enemy walks out of your reach, you get one free melee swing as your reaction. *(But you only get one reaction per round — spending it here means no Protection.)*
 
@@ -301,13 +347,16 @@ Round 1 — cast **Bless** on yourself and two allies. Then attack every round a
 Charge in, attack, **Divine Smite** on the first hit that lands. Stand next to your squishiest ally and use **Protection** every round.
 
 **Undead or something demonic:**
-**Divine Sense** first if you suspect it. Smites do **3d8** instead of 2d8 against them. **Turn the Unholy** can scatter a whole group.
+**Divine Sense** first if you suspect it. Smites do **3d8** instead of 2d8 against them. **Turn the Unholy** can scatter a whole group. *(Note: **Command does not work on undead.**)*
 
 **Somebody's about to die:**
-**Lay on Hands** is an action and it's exact — you can spend just 1 point to get someone off the floor, or dump 15 into someone badly hurt.
+**Lay on Hands** is an action and it's exact — you can spend just 1 point to get someone off the floor, or dump all 20 into someone badly hurt.
 
 **Protecting a civilian:**
 **Sanctuary** on them (bonus action), then stand in front of them and use **Protection** as your reaction.
+
+**Somebody has a hostage, or you need this one taken alive:**
+**Command — "Drop."** One word, one save, and the knife is on the floor. This is the move the rest of the party cannot make.
 
 ---
 ---
@@ -324,7 +373,7 @@ He prays. He prayed out of habit his first night in the camp and noticed that no
 
 **Ideal.** The oath is not the Church's to give or take away. He kept it when it cost him everything, and he will keep it here.
 
-**Bond.** The three people branded beside him. He has been quietly forming a verdict on each of them since the first night and hasn't finished with any of them.
+**Bond.** The people branded beside him. He has been quietly forming a verdict on each of them since the first night and hasn't finished with any of them.
 
 **Flaw.** He gives his word too readily, and then it holds him. He promised Ald there were no more beasts near his village. He hasn't been back.
 
@@ -343,10 +392,12 @@ He prays. He prayed out of habit his first night in the camp and noticed that no
 - Refused to help Virgil spy on Ald's Star and walked off rather than argue.
 - Walked into the dread coming off the cracked tomb on Dol Island and looked inside. A four-armed woman in chains looked back. **You haven't talked about it since.**
 - Found the gap in the cage hound's iron plating and put your sword through it, down to the ground.
+- Judged the armoury lock at Bramblefen unbreakable and said so, instead of trying it and making noise. **Being the one who says "no, not that way" is a thing you do.**
+- ⭐ **Held the whole party to its word and would not let anyone kill Vaskar.** They had him, they had reasons, and everyone understood what letting him walk would probably cost. **You did it anyway, because terms are terms.** That is the single most Wolfram thing that has happened in this campaign, and the bill for it has not arrived yet.
 
 ### One thing you should know about your own character
 At Ald's Star you told Ald you'd feel creatures like those hounds **"from a couple of miles off."** Divine Sense only reaches 60 feet. Either something broadened it — or you overstated your confidence to comfort a grieving man, and a village is sleeping easier because of it. **Michael will decide which. Either way, you made a promise.**
 
 ---
 
-*Ability scores on this sheet were reconstructed after the original was lost. If you remember different numbers, tell Michael — your memory beats the reconstruction.*
+*Level 4 as of October 1126 in-world. Ability scores on this sheet were reconstructed after the original was lost; the level-4 increase put Strength to 18. If you remember different numbers, tell Michael — your memory beats the reconstruction.*

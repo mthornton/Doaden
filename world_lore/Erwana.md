@@ -1,7 +1,7 @@
 # Erwana
 
 **Type:** NPC — escaped slave from **Bramblefen**; opens Chapter 7 at dawn on the morning the party leaves for Bramblefen and, if the party takes the Drain, guides them inside.
-**Function:** the one who recognizes [[JonLief]]'s pendant, the courier of [[Old Cobb]]'s second ledger, and the human center of the "Stock, not Terms" injustice the whole chapter is built on — a woman who is half human and has never once been treated as one.
+**Function:** the one who recognizes [[JonLief]]'s pendant, the courier of [[Old Cobb]]'s Cobb's ledger, and the human center of the "Stock, not Terms" injustice the whole chapter is built on — a woman who is half human and has never once been treated as one.
 
 > First appears **at dawn** on the morning the party leaves for Bramblefen — caught by one of Ysabel's servants going through the leavings of the previous night's supper (`Chapter 7 DM Notes.md`, "The rope at first light"). *Her capture was moved from the evening campfire to the morning deliberately: an evening meeting sends the party marching overnight and wrecks the chapter's sundown clock.* See `Chapter 7 Run Sheet.md` for her voice card and Branch B (the Drain).
 
@@ -27,13 +27,13 @@ Her last posting before Bramblefen was fifteen years on the Cordwin steading, a 
 
 ## The Escape
 
-Old Cobb told her about the drain. He'd known it for years and never used it himself — an old man with failing eyes and forty years of habit doesn't run — but he gave it to her along with the second ledger, the one true thing he'd done in decades of writing down everyone else's sins, and asked her to get it out of the fen. She did not know him well. She knew him the way everyone in the Pens knew him: the clerk, harmless, kind in the only way the compound allowed anyone to be kind. She has thought about him every day since.
+Old Cobb told her about the drain. He'd known it for years and never used it himself — an old man with failing eyes and forty years of habit doesn't run — but he gave it to her along with Cobb's ledger, the one true thing he'd done in decades of writing down everyone else's sins, and asked her to get it out of the fen. She did not know him well. She knew him the way everyone in the Pens knew him: the clerk, harmless, kind in the only way the compound allowed anyone to be kind. She has thought about him every day since.
 
 That was four weeks ago. She did not run far. She tells herself it was because the ledger needed somewhere safer than a hole in the mud, and that's true as far as it goes — but the truer answer, the one she doesn't say, is that thirty years of being owned does not leave a person knowing where "far" is, or what to do with it once she's there. She has spent the month living on berries and nerve within a few miles of the one place she has any reason to fear, because it is also, God help her, the only place she has any memory of anyone being kind to her in years. She found Ysabel's camp during the night and watched it a long while from cover before she dared go near it — long enough to cache the ledger somewhere safer than her own hands. She waited until the fire was down and everyone was abed, and crept in at first light for whatever had been left in the pot, and that is where the rope found her: on her knees at a dead fire with both fists full of another party's leavings.
 
 ## What She Knows
 
-- **The tunnel and the ledger.** Cobb told her about the drain and gave her the second ledger the night she ran (see `Chapter 7 DM Notes.md`, items 2–3). She does not know what's in it beyond that it's old — **she cannot read.** **Resolved in Session 1:** she traded it to the party for food, coin, and her freedom.
+- **The tunnel and the ledger.** Cobb told her about the drain and gave her Cobb's ledger the night she ran (see `Chapter 7 DM Notes.md`, items 2–3). She does not know what's in it beyond that it's old — **she cannot read.** **Resolved in Session 1:** she traded it to the party for food, coin, and her freedom.
 - **The pendant.** She had a cell mate with the same pendant as JonLief's — a woman, sick, with a boy who wouldn't leave her side. Taken from the cell together; she doesn't know what became of them after. Cobb would have the records.
 - **The guard count — stale, not false.** Asked how many men are in there, she says **four or five**, without hedging, because for the whole two months she was held that is exactly what it was. She has no idea that six of Ironwake's men and a crowd of extra Fen Guard arrived with the Juggernaut after she ran. **Ysabel will independently confirm the low number** from her own buying visits, which makes it worse — two honest sources, one dead month. See `Chapter 7 DM Notes.md`, item 9a.
 

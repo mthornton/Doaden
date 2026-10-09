@@ -34,7 +34,7 @@
 
 > ### ⚠️ Three things this hands the party, and one it hands you
 >
-> - **The four-armed woman in the white gown** they saw is now identifiable. *(Six in the iconography — that discrepancy is a gift, not an error. Let a player notice.)*
+> - **The four-armed woman in the white gown** they saw is now identifiable. *(Six in the iconography.)* ✅ ⚠⚠ **THE DISCREPANCY IS ANSWERED — Oct 2026, see `The Art-Items.md` §1a: SHE TOOK TWO OF HER OWN ARMS APART AND MADE THE ART-ITEMS OUT OF THEM.** That is what *"nearly all her remaining power"* cost — she dismantled a third of her own body on a workbench and scattered the pieces so strangers could make beautiful things with them for five centuries. 🔑 **Every vessel has her bone in it.** **The party can reach this unaided and must be allowed to:** the book says six, and **two independent witnesses saw four** — Wolfram through the chipped tomb on Dol (Ch2) and Aldous with the first Penitent team five chapters earlier, which Gimble can corroborate. **They have both halves. Say nothing. Let a player do the arithmetic.**
 > - **"Her power comes from art"** puts them one step from Luthien's bone guitar. *(See `Saraswati and Adephagia.md`. Do not confirm. Let it itch.)*
 > - **They know why a cult would harvest her specifically**: her mana is the largest untended reservoir left in the world, and she is the only god weak enough to catch and strong enough to be worth catching.
 > - 📅 **VASANT PANCHAMI IS A CLOCK.** It is early October. The fifth day of spring is roughly **five months out.** If Saraswati is still alive and chained on that day, something happens — either she is replenished, or the cult is standing over her with a tap when it does. **Decide which, because a player who read that section will ask.**
@@ -77,7 +77,7 @@ The party has now read Book Two, and it is arguably more dangerous to them than 
 - They were the **evidence of record** in Shamash's judgements: once written, a fact of reality that cannot be argued.
 - 🔑 **They are the key to the Prison Realm.** Without a scroll detailing the sentence, **Brudda Death will not open the cage to receive a soul.**
 - **The God Emperor purged them** — the Night of Ash, forty days of burning — because *"a perfect record was intolerable"* to a man rewriting history around himself. The **Golden Chronicles** were commissioned to replace them.
-- Fragments still surface. A genuine scrap can **un-write a secret** — delete a crime or a memory from the world. Most on the market are dyed goat skin, used by Adephagia's cults to sell fake immunity.
+- Fragments still surface. A genuine scrap can **un-write a secret** — delete a crime or a memory from the world. Most on the market are dyed goat skin, used by the Tormentorss to sell fake immunity.
 - A **"Primal Copy"** containing the God Emperor's own secret history is rumoured to have been smuggled out — hidden somewhere he cannot reach. **Inside Jormungand.**
 
 > **Two things fall out of this that the party can act on:**

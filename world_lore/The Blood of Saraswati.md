@@ -3,13 +3,13 @@
 
 > **The single most important unaccounted-for thing in the campaign.** The party has seen this blood twice, in two places, two chapters apart, and has correctly worked out what it is for. What they have not worked out is **how much of it is still moving.**
 >
-> See `Saraswati and Adephagia.md`, `The First Penitents.md`, `Campaign Arc Plan.md` §5, and `The Second Ledger.md`.
+> See `Saraswati and Adephagia.md`, `The First Penitents.md`, `Campaign Arc Plan.md` §5, and `Cobbs Ledger.md`.
 
 ---
 
 ## 1. What it is
 
-**Saraswati is chained in the catacombs under Dol Island, alive, with a hole cut in her side.** Adephagia's cult has been bleeding her — not killing her, *harvesting* her — and casking it.
+**Saraswati is chained in the catacombs under Dol Island, alive, with a hole cut in her side.** The Tormentors have been bleeding her — not killing her, *harvesting* her — and casking it.
 
 A god's blood is a power source. *Rise of the Jailer* is explicit that the cult needs an energy source of sufficient magnitude to give **Brudda Death** physical form in Doaden, and this is it. Everything else in the cosmic arc is logistics around this one fact.
 
@@ -100,7 +100,7 @@ He does not know what it is. **He knows something is wrong with it**, and he has
 2. It moves by ordinary freight, with a tariff-mark on the head. *(The method.)*
 3. Ironwake taxes all of that. *(The lead — and Ysabel can supply this line if nobody in the party does. It costs her nothing and it makes her useful.)*
 
-> **Bonus, free:** Cobb's second ledger and this barrel are the **paper** and the **cargo** of the same trade. The ledger names buyers filed under *Ashgate*; the barrel carries a tariff-mark and a buyer name. **They are two halves of one trail, and the party will hold both by the end of Chapter 7 without anyone telling them they match.**
+> **Bonus, free:** Cobb's Ledger and this barrel are the **paper** and the **cargo** of the same trade. The ledger names buyers filed under *Ashgate*; the barrel carries a tariff-mark and a buyer name. **They are two halves of one trail, and the party will hold both by the end of Chapter 7 without anyone telling them they match.**
 
 ---
 
@@ -130,7 +130,7 @@ The cult did not only bleed the goddess. When Vozruk's first team walked into th
 |---|---|---|
 | **7, Session 2** | **One barrel at Bramblefen.** | *There is more of it.* |
 | **7, on the way out** | Ysabel or Cobb mentions Ironwake taxes everything that moves. | *There is a ledger of it.* |
-| **8** | The tariff-mark on the barrel matches a mark in Cobb's second ledger. | *Paper and cargo are the same trade.* |
+| **8** | The tariff-mark on the barrel matches a mark in Cobb's Ledger. | *Paper and cargo are the same trade.* |
 | **9–10** | Ironwake's transport records. Weight, date, destination, buyer name. | **The map to every remaining barrel.** |
 | **Finale** | Where the freight was going. | **The Hecatomb.** |
 
@@ -139,6 +139,6 @@ The cult did not only bleed the goddess. When Vozruk's first team walked into th
 ## Open decisions
 
 1. **How much is still out there?** *Recommendation: enough that it cannot be destroyed by hand.* A number the party can count is a number they can solve; a warehouse is a problem.
-2. **Does destroying a barrel hurt Saraswati?** She is alive and chained. **If the blood is still hers, burning it may be doing something to her**, and the party has already burned a chapel. *(Very good, very cruel, entirely optional.)*
+2. **Does destroying a barrel hurt Saraswati?** She is alive and chained. **If the blood is still hers, burning it may be doing something to her** — and they have already broken one ritual in progress at St. Pyotr's without ever learning what breaking it cost the thing on the other end. *(Very good, very cruel, entirely optional.)*
 3. **What buyer name is on the head of the barrel?** Make it the same one as in Cobb's ledger. *Ashgate* is right there and already means "a buyer who would not give a name."
 4. **Does Ironwake ever say the dockhand's name?** *Recommendation: only once, and only if the party earns it.*

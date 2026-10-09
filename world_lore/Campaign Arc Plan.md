@@ -63,7 +63,7 @@ The guitar-as-vessel was always the plan (canon note 3). The problem isn't desig
 Take an honest inventory of what the party can actually say out loud right now:
 
 - Saraswati exists, is a goddess of art, was chained in a tomb on Dol, and Wolfram saw her face for a moment before she vanished.
-- Adephagia's people took her blood away in barrels.
+- The Tormentors took her blood away in barrels.
 - "Brudda Death" is a name one cultist spat at them once, in Chapter 4.
 
 That's it. No mana economy. No vessels. No Prison Realm. No Corbin. Meanwhile Luthien is carrying a god's relic and playing it for beer money, and the joke of that is only funny if the players eventually get to be in on it.
@@ -173,10 +173,10 @@ That way unresolved threads aren't loose ends — they're absences the players f
 | **Fid's Ball of Undeath** | Bursts into shards that harm only undead. The Prison Realm's ecosystem runs on **the Faded** — husked, harvested souls. A Chapter 1 joke becomes the thing that clears a room, and Vozruk's judgement that they weren't ready for it becomes wrong in the best way. |
 | **The Bramblefen freed** (whichever of the four aftermath options they pick) | Bodies at the door. Witnesses at the trial. A mob when they need one. If they scattered into the fen, nobody comes. |
 | **Wolfram's second knitting spider** | One more person survives the last fight than otherwise would. |
-| **Cobb's second ledger + the Ironwake writ** | Leverage on the Church. This is what buys Vozruk's cooperation instead of his arrest warrant. |
+| **Cobb's Ledger + the Ironwake writ** | Leverage on the Church. This is what buys Vozruk's cooperation instead of his arrest warrant. |
 | **The master collar-keys** | Keys are this campaign's symbol. They should be in JonLief's hand in the final room. Whether they open anything is your call. |
 | **Sara's art-items** (Luthien's guitar + whatever else they find) | Mana. See §8 — this is the actual win condition. |
-| **Gimble Beren / Dave** | Fifth sword — and the last living witness to what Adephagia's cult does with people, which makes him the party's only first-hand source on the barrels. |
+| **Gimble Beren / Dave** | Fifth sword — and the last living witness to what the Tormentors do with people, which makes him the party's only first-hand source on the barrels. |
 | **Turok, Zelryn, Erwana, Durgan & Mott, Ysabel** | Your allies-at-the-end roster. You have unusually rich NPCs sitting unused; the finale is where they cash in. |
 
 ### 6.1 The amulet — one charge, one direction, ten feet across
@@ -236,7 +236,7 @@ That gives you:
 - **Why he's unseen for a thousand years.** The Demoncore detonated in his capital. Whatever it did to him, he came out of it barely present — and the Church that had worshipped him rebuilt itself around a god with no face, with an Ecclesiarch on the throne. Every prayer in the Empire goes to a name that isn't quite his.
 - **Why nobody can perceive him.** He can afford almost nothing. Being seen by four people cost him something.
 - **Why "May he rise again" is everywhere.** It's the one scrap of real worship left, said by villagers who have no idea what they're maintaining. Every peasant who says it is feeding him a crumb.
-- **Why he's surfacing now.** A Prison Master coming through into Doaden would take the one thing he still has: people.
+- **Why he's surfacing now.** A Brudda Death coming through into Doaden would take the one thing he still has: people.
 - **Why he can't just fix it.** He is the weakest interested party in the room. He can point, warn, and thank. That's the entire budget.
 
 He should appear two or three more times before the finale, each time slightly more solid, and he should **never** solve a problem. His function is to explain the rules — the mana economy, what the Prison Realm actually is, what freeing Sara would cost — and to leave. If he does anything in the last chapter, make it one action that costs him everything he's saved for a thousand years, and make the party spend the rest of the campaign not knowing whether he survived it.
@@ -307,7 +307,7 @@ That's how you make a level-10 party plausibly survive a CR 21 concept. They don
 
 ### 8.3 Adephagia's offer — the third act's best scene
 
-Adephagia is not the Jailer's ally. She made a *deal* to have Sara stashed in his realm. A Prison Master loose in Doaden eats the thing she lives on: people, and their greed and lust and hunger. She would lose everything.
+Adephagia is not the Jailer's ally. She made a *deal* to have Sara stashed in his realm. A Brudda Death loose in Doaden eats the thing she lives on: people, and their greed and lust and hunger. She would lose everything.
 
 So, late in the campaign, she offers the party terms. And she does it through the woman they healed and left behind in an unlocked cell at St. Pyotr's with a few days of rations.
 
@@ -359,6 +359,7 @@ Play him **warm, and genuinely useful.** He is the first person in the campaign 
 Two things to plant at that first meeting:
 
 - **He notices the guitar.** He doesn't reach for it. He goes still, and asks — carefully, pleasantly — where it came from. Then he accepts whatever lie he's told, while very clearly not believing it.
+- ⚠⚠ **WHY HE WANTS THEM AT ALL — SETTLED: `Corbin Wainwright and Orla Miller.md` §9.** The guitar explains watching Luthien, not three chapters of generosity. **The engine is that THEY HAVE SEEN HER AND HE NEVER HAS** — and ⚠️ **his own allies have hidden Dol from him, because the bargain dies the night he finds out.** So the party holds the one fact that ends his deal, he courts them *because of it*, and **his motive is the mechanism of his own destruction.** He will paint her from their descriptions. He will refuse the Dol evidence twice before it breaks him. He also needs an **acquisition team** and an **intelligence probe he can aim at his own partners** — which is what *“for his own reasons, which he does not share”* below always meant. **His pitch: he admits heresy in stages**, betting that people the Church owns will not run to the Church. ⚠️ **Wolfram is the risk.**
 - ~~**He offers to read their book.**~~ ⚠️ **Superseded — JonLief already read it** on the road before Bramblefen and briefed the party *(see `What the Party Knows - The Book.md`)*. **Corbin's scene is better now:** he explains what the book leaves out — mana as an economy rather than a mystery — and he is visibly unsettled that four Penitents are walking around with a Church Watcher's manual that contradicts what the Church teaches. He can also date **Vasant Panchami** for them, which turns a footnote into a clock.
 
 **Which means Corbin teaches the party the cosmology he intends to use against them.** When they finally understand the rules of this world, they'll remember whose voice explained them. Nothing else you can do will make the reveal hurt more — so make him likeable for three chapters and let them find out afterwards that between meeting Fenna Pembrook and murdering her for the brush, he waited six months.
@@ -371,11 +372,12 @@ Fix a small, finite number — five or seven — so the party gets a checklist a
 |---|---|---|
 | **The bone guitar** | Music | Luthien. Chapter 1. |
 | **The brush** | Painting | Corbin. Taken off Fenna Pembrook's corpse. |
-| **A loom or needle** | Weaving | See below — this one is already half-written. |
-| **Chisel / mason's tools** | Sculpture | Open. Bosk Dunmar, the dwarf who built two of Bramblefen's walls as a free man, is a ready-made holder. |
-| **A quill, a mask, a flute…** | Writing, theatre, whatever you need | Open. Orla Miller is an actress; that's a mask waiting for an owner. |
+| **The shears** | Dressmaking | ✅ **Maelis Vire** — an elf enslaved in **Ysabel's dress house**, who has had them ~150 years and **knows what they do for her**. Bone-handled. *(`The Art-Items.md` §5.)* |
+| **The chisel** | Carving | ✅ **Sera Oleander** — taken by the buyers, now in the Herald's holding (Ch13). **Bosk Dunmar is the man who can RECOGNISE it**, if the party freed him. |
+| **The mask** | Theatre | ✅ **Orla Miller** — but she does not have it yet. **Corbin gives it to her**, and that is how he finally converts the woman who never believed him. *(`The Art-Items.md` §4.)* |
+| **The potter's rib** | Pottery | ✅ **Hanne Vetter — The Patient.** She has been feeding Saraswati from inside the Tormentors for years. *(`The Art-Items.md` §7.)* |
 
-**The weaving vessel is your best unfired hook and it's been sitting in `world_lore/` untouched.** *The Quest for the Sun-Petal* exists in-world as **six tapestries** — a complete, named, described masterwork cycle. If those tapestries are physically anywhere, they were either made *with* the loom or they are the thing that proves it exists. And **Lady Ysabel Rochefort is a textile merchant** who, after Chapter 7, is going to owe the party everything and have nothing else to give them. That's a chapter that writes itself out of parts you've already built.
+⚠️ **SUPERSEDED Oct 2026 — the textile vessel is DRESSMAKING, not weaving, and your own timeline is why.** The weaving mill **doubled her margins**, which is exactly what vertical integration does and needs no explanation. The **dress house** made her *"better than anything else in the city"* and took her from wealthy to one of the wealthiest women in Solteres **in a single season** — that is the discontinuity. So the vessel is a pair of **bone-handled shears in the dress house**, held by **Maelis Vire**, an enslaved elf dressmaker. ⚠⚠ **And Ysabel is already running the Tormentors' selection procedure**: at Bramblefen she asked for seamstresses and then said *"some of the stock you do have may have worked as tailors — I want to inspect them,"* which is what Ashgate's buyers did to Sera Oleander when they asked to see her hands. **The party watched her do it.** ⏰ **And there is a clock with no villain pushing it:** she is ruined, she will sell workers to fund her defence, and she has no idea which one is making her money — a sale goes through Ironwake's trade into the Ashgate pipeline and puts a third vessel in the Herald's holding. *The Quest for the Sun-Petal* is **parked**, unattached, available if a later chapter wants it. **Full detail: `The Art-Items.md` §5.**
 
 #### What the vessels do in the last room
 
@@ -414,7 +416,7 @@ That's roughly a year and a half at a monthly cadence. **If that's too long**, c
 
 1. ~~Is Dave in?~~ **Yes — Gimble Beren.** The live question is now downstream: with no match, Ysabel walks free by accident and Anselm's revolt needs a new trigger. Decide how Chapter 8 opens given that Ysabel arrives in Solteres un-detained and owing the party a debt she cannot account for.
 2. **Is Vozruk hunting them already, or has he written them off?** You flag this in the notes yourself. It determines Chapter 8's tone entirely, and Chapter 7's ending should foreshadow whichever you pick.
-3. **How many vessels are there, and what are the other three?** Fix the number before Corbin opens his mouth in Chapter 8 — he's the one who'll be telling the party the list exists (§8.6).
+3. ~~How many vessels are there, and what are the other three?~~ ✅ **FINALISED Oct 2026 — `world_lore/The Art-Items.md` is now the source of truth and supersedes the §8.6 roster table below.** Six findable, one per craft; she made more and the rest are lost. ⚠️ **Corbin knows only that a set exists.**
 4. **Does Kesh Vanner remember the black-robed buyers asking after artists?** One sentence, six chapters of payoff — and it now rhymes with the guitar waking the same night.
 5. **Do the eighteen go to Ald's Star?** If the party sends them anywhere else, §8.1a doesn't happen and the finale needs a different town. Put a thumb on the scale in the Chapter 7 aftermath — Wolfram naming the place he knows is the most natural thing in the world.
 6. **Are you comfortable running Chapter 15's torture mechanic and Ald-as-red-herring at your table?** That's a session-zero conversation with your players, and Path of Penitence itself carries the content warning. Better to have it now than mid-scene.

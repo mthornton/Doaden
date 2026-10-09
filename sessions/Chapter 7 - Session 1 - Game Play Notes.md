@@ -26,7 +26,7 @@ The party was awakened early in the morning as described in the DM notes. Erwana
 
 Ysabel dismissed Erwana as a subhuman and not worth believing anything she says. She will have Perrin keep her tied up and take her to Solteres. Once there, Ysabel will take her to one of Lord Ironwake's lieutenants and return the escaped slave. It's not enough to get her out of the conflict with Ironwake, but maybe it will help.
 
-JonLief asked Erwana where she came from and she explained she escaped from Bramblefen. With some coaxing, she told the story of Old Cobb giving her the second ledger and arranging her escape via the secret tunnel below the drainage grate.
+JonLief asked Erwana where she came from and she explained she escaped from Bramblefen. With some coaxing, she told the story of Old Cobb giving her Cobb's ledger and arranging her escape via the secret tunnel below the drainage grate.
 
 She explained that Old Cobb told her to run as far from Solteres as she can, then to find a Church and give them the ledger. The Church in Solteres turns a blind eye to slavery and Old Cobb does not trust them. However, he believes in the overall goodness of the Church and thinks that if she can get to another major city and give them the ledger, they can help. She does not know what he thinks they can help with, and she can't read.
 

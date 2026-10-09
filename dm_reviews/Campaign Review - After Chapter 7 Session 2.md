@@ -31,7 +31,7 @@ The campaign has enough secrets. Its next improvement should be visible progress
 - **Ald's Star provides emotional contrast.** Hospitality, music, food, and people with ordinary lives made the hound attack matter. More such scenes will make later horror stronger.
 - **The Shepherds offer differing responses to the same institution.** Baltus's commitment to recovery, Hedda's illicit releases, and Sault's selective administration can produce substantive decisions. They work best as people the party can negotiate with, not a scheduled sequence of increasingly powerful pursuers.
 
-Sources: [Chapter 7, Session 1](../sessions/Chapter%207%20-%20Session%201%20-%20Game%20Play%20Notes.md), [Session 2 onward](../sessions/Chapter%207%20DM%20Notes%20-%20Session%202%20Onward.md), [The Second Ledger](../world_lore/The%20Second%20Ledger.md), [The Office of the Lost Flock](../world_lore/The%20Office%20of%20the%20Lost%20Flock.md).
+Sources: [Chapter 7, Session 1](../sessions/Chapter%207%20-%20Session%201%20-%20Game%20Play%20Notes.md), [Session 2 onward](../sessions/Chapter%207%20DM%20Notes%20-%20Session%202%20Onward.md), [Cobb's Ledger](../world_lore/Cobbs%20Ledger.md), [The Office of the Lost Flock](../world_lore/The%20Office%20of%20the%20Lost%20Flock.md).
 
 ## The earlier diagnosis of a “passive party” is too harsh
 
@@ -95,13 +95,13 @@ Sources: [Chapter 2](../sessions/Chapter%202%20Dol%20Island.md), [Arc Plan §8.3
 
 ### 4. “Ashgate” cannot independently appear on freight if Cobb invented it
 
-The Second Ledger says Ashgate is Cobb's private filing label, absent from outside registers. The blood-barrel prep proposes putting the same name on the cask to connect the records.
+Cobb's Ledger says Ashgate is Cobb's private filing label, absent from outside registers. The blood-barrel prep proposes putting the same name on the cask to connect the records.
 
 Either make Ashgate an alias supplied by the buyer, or preserve Cobb's invention and connect the barrel through a carter, tariff code, guarantor, or dated consignment. The latter preserves a small, satisfying piece of investigative work.
 
 Also distinguish the cult's **financiers** from all the ledger's **purchasers**. “Ironwake is not among the guarantors” is compatible with the book implicating his operation; “Ironwake is not in the book” can conflict with the earlier description of decades of entries involving him. The ordinary working ledger should not be declared inherently worthless as evidence if it records a branded Penitent's captivity and suspect sales.
 
-Sources: [The Second Ledger §§2–3, 7](../world_lore/The%20Second%20Ledger.md), [The Blood of Saraswati §4 and open decisions](../world_lore/The%20Blood%20of%20Saraswati.md), [Chapter 7 evidence notes](../sessions/Chapter%207%20DM%20Notes.md).
+Sources: [Cobb's Ledger §§2–3, 7](../world_lore/Cobbs%20Ledger.md), [The Blood of Saraswati §4 and open decisions](../world_lore/The%20Blood%20of%20Saraswati.md), [Chapter 7 evidence notes](../sessions/Chapter%207%20DM%20Notes.md).
 
 ### 5. Chapter 7's clock must follow events, including cancellation
 
@@ -263,7 +263,7 @@ The DM Notes / Run Sheet split is useful, but the current Run Sheet still carrie
 
 Immediate cleanup candidates:
 
-- Old Cobb's ledger table still says the second ledger predates Rowan by years and offers the obsolete near-miss entry. Session 1 established his family's actual arrival entry.
+- Old Cobb's ledger table still says Cobb's ledger predates Rowan by years and offers the obsolete near-miss entry. Session 1 established his family's actual arrival entry.
 - Durgan's optional account places Elizabeth and Rowan years apart, contrary to the current family timeline.
 - The latest Session 2 script calls the large prison the Deeps; older locations place the Pens there and the Deep Cages in the smaller building. Follow the table's map and naming before moving NPCs.
 - The whipping-post roster names human Ivo as the victim; played description says a half-orc. Keep the half-orc and relocate Ivo if needed.

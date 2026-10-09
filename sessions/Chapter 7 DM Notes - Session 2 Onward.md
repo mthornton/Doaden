@@ -33,7 +33,7 @@ Session 1 ended with the party **inside the walls**, in the yard, at about **5:3
 
 ### What the party is carrying
 
-- **Cobb's second ledger.** Years of sales, last entry about six weeks old. **Promised to Ysabel once everyone is clear of Bramblefen — not before.**
+- **Cobb's Ledger.** Years of sales, last entry about six weeks old. **Promised to Ysabel once everyone is clear of Bramblefen — not before.**
 - **Full hit points, full spell slots, everything unspent.** They have not had a fight. This is a very different starting position from the depleted one the original prep assumed.
 - Two knitting spiders (Wolfram), the Ball of Undeath (Luthien), Ignatius's keys, ***Myths of the Old Gods*** — **read, in JonLief's pack, and going in with them** *(see `world_lore/What the Party Knows - The Book.md`; it is a Church book that contradicts Church doctrine, and being searched with it is not neutral)* — six jars of pickled cabbage.
 
@@ -122,7 +122,7 @@ This is now the best scene in the chapter, and the party has walked into it hold
 
 The party's stated goal is Elizabeth and Rowan. Everything else has to reach them sideways.
 
-**1. The Pens — the trail.** Nobody in there knows anything about the woman and the boy. That's the point; make JonLief ask five times. The empty cell at the back with the loose flagstone is still there (Investigation **DC 12**) — the hollow where the second ledger lived, now empty, because it's in JonLief's pack.
+**1. The Pens — the trail.** Nobody in there knows anything about the woman and the boy. That's the point; make JonLief ask five times. The empty cell at the back with the loose flagstone is still there (Investigation **DC 12**) — the hollow where Cobb's ledger lived, now empty, because it's in JonLief's pack.
 
 **2. Old Cobb — the answer.** He can describe Elizabeth exactly: starved, beaten, sick on arrival, wouldn't let go of the boy, dead inside a fortnight and **burned outside the wall.** ⚠️ **It was not fever** — she stopped caring for the child first, and then the green came: patches, then nodules. **This is Underwood — *the green*, as people are starting to call it — in a strain she took directly from Brudda Death in a bargain to save her son** *(see `world_lore/Elizabeth and the Green.md` — read it before running this scene; the apathy Cobb describes is the price she paid FOR Rowan, and it will sound to JonLief like the exact opposite)*. Vaskar isolated Rowan, saw nothing in him for weeks, and sold him fast and cheap to be rid of him. **Sequence the reveal: dead, then burned, then why.** **He cannot give the boy's buyer from memory** — that sale is too recent and his eyes are going. It's in the **working ledger in the office**, which is a different book and stays in the Hall. ⏳ He dies when Vaskar walks to the arena.
 
@@ -155,7 +155,7 @@ The party's stated goal is Elizabeth and Rowan. Everything else has to reach the
 
 > *"Ironwake taxes everything that moves in or out of Solteres. Legal, illegal, he does not care which. If a barrel crossed this duchy, it is in his books — weight, day, where it went, and whatever name the buyer gave."*
 
-**And the part that is free:** Cobb's second ledger is the **paper** of this trade; the barrel is the **cargo**. The party will be holding both by the end of Chapter 7 and nobody has to tell them they match.
+**And the part that is free:** Cobb's Ledger is the **paper** of this trade; the barrel is the **cargo**. The party will be holding both by the end of Chapter 7 and nobody has to tell them they match.
 
 ---
 

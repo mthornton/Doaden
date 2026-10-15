@@ -178,7 +178,7 @@ Gimble has been in a hole in a marsh for two months. He does not know:
 - **What the blood was for.** You saw a goddess drained into casks and you have never learned why, and you have had two months of nothing to do but wonder.
 - **Anything at all about the people who are about to walk into Bramblefen** — who they are, why they are there, what they want, or who they came with.
 
-> **Do not read the party's documents.** *(`Party History.md`, `The Penitents Chronicle.md`, `Chapter 7 — Session 1`.)* They are excellent and you will enjoy them enormously **after** your first session. Reading them first will quietly rob you of the best scene you are going to get.
+> **Do not read the party's documents.** *(`Timeline.md`, `The Penitents Chronicle.md`.)* They are excellent and you will enjoy them enormously **after** your first session. Reading them first will quietly rob you of the best scene you are going to get.
 
 ---
 

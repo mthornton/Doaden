@@ -1,6 +1,6 @@
 # Chapter 7 — The Chained Coast: Record
 
-> ⚠️ **DM ONLY. This is the canonical record of what happened at the table in Chapter 7.** It merges the Session 1 play log, the Session 2 write-up, and the Session 3 summary. **The prose story for the players is `Chapter 7 - The Chained Coast.md`.** The prep files these notes replaced are in `_archive/Chapter 7/`; open them only for the original design reasoning, never to find out what happened.
+> ⚠️ **DM ONLY. This is the canonical record of what happened at the table in Chapter 7.** It merges the Session 1 play log, the Session 2 write-up, and the Session 3 summary. **The prose story for the players is Chapter Seven of `The Penitents Chronicle.md`.** The prep files these notes replaced are in `_archive/Chapter 7/`; open them only for the original design reasoning, never to find out what happened.
 >
 > **Where the table and the prep disagree, the table wins.** Things in the prep that **never happened**: the Drain entry, Denrick, Corvant Hale, the whipping-post rescue, Ysabel being detained, the named Eighteen as written, and the revolt-outcome table.
 

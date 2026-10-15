@@ -157,7 +157,7 @@ A potter knows that **unfired clay is nothing.** Greenware is mud that remembers
 
 **Correction worth having clearly: the party did not kill the herald at St. Pyotr's.**
 
-> *"They struck the herald hard enough to break the ritual, but he proved strong enough to escape out the back of the chapel before they could finish him off."* — `Party History.md`
+> *"They struck the herald hard enough to break the ritual, but he proved strong enough to escape out the back of the chapel before they could finish him off."* — `Party History.md` *(now in `_archive/`)*
 
 **The very tall, very pale man in the ornate headdress is alive.** He is the one who smelled Saraswati on Luthien before anyone in the party had heard her name. **He is the Herald the Arc Plan has them killing in Chapter 13.**
 

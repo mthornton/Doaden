@@ -160,7 +160,7 @@ That fourth one is the strangest. It is the single most important fact about the
 
 ## Part Two: Your Own Road
 
-Everything below you were present for. Dates are as near as any of you can reckon them.
+Everything below you were present for. Dates are as near as any of you can reckon them. *(Gimble: your own road to Bramblefen — the first team, Dol, the cage — is in `The Unit Before Us`.)*
 
 **Total elapsed: about two and a half months. Missions completed: none. Debt reduced: none.**
 
@@ -270,14 +270,66 @@ Virgil finds the magic is not in the fruit. It is all in the seeds: Enchantment,
 
 Thaddeus and Marion turn back toward Underwood.
 
-### 25 September – 8 October — Two quiet weeks
+### 25 September – 7 October — Two quiet weeks
 
 The first stretch of nothing since the brand.
 
-### Early October 1126 — Now
+### 8 October 1126 — The last fire on the road
 
-Two days from Solteres.
+Two days from Solteres. Ysabel asks a fifth time for a champion, and tells you what she is up against: Ironwake's champion, **the Juggernaut**, three times Wolfram's size, in the coliseum on a festival day, as the last act after the acrobats. Then she tells you how she got here — the smuggling, Ironwake's tax, the mill, the dress house, the second cheat, and her niece.
 
-Vozruk has not heard from you in two and a half months, and you have not heard from him. The order to deal with Dol Island has never been rescinded. Ahead of you is a city that sells people in the open, in an Empire whose Church has outlawed it.
+The answer is still no. The plan is to see her to the gates of Solteres and report to the Church there.
 
-Nobody has told you what to do next.
+### 9 October 1126, dawn — Erwana
+
+One of Ysabel's men drags a starving woman out of last night's leavings on a rope. Ysabel calls her *it*. JonLief kneels down and asks where she came from.
+
+**Erwana**, half-Tabaxi, escaped from a slaver holdfast called **Bramblefen**. She carries a book an old clerk named **Old Cobb** gave her the night she ran. JonLief opens it and finds two names, two months old: **Elizabeth. Rowan.** She knows his pendant. The woman wore one. She was very sick.
+
+Every woman at Bramblefen was sold in one lot to hooded men **covered in scars.**
+
+Over breakfast Ysabel explains, reasonably, that **Dov is hers for three more years.**
+
+You give Erwana food and five silver and send her to **Ald's Star**: *tell Ald that Wolfram sent you.* Ysabel offers to walk you in through the front gate as her staff, for the price of the book once everyone is clear. You take the deal.
+
+### 9 October 1126, evening — Bramblefen
+
+**5:30.** A walled valley in the fen. Not four or five guards, as you were told — **eight in the open**, and slaves building a ring of sharpened stakes. **The Juggernaut is here** for a match at sundown, against a gnome.
+
+Inside, a building called the Deeps that feels like St. Pyotr's, only weaker. A slave in the yard who knows Wolfram's face: **Anselm Vogt**, who served Wolfram's father, went to the Bishop after Wolfram's arrest, and was never written down. The slaves will rise during the fight. They need the armory.
+
+Vaskar receives Ysabel over a man under a tarp, breathing. He sold every woman he had to men in dirty robes with scarred skin, and charged them a premium.
+
+From an elf in a cell and a guard who liked Luthien's company, you learn the rest. The woman stopped caring about anything, even the boy. Then **green patches** came up on her skin, and Vaskar had her taken out past the wall and **burned**. *"Don't want the Green here."* The boy was kept alone in the tower for a week, and then sold.
+
+Behind a door in the Deeps, an enormous man plays with a straw doll, and a dwarf shouts at Luthien to leave him alone.
+
+Outside the north wall, in a scorched circle, the only green thing in the valley is growing. Virgil digs to its roots and finds **Elizabeth's bones.**
+
+**At sundown Vaskar throws Old Cobb's body into the yard.** In the ring, they take the mask off the gnome. On his shoulder is **the Mark of Atonement.**
+
+### 9 October 1126, night — The fen falls
+
+The Juggernaut will not kill the gnome. He throws a section of the fence into Ironwake's own men instead. **Gimble Beren** goes through the hole. Wolfram puts his shoulder through the armory door. The dwarf tells the giant to kill the guards.
+
+**Nineteen of twenty guards die.** Gimble opens every cell in the small prison.
+
+**Vaskar takes Ysabel hostage**, and trades her and the hiding place of his own ledger for his life. Some of you want to kill him anyway. **Wolfram will not let anyone break their word.** Vaskar walks out the gate, saying Ironwake will probably kill him for this. Luthien takes his money; Wolfram gives most of it to the freed.
+
+In the Deeps: **a barrel of the same blood** you saw on Dol and at St. Pyotr's.
+
+Luthien plays for the freed, better than he has ever played, and at the edge of his sight there is **a glowing woman with too many arms.** Four. Then six. When the song ends, so does she.
+
+**Thirty people walk free.** They cannot go to Solteres. You send them to **Ald's Star**, on Wolfram's name. The giant and the dwarf go north. Ysabel gets Old Cobb's book, as promised. **You keep Vaskar's — it names the man who bought Rowan.**
+
+Then the gate comes in under a hammer, and two men in violet cloaks walk into the yard. **Baltus Thole, a Shepherd.** You tell him everything. He is *pleased*. He tells you something no one in the Church ever has: **a Penitent may act beyond his orders when the chance comes to serve the will of the Emperor.**
+
+**Virgil leaves for Underwood and Master Thaddeus**, to find a cure for the Green, and Baltus approves. Baltus leaves his apprentice with you.
+
+### 10 October 1126 — Now
+
+Solteres, two days off, with Lady Ysabel and her household.
+
+Vozruk still has not heard from you. But the Church has found you at last, and **for the first time, it has told you that you are allowed.**
+
+You are carrying a book with a name in it that none of you has read yet.

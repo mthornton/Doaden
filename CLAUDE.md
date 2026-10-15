@@ -1,7 +1,7 @@
 # D&D 5e Game Session Planning — Project Memory
 
 ## Role
-You help a Dungeon Master plan and run D&D 5th Edition sessions by maintaining a distilled, fast-to-search knowledge base of campaign material, so raw source PDFs never need to be reread just to answer a question.
+You help Michael, the Dungeon Master, plan and run his **D&D 5e home campaign, Doaden** — prep, NPCs, lore, continuity, and the record of what happened at the table. **The home-campaign files (`sessions/`, `world_lore/`, `players/`) are the canon and your primary source.** He also keeps a library of published modules (`processed_campaigns/`) that he mines for ideas; that library is **not canon** and is mostly noise — see the rule under Lookup Order.
 
 ## Repository & Sync (git)
 
@@ -20,42 +20,46 @@ This project lives in a **git repository** (`git/Doaden`, branch `main`, remote 
 - **Cloud/remote sessions cannot delete files** on the local disk. Anything that needs deleting gets moved into `_to_delete/` instead — that folder is disposable junk (stale git lock files from earlier agent commits, from before the rule above), and Michael can remove it by hand at any time. Don't treat it as content.
 
 ## Folder Structure & Rules
-- `raw_campaigns/` — original source PDFs (published modules, homebrew adventures, session notes, handouts). **Read-only.** Never edit or delete anything here. **Git-ignored** (too large for GitHub) — present only on the primary machine.
-- `processed_campaigns/` — condensed summaries you generate, one file per raw source (or per campaign if a campaign spans multiple PDFs). This is the primary place you read from.
-- `processed_campaigns/_index.md` — master index of every processed summary, with a one-line description and last-processed date for each. Always keep this current.
-- `players/` — player-character sheets & backstories for the active home game (the party begin as **Penitents** of the Church of Azerai). Primary reference for PC questions. Read-mostly; update when a PC changes.
+- `sessions/` — notes for the home campaign, in chronological order. From Chapter 7 on, each played chapter has a **`Chapter N - Record.md`** (what actually happened — the canon); Chapters 1–6 are single chapter files mixing prep and session notes; unplayed chapters are **prep**; see the sessions table below before describing anything as history. Also holds the player-facing handouts (Timeline, Chronicle, Open Questions).
 - `world_lore/` — NPCs, deities/factions, myths, timeline, and quest lore for the home campaign's world (**Doaden**). Primary reference for "who/what is X" questions. Mixed `.md` / `.docx` / `.pdf`.
-- `sessions/` — notes for the home campaign, in chronological order (one file per chapter). Holds **both played chapters and unplayed prep** — see the sessions table below before describing anything as history.
+- `players/` — player-character sheets & backstories for the active home game. Primary reference for PC questions. Read-mostly; update when a PC changes.
+- `processed_campaigns/` — **the published-module library. Not canon.** Summaries of purchased/homebrew adventures Michael pulls ideas and stat blocks from; most will never be used. **Ignore it unless the task is about a module — see the rule under Lookup Order.** How to use, search and maintain it is in `processed_campaigns/README.md`.
+- `raw_campaigns/` — the source PDFs behind that library. **Read-only, git-ignored**, primary machine only.
 - **Known junk, safe to ignore or delete:** `_to_delete/` (stale git locks), `sessions/.fuse_hidden0000000a00000001`, `processed_campaigns/_writetest.txt`.
-- `_archive/` — superseded files kept for reference (all Chapter 7 prep and per-session logs, `Denrick.md`, an old `AGENTS.md`). **Not canon — never read it to find out what happened.** See `_archive/README.md`. Safe to delete.
+- `_archive/` — superseded files kept for the DM's reference only (old prep, per-session logs, retired handouts and NPCs). **Ignore it — see the Archived Files rule under Lookup Order.** Contents listed in `_archive/README.md`.
 
 ## Lookup Order (always follow this)
-1. Check the **Active Campaigns** table below.
-2. Check `processed_campaigns/_index.md` for the full list of summaries.
-3. Read the relevant `processed_campaigns/{name}.md` file(s).
-4. **Only** if the summary doesn't answer the question, is out of date, or the user needs exact original wording (e.g. exact stat block numbers, read-aloud boxed text) — open the corresponding PDF(s) in `raw_campaigns/`.
 
-When you do have to fall back to raw_campaigns/, say so, and offer to update the processed summary with what you found.
+> ### 🗄️ Archived files — ignore them
+> **Everything under `_archive/` (and the junk in `_to_delete/`) is superseded. It is not canon and it is often wrong** — it holds prep for scenes that never happened, NPCs who never appeared, and older versions of facts that have since changed.
+> - **Exclude `_archive/` and `_to_delete/` from every search** (grep, find, glob) and from every review of "the material."
+> - **Never use an archived file as a source** for an answer, a summary, a handout, or new prep — even if it is the only place a detail appears. If something only exists in the archive, tell Michael and ask whether to restore it; don't quietly re-use it.
+> - **Never link to or cite archived files** from live files, and don't edit them.
+> - **The only exceptions:** Michael explicitly asks about an archived file, or asks why something was designed the way it was (the old prep holds the reasoning). Even then, say that the file is archived and may be out of date.
+> - When you archive something, add it to `_archive/README.md` with what replaced it, and repoint any links to it.
 
-For questions about the **home campaign** — this specific party, its NPCs, world lore, or sessions already played — look in `players/`, `world_lore/`, and `sessions/` first (not `processed_campaigns/`, which is the catalog of published/homebrew modules). See **Home Campaign — Doaden** below.
+> ### 📚 Published modules are not canon
+> **`processed_campaigns/` and `raw_campaigns/` are a library of published adventures, not part of Doaden.** Nothing in them is true in the home campaign unless a file in `sessions/`, `world_lore/` or `players/` has adopted it.
+> - **Leave both folders out of general searches and reviews of "the material."** They are 38 files of other people's campaigns and they will drown the real ones.
+> - **Never mix a module's NPCs, places, factions or plot into an answer about the home game.** If you suggest borrowing something, say it is a borrowing.
+> - **Open the library only when** Michael asks about a module, asks for ideas / encounters / stat blocks from it, asks you to process PDFs, or you need mechanics from a module the home game is **reskinning** (the table below). When you do, read `processed_campaigns/README.md` first, and say which module you are quoting.
+> - **Never reprocess or "update summaries" unless he asks.**
 
-## Active Campaigns (hot cache)
-| Campaign | Status | One-line | Summary file |
-|---|---|---|---|
-| The Man Eaters (saga) | Catalogued | Lvl 5→9; cannibal Man Eaters faction; Man Hunt → Red Dawn (Siege of Guerrin) | Man_Eaters_Saga.md |
-| Calden Keep (saga) | Catalogued | Lvl 5→5-10; revenants & the Goliath; Calden Keep → The Undying Lord | Calden_Keep_Saga.md |
-| Crisis in the North: Siege of Sturmenburg | Catalogued | Lvl 5-10; Beastmen invasion (Escalation campaign, Ch2-3) | Siege_of_Sturmenburg.md |
-| The Eternal Legions Rise | Catalogued | Lvl 5-13; undead legions; Echoes of War → Lord of War (Ch2-3; Ch1=The Dreadlights) | Eternal_Legions.md |
-| The Penitent Crusade | Catalogued | Lvl 5-13; zealot trilogy: Indictum Dominus → Purgation → Under Cover of Darkness | Penitent_Crusade.md |
+**For anything about the home campaign, look in this order:**
+1. **The sessions table below** — which chapters are played, which are prep.
+2. **The most recent `sessions/Chapter N - Record.md`** (or, for Chapters 1–6, the chapter file's session notes) for what happened, and the current chapter's planning/prep file for what's coming. The Record wins over any prep.
+3. **`world_lore/`** for who/what/why, and **`world_lore/Campaign Arc Plan.md`** for where the campaign is going (proposals, not canon, unless echoed elsewhere).
+4. **`players/`** for the PCs.
+5. **Player-facing handouts** (`sessions/Timeline.md`, `The Penitents Chronicle.md`, `Open Questions.md`) only for what the *players* know.
 
-> **Full catalog:** all 35 processed summaries are indexed in `processed_campaigns/_index.md`. Status **Catalogued** = processed but not yet run — change to *In progress* / *Completed* as you play. Raw-text extractions are cached in `processed_campaigns/_extracted/`.
+Say which file an answer came from.
 
 ### Published modules being mined for the home game
-The home campaign reskins published Bestiarum material rather than running it straight. Track the mapping so a question about a Bramblefen mechanic can be answered from the source summary:
+The only modules with a live connection to Doaden. The home campaign reskins them rather than running them straight; open these summaries for mechanics and stat blocks. **Everything else in the library is inspiration only.**
 
 | Home-game element | Source | Notes |
 |---|---|---|
-| **Bramblefen** (Chapter 7) | `Prison_Breakdown_5E.md` | Location and mechanic reskin: Cell Block B → **Deep Cages**, Warden's Office → **Chainmaster's Hall**, Secret Tunnel → **The Drain**, Grolo → **Denrick**, Grolo's Stinky Sack → Denrick's "lucky" sack, the 1d20 armory-loot table and the 500 gp tunnel stash carry over verbatim. **"The Ghost"** (assassin-convict in Cell Block B who, if freed, kills six of the boss's men and vanishes) was the chassis behind the old **Prisoner X** slot — **now replaced by Gimble Beren, Dave's PC** (see below). | ⚠️ **As played (Oct 2026): the Drain and Denrick never came into play; `Denrick.md` is archived.**
+| **Bramblefen** (Chapter 7) | `Prison_Breakdown_5E.md` | Location and mechanic reskin: Cell Block B → **Deep Cages**, Warden's Office → **Chainmaster's Hall**, Secret Tunnel → **The Drain**, Grolo → **Denrick**, Grolo's Stinky Sack → Denrick's "lucky" sack, the 1d20 armory-loot table and the 500 gp tunnel stash carry over verbatim. **"The Ghost"** (assassin-convict in Cell Block B who, if freed, kills six of the boss's men and vanishes) was the chassis behind the old **Prisoner X** slot — **now replaced by Gimble Beren, Dave's PC** (see below). ⚠️ **As played (Oct 2026): the Drain and Denrick never came into play; `Denrick.md` is archived.** |
 | **Old Cobb** | Warden Ingfar (`Prison_Breakdown_5E.md`, also in `Prisoner_X_Iron_Juggernaut.md`) | Inverted: the captive being tortured is now the party's emotional payload rather than a quest-giver. |
 | **The Juggernaut / Mott** | `Prisoner_X_Iron_Juggernaut.md` (name only) | The home-game Mott is **original** — a Rage Clock barbarian, not the CR 10 Iron Juggernaut. Don't confuse the two stat blocks. |
 | **Path of Penitence** framework | `Path_of_Penitence_System.md` | Campaign rules + Doaden setting; the Penitent/Redeemer structure the party sits inside. |
@@ -119,16 +123,14 @@ Four strangers wake as prisoners in a Church of Azerai camp, branded on the shou
 | Chapter 4 Sy Pytor.md | **Played** (confirmed retroactively, Aug 2026 — not written up when it happened) | St. Pyotr's sanitorium (A1–A12 / B1–B7). Cleared cultist ambush in the garden — **including a cage hound, which the party recognised from Ald's Star**, giving them their own link between the sanitorium and the attacks on Ald's livestock. Witnessed the bell-tower hanging, found Father Ignatius's body and journal. Interrupted the black-fog ritual in the chapel and heard the herald's Brudda Death taunt, but the herald escaped. Rescued a tortured survivor and left her behind at the sanitorium. |
 | Chapter 5 The Inn.md | **Played** | Four interlocking plots at the Inn; Ysabel's champion **Ulfric** assassinated via the Corvin/Marguerite ruse, arranged by Emeric for Ironwake. |
 | Chapter 6 Swine Raid.md | **Played** | Escorting Lady Ysabel toward Solteres; Thaddeus reveals his real backstory to Virgil; Porcine beastmen raid (Marion nearly killed, stabilized); Willowbread dies, seeds the **Underwood** infestation lead; Virgil declines to join Thaddeus. |
-| Chapter 7 - Record.md | **Played** (3 sessions: 16 Aug, early Sept, 4 Oct 2026) | **The DM record of what happened in Chapter 7** — Bramblefen. Session-by-session events, retcons (thirty survivors, Virgil → NPC, Vaskar's horse), end state, threads into Ch8, open items. Supersedes all Ch7 prep (archived in `_archive/Chapter 7/`). |
-| Chapter 7 - The Chained Coast.md | **Player-facing prose** | All three Chapter 7 sessions as one story, in three parts. |
+| Chapter 7 - Record.md | **Played** (3 sessions: 16 Aug, early Sept, 4 Oct 2026) | **The DM record of what happened in Chapter 7** — Bramblefen. Session-by-session events, retcons (thirty survivors, Virgil → NPC, Vaskar's horse), end state, threads into Ch8, open items. Supersedes all Ch7 prep (archived in `_archive/Chapter 7/`). The story is Chapter Seven of `The Penitents Chronicle.md`. |
 | Chapter 8 DM Notes - Planning.md | **NOT YET PLAYED — prep** | Solteres. Vaskar's commission, Ysabel's win and the forced marriage, the ledger, the brand in the city, Barney Soot, the apprentice, Corbin. Supersedes Arc Plan §9 for Chs 8–9. |
-| Timeline.md | **Player-facing handout** | Two timelines on one sheet: (1) the Church's official chronology 0–1126 PA, written in two voices — the Church's line, and what common people say underneath — and (2) the party's own road, dated, Ch1 to now. Ends with four gaps in the official record, including that **the chronology gives no date for the Emperor's departure and never mentions he is gone.** No DM secrets. |
+| Timeline.md | **Player-facing handout** | Two timelines on one sheet: (1) the Church's official chronology 0–1126 PA, written in two voices — the Church's line, and what common people say underneath — and (2) the party's own road, dated, Ch1 to now. Ends with four gaps in the official record, including that **the chronology gives no date for the Emperor's departure and never mentions he is gone.** No DM secrets. ⭐ **Part Two ("Your Own Road") is now the factual base for all player-facing files** (replaces the archived `Party History.md`): correct it first, then propagate to the Chronicle and Open Questions. |
 | The Unit Before Us.md | **Player-facing handout** | The story of the five Penitents sent to Dol before this party, and Gimble's capture — written as narrative, to hand out when Gimble joins in Ch7. Deliberately omits what neither the party nor Gimble knows: Saraswati's name, the 666 days, what the blood is for, and that the herald on that beach is the one who escaped St. Pyotr's. The DM version with those links and the open decisions is `world_lore/The First Penitents.md`. |
-| Party History.md | **Player-facing recap** | Plain chronological account of Ch1–6, restricted to what the party actually witnessed or learned. No DM secrets. This is the factual base the other two player-facing files are built from — correct it first, then propagate. Audited against the chapter files Aug 2026. |
-| The Penitents Chronicle.md | **Player-facing prose** | The same six chapters written as a story: scenes, dialogue, interiority. Events match `Party History.md`; the added texture is flavor, not canon. Seeds the Saraswati-guitar thread. Where it and the table disagree, the table wins. |
-| Open Questions.md | **Player-facing handout** | The gap-between-sessions memory aid. Not a recap — a one-page list of what the party knows they *don't* know, plus what they're carrying, what they promised, and four questions they could answer right now if they asked. Contains **no DM secrets**; built strictly from `Party History.md`. Add a question per session; delete one only when the party says the answer out loud at the table. Current as of the end of Chapter 6. |
+| The Penitents Chronicle.md | **Player-facing prose** | Chapters 1–7 written as a story (Ch7 added Oct 2026): scenes, dialogue, interiority. Events match the Timeline's Part Two; the added texture is flavor, not canon. Seeds the Saraswati-guitar thread. Where it and the table disagree, the table wins. |
+| Open Questions.md | **Player-facing handout** | The gap-between-sessions memory aid. Not a recap — a one-page list of what the party knows they *don't* know, plus what they're carrying, what they promised, and four questions they could answer right now if they asked. Contains **no DM secrets**; built strictly from what the party witnessed (Timeline Part Two). Add a question per session; delete one only when the party says the answer out loud at the table. Current as of the end of Chapter 7 (updated Oct 2026). |
 
-**Campaign chronology — SETTLED (Aug 2026, per the DM).** In-world dates now run: **branding 22 July 1126** → sails 23 July → three weeks at sea → **wreck 13 Aug, Dol 14 Aug** → **Ald's Star 15–16 Aug** (preserves the "mid-August" anchor in the Ch3 overview) → **St. Pyotr's 18 Aug** → **a month on the road, 19 Aug – 19 Sept** → **the Calf and Ass, 20 Sept** → depart 21 Sept, Thaddeus's confession 23 Sept, **swine raid 24 Sept** → two quiet weeks → **early October 1126, two days from Solteres.** Total elapsed ≈ **two and a half months**, which is what makes "out of contact with Vozruk for months" and Luthien's "two months? Three?" true. The month of aimless walking between Ch4 and Ch5 is the stretch that makes the arithmetic work — the map ended at St. Pyotr's, the party had no lead, and nobody came looking for them. It is now written into both `Party History.md` and `The Penitents Chronicle.md`. If you compress that leg later, the "months" language in three files has to come down with it.
+**Campaign chronology — SETTLED (Aug 2026, per the DM).** In-world dates now run: **branding 22 July 1126** → sails 23 July → three weeks at sea → **wreck 13 Aug, Dol 14 Aug** → **Ald's Star 15–16 Aug** (preserves the "mid-August" anchor in the Ch3 overview) → **St. Pyotr's 18 Aug** → **a month on the road, 19 Aug – 19 Sept** → **the Calf and Ass, 20 Sept** → depart 21 Sept, Thaddeus's confession 23 Sept, **swine raid 24 Sept** → two quiet weeks → **early October 1126, two days from Solteres.** Total elapsed ≈ **two and a half months**, which is what makes "out of contact with Vozruk for months" and Luthien's "two months? Three?" true. The month of aimless walking between Ch4 and Ch5 is the stretch that makes the arithmetic work — the map ended at St. Pyotr's, the party had no lead, and nobody came looking for them. It is written into both `Timeline.md` and `The Penitents Chronicle.md`. If you compress that leg later, the "months" language in three files has to come down with it.
 
 **Note:** all session files use `Chapter N …` naming for story order, regardless of how many real table sessions a chapter takes. Chapter number and real-world session count are **not** one-to-one — Chapter 7 (the Bramblefen raid), for instance, is expected to take 2–3 real play sessions on its own. Use the Played? column in the table above, not the filename, to know whether a chapter has actually happened.
 
@@ -147,9 +149,9 @@ Three plots run in parallel, plus a standing institutional problem:
 
 **Unresolved debts and loose ends worth remembering:** the first Penitent team lost on Dol was never found; the *Hreowan*'s crew is unaccounted for; the amulet of transportation has **one charge left** and points one-way into Saraswati's crypt; Fid gave Luthien the Ball of Undeath against Vozruk's explicit order; Wolfram promised Ald there were no more beasts nearby; the party took six jars of pickled cabbage from a dead man's house without telling anyone; the garden trapdoor at St. Pyotr's (Ch4, A7) was never opened.
 
-> **DM-only future hook (do NOT put in `sessions/Party History.md` or otherwise reveal to players):** at St. Pyotr's (Ch4), the party rescued a tortured, mentally-broken woman from the torture chamber, healed her, then chose to leave her behind in an unlocked cell with a few days of rations rather than bring her along — reasoning they weren't equipped to care for her and needed to stay focused on the Church's mission. **SUPERSEDED — see `world_lore/The Patient.md`.** The approach came from **Brudda Death**, not Adephagia, it was a bargain rather than a possession, and she returns not for revenge but because she now runs the holding east of Underwood. Keep all of it out of player-facing material until it happens at the table.
+> **DM-only future hook (do NOT put in any player-facing file (Timeline, Chronicle, Open Questions) or otherwise reveal to players):** at St. Pyotr's (Ch4), the party rescued a tortured, mentally-broken woman from the torture chamber, healed her, then chose to leave her behind in an unlocked cell with a few days of rations rather than bring her along — reasoning they weren't equipped to care for her and needed to stay focused on the Church's mission. **SUPERSEDED — see `world_lore/The Patient.md`.** The approach came from **Brudda Death**, not Adephagia, it was a bargain rather than a possession, and she returns not for revenge but because she now runs the holding east of Underwood. Keep all of it out of player-facing material until it happens at the table.
 
-> **DM-only future hook — TODO, needs a proper `world_lore/` write-up (do NOT put in `sessions/Party History.md` or otherwise reveal to players):** the "very old man" who approached the party at the Inn (Ch5), invisible/unnoticed to everyone else in the room, who thanked them for stopping the Brudda Death summoning at St. Pyotr's — he is **the Emperor**, unseen for over a thousand years. This is a major reveal being held back from the party; the game's recurring "May he rise again" refrain (used by NPCs across multiple villages) is presumably tied to this. Write him up properly in `world_lore/` (motive, why he can go unnoticed, why he's surfacing now, connection to `Timeline.md`'s Church history) before he reappears at the table.
+> **DM-only future hook — TODO, needs a proper `world_lore/` write-up (do NOT put in any player-facing file (Timeline, Chronicle, Open Questions) or otherwise reveal to players):** the "very old man" who approached the party at the Inn (Ch5), invisible/unnoticed to everyone else in the room, who thanked them for stopping the Brudda Death summoning at St. Pyotr's — he is **the Emperor**, unseen for over a thousand years. This is a major reveal being held back from the party; the game's recurring "May he rise again" refrain (used by NPCs across multiple villages) is presumably tied to this. Write him up properly in `world_lore/` (motive, why he can go unnoticed, why he's surfacing now, connection to `Timeline.md`'s Church history) before he reappears at the table.
 
 ### Naming conventions to hold to
 The session files are written fast and unedited, so **treat any proper noun in `sessions/` as approximate.** Canonical spellings:
@@ -193,76 +195,17 @@ The session files are written fast and unedited, so **treat any proper noun in `
 - Encounters are listed as bare rosters ("1 demagogue / 2 cultists / 1 bruiser"); stat blocks live in `world_lore/` or the processed summaries, not in the session files.
 - Read-aloud text is second-person present tense and is **not** visually marked in Chapters 1–6; the Chapter 7 files upgrade this to `> **Read-aloud —**` blockquotes. Prefer the newer convention going forward.
 
-## Processing Workflow
-Run this whenever asked to "process campaigns," "update summaries," or on first setup:
-1. List every PDF in `raw_campaigns/`.
-2. For each raw file with no matching summary, or whose raw file is newer than its summary, extract and read it in full.
-3. Write or update `processed_campaigns/{same-base-name}.md` using the Summary Template below.
-4. Update `processed_campaigns/_index.md` and the Active Campaigns table above.
-5. Don't reprocess unchanged files — check modification dates first.
-
-### Reading the source PDFs
-Most 5e adventure PDFs are text-heavy with occasional maps/handouts/illustrations:
-- Run `pdfinfo` and `pdffonts` first to confirm the PDF has a real text layer (not a scan).
-- Use `pdftotext -layout` or pdfplumber for the primary text extraction — this is where stat blocks, boxed read-aloud text, and narrative live.
-- Only rasterize/view pages visually for battle maps, player handouts, or illustrations where the image itself matters (e.g. you need to describe a map layout). Don't rasterize the whole PDF — it's expensive and usually unnecessary for text content.
-- If a stat block or table extracts garbled, rasterize just that page and read it visually instead of guessing at numbers.
-
-## Summary Template
-Use this structure for every file in `processed_campaigns/`:
-
-```markdown
-# [Campaign / Adventure Name]
-**Source:** raw_campaigns/[filename]
-**Last processed:** [date]
-**Level range:** [e.g. 1–5]
-
-## Overview
-1–3 sentence premise and setting.
-
-## Key NPCs
-| Name | Role | Motivation | Location | Stat block ref |
-|------|------|------------|----------|----------------|
-
-## Key Locations
-- Name — short description, notable features
-
-## Encounters / Combat
-| Encounter | Location | Monsters (CR) | Notes / tactics |
-|-----------|----------|----------------|------------------|
-
-## Plot / Quest Threads
-| Thread | Status | Notes |
-|--------|--------|-------|
-
-## Session Log / Timeline
-Chronological recap of what's happened so far, including party decisions and consequences (if session notes exist).
-
-## Treasure & Rewards
-- Item — where found / who has it — notable properties
-
-## Secrets & Twists
-- ...
-
-## Open Threads / Things to Remember
-- ...
-```
-
 ## Answering Questions
-- Default to `processed_campaigns/` first — don't open raw PDFs unless needed.
-- Say which campaign/summary an answer came from.
-- If the processed summary can't answer it, say so explicitly before checking `raw_campaigns/`.
-- If a raw-file lookup turns up info missing from the summary (new NPC, changed stat block, plot detail), mention it and offer to fold it into the summary.
-- For quick session prep ("what do I need for tonight"), pull directly from the relevant summary's Session Log, Encounters, and Open Threads sections rather than re-summarizing from scratch.
-- **Encounter math is the DM's most common ask.** The party is small and low level; when suggesting a fight, state the adjusted XP against the 5-PC level-4 thresholds (Easy 625 / Medium 1,250 / Hard 1,875 / Deadly 2,500) rather than eyeballing CR. **The DM deliberately runs encounters out of balance** so the players look for better solutions than a fair fight — report the math, don't rebalance it.
+- Default to the home-campaign files (see Lookup Order). Say which file an answer came from.
+- For quick session prep ("what do I need for tonight"), pull from the current chapter's planning file and the latest Record rather than re-summarizing from scratch.
+- **Encounter math is the DM's most common ask.** When suggesting a fight, state the adjusted XP against the 5-PC level-4 thresholds (Easy 625 / Medium 1,250 / Hard 1,875 / Deadly 2,500) rather than eyeballing CR. **The DM deliberately runs encounters out of balance** so the players look for better solutions than a fair fight — report the math, don't rebalance it.
+- **Published modules:** see `processed_campaigns/README.md`. Only when asked.
 
 ## Maintenance
-- If `raw_campaigns/` has new or changed PDFs, flag it and offer to (re)process before answering questions — don't let summaries go stale silently.
-- After each real game session, offer to append to that campaign's Session Log and update Open Threads based on what happened.
-- For small updates, patch just the relevant section of a summary rather than regenerating the whole file.
-- Keep summaries scannable: tables and bullets over prose.
+- **After each real game session**, offer to write or extend that chapter's `Chapter N - Record.md`, then update the affected `world_lore/` and `players/` files and the player handouts (Timeline Part Two first, then the Chronicle and Open Questions).
+- For small updates, patch the relevant section rather than regenerating the whole file.
 - **After any edit, just report what you changed.** Do not commit or push — see the git rule at the top of this file.
-- When a fact changes in one place, check the other files that repeat it — the slaver-arc NPC files, the Chapter 7 notes, and the Run Sheet all restate the same details and drift apart easily.
+- When a fact changes in one place, check the other files that repeat it — the NPC files, the chapter Record, the current chapter plan, and the player handouts all restate the same details and drift apart easily.
 
 ## Preferences
 - System: D&D 5e

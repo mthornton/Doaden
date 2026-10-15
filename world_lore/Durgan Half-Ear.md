@@ -3,7 +3,7 @@
 **Type:** NPC — enslaved dwarf; handler and keeper of **The Juggernaut ("Mott")**. Owned by **Lord Leofard Ironwake.**
 **Role in play:** the leash and the heart of the pair — the only one who can calm Mott, and a quiet goldmine of intel on Ironwake's pits (see [[The Juggernaut]]).
 
-> Names and clan are placeholders — rename freely.
+> 📍 **STATUS AFTER CHAPTER 7** *(see `sessions/Chapter 7 - Record.md`)* — **FREE, gone north with Mott.** When the yard turned, Durgan told Mott to *kill the guards*; when Mott collapsed, **Durgan threw himself on top of him and took the beating.** They left before dawn for a mountain range Durgan knows. **Cold thread.** Ironwake has written off his champion and is not looking for him.
 
 ## A Dwarf of the Long Roads
 
@@ -45,12 +45,9 @@ Threaten or harm Mott, and you make an enemy who can't beat you in a fight and w
 
 And Durgan knows things. Years at the rail of Ironwake's pits have made him a quiet ledger of the man's whole rotten operation: the bribed magistrates, the fixed odds, the schedule of the fights, **which "champion" is meant to win the trial by combat and why.** Won over, he is the single best source of intel the party could have against Lord Ironwake.
 
-> **Optional connective hook (recommended):** Durgan has watched a great deal of "stock" pass through Ironwake's holdings. If it suits your table, he *remembers a half-elf woman and a young boy* — quiet, the boy always at her skirts — brought in years apart and kept apart. He can put a name and a fate to **JonLief's wife and son** when no one else can. This makes Durgan the human (dwarven) heart of the whole slaver arc, and gives JonLief a reason to move the world to keep this dwarf alive.
-
-## Roleplay & DM notes
+## Roleplay & DM notes *(if they ever return)*
 
 - **Voice:** low, unhurried, economical. He gentles people the way he gentles beasts. Rare dry jokes signal trust.
-- **The bond mechanic** lives in [[The Juggernaut]]: while Mott can see and hear Durgan, Durgan can end his rage as an action. Kill or silence Durgan and you lose the off-switch — see the **Grief-Rage** rules.
-- **He is not a fighter.** Use a Commoner or Scout stat block. His power is knowledge, loyalty, and the leash on a living siege engine — never his axe.
-- **Winning him over** is a roleplay arc, not a Persuasion check. Kindness to Mott is worth more than any speech. One genuine act of protection cracks him open; a betrayal seals him forever.
-- **Freedom payoff:** free the pair and Durgan becomes a fiercely loyal ally and quest-giver, a fount of anti-Ironwake intel, and — if you use the optional hook — the man who can finally tell JonLief the truth about his family.
+- **The bond mechanic** lives in [[The Juggernaut]]: while Mott can see and hear Durgan, Durgan can end his rage as an action.
+- **He is not a fighter.** Commoner or Scout. His power is knowledge and the leash on a living siege engine.
+- **He owes the party.** If they ever need intel on Ironwake's pits — the bribed magistrates, the fixed odds — he is the best source alive, and he is a long way north.

@@ -5,7 +5,7 @@
 >
 > This page holds the true version. **Nobody living witnessed the bargain** — see §8 for the only ways it ever comes out.
 >
-> See `Underwood.md`, `Old Cobb.md`, `What the Party Knows - The Book.md`, `Chapter 7 DM Notes - Session 2 Onward.md` §5 and §5b.
+> See `Underwood.md`, `Old Cobb.md`, `What the Party Knows - The Book.md`, `sessions/Chapter 7 - Record.md` (Session 2: the burn circle and the barrel).
 >
 > 🟢 **In the world it is called *the green*** — lowercase, definite article, and that is what ordinary people say. The Church has no word for it at all. See `Underwood.md`, *The name*.
 

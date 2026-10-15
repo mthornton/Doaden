@@ -1,7 +1,9 @@
 # Anselm Vogt
 
-**Type:** NPC — enslaved Westfield man; leader of the coming revolt at **Bramblefen**.
-**Function:** the party's honest source inside the compound, the hand on the revolt's trigger, and the man who decides what [[Wolfram Eisenherz]] is worth. The deliberate opposite of [[Denrick]] — same collar, same pens, opposite answer.
+**Type:** NPC — Westfield man, formerly enslaved at **Bramblefen**; led the revolt; now leads the thirty freed.
+
+> 📍 **STATUS AFTER CHAPTER 7** *(see `sessions/Chapter 7 - Record.md`)* — **ALIVE AND FREE.** Recognised Wolfram in the yard (Session 2), told him he had gone to the Bishop with Wolfram's reasons and the Bishop never wrote it down, and asked for the armory. He handed out the weapons and survived the revolt. **He offered the party the service of all thirty; they were sent to Ald's Star on Wolfram's name**, and he is leading them there. **Chapter 8+:** the recommended guardian for Rowan *(`What To Do With Rowan.md` §3A)*.
+**Function:** the party's honest source inside the compound, the hand on the revolt's trigger, and the man who decides what [[Wolfram Eisenherz]] is worth.
 
 > The other two Westfield men with him are unnamed for now.
 
@@ -49,9 +51,8 @@ Anselm has counted everything, because counting is what he is. Freed, trusted, o
 - Where the armory keys hang.
 - That the big one in the Deep Cages is gentle until the dwarf makes him otherwise ([[Durgan Half-Ear]]).
 - That the masked man will not survive the match.
-- That [[Denrick]] talks to the overseers at night and should be trusted with nothing.
 
-**He does not lie and he does not embellish.** If the party runs an Insight check on him, tell them straight: this man is telling the truth. Earning good information honestly, right after Denrick offers them a poisoned version of the same thing, is the whole point of him.
+**He does not lie and he does not embellish.** If the party runs an Insight check on him, tell them straight: this man is telling the truth. He is the party's one wholly honest source.
 
 ## The Wolfram Scene
 
@@ -93,7 +94,7 @@ He will also, if asked, tell Wolfram the one thing nobody has: **that people bac
 
 - **Kept the Count.** Anselm knows the compound's guard positions, rotations, and numbers exactly. Treat as fact, not a check.
 - **Steady Hand.** Allied freed captives within 30 ft. that can see and hear him have advantage on saving throws against being frightened. If he falls, they lose it immediately — and morale with it.
-- **Twenty-Six Years on a Bad Road.** Advantage on Wisdom (Insight) checks. He read [[Denrick]] within a week of arriving.
+- **Twenty-Six Years on a Bad Road.** Advantage on Wisdom (Insight) checks. He reads a man within a week.
 
 **Actions**
 
@@ -104,11 +105,9 @@ He will also, if asked, tell Wolfram the one thing nobody has: **that people bac
 
 - **Pull Him Back.** When an ally within 5 ft. is hit by an attack, Anselm can move them 5 ft. and grant +2 AC against that attack. He has been pulling people out of the way his whole life.
 
-## Hooks & aftermath
+## Hooks — after Bramblefen
 
-- **The signal is his.** Any disruption may trigger the revolt, but *he* chooses the instant. A party that talks to him first can time it deliberately — the single biggest lever they have on the sundown fight.
-- **He is the reason freed men stay a group** instead of scattering into the fen. If he lives, the eighteen have a leader and a destination. If he dies, they are a mob and someone else's problem.
-- **He will not go quietly to Solteres.** A city where slavery is ordinary is not a refuge to him; he will argue for going inland and taking the men with him.
-- **He is evidence.** Anselm's conviction is a paper trail leading back to the Citadel's handling of Wolfram's trial. Nothing in this session forces the party to notice — but a party that does has leverage on the Church itself, which is a very different weapon than leverage on a lord.
-- **He wants Westfield back.** Not the barony — the road. If the party ever moves against the Church's rot or restores anything of the Eisenherz name, Anselm is the man who raises the sheriffs again.
-- **Cobb and Anselm.** Two record-keepers, two ledgers, opposite reasons. Put them in the same room before the session ends if you can.
+- **The thirty are his.** He keeps freed people a group instead of a mob, and he is walking them to Ald's Star. **Whatever Ald's Star becomes** (Arc Plan §8.1a), Anselm is its sheriff in all but name.
+- **Rowan's guardian.** A retired lawman with nothing left to do and a debt he cannot pay. *(`What To Do With Rowan.md` §3A — recommend he says yes instantly, visibly relieved to be asked.)*
+- **He is evidence.** His testimony to the Bishop about Wolfram, never recorded, is a paper trail back to the Citadel's handling of Wolfram's trial. Nothing forces the party to notice; a party that does has leverage on the Church itself.
+- **He wants Westfield back.** Not the barony — the road. If the party ever restores anything of the Eisenherz name, Anselm is the man who raises the sheriffs again.

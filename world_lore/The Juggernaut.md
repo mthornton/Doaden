@@ -4,7 +4,9 @@
 **Base chassis:** Level 5 Barbarian (Rage, Reckless Attack, Extra Attack, Fast Movement, Unarmored Defense, Danger Sense).
 **Design goal:** a boss you *survive*, not out-damage. He is overwhelming for ~4 rounds, then burns himself out. His trusted dwarf handler is the off-switch.
 
-> **Names (rename freely):** the pits bill him as **"The Juggernaut."** His handler, the dwarf **Durgan Half-Ear**, calls him **"Mott."** Mott doesn't know his own birth name.
+> **Names:** the pits bill him as **"The Juggernaut."** His handler, the dwarf **Durgan Half-Ear**, calls him **"Mott."** Mott doesn't know his own birth name.
+
+> 📍 **STATUS AFTER CHAPTER 7** *(see `sessions/Chapter 7 - Record.md`)* — **FREE, gone north with Durgan.** In the ring he would not kill Gimble; he threw a barricade into Ironwake's two professionals instead, then killed guards on Durgan's word, burned out, and was beaten until Durgan covered him. **Ironwake has no champion and is not replacing him** *(Chapter 8 §6)*. Stat block kept below in case he ever returns.
 
 ---
 
@@ -51,7 +53,7 @@ Play Mott as tragic, not villainous. He is a victim who happens to be a wrecking
 >
 > **It is exactly backwards.** Durgan is the off switch. And *"he never hurt anybody"* is not literally true — Mott has torn men apart in the ring; Durgan means *he is gentle and they use him as a weapon.* Any guard will contradict the line for free if asked, and nobody has asked.
 >
-> **Attacking Durgan triggers Grief-Rage.** See below, and `Chapter 7 DM Notes - Session 3.md` §9 for how to run the backfire and the escape valves.
+> **Attacking Durgan triggers Grief-Rage.** See below.
 
 - **Bonded to Durgan.** Mott will **never** willingly attack Durgan, and never targets him even while raging. If Mott can see **and** hear Durgan, Durgan can spend an action to **calm** him, instantly ending the rage (no roll — this is trust, not magic). This is impossible during a **Grief-Rage** (below).
 
@@ -97,19 +99,7 @@ Play Mott as tragic, not villainous. He is a victim who happens to be a wrecking
 
 ---
 
-## Using him in play
+## DM knobs *(if he ever returns)*
 
-- **Ironwake's pit champion.** The obvious use: Mott is Ironwake's fighter in the Solteres pits — and the muscle behind the **rigged trial by combat** (Ysabel's arc). The party can't beat him straight; they win by exposing the trick (reach Durgan mid-duel and Mott simply *stops*, in front of the whole crowd — Ironwake's rigged victory collapses publicly).
-- **A hazard, not just an enemy.** Because he hits the nearest target, he mauls Ironwake's guards too. Smart parties herd enemies between themselves and Mott, or bait him into his own side.
-- **Don't TPK.** He's slow-witted and attacks whoever's *closest and standing*. A downed PC is ignored if someone nearer is up. Reward kiting, cover, and terrain.
-- **The freedom payoff.** This pair is built to be rescued. Free them and Durgan becomes a fierce, loyal ally/quest-giver, and Mott a gentle giant the party protects — and can unleash in emergencies, at the real cost of burning him out. It rhymes with JonLief's whole "free the enslaved" throughline.
-- **Chapter 7 tie-in.** Mott and Durgan could be the prize "stock" at Bramblefen, or already shipped to Ironwake's Solteres pits — a natural thing for **Old Cobb's ledger** to point at.
-
----
-
-## DM knobs to tune
-
-- **Size.** Built as **Large** (VTT-practical, ~9–10 ft.). For a truly monstrous *Huge* version, bump reach to 15 ft., HP to ~120, and Ground Slam to 15-ft. radius.
-- **HP 90** is set so a focused level-3 party of 4 can drop him around the time he'd collapse anyway. Lower to ~75 if your table hits hard; raise to ~110 if you want the clock (not damage) to be the only way through.
-- **Phase lengths** match your spec (Full 1–4, Flagging 5–6, Burned Out 7+). To make him even more of a glass cannon, shift to Full 1–3 / Flagging 4–5 / Burned Out 6+.
-- **Names:** *The Juggernaut / Mott* and *Durgan Half-Ear* are placeholders — swap at will.
+- **Size.** Built as **Large** (~9–10 ft.). For a *Huge* version, bump reach to 15 ft., HP to ~120, and Ground Slam to 15-ft. radius.
+- **Phase lengths:** Full 1–4, Flagging 5–6, Burned Out 7+. **The Rage Clock is confirmed at the table** — he burned out exactly as designed in Session 3.

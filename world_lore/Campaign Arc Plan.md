@@ -112,7 +112,7 @@ So the coven of witches inland isn't a side quest; they're a cult cell feeding t
 - **Virgil has no character file.** He's the only PC without one and he's carrying the Alchemical Order thread **and now the vaccine path** *(`Elizabeth and the Green.md` §10)*. Worth writing — he has gone from the least plot-connected PC to holding an alternate victory condition.
 - **`Solteres.md` needs the typo pass** you've already flagged, plus Ironwake and Ysabel probably deserve their own files now that he's the Chapter 7–10 antagonist.
 - **`Master Thaddeus and Marion.md` is stale** — stops mid-backstory, contradicts Ch6 on the squid/worm question.
-- ~~Decide on Prisoner X soon.~~ **SETTLED (Aug 2026).** Dave is in. Prisoner X is now **Gimble Beren**, gnome ranger — a Penitent and the sole survivor of the first Dol Island team (`world_lore/The First Penitents.md`, `players/Gimble Beren.md`). He joins in the second half of Chapter 7. **Knock-on: the sundown match almost certainly never happens, which means Ysabel is never detained and Anselm loses his signal.** See Chapter 7 DM Notes item 3a.
+- ~~Decide on Prisoner X soon.~~ **SETTLED (Aug 2026).** Dave is in. Prisoner X is now **Gimble Beren**, gnome ranger — a Penitent and the sole survivor of the first Dol Island team (`world_lore/The First Penitents.md`, `players/Gimble Beren.md`). He joins in the second half of Chapter 7. ✅ *As played: the match started, Gimble was freed in the ring, the revolt fired on it, and Ysabel was never detained (`sessions/Chapter 7 - Record.md`).*
 
 ---
 
@@ -267,7 +267,7 @@ Two dozen halflings can't host a five-murder investigation. But you don't need t
 
 **The mechanism is already written into your Chapter 7 aftermath.** "Where do the freed go?" — option 4 is *go north/inland; needs supplies, a guide, and someone to lead them; Wolfram is the obvious candidate.* Wolfram knows exactly one settlement in this region that is remote, defensible, food-rich, and owes the party a debt.
 
-**So: the eighteen go to Ald's Star.** And then it keeps growing, for reasons the campaign has already established:
+**So: the freed go to Ald's Star** ✅ *(played — thirty of them, Ch7 Session 3).* And then it keeps growing, for reasons the campaign has already established:
 
 - Word travels among slaves — Anselm's version of Wolfram's story "travels well." A place that takes in collared men becomes a destination.
 - Underwood is under Church quarantine (unenforced) with a spreading spore plague. People leave.
@@ -284,8 +284,8 @@ Eighteen months of that turns 24 people into **three or four hundred** — which
 
 **Casting the module's roles out of people they know:**
 
-- **The five victims.** Draw from Bart, Matilda (the child who chattered at them all morning), William the horse-keeper, and whichever of the Eighteen survived Bramblefen — Ivo, Rusk, Tobrun, Kesh. Five names off that list will wreck your table. Use them.
-- **Gorab, the framed red herring → Wendel Crook.** The ex-guard who wore the collar he used to lock. Half the town already wants him dead, he has a guard's history, and the party freed him personally. When the evidence points at him, they will believe it. Then they have to decide what to do about it, in front of the men they freed, using the torture authority Vozruk gave them. That is the moral test of the finale and it costs you nothing to set up.
+- **The five victims.** Draw from Bart, Matilda (the child who chattered at them all morning), William the horse-keeper, and faces from **the thirty freed at Bramblefen** *(`The Bramblefen Freed.md` — Kesh Vanner is the one named survivor available; invent the rest when you need them)*. Five names the table knows will wreck it. Use them.
+- **Gorab, the framed red herring → Harl Crook.** The ex-guard who wore the collar he used to lock. Half the town already wants him dead, he has a guard's history, and the party freed him personally. When the evidence points at him, they will believe it. Then they have to decide what to do about it, in front of the men they freed, using the torture authority Vozruk gave them. That is the moral test of the finale and it costs you nothing to set up.
 - **Ald** stays Ald: grieving, useful, and a second pressure valve if the party needs someone else to be wrong about.
 - **Aquilon → Vozruk**, threatening to burn the town if it spirals. He means it. It's their town.
 
@@ -418,7 +418,7 @@ That's roughly a year and a half at a monthly cadence. **If that's too long**, c
 2. **Is Vozruk hunting them already, or has he written them off?** You flag this in the notes yourself. It determines Chapter 8's tone entirely, and Chapter 7's ending should foreshadow whichever you pick.
 3. ~~How many vessels are there, and what are the other three?~~ ✅ **FINALISED Oct 2026 — `world_lore/The Art-Items.md` is now the source of truth and supersedes the §8.6 roster table below.** Six findable, one per craft; she made more and the rest are lost. ⚠️ **Corbin knows only that a set exists.**
 4. **Does Kesh Vanner remember the black-robed buyers asking after artists?** One sentence, six chapters of payoff — and it now rhymes with the guitar waking the same night.
-5. **Do the eighteen go to Ald's Star?** If the party sends them anywhere else, §8.1a doesn't happen and the finale needs a different town. Put a thumb on the scale in the Chapter 7 aftermath — Wolfram naming the place he knows is the most natural thing in the world.
+5. ~~Do the eighteen go to Ald's Star?~~ ✅ **Yes — played, Session 3: thirty freed, sent to Ald's Star on Wolfram's name** (Erwana went ahead in Session 1).
 6. **Are you comfortable running Chapter 15's torture mechanic and Ald-as-red-herring at your table?** That's a session-zero conversation with your players, and Path of Penitence itself carries the content warning. Better to have it now than mid-scene.
 
 ---
@@ -429,5 +429,7 @@ That's roughly a year and a half at a monthly cadence. **If that's too long**, c
 |---|---|
 | 2026-08 | Created after Chapter 6, before Chapter 7 was run. Nothing in it has been tested at the table yet. |
 | 2026-08 | **DM corrections folded in.** Amulet is one charge, one-way (§6.1 rewritten — the constraint is better than the first draft and the finale is built around it now). Ald's Star grows into a boomtown via Chapter 7's freed men rather than being retconned (§8.1a, new). Vessels confirmed as always-planned; §3.1 reframed from "design fix" to "disclosure schedule," and §8.6 added with the reveal order, the roster, and Corbin's introduction in Ch8. |
+
+| 2026-10 | **Chapter 7 cleanup.** Ch7 prep archived; `sessions/Chapter 7 - Record.md` is the record. The Eighteen roster dropped (thirty survived; only Kesh, Bosk and Harl Crook kept, in `The Bramblefen Freed.md`). Denrick archived. §8.1a casting and §10.5 updated. *Rest of this file not yet reconciled with Ch7 as played.* |
 
 *Append a row here whenever play overtakes the plan.*

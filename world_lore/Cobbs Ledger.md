@@ -2,7 +2,7 @@
 
 > **DM-facing design document.** What is actually written in Old Cobb's hidden book, what it reveals at each level of scrutiny, and what it does to everyone who touches it.
 >
-> **Status:** built on established canon (`Chapter 7 DM Notes.md`, `Old Cobb.md`, `Erwana.md`, `Solteres.md`, the Session 1 play notes). **Names of the Solteres figures in §7 are new and yours to change.** Open decisions at the end.
+> **Status:** built on established canon (`sessions/Chapter 7 - Record.md`, `Old Cobb.md`, `Erwana.md`, `Solteres.md`). ✅ **Ysabel has it** (end of Ch7) and is using it for blackmail in Ch8. **Names of the Solteres figures in §7 are new and yours to change.** Open decisions at the end.
 
 ---
 
@@ -65,7 +65,7 @@ There is no house called Ashgate in Solteres. There never has been. **The party 
 **And the payments are the crack in it.** Men who will not give a name still have to pay, and coin in that quantity does not travel in saddlebags. The Ashgate purchases were settled by **letters of credit guaranteed by real, named Solteres counting houses** — because Cobb, being a clerk, recorded the instrument as a matter of course. He never once thought about what he was recording.
 
 ### Level 3 — the whole book, and arithmetic
-This needs a day, or someone very fast. *(See §8 — Talwyn Ceth.)*
+This needs a day, or someone very fast. *(See §8.)*
 
 **The pattern:**
 
@@ -98,7 +98,7 @@ You do not have to state the mechanism. The party can hold two facts — *she is
 
 **And Luthien is carrying one of her items.** If the guitar's nature ever surfaces, the ledger is the document that makes it frightening rather than flattering: he is holding something the people in this book were bought to prevent.
 
-**Kesh Vanner** — Stock, half-elf, sixty-odd, forty years a ship's navigator, sold twice already, currently in the Auction Yard — is your living confirmation. The Arc Plan already asks whether he remembers the black-robed buyers asking after artists. **He does.** He was passed over twice because he could only navigate.
+**Kesh Vanner** — Stock, half-elf, sixty-odd, forty years a ship's navigator, sold twice already, **now among the freed at Ald's Star** (`The Bramblefen Freed.md`) — is your living confirmation. The Arc Plan already asks whether he remembers the black-robed buyers asking after artists. **He does.** He was passed over twice because he could only navigate.
 
 ---
 
@@ -163,8 +163,7 @@ Five names, escalating. **All new — change any of them.**
 - **JonLief** read enough at the campfire to find Elizabeth and Rowan. That's Level 1.
 - **Erwana cannot read.** She carried it four weeks without knowing anything but that it was old.
 - **Level 3 needs a day** with the whole volume and someone who can hold columns in their head.
-- **Talwyn Ceth** — Stock, half-elf, 30s, a merchant's scribe before the collar, in the Pens — **is literate, fast, and can reproduce a ledger page from memory.** He is the natural analyst and he is sitting in a cage at Bramblefen. Freeing him is how the party gets Level 3 without a montage.
-- **He is also the backup copy.** If the book burns, is seized, or is handed to Ysabel, Talwyn can reconstruct the Ashgate entries. **Do not tell the party this** — let it be the thing that saves the arc if the prop is lost.
+- **Ysabel can, and has.** She is reading it for names to squeeze, not for the pattern — so she will reach Level 2 on the guarantors and may never do the arithmetic of Level 3. **The party no longer holds it**; if they want the whole pattern they have to go back to her *(`The Ashgate Purchases.md`)*.
 
 ---
 

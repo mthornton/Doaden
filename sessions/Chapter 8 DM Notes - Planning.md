@@ -12,7 +12,7 @@
 | **The party** | Escorting Lady Ysabel to **Solteres**. Holding the **Working Ledger**, which names **Barney Soot**, a chimney sweep. **Rowan is the stated priority.** |
 | **New PC** | **Baltus's apprentice.** Unbranded, free, Church-sanctioned. Name and backstory not yet set. |
 | **Gone** | Virgil → Underwood. Durgan and Mott → north. Thirty freed → **Ald's Star**. |
-| **Vaskar** | Alive, out the gate with a handful of coin, because Wolfram would not let the party break their word. |
+| **Vaskar** | Alive, out the gate with a handful of coin, because Wolfram would not let the party break their word. ✅ **He took a horse from the stable outside Bramblefen's walls** *(stated at the table)* — which is how he reaches Ironwake and Solteres ahead of a party moving at cart pace. |
 | **Ysabel** | Holding **Cobb's Ledger** and planning to blackmail Solteres houses into making Ironwake drop the trial. |
 
 ---
@@ -101,7 +101,7 @@ So the plan is:
 
 ### ⚠️ AND THEY MAY NOT RESCUE HER. PLAN FOR THAT.
 
-**Be honest about who she is to this party.** Ysabel owns non-human slaves, says out loud that non-humans are beneath humans, and believes holding them is a kindness. **Three of this party are non-human and all five are branded.** They have worked with her because she was useful, and they have never liked her.
+**Be honest about who she is to this party.** Ysabel owns non-human slaves, says out loud that non-humans are beneath humans, and believes holding them is a kindness. **Three of this party are non-human and four of the five are branded** — the apprentice is not *(§7)*. They have worked with her because she was useful, and they have never liked her.
 
 **Told that she is to be married off into what is slavery in everything but the name, this party may well call that justice and let it happen.**
 
@@ -113,6 +113,7 @@ So the plan is:
 |---|---|
 | ⚠️ **The people she owns transfer with the estate** | This is the hook that refuses them the easy satisfaction. **Her mills and warehouses are worked by non-human slaves.** If the marriage goes through, those people pass from a woman who thinks they are children to a man who thinks they are stock. **Letting her fall frees nobody. It sells them downstream.** She is repellent and she is still the better owner, and that should be genuinely uncomfortable for a party of branded non-humans to sit with. |
 | **Her household** | Perrin, Dov, Symon, Cael, Mina — five people this party was responsible for all last chapter. ⚠️ **Dov is property on Terms, bought at Bramblefen.** He transfers too. |
+| ✂️ **Maelis Vire and the shears transfer too** | ✅ **SETTLED (13 Oct 2026): her fate is tied to the marriage.** Ysabel's blackmail works, the trial is cancelled, so **she never needs to sell workers** and the old "liquidate to fund her defence" clock is dead. **The marriage is the clock now.** If it goes through, Maelis passes to Ironwake with the dress house — the man who *runs* the trade Ashgate buys from. **Stop the wedding and the shears stay in Solteres; let it happen and they are one bad quarter away from the Herald's holding.** *(`The Art-Items.md` §5.)* |
 | **Ironwake gets stronger** | Mills, warehouses, ready cash, and a legitimate face. **Chapter 10's boss is measurably harder** because of a thing the party chose not to prevent. They can find that out later, and nobody needs to lecture them about it. |
 
 **Minor, but worth knowing:** Cobb's Ledger goes with her, and the first thing Ironwake does is burn it. **That costs the party nothing** — their lead is the Working Ledger, in their own pack. It costs Ysabel the only weapon she ever had.
@@ -134,6 +135,8 @@ So the plan is:
 - **Vaskar is running a private recovery operation inside his own employer's contract**, and he is the only living person who knows what is really at stake.
 
 > 🔑 **He is not hunting the party. He is hunting the ledger. They happen to be carrying it.**
+
+✅ **"Then why did he give it to us?" — SETTLED (13 Oct 2026).** The party has already read Vaskar as a man who will not fight if there is any other way out. **Trading the ledger for his life was in character** and nobody at the table found it strange. That night his life was worth more than the book; now that he has his life back, he wants the book too. Same man, same arithmetic.
 
 ### ⚙️ And this is how the party learns what they are holding
 
@@ -199,7 +202,7 @@ So the plan is:
 
 | Step | What they find |
 |---|---|
-| **The Working Ledger** | A name, a trade, a city. **Barney Soot, chimney sweep.** |
+| **The Working Ledger** | A name, a trade, a city. **Barney Soot, chimney sweep.**  ✅ **JonLief has NOT read it yet — he reads it at the start of the next session** *(DM, 15 Oct 2026)*. **Full NPC: `world_lore/Barney Soot.md`** — a poor, stern, resigned sweep, **not tied to Ironwake.** |
 | **Finding Soot** | Not hard. Sweeps are licensed, known, and work the wealthy quarter. Half a day's asking. |
 | **⚠️ Soot's shop** | **They are late.** Men came, put coin on the table, and took the boy. Soot is alive, frightened, and *bitter* — and, ⚠️ **he liked Rowan.** A quiet boy who did what he was told and did not complain, in a trade that chews through children. **He is not a villain and he is not relieved.** He is a small man who was robbed and misses the kid. |
 | **What Soot gives them** | A description of the men. A heavy older man who did the talking and never raised his voice. **The party will know exactly who that is.** |
@@ -235,6 +238,8 @@ So the plan is:
 | **A tracker** | How Vaskar finds people in a city he does not live in. Give him a face and a reason to be bought off. |
 | ❌ **No champion** | ✅ **Ironwake has NOT replaced the Juggernaut.** He does not need one — the trial is cancelled and he is occupied with the marriage. **There is no monster in this chapter**, and that is deliberate: it keeps the climax a negotiation the party can actually win. |
 
+⚖️ **Encounter balance is deliberately out of balance — SETTLED (13 Oct 2026).** Five PCs at level 4 (Easy 625 / Medium 1,250 / Hard 1,875 / Deadly 2,500). Vaskar alone (1,800 XP) is Hard; Vaskar plus his crew is roughly 4,000+ adjusted, well past Deadly. **That is by design.** A fair fight is not on offer; the party is meant to find a more interesting way through. Do not trim the crew to make option C comfortable.
+
 **And the thing that makes the crew interesting:** none of them know the party were Penitents either. Vaskar has not told anyone.
 
 ---
@@ -247,6 +252,7 @@ So the plan is:
 - ⚠️ **When Ysabel is taken, he is the only one who can still move freely.** The others are branded: showing the mark gets them past a slaver and into trouble with the Church, and spends Vaskar's secret *(§4)*. **The apprentice can walk into a magistrate's office and ask a question without any of that happening.** That makes him instantly indispensable.
 - **Give him that job in his first hour.** The outsider problem solves itself if the party needs him immediately.
 - **Baltus sent him to watch and to help**, and he knows it, and he was told so out loud. *(See `The Office of the Lost Flock.md` — apprentices are unbranded, feel no pull, and cannot be assigned files.)*
+- ✅ **He delivers the warning about Rowan — SETTLED (13 Oct 2026).** Baltus is not in the city, so the apprentice says it, and says plainly that **he has never seen it done himself; these are Baltus's stories.** *(`What To Do With Rowan.md` §2.)* A secondhand warning from someone who clearly believes it is its own kind of frightening, and it is the first time the apprentice tells the party something about his own order that his order would rather he didn't.
 - **He has not been taught the severance rite.** He does not have the thing that could free his friends. **That is his arc, not this chapter.**
 
 ⚠️ **Still needed before session 1:** name, backstory, and a reason he personally cares about going into Solteres. Ask the player for the third one — it is the one that makes him a character rather than an escort.
@@ -380,7 +386,7 @@ He cannot win and he knows it. **What he has left to sell is where the barrels w
 
 ## 11. The shape of it
 
-**Two sessions, roughly.**
+✅ **More than two sessions — SETTLED (13 Oct 2026). How many depends entirely on what the party does.** Read the two blocks below as phases, not a schedule.
 
 **Session 1 — the city, and the hunt that is already lost.**
 Arrival and Ysabel vouching them in. Gimble learning what he is here. Barney Soot, and being late. The description of the heavy older man. Ysabel's blackmail landing and the trial dying. **End on her triumph** — a good night, a real win, everyone pleased.
@@ -410,7 +416,7 @@ Ysabel gone, and a date on a piece of paper. The party cut off from every door h
 **Still live:**
 
 7. 🧍 **The apprentice's name, backstory, and personal stake in Solteres.** *(§7 — needed before session 1. The stake is the one to ask the player for.)*
-8. 🎨 **How many vessels are there, and what are the other three?** *(Arc Plan §8.6. ⚠️ **Fix this before Corbin speaks** — §10 beat 2 depends on it.)*
+8. ~~🎨 How many vessels are there, and what are the other three?~~ ✅ **Settled — six, per `The Art-Items.md`.** Corbin knows only that a set exists.
 9. 💍 **The groom's name** — suggested **Mercer Thane** — **and the officiating priest.** *(§3. The priest is a Church-corruption thread and a person the party can reach.)*
 10. ⛪ **How hard do you run the Church-side risk of showing the brand?** *(§4. Recommend one encounter, early, so the party learns the mark is not a free pass before they need it to be.)*
 11. 📕 **Do they copy the Working Ledger?** *(§3a. Player-driven. **If they think of it, let it work** — it is the smartest play available and it unlocks B without losing the lead.)*

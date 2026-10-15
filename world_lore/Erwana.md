@@ -1,9 +1,9 @@
 # Erwana
 
-**Type:** NPC — escaped slave from **Bramblefen**; opens Chapter 7 at dawn on the morning the party leaves for Bramblefen and, if the party takes the Drain, guides them inside.
+**Type:** NPC — escaped slave from **Bramblefen**; opened Chapter 7 at dawn.
 **Function:** the one who recognizes [[JonLief]]'s pendant, the courier of [[Old Cobb]]'s Cobb's ledger, and the human center of the "Stock, not Terms" injustice the whole chapter is built on — a woman who is half human and has never once been treated as one.
 
-> First appears **at dawn** on the morning the party leaves for Bramblefen — caught by one of Ysabel's servants going through the leavings of the previous night's supper (`Chapter 7 DM Notes.md`, "The rope at first light"). *Her capture was moved from the evening campfire to the morning deliberately: an evening meeting sends the party marching overnight and wrecks the chapter's sundown clock.* See `Chapter 7 Run Sheet.md` for her voice card and Branch B (the Drain).
+> 📍 **STATUS AFTER CHAPTER 7** *(see `sessions/Chapter 7 - Record.md`)* — **FREE, headed for Ald's Star.** Caught at dawn in Session 1 going through the leavings; Ysabel called her "it" and wanted her returned to Ironwake. **She traded Cobb's Ledger to the party for food, 5 silver and her freedom**, recognised JonLief's pendant, and described the scarred buyers. **She refused to go back through the wall.** Sent west and south to **Ald's Star — "tell Ald that Wolfram sent you"** — and the thirty freed followed her there in Session 3.
 
 ## The Wheel
 
@@ -33,11 +33,10 @@ That was four weeks ago. She did not run far. She tells herself it was because t
 
 ## What She Knows
 
-- **The tunnel and the ledger.** Cobb told her about the drain and gave her Cobb's ledger the night she ran (see `Chapter 7 DM Notes.md`, items 2–3). She does not know what's in it beyond that it's old — **she cannot read.** **Resolved in Session 1:** she traded it to the party for food, coin, and her freedom.
+- **The tunnel and the ledger.** Cobb told her about the drain and gave her Cobb's ledger the night she ran (Session 1). She does not know what's in it beyond that it's old — **she cannot read.** **Resolved in Session 1:** she traded it to the party for food, coin, and her freedom.
 - **The pendant.** She had a cell mate with the same pendant as JonLief's — a woman, sick, with a boy who wouldn't leave her side. Taken from the cell together; she doesn't know what became of them after. Cobb would have the records.
-- **The guard count — stale, not false.** Asked how many men are in there, she says **four or five**, without hedging, because for the whole two months she was held that is exactly what it was. She has no idea that six of Ironwake's men and a crowd of extra Fen Guard arrived with the Juggernaut after she ran. **Ysabel will independently confirm the low number** from her own buying visits, which makes it worse — two honest sources, one dead month. See `Chapter 7 DM Notes.md`, item 9a.
+- **The guard count — stale, not false.** Asked how many men are in there, she says **four or five**, without hedging, because for the whole two months she was held that is exactly what it was. She has no idea that six of Ironwake's men and a crowd of extra Fen Guard arrived with the Juggernaut after she ran. **Ysabel will independently confirm the low number** from her own buying visits, which makes it worse — two honest sources, one dead month.
 
-- **The drain route — stale, not false.** She went through it in the dark, half-starved, four weeks ago, and it was clear. She has no way of knowing Denrick found it and trapped it since. If she leads, she is telling the truth as she knows it — see `Denrick.md` and the Run Sheet's Branch B.
 - **Bramblefen from the inside.** Layout, roughly, and the fact that Cobb is the only permanent slave who isn't stock or terms — everyone else moves through, he never has.
 
 ## Personality & how to run her
@@ -76,10 +75,10 @@ That was four weeks ago. She did not run far. She tells herself it was because t
 
 - **Feeble Strike.** *Melee:* +1 to hit, 1 bludgeoning. She has never fought anyone in her life and isn't going to start now.
 
-## Hooks & aftermath
+## Hooks — after Bramblefen
 
-- **She is not a fighter and shouldn't be asked to be one.** The party will likely have to decide whether to bring a starving noncombatant into a slaver compound at all, or leave her at the camp with Ysabel's people — either choice says something about them, and Erwana will go along with whichever they choose without complaint.
-- **The Cobb connection.** She is the only living person who can vouch for who Old Cobb really is — not the clerk Vaskar tortures, but the man who gave a stranger his one act of decency. If Cobb dies before the party reaches him, Erwana is what's left of the reason to care.
-- **After Bramblefen.** Per the Aftermath section of `Chapter 7 DM Notes.md`, she's the one person among the freed who has been both a slave and free in the last month — the eighteen will listen to her before they listen to the party. That makes her a natural voice in the "where do the freed go" decision, and a recurring contact afterward if she stays near the group.
-- **The half-Tabaxi injustice.** She's exactly as human as she is not, and the law has never once counted the human half. This is a quiet, specific wrongness distinct from what Anselm or the Terms men are dealing with — worth letting land once, without turning it into a speech.
-- **A planted seed, not a debt to pay off.** Her mother's death at a mob's hands under color of heresy sits close to the Church's own machinery — the same kind of "the crowd did it, not us" deniability the Citadel used on Anselm's testimony about Wolfram. Nothing forces this to matter again, but if the campaign ever goes looking at how the Church handles the old gods and their believers, she's a door that's already open.
+- **She got to Ald's Star first.** Before the party, before the thirty. **What did Ald do with a half-Tabaxi runaway who said Wolfram sent her?** Not needed yet; needed before the finale.
+- **She is the only living person who knew Old Cobb** as anything but Vaskar's clerk.
+- **Her read on Ysabel was accurate.** If the party ever works out that her flinch was judgement, not trauma, her judgement becomes worth something to them.
+- **The half-Tabaxi injustice.** Exactly as human as she is not, and the law has never counted the human half. Let it land once, without a speech.
+- **A planted seed.** Her mother's death at a mob's hands under colour of heresy sits close to the Church's own machinery. If the campaign ever looks at how the Church handles the old gods' believers, she is a door already open.

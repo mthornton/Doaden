@@ -3,7 +3,9 @@
 **Type:** NPC villain — slave master of **Bramblefen**; Chapter 7 boss. Runs the holdfast for **Lord Leofard Ironwake.**
 **In brief:** born a slave, now the cruelest free man in the fens — as clever as he is strong. Where [[The Juggernaut]] is a force you survive, Vaskar is a mind you have to beat.
 
-> Definitive version of the "Vaskar the Brand" boss sketched in *Chapter 7: The Chained Coast*. This supersedes the one-line stat note there.
+> 📍 **STATUS AFTER CHAPTER 7** *(see `sessions/Chapter 7 - Record.md`)* — **ALIVE.** Traded Ysabel, unharmed, and the location of the Working Ledger for his freedom; **Wolfram would not let the party break their word.** Luthien took his coin; Wolfram dropped a handful back. **He took a horse from the stable outside the walls.** Said on the way out that Ironwake would probably kill him. **Chapter 8:** Ironwake commissions him instead — five heads, Ysabel alive — and he takes Rowan as bait. ⚠️ **He hid two things from Ironwake: that the party are Penitents, and that they hold his Working Ledger.** See `sessions/Chapter 8 DM Notes - Planning.md` §2, §3a, §8a.
+>
+> The party has read him correctly: **a man who will not fight if there is any other way out.**
 
 ## Born in the Pens
 
@@ -87,12 +89,12 @@ He brands every slave personally. It is his signature and his need both — the 
 
 ## Plot leverage & weaknesses
 
-- **The hidden insurance.** Vaskar keeps evidence against Ironwake — a sealed letter, the true sale-ledgers — squirreled away as leverage. It's the party's cleanest path to Ironwake, and Old Cobb (or a bribed minion) may know roughly where.
+- **The Working Ledger.** His own operating book, now in the party's pack, which he gave up to save his life. **Getting it back quietly, before Ironwake learns it is loose, is what he actually wants in Chapter 8** — more than the bounty. *(Chapter 8 §3a.)*
 - **Love is his blind spot.** Mechanically (*Blind to Love*) and narratively, he cannot predict people who act for others. Durgan and Mott's bond, JonLief's search for his family — Vaskar will misjudge all of it, and that's how a smarter party gets inside his guard.
 - **His shields are his weakness.** Everything he does depends on having people to hide behind and hurt. Take those away — free them, or turn them — and the cruel, clever master is just a frightened man who was never anything but a scared child with a brand.
 
 ## DM knobs
 
-- **Scaling for a level-3 party of 4:** as written (CR 5) he's a *hard* solo boss — pair with the Chapter 7 Easy-tier minions but consider dropping the Villain Actions, or run him at **HP ~80** with 2–3 slavers. For a tougher table, keep everything and add a bodyguard.
+- **Balance:** run as written (CR 5, 1,800 XP — Hard for five level-4 PCs alone, far past Deadly with his Chapter 8 crew). **The DM keeps this deliberately out of balance**; he is a negotiation the party can win, not a fair fight.
 - **Size:** built Medium (a big, powerful man) to contrast with Mott's literal Large frame. Bump to Large only if you want two giants in the arc.
 - **Names/details** (Bramblefen, the pens' girl, the hidden ledgers) are yours to rename or cut.

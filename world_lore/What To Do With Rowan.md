@@ -33,6 +33,8 @@
 
 ### ⚠️ And Baltus is the one who has to say it
 
+> ✅ **SETTLED (13 Oct 2026): the APPRENTICE delivers it, not Baltus.** Baltus is not in Solteres. The apprentice passes the warning on and says plainly that **he has never seen it done himself — he has heard the stories from Baltus.** Use the quote below as what Baltus told him, relayed. Everything in "What this does" still applies, with one change: the apprentice is no longer a witness to his master looking away, he is the one choosing to repeat it to Penitents, which is the first time he takes their side over his order's paperwork.
+
 This is the best available version, and it costs you nothing to set up. **Baltus Thole is a Shepherd, the policy is his to enforce, and he is also the man who was visibly, uncomplicatedly glad that Bramblefen went well.**
 
 **He warns them.** He should not want to.
@@ -157,7 +159,7 @@ He liked the boy, he was robbed of him, and he would take him back.
 
 | When | What |
 |---|---|
-| **Ch 8, after the rescue** | ⛪ **Baltus's warning.** *(§2.)* JonLief gets a deadline, not a decision. |
+| **Ch 8, after the rescue** | ⛪ **Baltus's warning, delivered by the apprentice.** *(§2.)* JonLief gets a deadline, not a decision. |
 | **Ch 8 aftermath** | **The offers arrive on their own** — Ysabel if she lives, Soot out of guilt, Virgil by letter. **JonLief refuses all of them** and keeps the boy. Let that be allowed. |
 | **Ch 9** | 🎒 **Rowan travels with them.** Run the friction honestly and without malice. ⚠️ **One near-miss**, late. |
 | **Ch 9 end / Ch 10 start** | ⭐ **JonLief chooses Ald's Star.** His words, his decision, Anselm's hands. |
@@ -169,7 +171,7 @@ He liked the boy, he was robbed of him, and he would take him back.
 
 ## Open decisions
 
-1. **Does Baltus give the warning, or does a clerk apply the policy first?** *(Recommend Baltus. The policy landing by surprise is a confiscation and §1 says don't.)*
+1. ~~Does Baltus give the warning, or does a clerk apply the policy first?~~ ✅ **The apprentice gives it, relaying Baltus's stories** *(13 Oct 2026)*.
 2. **How long do you let Rowan travel?** *(Recommend one chapter. Two if the table is enjoying it.)*
 3. **Does Anselm agree?** *(Recommend yes, instantly, and that he is visibly relieved to be asked. A man with nothing to do and a debt he cannot pay has just been handed both.)*
 4. **Does JonLief ever learn the truth about Elizabeth?** *(`Elizabeth and the Green.md` §8 — a Black Scroll, very late. **Rowan is the one carrying the wrong version of it in the meantime.**)*

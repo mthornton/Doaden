@@ -95,7 +95,7 @@ The cult took her at **Vasant Panchami, spring 1124.** Chaining a god is not a n
 
 ### ⚠️ And the fen channel is the Drain
 
-**The smuggler's channel under Bramblefen's wall — the one Erwana escaped through, the one Denrick sold to Vaskar and then trapped — is not primarily an escape route.**
+**The smuggler's channel under Bramblefen's wall — the one Erwana escaped through — is not primarily an escape route.**
 
 **It is a loading dock.**
 

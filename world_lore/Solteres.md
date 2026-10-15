@@ -20,7 +20,7 @@ Slave trade is common.  Slavery is illegae in Doaden, but you would never know t
 
 The 50-year rule is how the first door gets opened for a human: a corrupt magistrate hands down a sentence long enough to be permanent, and the man is Stock for life. **Terms is the honest version, and it is how most humans in collars got there** — a debt, a fine, a bad year, a worse decision.
 
-**Living example:** *Dov Brandt*, one of Lady Ysabel's guards, is a Terms man with three years left, sold at Bramblefen — see `sessions/Chapter 7 DM Notes.md`.
+**Living example:** *Dov Brandt*, one of Lady Ysabel's guards, is a Terms man with three years left, sold at Bramblefen — see `Ysabel's Household.md`.
 
 # Improtant People
  
@@ -29,7 +29,7 @@ Merchant specializing in textiles.  Mid-level merchant, but on the rise.  She st
 
 ### She is a slaveholder, and she does not think of herself as one
 
-Ysabel's mills and warehouses are worked by **non-human slaves**, bought outright, and she owns them the way she owns the looms. She also holds at least one human on Terms — **Dov Brandt**, one of the guards travelling with the party (see `sessions/Chapter 7 DM Notes.md`).
+Ysabel's mills and warehouses are worked by **non-human slaves**, bought outright, and she owns them the way she owns the looms. She also holds at least one human on Terms — **Dov Brandt**, one of the guards travelling with the party (see `Ysabel's Household.md`).
 
 **Her position, stated plainly and without embarrassment when the party presses her:** non-humans are beneath humans. Keeping them is not a cruelty but a kindness, and a civic good. They are fed. They are housed. They are safe, which they would not be otherwise. And they are given something to do with their lives, which — she will say this in exactly these words, and mean it — *they would never have arranged for themselves.*
 
@@ -65,6 +65,8 @@ The arithmetic is in her own history. The **weaving mill doubled her margins** �
 ⚠️ **This is also the hardest test of her you will ever get.** She does not need to be argued down about slavery in the abstract any more. She needs to be shown that **the best thing in her life was made by a person she owns, who she was about to sell, and that she never once noticed.** She cannot be talked out of her beliefs in one conversation — but this is not a conversation, it is evidence.
 
 ### Live wire
+
+> ✅ **SUPERSEDED (13 Oct 2026).** Ysabel's blackmail cancels the trial, so she never needs to sell workers. **Maelis's fate now rides on the forced marriage** — see `sessions/Chapter 8 DM Notes - Planning.md` §3. The paragraph below describes the clock as it stood before Chapter 7 ended.
 
 She is financially ruined and needs money for a defence. **Her workers are an asset.** If she has to liquidate, she will sell people — regretfully, with genuine reluctance, and she will do it.
 

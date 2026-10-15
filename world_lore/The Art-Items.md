@@ -155,6 +155,8 @@ She does **not** know about Saraswati, the Prison Realm, mana, or any of it. She
 
 ### ⏰ THE CLOCK — and nobody is driving it
 
+> ✅ **SUPERSEDED (13 Oct 2026) — the clock is now the marriage.** The party's actions changed this: Ysabel's blackmail cancels the trial, so **she never needs to sell workers** and the liquidation clock below never starts. **Maelis's fate is tied to the forced marriage** *(`Chapter 8 DM Notes - Planning.md` §3)*: if Ysabel is married off, the dress house — and Maelis with it — passes to Ironwake, who runs the trade Ashgate buys from. Stop the wedding and the shears stay put. The text below is kept for the logic of the pipeline, which still holds.
+
 `Solteres.md` already states her live wire: *"She is financially ruined and needs money for a defence. **Her workers are an asset.** If she has to liquidate, she will sell people — regretfully, with genuine reluctance, and she will do it."*
 
 > 🔑 **Ysabel may sell the one person who is actually making her money, because she has no idea which one that is.**

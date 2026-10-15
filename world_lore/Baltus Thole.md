@@ -203,8 +203,4 @@ He will not switch sides at the table. He will go very quiet, and ask to see the
 
 ## Open decisions
 
-1. **When does he first appear?** *Recommendation: the road out of Bramblefen, or on the approach to Solteres in Chapter 8.* He is much stronger arriving after the party has done something defensible than before.
-2. **Does he learn about Gimble immediately?** A Penitent in a slaver's cage changes his whole posture — and possibly his target.
-3. **The fourteen unknowns.** He can put a thumb on each one and tell you the last bearing the pull ever gave him, and what he found when he walked there, which was nothing. **Worth writing two or three** — and having one of them go dark somewhere the party has been (the Shattered Coast, Dol, the fen) costs you nothing and pays enormously.
-   > **And there is a version of this that is very hard to walk back from:** the First Penitents were five, and if that file was ever Baltus's, then five of the lambs on his coat are Ottilie Marsk, Aldous Penn, Sabin Ferrow, Grigor Tell — and a gnome. **Gimble Beren is on that cloak, stamped *unknown*, and he is standing right there.** Decide before their first meeting whether you want that, because it is the single strongest card in this NPC's hand.
-4. **Does he already know Wolfram's name?** A baron's son who killed a bishop is a famous file. If Baltus recognises him on sight, their first conversation starts somewhere much more interesting.
+**Tracked in `sessions/Decisions.md` — items 9, 63.** When one is settled, write the ruling into this file as plain text.

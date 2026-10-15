@@ -199,7 +199,7 @@ Thirty-eight years of quietly buying up the people who make beautiful things is 
 **This is the connection I would build the whole act on, and it is already sitting in your canon.**
 
 - **The green is caused by the rift** — the Prison Realm bleeding into biology. `Elizabeth and the Green.md` §6.
-- **Father Ignatius spent years at St. Pyotr's deliberately thinning the barrier — with torture.** He believed pain drove the infestation out. He was wrong about why and **right that it worked.** `Chapter 4`, `Open Questions.md`.
+- **Father Ignatius spent years at St. Pyotr's deliberately thinning the barrier — with torture.** He believed pain drove the infestation out. He was wrong about why and **right that it worked.** `Chapter 4`, `Player Open Questions.md`.
 - **Underwood began turning green about two years ago** — the same season the Ashgate purchases surged.
 - **And the women are being held and tortured, continuously, a day's ride from Underwood.**
 
@@ -244,11 +244,4 @@ Thirty-eight years of quietly buying up the people who make beautiful things is 
 
 ## Open decisions
 
-1. 📍 **The site — what was it before?** *(§5. Recommend something that already had cells. The cult buys; it does not build.)*
-2. 🧙 **Use the inland coven / `Yagas_Brew_5E.md`?** *(§5. ⚠️ If yes, override its everyone-is-already-dead ending — see §4.)*
-3. 🏛️ **The counting house's name, and one clerk who can be broken.** *(§6. Suggested: Vance & Oltmer.)*
-4. 🔗 **One site or two?** *(§8b. Recommend two with a convergence at St. Pyotr's.)*
-5. ⚠️ **Do you take §8c — the torture as the drill?** *(It unifies the green, the rift, Ignatius, Underwood, Virgil's arc and the women into one mechanism. **It is the strongest idea in this document and the hardest to walk back.** Decide before the party reads the ledger.)*
-6. 🪒 **How many of the sixty survive the rescue?** *(Recommend: most of the recent, few of the older, and let the party's speed decide the rest. **Not a quota.**)*
-7. ~~Is Sera Oleander carrying an art-item?~~ ✅ **YES — a chisel, and the cult already has it.** *(`The Art-Items.md` §6.)* ⚠⚠ **And the implication is bigger than one chisel: an art-item is what makes an artist good enough to get NOTICED, so thirty-eight years of buying artists on sight has made the Tormentors the largest collector of Saraswati's vessels in the world — and nobody in that holding knows what is in the bags.** The Herald's holding is a reliquary. Two recoverable (this chisel and Hanne Vetter's potter's rib) plus evidence of more having passed through.
-8. ~~Who is the Herald?~~ ✅ **Two of them.** **The Patient — Hanne Vetter** *(`The Patient.md`)*, and ⚠️ **the pale man in the headdress who escaped the party at St. Pyotr's**, who found her and made her and now answers to her. **Both of this party's Chapter 4 failures, in one building.** *(Still to decide: his name.)*
+**Tracked in `sessions/Decisions.md` — items 32, 41–46.** When one is settled, write the ruling into this file as plain text.

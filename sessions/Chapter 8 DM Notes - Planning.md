@@ -406,19 +406,4 @@ Ysabel gone, and a date on a piece of paper. The party cut off from every door h
 
 ## Open decisions
 
-1. ~~Does Ironwake have a new champion?~~ ✅ **No.** He does not need one and is wholly occupied with the Rochefort estate. **No monster in this chapter** *(§6)*.
-2. ~~Did Soot sell the boy or lose him?~~ ✅ **Forced to sell, for less than he paid, by men he could not refuse — and he liked the boy** *(§5)*.
-3. ~~Does Rowan say the thing about his mother?~~ ✅ **Yes, at the first chance he gets.** Let him try early and be interrupted; let him finish it when JonLief thinks it is over *(§5)*.
-4. ~~Corbin now or Chapter 9?~~ ✅ **Now** *(§10)*.
-5. ~~Does the party learn Vaskar hid their brands from Ironwake?~~ ✅ **No. Never.** It stays DM-side irony — they will spend his secret for him without ever knowing they had it *(§4)*.
-6. ~~Durgan and Mott?~~ ✅ **Heading north.** Thread is cold for now. Ironwake has written off a champion worth a fortune and is not looking for him.
-
-**Still live:**
-
-7. 🧍 **The apprentice's name, backstory, and personal stake in Solteres.** *(§7 — needed before session 1. The stake is the one to ask the player for.)*
-8. ~~🎨 How many vessels are there, and what are the other three?~~ ✅ **Settled — six, per `The Art-Items.md`.** Corbin knows only that a set exists.
-9. 💍 **The groom's name** — suggested **Mercer Thane** — **and the officiating priest.** *(§3. The priest is a Church-corruption thread and a person the party can reach.)*
-10. ⛪ **How hard do you run the Church-side risk of showing the brand?** *(§4. Recommend one encounter, early, so the party learns the mark is not a free pass before they need it to be.)*
-11. 📕 **Do they copy the Working Ledger?** *(§3a. Player-driven. **If they think of it, let it work** — it is the smartest play available and it unlocks B without losing the lead.)*
-12. ☠️ **Which of §8a do you steer toward?** *(Recommend A offered, C as the fallback. D if you want a man inside Ironwake's house for Chapter 10.)*
-13. 📅 **When is the wedding?** *(§3. It is your clock. Recommend the party learns the date at the same moment they learn Ysabel is gone — one piece of paper, two pieces of bad news.)*
+**Tracked in `sessions/Decisions.md` — items 1–8.** When one is settled, write the ruling into this file as plain text.

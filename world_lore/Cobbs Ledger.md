@@ -210,9 +210,4 @@ This is the spine, and the ledger is where it becomes legible.
 
 ## 11. Open decisions
 
-1. **Is the last entry in the book a cult sale?** *Recommended yes* (§2). Makes Cobb's stopping a decision.
-2. **Is Bishop Aurelian Crest real?** Including a Church name makes the betrayal total and gives the Solteres diocese a concrete reason to look away — but it removes the party's last clean institution. *Recommend holding him in reserve and deciding after you see how the table reacts to §6.*
-3. **Why predominantly women?** You do not need an answer to run it, and the not-knowing is good. Options if you want one: the ritual requires it; Adephagia's spite toward Saraswati; or simple economics — women were cheaper and less likely to be missed.
-4. **Does the party ever learn the seizure consequence *before* they hand the book over?** *Strongly recommend yes.* A choice made in ignorance is not a choice. Vozruk, a Solteres churchman, or Ysabel's lawyer can all say it out loud without meaning to be cruel.
-5. **What is "Ashgate"?** Currently: a filing name Cobb invented. Alternative — the buyers gave it themselves, which means somebody chose it, which means it *means* something. Slightly better hook, slightly more work.
-6. **Does Cobb ever learn what his book actually does?** *Recommend no.*
+**Tracked in `sessions/Decisions.md` — items 53, 54, 57.** When one is settled, write the ruling into this file as plain text.

@@ -206,8 +206,4 @@ He is old, slow, and armed with a ceremonial object. He will stand exactly where
 
 ## Open decisions
 
-1. **Why did he open the party's file two weeks ago?** *Recommendation: the first Dol team.* Five Penitents went to Dol Island and never came back; he never assigned that file either. When a second unit went to the same island and also stopped reporting, it stopped being an ordinary loss and became **a pattern on an island**, and patterns are the one thing that gets a coat sent. **Note what this means: he is not hunting the party. He is investigating Dol, and they are the thread.** *(Alternative: someone paid. Cleaner, meaner, less interesting.)*
-2. **Does he already know about Gimble?** *Recommendation: no.* Gimble is the only survivor of a file Sault never opened, and the Provost learning that a man he wrote off is alive and collared in a Solteres fen is a **Chapter 8** event, not a background fact.
-3. **Where is the rest of the Office?** He implies a building at Hallowmere with clerks in it. Decide whether that place can be visited, because the party will want to.
-4. **Is the Rite reversible a second time?** *Recommendation: leave it unanswered and let him refuse to say.* His refusing to answer is more frightening than either answer.
-5. **Does he outrank Vozruk?** They are different arms of the same Church. *Recommendation: neither outranks the other, they loathe each other's paperwork, and each considers the other the reason the system doesn't work.*
+**Tracked in `sessions/Decisions.md` — items 10, 58, 59.** When one is settled, write the ruling into this file as plain text.

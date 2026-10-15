@@ -412,14 +412,9 @@ That's roughly a year and a half at a monthly cadence. **If that's too long**, c
 
 ---
 
-## 10. Decisions to make before Chapter 7 hits the table
+## 10. Open decisions
 
-1. ~~Is Dave in?~~ **Yes — Gimble Beren.** The live question is now downstream: with no match, Ysabel walks free by accident and Anselm's revolt needs a new trigger. Decide how Chapter 8 opens given that Ysabel arrives in Solteres un-detained and owing the party a debt she cannot account for.
-2. **Is Vozruk hunting them already, or has he written them off?** You flag this in the notes yourself. It determines Chapter 8's tone entirely, and Chapter 7's ending should foreshadow whichever you pick.
-3. ~~How many vessels are there, and what are the other three?~~ ✅ **FINALISED Oct 2026 — `world_lore/The Art-Items.md` is now the source of truth and supersedes the §8.6 roster table below.** Six findable, one per craft; she made more and the rest are lost. ⚠️ **Corbin knows only that a set exists.**
-4. **Does Kesh Vanner remember the black-robed buyers asking after artists?** One sentence, six chapters of payoff — and it now rhymes with the guitar waking the same night.
-5. ~~Do the eighteen go to Ald's Star?~~ ✅ **Yes — played, Session 3: thirty freed, sent to Ald's Star on Wolfram's name** (Erwana went ahead in Session 1).
-6. **Are you comfortable running Chapter 15's torture mechanic and Ald-as-red-herring at your table?** That's a session-zero conversation with your players, and Path of Penitence itself carries the content warning. Better to have it now than mid-scene.
+**Tracked in `sessions/Decisions.md` — items 55, 67, 71, 72.** When one is settled, write the ruling into this file as plain text.
 
 ---
 

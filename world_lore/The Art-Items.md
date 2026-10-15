@@ -265,13 +265,7 @@ Which puts the brush in the finale as an object rather than a symbol:
 
 ## Open decisions
 
-1. 🧶 **The Sun-Petal tapestries are PARKED** — in-world legend with no vessel attached, per the DM, Oct 2026. Six panels nobody could weave by hand in one lifetime is still sitting there if a later chapter wants it. **Do not attach it to anything yet.** *(If it is ever used, the natural shape is proof of a vessel that is LOST — which would make “she made more and some are gone” something the party feels rather than something they are told.)*
-2. 🎭 **When does Corbin give Orla the mask — before or during the party's acquaintance with him?** *Recommendation: during. Let them watch her get good.*
-3. ~~Are all six bone/ivory?~~ ✅ **YES — ALL SIX, AND THE BONE IS HER OWN. See §1a.** She had six arms, the party has two independent eyewitness accounts of four, and that is the reveal they can reach without help. **Say nothing.**
-4. 🏺 **How many vessels passed through Ashgate's hands over thirty-eight years?** *Recommendation: never state a number. Let the party find empty labelled bags and do their own arithmetic. Six women's possessions, four bags accounted for.*
-5. 🪨 **Does Bosk Dunmar recognise the chisel?** *Recommendation: yes, if alive and freed. Reward for Chapter 7.*
-6. ⚠️ **Can an item be destroyed?** *Recommendation: yes, and it is permanent, and it is the one irreversible loss in the campaign — and per §1a it is **breaking the bone of a living god who is awake and can feel it.** Decide whether she knows when it happens; recommend she does, and that it is the worst thing that can be done to her short of the Hecatomb. Adephagia's people would do it instantly if they understood what they were holding — which per §6 they do not. **The party's ignorance and the enemy's ignorance are the same ignorance, and it is the only thing keeping the win condition alive.***
-7. 🎸 **Does Sara ever thank Luthien directly?** *Recommendation: once, without words, at the edge of firelight — already written into Arc Plan §8.6 Beat 1. Never again until the pit.*
+**Tracked in `sessions/Decisions.md` — items 20, 28–31.** When one is settled, write the ruling into this file as plain text.
 
 ---
 

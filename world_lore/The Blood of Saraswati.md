@@ -138,7 +138,4 @@ The cult did not only bleed the goddess. When Vozruk's first team walked into th
 
 ## Open decisions
 
-1. **How much is still out there?** *Recommendation: enough that it cannot be destroyed by hand.* A number the party can count is a number they can solve; a warehouse is a problem.
-2. **Does destroying a barrel hurt Saraswati?** She is alive and chained. **If the blood is still hers, burning it may be doing something to her** — and they have already broken one ritual in progress at St. Pyotr's without ever learning what breaking it cost the thing on the other end. *(Very good, very cruel, entirely optional.)*
-3. **What buyer name is on the head of the barrel?** Make it the same one as in Cobb's ledger. *Ashgate* is right there and already means "a buyer who would not give a name."
-4. **Does Ironwake ever say the dockhand's name?** *Recommendation: only once, and only if the party earns it.*
+**Tracked in `sessions/Decisions.md` — items 38, 40.** When one is settled, write the ruling into this file as plain text.

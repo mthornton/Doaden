@@ -329,11 +329,4 @@ The party looked through a chipped hole in a stone tomb on Dol Island and saw a 
 
 ## Open decisions
 
-1. 👤 **The client who recruited him — name and identity?** ⚠️ **Now doubles as his HANDLER** (§9e: the handler tasked him with working the party), so this is the Tormentor voice the party will eventually meet. *Still open. Recommend somebody still alive and still in Solteres, so the party can reach him — and a legitimate, respectable, dull man, because that is the Tormentors' whole disguise.*
-2. 📡 **Saraswati does NOT know about the cult bargain. Does she ever find out, and can the party tell her?** ⚠️ **She is funding her own destruction through an instrument she has never audited.** *Luthien holds one of her bones — if there is any channel at all, it runs through him. Recommend: the party can tell her, once, late, and it costs something.*
-3. 💐 **Does Orla ever learn about Fenna?** *Recommend: only from the party, and only if they choose to do it.*
-4. 🏺 **Did Corbin's researchers find Hanne Vetter or Sera Oleander?** ⚠️ *Open, and heavy. If yes, he is the reason The Patient exists — he put Chapter 4's abandoned woman in that building. Enormously powerful and it risks making him the explanation for everything. Recommend: **Sera Oleander yes, Hanne Vetter no** — one is damning enough, and Hanne predates his usefulness.*
-5. ⏱️ **How often does he visit a thin place?** *Recommend monthly, and that the party meets him in a bad week.*
-6. 🎨 **Does he ever finish the painting of her from their descriptions, and where does it end up?** *(§9b. Recommend: yes, and ⚠️ **it is the best thing he has ever made, so he does not destroy it** — the one exception to his rule, which means it is hanging somewhere, generating mana, and the party can find it later.)*
-7. ⚔️ **Does Wolfram report him?** *(§9f. Genuinely open — Oath of Devotion's Duty tenet versus Luthien's new friend. **Do not resolve it for the table.**)*
-8. 🗣️ **When does the recruitment pitch land?** *(§9e + `The Three Faiths.md` §4: once, late, from somebody competent. **Corbin is the delivery mechanism** — decide whether it comes from him or from the handler he introduces them to.)*
+**Tracked in `sessions/Decisions.md` — items 19, 21–27.** When one is settled, write the ruling into this file as plain text.

@@ -165,11 +165,6 @@ Four of the first team were bled into the cult's barrels over four days on Dol I
 
 ---
 
-## Decisions for you
+## Open decisions
 
-1. **Is the herald from St. Pyotr's the man who ran the harvest on Dol?** *Recommended: yes.* It costs nothing, it makes the escape at the end of Chapter 4 retroactively awful, and it hands the party a personal reason to hunt a man they currently think of as "the one who got away." If you'd rather keep him unlinked, cut the headdress from the beach scene and Gimble just describes "a tall one who gave the orders."
-2. **Did the crew that dropped them betray them, or just run?** Betrayal ties to the arrested sailor-heretics in Chapter 1 and makes the cult look organised. Cowardice is bleaker and cheaper.
-3. **The storm that wrecked the *Hreowan*.** It came up fast and wrong on a clear night. If the cult's reach extends to weather, or to a bought crew, this party's shipwreck stops being bad luck. I have deliberately not asserted either way.
-4. **Team size and names.** Five felt right — it mirrors the current party and gives Gimble four losses rather than an anonymous crowd. All names are placeholders.
-5. **Optional darker hook, currently NOT in the text above:** Gimble never saw Sabin's body. He assumes. If you want a thread out of Dol that isn't closed, that's where it is — but it does contradict "sole survivor," so it needs a deliberate ruling from you.
-6. **How much does Gimble volunteer?** Written above as though he'll tell it all. He may well not. **This is Dave's character now** — the events are yours, the telling is his. Hand him this document, not a summary.
+**Tracked in `sessions/Decisions.md` — items 46, 68.** When one is settled, write the ruling into this file as plain text.

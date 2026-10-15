@@ -234,8 +234,4 @@ If it goes to violence, Ivo goes forward and does not come back, and Wendel work
 
 ## Open decisions
 
-1. **What broke Ivo?** *Deliberately unspecified.* Keep it that way until a thread needs somewhere to land — and when one does, put it in one of the nineteen.
-2. **Who takes the lambs off?** *Recommendation: never answer.* If pressed for a table ruling: it is Ivo, at night, and he does not remember, and it is not important that it be more than that.
-3. **Have they been sent at Dol before?** *Recommendation: no — and the party should be the reason they finally are.* That makes the party the cause of the Office finally looking at the island.
-4. **Does Wendel know about Hedda?** *Recommendation: no.* He is the one Shepherd who would understand her instantly, and keeping them apart until it is useful is worth more than the scene.
-5. **Do they survive the campaign?** *One of them, probably.* Decide which before you put them in a room with the party, because it changes how Wendel talks.
+**Tracked in `sessions/Decisions.md` — items 62.** When one is settled, write the ruling into this file as plain text.

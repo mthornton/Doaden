@@ -16,7 +16,7 @@
 - **When a boy gets too big for a chimney, Barney puts him out on the street.** He gets his freedom and nothing else.
 - From the Chapter 8 plan: **he liked Rowan**, he was forced to sell him back for less than he paid, and he is **bitter, frightened and alone in the shop** when the party arrives.
 
-Everything below §0 is a **proposal** and yours to cut.
+**Everything below is settled (DM, 15 Oct 2026).**
 
 ---
 
@@ -60,7 +60,7 @@ He came into the trade the way every one of his boys did: **bought small, put up
 | | |
 |---|---|
 | **The boys** | **Three at a time, sometimes four.** Small, thin and young: six to ten is the useful range. |
-| **Where they come from** | **Non-human boys from Bramblefen**, because they are **Stock**, which makes them cheap, and nobody comes looking. ⚠️ *Optional, see §8:* **human boys from a Church orphanage**, "apprenticed" out for a fee. |
+| **Where they come from** | **Non-human boys from Bramblefen**, because they are **Stock**, which makes them cheap, and nobody comes looking. **Human boys come apprenticed from the Church**, which places the children in its care *(§8)*. |
 | **Feeding** | **Enough, and no more.** He is precise about this and proud of it: a starved boy cannot climb, and a fed one gets stuck. He weighs them by eye every week. |
 | **Discipline** | Stern, not sadistic. Rules, a strap, no second chances in a flue. **He has never had to use a fire to make a boy climb**, and he will tell you so as though it were a credential, because other masters do. |
 | **When a boy dies** | He pays for a pauper's burial, out of his own pocket, every time. **He is the only person who goes.** |
@@ -159,15 +159,13 @@ He does not keep their names. **He keeps the count**, and he could not tell you 
 
 ---
 
-## 8. ⚠️ Optional — where the human boys come from
+## 8. Where the human boys come from — the Church
 
-**Only take this if you want the Church to look worse in Chapter 8.**
+**The Church puts the children in its care into apprenticeships.** That is ordinary, and nobody in Doaden thinks it sinister: an indenture, a fee to the house, a blessing on the paperwork. *(See `Doaden - World Rules.md`.)* A sweep is a licensed trade, so a sweep can take a Church apprentice like anyone else. **Barney has taken three or four that way over the years.** Same flue, same beam.
 
-**Human boys come from a Church orphanage.** The Church does not sell children. **It apprentices them**: an indenture, a fee to the house, a blessing on the paperwork. Barney has taken three or four that way over the years. Same flue, same beam.
+**The indenture runs until the boy is fifteen**, when he is no longer a child and is on his own — exactly as Barney was. In practice a climbing boy is too big for a flue well before that, and Barney puts him out early, Church boy or Bramblefen boy alike.
 
-> 🔑 **This gives the Rowan warning its teeth.** The apprentice relays Baltus's stories: *a child with no guardian but a Penitent is an orphan, and orphans are raised by the Church.* **If the party has already been in Barney's cellar, they know one of the places the Church sends its orphans.**
-
-**The cost:** it makes the Church directly complicit in something the party has seen with their own eyes, and it raises the temperature of the Church problem before Chapter 11. **Skip it if you want the Church held back for later.**
+> 🔑 **This gives the Rowan warning its teeth.** The apprentice relays Baltus's stories: *a child with no guardian but a Penitent is an orphan, and orphans are raised by the Church.* **"Raised by the Church" means apprenticed.** If the party has been in Barney's cellar, they have seen one of the places that leads.
 
 ---
 

@@ -1,6 +1,6 @@
 # The Penitents' Chronicle
 
-*The story of JonLief, Virgil, Luthien, and Wolfram — and, from Chapter Seven, Gimble — told as a story rather than a recap. Every event, name, and outcome here matches what happened at the table. What's new is texture: scenes, dialogue, weather, the things four people might have said to each other between the lines of a session recap. Where a line of dialogue or an unnamed face in a crowd has been invented, that's flavor, not canon — if anything here ever contradicts `Timeline.md`, `Open Questions.md`, or what actually happens at the table, the table wins. Read this for the story. Use the Timeline for the dates and the facts.*
+*The story of JonLief, Virgil, Luthien, and Wolfram — and, from Chapter Seven, Gimble — told as a story rather than a recap. Every event, name, and outcome here matches what happened at the table. What's new is texture: scenes, dialogue, weather, the things four people might have said to each other between the lines of a session recap. Where a line of dialogue or an unnamed face in a crowd has been invented, that's flavor, not canon — if anything here ever contradicts `Timeline.md`, `Player Open Questions.md`, or what actually happens at the table, the table wins. Read this for the story. Use the Timeline for the dates and the facts.*
 
 ---
 

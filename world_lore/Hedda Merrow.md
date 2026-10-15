@@ -194,8 +194,4 @@ If the party corners her and she cannot leave, she talks. She is extremely good 
 
 ## Open decisions
 
-0. **Does she know Sault has done the arithmetic?** *(See `Emeric Sault.md`.)* **Recommendation: no.** She thinks her secret's only real risk is one of her eleven surfacing. It is not. The Provost is holding it, filed and unassigned, waiting for a day he needs her to do something she would refuse.
-1. **Does Baltus ever find out?** *Recommendation: not before the party has met them both and formed an opinion.* His discovering it should be a consequence of something the players did.
-2. **Is one of her eleven someone the party can meet?** A living, scarred, nameless person who was declared dead years ago is the cleanest possible proof to the party that her offer is real — **and the easiest way to accidentally destroy her.**
-3. **Does she offer the knife to the whole party or to individuals?** *Recommendation: individuals, privately, and not to all of them.* The split is the scene.
-4. **What was she before?** A thief with a suspended sentence, per the Baltus paragraph. Worth a sentence more if a player asks — including whether she was ever branded herself. *(If she was, and she took her own mark off, this character goes somewhere else entirely. Flagging it, not recommending it.)*
+**Tracked in `sessions/Decisions.md` — items 61.** When one is settled, write the ruling into this file as plain text.

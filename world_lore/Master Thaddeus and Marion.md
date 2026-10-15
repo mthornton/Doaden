@@ -40,6 +40,6 @@ They did not extend anyone's life, which had been the entire point.
 
 ## Running them
 
-- Thaddeus is the most educated person the party has met, and they have mostly asked him about his skin. He knows a great deal about the Old Gods and has never been asked. (`sessions/Open Questions.md` lists this as one of four questions the party could answer right now if they bothered.)
+- Thaddeus is the most educated person the party has met, and they have mostly asked him about his skin. He knows a great deal about the Old Gods and has never been asked. (`sessions/Player Open Questions.md` lists this as one of four questions the party could answer right now if they bothered.)
 - He has lied to the party once already, about himself, out of shame — which is exactly the kind of thing that makes a person wonder what else. The party has noticed.
 - Marion is not scenery. She can speak into anyone's head, which means she can talk to a PC privately, in a crowded room, without her husband hearing it if she chooses. This has not been used yet.

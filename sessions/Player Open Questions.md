@@ -1,4 +1,4 @@
-# Open Questions
+# Player Open Questions
 *For the party. Everything below is something you know that you don't know.*
 
 **Where we stand:** five Penitents of the Church of Azerai, branded, owing five hundred years each — and one Shepherd's apprentice who isn't. Sent to Dol Island to find a missing team and eliminate whoever was operating there. We found the team, or what was left of it: Gimble. We still have not eliminated anybody. Virgil has gone to Underwood. A Shepherd found us at last and told us we were allowed. We are two days from Solteres with Lady Ysabel, and a book in our pack with a name in it that none of us has read.

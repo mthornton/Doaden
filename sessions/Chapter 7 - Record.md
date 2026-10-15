@@ -131,9 +131,6 @@
 - **The Green** — named at the table for the first time; Virgil is on it.
 - **Gimble** is the answer to Vozruk's Chapter 1 orders — the first team's fate — and nobody has reported it.
 
-## Still open from Chapter 7
+## Open decisions
 
-1. **What does Ald do with Erwana, and then thirty more?** Not needed now; needed before the finale.
-2. **Is Gimble one of Baltus's thirty-one lambs?** If the first team's file was ever his, he has a silver lamb on his coat for a gnome who is alive.
-3. **The last guard alive** — where did he go, and does Vaskar know he talked?
-4. **Old Cobb's body** — nobody at the table said they buried him. Leave it, or let somebody remember.
+**Tracked in `sessions/Decisions.md` — items 9, 64–66.** When one is settled, write the ruling into this file as plain text.

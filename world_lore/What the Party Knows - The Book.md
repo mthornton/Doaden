@@ -111,7 +111,4 @@ Valerius Thorne opens the book by telling the reader to stop reading:
 
 ## Open decisions
 
-1. **Does Vasant Panchami happen on screen?** Five months out. *(Recommendation: yes, and make the party choose whether to help a village celebrate it — knowing what it feeds and who is holding the tap.)*
-2. **Did anything notice them reading?** *(Recommendation: no, for now. But it is the cheapest, most deniable hook in the campaign and it costs one bad dream.)*
-3. **What does JonLief think of it?** He read a Church book that says the Church lied. **He is the one who read it, so he is the one it changed** — and the player should get first refusal on what that means.
-4. **Where is the book physically right now?** It has been in JonLief's pack since St. Pyotr's. **It is going into Bramblefen with them.** Losable, burnable, and very bad to be caught holding.
+**Tracked in `sessions/Decisions.md` — items 70.** When one is settled, write the ruling into this file as plain text.

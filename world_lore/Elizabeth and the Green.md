@@ -137,7 +137,7 @@ Everything else follows from that one sentence.
 
 **The corruption in the plants and the disease are the same thing, and both come from the growing rift.**
 
-This is the answer to two questions the party has already written down *(`Open Questions.md`)*: *what is doing this*, and *designed by whom.*
+This is the answer to two questions the party has already written down *(`Player Open Questions.md`)*: *what is doing this*, and *designed by whom.*
 
 **The answer is: nobody designed it, and it is designed anyway.** It is what happens when the Prison Realm bleeds into biology. Reality is leaking, and what leaks through carries its author's grammar.
 
@@ -153,7 +153,7 @@ This is the answer to two questions the party has already written down *(`Open Q
 
 **And the rift is why Brudda Death could reach a woman in a nightmare at all.** He cannot exist here naturally. He is not supposed to be able to touch anything. **He touched her.** That should frighten the party more than the disease does.
 
-> **Father Ignatius spent years at St. Pyotr's deliberately thinning the barrier**, and wrote that he could feel it going. **He was not raving.** *(Whether he caused the rift, widened it, or simply felt it, is `Open Questions.md` — and it is worth deciding, because Underwood started turning green about two years ago.)*
+> **Father Ignatius spent years at St. Pyotr's deliberately thinning the barrier**, and wrote that he could feel it going. **He was not raving.** *(Whether he caused the rift, widened it, or simply felt it, is `Player Open Questions.md` — and it is worth deciding, because Underwood started turning green about two years ago.)*
 
 ---
 
@@ -246,10 +246,4 @@ Not his life. **Repeated access to a traumatised child** — blood, tissue, time
 
 ## Open decisions
 
-1. ~~How far does the vector go?~~ ✅ **Settled — see §4.** Rift-gated and dormant. No pandemic clock is running.
-2. **What were the cultists' other plans for Rowan?** *(Recommended: they had marked him as a Catalyst — a child is a long slow supply of suffering. Which makes the bargain a direct theft from their own ritual, and gives the cult a grudge with a name on it.)*
-3. **Does Elizabeth's strain outlive her?** Tied to §4 and to whether the burning worked.
-4. **Did Ignatius open the rift, widen it, or only feel it?** Underwood's two years is the clock to check it against.
-5. **Does JonLief ever learn the truth?** *(Recommended: yes, very late, via a scroll, and only after he has spent a long time believing the other thing.)*
-6. **Was she the only one offered this?** *(Recommended: no. But she is the only one the party will ever meet who said yes for someone else.)*
-7. **Does Virgil get the cure?** §10. *(Recommended: the vaccine, yes, late, and at a cost paid to a child.)*
+**Tracked in `sessions/Decisions.md` — items 13–17, 69.** When one is settled, write the ruling into this file as plain text.

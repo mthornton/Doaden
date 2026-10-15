@@ -224,11 +224,4 @@ Ironwake's wagon arrived with the Juggernaut a few weeks before the party did. T
 
 ## Open decisions
 
-1. 🗓️ **Accept the 666-day repair?** *(§3 — the count starts at the completed binding, not the capture. One sentence, fixes the calendar.)*
-2. 🔢 **Accept forty-eight casks?** *(§4. Change the number if you like, but **pick one and track it**, because §9 depends on it.)*
-3. 🏚️ **Where are the forty-eight stored?** *(§11b. Somewhere dry and defensible on the east road. **Needs a place before Chapter 10.**)*
-4. ⚙️ **Mechanical conversion for the finale** — casks destroyed → how much weaker is the Jailer? *(§9. Write it before the party destroys the first one, so you can tell them it counted.)*
-5. 🧪 **What does Virgil find?** *(§10. Recommend: the blood and the green are the same substance at different stages.)*
-6. 🩸 **Does the blood soaked into the floor of the Deeps matter?** *(§7. It does not have to.)*
-7. ⚠️ **Does the party ever learn they stopped the harvest?** *(§2. Recommend yes — from the records, by arithmetic, with no NPC telling them. It is the largest unacknowledged thing they have ever done.)*
-8. 📝 **`The Blood of Saraswati.md` needs a correction pass** — it states in the present tense that she remains chained and being harvested beneath Dol. **She does not.** *(See §2. Flagged in the Chapter 7 review.)*
+**Tracked in `sessions/Decisions.md` — items 18, 33–37, 39.** When one is settled, write the ruling into this file as plain text.

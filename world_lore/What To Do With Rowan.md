@@ -25,7 +25,7 @@
 
 ## 2. ⛪ The Church — use it as the clock, not the answer
 
-**The policy is real and you should absolutely establish it.** A child whose sole guardian becomes a Penitent is, in the eyes of the Church, an orphan. Orphans are raised by the Church. That is not cruelty, it is **administration** — and it is run in exactly the same register as everything else this institution does. *You are not losing a son. He is being saved.*
+**The policy is real and you should absolutely establish it.** A child whose sole guardian becomes a Penitent is, in the eyes of the Church, an orphan. Orphans are raised by the Church — **which in practice means placed in an apprenticeship** until fifteen, when a child in Doaden is considered grown and on his own *(`Doaden - World Rules.md`)*. Rowan is eight: seven years of indenture, to whatever trade has a place. One of those trades is Barney Soot's *(`Barney Soot.md` §8)*. That is not cruelty, it is **administration** — and it is run in exactly the same register as everything else this institution does. *You are not losing a son. He is being saved.*
 
 **But do not let it resolve the question.** If the Church takes Rowan, JonLief's whole chapter arc is handed to a clerk.
 
@@ -171,8 +171,4 @@ He liked the boy, he was robbed of him, and he would take him back.
 
 ## Open decisions
 
-1. ~~Does Baltus give the warning, or does a clerk apply the policy first?~~ ✅ **The apprentice gives it, relaying Baltus's stories** *(13 Oct 2026)*.
-2. **How long do you let Rowan travel?** *(Recommend one chapter. Two if the table is enjoying it.)*
-3. **Does Anselm agree?** *(Recommend yes, instantly, and that he is visibly relieved to be asked. A man with nothing to do and a debt he cannot pay has just been handed both.)*
-4. **Does JonLief ever learn the truth about Elizabeth?** *(`Elizabeth and the Green.md` §8 — a Black Scroll, very late. **Rowan is the one carrying the wrong version of it in the meantime.**)*
-5. **Does anyone work out that Rowan is immune?** *(Only Virgil can, and only with access. It is the whole of §10 in `Elizabeth and the Green.md`.)*
+**Tracked in `sessions/Decisions.md` — items 11–13, 17.** When one is settled, write the ruling into this file as plain text.

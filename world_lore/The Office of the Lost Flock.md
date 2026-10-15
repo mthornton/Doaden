@@ -186,6 +186,4 @@ Most of the work is not hunting. It is walking toward a bearing and finding out 
 
 ## Open decisions
 
-1. **Who reported this party overdue?** *Recommended: not Vozruk.* A clerk, a ship's manifest, or the governor of the Southern Diocese noticing that a chartered boat never came back. **Vozruk finding out his own unit was filed as strays by somebody else is a scene worth having in Chapter 8** — and it tells the party something about him either way.
-2. **How long is a file open before it closes?** Affects how much rope a running Penitent has.
-3. **Do Penitents know the brand can be tracked?** *Recommended: no, and it should land as a genuine shock.* Nobody tells the lambs.
+**Tracked in `sessions/Decisions.md` — items 55, 60.** When one is settled, write the ruling into this file as plain text.

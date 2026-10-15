@@ -236,9 +236,4 @@ A summoning in a sealed catacomb under a ruined asylum in a black fog **proves n
 
 ## Open decisions
 
-1. 🔥 **Does Adephagia know the Tormentors want permanent convergence?** *(Recommend: no, not until late. She assumes contractors do what they are paid for. Her realising it is the trigger for her offer.)*
-2. 👤 **Which Harbinger owns the cells in this campaign?** *(Six available. **The Sentence** — former devout priest turned demagogue — fits a movement built on exposing the Church, and the St. Pyotr's demagogue who smelled Saraswati on Luthien could be his. Recommend one Harbinger, not six.)*
-3. 🗣️ **Does a Tormentor ever make the recruitment pitch to the party directly?** *(§4. Recommend yes, once, late, from somebody competent — because it is the strongest argument anyone will ever make to five branded Penitents, and refusing it should cost them something.)*
-4. 🏛️ **Does Vozruk understand the trap in §5?** *(Recommend: yes, and that it is the reason he is the way he is.)*
-5. 🌸 **Vasant Panchami is roughly five months out.** *(`What the Party Knows - The Book.md`. Still unscheduled. **It is Saraswati's only annual mana bump and the party now knows the date exists.**)*
-6. ~~How many art-items, and what are the others?~~ ✅ **FINALISED Oct 2026 — see `The Art-Items.md`.** **Six findable, one per craft:** guitar (Luthien), brush (Corbin), mask (Orla), shuttle (via Ysabel/the Sun-Petal tapestries), chisel (Sera Oleander → the Herald's holding), potter's rib (Hanne Vetter). **She made more and the rest are lost for good**, so there is no completionist failure state. ⚠️ **Corbin knows a set exists but not what or where** — he and the party hunt with the same information.
+**Tracked in `sessions/Decisions.md` — items 25, 51, 52, 56.** When one is settled, write the ruling into this file as plain text.

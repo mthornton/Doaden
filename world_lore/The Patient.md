@@ -348,10 +348,4 @@ That is the horror and you should let it land slowly. She was babbling. She scre
 
 ## Open decisions
 
-1. ~~What was her name before?~~ ✅ **Hanne Vetter. Potter.** In the Working Ledger, sold singly to Ashgate, carted to St. Pyotr's three months ago. *(§3a.)* **No roll to connect it — they have both halves.**
-2. 👤 **The man from the locked cell — does he get a name?** *(§3. He is her second and her namer. Recommend yes, and that he resents the party specifically, since he is the only one in that holding who remembers their faces.)*
-3. ⚖️ **Is she redeemable, and does she want to be?** *(§7. Recommend: redeemable, and **she does not want it**, and the party has to decide anyway.)*
-4. 💀 **Does she ever learn the party are the four?** *(Recommend: only when one of them is kind to her, and then instantly and completely.)*
-5. 📨 **Who carries Adephagia's offer instead?** *(§8.)*
-6. ~~Does she know what Sera Oleander's chisel is?~~ ✅ **No — she has it because it was in a bag. Nobody in that holding knows what they are holding**, which is the party's one piece of luck. *(`The Art-Items.md` §6.)*
-7. 🏺 ⚠️ **AND SHE IS HOLDING ONE HERSELF — FINALISED Oct 2026.** Her potter's rib is one of Saraswati's six surviving art-items *(`The Art-Items.md` §7)*. **She had it before any of this** — it is how a provincial potter got good enough that Ashgate's buyers crossed a province for her, exactly as they did for Sera Oleander. 🔑 **The loop: Saraswati's own tool made her remarkable → remarkable got her bought → bought got her tortured → tortured got her Brudda Death's bargain → and now the Herald of the Tormentors sits at a wheel on her days off and feeds the goddess her order has chained open under Dol.** She is the most productive worshipper Saraswati has and she is working for the other side. **So “if a player admires one of her pots, that is worship” is no longer irony — it is a mana transaction happening mid-conversation with a villain.** ⚠️ **If they take it, the work stops being extraordinary, she notices within a week, and she has no framework for grief about it** — she gave up receiving pain, not losing things. **That is a second crack, adjacent to kindness.**
+**Tracked in `sessions/Decisions.md` — items 47–50.** When one is settled, write the ruling into this file as plain text.

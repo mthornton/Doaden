@@ -63,7 +63,7 @@ The only modules with a live connection to Doaden. The home campaign reskins the
 
 | Home-game element | Source | Notes |
 |---|---|---|
-| **Bramblefen** (Chapter 7) | `Prison_Breakdown_5E.md` | Location and mechanic reskin: Cell Block B → **Deep Cages**, Warden's Office → **Chainmaster's Hall**, Secret Tunnel → **The Drain**, Grolo → **Denrick**, Grolo's Stinky Sack → Denrick's "lucky" sack, the 1d20 armory-loot table and the 500 gp tunnel stash carry over verbatim. **"The Ghost"** (assassin-convict in Cell Block B who, if freed, kills six of the boss's men and vanishes) was the chassis behind the old **Prisoner X** slot — **now replaced by Gimble Beren, Dave's PC** (see below). ⚠️ **As played (Oct 2026): the Drain and Denrick never came into play; `Denrick.md` is archived.** |
+| **Bramblefen** (Chapter 7) | `Prison_Breakdown_5E.md` | Location and mechanic reskin: Cell Block B → **Deep Cages**, Warden's Office → **Chainmaster's Hall**, Secret Tunnel → **The Drain**, Grolo → **Denrick**, Grolo's Stinky Sack → Denrick's "lucky" sack, the 1d20 armory-loot table and the 500 gp tunnel stash carry over verbatim. **"The Ghost"** (assassin-convict in Cell Block B who, if freed, kills six of the boss's men and vanishes) was the chassis behind the old **Prisoner X** slot — **now replaced by Gimble Beren, Dave's PC** (see below). ⚠️ **As played (Oct 2026): the Drain and Denrick never came into play and were cut.** |
 | **Old Cobb** | Warden Ingfar (`Prison_Breakdown_5E.md`, also in `Prisoner_X_Iron_Juggernaut.md`) | Inverted: the captive being tortured is now the party's emotional payload rather than a quest-giver. |
 | **The Juggernaut / Mott** | `Prisoner_X_Iron_Juggernaut.md` (name only) | The home-game Mott is **original** — a Rage Clock barbarian, not the CR 10 Iron Juggernaut. Don't confuse the two stat blocks. |
 | **Path of Penitence** framework | `Path_of_Penitence_System.md` | Campaign rules + Doaden setting; the Penitent/Redeemer structure the party sits inside. |
@@ -79,8 +79,8 @@ A live D&D 5e game set in **Doaden**, using the **Path of Penitence** framework 
 | **Luthien Veynar** | Tyler | `players/Luthien Veynar.md` | Half-elf bard; stolen bone guitar (a Saraswati vessel — he doesn't know). |
 | **Wolfram Eisenherz** | Todd | `players/Wolfram Eisenherz.md` (+ original PDF) | Human paladin, Oath of Devotion, of **Westfield, Western Diocese**; killed Bishop Thurstan. |
 | **Gimble Beren** | Dave | `players/Gimble Beren.md` | Gnome ranger; Penitent; sole survivor of the first Dol team. **Dave writes Gimble's personal backstory; the Dol events are the DM's.** Don't write stats. |
-| **Baltus's apprentice** | Virgil's former player | — | Unbranded Shepherd's apprentice. **Name and backstory TBD.** |
-| *Virgil* | — | `players/Virgil.md` | **NPC since end of Ch7**, with Thaddeus at Underwood. |
+| **Baltus's apprentice** | Virgil's former player | `players/Baltus's Apprentice.md` | Unbranded Shepherd's apprentice. **Name and backstory TBD.** |
+| *Virgil* | — | `world_lore/Virgil.md` | **NPC since end of Ch7**, with Thaddeus at Underwood. |
 
 **Level 4** as of the end of Chapter 7. Update `Campaign State.md` when they level.
 
@@ -122,9 +122,9 @@ The session files are written fast and unedited, so **treat any proper noun in `
 | **Virgil** | Virgl |
 | **Vozruk** | Volzruk |
 | **Wolfram Eisenherz**, of **Westfield, Western Diocese** | — |
-| **St. Pyotr** | St. Pytor, Sy Pytor (the Ch4 filename is wrong; leave the filename, fix the prose) |
-| **Ald's Star** | Alds Star (filename only) |
-| **Alchemical Order** | Alchemetic Order, Alchemic Order (used in `players/Virgil.md` itself — worth a fix) |
+| **St. Pyotr** | St. Pytor, Sy Pytor |
+| **Ald's Star** | Alds Star |
+| **Alchemical Order** | Alchemetic Order, Alchemic Order |
 | **Adephagia** | Aldephiaga |
 | **Finnian Quickstep** | Finnan |
 | **Church of Azerai**; the **Mark of Atonement**; the **Sunlit Citadel** | — |
@@ -134,7 +134,7 @@ The session files are written fast and unedited, so **treat any proper noun in `
 ### Known continuity traps
 - **Chapter 3 was retconned mid-file.** The `# Overview` has Ald as a human grain farmer; the `Story (Session Notes)` section has green-skinned halflings and heirloom cabbage. **The Story section is what happened.**
 - **Ysabel's charge.** Ch5 says she's accused of poisoning her niece; `Solteres.md` says Ironwake had the niece murdered and framed her. Compatible — the second is the truth behind the first.
-- **Virgil's Ch3 line** that he and the Order "no longer agree" is him saving face; `players/Virgil.md` is canon (he was sentenced).
+- **Virgil's Ch3 line** that he and the Order "no longer agree" is him saving face; `world_lore/Virgil.md` is canon (he was sentenced).
 - **Real player names in prose.** Ch1 narrates the branding of *"Tyler"* rather than Luthien. Ch3 has a slur-adjacent NPC descriptor. For Mott, use `The Juggernaut.md`'s phrasing: "his mind never grew with his body."
 - **Era labels.** `world_lore/Timeline.md` mixes "PA" and "PC"; use **PA**.
 

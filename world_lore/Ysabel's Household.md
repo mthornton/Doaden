@@ -1,7 +1,7 @@
 # Ysabel's Household
 ### Five people the party has been responsible for since Chapter 6
 
-> **Moved here from the archived `Chapter 7 DM Notes.md` (Oct 2026)** because all five are still with the party in Chapter 8. For Ysabel herself — her history, her slaveholding, how to run her — see `Solteres.md`.
+> **Moved here from the Chapter 7 prep (Oct 2026)** because all five are still with the party in Chapter 8. For Ysabel herself — her history, her slaveholding, how to run her — see `Solteres.md`.
 
 Per Chapter 6, Ysabel travels with **four male servants who double as guards** and **one lady-in-waiting.** They came through Bramblefen with the party **and no deaths among them were recorded.** They are not fighters.
 

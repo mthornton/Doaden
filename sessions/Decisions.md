@@ -65,9 +65,9 @@
 | 35 | **Where are the forty-eight stored?** | Dry and defensible on the east road. Needed before Ch10. | The Barrel Trail §11b |
 | 36 | **Casks destroyed → how much weaker is the Jailer?** | Write the conversion before the first cask is destroyed. | The Barrel Trail §9 |
 | 37 | **Does the party ever learn they stopped the harvest?** | Yes, from the records, by arithmetic, with no NPC telling them. | The Barrel Trail §2 |
-| 38 | **Does destroying a barrel hurt Saraswati?** | Optional and cruel. | The Blood of Saraswati |
+| 38 | **Does destroying a barrel hurt Saraswati?** | Optional and cruel. | The Barrel Trail |
 | 39 | **Does the blood soaked into the Deeps matter?** | It doesn't have to. | The Barrel Trail §7 |
-| 40 | **Does Ironwake ever say the dockhand's name?** | Once, only if earned. | The Blood of Saraswati |
+| 40 | **Does Ironwake ever say the dockhand's name?** | Once, only if earned. | The Barrel Trail §12 |
 | 41 | **The Ashgate holding site — what was it before?** | Something that already had cells. | The Ashgate Purchases §5 |
 | 42 | **Use the inland coven / `Yagas_Brew_5E.md`?** | If yes, override its everyone-is-dead ending. | The Ashgate Purchases §5 |
 | 43 | **The counting house's name and one breakable clerk.** | Vance & Oltmer (suggested). | The Ashgate Purchases §6 |

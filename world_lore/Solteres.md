@@ -3,13 +3,13 @@
 https://watabou.github.io/city-generator?size=66&seed=1433510080&name=Solteres&citadel=1&urban_castle=0&plaza=1&temple=1&walls=0&shantytown=1&coast=0&river=1&greens=0&gates=-1
 
 
-Solteres is a the capitol of the Southern Diocese.  A large bustling city fueled by trade.  People come from all over Doaden and lands further off for the trade.  This city became important for trade because of the rich farming lands in the south. 
+Solteres is the capital of the Southern Diocese.  A large bustling city fueled by trade.  People come from all over Doaden and lands further off for the trade.  This city became important for trade because of the rich farming lands in the south. 
  
 The Merchant class runs the city and at the upper echelons are obnoxiously wealthy.  The wealth does not trickle down and most residents here are as poor as any other city. 
  
 The trade and money attracted criminal syndicates.  The crime lords are as powerful as the top merchants.  In many cases, it is hard to tell one from the other. 
  
-Slave trade is common.  Slavery is illegae in Doaden, but you would never know that in Solares.  The buying and selling of people is out in the open with regular live auctions.  Most of the slaves are non-humans.  Humans are kept as slaves, but that is frowned upon.  However, there is a work around.  Humans convected of a crime with a sentence of 50 years or greater can be purchased.  This law is frequently abused by corupt officials.
+Slave trade is common.  Slavery is illegal in Doaden, but you would never know that in Solteres.  The buying and selling of people is out in the open with regular live auctions.  Most of the slaves are non-humans.  Humans are kept as slaves, but that is frowned upon.  However, there is a workaround.  Humans convicted of a crime with a sentence of 50 years or greater can be purchased.  This law is frequently abused by corrupt officials.
 
 **There is a second, lesser instrument, and it is the common one: Terms.** A human convicted of a crime carrying a shorter sentence may discharge it by offering himself for sale. The purchase price satisfies his restitution and his debts; he serves the term to whoever bought him instead of serving it in a cell, and at the end of it he walks away clear. It is voluntary. It is entirely lawful. Nobody involved calls it slavery, and the distinction is defended fiercely by people who have never been on either end of it.
 
@@ -22,10 +22,10 @@ The 50-year rule is how the first door gets opened for a human: a corrupt magist
 
 **Living example:** *Dov Brandt*, one of Lady Ysabel's guards, is a Terms man with three years left, sold at Bramblefen — see `Ysabel's Household.md`.
 
-# Improtant People
+# Important People
  
 ## Lady Ysabel Rochefort 
-Merchant specializing in textiles.  Mid-level merchant, but on the rise.  She started bringing in shipments of silks from across the sea.  To increase profits, she smuggled a large shipment into Soleres bypassing the required tax to Lord Ironwake.  Lord Ironwake learned of this before the shipment reached her warehouse.  The silks were intercepted and stolen.  Not satisified with just this, Ironwake arranged for the murder of Lady Ysabel's niece.  Evidence was planted to make it appear the murder was committed by Ysabel.  Ysabel is all but financially wiped out from the loss of the silks and must defend herself against the murder charges via trial by combat.  Her champion, Ulfic, was murdered at the Calf & Ass.  She does not know what to do now.  She considered fleeing, but has no where to go.  With no money or power, her friends have largely abandoned her. 
+Merchant specializing in textiles.  Mid-level merchant, but on the rise.  She started bringing in shipments of silks from across the sea.  To increase profits, she smuggled a large shipment into Solteres, bypassing the required tax to Lord Ironwake.  Lord Ironwake learned of this before the shipment reached her warehouse.  The silks were intercepted and stolen.  Not satisfied with just this, Ironwake arranged for the murder of Lady Ysabel's niece.  Evidence was planted to make it appear the murder was committed by Ysabel.  Ysabel is all but financially wiped out from the loss of the silks and must defend herself against the murder charges via trial by combat.  Her champion, Ulfric, was murdered at the Calf & Ass.  She does not know what to do now.  She considered fleeing, but has nowhere to go.  With no money or power, her friends have largely abandoned her. *(Her fuller account, as she told it at the table in Ch7 Session 1 — two offences against Ironwake, the mill, the dress house, then the niece — is in `sessions/Chapter 7 - Record.md`.)* 
 
 ### She is a slaveholder, and she does not think of herself as one
 
@@ -62,20 +62,16 @@ The arithmetic is in her own history. The **weaving mill doubled her margins** �
 
 ⚠⚠ **And Ysabel is already running the Tormentors' selection procedure without knowing it.** At Bramblefen she asked Vaskar for seamstresses and then said *"some of the stock you do have may have worked as tailors — I want to inspect them."* **That is exactly what Ashgate's buyers did to Sera Oleander when they asked to see her hands** *(`The Ashgate Purchases.md`)*. Same procedure, same reason, no knowledge. **The party was standing in the room.** Say nothing; let someone remember.
 
-⚠️ **This is also the hardest test of her you will ever get.** She does not need to be argued down about slavery in the abstract any more. She needs to be shown that **the best thing in her life was made by a person she owns, who she was about to sell, and that she never once noticed.** She cannot be talked out of her beliefs in one conversation — but this is not a conversation, it is evidence.
+⚠️ **This is also the hardest test of her you will ever get.** She does not need to be argued down about slavery in the abstract any more. She needs to be shown that **the best thing in her life was made by a person she owns, and that she never once noticed.** She cannot be talked out of her beliefs in one conversation — but this is not a conversation, it is evidence.
 
-### Live wire
+### Live wire — the marriage
 
-> ✅ **SUPERSEDED (13 Oct 2026).** Ysabel's blackmail cancels the trial, so she never needs to sell workers. **Maelis's fate now rides on the forced marriage** — see `sessions/Chapter 8 DM Notes - Planning.md` §3. The paragraph below describes the clock as it stood before Chapter 7 ended.
+**Her blackmail wins and the trial is cancelled** — and that is the trap. Ironwake wants the estate, not the verdict: **Vaskar takes her alive and Ironwake marries her to one of his own men, and everything she owns becomes his, lawfully** *(`sessions/Chapter 8 DM Notes - Planning.md` §3)*.
 
-She is financially ruined and needs money for a defence. **Her workers are an asset.** If she has to liquidate, she will sell people — regretfully, with genuine reluctance, and she will do it.
-
-> ⏰ ⚠⚠ **AND THAT IS THE CLOCK.** She may sell **Maelis** — the one person actually making her money — because she does not know which one that is. A sale out of Solteres goes through **Ironwake's slave trade**, which is the pipeline **Ashgate** buys from, so the shears would travel east and join **the chisel and the potter's rib** in the Herald's holding. **Three of six vessels in one building, delivered by a frightened woman doing her accounts, and not one person in that chain would know what had happened.**
->
-> **No villain is pushing this.** The party's window is Chapters 8–10, while she is still ruined. Fix her money and the clock stops. Ignore her and it runs.
+**Everything she owns includes people.** Her non-human mill workers, **Dov's** remaining three years *(`Ysabel's Household.md`)*, and **Maelis** — who would pass from a woman who doesn't know what she has to a man who runs the trade Ashgate buys from *(`The Art-Items.md` §5)*. **Letting Ysabel fall frees nobody. It sells them downstream.**
 
  
 ## Lord Ironwake 
-Powerful merchant up to his knees with the criminal syndicate.  He controls much of the transportation in and out of Soleres collecting a tax on each shipment in and out.  If an upstart tries to bypass his service, he quickly and harshly punished the offender.  He frequently works through cat's paws - sometimes using a criminal gang, sometimes through blackmail or manipulation. Ironwake also controls the slave trade.
+Powerful merchant up to his knees with the criminal syndicate.  He controls much of the transportation in and out of Solteres, collecting a tax on each shipment in and out.  If an upstart tries to bypass his service, he quickly and harshly punishes the offender.  He frequently works through cat's paws - sometimes using a criminal gang, sometimes through blackmail or manipulation. Ironwake also controls the slave trade.
  
  

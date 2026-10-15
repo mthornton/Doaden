@@ -153,23 +153,19 @@ She does **not** know about Saraswati, the Prison Realm, mana, or any of it. She
 
 > ⚠️ **This gives the party somebody to NEGOTIATE with instead of somebody to rescue** — and she will be sharper about her own situation than anyone they have met in a collar. **She will want to know what they are offering before she tells them anything**, and she is right to.
 
-### ⏰ THE CLOCK — and nobody is driving it
+### ⏰ THE CLOCK — the marriage
 
-> ✅ **SUPERSEDED (13 Oct 2026) — the clock is now the marriage.** The party's actions changed this: Ysabel's blackmail cancels the trial, so **she never needs to sell workers** and the liquidation clock below never starts. **Maelis's fate is tied to the forced marriage** *(`Chapter 8 DM Notes - Planning.md` §3)*: if Ysabel is married off, the dress house — and Maelis with it — passes to Ironwake, who runs the trade Ashgate buys from. Stop the wedding and the shears stay put. The text below is kept for the logic of the pipeline, which still holds.
+**Maelis's fate is tied to Ysabel's forced marriage** *(`sessions/Chapter 8 DM Notes - Planning.md` §3)*. Ysabel's blackmail cancels the trial, so she never needs to sell anyone. But **if she is married off, the dress house — and Maelis with it — passes to her husband, which means to Ironwake.**
 
-`Solteres.md` already states her live wire: *"She is financially ruined and needs money for a defence. **Her workers are an asset.** If she has to liquidate, she will sell people — regretfully, with genuine reluctance, and she will do it."*
+> 🔑 **Ironwake runs the trade that Ashgate buys from.** He has no idea what Maelis carries, and he doesn't need to: a skilled elf dressmaker is exactly the kind of stock that pipeline wants, and sooner or later she is sold east — the shears joining **the chisel and the potter's rib** in the Herald's holding. **Three of six vessels in one building, and not one person in that chain would know what had happened.**
 
-> 🔑 **Ysabel may sell the one person who is actually making her money, because she has no idea which one that is.**
->
-> And a sale out of Solteres goes through **Ironwake's slave trade**, which is the pipeline **Ashgate** buys from — so Saraswati's shears would travel to the Herald's holding east of Underwood and join **the chisel and the potter's rib**. ⚠⚠ **Three of six vessels in one building, delivered by a frightened woman doing her accounts, and not one person in the chain would know what had happened.**
-
-**That is a ticking clock with no villain pushing it**, which is the best kind. It also means the party's window is **Chapters 8–10, while Ysabel is still ruined** — if they resolve her money problem, the clock stops; if they ignore her, it runs.
+**Stop the wedding and the shears stay in Solteres. Let it happen and the clock starts.** The party's window is Chapter 8, with Chapter 9 as the last chance to get her out before she is moved.
 
 ### How this plays at the table
 
 - **Taking the shears off Maelis repeats the harm.** She has been stripped of everything else; the party confiscating her last possession to save the world is a real and ugly option, and they should feel it. **Do not stop them.**
 - **Freeing her is both the right answer and the optimal one.** Per §9, belief and work given freely outvalue an object taken. **A freed master dressmaker who keeps working for the rest of her life feeds Saraswati for two hundred years. A confiscated pair of shears in a sack feeds her nothing.** The party does not need to be told this — by Ch13 they will have the rule and can work it out.
-- ⚠️ **And it is the hardest possible test of Ysabel.** She does not need to be argued down about slavery in the abstract any more. She needs to be told that the single best thing in her life was made by a person she owns, who she was about to sell, and that she never noticed. *(`Solteres.md`: she will not be argued out of it in one conversation. **This is not one conversation. This is evidence.**)*
+- ⚠️ **And it is the hardest possible test of Ysabel.** She does not need to be argued down about slavery in the abstract any more. She needs to be told that the single best thing in her life was made by a person she owns, whom she never once noticed. *(`Solteres.md`: she will not be argued out of it in one conversation. **This is not one conversation. This is evidence.**)*
 
 ---
 

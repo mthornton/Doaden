@@ -11,7 +11,7 @@
 | File | Covers | Status |
 |---|---|---|
 | `Doaden - World Rules.md` | Setting-wide facts: coming of age at 15, the Church apprenticing orphans, Stock and Terms, the calendar. | Settled |
-| `Campaign Arc Plan.md` | The road from Ch7 to the finale: thematic spine, thread ledger, chapter map, the *Return of the Jailer* reskin, the win condition. | Proposal · **partly stale** (pre-Ch7; Ch8 plan supersedes §9) |
+| `Campaign Arc Plan.md` | The road from Ch8 to the finale: thematic spine, design principles, thread ledger, chapter map, the *Return of the Jailer* reskin, the win condition. | Proposal · trimmed after Ch7 |
 | `The Three Faiths.md` | **Read before touching the cosmic plot.** Saraswati (secret congregation), Adephagia (the Tormentors' patron, wants a *brief* Aspect), the Tormentors (want permanent convergence), and the Church as battlefield. | Settled |
 | `What the Party Knows - The Book.md` | Exactly what JonLief learned from *Myths of the Old Gods* — all of it **player knowledge**. | Canon |
 
@@ -28,8 +28,7 @@
 | `Corbin Wainwright and Orla Miller.md` | Corbin (Saraswati devout, murdered Fenna for the brush, bargained with the Tormentors) and Orla. §9 is why he courts the party. | Settled · enters Ch8 |
 | `The Patient.md` | Hanne Vetter, the woman left at St. Pyotr's — now Herald of the Tormentors, holding the women east of Underwood. | Settled |
 | `The Ashgate Purchases.md` | The cult's 38 years of buying people (mostly women, mostly artists); the holding; the paper trail. | Settled / Proposal (§8c is open) |
-| `The Barrel Trail.md` | **Authoritative on the blood**: finite supply, 48 casks, the route through Bramblefen, dates. | Settled / Proposal |
-| `The Blood of Saraswati.md` | The barrels as the campaign's key unaccounted-for thing; Ironwake's tax records; the Penitent-blood thread. | **Stale** — says she's still chained under Dol; The Barrel Trail wins on dates and quantity |
+| `The Barrel Trail.md` | **The one file on Saraswati's blood**: finite supply, 48 casks, the route through Bramblefen, dates, Ironwake's fear, the Penitent-blood thread. | Settled / Proposal |
 | `Elizabeth and the Green.md` | Elizabeth's bargain with Brudda Death, Rowan's immunity, the green's containment rule, the rift, Virgil's vaccine path. | Settled · **secret from the players** |
 | `Underwood.md` | The green-turning village; the name "the green". | Canon / Settled |
 | `The Quest for the Sun-Petal.md` | In-world legend / tapestry story. Parked. | Reference |
@@ -51,7 +50,7 @@
 
 | File | Covers | Status |
 |---|---|---|
-| `Solteres.md` | The city; Stock vs Terms; **Ysabel** (slaveholder, run her reasonable) and **Ironwake**; Maelis. | Settled · typo pass needed |
+| `Solteres.md` | The city; Stock vs Terms; **Ysabel** (slaveholder, run her reasonable) and **Ironwake**; Maelis and the marriage. | Settled |
 | `Ysabel's Household.md` | Perrin, Dov, Symon, Cael, Mina; Dov's Terms story. | Canon |
 | `Barney Soot.md` | The sweep who bought Rowan; takes Church apprentices as well as Bramblefen boys. | Settled |
 | `What To Do With Rowan.md` | Guardianship options once the boy is back; Ald's Star with Anselm recommended. | Proposal |
@@ -67,6 +66,7 @@
 
 | File | Covers | Status |
 |---|---|---|
+| `Virgil.md` | Former PC, **NPC since Ch7** — with Thaddeus at Underwood; holds the vaccine path. | Canon |
 | `Master Thaddeus and Marion.md` | Alchemical Order; Thaddeus's true form; the Underwood investigation. Virgil is with them now. | Canon |
 | `Fid and Zook.pdf`, `Orryn Cogspinner.pdf`, `Zookbert Nackle.pdf` | The camp's artificer and his assistants. Only Fid has appeared. | Reference |
 | `Turok.md`, `Zelryn.md` | Full-backstory NPCs of the Mistwood. Not yet in play. | Reference |

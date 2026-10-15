@@ -1,7 +1,7 @@
 # The Bramblefen Freed
 ### The thirty, and the few among them with a job to do later
 
-> **Replaces "The Eighteen" roster in the archived `Chapter 7 DM Notes.md` (Oct 2026).** None of the prep names except **Anselm** was ever used at the table. Per the DM, only the names that carry a **specific role** in another file are kept; the rest are dropped.
+> **Replaces the "Eighteen" roster from the Chapter 7 prep (Oct 2026).** None of the prep names except **Anselm** was ever used at the table. Per the DM, only the names that carry a **specific role** in another file are kept; the rest are dropped.
 
 ## What is canon *(Session 3)*
 

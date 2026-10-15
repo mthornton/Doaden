@@ -1,20 +1,20 @@
 # Doaden — Campaign Arc Plan
-**Written:** August 2026 · after Chapter 6, before Chapter 7 hits the table
-**Scope:** the world, Chapters 1–6 as played, Chapter 7 as prepped, and the road to Brudda Death
+**Written:** August 2026 · **trimmed:** October 2026, after Chapter 7
+**Scope:** the road from Chapter 8 to Brudda Death
 
-> **Status: living planning document.** This is the campaign's north star from Chapter 7 to the
-> finale. Read it before prepping any new chapter, and update it when the table changes the plan —
-> especially §6 (the thread ledger) and §9 (the chapter map), which are meant to drift as you play.
-> Proposals here are *proposals*, not canon: nothing in this file has been established at the table
-> unless it also appears in `sessions/` or elsewhere in `world_lore/`.
+> **Status: living planning document — proposals, not canon.** Nothing here is established unless it also appears in a chapter Record or elsewhere in `world_lore/`. Update it when the table changes the plan, especially §6 (threads) and §9 (chapter map).
+>
+> **The present** is in `sessions/Campaign State.md`; **open decisions** are in `sessions/Decisions.md`.
+>
+> *Sections 3–4 (a review of Chapters 1–7 written before Chapter 7 was played) were archived in Oct 2026; section numbers are kept so references elsewhere still work. The full original is in the archive.*
 
 ### Established canon this plan must not contradict
 
 Corrections from the DM, Aug 2026. These are settled at the table and cannot be retconned:
 
 1. **The amulet of transportation has ONE charge left, not two.** It goes one way only — it returns everything in a 10-ft-diameter, 8-ft-high cylinder to the pentagram in **Room 3 of Saraswati's crypt on Dol Island**, from anywhere on any plane. The party knows all of this. See §6.
-2. **Ald's Star is a village of roughly two dozen halflings.** Too small to host the *Return of the Jailer* investigation as written. See §8.1 for how it gets bigger without a retcon.
-3. **Saraswati's vessels were always the plan.** She embedded her remaining power into a set of objects that let their wielder create great works; the works are then appreciated, and that appreciation feeds her. **Luthien's bone guitar is one. Corbin Wainwright's paintbrush is another.** The party currently knows none of this — see §8.6 for the reveal schedule.
+2. **Ald's Star is a village of roughly two dozen halflings** — plus, since Chapter 7, **Erwana and thirty freed slaves** sent there on Wolfram's name. Still too small for *Return of the Jailer* as written; §8.1a is how it keeps growing.
+3. **Saraswati's vessels were always the plan.** She embedded her remaining power into a set of objects that let their wielder create great works; the works are then appreciated, and that appreciation feeds her. **Luthien's bone guitar is one. Corbin Wainwright's paintbrush is another.** The party knows none of this yet; Luthien has seen her once (Ch7). See §8.6.
 
 ---
 
@@ -25,14 +25,14 @@ Every plot in this campaign is about **imprisonment and who holds the keys.**
 - The party are property. 500 years, branded, with no way to check in and no way home.
 - Saraswati is in a cell. Literally — chained in a tomb, then moved to a realm that *is* a prison.
 - St. Pyotr's was a madhouse where the warden tortured inmates because he thought pain would evict what was inside them.
-- Bramblefen holds eighteen men under two different lies about what a cage is.
-- Ysabel's trial ends with her becoming a *thing somebody owns*.
+- Bramblefen held thirty people under two different lies about what a cage is.
+- Ysabel's victory ends with her being married off as a *thing somebody owns*.
 - The Stock/Terms split is a legal fiction about who counts as a person.
 - Escaped Penitents become Husks — a mind is a cell too.
 - The final boss is a **warden**. His realm is a prison. His title is the Jailer.
 - Adephagia's whole method was never brute force. It was starving a rival until she could be *locked up*.
 
-That is a startlingly coherent thesis for something you say was written fast and unedited. It's the strongest asset you have, and it answers your actual question — *how do I set up the final chapter?* — because the finale is already written into the premise:
+The finale is already written into the premise:
 
 > **Four people who are legally property decide whether to unlock a prisoner, knowing the master they'd have to defy to do it is the church that owns them.**
 
@@ -40,95 +40,14 @@ Hold that sentence somewhere you'll see it. Every structural recommendation belo
 
 ---
 
-## 2. What's working
+## 2. Design principles
 
-**The prep style.** The DM Notes / Run Sheet split is genuinely excellent and I'd keep it for every chapter from here out. Chapter 7's DM Notes are some of the best-designed adventure prep I've read in a home campaign — the Vaskar clock, the three-condition Ysabel detainment, the revolt outcome table, "the party can save Ysabel without ever knowing they did it. **Do not tell them.**" That's the correct instinct and it's the one that will carry the finale.
-
-**Consequence without announcement.** Chapter 7 hides three or four decisions inside choices the party will make for unrelated reasons (free Mott out of pity → Ironwake has no champion → Ysabel's trial flips). Keep doing exactly this. It is the only reliable way to make a finale feel earned rather than scheduled.
-
-**The mana rules.** Old gods run on worship and can be *starved*. That is a real, usable, mechanical cosmology, not set dressing — and it's the reason your finale can have a win condition that isn't a damage race. More on this in §8.
-
-**The Eighteen.** Naming all eighteen slaves, with a death order and a "if you only hold three names" note, is the kind of prep that makes a session feel enormous at zero table cost.
-
-**The quiet Chapter 3 morning.** Having the party spend a morning meeting nearly everyone in Ald's Star — William, Walter, Edith, Matilda, Bart — looked like colour at the time. It's a loaded gun. §8 fires it.
-
----
-
-## 3. What needs fixing, ranked
-
-### 3.1 Luthien's plot exists — the players just have no idea it does
-
-The guitar-as-vessel was always the plan (canon note 3). The problem isn't design, it's **disclosure**: seven chapters in, the players know none of it.
-
-Take an honest inventory of what the party can actually say out loud right now:
-
-- Saraswati exists, is a goddess of art, was chained in a tomb on Dol, and Wolfram saw her face for a moment before she vanished.
-- The Tormentors took her blood away in barrels.
-- "Brudda Death" is a name one cultist spat at them once, in Chapter 4.
-
-That's it. No mana economy. No vessels. No Prison Realm. No Corbin. Meanwhile Luthien is carrying a god's relic and playing it for beer money, and the joke of that is only funny if the players eventually get to be in on it.
-
-So the fix isn't a retcon — it's a **schedule**, and it should start in Chapter 7. See **§8.6**.
-
-Note also that the armory ban is now the origin story of a holy relic: Finnian Quickstep confiscated a heretic's instrument decades ago, threw it on a pile, and then handed it to the one man alive who could wake it — as a punishment. Let Finnian find that out someday.
-
-### 3.2 The cosmic plot has been cold for three chapters and is about to be cold for three more
-
-Last real Brudda Death content: Chapter 4. Chapters 5, 6, and 7 have none. If Chapters 8–10 are Solteres and Ironwake, that's **six or seven chapters between cosmic beats.** Players forget. The name "Brudda Death" was heard once, in one taunt.
-
-The fix is in §5 and it doesn't require adding a chapter.
-
-### 3.3 Elizabeth dies offscreen and JonLief never had a chance
-
-She was dead a month before the party arrived, of fever, unwitnessed, and there is no version of the last six chapters where he arrives in time. That's honest and bleak and it fits the setting — but it means the campaign's biggest personal quest resolves as a paragraph read aloud by an NPC.
-
-Two mitigations, both small:
-
-- **Give him something to do about it.** Cobb knows where the dead go at Bramblefen — a lime pit, a fen channel, a field. Let JonLief go and find her and put her somewhere. Ten minutes of table time, and it converts a line item into a scene.
-- **Make Rowan genuinely winnable and genuinely losable.** Elizabeth's outcome was never in his hands. Rowan's has to be, completely, with a real chance of failure. Do not soften Barney Soot into a formality.
-
-### 3.4 The party is passive, and you should design around it, not against it
-
-The pattern is consistent and worth naming: they didn't chase the ship (Ch3), didn't open the trapdoor, didn't free the prisoner, left the woman behind (Ch4), watched the brawl and stayed out of it (Ch5). Your `IF the party…` branch logic — including a branch for inaction — already accommodates this well.
-
-But a finale cannot be run for a passive party. The medicine is what you're already doing in Chapter 7: **consequences they caused without knowing.** Start collecting on the passive choices *now*, so that by the last act they've learned that not-choosing is a choice. The possessed woman from St. Pyotr's is precisely this, and it's the right call. Consider a second, smaller one earlier — Ald's Star suffering for a promise Wolfram made, or the Hreowan's crew turning up somewhere they'd rather not be.
-
-### 3.5 You have three plots and time for two
-
-Cosmic, slaver, Underwood. Underwood is the least connected, the least PC-facing (Virgil declined it on the page), and the one most likely to become a chapter you run out of obligation.
-
-**Don't cut it — merge it.** The Tormentor Cults guide has a mechanic called *Progressive Rifts*: cult ritual activity physically corrupts a region — blight, twisted growth, black water — intensifying as the ritual nears completion. Underwood's plague *is* a progressive rift.
-
-- Green patches → pods → spores → the infected stop caring, get protective of the pods, become addicted to eating them, and eventually **lie down in a field to become part of the land.**
-- That is not botany. That is harvesting. That is a Collector's crop, and the people going quiet and lying down are being *processed*.
-- The seeds carry Enchantment/Necromancy/Transmutation — Virgil confirmed this at the table already.
-
-✅ **This is now canon and it has a rule.** *(`Elizabeth and the Green.md` §4.)* **The infection only takes root where the rift has thinned the barrier, and lies dormant until the rift opens.** On ordinary ground nothing happens. So outbreaks are a **map of the rift**, not a public-health emergency; **the pandemic is the stake if the party fails**, not a subplot running beside them; and Virgil gets a genuine alternate victory — **Rowan is immune, and a vaccine defuses the weapon before it fires** *(§10 of that file)*.
-
-So the coven of witches inland isn't a side quest; they're a cult cell feeding the Hecatomb, and Underwood is your first visible **rift sign**. One sentence of connective tissue and you keep all your material, lose an entire plotline's worth of table time, and hand Virgil a cosmic-plot stake he currently lacks. `Yagas_Brew_5E.md` (the Coven one-shot) is sitting in your catalog for the coven itself.
-
-### 3.6 Small maintenance
-
-- **Virgil has no character file.** He's the only PC without one and he's carrying the Alchemical Order thread **and now the vaccine path** *(`Elizabeth and the Green.md` §10)*. Worth writing — he has gone from the least plot-connected PC to holding an alternate victory condition.
-- **`Solteres.md` needs the typo pass** you've already flagged, plus Ironwake and Ysabel probably deserve their own files now that he's the Chapter 7–10 antagonist.
-- **`Master Thaddeus and Marion.md` is stale** — stops mid-backstory, contradicts Ch6 on the squid/worm question.
-- ~~Decide on Prisoner X soon.~~ **SETTLED (Aug 2026).** Dave is in. Prisoner X is now **Gimble Beren**, gnome ranger — a Penitent and the sole survivor of the first Dol Island team (`world_lore/The First Penitents.md`, `players/Gimble Beren.md`). He joins in the second half of Chapter 7. ✅ *As played: the match started, Gimble was freed in the ring, the revolt fired on it, and Ysabel was never detained (`sessions/Chapter 7 - Record.md`).*
-
----
-
-## 4. Chapter 7, specifically
-
-This is the best-prepped chapter in the folder and I'd change almost nothing structurally. Notes:
-
-**The clock is the chapter.** "The party cannot be at the match *and* in the Hall — that is the choice, and they should feel the hour going. Say the time out loud." Correct. Put the running time on an index card in front of the players. Not a metaphor — actually write the hour where they can see it.
-
-**Encounter math sanity check.** The garrison is now **twenty** (14 Fen Guard + 6 Ironwake, beefed up around the Juggernaut and the sundown match). Fought as a single mass against four level-3 PCs that is not a fight, it's an ending — roughly **3,800 adjusted XP against a Deadly threshold of 1,600**, and that is before Vaskar. Your design already prevents it (staggered posts, the revolt absorbing most of them, Vaskar's isolation), but it's worth one bolded line in the Run Sheet: *the guards must never all be in the same room.* Similarly, Corvant Hale doing the work of teaching them Vaskar is out of their league, with no HP spent, is the right call — protect that scene.
-
-**One addition worth making.** Chapter 7's ledger already seeds "women sold to unnamed buyers who paid well." That's your only cosmic-plot beat in three chapters and it currently reads as one line in a book. Give it a *face*: one of the Eighteen — Kesh Vanner, the sixty-year-old navigator who's been sold twice and is unsurprised by everything, is perfect — saw the buyers. Black robes. Didn't haggle. Paid in old coin. Took only women, and asked, specifically, whether any of them were **artists**.
-
-That last detail costs one sentence and does an enormous amount of work. It ties the cult buyers to Saraswati, gives Luthien a reason to sit forward, and plants the finale six chapters early.
-
-**Wolfram's leadership handoff** (item 13, Anselm naming him) is the emotional peak of the chapter. Play for it hard. It's also the moment the Church problem becomes unavoidable — a Penitent commanding freed men is, from the Citadel's view, exactly what Wolfram was buried for the first time.
+- **Consequences without announcement.** Hide decisions inside choices the party makes for other reasons, and collect on them later. *(Chapter 7 did this: Gimble freed → the match broke → Ysabel was never detained.)* Never explain the link out loud.
+- **Design around a passive party, not against it.** They tend not to chase, open, or intervene. Write a branch for inaction, and **collect on passive choices** so they learn that not-choosing is a choice — the Patient is the big one.
+- **Convert threads into assets** for the finale rather than forcing closure (§6).
+- **The mana rules are mechanical.** Old gods run on worship and can be starved; that's why the finale can have a win condition that isn't a damage race (§8.2).
+- **Prep in two layers** — DM Notes (why) and Run Sheet (at the table).
+- **Underwood is a rift sign**, not a separate plot *(`Elizabeth and the Green.md` §4)*.
 
 ---
 
@@ -149,17 +68,17 @@ Which means:
 Consequences of this one connection:
 
 1. The slaver arc and the cosmic arc stop being two campaigns running in parallel. Taking down Ironwake *is* how they find the Hecatomb.
-2. Chapter 7's ledger, Chapter 8's trial, and Chapter 10's raid on Ironwake all become cosmic-plot chapters without changing a word of their content.
+2. Chapter 7's ledgers, Chapter 8's wedding, and Chapter 10's raid on Ironwake all become cosmic-plot chapters without changing a word of their content.
 3. The party's reason to go after a slaving lord and their reason to save the world are the same errand — which is exactly the kind of tight braid a finale needs.
 4. It gives you a reason for Ironwake to be *afraid* of something, which makes him a better villain than pure greed does. He knows what shipped through his docks. He doesn't ask questions, and he's stopped sleeping well.
 
-Add one more line to the Chapter 7 working ledger while you're at it: a **destination** for the women. Not a place name — a *direction*. "Sent inland, east of Underwood." Now three threads point the same way.
+✅ **Done:** the Working Ledger records the women's direction — inland, east of Underwood *(`The Ashgate Purchases.md`)* — and the casks share a tariff-mark with them *(`The Barrel Trail.md` §8)*.
 
 ---
 
 ## 6. Thread ledger — close, convert, or leave open
 
-Your question was what to wrap up, what to leave open, and how to aim it all at one door. The answer that solves both halves at once:
+The principle:
 
 > **Convert open threads into assets in the final battle.** Every thread they close becomes something concrete they have in the Hecatomb. Every thread they leave becomes a hand that isn't there.
 
@@ -171,13 +90,14 @@ That way unresolved threads aren't loose ends — they're absences the players f
 |---|---|
 | **The amulet of transportation** (**one charge**) | **The only door out, and it is not big enough.** See §6.1 — this is now the best single object in the campaign. |
 | **Fid's Ball of Undeath** | Bursts into shards that harm only undead. The Prison Realm's ecosystem runs on **the Faded** — husked, harvested souls. A Chapter 1 joke becomes the thing that clears a room, and Vozruk's judgement that they weren't ready for it becomes wrong in the best way. |
-| **The Bramblefen freed** (whichever of the four aftermath options they pick) | Bodies at the door. Witnesses at the trial. A mob when they need one. If they scattered into the fen, nobody comes. |
+| **The Bramblefen freed** — ✅ thirty, at Ald's Star, led by Anselm | Bodies at the door, witnesses, a mob when they need one. **They live in the finale's town.** |
 | **Wolfram's second knitting spider** | One more person survives the last fight than otherwise would. |
-| **Cobb's Ledger + the Ironwake writ** | Leverage on the Church. This is what buys Vozruk's cooperation instead of his arrest warrant. |
+| **The Working Ledger** (party) **and Cobb's Ledger** (Ysabel) | Leverage on Ironwake and on the Church — this is what buys Vozruk's cooperation instead of his arrest warrant. ⚠️ Heresy evidence converts seized people into Penitents *(`Cobbs Ledger.md` §6)*. |
 | **The master collar-keys** | Keys are this campaign's symbol. They should be in JonLief's hand in the final room. Whether they open anything is your call. |
 | **Sara's art-items** (Luthien's guitar + whatever else they find) | Mana. See §8 — this is the actual win condition. |
-| **Gimble Beren / Dave** | Fifth sword — and the last living witness to what the Tormentors do with people, which makes him the party's only first-hand source on the barrels. |
-| **Turok, Zelryn, Erwana, Durgan & Mott, Ysabel** | Your allies-at-the-end roster. You have unusually rich NPCs sitting unused; the finale is where they cash in. |
+| **Gimble Beren / Dave** | ✅ In the party. The last living witness to what the Tormentors do with people, and the answer to half of Vozruk's Dol order. |
+| **Turok, Zelryn, Erwana, Anselm, Durgan & Mott, Ysabel, Virgil & Thaddeus** | Your allies-at-the-end roster. The finale is where they cash in. |
+| **Virgil's vaccine** | A second way to win — off the critical path *(§8.5 note)*. |
 
 ### 6.1 The amulet — one charge, one direction, ten feet across
 
@@ -204,11 +124,11 @@ That is not a convenience. That is the last scene of your campaign:
 
 ### Close before the finale
 
-- **Rowan.** Barney Soot, Solteres. Must resolve, and must be winnable and losable.
+- **Rowan.** Barney Soot → Vaskar, Solteres (Ch8). Must resolve, and must be winnable and losable. Then guardianship *(`What To Do With Rowan.md`)*.
 - **Ironwake.** He's the Act II boss. Kill, ruin, or flip him, but end him.
-- **Ysabel's trial.** Chapter 8.
+- **Ysabel.** ✅ Trial cancelled by her blackmail; Chapter 8 is the forced marriage — and the party may let it happen *(Ch8 plan §3)*.
 - **Vozruk / the Church problem.** They cannot walk into the last act still technically deserters. Resolve it into either a blessing or a leash.
-- **Underwood.** Fold it in per §3.5 and close it as a rift sign.
+- **Underwood.** ✅ Merged into the cosmic plot as a **rift sign** *(`Elizabeth and the Green.md` §4)*; Virgil is there now. Close it as a rift sign.
 - **The herald who escaped St. Pyotr's.** Bring him back and kill him properly. He's the party's only recurring named enemy on the cosmic side.
 - **Corbin Wainwright.** See §8 — he's your mortal antagonist and he has to die or be redeemed in the finale, not offscreen.
 
@@ -218,7 +138,7 @@ That is not a convenience. That is the last scene of your campaign:
 - **Adephagia.** She is designed to be un-killable — as long as people are people, she eats. She should walk away, satisfied, in a way that makes the players furious.
 - **The Church itself.** The Grand Ecclesiarch, the Malformed Throne, the Demoncore. This is your sequel campaign, not this one's target.
 - **The Jailer's return.** Both source modules are explicit: he can only be banished. Say so out loud in the epilogue.
-- **The first Penitent team lost on Dol, and the *Hreowan*'s crew.** Best used as a glimpse — the party sees them, Faded, in the Prison Realm, and cannot help them. Don't resolve it. Let it be the price of the door.
+- **The first Penitent team's dead (Gimble survived), and the *Hreowan*'s crew.** Best used as a glimpse — the party sees them, Faded, in the Prison Realm, and cannot help them. Don't resolve it. Let it be the price of the door.
 - **The pickled cabbage.** Six jars, taken from a dead man's house. Never explain it. It's the best running gag you have.
 
 ---
@@ -309,9 +229,9 @@ That's how you make a level-10 party plausibly survive a CR 21 concept. They don
 
 Adephagia is not the Jailer's ally. She made a *deal* to have Sara stashed in his realm. A Brudda Death loose in Doaden eats the thing she lives on: people, and their greed and lust and hunger. She would lose everything.
 
-So, late in the campaign, she offers the party terms. And she does it through the woman they healed and left behind in an unlocked cell at St. Pyotr's with a few days of rations.
+So, late in the campaign, she offers the party terms — triggered when she realises the Tormentors want permanent convergence, not the brief Aspect she paid for *(`The Three Faiths.md`)*. It forces the party to ally with the villain of Chapters 2 and 4, gives them intel they can't get any other way, and means the price of the finale is that Adephagia stays fed and stays free.
 
-That scene does five things at once: it collects on the campaign's defining act of passivity, it makes the abandoned woman the most important NPC in the story, it forces the party to ally with the villain of Chapters 2 and 4, it gives them the intel they can't get any other way — and it means the price of the finale is that Adephagia stays fed and stays free.
+⚠️ **Not through the Patient.** The woman they left at St. Pyotr's belongs to Brudda Death, not Adephagia *(`The Patient.md`)*. **Who carries the offer is open — Decision 50** (recommended: Orla Miller or a Solteres pact-holder).
 
 Let them hate that. The correct ending to this campaign is a win that costs.
 
@@ -326,12 +246,12 @@ Let them hate that. The correct ending to this campaign is a win that costs.
 
 Seven things must be true before you can open the final chapter. Prep against this list:
 
-1. **They want Brudda Death personally.** Right now they've heard the name once. They need an injury with his name on it — the possessed woman, the lost Penitent team seen Faded in the Prison Realm, or a direct threat to Rowan.
+1. **They want Brudda Death personally.** They've heard the name at St. Pyotr's and read about him in the book. They need an injury with his name on it — the Patient, the lost Penitent team seen Faded in the Prison Realm, or a direct threat to Rowan.
 2. **They know Sara is in there and want her out.** Wolfram already saw her face through a hole in a tomb — sad, terrified, alive. Bring that image back at least twice.
 3. **They know where the Hecatomb is.** Via Ironwake's transport records → the barrels → St. Pyotr's. (§5)
 4. **They still have the amulet, and they know what it's for.** One charge. In through the rift, out through the pentagram. Tell them in advance so they don't spend it in Chapter 11 (§6.1).
 5. **They've banked assets.** The §6 conversion table. Track it on one page.
-6. **The Church has taken a position.** Vozruk either sanctions this or hunts them for it. Decide before Chapter 8.
+6. **The Church has taken a position.** Vozruk either sanctions this or hunts them for it. *(Decision 55. Baltus's "latitude" in Ch7 is the first sign.)*
 7. **Level 10–11.**
 
 > 🍄 **And one thing that is NOT on this list, deliberately: Virgil's vaccine.** *(`Elizabeth and the Green.md` §10.)* Under the containment rule the pandemic is Brudda Death's placed ordnance and it only fires when the rift opens — **so a vaccine defuses it before the finale happens.** That is a second way to win, it does not require the Hecatomb, and it means the party can lose the fight and still save the world. **Do not put it on the critical path. Let Virgil's player find it.**
@@ -340,44 +260,19 @@ Seven things must be true before you can open the final chapter. Prep against th
 
 Three separate things have to reach the players, and the order matters: **the guitar first, Corbin second, the cosmology third.** Reveal the guitar and they *care*. Introduce Corbin and he becomes a rival for something they now own. Only then does the mana economy land, because by that point they have a stake in it.
 
-#### Beat 1 — the guitar wakes. Chapter 7, the night after Bramblefen. One scene.
+#### Beat 1 — the guitar wakes. ✅ Played, Chapter 7.
 
-Luthien plays for the freed men in the yard. Eighteen people who have just come out of cages, hearing music for the first time in years, and meaning it more than any tavern crowd ever has.
+Luthien played for the thirty freed at Bramblefen and saw a glowing woman with four arms, then six, at the edge of his sight. **He doesn't know who she was.** Wolfram saw the same woman through the tomb on Dol. **Let them compare notes on their own.**
 
-That is the purest act of genuine appreciation in seven chapters, and it is exactly what her vessels feed on. So the guitar answers. Keep it small and unmistakable: the bone goes warm under his hands, one note holds far longer than it should — and at the edge of the firelight, for half a second, Luthien sees a woman in a white gown with four arms, sitting and listening.
+#### Beat 2 — Corbin, in Solteres. Chapter 8.
 
-**It's the same woman Wolfram saw through the crack in the tomb.** Two PCs, five chapters apart, describing the same person. When they compare notes, your cosmic plot restarts by itself and you don't have to explain a thing.
+**Run him from `Corbin Wainwright and Orla Miller.md` and Ch8 plan §10.** He finds Luthien by the sound of the guitar. Warm, genuinely useful, and the first person to treat Luthien as an artist. He notices the guitar and doesn't reach for it. **Why he wants them** is §9 of his file: *they have seen her and he never has*, and his own allies hid Dol from him. He explains what the book leaves out — mana as an economy — and can date Vasant Panchami.
 
-This also teaches the rule without a lecture: *the trigger was an audience that meant it.* That's her whole economy, demonstrated instead of narrated.
-
-#### Beat 2 — Corbin, in Solteres. Chapters 8–9.
-
-He belongs there — a rising portraitist in a city of newly rich merchants who want to be painted. Ysabel's trial puts the entire merchant class in one room; he's in it, sketching.
-
-Play him **warm, and genuinely useful.** He is the first person in the campaign to treat Luthien as an artist rather than a jester, and he talks about work the way Luthien thinks about it. He should buy them dinner. He should have money and connections they need. He can even help them chase the cult — for his own reasons, which he does not share.
-
-Two things to plant at that first meeting:
-
-- **He notices the guitar.** He doesn't reach for it. He goes still, and asks — carefully, pleasantly — where it came from. Then he accepts whatever lie he's told, while very clearly not believing it.
-- ⚠⚠ **WHY HE WANTS THEM AT ALL — SETTLED: `Corbin Wainwright and Orla Miller.md` §9.** The guitar explains watching Luthien, not three chapters of generosity. **The engine is that THEY HAVE SEEN HER AND HE NEVER HAS** — and ⚠️ **his own allies have hidden Dol from him, because the bargain dies the night he finds out.** So the party holds the one fact that ends his deal, he courts them *because of it*, and **his motive is the mechanism of his own destruction.** He will paint her from their descriptions. He will refuse the Dol evidence twice before it breaks him. He also needs an **acquisition team** and an **intelligence probe he can aim at his own partners** — which is what *“for his own reasons, which he does not share”* below always meant. **His pitch: he admits heresy in stages**, betting that people the Church owns will not run to the Church. ⚠️ **Wolfram is the risk.**
-- ~~**He offers to read their book.**~~ ⚠️ **Superseded — JonLief already read it** on the road before Bramblefen and briefed the party *(see `What the Party Knows - The Book.md`)*. **Corbin's scene is better now:** he explains what the book leaves out — mana as an economy rather than a mystery — and he is visibly unsettled that four Penitents are walking around with a Church Watcher's manual that contradicts what the Church teaches. He can also date **Vasant Panchami** for them, which turns a footnote into a clock.
-
-**Which means Corbin teaches the party the cosmology he intends to use against them.** When they finally understand the rules of this world, they'll remember whose voice explained them. Nothing else you can do will make the reveal hurt more — so make him likeable for three chapters and let them find out afterwards that between meeting Fenna Pembrook and murdering her for the brush, he waited six months.
+**Which means Corbin teaches the party the cosmology he intends to use against them.** Make him likeable for three chapters and let them find out afterwards what he did to Fenna Pembrook.
 
 #### The roster
 
-Fix a small, finite number — five or seven — so the party gets a checklist and you get a dial. One per craft:
-
-| Vessel | Craft | Where it is |
-|---|---|---|
-| **The bone guitar** | Music | Luthien. Chapter 1. |
-| **The brush** | Painting | Corbin. Taken off Fenna Pembrook's corpse. |
-| **The shears** | Dressmaking | ✅ **Maelis Vire** — an elf enslaved in **Ysabel's dress house**, who has had them ~150 years and **knows what they do for her**. Bone-handled. *(`The Art-Items.md` §5.)* |
-| **The chisel** | Carving | ✅ **Sera Oleander** — taken by the buyers, now in the Herald's holding (Ch13). **Bosk Dunmar is the man who can RECOGNISE it**, if the party freed him. |
-| **The mask** | Theatre | ✅ **Orla Miller** — but she does not have it yet. **Corbin gives it to her**, and that is how he finally converts the woman who never believed him. *(`The Art-Items.md` §4.)* |
-| **The potter's rib** | Pottery | ✅ **Hanne Vetter — The Patient.** She has been feeding Saraswati from inside the Tormentors for years. *(`The Art-Items.md` §7.)* |
-
-⚠️ **SUPERSEDED Oct 2026 — the textile vessel is DRESSMAKING, not weaving, and your own timeline is why.** The weaving mill **doubled her margins**, which is exactly what vertical integration does and needs no explanation. The **dress house** made her *"better than anything else in the city"* and took her from wealthy to one of the wealthiest women in Solteres **in a single season** — that is the discontinuity. So the vessel is a pair of **bone-handled shears in the dress house**, held by **Maelis Vire**, an enslaved elf dressmaker. ⚠⚠ **And Ysabel is already running the Tormentors' selection procedure**: at Bramblefen she asked for seamstresses and then said *"some of the stock you do have may have worked as tailors — I want to inspect them,"* which is what Ashgate's buyers did to Sera Oleander when they asked to see her hands. **The party watched her do it.** ⏰ **And there is a clock with no villain pushing it:** she is ruined, she will sell workers to fund her defence, and she has no idea which one is making her money — a sale goes through Ironwake's trade into the Ashgate pipeline and puts a third vessel in the Herald's holding. *The Quest for the Sun-Petal* is **parked**, unattached, available if a later chapter wants it. **Full detail: `The Art-Items.md` §5.**
+**Source of truth: `The Art-Items.md`.** Six findable vessels, all her own bone: guitar (Luthien), brush (Corbin), mask (Orla, from Corbin), shears (Maelis Vire, Ysabel's dress house), chisel (Sera Oleander) and potter's rib (Hanne Vetter, the Patient) — the last two in the Herald's holding.
 
 #### What the vessels do in the last room
 
@@ -394,27 +289,27 @@ So the party can save the villain, and it isn't sentiment. It's the optimal play
 
 ## 9. Chapter map from here
 
-Roughly a level per chapter, milestone-paced. Adjust freely — the shape matters more than the count.
+Roughly a level per chapter, milestone-paced. **Chapter numbers are kept stable because other files refer to them.**
 
 | Ch | Working title | Level | Function |
 |---|---|---|---|
-| 7 | The Chained Coast (Bramblefen) | 3 → 4 | Prepped. Ends Act I. **Add:** the guitar wakes in the yard that night (§8.6), and the freed men are pointed at Ald's Star (§8.1a). |
-| 8 | Solteres — The Trial | 4 → 5 | Ysabel, the Juggernaut, the writ. The city arrives with all its teeth. **Corbin appears here** — sketching the trial. Warm, useful, notices the guitar. |
-| 9 | Solteres — Barney Soot | 5 | Rowan. The city's underside. Corbin fills the gaps the book left and dates Vasant Panchami — the party read it themselves back in Ch6/7. |
-| 10 | Ironwake | 5 → 6 | Act II boss. His ledgers give up the barrels. **The cosmic plot restarts here.** |
-| 11 | The Church Answers | 6 → 7 | Vozruk. The reckoning for their absence. They come out of it as the Crusade's Tormentor-cult hunters — or as fugitives. |
+| 7 | The Chained Coast (Bramblefen) | 3 → 4 | ✅ **Played.** `sessions/Chapter 7 - Record.md`. |
+| 8 | Solteres | 4 → 5 | **Now.** Rowan, Vaskar's commission, Ysabel's win and the forced marriage, the ledger's value, Corbin enters. *(Absorbs the old Ch8 trial and Ch9 Barney Soot — `Chapter 8 DM Notes - Planning.md`.)* |
+| 9 | The Road with Rowan | 5 | Rowan travels with them; one near-miss; JonLief chooses a guardian *(`What To Do With Rowan.md` §5)*. Corbin beats 2–3. Virgil's letter about the blood *(`The Barrel Trail.md` §10)*. The Maelis window closes here if the marriage went through. |
+| 10 | Ironwake | 5 → 6 | Act II boss. His transport records give up the casks and where they went. **The cosmic plot comes to the front.** |
+| 11 | The Church Answers | 6 → 7 | Vozruk. The reckoning for their absence — Crusade hunters, or fugitives. |
 | 12 | Underwood & the Coven | 7 → 8 | Virgil's capstone. Rift signs. `Yagas_Brew_5E.md` for the coven. |
-| 13 | The Herald | 8 → 9 | The cult cell that bought the women. Kill the herald from Chapter 4. Recover an art-item. |
-| 14 | The Old Man and the Hag | 9 → 10 | The Emperor explains the rules. Adephagia's offer, delivered by the woman they left behind. |
-| 15–17 | **Return of the Jailer** (Ald's Star → St. Pyotr's) | 10 → 11 | Act 1 investigation, Act 2 descent, the Hecatomb. |
+| 13 | The Herald | 8 → 9 | The holding east of Underwood: the Patient, the pale herald, ~60 women, **the chisel and the rib.** |
+| 14 | The Old Man and the Hag | 9 → 10 | The Emperor explains the rules. Adephagia's offer. |
+| 15–17 | **Return of the Jailer** (Ald's Star → St. Pyotr's) | 10 → 11 | Investigation, descent, the Hecatomb. |
 
-That's roughly a year and a half at a monthly cadence. **If that's too long**, compress by merging 8+9 into one Solteres chapter, delivering Underwood's resolution as a letter from Thaddeus rather than a chapter, and folding the Herald into Chapter 11 as the Crusade's first assignment. That gets you to the finale in six more chapters instead of ten.
+**If that's too long:** deliver Underwood as a letter from Virgil and Thaddeus rather than a chapter, and fold the Herald into Chapter 11 as the Crusade's first assignment.
 
 ---
 
 ## 10. Open decisions
 
-**Tracked in `sessions/Decisions.md` — items 55, 67, 71, 72.** When one is settled, write the ruling into this file as plain text.
+**Tracked in `sessions/Decisions.md` — items 50, 55, 67, 71, 72.** When one is settled, write the ruling into this file as plain text.
 
 ---
 
@@ -426,5 +321,7 @@ That's roughly a year and a half at a monthly cadence. **If that's too long**, c
 | 2026-08 | **DM corrections folded in.** Amulet is one charge, one-way (§6.1 rewritten — the constraint is better than the first draft and the finale is built around it now). Ald's Star grows into a boomtown via Chapter 7's freed men rather than being retconned (§8.1a, new). Vessels confirmed as always-planned; §3.1 reframed from "design fix" to "disclosure schedule," and §8.6 added with the reveal order, the roster, and Corbin's introduction in Ch8. |
 
 | 2026-10 | **Chapter 7 cleanup.** Ch7 prep archived; `sessions/Chapter 7 - Record.md` is the record. The Eighteen roster dropped (thirty survived; only Kesh, Bosk and Harl Crook kept, in `The Bramblefen Freed.md`). Denrick archived. §8.1a casting and §10.5 updated. *Rest of this file not yet reconciled with Ch7 as played.* |
+
+| 2026-10 | **Trimmed after Chapter 7.** Archived §§2–4 (pre-Ch7 review); added §2 design principles; updated canon, the spine, §5, §6 and §8 for Ch7 as played; §8.3 no longer routes Adephagia's offer through the Patient; §8.6 cut to beats and a pointer to `The Art-Items.md`; new §9 chapter map. |
 
 *Append a row here whenever play overtakes the plan.*

@@ -31,28 +31,24 @@
 
 **Use it as a deadline instead.** The moment the party walks that boy into a Church office, somebody applies the policy. So the party has until then — and they don't know how long that is.
 
-### ⚠️ And Baltus is the one who has to say it
+### ⚠️ And the apprentice is the one who has to say it
 
-> ✅ **SETTLED (13 Oct 2026): the APPRENTICE delivers it, not Baltus.** Baltus is not in Solteres. The apprentice passes the warning on and says plainly that **he has never seen it done himself — he has heard the stories from Baltus.** Use the quote below as what Baltus told him, relayed. Everything in "What this does" still applies, with one change: the apprentice is no longer a witness to his master looking away, he is the one choosing to repeat it to Penitents, which is the first time he takes their side over his order's paperwork.
+**Baltus is not in Solteres, so his apprentice says it — and says plainly that he has never seen it done himself. These are Baltus's stories.** Baltus Thole is a Shepherd, the policy is his order's to enforce, and he is also the man who was visibly, uncomplicatedly glad that Bramblefen went well. He told his apprentice this so it would be said.
 
-This is the best available version, and it costs you nothing to set up. **Baltus Thole is a Shepherd, the policy is his to enforce, and he is also the man who was visibly, uncomplicatedly glad that Bramblefen went well.**
+**What the apprentice relays** — Baltus's words, as Baltus said them to him:
 
-**He warns them.** He should not want to.
-
-> *"I'm going to tell you something and then I'm going to pretend I didn't.*
+> *"Don't take the boy to a Redeemer. Don't take him to an office, don't take him to a chapel, don't give his name to a clerk. A child with no guardian but a Penitent is an orphan, and orphans are raised by the Church, and that is written down somewhere in a hand very like mine.*
 >
-> *Don't take the boy to a Redeemer. Don't take him to an office, don't take him to a chapel, don't give his name to a clerk. A child with no guardian but a Penitent is an orphan, and orphans are raised by the Church, and that is written down somewhere in a hand very like mine.*
+> *I've carried that order out. Twice. I don't recall either of their faces, and I have tried.*
 >
-> *I've carried that order out. Twice."* (a pause) *"I don't recall either of their faces, and I have tried."*
->
-> *"So find him somewhere. Quickly. And don't tell me where."*
+> *So find him somewhere. Quickly. And don't tell me where."*
 
 **What this does:**
 
 - JonLief gets a deadline instead of a confiscation.
 - The Church stays menacing without becoming the villain of a chapter about a crime lord.
-- ⚠️ **Baltus gets the best scene he has had** — his charter and his decency pulling opposite directions, and him choosing decency by *looking away* rather than by disobeying. That is exactly the man.
-- **And the apprentice is standing right there**, hearing his master quietly decline to do his job. *(That is the new PC's first real data point about what this order is, and it should complicate him.)*
+- **The apprentice chooses to repeat it to Penitents.** It is the first time he takes their side over his order's paperwork, and his first real data point about what that order is. It should complicate him.
+- Baltus stays the man he is: decency by *looking away*, not by disobeying — and the party hears it secondhand, which makes it more believable, not less.
 
 ---
 
@@ -115,7 +111,7 @@ The Alchemical Order would take him. Marion is kind and childless. Virgil is *th
 
 **And as far as JonLief knows, Underwood is the single most dangerous place in the world for a child** — a village two years into a plague that turns people into plants.
 
-⚠️ **This is the Virgil/Rowan collision arriving three chapters early.** Virgil would want the boy there and would say so badly, and he would be right, and JonLief would be right to refuse. *(`players/Virgil.md` — Virgil now holds the vaccine path and Rowan is the only immune specimen in the world.)*
+⚠️ **This is the Virgil/Rowan collision arriving three chapters early.** Virgil would want the boy there and would say so badly, and he would be right, and JonLief would be right to refuse. *(`world_lore/Virgil.md` — Virgil now holds the vaccine path and Rowan is the only immune specimen in the world.)*
 
 **Use it if you want that fight now. Hold it if you want it to land in Act III.**
 

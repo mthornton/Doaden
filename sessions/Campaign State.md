@@ -3,7 +3,7 @@
 
 > ⚠️ **DM ONLY.** The single page of current truth. **Update it after every session** (and whenever a decision in `Decisions.md` changes the present). If this page and an older file disagree about the *present*, this page wins; if it disagrees with a chapter Record about *what happened*, the Record wins and this page is wrong.
 >
-> **Last updated:** 15 Oct 2026 — after Chapter 7, before Chapter 8 Session 1.
+> **Last updated:** 15 Oct 2026 — after Chapter 7, before Chapter 8 Session 1 (and the October file cleanup).
 
 ---
 
@@ -78,7 +78,4 @@
 
 ## Housekeeping — files known to be stale
 
-- `world_lore/The Blood of Saraswati.md` — still says she is chained under Dol and being harvested. She isn't *(The Barrel Trail §2)*.
-- `world_lore/Campaign Arc Plan.md` — the chapter map (§9) and §§3–4 predate Chapter 7 as played; Ch8 plan supersedes §9 for Chs 8–9.
-- `world_lore/Solteres.md` — typo pass still needed (Solares/Soleres, "illegae", "convected", "Ulfic").
 - `world_lore/The First Penitents.md` — still marked DRAFT.

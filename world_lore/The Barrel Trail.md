@@ -5,7 +5,7 @@
 >
 > **Companion to `The Ashgate Purchases.md`** — the two threads meet in §11.
 >
-> ⚠️ **This document resolves several things `The Blood of Saraswati.md` left open or stated wrongly** — see §3 and the note at the end. Treat this file as authoritative on dates, quantity and route; that file remains authoritative on the Bramblefen plant and the Penitent-blood thread.
+> **The one file on Saraswati's blood.** Dates, quantity, route, why Ironwake never looked (§12) and the Penitent-blood thread (§13). *(The older blood file was merged in here, Oct 2026.)*
 
 ---
 
@@ -89,7 +89,7 @@ The cult took her at **Vasant Panchami, spring 1124.** Chaining a god is not a n
 
 ## 5. 🚢 The route
 
-**The cult does not move its own freight.** It never has. **It pays the tariff like everybody else and ships boring.** *(`The Blood of Saraswati.md` §3.)*
+**The cult does not move its own freight.** It never has. **It pays the tariff like everybody else and ships boring.** *(§12.)*
 
 > **Dol Island → by ship up the coast → into the fen by water → BRAMBLEFEN → by cart on the east road → St. Pyotr's.**
 
@@ -222,6 +222,52 @@ Ironwake's wagon arrived with the Juggernaut a few weeks before the party did. T
 
 ---
 
+## 12. 🔥 Why nobody in Solteres noticed — and Ironwake's fear
+
+**The cult does not move it themselves.** A caravan of robed men hauling sealed casks draws exactly the attention they cannot afford, so they move it as contraband, through the channels that already exist, and pay the tariff like everybody else. **Lord Ironwake controls all illicit transport in and out of Solteres and taxes every shipment** — so the casks are in his records *(Arc Plan §5)*.
+
+### ⚠️ Handling the obvious objection
+
+**"Why would a cult tell a crime lord they have a god's blood?"** They wouldn't, and they didn't.
+
+- **Ironwake's business is not asking.** His men are paid for tonnage and route. A manifest says wine, oil, or tallow, and the tariff is assessed on weight, and nobody lifts a lid, because lifting lids is how a smuggling operation loses customers.
+- **The cult pays well and ships boring.** Regular consignments, standard casks, unremarkable destinations, a buyer name that means nothing. **Being ordinary is the whole disguise.**
+- **The safest place to hide freight is inside a system whose entire premise is not looking at freight.**
+
+### 🔥 But Ironwake is not stupid, and this is the lead
+
+He does not know what it is. **He knows something is wrong with it**, and he has known for a while, and he has decided very deliberately not to find out:
+
+- Casks that come in heavier than the manifest says they should.
+- A standing instruction, paid for at a premium, that these particular consignments are **not to be opened, not to be transferred, and not to be left overnight in a warm building.**
+- One dockhand who opened one anyway, four or five years ago. Ironwake will not say what happened to him. **He remembers the man's name and he will not say it.**
+
+> **So Ironwake has a fear-shaped hole where knowledge would be, and it is exactly the right kind of lead:** he has the *records* — dates, weights, destinations, the buyer name — and he has the *unease*, and he has never put the two together because putting them together is not profitable.
+>
+> **He also does not need to betray his client to be useful.** He can hand the party a ledger page and honestly say he has no idea what is in the barrels. Every word of that is true, and it blows the arc wide open.
+>
+> **And it makes him a better villain** — a man who has been paid, for years, to be the reason a god's blood crosses a continent, and has stopped sleeping well about it. *(Arc Plan §5 already says this. This file is why it is true.)*
+
+---
+
+## 13. 🩸 The open thread: the Penitents' blood
+
+**Do not resolve this yet.** When Vozruk's first team walked into the harvest in June 1126, four of them were chained above the tide line and **bled into the same casks**, a little at a time, over four days *(`The First Penitents.md`, `sessions/The Unit Before Us.md`)*.
+
+**The stated premise:** ordinary human blood has no power. **A Penitent's does** — because the Mark of Atonement is consecrated, and the brand makes the whole person a piece of live Church magic. That is the same fact the Shepherds' leash runs on. *(See `The Office of the Lost Flock.md`.)*
+
+### Three ways this can land — pick later
+
+| | The reason | What it costs, what it buys |
+|---|---|---|
+| **1** | **A tracer.** A few drops of Penitent blood in a cask makes the cask *findable*, by roughly the mechanism a Shepherd uses. The cult tags its own freight so it never loses a barrel. | **Cheapest and best.** It hands the party a way to hunt every remaining barrel in the world — **but only with a Shepherd's help, or a Penitent's blood, or both.** It makes the party's own brands an asset for the first time in the campaign. |
+| **2** | **Research.** The cult was studying the brand to learn how the Church tracks people — and has learned it. | **Nastiest.** It means someone other than the Office can feel this party at dawn, and it retroactively explains any pursuit you ever want. Use with care: it partly duplicates the Shepherds. |
+| **3** | **Nothing.** The blood has no power. They had the barrels, the chains, and the knives already out, and five people fell into their hands, so that is how they did it. | **Bleakest and entirely defensible.** It costs the plot nothing and it makes the cult worse. **If you never pull this thread, this is what it was.** |
+
+> **Recommendation: keep all three live until Chapter 9 or 10.** Nothing in the campaign currently depends on the answer, and option 1 is the one that turns a horror into a tool exactly when the party needs one. **Gimble is the only living witness to any of it**, which means Dave's character is holding a piece of the finale and does not know it.
+
+---
+
 ## Open decisions
 
-**Tracked in `sessions/Decisions.md` — items 18, 33–37, 39.** When one is settled, write the ruling into this file as plain text.
+**Tracked in `sessions/Decisions.md` — items 18, 33–40.** When one is settled, write the ruling into this file as plain text.

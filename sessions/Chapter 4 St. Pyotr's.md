@@ -1,4 +1,4 @@
-# Chapter 4 Sy Pytor
+# Chapter 4: St. Pyotr's
 
 ## A1: Front door 
 As you approach the entrance a sense of unease begins to grow.  Maybe you are just nervous? 

@@ -1,4 +1,4 @@
-# Chapter 3 Alds Star
+# Chapter 3: Ald's Star
 
 # Overview
 

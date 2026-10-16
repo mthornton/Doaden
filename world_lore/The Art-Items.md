@@ -3,6 +3,8 @@
 > **FINALISED October 2026.** This file is now the single source of truth for the roster. `Campaign Arc Plan.md` §8.6, `The Three Faiths.md` §6, `The Ashgate Purchases.md` §7 and `The Patient.md` §6 all defer to it.
 >
 > Background on why they exist: `Saraswati and Adephagia.md`. What they mean theologically: `The Three Faiths.md`.
+>
+> **Revised 15 Oct 2026:** how the party learns about the vessels is now §11 — **the Emperor names the shears at the turn of Chapter 8**, and Corbin becomes the second source rather than the first. This supersedes the reveal order in `Campaign Arc Plan.md` §8.6.
 
 ---
 
@@ -65,9 +67,9 @@ That is the entire strategy. Great work gets made, great work gets admired, **an
 | # | Item | Craft | Holder | Where it enters play | Status |
 |:--:|---|---|---|---|---|
 | 1 | **The bone guitar** | Music | **Luthien** | Ch1 — Finnian's armory | ✅ **In the party's hands.** He does not know. 🦴 **Largest single piece of her anyone has found.** |
-| 2 | **The brush** | Painting | **Corbin Wainwright** | Ch8 — Solteres | 🎯 Recoverable only in the finale |
+| 2 | **The brush** | Painting | **Corbin Wainwright** | Ch8 — Solteres; brief meeting in Session 1, the real one after the Emperor *(§11)* | 🎯 Recoverable only in the finale |
 | 3 | **The mask** | Theatre | **Orla Miller** | Ch8–10 — Solteres | 🎯 See §4 |
-| 4 | **The shears** | Dressmaking | **Maelis Vire** — elf, enslaved in **Ysabel's** dress house | Ch8–10 — Solteres | 🎯 See §5 |
+| 4 | **The shears** | Dressmaking | **Maelis Vire** — elf, enslaved in **Ysabel's** dress house | Ch8 — met in passing in Session 1; **named by the Emperor at the turn** | 🎯 See §5 and §11 |
 | 5 | **The chisel** | Carving | **Sera Oleander** → taken; now in the Herald's holding | Ch13 | 🎯 See §6 |
 | 6 | **The potter's rib** | Pottery | **Hanne Vetter** — The Patient | Ch13 | 🎯 See §7 |
 
@@ -153,6 +155,13 @@ She does **not** know about Saraswati, the Prison Realm, mana, or any of it. She
 
 > ⚠️ **This gives the party somebody to NEGOTIATE with instead of somebody to rescue** — and she will be sharper about her own situation than anyone they have met in a collar. **She will want to know what they are offering before she tells them anything**, and she is right to.
 
+### How the party meets her, and how they find out *(15 Oct 2026)*
+
+- **Chapter 8, Session 1, in passing.** Ysabel shows off the dress house the day her blackmail lands, and Maelis is at a bench in the workroom. One look, one line, nothing explained. *(Ch8 plan §10b.)*
+- **At the turn, the Emperor names her** — what the shears are, and that the wedding decides where Maelis goes. *(§11; Ch8 plan §10a.)*
+- ⚠️ **This is a deliberate exception to §1a's "do not point at it."** Five chapters of hints have not added up at the table, so **this one vessel is named outright.** The guitar is still only hinted, and the family resemblance between vessels is still the players' to notice.
+- ⚠️ **Corbin must not hear of her** — and from the turn on, **that secret is the party's to keep or leak**, not the DM's. *(Ch8 plan §10a, IF lines.)*
+
 ### ⏰ THE CLOCK — the marriage
 
 **Maelis's fate is tied to Ysabel's forced marriage** *(`sessions/Chapter 8 DM Notes - Planning.md` §3)*. Ysabel's blackmail cancels the trial, so she never needs to sell anyone. But **if she is married off, the dress house — and Maelis with it — passes to her husband, which means to Ironwake.**
@@ -219,7 +228,7 @@ Sara's dream-flashes are described in `Saraswati and Adephagia.md` as weak, uncl
 
 > 🔑 **So the party and the villain are hunting the same thing with the same information, and the party is ahead and does not know it.** Corbin is paying men to search the whole country for an art-item. There is one in the room with him, in the hands of a bard he just bought dinner for.
 
-**What he says in Ch8, and what he withholds:**
+**What he says at the second meeting — the one the party seeks out after the Emperor (late Ch8 or Ch9) — and what he withholds:**
 
 | He will say | He will not say |
 |---|---|
@@ -229,6 +238,8 @@ Sara's dream-flashes are described in `Saraswati and Adephagia.md` as weak, uncl
 | He can date Vasant Panchami, which turns a footnote into a clock | That he has researchers hunting the rest |
 
 ⚠️ **And the thing he does at that first meeting: he notices the guitar.** He does not reach for it. He goes still, and asks pleasantly where it came from, and accepts whatever lie he is told while very clearly not believing it. **Per §3 he cannot be certain** — a bone guitar is not proof, and Luthien could just be good. **But Corbin invented the discontinuity test, and Luthien is a walking discontinuity.** He will be back.
+
+> **Revised 15 Oct 2026 — that first meeting is all he does in early Chapter 8.** He asks about the guitar and leaves. The party hears second-hand that he was *"a nobody three years ago — painted tavern signs — and now half the city sits for him"*: tell one (§3), delivered as gossip. **The table above belongs to the second meeting**, which the party starts because the Emperor sends them. By then Corbin is a second source: he confirms the core and is wrong about his partners, about burning his canvases, and about being the only one hunting *(Ch8 plan §10)*.
 
 ---
 
@@ -251,11 +262,27 @@ Which puts the brush in the finale as an object rather than a symbol:
 |:--:|---|---|
 | 1 | Guitar | ✅ Held. Wakes in the Bramblefen yard, Ch7 night. |
 | 8–10 | **Mask** (Orla) | First one they can consciously go and get. Low stakes, teaches the rules. |
-| 8–10 | **Shears** (Maelis Vire, in Ysabel's dress house) | ⚠️ **On a clock — see §5.** Not a fight; a negotiation with a slave, and a race against her owner's bookkeeping. |
+| 8–10 | **Shears** (Maelis Vire, in Ysabel's dress house) | ⚠️ **On a clock — see §5.** Met in passing in Ch8 Session 1; **named by the Emperor at the turn** (§11). Not a fight; a negotiation with a slave, and a race against her owner's bookkeeping. |
 | 13 | **Chisel + rib** (the Herald's holding) | ⚠️ **Two at once.** |
 | Finale | **Brush** (Corbin) | The choice, not the loot. |
 
 ⚠️ **Chapter 13 carrying two is deliberate, and it fixes a problem.** Without this, the party's reason to assault the Herald's holding is revenge for a woman they abandoned in Chapter 4 — morally strong, tactically thin. **With it, that building holds a third of the win condition.** JonLief's conscience and Luthien's checklist point at the same door, which is how you get a whole table to agree on an assault.
+
+---
+
+## 11. 🗝️ How the party learns all this — the disclosure order *(15 Oct 2026)*
+
+**Supersedes `Campaign Arc Plan.md` §8.6's order (guitar → Corbin → cosmology).** The party has not been connecting hints on its own, so the vessels now get **said out loud**, by a source they can't easily dismiss, before Corbin gets to frame them.
+
+| Beat | When | Who | What the party gets |
+|:--:|---|---|---|
+| 1 | Ch7 ✅ | — | **The guitar wakes.** Luthien sees her at Bramblefen and doesn't know who she is. |
+| 2 | Ch8, Session 1 | Ysabel, gossip, Corbin | **The pattern, unexplained.** Maelis in passing; Ysabel's "best in a single season"; Corbin asks about the guitar and leaves; "a nobody three years ago." Three discontinuities in one day. |
+| 3 | Ch8, the turn | **The Emperor** | **The core, stated plainly:** she is alive and bled; she made tools out of herself; admiration feeds her; Maelis has the shears; the wedding sends Maelis east; find the painter, carefully; *(optional)* Luthien, ask when you started playing that well. *(Ch8 plan §10a.)* |
+| 4 | Late Ch8 or Ch9 | **Corbin**, second meeting | **The human version, partly wrong.** Mana as an economy; there is a set; he can date Vasant Panchami; *"You have seen her. I never have."* Wrong about his partners, his burned canvases, and being the only hunter. |
+| 5 | Later | Luthien's player | **The guitar.** Worked out, not told. |
+
+> 🔑 **The consistency rule.** The Emperor and Corbin agree on the core — **she is real, alive, held and drained; the vessels exist, are made of her, and make the gifted great; admiration feeds her.** They may disagree only on motives and on Corbin's specific mistakes. Two sources should confirm the core, not muddy it.
 
 ---
 

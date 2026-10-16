@@ -2,6 +2,8 @@
 ### DM planning notes — the shape of the chapter
 
 > **Supersedes `Campaign Arc Plan.md` §9's chapter table for Chapters 8 and 9.** Those are now one chapter. The trial does not happen the way the Arc Plan expected, because Ysabel was never detained at Bramblefen.
+>
+> **Revised 15 Oct 2026 — the cosmic side.** Corbin now comes in **two meetings** (§10): a brief one in Session 1 where he only asks about the guitar, and the real one later, which the party starts. **The Emperor returns at the turn** (§10a) and names the shears, what the vessels are, and what the wedding does to Maelis. **The party meets Maelis in passing** in Session 1 (§10b), so his news has a face attached.
 
 ---
 
@@ -113,7 +115,7 @@ So the plan is:
 |---|---|
 | ⚠️ **The people she owns transfer with the estate** | This is the hook that refuses them the easy satisfaction. **Her mills and warehouses are worked by non-human slaves.** If the marriage goes through, those people pass from a woman who thinks they are children to a man who thinks they are stock. **Letting her fall frees nobody. It sells them downstream.** She is repellent and she is still the better owner, and that should be genuinely uncomfortable for a party of branded non-humans to sit with. |
 | **Her household** | Perrin, Dov, Symon, Cael, Mina — five people this party was responsible for all last chapter. ⚠️ **Dov is property on Terms, bought at Bramblefen.** He transfers too. |
-| ✂️ **Maelis Vire and the shears transfer too** | **Her fate is tied to the marriage.** Ysabel's blackmail works and the trial is cancelled, so she never needs to sell anyone — **the marriage is the clock.** If it goes through, Maelis passes to Ironwake with the dress house — the man who *runs* the trade Ashgate buys from. **Stop the wedding and the shears stay in Solteres; let it happen and they are one bad quarter away from the Herald's holding.** *(`The Art-Items.md` §5.)* |
+| ✂️ **Maelis Vire and the shears transfer too** | **Her fate is tied to the marriage.** Ysabel's blackmail works and the trial is cancelled, so she never needs to sell anyone — **the marriage is the clock.** If it goes through, Maelis passes to Ironwake with the dress house — the man who *runs* the trade Ashgate buys from. **Stop the wedding and the shears stay in Solteres; let it happen and they are one bad quarter away from the Herald's holding.** *(`The Art-Items.md` §5.)* ✅ **They will know this before they choose:** they meet Maelis in passing in Session 1 *(§10b)*, and the Emperor names the shears at the turn *(§10a)*. |
 | **Ironwake gets stronger** | Mills, warehouses, ready cash, and a legitimate face. **Chapter 10's boss is measurably harder** because of a thing the party chose not to prevent. They can find that out later, and nobody needs to lecture them about it. |
 
 **Minor, but worth knowing:** Cobb's Ledger goes with her, and the first thing Ironwake does is burn it. **That costs the party nothing** — their lead is the Working Ledger, in their own pack. It costs Ysabel the only weapon she ever had.
@@ -233,7 +235,7 @@ So the plan is:
 
 | | |
 |---|---|
-| **Vaskar** | CR 5, 102 HP, AC 17. Relentless. **He will not die on principle and he never has.** Taking him alive is still worth more than killing him — and the party already knows it, having tried. |
+| **Vaskar** | CR 5, 102 HP, AC 16 *(stat block: `world_lore/Vaskar the Brand.md`)*. Relentless. **He will not die on principle and he never has.** Taking him alive is still worth more than killing him — and the party already knows it, having tried. |
 | **Two of Ironwake's professionals** | The six who came with Mott are dead; these are the next tier up. **Ironwake Thug, CR 1/2** — or better, one real duellist. |
 | **A tracker** | How Vaskar finds people in a city he does not live in. Give him a face and a reason to be bought off. |
 | ❌ **No champion** | ✅ **Ironwake has NOT replaced the Juggernaut.** He does not need one — the trial is cancelled and he is occupied with the marriage. **There is no monster in this chapter**, and that is deliberate: it keeps the climax a negotiation the party can actually win. |
@@ -268,8 +270,8 @@ So the plan is:
 | **Before they arrive** | On the road with Ysabel | Reaches Solteres. Finds Soot. **Takes Rowan.** |
 | **Arrival** | Ysabel vouches them in. The city is enormous and indifferent. | Watching the gates. He knows who to look for. |
 | **Days 1–2** | Find Soot. Learn they are late. Get a description. | Lets them look. **He wants them coming to him.** |
-| **Days 2–4** | Ysabel's blackmail lands. **Trial cancelled.** Celebration. | Prepares to take Ysabel. |
-| **The turn** | ⚠️ **Ysabel disappears.** Access gone, boy gone, city hostile. **And then they learn there is a wedding, and a date.** | Has both pieces Ironwake asked for. Now he only needs the heads. |
+| **Days 2–4** | Ysabel's blackmail lands. **Trial cancelled.** Celebration — she shows off her dress house *(**Maelis, in passing**, §10b)*; Luthien plays and **Corbin comes to ask about the guitar** *(§10)*. | Prepares to take Ysabel. |
+| **The turn** | ⚠️ **Ysabel disappears.** Access gone, boy gone, city hostile. **And then they learn there is a wedding, and a date.** **That night, the Emperor** *(§10a)*: the shears, what the vessels are, and what the wedding does to Maelis. | Has both pieces Ironwake asked for. Now he only needs the heads. |
 | **The climax** | **Get the boy back, decide about the wedding, and survive a man who has to kill them.** | **Demands the book. Needs five heads. Has no third option — unless the party gives him one.** |
 
 > **Do not let Vaskar ambush them in the street.** His contract requires live delivery of two people. **He fights where and when he chooses, and he would rather not fight at all** — he will send a message, name a place, and offer terms. The party walking into that knowingly is a much better session than being jumped.
@@ -348,6 +350,18 @@ He cannot win and he knows it. **What he has left to sell is where the barrels w
 
 **That makes the guitar the cause rather than a coincidence**, and it means the cosmic plot walks up to the party because of something a player chose to do.
 
+### ⚠️ Two meetings, not one *(revised 15 Oct 2026)*
+
+**The first meeting is brief, in Session 1, and he tells them almost nothing.** He asks about the guitar — where it came from, how long Luthien has had it, whether he has always played like that — accepts whatever lie he is told, pays for a round, and goes. That is all of it.
+
+**What the party gets instead is gossip.** Someone in the room — Ysabel, a patron, the landlord — knows exactly who that was:
+
+> *"That was Wainwright. Corbin Wainwright. Three years ago he was painting tavern signs — a nobody. Now half the city sits for him and the other half can't get on his list."*
+
+That is **tell one** from `The Art-Items.md` §3 — a career that outruns a life — handed over as small talk. Next to Ysabel's *"best in the city within a season"* and Luthien's own improvement, it is the third instance of the same pattern. **A sharp player may have it before anyone explains it.** Don't point at it.
+
+**The second meeting is the real one, and the party starts it.** The Emperor *(§10a)* tells them there is a painter in the city who "knows more of this than I can afford to tell you, and less than he believes." **Beats 2, 0 and 3 below happen then** — late in this chapter or on the road in Chapter 9, depending on pace. By then Corbin is not their first teacher. He is a second source who confirms the Emperor in part, is wrong in places *(below)*, and is hunting the very thing they now know about.
+
 ### What he is
 
 - **A working artist in a city that has been quietly losing its artists.** He is one of the few still painting, he works fast, and ⚠️ **he burns his best canvases.** *(See `Corbin Wainwright and Orla Miller.md`.)*
@@ -357,7 +371,7 @@ He cannot win and he knows it. **What he has left to sell is where the barrels w
 
 ### What he gives the party, and in what order
 
-**Do not let him deliver a cosmology lecture.** Three beats, spread across the chapter:
+**Do not let him deliver a cosmology lecture.** Beat 1 is the first meeting; the rest belong to the second:
 
 | | |
 |---|---|
@@ -366,7 +380,15 @@ He cannot win and he knows it. **What he has left to sell is where the barrels w
 | ⚠⚠ **0 — WHAT HE ACTUALLY WANTS** | **THEY HAVE SEEN HER AND HE NEVER HAS.** `Corbin Wainwright and Orla Miller.md` §9. Years of dreams, never a glimpse — and Wolfram looked into that tomb on Dol, Gimble can corroborate. ⚠️ **His allies hid Dol from him; the bargain dies the night he learns of it.** He courts the party for the one thing that will destroy him. **He asks Wolfram and Gimble separately and compares.** 🖼️ **He paints her from their descriptions — run that scene.** And he needs an acquisition team and a probe he can aim at his own partners. **Pitch: he admits heresy in stages, ending on “You have seen her. I never have. Tell me.”** ⚠️ **Wolfram may report him. Do not resolve it.** |
 | **3 — What she is** | What the party already read in the book, confirmed by somebody who has *spoken* to her: she is alive, she is held, and she is being drained. **He wants her out. That is his whole motive and it is sympathetic.** |
 
-> ✂️ ⚠️ **AND THERE IS A SECOND VESSEL IN THIS CITY, IN YSABEL'S DRESS HOUSE.** A pair of bone-handled shears held by **Maelis Vire**, an enslaved elf dressmaker — and **if the forced marriage goes through, Maelis passes to Ironwake with the estate**, which puts the shears into his trade and then the Ashgate pipeline. ⏰ **The wedding is the clock** *(§3)*. *(`world_lore/The Art-Items.md` §5, `world_lore/Solteres.md`.)* ⚠️ **Corbin must not find out.** He is paying researchers to hunt exactly this; if he hears a rumour about a dress house that got too good too fast, he will get there first, and the party will learn what he did to Fenna Pembrook the hard way.
+### Where Corbin is wrong — and doesn't know it
+
+- **He thinks his partners want her free.** They want her drained *(`Corbin Wainwright and Orla Miller.md` §9)*.
+- **He thinks burning his best canvases protects her.** It starves her — appreciation is her only food.
+- **He thinks he is the only one hunting vessels.** Ashgate's buyers have been harvesting holders for thirty-eight years without knowing it *(`The Art-Items.md` §6)*.
+
+> 🔑 **The consistency rule:** the Emperor and Corbin may disagree on **these**, and on motives. They agree on the core — **she is real, alive, held and drained; the vessels exist, are made of her, and make the gifted great; admiration feeds her.** A confused party should come out of two sources with the core confirmed twice, not contradicted.
+
+> ✂️ ⚠️ **AND THERE IS A SECOND VESSEL IN THIS CITY, IN YSABEL'S DRESS HOUSE.** A pair of bone-handled shears held by **Maelis Vire**, an enslaved elf dressmaker — and **if the forced marriage goes through, Maelis passes to Ironwake with the estate**, which puts the shears into his trade and then the Ashgate pipeline. ⏰ **The wedding is the clock** *(§3)*. *(`world_lore/The Art-Items.md` §5, `world_lore/Solteres.md`.)* ⚠️ **Corbin must not find out.** He is paying researchers to hunt exactly this; if he hears a rumour about a dress house that got too good too fast, he will get there first, and the party will learn what he did to Fenna Pembrook the hard way. ⚠️ **After §10a the party holds this secret, not you.** If they mention Maelis or the shears to him, let it work — see the IF lines in §10a.
 
 ### What he withholds
 
@@ -374,7 +396,7 @@ He cannot win and he knows it. **What he has left to sell is where the barrels w
 
 **And he cannot explain the artists.** He knows they are going. He does not know where, and he is frightened, and he has not left the city — which is its own tell.
 
-> 🔑 **The best single thing Corbin can do in Chapter 8: tell Luthien that what he saw at Bramblefen was real, and that it has a name.** That is the first time anyone has confirmed anything cosmic to this party's face, and it costs you one conversation.
+> 🔑 **The Emperor is now the first to confirm anything cosmic to this party's face** *(§10a)*. **Corbin's job in the second meeting is the human version:** he has *spoken* to her, he believes in her, and he wants to know what she looked like.
 
 ### And the connective tissue you get for free
 
@@ -384,23 +406,86 @@ He cannot win and he knows it. **What he has left to sell is where the barrels w
 
 > **He is a target and does not fully know it.** The party can work that out before he does.
 
+## 10a. 👴 The Emperor at the turn *(added 15 Oct 2026)*
+
+**When:** the night of the turn *(§8)* — Ysabel gone, the wedding date known, **before the party has decided what to do about it.** ⚠️ **Not at the end of the chapter.** Maelis's fate rides on the wedding; if they learn about the shears after they have chosen, the reveal only says *you could have known.* At the turn it makes the Ysabel decision a real dilemma with information on both sides.
+
+**Why he comes now:** a vessel is about to pass into Ironwake's trade, and from there east, to where the women went. **That is what makes him spend what he has.** He is not here to explain the world; he is here because something is about to be lost, and explaining is the price of being heard.
+
+**How it looks:** as at the Calf and Ass — he is simply there, and nobody else in the room can see him. ⚠️ **This time he speaks first and does not wait for questions.** The last visit stalled because the party had to ask. He is fainter than at the Inn, fainter again by the end, and **he does not finish his last sentence.** Let them see what it costs.
+
+> **Read-aloud —** The chair at the end of your table was empty a moment ago. It isn't now. The old man from the Calf and Ass is sitting in it, and he is harder to see than he was then — like someone behind a window in the rain. Nobody else in the room looks your way. He doesn't wait for you to speak.
+>
+> *"I thanked you once. I can't afford to do it twice. So listen."*
+
+### What he tells them — unprompted, in this order
+
+| # | He says *(paraphrase; play it in his voice)* | Answers *(`Player Open Questions.md`)* |
+|:--:|---|---|
+| 1 | **The woman in the tomb on Dol is real.** Alive, chained, bled. The barrels are her. | *The woman with too many arms — where is she now?* · *The blood — who was the barrel waiting for?* |
+| 2 | **Before they took her, she made tools for makers — out of herself.** They make the gifted great. When people love what is made, that love reaches her. **It is all she has had to eat for five hundred years.** | *Who was the glowing woman Luthien saw?* (in part) |
+| 3 | **You have met one.** *"The elf at the back of the Rochefort house. Her shears. Ask how a dress house became the best in the city in a single season."* | — *(new: gives Ysabel's boast a meaning)* |
+| 4 | **If the wedding happens, the house goes to Ironwake, and the elf with it. Ironwake sells east. You know who buys there.** | *The scarred men — why only women?* · *What were they looking for that Erwana didn't have?* |
+| 5 | *"There is a painter in this city who knows more of this than I can afford to tell you, and less than he believes. Find him. **Be careful what you give him.**"* | Sends them to Corbin *(§10, second meeting)* |
+| 6 | ⭐ *Optional, recommended.* To Luthien, already fading: *"And you — ask yourself when you began to play that well."* | Hints the guitar. ⚠️ **He never says it is one.** Luthien's player gets there himself. |
+
+### What he does not say
+
+- **Who he is.** If pressed: *"Someone they still pray for."* — and let *may he rise again* do the rest, or not.
+- **What Corbin did** to Fenna Pembrook, or that Corbin made a bargain.
+- **Brudda Death, the Hecatomb, the rift.** Not his to spend tonight.
+- **How many vessels there are.** He does not know either *(`The Art-Items.md` §2)*.
+- **Anything about Rowan.** That is the party's to finish.
+
+⚠️ **This scene commits you to two things about him** — he knows what the vessels are, and he fears Ironwake's trade. Both fit Arc Plan §7's old-god proposal. **Write his file before you run this** *(Decision 67)*.
+
+### IF lines
+
+- **IF the party goes for Maelis directly** — she negotiates; she wants to know what they are offering before she tells them anything *(`The Art-Items.md` §5)*. Freeing her is both the right answer and the optimal one.
+- **IF the party rescues Ysabel to keep the house intact** — they are saving a slaveholder to save a slave. Let them be unhappy about it. Maelis stays where she is; the shears stay in Solteres.
+- **IF the party lets the wedding happen and leaves Maelis** — the clock starts. Their last window is Chapter 9 *(`The Art-Items.md` §5)*.
+- **IF the party takes the shears off her** — allowed, and ugly. Don't stop them.
+- **IF they tell Corbin about Maelis or the shears** — he moves first. ⚠️ **Decide before the second meeting what he does.** *Recommended:* he tries to buy her, lawfully, from whoever holds the house — and if he can't, that is where the Fenna story starts to repeat.
+- **IF the party does nothing** — the wedding happens on schedule and Maelis transfers. **The Emperor does not come back to say it twice.**
+
+---
+
+## 10b. ✂️ Maelis, in passing *(added 15 Oct 2026)*
+
+**Purpose:** when the Emperor says *"the elf at the back of the Rochefort house,"* they already have a face. **That is all this scene is for.**
+
+**When:** Session 1, the day the blackmail lands. Ysabel is triumphant and wants an audience, so she walks her "staff" through the dress house to show them what she has saved. *(Branded non-humans can't go anywhere in Solteres alone — as her staff, they can.)*
+
+**What they see:** front of house — gowns on stands, a merchant's wife being fitted, Ysabel talking. Through a door, the workroom: a dozen women at benches. **One elf, older than she looks, cutting silk with bone-handled shears that look new.**
+
+**Ysabel**, talking over her: *"My best girl. Best house in the city within a single season — do you know how long the old houses took to manage that? I have an eye."* She does not notice that she is taking credit for someone else's hands. **Neither should you.**
+
+**Maelis:** one line, and only if spoken to. Asked how long she has sewn: *"Longer than this house has stood."* She looks once at JonLief — an elf in a collar, an elf with a brand — and goes back to work.
+
+**Optional tell:** a player with a craft background notices the handles are bone and unworn *(`The Art-Items.md` §1a)*. Say what they see. Don't say what it means.
+
+**Don't:** let her talk long, let Ysabel notice anything, or put Corbin in this scene.
+
+---
+
 ## 11. The shape of it
 
 **More than two sessions — how many depends entirely on what the party does.** Read the two blocks below as phases, not a schedule.
 
 **Session 1 — the city, and the hunt that is already lost.**
-Arrival and Ysabel vouching them in. Gimble learning what he is here. Barney Soot, and being late. The description of the heavy older man. Ysabel's blackmail landing and the trial dying. **End on her triumph** — a good night, a real win, everyone pleased.
+Arrival and Ysabel vouching them in. Gimble learning what he is here. Barney Soot, and being late. The description of the heavy older man. Ysabel's blackmail landing and the trial dying. Ysabel showing off the dress house — **Maelis in passing** *(§10b)*. Luthien playing, and **Corbin coming over to ask about the guitar** *(§10)*. **End on her triumph** — a good night, a real win, everyone pleased.
 
 **Session 2 — the turn, the book, and the bodies.**
-Ysabel gone, and a date on a piece of paper. The party cut off from every door her name opened, falling back on the brand and finding out what that costs. **Then Vaskar names a place and asks for a book they had forgotten they were carrying.**
+Ysabel gone, and a date on a piece of paper. The party cut off from every door her name opened, falling back on the brand and finding out what that costs. **That night, the Emperor** *(§10a)* — the shears, what they are, what the wedding does to Maelis, and a painter worth finding. **Then Vaskar names a place and asks for a book they had forgotten they were carrying.**
 
-**Three things are on the table and they are separable:**
+**Four things are on the table and they are separable:**
 
 - **Rowan.** Non-negotiable, and the heart of it.
 - **Ysabel.** ⚠️ **Declinable** *(§3)*. If they go for her, the wedding has five soft points — ceremony, groom, priest, register, Vaskar — and they only need to break one.
+- **Maelis and the shears.** *(§10a.)* **Separable from Ysabel** — they can go for Maelis and let the wedding happen, or save Ysabel partly to keep the house intact.
 - **Their own heads.** *(§8a.)* **Aim at the fen. Be ready for the fight.**
 
-**Out of it, the party needs:** Rowan, a way to stop being hunted, and a lead that points at **either the women or the barrels** — because that is what they told Baltus they would do, and Chapter 10 is Ironwake. **Corbin is how the cosmic half of that lead arrives** *(§10)*.
+**Out of it, the party needs:** Rowan, a way to stop being hunted, and a lead that points at **either the women or the barrels** — because that is what they told Baltus they would do, and Chapter 10 is Ironwake. **The Emperor, and then Corbin, are how the cosmic half of that lead arrives** *(§10a, §10)*.
 
 ---
 

@@ -246,7 +246,9 @@ So the plan is:
 
 ---
 
-## 7. 🧍 The apprentice — onboarding the new PC
+## 7. 🧍 Cassian Zev — onboarding the new PC
+
+**Channing's character: Cassian Zev**, human Swashbuckler 3 / Hexblade 1, raised in the Church, devout, certain, and determined to be remembered *(`players/Cassian Zev.md`)*. ⚠️ **His orders include reporting back to the Church on the party, and he sees no contradiction in that.** The party will find out eventually; plan for the moment they do.
 
 **He is not a Penitent, and that is his whole value in this city.**
 
@@ -257,7 +259,7 @@ So the plan is:
 - **He delivers the warning about Rowan.** Baltus is not in the city, so the apprentice says it, and says plainly that **he has never seen it done himself; these are Baltus's stories.** *(`What To Do With Rowan.md` §2.)* A secondhand warning from someone who clearly believes it is its own kind of frightening, and it is the first time the apprentice tells the party something about his own order that his order would rather he didn't.
 - **He has not been taught the severance rite.** He does not have the thing that could free his friends. **That is his arc, not this chapter.**
 
-⚠️ **Still needed before session 1:** name, backstory, and a reason he personally cares about going into Solteres. Ask the player for the third one — it is the one that makes him a character rather than an escort.
+⚠️ **Still needed before session 1:** a reason he personally cares about going into Solteres *(Decision 1)*, and who his warlock patron really is *(Decision 73)*.
 
 ---
 
@@ -418,6 +420,12 @@ That is **tell one** from `The Art-Items.md` §3 — a career that outruns a lif
 >
 > *"I thanked you once. I can't afford to do it twice. So listen."*
 
+### ⚠️ Cassian is at the table — and he knows this man
+
+**The old man is Cassian's warlock patron**, and has appeared to him in this same form as **Bishop Osric, "the Emperor's top bishop"** *(`world_lore/The Emperor.md`)*. So in this scene **Cassian recognises "the bishop" and the party recognises the man from the Inn — and neither side knows the other has met him.** Nobody else in the room can see him, which Cassian will notice for the first time.
+
+**How he handles it is Decision 76.** Recommended: **he keeps the cover, briefly and warmly** — a nod, *"Brother Zev"*, nothing more — and gets on with what he came to say. The party hears a holy man greet their Church minder by name; Cassian hears his bishop speak to Penitents as equals. **The contradiction is for the party to notice afterwards**, especially if he answers *"someone they still pray for"* when pressed about who he is. ⚠️ He must not drop the cover here: Cassian finding out the truth is a far bigger scene than this one, and it isn't tonight.
+
 ### What he tells them — unprompted, in this order
 
 | # | He says *(paraphrase; play it in his voice)* | Answers *(`Player Open Questions.md`)* |
@@ -431,13 +439,13 @@ That is **tell one** from `The Art-Items.md` §3 — a career that outruns a lif
 
 ### What he does not say
 
-- **Who he is.** If pressed: *"Someone they still pray for."* — and let *may he rise again* do the rest, or not.
+- **Who he is.** If pressed: *"Someone they still pray for."* — which is bitter, because *may he rise again* is now prayed for Emperor Fredric *(`world_lore/The Emperor.md` §4)*. Let it land, or not.
 - **What Corbin did** to Fenna Pembrook, or that Corbin made a bargain.
 - **Brudda Death, the Hecatomb, the rift.** Not his to spend tonight.
 - **How many vessels there are.** He does not know either *(`The Art-Items.md` §2)*.
 - **Anything about Rowan.** That is the party's to finish.
 
-⚠️ **This scene commits you to two things about him** — he knows what the vessels are, and he fears Ironwake's trade. Both fit Arc Plan §7's old-god proposal. **Write his file before you run this** *(Decision 67)*.
+⚠️ **This scene commits you to two things about him** — he knows what the vessels are, and he fears Ironwake's trade. Both fit Arc Plan §7's old-god proposal. His file is `world_lore/The Emperor.md` — it confirms both: he needs Saraswati free to check Adephagia.
 
 ### IF lines
 

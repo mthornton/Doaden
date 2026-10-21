@@ -10,6 +10,7 @@
 
 | File | Covers | Status |
 |---|---|---|
+| `The Emperor.md` | **The God Emperor is an Old God**, nearly starved since the Apocalypse, trying to rise again; helps free Saraswati to check Adephagia. The old man at the Inn; **secretly Cassian's patron as Bishop Osric.** | Settled · **secret** |
 | `Doaden - World Rules.md` | Setting-wide facts: coming of age at 15, the Church apprenticing orphans, Stock and Terms, the calendar. | Settled |
 | `Campaign Arc Plan.md` | The road from Ch8 to the finale: thematic spine, design principles, thread ledger, chapter map, the *Return of the Jailer* reskin, the win condition. | Proposal · trimmed after Ch7 |
 | `The Three Faiths.md` | **Read before touching the cosmic plot.** Saraswati (secret congregation), Adephagia (the Tormentors' patron, wants a *brief* Aspect), the Tormentors (want permanent convergence), and the Church as battlefield. | Settled |

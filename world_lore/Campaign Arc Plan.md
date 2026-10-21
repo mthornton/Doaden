@@ -143,23 +143,11 @@ That is not a convenience. That is the last scene of your campaign:
 
 ---
 
-## 7. The Emperor — a proposal
+## 7. The Emperor
 
-The old man at the Inn is currently a TODO, and he's your riskiest loose piece, because an unexplained all-powerful figure who thanks the party is one step from a deus ex machina.
+✅ **Settled by the DM, Oct 2026 — `The Emperor.md` is the source of truth.** In short: **he is an Old God** who conquered the others by being the only one to understand people, building a religion that tolerated no rival. **The Apocalypse nearly killed him**; humans took over the Church in his name, the worship stopped reaching him, and he has spent a thousand years recovering on a trickle. **He wants to rise again.** He helps free Saraswati **to check Adephagia**, whose growth would end his hopes for good. He is **Cassian's patron, as "Bishop Osric."**
 
-Your own lore already solves him. Old gods run on worship-mana. The Cult of Azerai worshipped the First Emperor **as a god**. The Church of Azerai has, today, millions of worshippers across four dioceses and is the only legal faith in the world.
-
-> **The Emperor is an old god, and the Church of Azerai is the largest mana engine in Doaden — and it is pointed at an abstraction instead of at him.**
-
-That gives you:
-
-- **Why he's unseen for a thousand years.** The Demoncore detonated in his capital. Whatever it did to him, he came out of it barely present — and the Church that had worshipped him rebuilt itself around a god with no face, with an Ecclesiarch on the throne. Every prayer in the Empire goes to a name that isn't quite his.
-- **Why nobody can perceive him.** He can afford almost nothing. Being seen by four people cost him something.
-- **Why "May he rise again" is everywhere.** It's the one scrap of real worship left, said by villagers who have no idea what they're maintaining. Every peasant who says it is feeding him a crumb.
-- **Why he's surfacing now.** A Brudda Death coming through into Doaden would take the one thing he still has: people.
-- **Why he can't just fix it.** He is the weakest interested party in the room. He can point, warn, and thank. That's the entire budget.
-
-He should appear two or three more times before the finale, each time slightly more solid, and he should **never** solve a problem. His function is to explain the rules — the mana economy, what the Prison Realm actually is, what freeing Sara would cost — and to leave. If he does anything in the last chapter, make it one action that costs him everything he's saved for a thousand years, and make the party spend the rest of the campaign not knowing whether he survived it.
+**Staging (still a proposal):** he should appear two or three more times before the finale, each time slightly more solid, and he should **never** solve a problem. His function is to explain the rules and to leave. If he does anything in the last chapter, make it one action that costs him nearly everything — and remember that **his help has a ceiling**: he wants Saraswati free, not strong enough to rival him.
 
 Leave him open. This is your next campaign.
 

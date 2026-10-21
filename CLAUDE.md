@@ -75,12 +75,12 @@ A live D&D 5e game set in **Doaden**, using the **Path of Penitence** framework 
 ### The party
 | PC | Player | File | Notes |
 |---|---|---|---|
-| **JonLief** | JE or Channing *(unconfirmed)* | `players/JonLief.md` | Elf; exiled noble; wife **Elizabeth** (dead), son **Rowan** (sold). |
+| **JonLief** | JE | `players/JonLief.md` | Elf; exiled noble; wife **Elizabeth** (dead), son **Rowan** (sold). |
 | **Luthien Veynar** | Tyler | `players/Luthien Veynar.md` | Half-elf bard; stolen bone guitar (a Saraswati vessel — he doesn't know). |
 | **Wolfram Eisenherz** | Todd | `players/Wolfram Eisenherz.md` (+ original PDF) | Human paladin, Oath of Devotion, of **Westfield, Western Diocese**; killed Bishop Thurstan. |
 | **Gimble Beren** | Dave | `players/Gimble Beren.md` | Gnome ranger; Penitent; sole survivor of the first Dol team. **Dave writes Gimble's personal backstory; the Dol events are the DM's.** Don't write stats. |
-| **Baltus's apprentice** | Virgil's former player | `players/Baltus's Apprentice.md` | Unbranded Shepherd's apprentice. **Name and backstory TBD.** |
-| *Virgil* | — | `world_lore/Virgil.md` | **NPC since end of Ch7**, with Thaddeus at Underwood. |
+| **Cassian Zev** | Channing | `players/Cassian Zev.md` (+ `.txt`, `.pdf`) | Human Swashbuckler 3 / Hexblade 1; Baltus's unbranded apprentice. Devout, certain, wants to be remembered. Joins at the table in Ch8. |
+| *Virgil* | *(was Channing)* | `world_lore/Virgil.md` | **NPC since end of Ch7**, with Thaddeus at Underwood. |
 
 **Level 4** as of the end of Chapter 7. Update `Campaign State.md` when they level.
 
@@ -105,7 +105,7 @@ Chapter number ≠ session count — one chapter can take several sessions. **Fr
 The Timeline, Chronicle and Player Open Questions hold **only what the party witnessed or was told**. Keep out, among others:
 - **Elizabeth's bargain with Brudda Death** and **Rowan's immunity** (`Elizabeth and the Green.md`).
 - **That the guitar is a Saraswati vessel**, the vessel roster, and the bone (`The Art-Items.md`).
-- **Who the Patient became** (`The Patient.md`) and **who the old man at the Inn is** (the Emperor).
+- **Who the Patient became** (`The Patient.md`), **who the old man at the Inn is** (the Emperor), **that the Emperor is an Old God**, **that he is Cassian's patron**, and **that the Fredric line was never chosen and secretly funds life-extension magic** (`The Emperor.md`). The public Fredric doctrine itself is common knowledge. Cassian's own file holds only the bishop cover story.
 - **That the party ended the harvest**, and the cask count (`The Barrel Trail.md`).
 - **What Vaskar is hiding from Ironwake** (Ch8 plan §2–3a), and Corbin's crimes and bargain.
 - Anything marked DM ONLY. When in doubt, check the Record for whether the party actually saw it.

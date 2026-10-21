@@ -1,6 +1,6 @@
 # Old Gods
 
-The Old Gods are not really gods.  They are very powerful beings with an unknown origin.  They have been around as far back as history started.  They are not immortal, but close.  They live as long as they have mana and they must willingly use mana to perform magic. 
+The Old Gods are not really gods.  They are ancient creatures of a single race whose name is lost to time — never numerous — that feed on the worship of others until, next to people, they seem to be gods.  They have been around as far back as history started.  They are not immortal, but close.  They live as long as they have mana and they must willingly use mana to perform magic. 
  
 Mana is accumulated by the act of a follower worshiping them.  The more devote the more mana is generated.  However, the amount of mana a single person generates is miniscule.  A god need tens of thousands worshiping them in earnest to be a real power. 
  

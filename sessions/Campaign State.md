@@ -16,17 +16,17 @@
 | **Where** | Bramblefen, about to leave for **Solteres, two days off.** |
 | **Level** | **4** (5 PCs). Thresholds: Easy 625 / Medium 1,250 / Hard 1,875 / Deadly 2,500. **Deliberately unbalanced.** |
 | **Next session opens with** | JonLief reading the Working Ledger: **Barney Soot, chimney sweep, Solteres.** |
-| **Before Session 1** | Decisions 1–8 in `Decisions.md` — above all **the apprentice** (name, backstory, stake). |
+| **Before Session 1** | Decisions 1–7 and 74–76 in `Decisions.md` — Cassian's stake in Solteres first. The Emperor's file is ready for §10a. |
 
 ## The party
 
 | PC | Player | State |
 |---|---|---|
-| **JonLief** | JE or Channing | Elf. Knows Elizabeth is dead and burned; has stood over her bones. Rowan is the priority. Read *Myths of the Old Gods*. |
+| **JonLief** | JE | Elf. Knows Elizabeth is dead and burned; has stood over her bones. Rowan is the priority. Read *Myths of the Old Gods*. |
 | **Luthien Veynar** | Tyler | Half-elf bard. **Saw a glowing woman with four, then six arms** while playing at Bramblefen — doesn't know who. The guitar keeps getting better. |
 | **Wolfram Eisenherz** | Todd | Paladin, Oath of Devotion. Held the party to its word with Vaskar. Anselm told him the Bishop never recorded his reasons. |
 | **Gimble Beren** | Dave | Gnome ranger. Penitent; sole survivor of the first Dol team. Freed in Session 3. |
-| **Baltus's apprentice** | Virgil's former player | **Unbranded**, free, Church-sanctioned. **Name and backstory TBD.** |
+| **Cassian Zev** | Channing | Human Swashbuckler/Hexblade, Baltus's **unbranded** apprentice. Free, Church-sanctioned — and **under orders to report on the party.** Joins at the table in Ch8. |
 | *Virgil* | — | **NPC now.** With Thaddeus and Marion, heading for Underwood with a sample of the blood and a cutting of the green. |
 
 **Travelling with them:** Lady Ysabel Rochefort and her household — Perrin, **Dov** (her Terms man, 3 years left), Symon, Cael, Mina. *(`world_lore/Ysabel's Household.md`.)*
@@ -61,7 +61,7 @@
 | **Vozruk** | Camp on the Castur | No contact for 2.5 months. |
 | **The Patient (Hanne Vetter)** | The holding east of Underwood | Herald of the Tormentors; holds the potter's rib and Sera Oleander's chisel. ~60 women. |
 | **Saraswati** | The Prison Realm | No longer under Dol. |
-| **The old man (the Emperor)** | — | Seen once, at the Inn. Needs a write-up *(Decision 67)*. |
+| **The old man (the Emperor)** | — | Seen by the party once, at the Inn. **Secretly Cassian's warlock patron**, posing to him as **Bishop Osric**, the Emperor's top bishop. Returns in Ch8 §10a. *(`world_lore/The Emperor.md`.)* |
 
 ## Clocks and counters
 

@@ -14,7 +14,7 @@
 
 | # | Decision | Recommendation | Affects |
 |---|---|---|---|
-| 1 | **The apprentice: name, backstory, and his personal stake in Solteres.** | Ask the player for the stake — it's what makes him a character rather than an escort. | Ch8 plan §7 |
+| 1 | **Cassian's personal stake in Solteres.** *(Name and backstory are in — Cassian Zev, `players/Cassian Zev.md`.)* | Ask Channing. If he has none, the wedding gives him one: **a Church officiant blessing a forced marriage** is exactly the thing a devout, certain young man can't let stand — or will defend, which is worse. | Ch8 §3, §7 |
 | 2 | **When is the wedding?** | The party learns the date at the same moment they learn Ysabel is gone — one piece of paper, two pieces of bad news. | Ch8 §3, §8 |
 | 3 | **The groom's name, and the officiating priest.** | Groom: Mercer Thane (suggested). Priest: someone findable, buyable or shameable. Magistrate Belden Roke (in Cobb's Ledger) is a candidate to register it. | Ch8 §3 |
 | 4 | **How hard to run the Church-side risk of showing the brand?** | One encounter, early, so they learn the mark is not a free pass before they need it. | Ch8 §4 |
@@ -23,6 +23,14 @@
 | 7 | **The tracker in Vaskar's crew — a face and a detail** (missing ear tip, a limp) so the party recognises him from Barney's description. | Give him a reason to be bought off. | Ch8 §6, Barney Soot §5 |
 | 9 | **Is Gimble one of Baltus's lambs?** If the first team's file was ever Baltus's, a lamb on his coat is for a gnome who is alive. Also: does Baltus already know Wolfram's name and story? | Decide before Baltus is next on screen — it's the strongest card that NPC holds. | Baltus Thole, Ch7 Record |
 | 10 | **Does Provost Sault already know about Gimble?** | No — him learning a written-off Penitent is alive is a Ch8+ event. | Emeric Sault |
+
+### Cassian Zev — new with the character
+
+| # | Decision | Recommendation | Affects |
+|---|---|---|---|
+| 76 | **The Emperor and Cassian in the same room (Ch8 §10a).** How does he handle a scene where Cassian knows him as "the bishop" and the party knows him as the old man from the Inn? | **Keep the cover, briefly and warmly** ("Brother Zev"), say what he came to say, and leave the contradiction for the party to notice. Never drop the cover here. | Ch8 §10a, The Emperor |
+| 74 | **Who does Cassian report to, and how?** His orders are to observe the party and report back. Baltus? The Office? Letters? | **Letters to Baltus**, carried by Church post. The party seeing one sealed is a good scene; what's *in* them is Channing's to write. Note the tension with Baltus's "don't tell me where" about Rowan. | `players/Cassian Zev.md`, What To Do With Rowan §2 |
+| 75 | **Where did a Church-raised acolyte learn Thieves' Cant and lockwork?** | Ask Channing. If he has no answer: the Office teaches apprentices to find people who don't want to be found, and that means talking to the people who hide them. | `players/Cassian Zev.md` |
 
 ## 👦 Open — Rowan and Elizabeth
 
@@ -104,7 +112,6 @@
 | 64 | **What does Ald do with Erwana, then thirty more?** | Not needed now; needed before the finale. | Ch7 Record |
 | 65 | **The last guard alive at Bramblefen** — where did he go, and does Vaskar know he talked? | Your call. | Ch7 Record |
 | 66 | **Old Cobb's body** — buried? | Leave it, or let Dov have done it. | Ch7 Record, Ysabel's Household |
-| 67 | **The old man at the Inn (the Emperor)** — needs a proper `world_lore/` write-up (motive, why he's unseen, why now) before he reappears. | Arc Plan §7's proposal: an old god starved by his own Church. | Arc Plan §7 |
 | 68 | **First team:** did the crew that dropped them betray them or run? Was the *Hreowan*'s storm the cult's doing? Is Sabin's body unconfirmed? | Leave the storm unasserted. Sabin only if you want an open thread — it breaks "sole survivor". | The First Penitents |
 | 69 | **Did Ignatius open the rift, widen it, or only feel it?** | Check against Underwood's two years. | Elizabeth and the Green |
 | 70 | **The book:** did anything notice them reading it? What does JonLief think of it (player's first refusal)? Does Vasant Panchami happen on screen? | No, for now; yes — a village celebrating it, knowing what it feeds. | What the Party Knows - The Book |
@@ -153,5 +160,12 @@
 | 15 Oct 2026 | Barney Soot details *(was item 8)* | **Using the file's recommendations:** "Sprig", "Mama, look at me", the beam (~40 marks, 11 crosses), his boys as the rooftop route to Rowan, and Pip / Tam / Wick as written. Human boys come to him as Church apprentices (see next row). |
 | 15 Oct 2026 | Childhood and Church orphans | **A child is anyone under 15; at 15 they are on their own. The Church places children in its care into apprenticeships.** Recorded in `world_lore/Doaden - World Rules.md`. |
 | 15 Oct 2026 | Has JonLief read the Working Ledger? | No — he reads it at the start of the next session. |
+| 20 Oct 2026 | The Emperor's nature and goal | **An Old God** who starved the others by building a religion around himself; nearly died in the Apocalypse; humans took the Church in his name; recovering on a trickle for ~1,000 years. **Wants to rise again.** Helps free Saraswati **to check Adephagia.** `world_lore/The Emperor.md`. |
+| 21 Oct 2026 | The Fredric doctrine | The line is the mortal representation of the true Emperor, chosen to carry his will until he returns **born into it**, proven by **immortality**; each Fredric is a candidate until he dies. **Untrue** — Fredric I took an opportunity. The heirs believe in their divinity and **secretly fund life-extension magic** with Church money. "We pray for his return" is the doctrine in plain words. |
+| 20 Oct 2026 | Emperor Fredric *(was item 67)* | **Mortal.** Fredric I took the title in 707 PA and made it hereditary; **Fredric IX** reigns now. Church doctrine: Fredric is the mortal embodiment of the eternal Emperor; almost nobody believes an immortal Emperor existed. This cut the true Emperor's mana further; he hopes to destroy the Fredric line one day. **"May he rise again" is a prayer for Fredric to become immortal.** |
+| 20 Oct 2026 | Why the Emperor hides his name | **He is not strong enough.** First met Cassian alone in a chapel at night during training; gave him prayer beads that sometimes bring guidance; has appeared a couple of times since, unnoticed by anyone else. |
+| 20 Oct 2026 | Why the Emperor chose Cassian | **He sees the potential for greatness in him.** The pact is an investment; he appears and guides Cassian when he needs something done. |
+| 20 Oct 2026 | Cassian's warlock patron *(was item 73)* | **The Emperor — and Cassian doesn't know it.** He appeared to Cassian as the same old man the party met at the Inn, posing as **the Emperor's top bishop**, granted long life for his faith. **Alias: Bishop Osric** ("god-ruler"). Channing is not told. Recorded in `world_lore/The Emperor.md`. |
+| 20 Oct 2026 | The apprentice's name and backstory | **Cassian Zev**, played by Channing; backstory and sheet in `players/`. *(Also confirms Channing played Virgil, so JE plays JonLief.)* |
 | 15 Oct 2026 | The freed ex-guard's name | Harl Crook (was Wendel Crook, clashed with Wendel Kessler). |
 | 15 Oct 2026 | The named Eighteen, Denrick, Party History | Dropped / archived. |

@@ -126,7 +126,9 @@ Four years of war across Doaden, ending in the re-establishment of the Empire.
 
 ### 707 PA — Emperor Fredric, first of his name, is enthroned
 
-The modern bond between Church and Empire is made here: the Emperor is divine, the Church speaks for the divine, and the two have not been meaningfully separable since.
+The modern bond between Church and Empire is made here. Fredric takes the title of Emperor and makes it hereditary, and the Church proclaims his line **chosen by the eternal Emperor to carry his will until his return** — a return that will come **by birth, into this same bloodline**, and be known when an Emperor Fredric **does not die**: the Emperor is divine, the Church speaks for the divine, and the two have not been meaningfully separable since.
+
+> *Ask a priest about the eternal Emperor before Fredric and you'll get a sermon about embodiment. Ask a second time and you'll get a look.*
 
 ---
 
@@ -140,7 +142,7 @@ A Beastmen uprising in the north. Put down inside a month.
 
 ### 1126 PA — Now
 
-Four hundred and sixteen years since the Empire was restored.
+Four hundred and nineteen years since Fredric I. **Emperor Fredric IX** sits the throne. In every village, people pray *may he rise again* — that this Fredric is the one, and will prove it by never dying. *Every Fredric so far has died.*
 
 ---
 
@@ -151,9 +153,9 @@ Four gaps, all of them on the Church's own list, all of them noticeable to anyon
 1. **Nothing before Year 0.** Not one date, not one name.
 2. **Three hundred years** between the Church's re-founding and its first named High Bishop.
 3. **Two hundred years** between Eadgar I and Dunstan I with no High Bishop named at all.
-4. **The Emperor.** Every village from here to the Shattered Coast prays *may he rise again.* Every one of them believes he is coming back. **The Church's official chronology gives no date for when he left, and does not mention that he is gone.**
+4. **The eternal Emperor.** The Church teaches that the Fredric line was chosen by the eternal Emperor to carry his will until he is born again among them, and every village prays *may he rise again.* **But the chronology never names the eternal Emperor, never says when he was last seen as anything but a Fredric, and has no Emperor on it at all before 707.** Almost nobody in the Church believes there ever was one.
 
-That fourth one is the strangest. It is the single most important fact about the Empire you live in, and it is not on the list.
+That fourth one is the strangest. A faith built on an eternal Emperor, and not one line about him on its own list.
 
 ---
 ---

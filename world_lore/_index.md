@@ -52,6 +52,7 @@
 | File | Covers | Status |
 |---|---|---|
 | `Solteres.md` | The city; Stock vs Terms; **Ysabel** (slaveholder, run her reasonable) and **Ironwake**; Maelis and the marriage. | Settled |
+| `Solteres - Places.md` | **20 places in the city** — read-aloud, who's there, what can happen — for Ch8 and Ch10: toll bridge, Vaskar's rented house, rooftops, his meeting place, Barney's shop, Ysabel's townhouse, dress house and mill, the Assize House, the wedding, House Dunmoor, the cathedral, St. Wystan's, the tavern, the auction yard, customs wharf, carter's yard, the counting house, Corbin's studio, the Wash. | Settled where linked · new names are proposals |
 | `Ysabel's Household.md` | Perrin, Dov, Symon, Cael, Mina; Dov's Terms story. | Canon |
 | `Barney Soot.md` | The sweep who bought Rowan; takes Church apprentices as well as Bramblefen boys. | Settled |
 | `What To Do With Rowan.md` | Guardianship options once the boy is back; Ald's Star with Anselm recommended. | Proposal |

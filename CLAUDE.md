@@ -28,6 +28,7 @@ This project lives in a **git repository** (`git/Doaden`, branch `main`, remote 
 - `processed_campaigns/` — **the published-module library. Not canon.** Summaries of purchased/homebrew adventures Michael pulls ideas and stat blocks from; most will never be used. **Ignore it unless the task is about a module — see the rule under Lookup Order.** How to use, search and maintain it is in `processed_campaigns/README.md`.
 - `raw_campaigns/` — the source PDFs behind that library. **Read-only, git-ignored**, primary machine only.
 - **Known junk, safe to ignore or delete:** `_to_delete/` (stale git locks), `sessions/.fuse_hidden0000000a00000001`, `processed_campaigns/_writetest.txt`.
+- `podcast/` — **DM-only prep podcasts. Not canon** — hosts speculate. **Never use an episode as a source**; exclude it from searches like `_archive/`. An idea from an episode becomes canon only when Michael adopts it into the real files. See `podcast/README.md`.
 - `_archive/` — superseded files kept for the DM's reference only (old prep, per-session logs, retired handouts and NPCs). **Ignore it — see the Archived Files rule under Lookup Order.** Contents listed in `_archive/README.md`.
 
 ## Lookup Order (always follow this)

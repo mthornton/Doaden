@@ -205,8 +205,9 @@ So the plan is:
 | Step | What they find |
 |---|---|
 | **The Working Ledger** | A name, a trade, a city. **Barney Soot, chimney sweep.**  ✅ **JonLief has NOT read it yet — he reads it at the start of the next session** *(DM, 15 Oct 2026)*. **Full NPC: `world_lore/Barney Soot.md`** — a poor, stern, resigned sweep, **not tied to Ironwake.** |
-| **Finding Soot** | Not hard. Sweeps are licensed, known, and work the wealthy quarter. Half a day's asking. |
+| **Finding Soot** | Not hard. Sweeps are licensed, known, and work the wealthy quarter. Half a day's asking. ⭐ **By day the shop is empty** — the sweeps are out working. **They have to come back at dark.** *(DM, 21 Oct 2026.)* |
 | **⚠️ Soot's shop** | **They are late.** Men came, put coin on the table, and took the boy. Soot is alive, frightened, and *bitter* — and, ⚠️ **he liked Rowan.** A quiet boy who did what he was told and did not complain, in a trade that chews through children. **He is not a villain and he is not relieved.** He is a small man who was robbed and misses the kid. |
+| ⭐ **Tam** | **In the evening, Tam is missing** — up a chimney at the empty Marlowe house since morning. **IF the party delays the hunt for Rowan to go after him**, it's a winnable fight (an otyugh) and **Barney and his boys join the search for Rowan.** Tam may even have seen Rowan at a shutter on Lantern Row. *(`world_lore/Solteres - Places.md`, Side fight C.)* |
 | **What Soot gives them** | A description of the men. A heavy older man who did the talking and never raised his voice. **The party will know exactly who that is.** |
 | **The handover** | ✅ **He was forced to sell — for less than he paid.** Men he could not refuse put coin on his table and took the boy, and the coin was an insult. **That is robbery with a receipt**, and it is exactly how Ironwake's people do business. |
 
@@ -348,7 +349,7 @@ He cannot win and he knows it. **What he has left to sell is where the barrels w
 
 **He finds Luthien, not the other way round.** With the trial cancelled, the Arc Plan's "sketching at the trial" entrance is gone, and the better version was always this:
 
-> Luthien plays — in a taproom, a street, a courtyard, wherever the party ends up. **Somebody two rooms away stops working, puts down a brush, and comes to find out who is doing that.**
+> Luthien plays — ⭐ **at the Gilded Hook's singing contest, first prize 10 gp** *(`world_lore/Solteres - Places.md` §14)*, or wherever the party ends up. **Somebody two rooms away stops working, puts down a brush, and comes to find out who is doing that.**
 
 **That makes the guitar the cause rather than a coincidence**, and it means the cosmic plot walks up to the party because of something a player chose to do.
 
@@ -485,6 +486,8 @@ Arrival and Ysabel vouching them in. Gimble learning what he is here. Barney Soo
 
 **Session 2 — the turn, the book, and the bodies.**
 Ysabel gone, and a date on a piece of paper. The party cut off from every door her name opened, falling back on the brand and finding out what that costs. **That night, the Emperor** *(§10a)* — the shears, what they are, what the wedding does to Maelis, and a painter worth finding. **Then Vaskar names a place and asks for a book they had forgotten they were carrying.**
+
+**Optional side fights** — four winnable fights off to the side of the story, for when the table needs to roll dice: the catchers in the Wash, the sore loser after the singing contest, **Tam and the otyugh** (the one that matters), and festival day at the Coliseum *(`world_lore/Solteres - Places.md`, Side fights A–D)*.
 
 **Four things are on the table and they are separable:**
 

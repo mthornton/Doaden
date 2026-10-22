@@ -149,7 +149,7 @@ He does not keep their names. **He keeps the count**, and he could not tell you 
 | | |
 |---|---|
 | **Pip** | Human, about eleven, and ⚠️ **too big.** He got stuck in a flue last week and Barney had to pull him out by the ankles. **He is going out the door this month and he knows it.** He is quietly terrified and very helpful to strangers, in case one of them needs a boy. |
-| **Tam** | Gnome — ⚠️ *or another non-human of your choice* — about seven. Coughs like Barney. Will not live to be put out, and everyone in the shop knows it except Tam. |
+| **Tam** | Gnome — ⚠️ *or another non-human of your choice* — about seven. Coughs like Barney. Will not live to be put out, and everyone in the shop knows it except Tam. ⭐ **The day the party comes, Tam goes up a chimney at the Marlowe house and doesn't come down** — see below. |
 | **Wick** | Halfling, about six, newest. Bought from Bramblefen two months ago in the same lot season as Rowan. **Was Rowan's friend.** ⚠️ **Wick is the one who will talk to the party**, because nobody has told him not to. |
 
 > **These three are the moral price of Barney, and the party will notice.** Branded non-humans looking at three non-human children who will be put on the street, or buried, by a man who means no harm. **Do not ask the party to fix it. Let them decide whether to.**
@@ -194,6 +194,8 @@ He does not keep their names. **He keeps the count**, and he could not tell you 
 **IF JonLief tells him who he is** — Barney goes very still and takes his cap off. He does not apologise, because he does not think he did anything to apologise for. He says *"He was a good climber,"* which is the highest praise he has.
 
 **IF the party offers to take the boys** — he sells. He haggles. **He is relieved about Tam and does not say so.**
+
+**⭐ Tam is missing** *(DM, 21 Oct 2026)*. **By day the shop is empty** — Barney and the boys are out working. **When the party comes back in the evening**, Barney tells them everything above, and that **Tam went up a chimney at the empty Marlowe house today and never came back down.** He doesn't know what's in there. He is heartbroken, and he's already counting: **another cross on the beam.** He won't ask for help. **IF the party goes after Tam and brings him back — Barney and all his boys join the search for Rowan**, for the boy they liked and for the debt. Full encounter: `Solteres - Places.md`, **Side fight C** (an otyugh in the flooded cellar; Tam is rescuable).
 
 **IF they do nothing** — Pip is on the street before the chapter ends. Let somebody see him there.
 
